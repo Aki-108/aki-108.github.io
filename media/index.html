@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<title id="title">Media</title>
+		<link rel="shortcut icon" type="image" href="https://64.media.tumblr.com/4f813b56fb51059359e859b2096218f7/94b15482565b3989-40/s250x400/d43c19dd70f554c70f9daf3556b24003dac84c37.png">	  <link rel="stylesheet" href="style.css">
+  </head>
+	
+	<body>
+	    <sidebar>
+	        <div id="sidebarcontent">
+	            <div id="thetitle">
+	                Movies
+	                <br>
+	                Series
+	                <br>
+	                Books
+	            </div>
+                <div id="subtitle">
+                    <a title="I started this list on the 30th of July 2015">
+                        2015-2020
+                    </a>
+                </div>
+                
+                <div id="searchTools">
+                    <input type="text" id="searchBox" placeholder="search here" onkeyup="typing()" title="separate terms with comma"/>
+                    <br>
+                    <button id="statsButton" onclick="statsButton()" title="statistics of current search">
+                        stats
+                    </button>
+                    <button id="recommendButton" onclick="recsButton()" title="recommendations of current search">
+                        recs
+                    </button>
+                    <button id="clearButton" onclick="clearSearch()" title="clear search">
+                        clear
+                    </button>
+                    <div id="resultCount"></div>
+                    <div id="suggestionsOuter">
+                        <div id="suggestions"></div>
+                    </div>
+                </div>
+                
+                <div id="searchCheck">
+                    <input type="radio" id="searchAdd" name="addSub" onclick="search()"/>
+                    <label for="searchAdd" title="any search term matches">
+                        union set
+                    </label>
+                    <input type="radio" id="searchSub" name="addSub" onclick="search()" checked/>
+                    <label for="searchSub" title="all search terms match">
+                        cut set
+                    </label>
+                    <p>
+                        search in
+                    </p>
+                    <input type="checkbox" id="checkMovies" checked onclick="search()"/>
+                    <label for="checkMovies">
+                        movies & shorts
+                    </label>
+                    <br>
+                    <input type="checkbox" id="checkSeries" checked onclick="search()"/>
+                    <label for="checkSeries">
+                        series
+                    </label>
+                    <br>
+                    <input type="checkbox" id="checkBooks" checked onclick="search()"/>
+                    <label for="checkBooks">
+                        books & audiobooks
+                    </label>
+                    <br>
+                    <input type="checkbox" id="checkTitle" checked onclick="search()"/>
+                    <label for="checkTitle">
+                        title
+                    </label>
+                    <br>
+                    <input type="checkbox" id="checkDate" checked onclick="search()"/>
+                    <label for="checkDate" title="(MMM YYYY)">
+                        watch date
+                    </label>
+                    <br>
+                    <input type="checkbox" id="checkRating" checked onclick="search()"/>
+                    <label for="checkRating" title="(0 - 10)">
+                        rating
+                    </label>
+                    <br>
+                    <input type="checkbox" id="checkInfo" checked onclick="search()"/>
+                    <label for="checkInfo" title="year, genre, director, author">
+                        item info
+                    </label>
+                    <br>
+                    <input type="checkbox" id="checkActors" checked onclick="search()"/>
+                    <label for="checkActors">
+                        actors
+                    </label>
+                    <br>
+                    <input type="checkbox" id="checkTags" checked onclick="search()"/>
+                    <label for="checkTags">
+                        tags
+                    </label>
+                </div>
+                
+                <div id="sortRadio">
+                    <p>
+                        order by
+                    </p>
+                    <input type="checkbox" id="sortInvert" onclick="sort()" checked/>
+                    <label for="sortInvert">
+                        invert order
+                    </label>
+                    <br>
+                    <input type="radio" name="sort" id="radioDateFirst" onclick="sort()"/>
+                    <label for="radioDateFirst" title="oldest to newest">
+                        first watch
+                    </label>
+                    <br>
+                    <input type="radio" name="sort" id="radioDateLast" onclick="sort()" checked/>
+                    <label for="radioDateLast" title="oldest to newest">
+                        last watch
+                    </label>
+                    <br>
+                    <input type="radio" name="sort" id="radioRating" onclick="sort()"/>
+                    <label for="radioRating" title="lowest to highest">
+                        rating
+                    </label>
+                    <br>
+                    <input type="radio" name="sort" id="radioTitle" onclick="sort()"/>
+                    <label for="radioTitle" title="A to Z">
+                        title
+                    </label>
+                    <br>
+                    <input type="radio" name="sort" id="radioCount" onclick="sort()"/>
+                    <label for="radioCount" title="lowest to highest">
+                        watch count
+                    </label>
+                    <br>
+                    <input type="radio" name="sort" id="radioYear" onclick="sort()"/>
+                    <label for="radioYear" title="oldest to newest">
+                        year
+                    </label>
+                    <br>
+                    <input type="radio" name="sort" id="radioTyp" onclick="sort()"/>
+                    <label for="radioTyp" title="books, movies, series, shorts">
+                        typ
+                    </label>
+                </div>
+                
+                <div id="languageSelect">
+                    <input type="radio" name="language" id="radioEnglish" onclick="search()"/>
+                    <label for="radioEnglish">
+                        English
+                    </label>
+                    <br>
+                    <input type="radio" name="language" id="radioGerman" checked onclick="search()"/>
+                    <label for="radioGerman">
+                        German
+                    </label>
+                </div>
+	        </div>
+	    </sidebar>
+	    <main-frame></main-frame>
+	</body>
+	
+	<script>
+	</script>
+</html>
