@@ -119,7 +119,9 @@ if (window.location.host == "aki108.tumblr.com") {
 
 document.addEventListener("wheel", loadmore);
 
-search(); /* start displaying */
+document.addEventListener("load", search);
+
+//search(); /* start displaying */
 
 /* wait some time to finish typing a search query before running search function */
 function typing() {
