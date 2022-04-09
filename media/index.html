@@ -21,19 +21,23 @@
 	            </div>
                 <div id="subtitle">
                     <a title="I started this list on the 30th of July 2015">
-                        2015-2020
+                        2015-2022
                     </a>
                 </div>
                 
                 <div id="searchTools">
-                    <input type="text" id="searchBox" placeholder="search here" onkeyup="typing()" title="separate terms with comma"/>
+                    <input type="text" id="searchBox" placeholder="search here" onkeyup="typing()" onclick="displaySuggestions()" title="separate terms with comma"/>
                     <br>
-                    <button id="statsButton" onclick="statsButton()" title="statistics of current search">
-                        stats
-                    </button>
-                    <button id="recommendButton" onclick="recsButton()" title="recommendations of current search">
-                        recs
-                    </button>
+                    <select name="more" id="selectMore" onchange="selectTrigger()">
+                        <option value="more" disabled selected style="display:none;">more...</option>
+                        <option value="covers">covers</option>
+                        <option value="stats" title="statistics of current search">statistics</option>
+							 
+							 
+                        <option value="recs" title="recommendations of current search">recommendations</option>
+                        <option value="comp">compare tags</option>
+                        <option value="save">save search in URL</option>
+                    </select>
                     <button id="clearButton" onclick="clearSearch()" title="clear search">
                         clear
                     </button>
@@ -55,50 +59,52 @@
                     <p>
                         search in
                     </p>
-                    <input type="checkbox" id="checkMovies" checked onclick="search()"/>
+                    <input type="checkbox" id="checkMovies" checked onclick="search()" ondblclick="allButThis(this, 'type')"/>
                     <label for="checkMovies">
                         movies & shorts
                     </label>
                     <br>
-                    <input type="checkbox" id="checkSeries" checked onclick="search()"/>
+                    <input type="checkbox" id="checkSeries" checked onclick="search()" ondblclick="allButThis(this, 'type')"/>
                     <label for="checkSeries">
                         series
                     </label>
                     <br>
-                    <input type="checkbox" id="checkBooks" checked onclick="search()"/>
+                    <input type="checkbox" id="checkBooks" checked onclick="search()" ondblclick="allButThis(this, 'type')"/>
                     <label for="checkBooks">
                         books & audiobooks
                     </label>
                     <br>
-                    <input type="checkbox" id="checkTitle" checked onclick="search()"/>
+                    <div style="height: 0; width: 160px; border-bottom: 1px #808080 solid; margin-left: 4px; padding-top: 1px"></div>
+                    <input type="checkbox" id="checkTitle" checked onclick="search()" ondblclick="allButThis(this, 'cat')"/>
                     <label for="checkTitle">
                         title
                     </label>
                     <br>
-                    <input type="checkbox" id="checkDate" checked onclick="search()"/>
+                    <input type="checkbox" id="checkDate" checked onclick="search()" ondblclick="allButThis(this, 'cat')"/>
                     <label for="checkDate" title="(MMM YYYY)">
                         watch date
                     </label>
                     <br>
-                    <input type="checkbox" id="checkRating" checked onclick="search()"/>
+                    <input type="checkbox" id="checkRating" checked onclick="search()" ondblclick="allButThis(this, 'cat')"/>
                     <label for="checkRating" title="(0 - 10)">
                         rating
                     </label>
                     <br>
-                    <input type="checkbox" id="checkInfo" checked onclick="search()"/>
-                    <label for="checkInfo" title="year, genre, director, author">
-                        item info
-                    </label>
-                    <br>
-                    <input type="checkbox" id="checkActors" checked onclick="search()"/>
+                    <input type="checkbox" id="checkActors" checked onclick="search()" ondblclick="allButThis(this, 'cat')"/>																	
                     <label for="checkActors">
                         actors
                     </label>
                     <br>
-                    <input type="checkbox" id="checkTags" checked onclick="search()"/>
-                    <label for="checkTags">
-                        tags
+                    <input type="checkbox" id="checkInfo" checked onclick="search()" ondblclick="allButThis(this, 'cat')"/>
+                    <label for="checkInfo">
+                        year, genre, creator
                     </label>
+                    <br>
+                    <input type="checkbox" id="checkTags" checked onclick="search()" ondblclick="allButThis(this, 'cat')"/>
+                    <label for="checkTags">
+                        tags, language
+                    </label>
+                    <button id="checkAll" onclick="checkAll()">all</button>
                 </div>
                 
                 <div id="sortRadio">
