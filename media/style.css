@@ -15,6 +15,23 @@ input[type=radio] {
 	cursor: pointer;
 }
 
+#checkAll {
+	float: right;
+	padding: 0 3px;
+	margin: 2px 1.5px;
+	border: #f0f0f0 1px solid;
+	background-color: #0f0f0f;
+	color: #f0f0f0;
+	cursor: pointer;
+	font-family: Consolas;
+	font-size: 10px;
+}
+
+#checkAll:hover {
+	background-color: #f0f0f0;
+	color: #0f0f0f;
+}
+
 sidebar {
 	width: 100%; 
 	height: 100%; 
@@ -61,13 +78,19 @@ sidebar {
 
 #statsButton,
 #recommendButton,
-#clearButton {
-	width: 51px;
+#clearButton,
+#selectMore {
+	width: 78px;
 	background: white;
 	border: none;
 	display: inline;
 	margin: 0 2px;
 	padding: 0;
+	height: 18px;
+}
+
+#selectMore {
+	margin: 1px 2px;
 }
 
 #statsButton:hover,
@@ -94,7 +117,7 @@ sidebar {
 
 #suggestions {
 	color: white;
-	height: 57px;
+	height: 56px;
 	text-align: left;
 	font-size: 10px;
 	margin: 5px;
@@ -163,6 +186,7 @@ sidebar {
 
 main-frame {
 	height: auto;
+	overflow: auto;
 }
 
 .entry {
@@ -216,6 +240,7 @@ img {
 	width: 25px;
 	height: 25px;
 	padding: 5px;
+	cursor: pointer;
 	transition: all 0.5s;
 }
 
@@ -305,12 +330,18 @@ img {
 	height: auto;
 	font-size: 15px;
 	margin: 5px;
+	z-index: 3;
 	display: flow-root;
 }
 
 .infoItem a {
 	display: block;
 	margin: 0 2px;
+	cursor: pointer;
+}
+
+.infoItem a:hover {
+	color: #f0f0f0;
 }
 
 .infoSubitem {
@@ -326,6 +357,7 @@ img {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	float: left;
+	z-index: 3;
 }
 
 .infoSubitem:hover {
@@ -338,10 +370,10 @@ img {
 	position: absolute;
 	bottom: 0;
 	z-index: 2;
-	background: #0f0f0f;
 }
 
 .title {
+	background-color: #0f0f0f;
 	width: 210px;
 	text-align: center;
 	color: white;
@@ -350,9 +382,7 @@ img {
 	font-size: 18px;
 	letter-spacing: -1px;
 	margin-top: 5px;
-	padding-top: 12px;
-	padding-bottom: 14px;
-	padding-left: 20px;
+	padding: 16px 20px 14px 20px;
 	-webkit-transition-duration: 0.5s;
 	-moz-transition-duration: 0.5s;
 	transition-duration: 0.5s;
@@ -365,6 +395,28 @@ img {
 
 .entry:hover .coverImage {
 	transform: scale(105%);
+}
+
+.foundIn {
+	height: auto;
+	width: max-content;
+	max-width: 210px;
+	margin: auto;
+	border-radius: 5px;
+	background-color: #0f0f0f;
+	color: #808080;
+	font-family: Calibri;
+	text-align: center;
+	padding: 0 5px;
+	overflow: hidden;
+	opacity: 1;
+	-webkit-transition-duration: 0.5s;
+	-moz-transition-duration: 0.5s;
+	transition-duration: 0.5s;
+}
+
+.entry:hover .foundIn {
+	opacity: 0;
 }
 
 .dropped {
@@ -409,10 +461,12 @@ img {
 	color: gray;
 	font-size: 13px;
 	cursor: pointer;
+	transition: all 0.2s;
 }
 
 .creator:hover {
-	font-weight: bold;
+	padding-left: 0.5px;
+	letter-spacing: 1px;
 }
 
 .year {
@@ -424,10 +478,12 @@ img {
 	text-align: center;
 	font-size: 15px;
 	cursor: pointer;
+	transition: all 0.2s;
 }
 
 .year:hover {
-	font-weight: bold;
+	padding-left: 1px;
+	letter-spacing: 2px;
 }
 
 .star {
@@ -435,11 +491,34 @@ img {
 	height: 15px;
 	display: inline-block;
 	padding: 0 1px;
+	transition: padding 0.2s;
+}
+
+.rating {
+	cursor: pointer;
+}
+
+.rating:hover {
+	font-weight: bold;
+}
+
+.rating:hover .star {
+	padding: 0 2px;
 }
 
 .date {
 	font-size: 11px;
 	letter-spacing: -0.5px;
+}
+
+.dateDiv {
+	display: inline;
+}
+
+.hoverDate {
+	background-color: #f0f0f0;
+	color: #0f0f0f;
+	cursor: pointer;
 }
 
 .loadMoreTitle {
@@ -458,7 +537,7 @@ img {
 }
 
 .loadMoreTitle:hover {
-	 text-shadow: 0 0 1px white;
+	text-shadow: 0 0 1px white;
 }
 
 .loadMoreLoading {
@@ -507,7 +586,7 @@ a {
 }
 
 .graphFrame {
-	width: 500px;
+	width: 620px;
 	background: #0f0f0f;
 	margin: 10px;
 	padding: 20px;
@@ -522,6 +601,11 @@ a {
 	border: 1px #f0f0f0 solid;
 	color: #f0f0f0;
 	font-family: 'Consolas';
+	cursor: pointer;
+}
+
+.graphBar:hover {
+	text-shadow: 0 0 2px white;
 }
 
 .graphFilm {
@@ -549,14 +633,6 @@ a {
 	border: 1px #88ecac solid;
 }
 
-.graphFilm:hover,
-.graphShort:hover,
-.graphSeries:hover,
-.graphBook:hover,
-.graphAudiobook:hover {
-	/*border: 1px #0f0f0f solid;*/
-}
-
 .graphBar2 {
 	height: 5px;
 	display: inline-block;
@@ -575,13 +651,23 @@ a {
 	margin: 0 5px;
 }
 
-.graphTitle {
+.graphTitle, .graphTitleDay {
 	width: 50px;
 	height: 5px;
 	display: inline-block;
 	color: #f0f0f0;
 	font-family: "Consolas";
 	font-size: 10px;
+	cursor: pointer;
+}
+
+.graphTitle:hover,
+.graphTitleDay:hover {
+	text-shadow: 0 0 2px white;
+}
+
+.graphTitleDay {
+	width: 70px;
 }
 
 .graphHeading {
@@ -589,4 +675,72 @@ a {
 	font-family: "Consolas";
 	width: 100%;
 	text-align: center;
+}
+
+.compareFrame {
+	border: 30px white solid;
+	border-bottom: 0;
+	background-color: #0f0f0f;
+	padding: 20px;
+}
+
+.compareSelect {
+	display: none;
+	margin: auto;
+}
+
+.compareButton {
+	position: absolute;
+	left: 50%;
+	margin-left: 50px;
+	width: 100px;
+	border: 1px #f0f0f0 solid;
+	background-color: #0f0f0f;
+	color: #f0f0f0;
+	height: 21px;
+	cursor: pointer;
+}
+
+.compareButton:hover {
+	color: #0f0f0f;
+	background-color: #f0f0f0;
+}
+
+.compareLeft {
+	float: left;
+}
+
+.compareRight {
+	float: right;
+}
+
+.compareGraph {
+	height: 38px;
+	border: 1px #f0f0f0 solid;
+	margin-top: 30px;
+}
+
+.compareGraphOne,
+.compareGraphTwo,
+.compareGraphBoth {
+	height: 100%;
+	display: inline-block;
+	text-align: center;
+	font-family: Consolas;
+	overflow: visible;
+}
+
+.compareGraphOne {
+	background-color: #b0b0b0;
+	color: #4f4f4f;
+}
+
+.compareGraphTwo {
+	background-color: #4f4f4f;
+	color: #f0f0f0;
+}
+
+.compareGraphBoth {
+	background-color: #808080;
+	color: #fff;
 }
