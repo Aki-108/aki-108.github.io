@@ -1580,7 +1580,7 @@ var database = [
 
 ["series", ["One Punch Man"], "2015", [["2015 09 20", "2015 12 20", "S1"]], 8, ["jap"], ["anime", "action"], [], [], ["Mike McFarland", "One", "Tomohiro Suzuki"], [], "https://64.media.tumblr.com/3870f2fafbd87c0b787641fbeeaa6ebc/93576afc0500227c-dc/s250x400/2c2e8a4dfd303b2a6df6ad5cd17c38a3445c9545.jpg"],
 
-["series", ["Nichijou: My Ordinary Life", "Nichijou"], "2011", [["2013 12 27", "2015 02 01", "S1"], ["2017 08 02", "2017 10 02", "S1E1-S1E8"], ["2020 11 18", "2020 11 24", "S1E9-S1E26"], ["2022 02 23", "", "S1"]], 10, ["jap"], ["anime", "comedy"], ["bini", "jani", "jessie", "nico"], ["fav", "watching"], ["Keiichi Arai", "Jukki Hanada", "Katsuhiko Muramoto"], [], "https://64.media.tumblr.com/fe21469e3477f89e8b85a683bc38ff38/7d30ed1865b4e8e5-d4/s250x400/492525bb7c4103ea6894612c5c0f73e8a6ec95a3.jpg"],
+["series", ["Nichijou: My Ordinary Life", "Nichijou"], "2011", [["2013 12 27", "2015 02 01", "S1"], ["2017 08 02", "2017 10 02", "S1E1-S1E8"], ["2020 11 18", "2020 11 24", "S1E9-S1E26"], ["2022 02 23", "2022 04 13", "S1"]], 10, ["jap"], ["anime", "comedy"], ["bini", "jani", "jessie", "nico"], ["fav"], ["Keiichi Arai", "Jukki Hanada", "Katsuhiko Muramoto"], [], "https://64.media.tumblr.com/fe21469e3477f89e8b85a683bc38ff38/7d30ed1865b4e8e5-d4/s250x400/492525bb7c4103ea6894612c5c0f73e8a6ec95a3.jpg"],
 
 ["series", ["Hori-san to Miyamura-kun"], ["2012", "2018"], [["2015 07 12", "S1E1-S1E3"], ["2020 11 16", "S1E4"]], 10, ["jap"], ["anime"], [], [], ["Shingo Natsume", "Erukin Kawabata", "Tetsuo Hirakawa", "Kazuya Aiura"], [], "https://64.media.tumblr.com/a63f24baf4a10788b522ac82e1f0decf/58b8ce4c7e33aac4-22/s250x400/b0dedd1a547ad15b09c4197cb48d90e8b8a897f6.jpg"],
 
