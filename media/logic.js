@@ -42,86 +42,86 @@ var idImage = 11;
 var idResults = 12;
 
 
-if (window.location.host == "aki-108.github.io") {
-    let url = window.location.search.substring(1);
-    let q = "";
-    let s = "covers";
-    let searchSet = "cut";
-    let options = "111111111";
-    let order = "11";
-    let lang = "ger";
-    
-    if (url.search("q=") > -1) {
-        q = url.substring(url.search("q=")+2);
-        if (q.search("&") > -1) {
-            q = q.substring(0, q.search("&"));
-        }
-    }
-    q = q.replaceAll("%20", " ");
-    q = q.replaceAll("%22", "\"");
-    document.getElementById("searchBox").value = q;
-    
-    if (url.search("s=") > -1) {
-        s = url.substring(url.search("s=")+2);
-        if (s.search("&") > -1) {
-            s = s.substring(0, s.search("&"));
-        }
-    }
-    screen = s;
-    
-    if (url.search("set=") > -1) {
-        searchSet = url.substring(url.search("set=")+4);
-        if (searchSet.search("&") > -1) {
-            searchSet = searchSet.substring(0, searchSet.search("&"));
-        }
-        if (searchSet === "union") document.getElementById("searchAdd").checked = true;
-    }
-    
-    if (url.search("i=") > -1) {
-        options = url.substring(url.search("i=")+2);
-        if (options.search("&") > -1) {
-            options = options.substring(0, options.search("&"));
-        }
-        document.getElementById("checkMovies").checked = options[0] === "1";
-        document.getElementById("checkSeries").checked = options[1] === "1";
-        document.getElementById("checkBooks").checked = options[2] === "1";
-        document.getElementById("checkTitle").checked = options[3] === "1";
-        document.getElementById("checkDate").checked = options[4] === "1";
-        document.getElementById("checkRating").checked = options[5] === "1";
-        document.getElementById("checkInfo").checked = options[6] === "1";
-        document.getElementById("checkActors").checked = options[7] === "1";
-        document.getElementById("checkTags").checked = options[8] === "1";
-    }
-    
-    if (url.search("b=") > -1) {
-        order = url.substring(url.search("b=")+2);
-        if (order.search("&") > -1) {
-            order = order.substring(0, order.search("&"));
-        }
-        document.getElementById("sortInvert").checked = order[0] !== "0";
-        document.getElementById("radioDateFirst").checked = order[1] === "0";
-        document.getElementById("radioDateLast").checked = order[1] === "1";
-        document.getElementById("radioRating").checked = order[1] === "2";
-        document.getElementById("radioTitle").checked = order[1] === "3";
-        document.getElementById("radioCount").checked = order[1] === "4";
-        document.getElementById("radioYear").checked = order[1] === "5";
-        document.getElementById("radioTyp").checked = order[1] === "6";
-    }
-    
-    if (url.search("l=") > -1) {
-        lang = url.substring(url.search("l=")+2);
-        if (lang.search("&") > -1) {
-            lang = lang.substring(0, lang.search("&"));
-        }
-        document.getElementById("radioEnglish").checked = lang === "eng";
-    }
+function init() {
+	if (window.location.host == "aki-108.github.io") {
+	    let url = window.location.search.substring(1);
+	    let q = "";
+	    let s = "covers";
+	    let searchSet = "cut";
+	    let options = "111111111";
+	    let order = "11";
+	    let lang = "ger";
+
+	    if (url.search("q=") > -1) {
+		q = url.substring(url.search("q=")+2);
+		if (q.search("&") > -1) {
+		    q = q.substring(0, q.search("&"));
+		}
+	    }
+	    q = q.replaceAll("%20", " ");
+	    q = q.replaceAll("%22", "\"");
+	    document.getElementById("searchBox").value = q;
+
+	    if (url.search("s=") > -1) {
+		s = url.substring(url.search("s=")+2);
+		if (s.search("&") > -1) {
+		    s = s.substring(0, s.search("&"));
+		}
+	    }
+	    screen = s;
+
+	    if (url.search("set=") > -1) {
+		searchSet = url.substring(url.search("set=")+4);
+		if (searchSet.search("&") > -1) {
+		    searchSet = searchSet.substring(0, searchSet.search("&"));
+		}
+		if (searchSet === "union") document.getElementById("searchAdd").checked = true;
+	    }
+
+	    if (url.search("i=") > -1) {
+		options = url.substring(url.search("i=")+2);
+		if (options.search("&") > -1) {
+		    options = options.substring(0, options.search("&"));
+		}
+		document.getElementById("checkMovies").checked = options[0] === "1";
+		document.getElementById("checkSeries").checked = options[1] === "1";
+		document.getElementById("checkBooks").checked = options[2] === "1";
+		document.getElementById("checkTitle").checked = options[3] === "1";
+		document.getElementById("checkDate").checked = options[4] === "1";
+		document.getElementById("checkRating").checked = options[5] === "1";
+		document.getElementById("checkInfo").checked = options[6] === "1";
+		document.getElementById("checkActors").checked = options[7] === "1";
+		document.getElementById("checkTags").checked = options[8] === "1";
+	    }
+
+	    if (url.search("b=") > -1) {
+		order = url.substring(url.search("b=")+2);
+		if (order.search("&") > -1) {
+		    order = order.substring(0, order.search("&"));
+		}
+		document.getElementById("sortInvert").checked = order[0] !== "0";
+		document.getElementById("radioDateFirst").checked = order[1] === "0";
+		document.getElementById("radioDateLast").checked = order[1] === "1";
+		document.getElementById("radioRating").checked = order[1] === "2";
+		document.getElementById("radioTitle").checked = order[1] === "3";
+		document.getElementById("radioCount").checked = order[1] === "4";
+		document.getElementById("radioYear").checked = order[1] === "5";
+		document.getElementById("radioTyp").checked = order[1] === "6";
+	    }
+
+	    if (url.search("l=") > -1) {
+		lang = url.substring(url.search("l=")+2);
+		if (lang.search("&") > -1) {
+		    lang = lang.substring(0, lang.search("&"));
+		}
+		document.getElementById("radioEnglish").checked = lang === "eng";
+	    }
+	}
+
+	document.addEventListener("wheel", loadmore);
+
+	search(); /* start displaying */
 }
-
-document.addEventListener("wheel", loadmore);
-
-document.addEventListener("load", function(){console.log("loaded");});
-
-//search(); /* start displaying */
 
 /* wait some time to finish typing a search query before running search function */
 function typing() {
