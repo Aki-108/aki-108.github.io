@@ -42,7 +42,7 @@ var idImage = 11;
 var idResults = 12;
 
 
-if (window.location.host == "aki108.tumblr.com") {
+if (window.location.host == "aki-108.github.io") {
     let url = window.location.search.substring(1);
     let q = "";
     let s = "covers";
@@ -1433,7 +1433,7 @@ function selectTrigger() {
 }
 
 function selectSave() {
-    let url = "https://aki108.tumblr.com/media?";
+    let url = "https://aki-108.github.io/media?";
     
     //save search terms
     let q = "q=" + get("searchBox").value;
