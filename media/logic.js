@@ -119,7 +119,7 @@ if (window.location.host == "aki-108.github.io") {
 
 document.addEventListener("wheel", loadmore);
 
-document.addEventListener("load", search);
+document.addEventListener("load", function(){console.log("loaded");});
 
 //search(); /* start displaying */
 
