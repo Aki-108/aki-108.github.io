@@ -2187,9 +2187,11 @@ var database = [
 
 ["film", ["The Starving Games", "Die Pute von Panem - The Starving Games"], "2013", ["2022 04 09"], 2, ["eng"], ["comedy"], [], [], ["Jason Friedberg", "Aaron Seltzer"], ["Cody Christian", "Brant Daugherty"], "https://64.media.tumblr.com/c6a4afce86622cdd9b5849823e9b6d09/4ee34e3471ae2367-44/s250x400/f19d2ed7a5e3834a1a2f8675851fd49bb9ce3d6b.jpg"],
 
-["film", ["Barbie Diaries", "Das Barbie Tagebuch"], "2006", ["2022 04 09"], 3, ["ger"], ["animation", "family"], ["bini"], [], ["Eric Fogel"], [], "https://64.media.tumblr.com/3ada6b37ebc16bdc160f5dad874cf05d/3eb84b4db0ab9e1e-32/s250x400/e13c8ba8ac296f96b66f0f5208368df3d2b3dce8.jpg"],
+["film", ["Barbie Diaries", "Das Barbie Tagebuch"], "2006", ["2022 04 09"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Eric Fogel"], [], "https://64.media.tumblr.com/3ada6b37ebc16bdc160f5dad874cf05d/3eb84b4db0ab9e1e-32/s250x400/e13c8ba8ac296f96b66f0f5208368df3d2b3dce8.jpg"],
 
-["film", ["Barbie in Princess Power", "Barbie in: Die Super-Prinzessin"], "2015", ["2022 04 10"], 4, ["ger"], ["animation", "family"], ["bini"], [], ["Ezekiel Norton"], [], "https://64.media.tumblr.com/c6d658a15c39fd80632ff0a1a2b3bbd8/80157b7fbae0b200-64/s250x400/a1b8e56c9f58fca319ecc98a867f88bce0892810.jpg"]
+["film", ["Barbie in Princess Power", "Barbie in: Die Super-Prinzessin"], "2015", ["2022 04 10"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Ezekiel Norton"], [], "https://64.media.tumblr.com/c6d658a15c39fd80632ff0a1a2b3bbd8/80157b7fbae0b200-64/s250x400/a1b8e56c9f58fca319ecc98a867f88bce0892810.jpg"],
+
+["film", ["Barbie in Rock 'N Royals", "Barbie - Eine Prinzessin im Rockstar Camp"], "2015", ["2022 04 14"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Michael Goguen", "Karen J. Lloyd"], [], "https://64.media.tumblr.com/4cc647fe2a70711f3b4ea59e1e05305c/6f77dd794f93c5ab-d5/s250x400/da1cf09fbe4beda04778b5a89dad126ed446979d.jpg"]
 	
 /*
 ,
