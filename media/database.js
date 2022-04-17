@@ -838,7 +838,7 @@ var database = [
 	        
 ["film", ["Lost in Translation", "Lost in Translation: Zwischen den Welten"], "2003", ["2016 11 25"], 9, ["ger"], ["comedy", "drama"], [], [], ["Sofia Coppola"], ["Scarlett Johansson", "Bill Murray", "Giovanni Ribisi", "Anna Faris"], "https://66.media.tumblr.com/090b03507e69fdb40e0c2bbf8b5b5d0f/tumblr_oh80i6KYvM1v2s5upo1_250.jpg"],
 	        
-["film", ["Bibi Blocksberg and the Secret of the Blue Owls", "Bibi Blocksberg und das Geheimnis der blauen Eulen"], "2004", ["2016 11 10", "2018 03 10"], 7, ["ger"], ["family", "fantasy"], ["bini"], ["Bibi Blocksberg"], ["Franziska Buch"], ["Sidonie von Krosigk", "Frederick Lau"], "https://68.media.tumblr.com/a0de0fa678d6e81a7567b271f3e67b31/tumblr_ogjsiuLQPR1v2s5upo1_250.jpg"],
+["film", ["Bibi Blocksberg and the Secret of the Blue Owls", "Bibi Blocksberg und das Geheimnis der blauen Eulen"], "2004", ["2016 11 10", "2018 03 10"], 7, ["ger"], ["family", "fantasy"], ["bini"], ["Bibi Blocksberg"], ["Franziska Buch"], ["Sidonie von Krosigk", "Frederick Lau", "Katja Riemann"], "https://68.media.tumblr.com/a0de0fa678d6e81a7567b271f3e67b31/tumblr_ogjsiuLQPR1v2s5upo1_250.jpg"],
 	        
 ["film", ["Kim Possible: So the Drama", "Kim Possible - Der Film: Invasion der Roboter"], "2005", ["2016 11 03"], 7, ["ger"], ["animation", "action"], [], [], ["Steve Loter"], [], "https://68.media.tumblr.com/e388d46edd65dc4d4a03f6f017c69e6f/tumblr_og4nw3DkbE1v2s5upo1_250.jpg"],
 	        
@@ -1306,7 +1306,7 @@ var database = [
 	        
 ["film", ["Dude"], "2018", ["2018 05 16"], 6, ["ger"], ["comedy", "drama"], [], [], ["Olivia Milch"], ["Kathryn Prescott", "Awkwafina", "Alex Wolff"], "https://66.media.tumblr.com/702308077be02f4b8fa5db3a9615e29d/tumblr_pzfebsZgCo1v2s5upo1_250.jpg"],
 	        
-["film", ["Bibi Blocksberg"], "2002", ["2018 03 10"], 5, ["ger"], ["comedy", "family"], ["bini"], ["Bibi Blocksberg"], ["Hermine Huntgeburth"], ["Sidonie von Krosigk"], "https://66.media.tumblr.com/ce02de8e989f7fec97130e504c9fed6b/tumblr_pzdf4jmvOy1v2s5upo1_250.jpg"],
+["film", ["Bibi Blocksberg"], "2002", ["2018 03 10"], 5, ["ger"], ["comedy", "family"], ["bini"], ["Bibi Blocksberg"], ["Hermine Huntgeburth"], ["Sidonie von Krosigk", "Katja Riemann"], "https://66.media.tumblr.com/ce02de8e989f7fec97130e504c9fed6b/tumblr_pzdf4jmvOy1v2s5upo1_250.jpg"],
 	        
 ["film", ["Expedition Happiness"], "2017", ["2018 03 07"], 6, ["ger"], ["documentary"], [], ["Netflix"], ["Felix Starck"], [], "https://66.media.tumblr.com/4dfaca1c577a75909bad003c4eba4eee/tumblr_pz9f25Jwgu1v2s5upo1_250.jpg"],
 	        
@@ -2073,7 +2073,7 @@ var database = [
 
 ["film", ["Dornröschen"], "1971", ["2021 12 31"], 5, ["ger"], ["family", "fantasy"], ["syl"], [], ["Walter Beck"], [], "https://64.media.tumblr.com/10312410298000fa66f0bcb1609921aa/674e541f9890c99b-4e/s250x400/1c02953a0d736538f97e39c4460e711b52e4e708.jpg"],
 
-["film", ["Not My Day", "Nicht mein Tag"], "2014", ["2021 12 31"], 3, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Netflix"], ["Peter Thorwarth"], ["Moritz Bleibtreu", "Axel Stein", "Jasmin Gerat", "Til Schweiger", "Frederick Lau", "Martina Eitner-Acheampong"], "https://64.media.tumblr.com/ebdd701e31dff417899be9178143a39e/0382a0c0a5166a46-6b/s250x400/998c5e5c8b12693144d6d36a58d4751874edbc5e.jpg"],
+["film", ["Not My Day", "Nicht mein Tag"], "2014", ["2021 12 31"], 3, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Netflix"], ["Peter Thorwarth"], ["Moritz Bleibtreu", "Axel Stein", "Jasmin Gerat", "Til Schweiger", "Frederick Lau", "Martina Eitner-Acheampong", "Gizem Emre"], "https://64.media.tumblr.com/ebdd701e31dff417899be9178143a39e/0382a0c0a5166a46-6b/s250x400/998c5e5c8b12693144d6d36a58d4751874edbc5e.jpg"],
 
 ["film", ["Fünf Freunde und das Tal der Dinosaurier"], "2018", ["2021 12 31"], 0, ["ger"], ["adventure", "family"], ["bini"], ["Disney+", "dropped"], ["Mike Marzuk"], ["Jacob Matschenz"], "https://64.media.tumblr.com/693e4b5f42f5a8d2fc0623381337b3b3/9afcce6788b9264f-8b/s250x400/ff4b853e917071d90bcf48df3fa2abf557f3b20a.jpg"],
 
@@ -2157,7 +2157,7 @@ var database = [
 
 ["short", ["What on Earth!"], "1967", ["2022 03 07"], 7, ["eng"], ["animation"], [], [], ["Les Drew", "Kaj Pindal"], [], "https://64.media.tumblr.com/b5950ac2bad71418cffdfc77db58b656/e6b5cb6b14e168d6-3d/s250x400/82df65aa62587d08638c55918967e8c67e8d56d9.jpg"],
 
-["film", ["A Jar Full of Life", "Vielmachglas"], "2018", ["2022 03 12"], 5, ["ger"], ["comedy", "drama"], ["syl", "je", "bini"], [], ["Florian Ross"], ["Matthias Schweighöfer", "Gerda Böken", "Martina Eitner-Acheampong"], "https://64.media.tumblr.com/76b9004727a1505ce334d2ad672ce0e9/09c952a6927fe17b-34/s250x400/6a2da05d57aa982c32e8d052ac5884bee65c5213.jpg"],
+["film", ["A Jar Full of Life", "Vielmachglas"], "2018", ["2022 03 12"], 5, ["ger"], ["comedy", "drama"], ["syl", "je", "bini"], [], ["Florian Ross"], ["Jella Haase", "Matthias Schweighöfer", "Gerda Böken", "Martina Eitner-Acheampong"], "https://64.media.tumblr.com/76b9004727a1505ce334d2ad672ce0e9/09c952a6927fe17b-34/s250x400/6a2da05d57aa982c32e8d052ac5884bee65c5213.jpg"],
 
 ["film", ["Duplicate"], "1998", [["2022 03 12", "2022 03 19"]], 5, ["hin"], ["action", "comedy", "bollywood"], ["bini", "mai"], ["Netflix"], ["Mahesh Bhatt"], ["Shah Rukh Khan", "Juhi Chawla", "Sonali Bendre"], "https://64.media.tumblr.com/14e6bebcea58283750f4ea5b88474d3c/c60e627484aa9ec8-93/s250x400/e43e68f170f47c4930a627869cf257df7012cc53.jpg"],
 
@@ -2193,7 +2193,9 @@ var database = [
 
 ["film", ["Barbie in Rock 'N Royals", "Barbie - Eine Prinzessin im Rockstar Camp"], "2015", ["2022 04 14"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Michael Goguen", "Karen J. Lloyd"], [], "https://64.media.tumblr.com/4cc647fe2a70711f3b4ea59e1e05305c/6f77dd794f93c5ab-d5/s250x400/da1cf09fbe4beda04778b5a89dad126ed446979d.jpg"],
 
-["film", ["Barbie in a Mermaid Tale 2", "Barbie und das Geheimnis von Oceana 2"], "2011", ["2022 04 16"], 5, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["William Lau"], [], "https://64.media.tumblr.com/799799ee45daa2ff1ee519ef6d16a9e5/d564703ca8818d88-a5/s250x400/8d3d5de7658c5b029d5bb790c63ab052de81047c.jpg"]
+["film", ["Barbie in a Mermaid Tale 2", "Barbie und das Geheimnis von Oceana 2"], "2011", ["2022 04 16"], 5, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["William Lau"], [], "https://64.media.tumblr.com/799799ee45daa2ff1ee519ef6d16a9e5/d564703ca8818d88-a5/s250x400/8d3d5de7658c5b029d5bb790c63ab052de81047c.jpg"],
+
+["film", ["Suck Me Shakespeer 2", "Fack ju Göhte 2"], "2015", ["2022 04 16"], 7, ["ger"], ["comedy"], ["bini"], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Jella Haase", "Karoline Herfurth", "Katja Riemann", "Gizem Emre", "Jana Pallaske"], "https://64.media.tumblr.com/24bfc2000ddb0f5322d8f9d6fc81d329/a4ab170a940b97de-db/s250x400/85083d66274e9050a9af2027bcf8715558a114bd.jpg"]
 	
 /*
 ,
