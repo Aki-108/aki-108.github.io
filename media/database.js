@@ -259,7 +259,7 @@ var database = [
 	        
 ["film", ["Now You See Me 2", "Die Unfassbaren 2"], "2016", ["2020 07 22"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Jon M. Chu"], ["Jesse Eisenberg", "Mark Ruffalo", "Woody Harrelson", "Dave Franco", "Daniel Radcliffe", "Lizzy Caplan", "Michael Caine", "Morgan Freeman", "Isla Fisher", "Jay Chou"], "https://64.media.tumblr.com/ee5451844e81b6cc0fb69e364ac75ab9/a63e0ea7c891ea49-d7/s250x400/0910a3c45b5ebd6630a04281f5ab6364ecccec5e.jpg"],
 	        
-["film", ["The Martian", "Der Marsianer: Rettet Mark Watney"], "2015", ["2016 07 07", "2019 10 21", "2020 05 17"], 8, ["ger"], ["adventure", "drama", "sci-fi"], [], ["Netflix", "Schule"], ["Ridley Scott"], ["Matt Damon", "Kristen Wiig", "Jeff Daniels", "Sean Bean", "Chiwetel Ejiofor", "Donald Glover", "Jessica Chastain", "Michael Peña", "Mackenzie Davis"], "https://66.media.tumblr.com/1df268dfeaac539844517e25e5c83fc7/tumblr_o9ydqujhi01v2s5upo1_250.jpg"],
+["film", ["The Martian", "Der Marsianer: Rettet Mark Watney"], "2015", ["2016 07 07", "2019 10 21", "2020 05 17"], 8, ["ger"], ["adventure", "drama", "sci-fi"], [], ["Netflix", "Schule"], ["Ridley Scott"], ["Matt Damon", "Kristen Wiig", "Jeff Daniels", "Sean Bean", "Chiwetel Ejiofor", "Donald Glover", "Jessica Chastain", "Michael Peña", "Mackenzie Davis", "Sebastian Stan"], "https://66.media.tumblr.com/1df268dfeaac539844517e25e5c83fc7/tumblr_o9ydqujhi01v2s5upo1_250.jpg"],
 	        
 ["film", ["Sing Street"], "2016", ["2016 06 28", "2016 10 24", "2018 05 04", "2022 02 19"], 9, ["ger"], ["comedy", "drama", "music"], ["syl", "je", "bini"], ["Kino", "DVD"], ["John Carney"], ["Lucy Boynton", "Aidan Gillen"], "https://68.media.tumblr.com/1327081731d4fd04cb8616747d4b355e/tumblr_o9hsr5EvO21v2s5upo1_250.jpg"],
 	        
@@ -347,7 +347,7 @@ var database = [
 	        
 ["film", ["Snowden"], "2016", ["2016 11 29", "2019 09 07"], 7, ["ger"], ["biography", "crime"], ["syl"], ["Kino"], ["Oliver Stone"], ["Joseph Gordon-Levitt", "Nicolas Cage", "Timothy Olyphant", "Tom Wilkinson", "Scott Eastwood"], "https://66.media.tumblr.com/b37aa4091b390785cdb5639a3361f65e/tumblr_ohf6nbgGlW1v2s5upo1_250.jpg"],
 	        
-["film", ["The Walk"], "2015", ["2017 10 26"], 7, ["ger"], ["adventure", "biography"], [], ["Netflix"], ["Robert Zemeckis"], ["Joseph Gordon-Levitt", "Ben Kingsley"], "https://66.media.tumblr.com/764d97b4a28744ce992be1ba95d22d9a/tumblr_py7vpvHz8R1v2s5upo1_250.jpg"],
+["film", ["The Walk"], "2015", ["2017 10 26"], 7, ["ger"], ["adventure", "biography"], [], ["Netflix"], ["Robert Zemeckis"], ["Joseph Gordon-Levitt", "Ben Kingsley", "Charlotte Le Bon"], "https://66.media.tumblr.com/764d97b4a28744ce992be1ba95d22d9a/tumblr_py7vpvHz8R1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Perks of Being a Wallflower", "Vielleicht lieber morgen"], "2012", ["2017 11 22"], 9, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Stephen Chbosky"], ["Johnny Simmons", "Emma Watson", "Joan Cusack", "Kate Walsh", "Logan Lerman", "Mae Whitman", "Paul Rudd", "Nina Dobrev"], "https://66.media.tumblr.com/993796638f9b7c93316a8a993ca05ccf/tumblr_pyefmgAgvd1v2s5upo1_250.jpg"],
 	        
@@ -482,7 +482,7 @@ var database = [
 	        
 ["film", ["The Edge of Seventeen", "The Edge of Seventeen: Das Jahr der Entscheidung"], "2016", ["2017 10 03", "2020 07 06"], 8, ["ger"], ["comedy", "drama"], ["bini", "syl", "je"], ["Netflix"], ["Kelly Fremon Craig"], ["Hailee Steinfeld", "Woody Harrelson", "Haley Lu Richardson", "Hayden Szeto"], "https://66.media.tumblr.com/5f5cdec2a2fa0ccc7d0edc0896df9451/tumblr_pxxedmrifD1v2s5upo1_250.jpg"],
 	        
-["film", ["Ant-Man"], "2015", ["2016 05 21", "2018 04 01"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl", "je"], ["Marvel"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Corey Stoll", "Anthony Mackie", "Judy Greer", "Michael Peña", "Chris Evans", "Joe Chrest"], "https://68.media.tumblr.com/b70bf1e59eaffd22e771eec8025d4215/tumblr_o7jla3gTae1v2s5upo1_250.jpg"],
+["film", ["Ant-Man"], "2015", ["2016 05 21", "2018 04 01"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl", "je"], ["Marvel"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Corey Stoll", "Anthony Mackie", "Judy Greer", "Michael Peña", "Chris Evans", "Joe Chrest", "Sebastian Stan"], "https://68.media.tumblr.com/b70bf1e59eaffd22e771eec8025d4215/tumblr_o7jla3gTae1v2s5upo1_250.jpg"],
 	        
 ["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], [], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
 	        
@@ -496,7 +496,7 @@ var database = [
 	        
 ["audiobook", ["Mockingjay", "Die Tribute von Panem – Flammender Zorn"], "2010", [["2020 03 30", "2020 04 03"]], 7, ["eng"], [], [], ["Hunger Games"], ["Suzanne Collins"], [], "https://66.media.tumblr.com/a29684a87ede1c4134c9f75cd88b0f3b/43e0030ae8bafdef-ea/s250x400/140444d4f310e4261f80f455eba0a97055bd65e9.jpg"],
 	        
-["film", ["The Hunger Games", "Die Tribute von Panem - The Hunger Games"], "2012", ["2015 11 08", "2016 10 10"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Hunger Games"], ["Gary Ross"], ["Stanley Tucci", "Jennifer Lawrence", "Liam Hemsworth", "Elizabeth Banks", "Woody Harrelson", "Isabelle Fuhrman", "Josh Hutcherson", "Mackenzie Lintz", "Sandra Ellis Lafferty", "Rhoda Griffis", "Alexander Ludwig"], "https://66.media.tumblr.com/a24245b34e92ec6447ebf36186441831/tumblr_px704ncX2r1v2s5upo1_250.jpg"],
+["film", ["The Hunger Games", "Die Tribute von Panem - The Hunger Games"], "2012", ["2015 11 08", "2016 10 10"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Hunger Games"], ["Gary Ross"], ["Stanley Tucci", "Jennifer Lawrence", "Liam Hemsworth", "Elizabeth Banks", "Woody Harrelson", "Isabelle Fuhrman", "Josh Hutcherson", "Mackenzie Lintz", "Sandra Ellis Lafferty", "Rhoda Griffis", "Alexander Ludwig", "Dayo Okeniyi"], "https://66.media.tumblr.com/a24245b34e92ec6447ebf36186441831/tumblr_px704ncX2r1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Hunger Games: Catching Fire", "Die Tribute von Panem - Catching Fire"], "2013", ["2015 11 12", "2016 10 11"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Liam Hemsworth", "Woody Harrelson", "Josh Hutcherson", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Sandra Ellis Lafferty"], "https://66.media.tumblr.com/f7b4170e92e5bc06aaee4193e449a0c9/tumblr_ppuwk10qr21v2s5upo1_250.jpg"],
 	        
@@ -1166,9 +1166,9 @@ var database = [
 	        
 ["film", ["Thor: The Dark World", "Thor: The Dark Kingdom"], "2013", ["2016 03 29"], 7, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Alan Taylor"], ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Anthony Hopkins", "Kat Dennings", "Stan Lee", "Talulah Riley", "Chris Evans", "Ray Stevenson", "Stellan Skarsgård", "Tony Curran", "Tadanobu Asano"], "https://40.media.tumblr.com/31124e18faba414366fcb1b123bae479/tumblr_o4ss148JH71v2s5upo1_250.jpg"],
 	        
-["film", ["Captain America: The First Avenger"], "2011", ["2016 03 29"], 7, ["ger"], ["action", "adventure"], ["bini"], ["Marvel", "Avengers"], ["Joe Johnston"], ["Chris Evans", "Tommy Lee Jones", "Stanley Tucci", "Samuel L. Jackson", "Toby Jones", "David Bradley", "Stan Lee", "Richard Armitage"], "https://49.media.tumblr.com/d795348c9ba0e4483f05147201ef6b24/tumblr_o4ugvkeV8b1v2s5upo1_250.jpg"],
+["film", ["Captain America: The First Avenger"], "2011", ["2016 03 29"], 7, ["ger"], ["action", "adventure"], ["bini"], ["Marvel", "Avengers"], ["Joe Johnston"], ["Chris Evans", "Tommy Lee Jones", "Stanley Tucci", "Samuel L. Jackson", "Toby Jones", "David Bradley", "Stan Lee", "Richard Armitage", "Sebastian Stan"], "https://49.media.tumblr.com/d795348c9ba0e4483f05147201ef6b24/tumblr_o4ugvkeV8b1v2s5upo1_250.jpg"],
 	        
-["film", ["Captain America: The Winter Soldier", "The Return of the First Avenger"], "2014", ["2016 03 30"], 7, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Anthony Russo", "Joe Russo"], ["Chris Evans", "Samuel L. Jackson", "Scarlett Johansson", "Anthony Mackie", "Toby Jones", "Stan Lee", "Alan Dale"], "https://37.media.tumblr.com/7d801f011251aefaa3be6a9e224190ca/tumblr_o4v7w80vDb1v2s5upo1_250.jpg"],
+["film", ["Captain America: The Winter Soldier", "The Return of the First Avenger"], "2014", ["2016 03 30"], 7, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Anthony Russo", "Joe Russo"], ["Chris Evans", "Samuel L. Jackson", "Scarlett Johansson", "Anthony Mackie", "Toby Jones", "Stan Lee", "Alan Dale", "Sebastian Stan"], "https://37.media.tumblr.com/7d801f011251aefaa3be6a9e224190ca/tumblr_o4v7w80vDb1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Avengers"], "2012", ["2016 03 30"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel", "Avengers"], ["Joss Whedon"], ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Tom Hiddleston", "Clark Gregg", "Samuel L. Jackson", "Gwyneth Paltrow", "Stan Lee", "Stellan Skarsgård"], "https://40.media.tumblr.com/e839ece28b91eb39db84c65d6f91ce90/tumblr_o4vbcpBprV1v2s5upo1_250.jpg"],
 	        
@@ -1176,7 +1176,7 @@ var database = [
 	        
 ["film", ["Guardians of the Galaxy"], "2014", ["2016 05 09", "2016 10 16", "2017 12 26"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Marvel"], ["James Gunn"], ["Chris Pratt", "Zoe Saldana", "Bradley Cooper", "Karen Gillan", "Wyatt Oleff", "Stan Lee", "Josh Brolin", "Dave Bautista", "Djimon Hounsou"], "https://66.media.tumblr.com/5c4b5e161e5cf33b47ac14fab0f17a16/tumblr_o6xep3SJwt1v2s5upo1_250.jpg"],
 	        
-["film", ["Captain America: Civil War", "The First Avenger: Civil War"], "2016", ["2016 10 02"], 9, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel", "Avengers"], ["Anthony Russo", "Joe Russo"], ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson", "Anthony Mackie", "Jeremy Renner", "Tom Holland", "Daniel Brühl", "Martin Freeman", "Stan Lee"], "https://68.media.tumblr.com/be2186b86b191e56ae46a67bd8e13bb7/tumblr_oegv4tGrCT1v2s5upo1_250.jpg"],
+["film", ["Captain America: Civil War", "The First Avenger: Civil War"], "2016", ["2016 10 02"], 9, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel", "Avengers"], ["Anthony Russo", "Joe Russo"], ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson", "Anthony Mackie", "Jeremy Renner", "Tom Holland", "Daniel Brühl", "Martin Freeman", "Stan Lee", "Sebastian Stan"], "https://68.media.tumblr.com/be2186b86b191e56ae46a67bd8e13bb7/tumblr_oegv4tGrCT1v2s5upo1_250.jpg"],
 	        
 ["series", ["Lego Jurassic World: The Indominus Escape", "Lego Jurassic World: Flucht des Indominus Rex"], "2016", [["2017 10 13", "S1"]], 9, ["ger"], ["animation", "action"], ["bini"], ["Jurassic Park", "Netflix"], ["Michael D. Black"], [], "https://66.media.tumblr.com/fe7acab7ce2bbe3569c84be0a02ad6e4/tumblr_pxxegmWanX1v2s5upo1_250.jpg"],
 	        
@@ -2199,7 +2199,9 @@ var database = [
 
 ["film", ["The Peppercorns and the Curse of the Black King", "Die Pfefferkörner und der Fluch des schwarzen Königs"], "2017", ["2022 04 17"], 4, ["ger"], ["adventure", "comedy"], ["bini"], [], ["Christian Theede"], ["Anna Böttcher"], "https://64.media.tumblr.com/fb8771ae098d3d5955d29551e8e2592c/8ae29a96e4b801f9-45/s250x400/927a6f74d420e913e2ea955e41f144391db0ad75.jpg"],
 
-["film", ["Pixel Perfect", "Der perfekte Rockstar"], "2004", ["2022 04 17"], 4, ["eng"], ["family", "sci-fi"], [], ["Disney+"], ["Mark A.Z. Dippé"], ["Brett Cullen", "Tania Gunadi"], "https://64.media.tumblr.com/e8869ae128277ac83f50e377d1dd7ff6/cc2d76ff04dd00db-87/s250x400/e5011576d620d1360f00cd040b4dcd84aa6d9cea.jpg"]
+["film", ["Pixel Perfect", "Der perfekte Rockstar"], "2004", ["2022 04 17"], 4, ["eng"], ["family", "sci-fi"], [], ["Disney+"], ["Mark A.Z. Dippé"], ["Brett Cullen", "Tania Gunadi"], "https://64.media.tumblr.com/e8869ae128277ac83f50e377d1dd7ff6/cc2d76ff04dd00db-87/s250x400/e5011576d620d1360f00cd040b4dcd84aa6d9cea.jpg"],
+
+["film", ["Fresh"], "2022", ["2022 04 18"], 6, ["ger"], ["comedy", "horror"], [], ["Disney+"], ["Mimi Cave"], ["Sebastian Stan", "Dayo Okeniyi", "Charlotte Le Bon"], "https://64.media.tumblr.com/8c2dc7679697a4a7c75a5ee0204b9745/26ecd04184bdc377-d6/s250x400/edc2ad347e0a3513b44989b001123d4f41915246.jpg"]
 	
 /*
 ,
