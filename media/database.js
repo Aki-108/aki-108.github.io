@@ -2201,7 +2201,10 @@ var database = [
 
 ["film", ["Pixel Perfect", "Der perfekte Rockstar"], "2004", ["2022 04 17"], 4, ["eng"], ["family", "sci-fi"], [], ["Disney+"], ["Mark A.Z. Dippé"], ["Brett Cullen", "Tania Gunadi"], "https://64.media.tumblr.com/e8869ae128277ac83f50e377d1dd7ff6/cc2d76ff04dd00db-87/s250x400/e5011576d620d1360f00cd040b4dcd84aa6d9cea.jpg"],
 
-["film", ["Fresh"], "2022", ["2022 04 18"], 6, ["ger"], ["comedy", "horror"], [], ["Disney+"], ["Mimi Cave"], ["Sebastian Stan", "Dayo Okeniyi", "Charlotte Le Bon"], "https://64.media.tumblr.com/8c2dc7679697a4a7c75a5ee0204b9745/26ecd04184bdc377-d6/s250x400/edc2ad347e0a3513b44989b001123d4f41915246.jpg"]
+["film", ["Fresh"], "2022", ["2022 04 18"], 6, ["ger"], ["comedy", "horror"], [], ["Disney+"], ["Mimi Cave"], ["Sebastian Stan", "Dayo Okeniyi", "Charlotte Le Bon"], "https://64.media.tumblr.com/8c2dc7679697a4a7c75a5ee0204b9745/26ecd04184bdc377-d6/s250x400/edc2ad347e0a3513b44989b001123d4f41915246.jpg"],
+
+["series", ["Bungou Stray Dogs"], ["2016", ""], [["2022 04 20", "", "S1"]], 0, ["ger"], ["anime", "action"], ["bini", "nico", "jessie"], ["ongoing", "watching"], ["Kafka Asagiri", "Rob Blatt", "Lucien Dodge"], [], "https://64.media.tumblr.com/fb07bd593ca68940edb0d886c0258207/31d71ef7e0c0a4f5-c2/s250x400/d6f31d8693d30e7ae96f3b7182795de4daee0aba.jpg"]
+
 	
 /*
 ,
