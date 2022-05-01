@@ -1272,7 +1272,7 @@ var database = [
 	        
 ["film", ["Goodbye to All That", "Suddenly Single"], "2014", ["2016 06 19"], 3, ["ger"], ["comedy", "drama"], [], [], ["Angus MacLachlan"], ["Paul Schneider"], "https://68.media.tumblr.com/2b52387fb84ce6f9e1e0ab7b2f54910b/tumblr_o90ykbAJXr1v2s5upo1_250.jpg"],
 	        
-["film", ["I'm Off Then", "Ich bin dann mal weg"], "2015", ["2016 06 29"], 7, ["ger"], ["comedy"], [], [], ["Julia von Heinz"], ["Katharina Thalbach"], "https://68.media.tumblr.com/9b18cf3ed6bb1b7708cb6660243b2bbc/tumblr_o9jsra3R5u1v2s5upo1_250.jpg"],
+["film", ["I'm Off Then", "Ich bin dann mal weg"], "2015", ["2016 06 29"], 7, ["ger"], ["comedy"], [], [], ["Julia von Heinz"], ["Katharina Thalbach", "Annette Frier"], "https://68.media.tumblr.com/9b18cf3ed6bb1b7708cb6660243b2bbc/tumblr_o9jsra3R5u1v2s5upo1_250.jpg"],
 	        
 ["film", ["Rush Hour"], "1998", ["2019 07 08"], 5, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Brett Ratner"], ["Ken Leung", "Jackie Chan", "Chris Tucker", "Tom Wilkinson"], "https://66.media.tumblr.com/9d176e93e4c29e946dc1c2a258c39944/f244781f2db8bae3-3f/s250x400/46441916585879a5b8546c60f85cabdebca7a220.jpg"],
 	        
@@ -2173,7 +2173,7 @@ var database = [
 
 ["series", ["Terrace House: Aloha State"], ["2016", "2017"], [["2022 03 27", "", "S1"]], 0, ["jap"], ["drama", "reality-tv"], ["bini", "nico"], ["Netflix", "watching"], [], ["Lauren Tsai"], "https://64.media.tumblr.com/51c8623c08a7434dcacd613c5ffd704b/b48e302bb9ee65d6-2f/s250x400/5d38d87f7ad136af99762f4c8db0a399681fdcf4.jpg"],
 
-["book", ["Das verdammte Chaos im Mikrokosmos"], "2015", [["2022 03 29", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Anke Weber"], [], "https://64.media.tumblr.com/111a070d053c36be33762fc23b1b66b6/ac743d4e49dec798-5e/s250x400/335d8881a169b5e46c66791c9934ada0c41dd3f9.jpg"],
+["book", ["Das verdammte Chaos im Mikrokosmos"], "2015", [["2022 03 29", "2022 04 25"]], 7, ["ger"], [], [], ["bibliothek"], ["Anke Weber"], [], "https://64.media.tumblr.com/111a070d053c36be33762fc23b1b66b6/ac743d4e49dec798-5e/s250x400/335d8881a169b5e46c66791c9934ada0c41dd3f9.jpg"],
 
 ["series", ["Maya", "Die Biene Maja", "Mitsubachi Mâya no bôken"], ["1975", "1980"], [["2022 03 30", "S1E1-S1E2"], ["2022 04 09", "S1E6"]], 0, ["ger"], ["anime", "adventure"], ["bini"], ["bilbiothek"], ["Waldemar Bonsels", "Marty Murphy", "Niisan Takahashi"], [], "https://64.media.tumblr.com/e14b32ec817851f3e7c921d1527daff4/1d17d47e327c97de-40/s250x400/1590955223962288cce755a68e7988375b643028.jpg"],
 
@@ -2203,7 +2203,9 @@ var database = [
 
 ["film", ["Fresh"], "2022", ["2022 04 18"], 6, ["ger"], ["comedy", "horror"], [], ["Disney+"], ["Mimi Cave"], ["Sebastian Stan", "Dayo Okeniyi", "Charlotte Le Bon"], "https://64.media.tumblr.com/8c2dc7679697a4a7c75a5ee0204b9745/26ecd04184bdc377-d6/s250x400/edc2ad347e0a3513b44989b001123d4f41915246.jpg"],
 
-["series", ["Bungou Stray Dogs"], ["2016", ""], [["2022 04 20", "", "S1"]], 0, ["ger"], ["anime", "action"], ["bini", "nico", "jessie"], ["ongoing", "watching"], ["Kafka Asagiri", "Rob Blatt", "Lucien Dodge"], [], "https://64.media.tumblr.com/fb07bd593ca68940edb0d886c0258207/31d71ef7e0c0a4f5-c2/s250x400/d6f31d8693d30e7ae96f3b7182795de4daee0aba.jpg"]
+["series", ["Bungou Stray Dogs"], ["2016", ""], [["2022 04 20", "", "S1"]], 0, ["ger"], ["anime", "action"], ["bini", "nico", "jessie"], ["ongoing", "watching"], ["Kafka Asagiri", "Rob Blatt", "Lucien Dodge"], [], "https://64.media.tumblr.com/fb07bd593ca68940edb0d886c0258207/31d71ef7e0c0a4f5-c2/s250x400/d6f31d8693d30e7ae96f3b7182795de4daee0aba.jpg"],
+
+["series", ["Ella Schön"], ["2018", ""], [["2022 04 24", "S5E1"]], 6, ["ger"], ["comedy", "drama"], ["syl", "je"], ["ongoing"], ["Simon X. Rost", "Simon X. Rost", "Elke Rössler"], ["Annette Frier"], "https://64.media.tumblr.com/46fc5587af74ddb4f79f0f9dc338e24e/f048541a454c5bad-55/s250x400/46e7350ead1d9e1716c2db6598497e40fb038e27.jpg"]
 
 	
 /*
