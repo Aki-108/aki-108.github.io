@@ -634,7 +634,7 @@ var database = [
 	        
 ["film", ["How It Ends"], "2018", ["2018 07 30"], 3, ["ger"], ["action", "adventure"], ["nico", "bini"], ["Netflix"], ["David M. Rosenthal"], ["Theo James"], "https://66.media.tumblr.com/1662f74fc5325dd41902574e60108f9d/3489b61bacf3339a-4e/s250x400/bd14b214f49d1f37eb2ed46d06eda3e8a206f3ba.jpg"],
 	        
-["film", ["The Last Airbender", "Die Legende von Aang"], "2010", ["2018 07 27", "2022 02 19"], 5, ["ger"], ["action", "adventure"], ["nico", "bini"], ["DVD", "Avatar"], ["M. Night Shyamalan"], ["Cliff Curtis", "Nicola Peltz", "Jackson Rathbone", "Shaun Toub", "Aasif Mandvi"], "https://66.media.tumblr.com/a5737692ac0c44f8573596a7ca795177/42e8ec65f7daa84a-d5/s250x400/12040d0e5aa0b3d896d713094f305b961e71a76c.jpg"],
+["film", ["The Last Airbender", "Die Legende von Aang"], "2010", ["2018 07 27", "2022 02 19"], 5, ["ger"], ["action", "adventure"], ["nico", "bini"], ["DVD", "Avatar"], ["M. Night Shyamalan"], ["Cliff Curtis", "Nicola Peltz", "Jackson Rathbone", "Shaun Toub", "Aasif Mandvi", "Dev Patel"], "https://66.media.tumblr.com/a5737692ac0c44f8573596a7ca795177/42e8ec65f7daa84a-d5/s250x400/12040d0e5aa0b3d896d713094f305b961e71a76c.jpg"],
 	        
 ["film", ["Jimmy Neutron: Boy Genius", "Jimmy Neutron: Der mutige Erfinder"], "2001", ["2018 08 22", "2020 10 10"], 7, ["ger"], ["animation", "action"], ["bini", "je"], ["Jimmy Neutron", "DVD"], ["John A. Davis"], [], "https://66.media.tumblr.com/86736ebfdedf622454d9d4015d0d04ad/15d070d8838a05e9-cc/s250x400/ac60e735a11226d4cd88ac8e49233626cf4483c8.jpg"],
 	        
@@ -2205,7 +2205,11 @@ var database = [
 
 ["series", ["Bungou Stray Dogs"], ["2016", ""], [["2022 04 20", "", "S1"]], 0, ["ger"], ["anime", "action"], ["bini", "nico", "jessie"], ["ongoing", "watching"], ["Kafka Asagiri", "Rob Blatt", "Lucien Dodge"], [], "https://64.media.tumblr.com/fb07bd593ca68940edb0d886c0258207/31d71ef7e0c0a4f5-c2/s250x400/d6f31d8693d30e7ae96f3b7182795de4daee0aba.jpg"],
 
-["series", ["Ella Schön"], ["2018", ""], [["2022 04 24", "S5E1"]], 6, ["ger"], ["comedy", "drama"], ["syl", "je"], ["ongoing"], ["Simon X. Rost", "Simon X. Rost", "Elke Rössler"], ["Annette Frier"], "https://64.media.tumblr.com/46fc5587af74ddb4f79f0f9dc338e24e/f048541a454c5bad-55/s250x400/46e7350ead1d9e1716c2db6598497e40fb038e27.jpg"]
+["series", ["Ella Schön"], ["2018", ""], [["2022 04 24", "S5E1"]], 6, ["ger"], ["comedy", "drama"], ["syl", "je"], ["ongoing"], ["Simon X. Rost", "Simon X. Rost", "Elke Rössler"], ["Annette Frier"], "https://64.media.tumblr.com/46fc5587af74ddb4f79f0f9dc338e24e/f048541a454c5bad-55/s250x400/46e7350ead1d9e1716c2db6598497e40fb038e27.jpg"],
+
+["book", ["Die drei ??? Kids 7: Gruft der Piraten"], "2000", [["2022 04 25", ""]], 0, ["ger"], [], [], ["Die Drei ???", "bibliothek", "watching"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/76b1f777dfc0fb89c5ad8c53586721e1/8d07670ca5b77157-68/s250x400/8f912755974d94d3b791d6c40d746c044071c4fb.jpg"],
+
+["film", ["Slumdog Millionaire", "Slumdog Millionär"], "2008", ["2022 04 28"], 0, ["ger"], ["drama", "romance"], [], [], ["Danny Boyle", "Loveleen Tandan"], ["Dev Patel", "Irrfan Khan"], "https://64.media.tumblr.com/8492f47674370ff6d2b90f3c7d0d52b7/8968561d519a3d9b-2d/s250x400/faecb34b9870ccb5fac446f8c79a130ef96150a8.jpg"]
 
 	
 /*
