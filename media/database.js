@@ -2207,11 +2207,13 @@ var database = [
 
 ["series", ["Ella Schön"], ["2018", ""], [["2022 04 24", "S5E1"]], 6, ["ger"], ["comedy", "drama"], ["syl", "je"], ["ongoing"], ["Simon X. Rost", "Simon X. Rost", "Elke Rössler"], ["Annette Frier"], "https://64.media.tumblr.com/46fc5587af74ddb4f79f0f9dc338e24e/f048541a454c5bad-55/s250x400/46e7350ead1d9e1716c2db6598497e40fb038e27.jpg"],
 
-["book", ["Die drei ??? Kids 7: Gruft der Piraten"], "2000", [["2022 04 25", ""]], 0, ["ger"], [], [], ["Die Drei ???", "bibliothek", "watching"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/76b1f777dfc0fb89c5ad8c53586721e1/8d07670ca5b77157-68/s250x400/8f912755974d94d3b791d6c40d746c044071c4fb.jpg"],
+["book", ["Die drei ??? Kids 7: Gruft der Piraten"], "2000", [["2022 04 25", "2022 05 01"]], 7, ["ger"], [], [], ["Die Drei ???", "bibliothek"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/76b1f777dfc0fb89c5ad8c53586721e1/8d07670ca5b77157-68/s250x400/8f912755974d94d3b791d6c40d746c044071c4fb.jpg"],
 
 ["film", ["Slumdog Millionaire", "Slumdog Millionär"], "2008", ["2022 04 28"], 0, ["ger"], ["drama", "romance"], [], [], ["Danny Boyle", "Loveleen Tandan"], ["Dev Patel", "Irrfan Khan"], "https://64.media.tumblr.com/8492f47674370ff6d2b90f3c7d0d52b7/8968561d519a3d9b-2d/s250x400/faecb34b9870ccb5fac446f8c79a130ef96150a8.jpg"],
 
-["audiobook", ["Das Haus der Mädchen"], "2018", [["2022 04 30", "2022 05 01", "C2-C3"]], 8, ["ger"], [], ["bini", "syl", "je"], [], ["Andreas Winkelmann"], ["Simon Jäger"], "https://64.media.tumblr.com/0a2b04057cafa5510dc5b7571fb0f7d2/9a81f7692f426342-77/s250x400/06f21c73bc581fa76a2b977657305217277c81be.jpg"]
+["audiobook", ["Das Haus der Mädchen"], "2018", [["2022 04 30", "2022 05 01", "C2-C3"]], 8, ["ger"], [], ["bini", "syl", "je"], [], ["Andreas Winkelmann"], ["Simon Jäger"], "https://64.media.tumblr.com/0a2b04057cafa5510dc5b7571fb0f7d2/9a81f7692f426342-77/s250x400/06f21c73bc581fa76a2b977657305217277c81be.jpg"],
+
+["book", ["Maniac Magee", "East End, West End und dazwischen Maniac Magee"], "1990", [["2022 05 01", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/eba83b6d747fec37902bb193be553839/929dab40af472a01-98/s250x400/5ae720f5de4e6e5986b16bda63a78de08eb41a19.jpg"]
 
 	
 /*
