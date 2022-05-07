@@ -726,7 +726,7 @@ var database = [
 	        
 ["film", ["When We First Met"], "2018", ["2018 03 03"], 5, ["ger"], ["comedy", "fantasy"], [], ["Netflix"], ["Ari Sandel"], ["Adam Devine", "Alexandra Daddario", "Andrew Bachelor", "Robbie Amell"], "https://66.media.tumblr.com/e950878e2feddcc0ad5b0645f5653cd2/tumblr_pz9bnx7u9b1v2s5upo1_250.jpg"],
 	        
-["film", ["Jumanji: Welcome to the Jungle", "Jumanji: Willkommen im Dschungel"], "2017", ["2018 02 03", "2019 11 22", "2021 12 02"], 8, ["ger"], ["action", "adventure"], ["syl", "je"], ["Jumanji", "Netflix"], ["Jake Kasdan"], ["Dwayne Johnson", "Kevin Hart", "Jack Black", "Karen Gillan", "Nick Jonas", "Marin Hinkle", "Missi Pyle", "Alex Wolff", "Marc Evan Jackson", "Madison Iseman"], "https://66.media.tumblr.com/b565faed79276eab292d60ebb1263730/tumblr_pz9blxIeSw1v2s5upo1_250.jpg"],
+["film", ["Jumanji: Welcome to the Jungle", "Jumanji: Willkommen im Dschungel"], "2017", ["2018 02 03", "2019 11 22", "2021 12 02", "2022 05 07"], 8, ["ger", "eng"], ["action", "adventure"], ["syl", "je", "bini", "mai"], ["Jumanji", "Netflix"], ["Jake Kasdan"], ["Dwayne Johnson", "Kevin Hart", "Jack Black", "Karen Gillan", "Nick Jonas", "Marin Hinkle", "Missi Pyle", "Alex Wolff", "Marc Evan Jackson", "Madison Iseman"], "https://66.media.tumblr.com/b565faed79276eab292d60ebb1263730/tumblr_pz9blxIeSw1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Open House", "Open House"], "2018", ["2018 01 27"], 4, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Matt Angel", "Suzanne Coote"], ["Dylan Minnette"], "https://66.media.tumblr.com/cbec013e3520b4f63d6356c9bf1e6934/tumblr_pz45ssAoIw1v2s5upo1_250.jpg"],
 	        
