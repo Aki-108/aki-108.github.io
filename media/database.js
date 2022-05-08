@@ -1724,7 +1724,7 @@ var database = [
 
 ["series", ["Modest Heroes", "Bescheidene Helden: Ponoc Short Films Theatre", "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen"], "2018", [["2021 02 19", "E1-E3"]], 7, ["ger"], ["anime", "action", "adventure", "drama", "fantasy"], [], ["Netflix"], ["Yoshiyuki Momose", "Akihiko Yamashita", "Hiromasa Yonebayashi"], [], "https://64.media.tumblr.com/34877f375818a100844327579812e396/a9ded0ed44572630-f1/s250x400/60261cdb33b296fe8bd9c6656745188b9bd583b2.jpg"],
 
-["film", ["The Secret Life of Bees", "Die Bienenhüterin"], "2008", ["2021 02 19"], 8, ["ger"], ["drama"], [], ["Netflix"], ["Gina Prince-Bythewood"], ["Dakota Fanning", "Joe Chrest", "Cathy Cavadini", "Amad Jackson"], "https://64.media.tumblr.com/9159d7f8341741ca325ac43e73414cce/48b363066c6a6bcf-3d/s250x400/87d909506a6edfcffd75105ee08f32d488cdb3d3.jpg"],
+["film", ["The Secret Life of Bees", "Die Bienenhüterin"], "2008", ["2021 02 19"], 8, ["ger"], ["drama"], [], ["Netflix"], ["Gina Prince-Bythewood"], ["Dakota Fanning", "Joe Chrest", "Cathy Cavadini", "Amad Jackson", "Sophie Okonedo"], "https://64.media.tumblr.com/9159d7f8341741ca325ac43e73414cce/48b363066c6a6bcf-3d/s250x400/87d909506a6edfcffd75105ee08f32d488cdb3d3.jpg"],
 
 ["film", ["I am Legend"], "2007", [["2021 02 19", "2021 02 20"]], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Francis Lawrence"], ["Will Smith", "Alice Braga"], "https://64.media.tumblr.com/cd24f6f796edf4e2ae78934e3cf7fc4a/238a9a623dd81a4e-6c/s250x400/f43c63268b0aca0a5aa3b38235a9a2dc6c116ded.jpg"],
 
@@ -2006,7 +2006,7 @@ var database = [
 
 ["series", ["The Bureau of Magical Things", "Club der magischen Dinge"], ["2018", ""], [["2021 11 23", "2021 11 29", "S1E1-S1E9"]], 4, ["ger"], ["family", "fantasy"], [], ["Netflix", "ongoing", "dropped"], ["Chris Anastassiades", "Sam Carroll", "Li-Kim Chuah"], ["Melanie Zanetti"], "https://64.media.tumblr.com/4b05f6c8415c3e4f6553c6deb9d1c204/c9f6af84a4caba57-4c/s250x400/effba562875e2b3763f10c6190aa8c2853c8db9b.jpg"],
 
-["film", ["After Earth"], "2013", ["2021 11 23"], 4, ["ger"], ["action", "adventure"], ["je"], [], ["M. Night Shyamalan"], ["Will Smith", "Isabelle Fuhrman"], "https://64.media.tumblr.com/2a89004eaebf8f4c05b4e951b336d12a/66be50de3b41f76b-04/s250x400/f04b5bb1e27b5b3cfe97f5b58f92d7706e1b2b44.jpg"],
+["film", ["After Earth"], "2013", ["2021 11 23"], 4, ["ger"], ["action", "adventure"], ["je"], [], ["M. Night Shyamalan"], ["Will Smith", "Isabelle Fuhrman", "Sophie Okonedo"], "https://64.media.tumblr.com/2a89004eaebf8f4c05b4e951b336d12a/66be50de3b41f76b-04/s250x400/f04b5bb1e27b5b3cfe97f5b58f92d7706e1b2b44.jpg"],
 
 ["series", ["Soul Eater"], ["2008", "2009"], [["2021 11 24", "2022 02 10", "S1"]], 4, ["jap", "ger"], ["anime", "action"], ["bini", "nico", "jani", "jessie"], [], ["Atsushi Ohkubo", "Akatsuki Yamatoya"], [], "https://64.media.tumblr.com/8b3bb84696e001328a8971552928aa23/653f070bca58c59b-fc/s250x400/d77ba276834e1c531ac5f15491644dfcf4d8b0a8.jpg"],
 
@@ -2215,7 +2215,9 @@ var database = [
 
 ["book", ["Maniac Magee", "East End, West End und dazwischen Maniac Magee"], "1990", [["2022 05 01", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/eba83b6d747fec37902bb193be553839/929dab40af472a01-98/s250x400/5ae720f5de4e6e5986b16bda63a78de08eb41a19.jpg"],
 
-["film", ["Death on the Nile", "Tod auf dem Nil"], "2022", ["2022 05 05"], 7, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Orlando Seale", "Kenneth Branagh"], "https://64.media.tumblr.com/72633d92436cf4de74d217de6c0d4212/2dca79524f634bee-61/s250x400/8775fbd68a8bb15cf1f07008ca90720cb3b4f96c.jpg"]
+["film", ["Death on the Nile", "Tod auf dem Nil"], "2022", ["2022 05 05"], 7, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Orlando Seale", "Kenneth Branagh", "Sophie Okonedo", "Russell Brand"], "https://64.media.tumblr.com/72633d92436cf4de74d217de6c0d4212/2dca79524f634bee-61/s250x400/8775fbd68a8bb15cf1f07008ca90720cb3b4f96c.jpg"],
+
+["film", ["The Craft", "Der Hexenclub"], "1996", ["2022 05 08"], 8, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Andrew Fleming"], ["Robin Tunney"], "https://64.media.tumblr.com/3c030d96f34af7187abad628feffb7fb/152a7307000bcfca-da/s250x400/e87c53c238f2e91b4359a42428a5c35df9260498.jpg"]
 
 	
 /*
