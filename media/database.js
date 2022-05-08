@@ -2143,7 +2143,7 @@ var database = [
 
 ["film", ["Next Gen", "Das Mädchen und ihr Roboter - Die nächste Generation"], "2018", ["2022 02 19"], 5, ["ger"], ["animation", "action"], [], ["Netflix"], ["Kevin R. Adams", "Joe Ksander", "Ricardo Curtis"], [], "https://64.media.tumblr.com/39b12b01232b61d0409ce5c7cb9d2a1b/bc155e421d30c65a-e3/s250x400/825c68642c8121ee9e9074d837d77b5eb4bf9145.jpg"],
 
-["series", ["Shadow and Bone", "Shadow and Bone: Legenden der Grisha"], "2021", [["2022 02 20", "", "S1"]], 0, ["ger"], ["action", "adventure"], [], ["Netflix", "ongoing", "watching"], ["Leigh Bardugo", "Eric Heisserer", "Eric Heisserer"], ["Ben Barnes"], "https://64.media.tumblr.com/bc8862162e951291eb9c3d7dd90e0a69/e773c915fc14a2c3-1d/s250x400/218ee8b9d290b1317fb16bccb1e4b41434824bde.jpg"],
+["series", ["Shadow and Bone", "Shadow and Bone: Legenden der Grisha"], "2021", [["2022 02 20", "2022 05 08", "S1"]], 0, ["ger"], ["action", "adventure"], [], ["Netflix", "ongoing"], ["Leigh Bardugo", "Eric Heisserer", "Eric Heisserer"], ["Ben Barnes"], "https://64.media.tumblr.com/bc8862162e951291eb9c3d7dd90e0a69/e773c915fc14a2c3-1d/s250x400/218ee8b9d290b1317fb16bccb1e4b41434824bde.jpg"],
 
 ["book", ["Carrie"], "1974", [["2022 02 25", "2022 03 28"]], 7, ["ger"], ["horror"], [], ["bibliothek"], ["Stephen King"], [], "https://64.media.tumblr.com/b253903cf34e6d32d4bbce97fa14ee42/b12c1c6314c9d139-82/s400x600/25d34acffe31f1ab9fab3d7259252cbdf94d82e2.jpg"],
 
