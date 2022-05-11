@@ -2175,7 +2175,7 @@ var database = [
 
 ["book", ["Das verdammte Chaos im Mikrokosmos"], "2015", [["2022 03 29", "2022 04 25"]], 7, ["ger"], [], [], ["bibliothek"], ["Anke Weber"], [], "https://64.media.tumblr.com/111a070d053c36be33762fc23b1b66b6/ac743d4e49dec798-5e/s250x400/335d8881a169b5e46c66791c9934ada0c41dd3f9.jpg"],
 
-["series", ["Maya", "Die Biene Maja", "Mitsubachi Mâya no bôken"], ["1975", "1980"], [["2022 03 30", "S1E1-S1E2"], ["2022 04 09", "S1E6"]], 0, ["ger"], ["anime", "adventure"], ["bini"], ["bilbiothek"], ["Waldemar Bonsels", "Marty Murphy", "Niisan Takahashi"], [], "https://64.media.tumblr.com/e14b32ec817851f3e7c921d1527daff4/1d17d47e327c97de-40/s250x400/1590955223962288cce755a68e7988375b643028.jpg"],
+["series", ["Maya", "Die Biene Maja", "Mitsubachi Mâya no bôken"], ["1975", "1980"], [["2022 03 30", "S1E1-S1E2"], ["2022 04 09", "S1E6"], ["2022 05 11", "S1E9"]], 0, ["ger"], ["anime", "adventure"], ["bini"], ["bilbiothek"], ["Waldemar Bonsels", "Marty Murphy", "Niisan Takahashi"], [], "https://64.media.tumblr.com/e14b32ec817851f3e7c921d1527daff4/1d17d47e327c97de-40/s250x400/1590955223962288cce755a68e7988375b643028.jpg"],
 
 ["film", ["Child of Kamiari Month", "Child of Kamiari Month", "Kamiarizuki no kodomo"], "2021", ["2022 04 02"], 5, ["ger"], ["anime", "drama"], ["bini", "mai"], ["Netflix"], ["Takana Shirai"], [], "https://64.media.tumblr.com/305b42774e4a4deba2d80d6c2d4b07a0/2fd5727acfd79cba-4a/s250x400/4c2dc9e89be1498ccf33d174a21e22373f45affa.jpg"],
 
