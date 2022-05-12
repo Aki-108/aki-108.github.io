@@ -2219,7 +2219,7 @@ var database = [
 
 ["film", ["The Craft", "Der Hexenclub"], "1996", ["2022 05 08"], 8, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Andrew Fleming"], ["Robin Tunney"], "https://64.media.tumblr.com/3c030d96f34af7187abad628feffb7fb/152a7307000bcfca-da/s250x400/e87c53c238f2e91b4359a42428a5c35df9260498.jpg"],
 
-["film", ["Barbie: A Fashion Fairytale", "Barbie - Modezauber in Paris"], "2010", ["2022 05 12"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["William Lau", "Conrad Helten"], [], "image"]
+["film", ["Barbie: A Fashion Fairytale", "Barbie - Modezauber in Paris"], "2010", ["2022 05 12"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["William Lau", "Conrad Helten"], [], "https://64.media.tumblr.com/cfda89295e0993031d7397841042d477/b51b464e46a8d6cf-29/s250x400/1aac97d73f0f2bd853c96b064ddc1a5a6f6f8da2.jpg"]
 
 	
 /*
