@@ -2217,7 +2217,9 @@ var database = [
 
 ["film", ["Death on the Nile", "Tod auf dem Nil"], "2022", ["2022 05 05"], 7, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Orlando Seale", "Kenneth Branagh", "Sophie Okonedo", "Russell Brand"], "https://64.media.tumblr.com/72633d92436cf4de74d217de6c0d4212/2dca79524f634bee-61/s250x400/8775fbd68a8bb15cf1f07008ca90720cb3b4f96c.jpg"],
 
-["film", ["The Craft", "Der Hexenclub"], "1996", ["2022 05 08"], 8, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Andrew Fleming"], ["Robin Tunney"], "https://64.media.tumblr.com/3c030d96f34af7187abad628feffb7fb/152a7307000bcfca-da/s250x400/e87c53c238f2e91b4359a42428a5c35df9260498.jpg"]
+["film", ["The Craft", "Der Hexenclub"], "1996", ["2022 05 08"], 8, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Andrew Fleming"], ["Robin Tunney"], "https://64.media.tumblr.com/3c030d96f34af7187abad628feffb7fb/152a7307000bcfca-da/s250x400/e87c53c238f2e91b4359a42428a5c35df9260498.jpg"],
+
+["film", ["Barbie: A Fashion Fairytale", "Barbie - Modezauber in Paris"], "2010", ["2022 05 12"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["William Lau", "Conrad Helten"], [], "image"]
 
 	
 /*
