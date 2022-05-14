@@ -365,7 +365,7 @@ var database = [
 	        
 ["series", ["Stranger Things"], "2016", [["2017 09 30", "2017 10 01", "S1"], ["2017 10 28", "2017 10 29", "S2"], ["2019 07 05", "2019 07 09", "S3"]], 8, ["ger"], ["drama", "fantasy", "horror", "mystery", "thriller", "sci-fi"], ["bini"], ["Netflix"], ["Matt Duffer", "Ross Duffer"], ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Sean Astin", "Joe Chrest", "Jamie Campbell Bower"], "https://66.media.tumblr.com/c8b627f6c4e359d3e447107df3fbf426/67ddec5eb9eb235d-ed/s250x400/d663062da2fa7916f4f53c57f65e0a4898097490.jpg"],
 	        
-["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
+["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
 	        
 ["series", ["The Gay and Wondrous Life of Caleb Gallo"], "2016", [["2017 11 13", "S1"]], 9, ["eng"], ["comedy"], [], [], ["Brian Jordan Alvarez"], ["Stephanie Koenig"], "https://66.media.tumblr.com/97c1954bda4e7b0b57b0319e5e81122b/2f29f380c419c57b-6e/s250x400/699fdf7706dedfa3e63fc76ba474408ea3e3fd06.jpg"],
 	        
@@ -536,7 +536,7 @@ var database = [
 	        
 ["film", ["All the Bright Places", "All die verdammt perfekten Tage"], "2020", ["2020 06 13"], 7, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Brett Haley"], ["Elle Fanning", "Justice Smith"], "https://66.media.tumblr.com/4234402071d21b4ad20bbc81763f21ed/e281213a508bcd3d-7d/s250x400/b70ea8db842311cd587b0b85ba7e42c90d88ce95.jpg"],
 	        
-["film", ["Tigermilch"], "2017", ["2020 05 31"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Emily Kusche"], "https://66.media.tumblr.com/81b55aa9054bce909909a7a43fe58e51/2012c6606283f3ab-4e/s250x400/c949a2422bf2f82cb85b9e3552f6b785eaf6ff18.jpg"],
+["film", ["Tigermilch"], "2017", ["2020 05 31"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Emily Kusche", "Milton Welsh"], "https://66.media.tumblr.com/81b55aa9054bce909909a7a43fe58e51/2012c6606283f3ab-4e/s250x400/c949a2422bf2f82cb85b9e3552f6b785eaf6ff18.jpg"],
 	        
 ["film", ["20th Century Women", "Jahrhundertfrauen"], "2016", ["2017 06 26"], 8, ["ger"], ["comedy", "drama"], ["syl", "je"], ["Kino"], ["Mike Mills"], ["Elle Fanning", "Lucas Jade Zumann"], "https://66.media.tumblr.com/57ae9062e00bd63a7387cd5e6c39fcc0/tumblr_ppuvm1QCdV1v2s5upo1_250.jpg"],
 	        
@@ -762,7 +762,7 @@ var database = [
 	        
 ["film", ["2 Guns"], "2013", ["2017 08 06"], 6, ["ger"], ["action", "comedy"], [], [], ["Baltasar Kormákur"], ["Mark Wahlberg", "James Marsden"], "https://66.media.tumblr.com/ccbf8641297e401fa21e4b80f57c10f5/tumblr_pxrfvzPsqq1v2s5upo1_250.jpg"],
 	        
-["film", ["We're the Millers", "Wir sind die Millers"], "2013", ["2020 09 19"], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Rawson Marshall Thurber"], ["Jennifer Aniston", "Jason Sudeikis", "Emma Roberts", "Will Poulter", "Nick Offerman", "Kathryn Hahn", "Molly C. Quinn", "Luis Guzmán", "Matthew Willig"], "https://64.media.tumblr.com/ee930350436633e134094138bb5b2c13/0b77504b8d09586d-14/s250x400/1c5f83b8477616f13f6f8ba2553e9ff659d4783b.jpg"],
+["film", ["We're the Millers", "Wir sind die Millers"], "2013", ["2020 09 19"], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Rawson Marshall Thurber"], ["Jennifer Aniston", "Jason Sudeikis", "Emma Roberts", "Will Poulter", "Nick Offerman", "Kathryn Hahn", "Molly C. Quinn", "Luis Guzmán", "Matthew Willig", "Sam Richardson"], "https://64.media.tumblr.com/ee930350436633e134094138bb5b2c13/0b77504b8d09586d-14/s250x400/1c5f83b8477616f13f6f8ba2553e9ff659d4783b.jpg"],
 	        
 ["film", ["The LEGO Movie"], "2014", ["2017 07 16", "2021 09 18"], 7, ["ger"], ["animation", "action", "comedy"], ["bini", "mai"], ["LEGO", "Netflix"], ["Christopher Miller", "Phil Lord"], [], "https://66.media.tumblr.com/8a4ec55d291de283e5130d1d06e00fb2/tumblr_pxnk9mcF8i1v2s5upo1_250.jpg"],
 	        
@@ -1080,9 +1080,9 @@ var database = [
 	        
 ["film", ["How to Lose Friends & Alienate People", "New York für Anfänger"], "2008", ["2015 09 20"], 6, ["ger"], ["biography", "comedy"], [], [], ["Robert B. Weide"], ["Simon Pegg", "Megan Fox", "Kirsten Dunst", "Daniel Craig"], "https://66.media.tumblr.com/e25c13ef11b7ba8ef8b3d3b787960c0a/tumblr_ppxz5xX3wp1v2s5upo1_250.jpg"],
 	        
-["film", ["Pain & Gain"], "2013", ["2015 09 21"], 4, ["ger"], ["action", "comedy"], ["bini"], [], ["Michael Bay"], ["Mark Wahlberg", "Dwayne Johnson", "Anthony Mackie", "Tony Shalhoub", "Ed Harris", "Ken Jeong", "Peter Stormare"], "https://66.media.tumblr.com/a8b015b73adfb7e1571797ac1e0ca38a/tumblr_ppxz7cPxSj1v2s5upo1_250.jpg"],
+["film", ["Pain & Gain"], "2013", ["2015 09 21"], 4, ["ger"], ["action", "comedy"], ["bini"], [], ["Michael Bay"], ["Mark Wahlberg", "Dwayne Johnson", "Anthony Mackie", "Tony Shalhoub", "Ed Harris", "Ken Jeong", "Peter Stormare", "Rebel Wilson"], "https://66.media.tumblr.com/a8b015b73adfb7e1571797ac1e0ca38a/tumblr_ppxz7cPxSj1v2s5upo1_250.jpg"],
 	        
-["film", ["Heil"], "2015", ["2015 09 23"], 4, ["ger"], ["comedy"], ["nico"], ["Kino", "Schule"], ["Dietrich Brüggemann"], ["Benno Fürmann", "Daniel Zillmann", "Angela Merkel", "Thees Uhlmann", "Jacob Matschenz"], "https://66.media.tumblr.com/6285f982882737ada035ff0f5b4f459f/tumblr_ppxz9hhsRK1v2s5upo1_250.jpg"],
+["film", ["Heil"], "2015", ["2015 09 23"], 4, ["ger"], ["comedy"], ["nico"], ["Kino", "Schule"], ["Dietrich Brüggemann"], ["Benno Fürmann", "Daniel Zillmann", "Angela Merkel", "Thees Uhlmann", "Jacob Matschenz", "Claudia Eisinger"], "https://66.media.tumblr.com/6285f982882737ada035ff0f5b4f459f/tumblr_ppxz9hhsRK1v2s5upo1_250.jpg"],
 	        
 ["film", ["I, Robot"], "2004", ["2015 09 25"], 5, ["ger"], ["action", "drama"], ["bini"], [], ["Alex Proyas"], ["Will Smith", "Alan Tudyk", "Bruce Greenwood", "Shia LaBeouf"], "https://66.media.tumblr.com/77b0c2f02a5a9786cd573d76fb79fbb6/tumblr_ppxzd1WNaY1v2s5upo1_250.jpg"],
 	        
@@ -1282,7 +1282,7 @@ var database = [
 	        
 ["film", ["Black Mirror: Bandersnatch"], "2018", ["2019 02 07"], 5, ["ger"], ["drama", "mystery"], [], ["Black Mirror", "Netflix"], ["David Slade"], ["Fionn Whitehead"], "https://66.media.tumblr.com/c2c0b579e17edf051150c80dd5b85356/9529b0306515b777-12/s250x400/c09d309a79004a523f85482a53874fd1a01087e1.jpg"],
 	        
-["film", ["Rachel, Jack and Ashley Too"], "2019", ["2019 06 08"], 7, ["ger"], ["drama", "sci-fi"], [], ["Black Mirror", "Netflix"], ["Anne Sewitsky"], ["Miley Cyrus"], "https://66.media.tumblr.com/78d54d2c85af58f64694a071c70762a8/5092cb42d5fa2c4a-e8/s250x400/5b3f74aa43ce285d726ad0bcbe49ca759363947b.jpg"],
+["film", ["Rachel, Jack and Ashley Too"], "2019", ["2019 06 08"], 7, ["ger"], ["drama", "sci-fi"], [], ["Black Mirror", "Netflix"], ["Anne Sewitsky"], ["Miley Cyrus", "Angourie Rice"], "https://66.media.tumblr.com/78d54d2c85af58f64694a071c70762a8/5092cb42d5fa2c4a-e8/s250x400/5b3f74aa43ce285d726ad0bcbe49ca759363947b.jpg"],
 	        
 ["film", ["Brave", "Merida - Legende der Highlands"], "2012", ["2019 02 04"], 0, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Mark Andrews", "Brenda Chapman", "Steve Purcell"], [], "https://66.media.tumblr.com/727f235707969cd043cf44d2caaddc41/e7d4e1a7d35df1b3-3a/s250x400/aa20386ab6ee4dd5e75d606030abdd93b6d896ce.jpg"],
 	        
@@ -1294,7 +1294,7 @@ var database = [
 	        
 ["film", ["Nanny McPhee", "Eine zauberhafte Nanny"], "2005", ["2018 09 18"], 6, ["ger"], ["comedy", "family"], ["bini"], ["Netflix"], ["Kirk Jones"], ["Colin Firth", "Thomas Brodie-Sangster", "Adam Godley"], "https://66.media.tumblr.com/bb9eff003493e7c9a7ea7f2a0cdd7eea/6f75485fa561d4ff-68/s250x400/9a3068debcdcaa98d16c6816eab43ebb8545d428.jpg"],
 	        
-["film", ["The Package"], "2018", ["2018 09 05"], 6, ["ger"], ["comedy", "thriller"], ["bini"], ["Netflix"], ["Jake Szymanski"], ["Daniel Doheny"], "https://66.media.tumblr.com/7622b740247f1a4c1b7dd85dfb794b78/6dac7a859b43c095-c7/s250x400/83db237d3ffce0cf27ffac155064d057bb6f89e7.jpg"],
+["film", ["The Package"], "2018", ["2018 09 05"], 6, ["ger"], ["comedy", "thriller"], ["bini"], ["Netflix"], ["Jake Szymanski"], ["Daniel Doheny", "Mary Holland"], "https://66.media.tumblr.com/7622b740247f1a4c1b7dd85dfb794b78/6dac7a859b43c095-c7/s250x400/83db237d3ffce0cf27ffac155064d057bb6f89e7.jpg"],
 	        
 ["film", ["Scary Movie"], "2000", ["2018 07 30"], 4, ["ger"], ["comedy"], ["bini", "nico"], ["Netflix"], ["Keenen Ivory Wayans"], ["Carmen Electra", "Anna Faris"], "https://66.media.tumblr.com/8f00a5b43934233c812fb5925d2cd8cf/e0f715bbea917071-ab/s250x400/a2cb6d0ae31256ace13fa5dcd02b96c9bc3ae413.jpg"],
 	        
@@ -1492,7 +1492,7 @@ var database = [
 	        
 ["film", ["Pippi in the South Seas", "Pippi in Taka-Tuka-Land", "Pippi Långstrump på de sju haven"], "1970", ["2017 04 11", "2021 12 29"], 7, ["ger"], ["adventure", "comedy"], ["bini"], ["Pippi"], ["Olle Hellbom"], ["Inger Nilsson", "Maria Persson", "Pär Sundberg"], "https://68.media.tumblr.com/bdacbc0341f6ded654556499df5fb2aa/tumblr_ooaksmvW5V1v2s5upo1_250.jpg"],
 	        
-["film", ["Night at the Museum: Secret of the Tomb", "Nachts im Museum - Das geheimnisvolle Grabmal"], "2014", ["2017 01 01"], 5, ["ger"], ["adventure", "comedy"], [], [], ["Shawn Levy"], ["Ben Stiller", "Robin Williams", "Owen Wilson", "Rami Malek", "Ben Kingsley", "Hugh Jackman", "Alice Eve", "Mizuo Peck"], "https://68.media.tumblr.com/e6a602c17edbef249f4d973e1945dfb3/tumblr_oj4eruClkU1v2s5upo1_250.jpg"],
+["film", ["Night at the Museum: Secret of the Tomb", "Nachts im Museum - Das geheimnisvolle Grabmal"], "2014", ["2017 01 01"], 5, ["ger"], ["adventure", "comedy"], [], [], ["Shawn Levy"], ["Ben Stiller", "Robin Williams", "Owen Wilson", "Rami Malek", "Ben Kingsley", "Hugh Jackman", "Alice Eve", "Mizuo Peck", "Rebel Wilson"], "https://68.media.tumblr.com/e6a602c17edbef249f4d973e1945dfb3/tumblr_oj4eruClkU1v2s5upo1_250.jpg"],
 	        
 ["film", ["Attack on Titan Crimson Bow and Arrow", "Attack on Titan: Crimson Arrows", "Gekijouban Shingeki no kyojin Zenpen: Guren no yumiya"], "2014", ["2017 06 18"], 7, ["jap"], ["anime", "action"], ["nico", "sai", "bini"], ["Attack on Titan"], ["Tetsurô Araki"], [], "https://68.media.tumblr.com/d33f4d29a7b2cc7d9b8abd168e62c00b/tumblr_os7woeG3Cs1v2s5upo1_250.jpg"],
 	        
@@ -1508,7 +1508,7 @@ var database = [
 	        
 ["film", ["Vor Sonnenaufgang"], "1979", ["2017 11 05"], 5, ["ger"], ["drama"], [], [], ["Oswald Döpke"], [], "https://66.media.tumblr.com/c3bb4ae9a6cd1dc5d4fff276c52cdc76/6df7fc9c5e397263-3b/s250x400/e7757befebb8f27b2a8fce39e1f8dd7f3ec2f972.jpg"],
 	        
-["film", ["Frau Müller muss weg!"], "2015", ["2017 11 25"], 6, ["ger"], ["comedy"], ["je"], [], ["Sönke Wortmann"], ["Anke Engelke"], "https://66.media.tumblr.com/841deafeaca2817ca1025bb032efbb35/tumblr_pyefojnGEl1v2s5upo1_250.jpg"],
+["film", ["Frau Müller muss weg!"], "2015", ["2017 11 25"], 6, ["ger"], ["comedy"], ["je"], [], ["Sönke Wortmann"], ["Anke Engelke", "Alwara Höfels"], "https://66.media.tumblr.com/841deafeaca2817ca1025bb032efbb35/tumblr_pyefojnGEl1v2s5upo1_250.jpg"],
 	        
 ["film", ["Die Feuerzangenbowle"], "1944", ["2017 12 20"], 6, ["ger"], ["comedy"], [], ["Schule"], ["Helmut Weiss"], [], "https://66.media.tumblr.com/8e29c18b3a25115f7dc328df1f731112/tumblr_pyv14dONDH1v2s5upo1_250.jpg"],
 
@@ -2002,7 +2002,7 @@ var database = [
 
 ["film", ["Kung Fu Panda"], "2008", ["2021 11 20"], 9, ["ger"], ["animation", "action"], ["bini", "mai"], ["Netflix"], ["Mark Osborne", "John Stevenson"], [], "https://64.media.tumblr.com/4cc65fcd8588671bf0f2b68a2a5244ec/8e05298981cd4f0a-d4/s250x400/eea4ca1caaa76bc137e0513cf5eb42b221a26b5e.jpg"],
 
-["film", ["Neighbors 2: Sorority Rising", "Bad Neighbors 2"], "2016", ["2021 11 22"], 4, ["ger"], ["comedy"], ["bini", "syl", "je"], ["Netflix"], ["Nicholas Stoller"], ["Seth Rogen", "Zac Efron", "Rose Byrne", "Chloë Grace Moretz", "Dave Franco", "Christopher Mintz-Plasse", "Awkwafina", "Selena Gomez", "Lisa Kudrow", "Ike Barinholtz", "Kiersey Clemons", "Beanie Feldstein", "Hannibal Buress", "Ciara Bravo"], "https://64.media.tumblr.com/34ba2fe2a94b9e3f3539d451ce8a8cae/2145e1481d31850f-0d/s250x400/a17a441fdabd7f64e4157119ec7b7eebabead837.jpg"],
+["film", ["Neighbors 2: Sorority Rising", "Bad Neighbors 2"], "2016", ["2021 11 22"], 4, ["ger"], ["comedy"], ["bini", "syl", "je"], ["Netflix"], ["Nicholas Stoller"], ["Seth Rogen", "Zac Efron", "Rose Byrne", "Chloë Grace Moretz", "Dave Franco", "Christopher Mintz-Plasse", "Awkwafina", "Selena Gomez", "Lisa Kudrow", "Ike Barinholtz", "Kiersey Clemons", "Beanie Feldstein", "Hannibal Buress", "Ciara Bravo", "Sam Richardson"], "https://64.media.tumblr.com/34ba2fe2a94b9e3f3539d451ce8a8cae/2145e1481d31850f-0d/s250x400/a17a441fdabd7f64e4157119ec7b7eebabead837.jpg"],
 
 ["series", ["The Bureau of Magical Things", "Club der magischen Dinge"], ["2018", ""], [["2021 11 23", "2021 11 29", "S1E1-S1E9"]], 4, ["ger"], ["family", "fantasy"], [], ["Netflix", "ongoing", "dropped"], ["Chris Anastassiades", "Sam Carroll", "Li-Kim Chuah"], ["Melanie Zanetti"], "https://64.media.tumblr.com/4b05f6c8415c3e4f6553c6deb9d1c204/c9f6af84a4caba57-4c/s250x400/effba562875e2b3763f10c6190aa8c2853c8db9b.jpg"],
 
@@ -2085,7 +2085,7 @@ var database = [
 
 ["film", ["Maquia: When the Promised Flower Blooms", "Maquia: When the Promised Flower Blooms", "Sayonara no asa ni yakusoku no hana o kazarô"], "2018", ["2022 01 02"], 5, ["ger"], ["anime", "adventure"], ["bini"], ["Netflix"], ["Mari Okada"], [], "https://64.media.tumblr.com/2962e57c513b76a1ed35d06059b0b378/76f871cfb77dfdbc-84/s250x400/f4be21a71b8852e9f57c0043e817782e1f5362f7.jpg"],
 
-["film", ["Spin", "Spin - Finde deinen Beat"], "2021", ["2022 01 03"], 5, ["ger"], ["comedy", "family"], [], ["Disney+"], ["Manjari Makijany"], ["Anna Cathcart", "Kyana Teresa"], "https://64.media.tumblr.com/eb69da1a8b6e39e2418307a4406969c9/808eed6eee0a39c3-fa/s250x400/f79104a9d11973b28331a0a446e503c8f2e4f6df.jpg"],
+["film", ["Spin", "Spin - Finde deinen Beat"], "2021", ["2022 01 03"], 5, ["ger"], ["comedy", "family"], [], ["Disney+"], ["Manjari Makijany"], ["Anna Cathcart", "Kyana Teresa", "Avantika"], "https://64.media.tumblr.com/eb69da1a8b6e39e2418307a4406969c9/808eed6eee0a39c3-fa/s250x400/f79104a9d11973b28331a0a446e503c8f2e4f6df.jpg"],
 
 ["series", ["No Good Nick", "Nick für ungut"], "2019", [["2022 01 04", "2022 01 07", "S1E1-S1E3"]], 4, ["ger"], ["comedy", "drama"], [], ["Netflix", "dropped"], ["Keetgi Kogan", "Keetgi Kogan", "Emily Schmidt"], ["Lauren Lindsey Donzis", "Sean Astin", "François Chau", "Gus Kamp"], "https://64.media.tumblr.com/702c8ba0508db32d16fb8e70bdbf956c/fb2b74a7c574e552-b2/s250x400/bacb9c440a0f416f6ff586fa6c0e615dc15bd3a1.jpg"],
 
@@ -2195,7 +2195,7 @@ var database = [
 
 ["film", ["Barbie in a Mermaid Tale 2", "Barbie und das Geheimnis von Oceana 2"], "2011", ["2022 04 16"], 5, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["William Lau"], [], "https://64.media.tumblr.com/799799ee45daa2ff1ee519ef6d16a9e5/d564703ca8818d88-a5/s250x400/8d3d5de7658c5b029d5bb790c63ab052de81047c.jpg"],
 
-["film", ["Suck Me Shakespeer 2", "Fack ju Göhte 2"], "2015", ["2022 04 16"], 7, ["ger"], ["comedy"], ["bini"], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Jella Haase", "Karoline Herfurth", "Katja Riemann", "Gizem Emre", "Jana Pallaske"], "https://64.media.tumblr.com/24bfc2000ddb0f5322d8f9d6fc81d329/a4ab170a940b97de-db/s250x400/85083d66274e9050a9af2027bcf8715558a114bd.jpg"],
+["film", ["Suck Me Shakespeer 2", "Fack ju Göhte 2"], "2015", ["2022 04 16"], 7, ["ger"], ["comedy"], ["bini"], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Jella Haase", "Karoline Herfurth", "Katja Riemann", "Gizem Emre", "Jana Pallaske", "Alwara Höfels"], "https://64.media.tumblr.com/24bfc2000ddb0f5322d8f9d6fc81d329/a4ab170a940b97de-db/s250x400/85083d66274e9050a9af2027bcf8715558a114bd.jpg"],
 
 ["film", ["The Peppercorns and the Curse of the Black King", "Die Pfefferkörner und der Fluch des schwarzen Königs"], "2017", ["2022 04 17"], 4, ["ger"], ["adventure", "comedy"], ["bini"], [], ["Christian Theede"], ["Anna Böttcher"], "https://64.media.tumblr.com/fb8771ae098d3d5955d29551e8e2592c/8ae29a96e4b801f9-45/s250x400/927a6f74d420e913e2ea955e41f144391db0ad75.jpg"],
 
@@ -2219,7 +2219,11 @@ var database = [
 
 ["film", ["The Craft", "Der Hexenclub"], "1996", ["2022 05 08"], 8, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Andrew Fleming"], ["Robin Tunney"], "https://64.media.tumblr.com/3c030d96f34af7187abad628feffb7fb/152a7307000bcfca-da/s250x400/e87c53c238f2e91b4359a42428a5c35df9260498.jpg"],
 
-["film", ["Barbie: A Fashion Fairytale", "Barbie - Modezauber in Paris"], "2010", ["2022 05 12"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["William Lau", "Conrad Helten"], [], "https://64.media.tumblr.com/cfda89295e0993031d7397841042d477/b51b464e46a8d6cf-29/s250x400/1aac97d73f0f2bd853c96b064ddc1a5a6f6f8da2.jpg"]
+["film", ["Barbie: A Fashion Fairytale", "Barbie - Modezauber in Paris"], "2010", ["2022 05 12"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["William Lau", "Conrad Helten"], [], "https://64.media.tumblr.com/cfda89295e0993031d7397841042d477/b51b464e46a8d6cf-29/s250x400/1aac97d73f0f2bd853c96b064ddc1a5a6f6f8da2.jpg"],
+
+["film", ["Blutzbrüdaz"], "2011", ["2022 05 13"], 7, ["ger"], ["comedy", "music"], [], ["Netflix"], ["Özgür Yildirim"], ["Sido", "Milton Welsh", "Claudia Eisinger", "Alwara Höfels"], "https://64.media.tumblr.com/4ca559f579d51a92af4a71bc0cbb57fa/03eed2d068ee6165-82/s250x400/88b24e109b1a0de631a6a24a403d6d6ce3bdcc9a.jpg"],
+
+["film", ["Senior Year"], "2022", ["2022 05 14"], 6, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Alex Hardcastle"], ["Rebel Wilson", "Angourie Rice", "Mary Holland", "Sam Richardson", "Tyler Barnhardt", "Chris Parnell", "Avantika", "Alicia Silverstone"], "https://64.media.tumblr.com/e4874346bf81cc9e8f2017aea54eea83/93ec6edd830ec73d-68/s250x400/060d5baf0eda3752d987a159a57c14ce6022e8ba.jpg"]
 
 	
 /*
