@@ -2219,11 +2219,19 @@ var database = [
 
 ["film", ["The Craft", "Der Hexenclub"], "1996", ["2022 05 08"], 8, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Andrew Fleming"], ["Robin Tunney"], "https://64.media.tumblr.com/3c030d96f34af7187abad628feffb7fb/152a7307000bcfca-da/s250x400/e87c53c238f2e91b4359a42428a5c35df9260498.jpg"],
 
+["series", ["Kuromukuro"], ["2016", ""], [["2022 05 10", "", "S1"]], 0, ["ger"], ["anime", "action", "sci-fi"], ["bini", "nico"], ["Netflix", "watching"], ["Ryô Higaki", "Touko Machida", "Shigeru Morita"], [], "https://64.media.tumblr.com/5dc1bba33bc30de0365fb24887f97ba9/8a3a9f83363f8eed-bf/s250x400/7cdebd1b00513201accf4d2a1b83d2f9ed4ba59a.jpg"],
+
 ["film", ["Barbie: A Fashion Fairytale", "Barbie - Modezauber in Paris"], "2010", ["2022 05 12"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["William Lau", "Conrad Helten"], [], "https://64.media.tumblr.com/cfda89295e0993031d7397841042d477/b51b464e46a8d6cf-29/s250x400/1aac97d73f0f2bd853c96b064ddc1a5a6f6f8da2.jpg"],
 
 ["film", ["Blutzbrüdaz"], "2011", ["2022 05 13"], 7, ["ger"], ["comedy", "music"], [], ["Netflix"], ["Özgür Yildirim"], ["Sido", "Milton Welsh", "Claudia Eisinger", "Alwara Höfels"], "https://64.media.tumblr.com/4ca559f579d51a92af4a71bc0cbb57fa/03eed2d068ee6165-82/s250x400/88b24e109b1a0de631a6a24a403d6d6ce3bdcc9a.jpg"],
 
-["film", ["Senior Year"], "2022", ["2022 05 14"], 6, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Alex Hardcastle"], ["Rebel Wilson", "Angourie Rice", "Mary Holland", "Sam Richardson", "Tyler Barnhardt", "Chris Parnell", "Avantika", "Alicia Silverstone"], "https://64.media.tumblr.com/e4874346bf81cc9e8f2017aea54eea83/93ec6edd830ec73d-68/s250x400/060d5baf0eda3752d987a159a57c14ce6022e8ba.jpg"]
+["film", ["Senior Year"], "2022", ["2022 05 14"], 6, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Alex Hardcastle"], ["Rebel Wilson", "Angourie Rice", "Mary Holland", "Sam Richardson", "Tyler Barnhardt", "Chris Parnell", "Avantika", "Alicia Silverstone"], "https://64.media.tumblr.com/e4874346bf81cc9e8f2017aea54eea83/93ec6edd830ec73d-68/s250x400/060d5baf0eda3752d987a159a57c14ce6022e8ba.jpg"],
+
+["film", ["Barbie as the Princess and the Pauper", "Barbie als die Prinzessin und das Dorfmädchen"], "2004", ["2022 05 15"], 4, ["ger"], ["animation", "comedy"], ["bini"], ["Barbie"], ["William Lau"], [], "https://64.media.tumblr.com/00fab86fabab0c0afeceaf71b96a095e/367e3e1f7dbd1955-43/s250x400/8a7581a40b3d167fac12f7db960b1e0d43227347.jpg"],
+
+["series", ["Inventing Anna"], "2022", [["2022 05 16", "", "S1"]], 0, ["ger"], ["drama"], [], ["Netflix", "watching"], ["Carolyn Ingber", "Carolyn Ingber", "Nicholas Nardini"], ["actors"], "image"],
+
+["type", ["title"], "pub year", ["2022 05 17"], 0, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"]
 
 	
 /*
