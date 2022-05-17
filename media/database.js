@@ -1516,7 +1516,7 @@ var database = [
 
 ["film", ["The Chronicles of Narnia: The Voyage of the Dawn Treader", "Die Chroniken von Narnia - Die Reise auf der Morgenröte"], "2010", ["2019 04 06", "2021 12 22"], 7, ["ger"], ["adventure", "family"], [], ["Narnia", "Netflix", "Disney+"], ["Michael Apted"], ["Georgie Henley", "Skandar Keynes", "Ben Barnes", "Will Poulter", "Tilda Swinton", "Anna Popplewell"], "https://66.media.tumblr.com/24f7268b3298dbf4c4ae1a9122a2f3dd/0256992eb45e03c8-21/s250x400/bbb6924c2653086ef668b58fdb3f53e157a57de1.jpg"],
 
-["series", ["Orange Is the New Black"], ["2013", "2019"], [["2018 03 04", "2018 03 06", "S1"], ["2018 03 07", "2018 03 09", "S2"], ["2018 03 09", "2018 04 14", "S3"], ["2018 04 14", "2018 04 22", "S4"], ["2018 04 22", "2018 05 10", "S5"], ["2019 01 22", "2019 04 29", "S6"]/*["2018 03 04", "2019 04 29", "S1 - S6"]*/], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Jenji Kohan"], ["Laura Prepon", "Samira Wiley"], "https://66.media.tumblr.com/33e78130beb5a208717c0614aaf330d7/dbcf5d5d4b548d18-86/s250x400/b72bd942e9c00f9a4cbc70a7465d8f10ee4e0bc2.jpg"],
+["series", ["Orange Is the New Black"], ["2013", "2019"], [["2018 03 04", "2018 03 06", "S1"], ["2018 03 07", "2018 03 09", "S2"], ["2018 03 09", "2018 04 14", "S3"], ["2018 04 14", "2018 04 22", "S4"], ["2018 04 22", "2018 05 10", "S5"], ["2019 01 22", "2019 04 29", "S6"]/*["2018 03 04", "2019 04 29", "S1 - S6"]*/], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Jenji Kohan"], ["Laura Prepon", "Samira Wiley", "Laverne Cox"], "https://66.media.tumblr.com/33e78130beb5a208717c0614aaf330d7/dbcf5d5d4b548d18-86/s250x400/b72bd942e9c00f9a4cbc70a7465d8f10ee4e0bc2.jpg"],
 
 ["series", ["Between"], ["2015", "2016"], [["2018 06 27", "S1"], ["2018 06 27", "2018 07 05", "S2"]], 5, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Michael McGowan"], ["Jennette McCurdy"], "https://66.media.tumblr.com/72d4b759d273d97b4514ac79d6a2d284/4ab65324a2a042c1-25/s250x400/36f43d8d6925a44cdded25548b7914ebe5c9623d.jpg"],
 
@@ -1774,7 +1774,7 @@ var database = [
 
 ["audiobook", ["Heidi: How She Used What She Learned", "Heidi kann brauchen, was es gelernt hat"], "1881", [["2021 05 04", "2021 05 12"]], 7, ["ger"], [], [], ["Heidi"], ["Johanna Spyri"], [], "https://64.media.tumblr.com/01ff53df23c1d35e5d83ac71b256a809/3fa1395d25de81ca-3e/s250x400/8d3ef86be09fdac244e00f7dbf3ffbc7600629a7.jpg" /*https://64.media.tumblr.com/a20e9525e5ead1685c89f62ba6a0b0bd/d9482dfd9d661a05-1c/s400x600/a2ec6a7e21ceaac99d675673f5b6617a53d17eb7.jpg*/],
 
-["film", ["The Trial of the Chicago 7"], "2020", ["2021 04 16"], 6, ["ger"], ["drama", "history"], [], ["Netflix"], ["Aaron Sorkin"], ["Eddie Redmayne", "Alex Sharp", "Sacha Baron Cohen", "Jeremy Strong", "John Carroll Lynch", "Yahya Abdul-Mateen II", "Mark Rylance", "Joseph Gordon-Levitt", "Frank Langella", "John Doman"], "https://64.media.tumblr.com/b05681100ee6f2190973b9054e8816e7/01d0c955e4ab05e6-4d/s250x400/dc08b4523dc05709dfaf6955a9e20d181ebf7431.jpg"],
+["film", ["The Trial of the Chicago 7"], "2020", ["2021 04 16"], 6, ["ger"], ["drama", "history"], [], ["Netflix"], ["Aaron Sorkin"], ["Eddie Redmayne", "Alex Sharp", "Sacha Baron Cohen", "Jeremy Strong", "John Carroll Lynch", "Yahya Abdul-Mateen II", "Mark Rylance", "Joseph Gordon-Levitt", "Frank Langella", "John Doman", "Caitlin FitzGerald"], "https://64.media.tumblr.com/b05681100ee6f2190973b9054e8816e7/01d0c955e4ab05e6-4d/s250x400/dc08b4523dc05709dfaf6955a9e20d181ebf7431.jpg"],
 
 ["film", ["Girls On Top 2", "Mädchen Mädchen 2"], "2004", ["2021 04 17"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix", "bby"], ["Peter Gersina"], ["Diana Amft", "Karoline Herfurth", "Max Riemelt", "Florian David Fitz", "Tom Beck", "Jasmin Gerat"], "https://64.media.tumblr.com/b14c241af194d109cd1a9ad8e6bd4731/3068075a65c57590-22/s250x400/7cb07b60767f82fcfe76ad4b5dd09f8a134752dd.jpg"],
 
@@ -1950,7 +1950,7 @@ var database = [
 
 ["film", ["Blue My Mind"], "2017", ["2021 10 28"], 5, ["ger"], ["drama", "fantasy"], [], [], ["Lisa Brühlmann"], ["Luna Wedler"], "https://64.media.tumblr.com/faf24001f1305cfb24b84d879e791a56/d68813486e58bad2-61/s250x400/2103f8a53c36148b007b16cbb1de7f1b3c492d12.jpg"],
 
-["film", ["The Wave", "Die Welle"], "2008", ["2021 11 01"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Dennis Gansel"], ["Jürgen Vogel", "Frederick Lau", "Max Riemelt", "Elyas M'Barek", "Jacob Matschenz", "Max Mauff"], "https://64.media.tumblr.com/22e92cc08046c98c68f0e4778c1fc2a5/a37e1ae2a4afa3cb-5b/s250x400/8debab79dfb2f3b21f632e6feb3e68d1d69910f0.jpg"],
+["film", ["The Wave", "Die Welle"], "2008", ["2021 11 01"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Dennis Gansel"], ["Jürgen Vogel", "Frederick Lau", "Max Riemelt", "Elyas M'Barek", "Jacob Matschenz", "Max Mauff", "Tim Oliver Schultz"], "https://64.media.tumblr.com/22e92cc08046c98c68f0e4778c1fc2a5/a37e1ae2a4afa3cb-5b/s250x400/8debab79dfb2f3b21f632e6feb3e68d1d69910f0.jpg"],
 
 ["film", ["Die Wilden Hühner"], "2006", ["2021 11 03"], 5, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Paula Romy", "Zsá Zsá Inci", "Benno Fürmann", "Nina Vorbrodt", "Axel Prahl", "Jette Hering"], "https://64.media.tumblr.com/6e75d756d4b66248126c6483b750c971/9f1cc2ad374d9fcc-31/s250x400/3afe75e6d09c1f49f6d9b97433d5d3be22011c7a.jpg"],
 
@@ -2229,9 +2229,9 @@ var database = [
 
 ["film", ["Barbie as the Princess and the Pauper", "Barbie als die Prinzessin und das Dorfmädchen"], "2004", ["2022 05 15"], 4, ["ger"], ["animation", "comedy"], ["bini"], ["Barbie"], ["William Lau"], [], "https://64.media.tumblr.com/00fab86fabab0c0afeceaf71b96a095e/367e3e1f7dbd1955-43/s250x400/8a7581a40b3d167fac12f7db960b1e0d43227347.jpg"],
 
-["series", ["Inventing Anna"], "2022", [["2022 05 16", "", "S1"]], 0, ["ger"], ["drama"], [], ["Netflix", "watching"], ["Carolyn Ingber", "Carolyn Ingber", "Nicholas Nardini"], ["actors"], "image"],
+["series", ["Inventing Anna"], "2022", [["2022 05 16", "", "S1"]], 0, ["ger"], ["drama"], [], ["Netflix", "watching"], ["Carolyn Ingber", "Carolyn Ingber", "Nicholas Nardini"], ["Laverne Cox", "Caitlin FitzGerald"], "https://64.media.tumblr.com/cb01cf9b83dcf886eda4561f5cc72ec9/9ecbed59f65c1244-02/s250x400/7c85955cda88ca4d587136485d295a1859145dc5.jpg"],
 
-["type", ["title"], "pub year", ["2022 05 17"], 0, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"]
+["film", ["Freaks: You're One of Us", "Freaks - Du bist eine von uns"], "2020", ["2022 05 16"], 6, ["ger"], ["action", "drama"], [], ["Netflix"], ["Felix Binder"], ["Tim Oliver Schultz", "Wotan Wilke Möhring", "Daniel Zillmann"], "https://64.media.tumblr.com/11916506c255711cdc60b10c0381c229/2521ff8a2d6612d3-83/s250x400/4c89c54e4a13d0d94e864d2599f8f64f0787b26f.jpg"]
 
 	
 /*
