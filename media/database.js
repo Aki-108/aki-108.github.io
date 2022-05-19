@@ -2231,7 +2231,9 @@ var database = [
 
 ["series", ["Inventing Anna"], "2022", [["2022 05 16", "", "S1"]], 0, ["ger"], ["drama"], [], ["Netflix", "watching"], ["Carolyn Ingber", "Carolyn Ingber", "Nicholas Nardini"], ["Laverne Cox", "Caitlin FitzGerald"], "https://64.media.tumblr.com/cb01cf9b83dcf886eda4561f5cc72ec9/9ecbed59f65c1244-02/s250x400/7c85955cda88ca4d587136485d295a1859145dc5.jpg"],
 
-["film", ["Freaks: You're One of Us", "Freaks - Du bist eine von uns"], "2020", ["2022 05 16"], 6, ["ger"], ["action", "drama"], [], ["Netflix"], ["Felix Binder"], ["Tim Oliver Schultz", "Wotan Wilke Möhring", "Daniel Zillmann"], "https://64.media.tumblr.com/11916506c255711cdc60b10c0381c229/2521ff8a2d6612d3-83/s250x400/4c89c54e4a13d0d94e864d2599f8f64f0787b26f.jpg"]
+["film", ["Freaks: You're One of Us", "Freaks - Du bist eine von uns"], "2020", ["2022 05 16"], 6, ["ger"], ["action", "drama"], [], ["Netflix"], ["Felix Binder"], ["Tim Oliver Schultz", "Wotan Wilke Möhring", "Daniel Zillmann"], "https://64.media.tumblr.com/11916506c255711cdc60b10c0381c229/2521ff8a2d6612d3-83/s250x400/4c89c54e4a13d0d94e864d2599f8f64f0787b26f.jpg"],
+
+["book", ["Die Wilden Hühner"], "1993", ["2022 05 16"], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/2f6dbd662a2354b7f8eeb43d401bb0f0/7efe93fbfc70075b-84/s250x400/c57bafa9dda3822df617c27adf6d47fc0afad6cb.jpg"]
 
 	
 /*
