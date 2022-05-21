@@ -65,7 +65,7 @@ var database = [
 	        
 ["film", ["Evangelion: 3.0 You Can (Not) Redo", "Evangelion: 3.0 You Can (Not) Redo", "Evangelion Shin Gekijôban: Kyu"], "2012", ["2015 02 07", "2015 12 29", "2021 09 13"], 4, ["ger"], ["action", "mecha", "sci-fi", "fantasy", "anime"], ["bini", "nico"], ["Evangelion"], ["Hideaki Anno"], [], "https://40.media.tumblr.com/c4861977cc5b73586035c35c35aa6a84/tumblr_nzo97zbRtJ1v2s5upo1_250.jpg"],
 	        
-["film", ["The Girl Who Leapt Through Time", "Das Mädchen, das durch die Zeit sprang", "Toki wo Kakeru Shoujo"], "2006", ["2015 03 21", "2015 06 13", "2016 09 14", "2018 09 22", "2020 09 10"], 10, ["ger"], ["adventure", "drama", "romance", "anime", "sci-fi", "supernatural"], ["bini", "nico"], ["DVD"], ["Mamoru Hosoda"], [], "https://49.media.tumblr.com/d972105e1178eb2706ce0640f892ce2a/tumblr_nzo9b6u9xp1v2s5upo1_250.jpg"],
+["film", ["The Girl Who Leapt Through Time", "Das Mädchen, das durch die Zeit sprang", "Toki wo Kakeru Shoujo"], "2006", ["2015 03 21", "2015 06 13", "2016 09 14", "2018 09 22", "2020 09 10", "2022 05 21"], 10, ["ger", "jap"], ["adventure", "drama", "romance", "anime", "sci-fi", "supernatural"], ["bini", "nico", "mai"], ["DVD"], ["Mamoru Hosoda"], [], "https://49.media.tumblr.com/d972105e1178eb2706ce0640f892ce2a/tumblr_nzo9b6u9xp1v2s5upo1_250.jpg"],
 	        
 ["film", ["Spirited Away", "Chihiros Reise ins Zauberland", "Sen to Chihiro no kamikakushi"], "2001", ["2015 03 21", "2017 01 14", "2018 07 27", "2021 01 16", "2022 01 29"], 7, ["ger"], ["adventure", "drama", "fantasy", "supernatural", "anime"], ["bini", "nico", "syl", "je", "mai"], ["Ghibli", "Netflix"], ["Hayao Miyazaki"], [], "https://40.media.tumblr.com/dddca9742f78242e54a915d5032dadb8/tumblr_nzo9e7W3zv1v2s5upo1_250.jpg"],
 
