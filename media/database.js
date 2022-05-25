@@ -2237,7 +2237,9 @@ var database = [
 
 ["film", ["Full Out", "Die unglaubliche Geschichte der Ariana Berlin"], "2015", ["2022 05 20"], 4, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Sean Cisterna"], [], "https://64.media.tumblr.com/e22e07199d69247c076510472ddae940/c0c26183ecffb028-fe/s250x400/7bf505beb989e61d21a0490a0c42403b9f8d4379.jpg"],
 
-["film", ["The Addams Family: A New Musical"], "2021", ["2022 05 25"], 5, ["eng"], ["musical"], [], [], ["Jennifer Anderson Schramm"], [], "https://64.media.tumblr.com/adee1a4f29169493182d590bff539f90/5417c8a267fe85ad-22/s250x400/ae9f38ff2bddaa63a0f885d5eceae04e6100941f.jpg"]
+["film", ["The Addams Family: A New Musical"], "2021", ["2022 05 25"], 5, ["eng"], ["musical"], [], [], ["Jennifer Anderson Schramm"], [], "https://64.media.tumblr.com/adee1a4f29169493182d590bff539f90/5417c8a267fe85ad-22/s250x400/ae9f38ff2bddaa63a0f885d5eceae04e6100941f.jpg"],
+
+["film", ["Detective Conan 24: The Scarlett Bullet", "Detektiv Conan 24: Die schrlachrote Kugel"], "2021", ["2022 05 25"], 5, ["ger"], ["anime", "action", "comedy", "drama", "mystery"], ["bini", "nico", "jessie"], ["Conan"], ["Tomoka Nagaoka"], [], "https://64.media.tumblr.com/5632929d93defd033fd0524cc84752be/d76168b4d0cc7437-24/s250x400/59140adb7aa1c0e95f2b2b0f00a43e89a6d2566a.jpg"]
 
 	
 /*
