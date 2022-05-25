@@ -2235,7 +2235,9 @@ var database = [
 
 ["book", ["Die Wilden Hühner"], "1993", ["2022 05 16"], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/2f6dbd662a2354b7f8eeb43d401bb0f0/7efe93fbfc70075b-84/s250x400/c57bafa9dda3822df617c27adf6d47fc0afad6cb.jpg"],
 
-["film", ["Full Out", "Die unglaubliche Geschichte der Ariana Berlin"], "2015", ["2022 05 20"], 4, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Sean Cisterna"], [], "https://64.media.tumblr.com/e22e07199d69247c076510472ddae940/c0c26183ecffb028-fe/s250x400/7bf505beb989e61d21a0490a0c42403b9f8d4379.jpg"]
+["film", ["Full Out", "Die unglaubliche Geschichte der Ariana Berlin"], "2015", ["2022 05 20"], 4, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Sean Cisterna"], [], "https://64.media.tumblr.com/e22e07199d69247c076510472ddae940/c0c26183ecffb028-fe/s250x400/7bf505beb989e61d21a0490a0c42403b9f8d4379.jpg"],
+
+["film", ["The Addams Family: A New Musical"], "2021", ["2022 05 25"], 5, ["eng"], ["musical"], [], [], ["Jennifer Anderson Schramm"], [], "https://64.media.tumblr.com/adee1a4f29169493182d590bff539f90/5417c8a267fe85ad-22/s250x400/ae9f38ff2bddaa63a0f885d5eceae04e6100941f.jpg"]
 
 	
 /*
