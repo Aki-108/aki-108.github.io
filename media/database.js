@@ -2233,13 +2233,15 @@ var database = [
 
 ["film", ["Freaks: You're One of Us", "Freaks - Du bist eine von uns"], "2020", ["2022 05 16"], 6, ["ger"], ["action", "drama"], [], ["Netflix"], ["Felix Binder"], ["Tim Oliver Schultz", "Wotan Wilke Möhring", "Daniel Zillmann"], "https://64.media.tumblr.com/11916506c255711cdc60b10c0381c229/2521ff8a2d6612d3-83/s250x400/4c89c54e4a13d0d94e864d2599f8f64f0787b26f.jpg"],
 
-["book", ["Die Wilden Hühner"], "1993", ["2022 05 16"], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/2f6dbd662a2354b7f8eeb43d401bb0f0/7efe93fbfc70075b-84/s250x400/c57bafa9dda3822df617c27adf6d47fc0afad6cb.jpg"],
+["book", ["Die Wilden Hühner"], "1993", [["2022 05 16", "2022 05 28"]], 5, ["ger"], [], [], ["bibliothek"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/2f6dbd662a2354b7f8eeb43d401bb0f0/7efe93fbfc70075b-84/s250x400/c57bafa9dda3822df617c27adf6d47fc0afad6cb.jpg"],
 
 ["film", ["Full Out", "Die unglaubliche Geschichte der Ariana Berlin"], "2015", ["2022 05 20"], 4, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Sean Cisterna"], [], "https://64.media.tumblr.com/e22e07199d69247c076510472ddae940/c0c26183ecffb028-fe/s250x400/7bf505beb989e61d21a0490a0c42403b9f8d4379.jpg"],
 
 ["film", ["The Addams Family: A New Musical"], "2021", ["2022 05 25"], 5, ["eng"], ["musical"], [], [], ["Jennifer Anderson Schramm"], [], "https://64.media.tumblr.com/adee1a4f29169493182d590bff539f90/5417c8a267fe85ad-22/s250x400/ae9f38ff2bddaa63a0f885d5eceae04e6100941f.jpg"],
 
-["film", ["Detective Conan 24: The Scarlett Bullet", "Detektiv Conan 24: Die schrlachrote Kugel"], "2021", ["2022 05 25"], 5, ["ger"], ["anime", "action", "comedy", "drama", "mystery"], ["bini", "nico", "jessie"], ["Conan"], ["Tomoka Nagaoka"], [], "https://64.media.tumblr.com/5632929d93defd033fd0524cc84752be/d76168b4d0cc7437-24/s250x400/59140adb7aa1c0e95f2b2b0f00a43e89a6d2566a.jpg"]
+["film", ["Detective Conan 24: The Scarlett Bullet", "Detektiv Conan 24: Die schrlachrote Kugel"], "2021", ["2022 05 25"], 5, ["ger"], ["anime", "action", "comedy", "drama", "mystery"], ["bini", "nico", "jessie"], ["Conan"], ["Tomoka Nagaoka"], [], "https://64.media.tumblr.com/5632929d93defd033fd0524cc84752be/d76168b4d0cc7437-24/s250x400/59140adb7aa1c0e95f2b2b0f00a43e89a6d2566a.jpg"],
+
+["book", ["The Curious Incident of the Dog in the Night-Time", "Supergute Tage oder Die sonderbare Welt des Christopher Boone"], "2003", [["2022 05 29", ""]], 0, ["ger"], ["mystery"], [], ["bibliothek", "watching"], ["Mark Haddon"], [], "https://64.media.tumblr.com/caf8a0a7126121c52e7ee77b0f985f2d/33c9768d91bf334e-8c/s250x400/16dc686e160feb5798e42546ab633f5eb0a0910e.jpg"]
 
 	
 /*
