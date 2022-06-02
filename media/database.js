@@ -2243,7 +2243,9 @@ var database = [
 
 ["book", ["The Curious Incident of the Dog in the Night-Time", "Supergute Tage oder Die sonderbare Welt des Christopher Boone"], "2003", [["2022 05 29", ""]], 0, ["ger"], ["mystery"], [], ["bibliothek", "watching"], ["Mark Haddon"], [], "https://64.media.tumblr.com/caf8a0a7126121c52e7ee77b0f985f2d/33c9768d91bf334e-8c/s250x400/16dc686e160feb5798e42546ab633f5eb0a0910e.jpg"],
 
-["film", ["Detective Conan 24: The Bride of Halloween", "Detektiv Conan 24: Die Braut von Halloween"], "2022", ["2022 05 31"], 7, ["ger"], ["anime", "action"], ["bini", "jessie"], ["Conan", "Kino"], ["Gosho Aoyama"], [], "https://64.media.tumblr.com/43ef2e95c848adcda15b8dae3b936f4b/d6cbbfef6cb475ef-81/s250x400/66157fc6d41342261948178fc66af3a60bc824bf.jpg"]
+["film", ["Detective Conan 24: The Bride of Halloween", "Detektiv Conan 24: Die Braut von Halloween"], "2022", ["2022 05 31"], 7, ["ger"], ["anime", "action"], ["bini", "jessie"], ["Conan", "Kino"], ["Gosho Aoyama"], [], "https://64.media.tumblr.com/43ef2e95c848adcda15b8dae3b936f4b/d6cbbfef6cb475ef-81/s250x400/66157fc6d41342261948178fc66af3a60bc824bf.jpg"],
+
+["film", ["La La Land"], "2016", [["2022 06 01", "2022 06 02"]], 6, ["ger"], ["comedy", "drama", "music"], [], ["biliothek"], ["Damien Chazelle"], ["Ryan Gosling", "Emma Stone", "J.K. Simmons"], "https://64.media.tumblr.com/14db978cac7fe5d50c13b9a94562f9df/fbbd13374e35ee6c-42/s250x400/9dd4d737c85ab468ed1008d07f509b766471e1de.jpg"]
 
 	
 /*
