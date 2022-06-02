@@ -2245,7 +2245,9 @@ var database = [
 
 ["film", ["Detective Conan 24: The Bride of Halloween", "Detektiv Conan 24: Die Braut von Halloween"], "2022", ["2022 05 31"], 7, ["ger"], ["anime", "action"], ["bini", "jessie"], ["Conan", "Kino"], ["Gosho Aoyama"], [], "https://64.media.tumblr.com/43ef2e95c848adcda15b8dae3b936f4b/d6cbbfef6cb475ef-81/s250x400/66157fc6d41342261948178fc66af3a60bc824bf.jpg"],
 
-["film", ["La La Land"], "2016", [["2022 06 01", "2022 06 02"]], 6, ["ger"], ["comedy", "drama", "music"], [], ["biliothek"], ["Damien Chazelle"], ["Ryan Gosling", "Emma Stone", "J.K. Simmons"], "https://64.media.tumblr.com/14db978cac7fe5d50c13b9a94562f9df/fbbd13374e35ee6c-42/s250x400/9dd4d737c85ab468ed1008d07f509b766471e1de.jpg"]
+["film", ["La La Land"], "2016", [["2022 06 01", "2022 06 02"]], 6, ["ger"], ["comedy", "drama", "music"], [], ["biliothek"], ["Damien Chazelle"], ["Ryan Gosling", "Emma Stone", "J.K. Simmons"], "https://64.media.tumblr.com/14db978cac7fe5d50c13b9a94562f9df/fbbd13374e35ee6c-42/s250x400/9dd4d737c85ab468ed1008d07f509b766471e1de.jpg"],
+
+["film", ["Barbie and the Diamond Castle", "Barbie und das Diamantschloss"], "2008", ["2022 06 02"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Gino Nichele"], [], "https://64.media.tumblr.com/22bfe2c4377ae7244dee4917f3674765/73270d5b316f6f5d-77/s250x400/9bcfec3f04de7b246f8e18edab51b921287970f8.jpg"]
 
 	
 /*
