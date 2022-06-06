@@ -446,7 +446,7 @@ var database = [
 	        
 ["film", ["Lord of the Rings: The Fellowship of the Ring", "Der Herr der Ringe: Die Gefährten"], "2001", ["2015 12 06", "2016 12 17", ["2022 05 23", "2022 05 25", "Special Extended Edition"]], 7, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Elijah Wood", "Christopher Lee"], "https://49.media.tumblr.com/9eba6052112edcedbcd28bf485170ed2/tumblr_o0cggdNfkK1v2s5upo1_250.jpg"],
 	        
-["film", ["The Lord of the Rings: The Two Towers", "Der Herr der Ringe: Die zwei Türme"], "2002", ["2016 01 04", "2016 12 17", ["2022 06 03", "", "Special Extended Edition"]], 6, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth"], ["Peter Jackson"], ["Sean Astin", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Sean Bean", "Christopher Lee"], "https://40.media.tumblr.com/0c4330abd747db58db95ace6790a689d/tumblr_o0g28sodpV1v2s5upo1_250.jpg"],
+["film", ["The Lord of the Rings: The Two Towers", "Der Herr der Ringe: Die zwei Türme"], "2002", ["2016 01 04", "2016 12 17", ["2022 06 03", "2022 06 06", "Special Extended Edition"]], 6, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth"], ["Peter Jackson"], ["Sean Astin", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Sean Bean", "Christopher Lee"], "https://40.media.tumblr.com/0c4330abd747db58db95ace6790a689d/tumblr_o0g28sodpV1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Lord of the Rings: The Return of the King", "Der Herr der Ringe: Die Rückkehr des Königs"], "2003", ["2016 02 13", "2016 12 18"], 6, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Christopher Lee"], "https://49.media.tumblr.com/e79056db9dd93cc65ac09ee280ed973c/tumblr_o2j5yuqU8n1v2s5upo1_250.jpg"],
 	        
@@ -2249,7 +2249,9 @@ var database = [
 
 ["film", ["Barbie and the Diamond Castle", "Barbie und das Diamantschloss"], "2008", ["2022 06 02"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Gino Nichele"], [], "https://64.media.tumblr.com/22bfe2c4377ae7244dee4917f3674765/73270d5b316f6f5d-77/s250x400/9bcfec3f04de7b246f8e18edab51b921287970f8.jpg"],
 
-["short", ["While You Weren't Looking"], "2013", ["2022 06 03"], 6, ["eng"], ["adventure"], [], [], ["Jeremy Mackie"], [], "https://64.media.tumblr.com/dd975ef1817defdb47150a89e2ab5d8c/3216c66d448233fb-86/s250x400/046d53820db01db6284455a238eb4730f947f8ff.jpg"]
+["short", ["While You Weren't Looking"], "2013", ["2022 06 03"], 6, ["eng"], ["adventure"], [], [], ["Jeremy Mackie"], [], "https://64.media.tumblr.com/dd975ef1817defdb47150a89e2ab5d8c/3216c66d448233fb-86/s250x400/046d53820db01db6284455a238eb4730f947f8ff.jpg"],
+
+["film", ["Barbie: Fairytopia"], "2005", ["2022 06 06"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Walter P. Martishius", "William Lau"], [], "https://64.media.tumblr.com/e344f6008162a127bc928efe5679d2dd/814a2e186700ddcd-e5/s250x400/a29fceb62f7dc678c4ff4ad1878c01124474ae20.jpg"]
 
 	
 /*
