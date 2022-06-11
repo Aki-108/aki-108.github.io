@@ -223,7 +223,7 @@ var database = [
 	        
 ["film", ["What Happened to Monday", "What Happened to Monday?"], "2017", ["2020 09 05"], 7, ["ger"], ["action", "adventure"], ["syl"], ["Netflix"], ["Tommy Wirkola"], ["Noomi Rapace", "Willem Dafoe", "Marwan Kenzari"], "https://64.media.tumblr.com/de05eee06fdc8769637827199fb24ed2/9d69a5cc9bdb41e7-62/s250x400/c6e9fb7e5eaa5d0b2a16460e5022e3e826863392.jpg"],
 	        
-["series", ["Lost"], ["2004", "2010"], [["2017 08 08", "2017 10 01", "S1-S6"], ["2019 02 15", "2019 07 01", "S1-S6"], ["2021 12 22", "2022 01 07", "S1"], ["2022 01 07", "2022 02 25", "S2"], ["2022 02 25", "2022 04 15", "S3"], ["2022 05 06", "2022 05 15", "S4"], ["2022 05 17", "2022 05 31", "S5"], ["2022 05 31", "", "S6"]], 10, ["ger"], ["adventure", "drama"], ["bini"], ["DVD", "fav", "watching"], ["J.J. Abrams", "Jeffrey Lieber", "Damon Lindelof"], ["Jorge Garcia", "Josh Holloway", "Yunjin Kim", "Evangeline Lilly", "Terry O'Quinn", "Naveen Andrews", "Matthew Fox", "Daniel Dae Kim", "Emilie de Ravin", "Michael Emerson", "Henry Ian Cusick", "Dominic Monaghan", "Elizabeth Mitchell", "Ken Leung", "Nestor Carbonell", "Maggie Grace", "Jeremy Davies", "Ian Somerhalder", "Michelle Rodriguez", "Cynthia Watros", "Rebecca Mader", "Sam Anderson", "Tania Raymonde", "John Terry", "Alan Dale", "William Mapother", "Kevin Durand", "Rodrigo Santoro", "Mark Pellegrino", "Jeff Fahey", "Andrea Gabriel", "Andrew Divoff", "Titus Welliver", "Fionnula Flanagan", "Kevin Tighe", "Samm Levine", "Hiroyuki Sanada", "Kevin Durand", "Julie Bowen", "François Chau", "M.C. Gainey", "Shaun Toub", "Brett Cullen"], "https://68.media.tumblr.com/b5d291cc94cf3d575bdce3c73ab8b82a/tumblr_odg5nyKL9D1v2s5upo1_250.jpg"],
+["series", ["Lost"], ["2004", "2010"], [["2017 08 08", "2017 10 01", "S1-S6"], ["2019 02 15", "2019 07 01", "S1-S6"], ["2021 12 22", "2022 01 07", "S1"], ["2022 01 07", "2022 02 25", "S2"], ["2022 02 25", "2022 04 15", "S3"], ["2022 05 06", "2022 05 15", "S4"], ["2022 05 17", "2022 05 31", "S5"], ["2022 05 31", "", "S6"]], 10, ["ger"], ["adventure", "drama"], ["bini"], ["DVD", "fav", "watching"], ["J.J. Abrams", "Jeffrey Lieber", "Damon Lindelof"], ["Jorge Garcia", "Josh Holloway", "Yunjin Kim", "Evangeline Lilly", "Terry O'Quinn", "Naveen Andrews", "Matthew Fox", "Daniel Dae Kim", "Emilie de Ravin", "Michael Emerson", "Henry Ian Cusick", "Dominic Monaghan", "Elizabeth Mitchell", "Ken Leung", "Nestor Carbonell", "Maggie Grace", "Jeremy Davies", "Ian Somerhalder", "Michelle Rodriguez", "Cynthia Watros", "Rebecca Mader", "Sam Anderson", "Tania Raymonde", "John Terry", "Alan Dale", "William Mapother", "Kevin Durand", "Rodrigo Santoro", "Mark Pellegrino", "Jeff Fahey", "Andrea Gabriel", "Andrew Divoff", "Titus Welliver", "Fionnula Flanagan", "Kevin Tighe", "Samm Levine", "Hiroyuki Sanada", "Kevin Durand", "Julie Bowen", "François Chau", "M.C. Gainey", "Shaun Toub", "Brett Cullen", "Kim Dickens"], "https://68.media.tumblr.com/b5d291cc94cf3d575bdce3c73ab8b82a/tumblr_odg5nyKL9D1v2s5upo1_250.jpg"],
 	        
 ["series", ["Avatar: The Last Airbender", "Avatar - Der Herr der Elemente"], ["2005", "2008"], [["2018 05 29", "2018 06 15", "S1-S3"], /*["2019 08 04", "2019 08 13", "S1-S3"]*/["2019 08 04", "2019 08 06", "S1"], ["2019 08 07", "2019 08 08", "S2"], ["2019 08 08", "2019 08 13", "S3"]], 10, ["ger"], ["animation", "action"], [], ["Netflix"], ["Michael Dante DiMartino", "Bryan Konietzko"], [], "https://66.media.tumblr.com/3de0da47230c294434b12590e405d438/tumblr_odg6dwq4Ib1v2s5upo1_250.jpg"],
 	        
@@ -432,7 +432,7 @@ var database = [
 	        
 ["film", ["Carrie"], "2013", ["2016 08 30"], 5, ["ger"], ["drama", "horror"], [], [], ["Kimberly Peirce"], ["Julianne Moore", "Chloë Grace Moretz", "Judy Greer", "Barry Shabaka Henley", "Ansel Elgort", "Samantha Weinstein"], "https://66.media.tumblr.com/e7523b19ec43bdffb2bc66952ab39339/tumblr_ocqfd7eZte1v2s5upo1_250.jpg"],
 	        
-["film", ["Miss Peregrine's Home for Peculiar Children", "Die Insel der besonderen Kinder"], "2016", ["2016 10 27", "2018 05 05"], 7, ["ger"], ["adventure", "drama", "fantasy"], ["syl", "bini"], ["Kino"], ["Tim Burton"], ["Eva Green", "Samuel L. Jackson", "Ella Purnell", "Ella Wahlestedt", "Asa Butterfield"], "https://66.media.tumblr.com/664df1da5d5559371f0254140ed3b1b9/tumblr_ofq4ddLAra1v2s5upo1_250.jpg"],
+["film", ["Miss Peregrine's Home for Peculiar Children", "Die Insel der besonderen Kinder"], "2016", ["2016 10 27", "2018 05 05"], 7, ["ger"], ["adventure", "drama", "fantasy"], ["syl", "bini"], ["Kino"], ["Tim Burton"], ["Eva Green", "Samuel L. Jackson", "Ella Purnell", "Ella Wahlestedt", "Asa Butterfield", "Kim Dickens"], "https://66.media.tumblr.com/664df1da5d5559371f0254140ed3b1b9/tumblr_ofq4ddLAra1v2s5upo1_250.jpg"],
 	        
 ["film", ["Wildlike"], "2014", ["2015 10 28"], 5, ["ger"], ["adventure", "drama"], [], [], ["Frank Hall Green"], ["Ella Purnell", "Bruce Greenwood"], "https://66.media.tumblr.com/36cca66f36079fa889751477367cd757/tumblr_pwoou5t3Cc1v2s5upo1_250.jpg"],
 	        
@@ -596,7 +596,7 @@ var database = [
 	        
 ["film", ["Stuck in Love.", "Love Stories - Erste Lieben, zweite Chancen"], "2012", ["2015 10 12"], 10, ["ger"], ["comedy", "drama", "romance"], [], [], ["Josh Boone"], ["Jennifer Connelly", "Lily Collins", "Nat Wolff", "Logan Lerman", "Liana Liberato"], "https://66.media.tumblr.com/d771c3ef8d3f38f954628e082f9cf66a/tumblr_ppxznwHOLZ1v2s5upo1_250.jpg"],
 	        
-["film", ["To the Bone"], "2017", ["2018 05 27"], 7, ["ger"], ["drama"], [], ["Netflix"], ["Marti Noxon"], ["Lily Collins", "Liana Liberato", "Kathryn Prescott", "Alex Sharp", "Ciara Bravo"], "https://66.media.tumblr.com/13c6660c42ed48eefa171e8a4cb7e4e0/tumblr_pzkte3xLEG1v2s5upo1_250.jpg"],
+["film", ["To the Bone"], "2017", ["2018 05 27"], 7, ["ger"], ["drama"], [], ["Netflix"], ["Marti Noxon"], ["Lily Collins", "Liana Liberato", "Kathryn Prescott", "Alex Sharp", "Ciara Bravo", "Ziah Colon"], "https://66.media.tumblr.com/13c6660c42ed48eefa171e8a4cb7e4e0/tumblr_pzkte3xLEG1v2s5upo1_250.jpg"],
 	        
 ["film", ["Dear Eleanor"], "2016", ["2016 07 23"], 7, ["ger"], ["comedy", "drama", "history"], [], [], ["Kevin Connolly"], ["Liana Liberato", "Isabelle Fuhrman", "Joel Courtney"], "https://66.media.tumblr.com/94aa99a8ea17c76654947f69eb3b3ecf/tumblr_oarexdQ1XY1v2s5upo1_250.jpg"],
 	        
@@ -1438,7 +1438,7 @@ var database = [
 	        
 ["film", ["Zombeavers", "Zombiber"], "2014", ["2016 06 04"], 5, ["ger"], ["comedy", "horror"], ["nico"], [], ["Jordan Rubin"], [], "https://68.media.tumblr.com/bee0a9364e93fa8ce39557e2e5cfcea2/tumblr_o88xiomdvq1v2s5upo1_250.jpg"],
 	        
-["film", ["Rock of Ages"], "2012", ["2016 05 29"], 4, ["ger"], ["comedy", "drama"], [], [], ["Adam Shankman"], ["Russell Brand", "Alec Baldwin", "Bryan Cranston", "Tom Cruise", "T.J. Miller"], "https://68.media.tumblr.com/ade55257d8a736975114a26a1c4ba3a4/tumblr_o7xsn9n5XC1v2s5upo1_250.jpg"],
+["film", ["Rock of Ages"], "2012", ["2016 05 29"], 4, ["ger"], ["comedy", "drama"], [], [], ["Adam Shankman"], ["Russell Brand", "Alec Baldwin", "Bryan Cranston", "Tom Cruise", "T.J. Miller", "Julianne Hough"], "https://68.media.tumblr.com/ade55257d8a736975114a26a1c4ba3a4/tumblr_o7xsn9n5XC1v2s5upo1_250.jpg"],
 	        
 ["film", ["Paranoia", "Paranoia - Riskantes Spiel"], "2013", ["2016 05 28"], 5, ["ger"], ["drama", "thriller"], [], [], ["Robert Luketic"], ["Liam Hemsworth", "Gary Oldman", "Harrison Ford", "Josh Holloway"], "https://66.media.tumblr.com/8f905afb816032aacf9c357539a0d5c6/tumblr_o7whiospqw1v2s5upo1_250.jpg"],
 	        
@@ -2251,7 +2251,9 @@ var database = [
 
 ["short", ["While You Weren't Looking"], "2013", ["2022 06 03"], 6, ["eng"], ["adventure"], [], [], ["Jeremy Mackie"], [], "https://64.media.tumblr.com/dd975ef1817defdb47150a89e2ab5d8c/3216c66d448233fb-86/s250x400/046d53820db01db6284455a238eb4730f947f8ff.jpg"],
 
-["film", ["Barbie: Fairytopia"], "2005", ["2022 06 06"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Walter P. Martishius", "William Lau"], [], "https://64.media.tumblr.com/e344f6008162a127bc928efe5679d2dd/814a2e186700ddcd-e5/s250x400/a29fceb62f7dc678c4ff4ad1878c01124474ae20.jpg"]
+["film", ["Barbie: Fairytopia"], "2005", ["2022 06 06"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Walter P. Martishius", "William Lau"], [], "https://64.media.tumblr.com/e344f6008162a127bc928efe5679d2dd/814a2e186700ddcd-e5/s250x400/a29fceb62f7dc678c4ff4ad1878c01124474ae20.jpg"],
+
+["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"]
 
 	
 /*
