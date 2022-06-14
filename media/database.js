@@ -1586,7 +1586,7 @@ var database = [
 
 ["series", ["One Week Friends", "One Week Friends", "Isshuukan Friends"], "2014", [["2016 02 08", "2016 03 12", "S1E1-S1E3"], ["2020 11 29", "2020 12 18", "S1E4-S1E12"]], 5, ["jap"], ["anime", "comedy"], [], [], ["Matcha Hazuki", "Mariko Kunisawa", "Megumi Shimizu"], [], "https://64.media.tumblr.com/c45981d0156b292095493dc7e02b5c3b/4c81f18d50d51493-0d/s250x400/89cea57a9158f5abc7fc8e1efb321d5895f31c92.jpg"],
 
-["series", ["Magi: The Labyrinth of Magic"], ["2012", "2014"], [["2017 04 07", "S1E1-S1E4"]], 0, ["jap"], ["anime", "action"], [], [], ["Shinobu Ohtaka", "Hiroyuki Yoshino"], [], "https://64.media.tumblr.com/5fd55c2beb6ba4fe885c143c2ebc5fc9/0cd2344305584ae0-57/s250x400/98e904a74e6b5689483e4b73b6e43f2d2ceb2218.jpg"],
+["series", ["Magi: The Labyrinth of Magic"], ["2012", "2014"], [["2017 04 07", "S1E1-S1E4"], ["2022 06 14", "", "S1"]], 0, ["jap"], ["anime", "action"], ["bini", "nico"], ["watching"], ["Shinobu Ohtaka", "Hiroyuki Yoshino"], [], "https://64.media.tumblr.com/5fd55c2beb6ba4fe885c143c2ebc5fc9/0cd2344305584ae0-57/s250x400/98e904a74e6b5689483e4b73b6e43f2d2ceb2218.jpg"],
 
 ["film", ["Black Friday"], "2020", ["2020 11 14"], 6, ["eng"], ["musical"], [], ["StarKid"], ["Nick Lang"], ["Dylan Saunders", "Angela Giarratana", "Lauren Lopez", "Joey Richter", "Kim Whalen", "Curt Mega", "Robert Manion", "Jon Matteson", "Kendall Nicole Yakshe", "Jeff Blim", "Corey Dorris", "Jaime Lyn Beatty", "James Tolbert"], "https://64.media.tumblr.com/32a75a345342182f94075acbf8caa03d/ffda59dd14b00a3c-a2/s250x400/288d97765a786cb5bc09505eb17b3fa5d5e76737.jpg"],
 
@@ -2219,7 +2219,7 @@ var database = [
 
 ["film", ["The Craft", "Der Hexenclub"], "1996", ["2022 05 08"], 8, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Andrew Fleming"], ["Robin Tunney"], "https://64.media.tumblr.com/3c030d96f34af7187abad628feffb7fb/152a7307000bcfca-da/s250x400/e87c53c238f2e91b4359a42428a5c35df9260498.jpg"],
 
-["series", ["Kuromukuro"], ["2016", ""], [["2022 05 10", "", "S1"]], 0, ["ger"], ["anime", "action", "sci-fi"], ["bini", "nico"], ["Netflix", "watching"], ["Ryô Higaki", "Touko Machida", "Shigeru Morita"], [], "https://64.media.tumblr.com/5dc1bba33bc30de0365fb24887f97ba9/8a3a9f83363f8eed-bf/s250x400/7cdebd1b00513201accf4d2a1b83d2f9ed4ba59a.jpg"],
+["series", ["Kuromukuro"], ["2016", ""], [["2022 05 10", "2022 06 14", "S1"]], 5, ["ger"], ["anime", "action", "sci-fi"], ["bini", "nico"], ["Netflix"], ["Ryô Higaki", "Touko Machida", "Shigeru Morita"], [], "https://64.media.tumblr.com/5dc1bba33bc30de0365fb24887f97ba9/8a3a9f83363f8eed-bf/s250x400/7cdebd1b00513201accf4d2a1b83d2f9ed4ba59a.jpg"],
 
 ["film", ["Barbie: A Fashion Fairytale", "Barbie - Modezauber in Paris"], "2010", ["2022 05 12"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["William Lau", "Conrad Helten"], [], "https://64.media.tumblr.com/cfda89295e0993031d7397841042d477/b51b464e46a8d6cf-29/s250x400/1aac97d73f0f2bd853c96b064ddc1a5a6f6f8da2.jpg"],
 
