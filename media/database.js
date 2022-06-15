@@ -1716,7 +1716,7 @@ var database = [
 
 ["audiobook", ["Jo's Boys"], "1886", [["2021 02 04", "2021 03 15"]], 8, ["eng"], [], [], ["March-Trilogie"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/2c95760a721ddc546744dde0a847e9cd/086cf60edc83fcb4-8f/s400x600/ba1ec8168f1e4567e0be6f1dd7b84c02eae7e39f.jpg"],
 
-["film", ["Eighth Grade"], "2018", ["2021 02 05"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Bo Burnham"], ["Jake Ryan"], "https://64.media.tumblr.com/bf3e142a4d848a56aaab6996908a2411/d29826633fcbea74-16/s250x400/33a141e154e645351a2167ee589a53adf3d53177.jpg"],
+["film", ["Eighth Grade"], "2018", ["2021 02 05"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Bo Burnham"], ["Jake Ryan", "Imani Lewis"], "https://64.media.tumblr.com/bf3e142a4d848a56aaab6996908a2411/d29826633fcbea74-16/s250x400/33a141e154e645351a2167ee589a53adf3d53177.jpg"],
 
 ["series", ["Snowpiercer"], "2020", [["2021 02 05", "2021 02 08", "S1"], ["2021 02 13", "2021 04 02", "S2"]], 5, ["ger"], ["action", "drama", "sci-fi"], [], ["Netflix", "ongoing"], ["Josh Friedman", "Graeme Manson"], ["Sheila Vand", "Annalise Basso", "Miranda Edwards", "Sean Bean", "Timothy V. Murphy", "Madeleine Arthur", "Jennifer Connelly", "Rowan Blanchard", "Shaun Toub"], "https://64.media.tumblr.com/3477ca09fd2b3bb5d18fea7d51fa0d40/e3297eb57edd7e85-c9/s250x400/9c46b73e0945e344c59d0fda6ff444734c3b0982.jpg"],
 
@@ -2253,7 +2253,9 @@ var database = [
 
 ["film", ["Barbie: Fairytopia"], "2005", ["2022 06 06"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Walter P. Martishius", "William Lau"], [], "https://64.media.tumblr.com/e344f6008162a127bc928efe5679d2dd/814a2e186700ddcd-e5/s250x400/a29fceb62f7dc678c4ff4ad1878c01124474ae20.jpg"],
 
-["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"]
+["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"],
+
+["series", ["First Kill"], ["2022", ""], [["2022 06 15", "", "S1"]], 0, ["ger"], ["drama", "horror"], [], ["ongoing", "watching", "Netflix"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"]
 
 	
 /*
