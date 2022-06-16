@@ -1746,7 +1746,7 @@ var database = [
 
 ["audiobook", ["The Ballad of Songbirds and Snakes", "Die Tribute von Panem X – Das Lied von Vogel und Schlange"], "2020", [["2021 03 19", "2021 04 16"]], 9, ["eng"], ["adventure", "war", "sci-fi", "action"], [], ["Hunger Games"], ["Suzanne Collins"], [], "https://64.media.tumblr.com/1da763b32e2e1ed96cb49b78115fdfde/f1521d2ef3ed6937-ed/s250x400/f49c55bbd19de80ba1a4b5e21e5ead3f3adfd225.jpg"],
 
-["film", ["Tomb Raider"], "2018", ["2021 03 23"], 7, ["ger"], ["action", "adventure"], ["bini"], [], ["Roar Uthaug"], ["Alicia Vikander", "Samuel Mak", "Nick Frost"], "https://64.media.tumblr.com/372792c09e88b1a2e5050a14d07c8d28/7390892fff0ee0a8-bc/s250x400/17b02720c477a1a90b24817b4956ddf80f6366b5.jpg"],
+["film", ["Tomb Raider"], "2018", ["2021 03 23"], 7, ["ger"], ["action", "adventure"], ["bini"], [], ["Roar Uthaug"], ["Alicia Vikander", "Samuel Mak", "Nick Frost", "Hannah John-Kamen"], "https://64.media.tumblr.com/372792c09e88b1a2e5050a14d07c8d28/7390892fff0ee0a8-bc/s250x400/17b02720c477a1a90b24817b4956ddf80f6366b5.jpg"],
 
 ["film", ["Deadpool 2"], "2018", [["2021 03 30", "2021 03 31"]], 6, ["ger"], ["action", "adventure", "sci-fi"], [], ["X-Men", "Marvel", "Netflix"], ["David Leitch"], ["Ryan Reynolds", "Josh Brolin", "Morena Baccarin", "Julian Dennison", "Zazie Beetz", "Karan Soni", "Brianna Hildebrand", "Eddie Marsan", "Terry Crews", "Brad Pitt", "Alan Tudyk", "Matt Damon", "Nicholas Hoult", "James McAvoy", "Evan Peters", "Tye Sheridan", "T.J. Miller"], "https://64.media.tumblr.com/dd71964ef1a86b54cab0298b59eed681/b3037834c87b497c-92/s250x400/908fe51a4a273d0398cc0d2f9d826453cb436461.jpg"],
 
@@ -1986,7 +1986,7 @@ var database = [
 
 ["film", ["Night Teeth"], "2021", ["2021 11 15"], 5, ["ger"], ["action", "crime"], [], ["Netflix"], ["Adam Randall"], ["Jorge Lendeborg Jr.", "Debby Ryan", "Lucy Fry", "Raúl Castillo", "Megan Fox", "Alexander Ludwig"], "https://64.media.tumblr.com/5e666bcbd33f7e70c10c9d06ca55d5e9/7756c53967b823ad-3d/s250x400/621aff22a48aaec2ce1b4b5844ee03fcb3fe421e.jpg"],
 
-["film", ["Ready Player One"], "2018", ["2021 11 17"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Steven Spielberg"], ["Tye Sheridan", "Olivia Cooke", "Simon Pegg", "Mark Rylance", "Lena Waithe", "T.J. Miller", "Ben Mendelsohn"], "https://64.media.tumblr.com/cdc111a0fe4bfe6d4fc494264ddf6aa7/52d2fac5692e3291-86/s250x400/51190389cd042238f8b0f1346c373075aad7bbfa.jpg"],
+["film", ["Ready Player One"], "2018", ["2021 11 17"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Steven Spielberg"], ["Tye Sheridan", "Olivia Cooke", "Simon Pegg", "Mark Rylance", "Lena Waithe", "T.J. Miller", "Ben Mendelsohn", "Hannah John-Kamen"], "https://64.media.tumblr.com/cdc111a0fe4bfe6d4fc494264ddf6aa7/52d2fac5692e3291-86/s250x400/51190389cd042238f8b0f1346c373075aad7bbfa.jpg"],
 
 ["series", ["Explained"], ["2018", ""], [["2019 11 04", "2020 02 01", "S1&S2"]], 0, [], ["documentary"], [], ["Netflix", "ongoing"], ["Joe Posner", "Joss Fong"], [], "https://64.media.tumblr.com/974710ea9cce1c7f8752e13dbe70eea1/3259d75c5b06823b-b9/s250x400/ba2655c584f1b18661819cfd180a72df8e27b7d4.jpg"],
 
@@ -2255,7 +2255,9 @@ var database = [
 
 ["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"],
 
-["series", ["First Kill"], ["2022", ""], [["2022 06 15", "", "S1"]], 0, ["ger"], ["drama", "horror"], [], ["ongoing", "watching", "Netflix"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"]
+["series", ["First Kill"], ["2022", ""], [["2022 06 15", "", "S1"]], 0, ["ger"], ["drama", "horror"], [], ["ongoing", "watching", "Netflix"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"],
+
+["film", ["Ant-Man and the Wasp"], "2018", ["2022 06 16"], 7, ["ger"], ["action", "adventure"], ["je"], ["Marvel", "Disney+"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Michael Peña", "Judy Greer", "Hannah John-Kamen", "Michelle Pfeiffer", "Randall Park", "Laurence Fishburne", "Stan Lee"], "https://64.media.tumblr.com/0b69fefa02c51b1c5e6d23b49db39851/dc3ce41b0c2b7478-df/s250x400/4a664e8059eddaeaeb20ec3bf08d2ef6848d99d8.jpg"]
 
 	
 /*
