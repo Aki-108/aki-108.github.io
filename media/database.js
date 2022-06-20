@@ -2261,7 +2261,7 @@ var database = [
 
 ["film", ["Barbie Fairytopia: Mermaidia", "Barbie - Fairytopia: Mermaidia"], "2006", ["2022 06 19"], 4, ["ger"], ["animation", "adventure"], ["bini"], ["Barbie"], ["William Lau", "Walter P. Martishius"], [], "https://64.media.tumblr.com/0e5ab9df5c76aac66639782b41778c9c/6db65b92cdd70fc3-6b/s250x400/fab5b9e72c80ef5fe6eb83b87f951cfe6c28e72d.jpg"],
 
-["film", ["Hollywood Stargirl"], "2022", ["2022 06 20"], 0, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Julia Hart"], ["Grace VanderWaal", "Judy Greer", "Uma Thurman"], "https://64.media.tumblr.com/8d5bf17ba1ea5156cc0f58684bc2d676/05e3949bd4a878c7-d0/s250x400/233442e5a464b652671db42e025d4922cc9f0554.jpg"]
+["film", ["Hollywood Stargirl"], "2022", ["2022 06 20"], 6, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Julia Hart"], ["Grace VanderWaal", "Judy Greer", "Uma Thurman"], "https://64.media.tumblr.com/8d5bf17ba1ea5156cc0f58684bc2d676/05e3949bd4a878c7-d0/s250x400/233442e5a464b652671db42e025d4922cc9f0554.jpg"]
 
 	
 /*
