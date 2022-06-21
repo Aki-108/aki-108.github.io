@@ -2241,7 +2241,7 @@ var database = [
 
 ["film", ["Detective Conan 24: The Scarlett Bullet", "Detektiv Conan 24: Die schrlachrote Kugel"], "2021", ["2022 05 25"], 5, ["ger"], ["anime", "action", "comedy", "drama", "mystery"], ["bini", "nico", "jessie"], ["Conan"], ["Tomoka Nagaoka"], [], "https://64.media.tumblr.com/5632929d93defd033fd0524cc84752be/d76168b4d0cc7437-24/s250x400/59140adb7aa1c0e95f2b2b0f00a43e89a6d2566a.jpg"],
 
-["book", ["The Curious Incident of the Dog in the Night-Time", "Supergute Tage oder Die sonderbare Welt des Christopher Boone"], "2003", [["2022 05 29", ""]], 0, ["ger"], ["mystery"], [], ["bibliothek", "watching"], ["Mark Haddon"], [], "https://64.media.tumblr.com/caf8a0a7126121c52e7ee77b0f985f2d/33c9768d91bf334e-8c/s250x400/16dc686e160feb5798e42546ab633f5eb0a0910e.jpg"],
+["book", ["The Curious Incident of the Dog in the Night-Time", "Supergute Tage oder Die sonderbare Welt des Christopher Boone"], "2003", [["2022 05 29", "2022 06 21"]], 4, ["ger"], ["mystery"], [], ["bibliothek"], ["Mark Haddon"], [], "https://64.media.tumblr.com/caf8a0a7126121c52e7ee77b0f985f2d/33c9768d91bf334e-8c/s250x400/16dc686e160feb5798e42546ab633f5eb0a0910e.jpg"],
 
 ["film", ["Detective Conan 24: The Bride of Halloween", "Detektiv Conan 24: Die Braut von Halloween"], "2022", ["2022 05 31"], 7, ["ger"], ["anime", "action"], ["bini", "jessie"], ["Conan", "Kino"], ["Gosho Aoyama"], [], "https://64.media.tumblr.com/43ef2e95c848adcda15b8dae3b936f4b/d6cbbfef6cb475ef-81/s250x400/66157fc6d41342261948178fc66af3a60bc824bf.jpg"],
 
