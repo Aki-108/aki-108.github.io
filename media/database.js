@@ -1586,7 +1586,7 @@ var database = [
 
 ["series", ["One Week Friends", "One Week Friends", "Isshuukan Friends"], "2014", [["2016 02 08", "2016 03 12", "S1E1-S1E3"], ["2020 11 29", "2020 12 18", "S1E4-S1E12"]], 5, ["jap"], ["anime", "comedy"], [], [], ["Matcha Hazuki", "Mariko Kunisawa", "Megumi Shimizu"], [], "https://64.media.tumblr.com/c45981d0156b292095493dc7e02b5c3b/4c81f18d50d51493-0d/s250x400/89cea57a9158f5abc7fc8e1efb321d5895f31c92.jpg"],
 
-["series", ["Magi: The Labyrinth of Magic"], ["2012", "2014"], [["2017 04 07", "S1E1-S1E4"], ["2022 06 14", "", "S1"]], 0, ["jap"], ["anime", "action"], ["bini", "nico"], ["watching"], ["Shinobu Ohtaka", "Hiroyuki Yoshino"], [], "https://64.media.tumblr.com/5fd55c2beb6ba4fe885c143c2ebc5fc9/0cd2344305584ae0-57/s250x400/98e904a74e6b5689483e4b73b6e43f2d2ceb2218.jpg"],
+["series", ["Magi: The Labyrinth of Magic"], ["2012", "2014"], [["2017 04 07", "S1E1-S1E4"], ["2022 06 14", "2022 06 21", "S1E1-S1E8"]], 4, ["jap"], ["anime", "action"], ["bini", "nico"], ["dropped"], ["Shinobu Ohtaka", "Hiroyuki Yoshino"], [], "https://64.media.tumblr.com/5fd55c2beb6ba4fe885c143c2ebc5fc9/0cd2344305584ae0-57/s250x400/98e904a74e6b5689483e4b73b6e43f2d2ceb2218.jpg"],
 
 ["film", ["Black Friday"], "2020", ["2020 11 14"], 6, ["eng"], ["musical"], [], ["StarKid"], ["Nick Lang"], ["Dylan Saunders", "Angela Giarratana", "Lauren Lopez", "Joey Richter", "Kim Whalen", "Curt Mega", "Robert Manion", "Jon Matteson", "Kendall Nicole Yakshe", "Jeff Blim", "Corey Dorris", "Jaime Lyn Beatty", "James Tolbert"], "https://64.media.tumblr.com/32a75a345342182f94075acbf8caa03d/ffda59dd14b00a3c-a2/s250x400/288d97765a786cb5bc09505eb17b3fa5d5e76737.jpg"],
 
