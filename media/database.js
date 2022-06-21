@@ -446,9 +446,9 @@ var database = [
 	        
 ["film", ["Lord of the Rings: The Fellowship of the Ring", "Der Herr der Ringe: Die Gefährten"], "2001", ["2015 12 06", "2016 12 17", ["2022 05 23", "2022 05 25", "Special Extended Edition"]], 7, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Elijah Wood", "Christopher Lee"], "https://49.media.tumblr.com/9eba6052112edcedbcd28bf485170ed2/tumblr_o0cggdNfkK1v2s5upo1_250.jpg"],
 	        
-["film", ["The Lord of the Rings: The Two Towers", "Der Herr der Ringe: Die zwei Türme"], "2002", ["2016 01 04", "2016 12 17", ["2022 06 03", "2022 06 06", "Special Extended Edition"]], 7, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth"], ["Peter Jackson"], ["Sean Astin", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Sean Bean", "Christopher Lee"], "https://40.media.tumblr.com/0c4330abd747db58db95ace6790a689d/tumblr_o0g28sodpV1v2s5upo1_250.jpg"],
+["film", ["The Lord of the Rings: The Two Towers", "Der Herr der Ringe: Die zwei Türme"], "2002", ["2016 01 04", "2016 12 17", ["2022 06 03", "2022 06 06", "Special Extended Edition"]], 7, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Sean Bean", "Christopher Lee"], "https://40.media.tumblr.com/0c4330abd747db58db95ace6790a689d/tumblr_o0g28sodpV1v2s5upo1_250.jpg"],
 	        
-["film", ["The Lord of the Rings: The Return of the King", "Der Herr der Ringe: Die Rückkehr des Königs"], "2003", ["2016 02 13", "2016 12 18", ["2022 06 08", "2022 06 10", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Christopher Lee"], "https://49.media.tumblr.com/e79056db9dd93cc65ac09ee280ed973c/tumblr_o2j5yuqU8n1v2s5upo1_250.jpg"],
+["film", ["The Lord of the Rings: The Return of the King", "Der Herr der Ringe: Die Rückkehr des Königs"], "2003", ["2016 02 13", "2016 12 18", ["2022 06 08", "2022 06 10", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Christopher Lee"], "https://49.media.tumblr.com/e79056db9dd93cc65ac09ee280ed973c/tumblr_o2j5yuqU8n1v2s5upo1_250.jpg"],
 	        
 ["film", ["Elizabethtown"], "2005", ["2015 08 25"], 8, ["ger"], ["comedy", "drama"], [], [], ["Cameron Crowe"], ["Orlando Bloom", "Kirsten Dunst", "Alec Baldwin", "Judy Greer", "Paul Schneider"], "https://49.media.tumblr.com/04848757c806d3f770ff9451e851dc3a/tumblr_o0dvucxTZA1v2s5upo1_250.jpg"],
 	        
@@ -2175,7 +2175,7 @@ var database = [
 
 ["book", ["Das verdammte Chaos im Mikrokosmos"], "2015", [["2022 03 29", "2022 04 25"]], 7, ["ger"], [], [], ["bibliothek"], ["Anke Weber"], [], "https://64.media.tumblr.com/111a070d053c36be33762fc23b1b66b6/ac743d4e49dec798-5e/s250x400/335d8881a169b5e46c66791c9934ada0c41dd3f9.jpg"],
 
-["series", ["Maya", "Die Biene Maja", "Mitsubachi Mâya no bôken"], ["1975", "1980"], [["2022 03 30", "S1E1-S1E2"], ["2022 04 09", "S1E6"], ["2022 05 11", "S1E9"]], 0, ["ger"], ["anime", "adventure"], ["bini"], ["bilbiothek"], ["Waldemar Bonsels", "Marty Murphy", "Niisan Takahashi"], [], "https://64.media.tumblr.com/e14b32ec817851f3e7c921d1527daff4/1d17d47e327c97de-40/s250x400/1590955223962288cce755a68e7988375b643028.jpg"],
+["series", ["Maya", "Die Biene Maja", "Mitsubachi Mâya no bôken"], ["1975", "1980"], [["2022 03 30", "S1E1-S1E2"], ["2022 04 09", "S1E6"], ["2022 05 11", "S1E9"]], 0, ["ger"], ["anime", "adventure"], ["bini"], ["bibliothek"], ["Waldemar Bonsels", "Marty Murphy", "Niisan Takahashi"], [], "https://64.media.tumblr.com/e14b32ec817851f3e7c921d1527daff4/1d17d47e327c97de-40/s250x400/1590955223962288cce755a68e7988375b643028.jpg"],
 
 ["film", ["Child of Kamiari Month", "Child of Kamiari Month", "Kamiarizuki no kodomo"], "2021", ["2022 04 02"], 5, ["ger"], ["anime", "drama"], ["bini", "mai"], ["Netflix"], ["Takana Shirai"], [], "https://64.media.tumblr.com/305b42774e4a4deba2d80d6c2d4b07a0/2fd5727acfd79cba-4a/s250x400/4c2dc9e89be1498ccf33d174a21e22373f45affa.jpg"],
 
@@ -2263,7 +2263,9 @@ var database = [
 
 ["film", ["Hollywood Stargirl"], "2022", ["2022 06 20"], 6, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Julia Hart"], ["Grace VanderWaal", "Judy Greer", "Uma Thurman"], "https://64.media.tumblr.com/8d5bf17ba1ea5156cc0f58684bc2d676/05e3949bd4a878c7-d0/s250x400/233442e5a464b652671db42e025d4922cc9f0554.jpg"],
 
-["film", ["Ride the Cyclone"], "2019", ["2022 06 20"], 7, ["eng"], ["musical"], [], [], ["Jacob Richmond", "Brooke Maxwell"], [], "https://64.media.tumblr.com/6fdde99368c6607bb175488e92bd7c9e/b1393f70ec05ffdc-82/s250x400/3a080007052d45177826e1c64d03e2376e7d68bb.jpg"]
+["film", ["Ride the Cyclone"], "2019", ["2022 06 20"], 7, ["eng"], ["musical"], [], [], ["Jacob Richmond", "Brooke Maxwell"], [], "https://64.media.tumblr.com/6fdde99368c6607bb175488e92bd7c9e/b1393f70ec05ffdc-82/s250x400/3a080007052d45177826e1c64d03e2376e7d68bb.jpg"],
+
+["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", ""]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"]
 
 	
 /*
