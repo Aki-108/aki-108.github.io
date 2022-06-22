@@ -2203,7 +2203,7 @@ var database = [
 
 ["film", ["Fresh"], "2022", ["2022 04 18"], 6, ["ger"], ["comedy", "horror"], [], ["Disney+"], ["Mimi Cave"], ["Sebastian Stan", "Dayo Okeniyi", "Charlotte Le Bon"], "https://64.media.tumblr.com/8c2dc7679697a4a7c75a5ee0204b9745/26ecd04184bdc377-d6/s250x400/edc2ad347e0a3513b44989b001123d4f41915246.jpg"],
 
-["series", ["Bungou Stray Dogs"], ["2016", ""], [["2022 04 20", "2022 05 11", "S1"], ["2022 05 11", "", "S2"]], 5, ["ger"], ["anime", "action"], ["bini", "nico", "jessie"], ["ongoing", "watching"], ["Kafka Asagiri", "Rob Blatt", "Lucien Dodge"], [], "https://64.media.tumblr.com/fb07bd593ca68940edb0d886c0258207/31d71ef7e0c0a4f5-c2/s250x400/d6f31d8693d30e7ae96f3b7182795de4daee0aba.jpg"],
+["series", ["Bungou Stray Dogs"], ["2016", ""], [["2022 04 20", "2022 05 11", "S1"], ["2022 05 11", "2022 06 22", "S2"]], 4, ["ger"], ["anime", "action"], ["bini", "nico", "jessie"], ["ongoing", "dropped"], ["Kafka Asagiri", "Rob Blatt", "Lucien Dodge"], [], "https://64.media.tumblr.com/fb07bd593ca68940edb0d886c0258207/31d71ef7e0c0a4f5-c2/s250x400/d6f31d8693d30e7ae96f3b7182795de4daee0aba.jpg"],
 
 ["series", ["Ella Schön"], ["2018", ""], [["2022 04 24", "S5E1"]], 6, ["ger"], ["comedy", "drama"], ["syl", "je"], ["ongoing"], ["Simon X. Rost", "Simon X. Rost", "Elke Rössler"], ["Annette Frier"], "https://64.media.tumblr.com/46fc5587af74ddb4f79f0f9dc338e24e/f048541a454c5bad-55/s250x400/46e7350ead1d9e1716c2db6598497e40fb038e27.jpg"],
 
