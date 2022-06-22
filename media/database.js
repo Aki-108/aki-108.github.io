@@ -355,7 +355,7 @@ var database = [
 	        
 ["series", ["Kim Possible"], ["2002", "2007"], [["2016 10 22", "2016 11 06"]], 10, ["ger"], ["animation", "action", "comedy"], [], [], ["Mark McCorkle", "Bob Schooley"], [], "https://66.media.tumblr.com/6683ccbc9909e6c1a4fe409cb47c7b98/tumblr_ofm7qqD87l1v2s5upo1_250.jpg"],
 	        
-["series", ["Westworld"], ["2016", ""], [["2016 11 05", "2016 12 30", "S1"]], 10, ["eng"], ["drama", "mystery", "sci-fi"], [], ["ongoing"], ["Lisa Joy", "Jonathan Nolan"], ["Ed Harris", "James Marsden", "Anthony Hopkins", "Rodrigo Santoro", "Talulah Riley", "Hiroyuki Sanada", "Zahn McClarnon", "Lena Waithe", "Ben Barnes", "Booboo Stewart"], "https://66.media.tumblr.com/09f5995b48f9e6a1bccc4abf37de4f73/tumblr_og5z0kJktJ1v2s5upo1_250.jpg"],
+["series", ["Westworld"], ["2016", ""], [["2016 11 05", "2016 12 30", "S1"], ["2022 06 22", "", "S1"]], 10, ["eng", "ger"], ["drama", "mystery", "sci-fi"], [], ["ongoing", "bibliothek", "watching"], ["Lisa Joy", "Jonathan Nolan"], ["Ed Harris", "James Marsden", "Anthony Hopkins", "Rodrigo Santoro", "Talulah Riley", "Hiroyuki Sanada", "Zahn McClarnon", "Lena Waithe", "Ben Barnes", "Booboo Stewart", "Jeffrey Wright", "Luke Hemsworth", "Angela Sarafyan", "Aaron Paul"], "https://66.media.tumblr.com/09f5995b48f9e6a1bccc4abf37de4f73/tumblr_og5z0kJktJ1v2s5upo1_250.jpg"],
 	        
 ["series", ["Limitless"], ["2015", "2016"], [["2017 01 04", "2017 03 19", "S1"], ["2019 01 04", "2019 01 09", "S1"]], 8, ["ger"], ["comedy", "crime", "sci-fi"], ["syl"], ["Netflix"], ["Craig Sweeny"], ["Bradley Cooper", "Lio Tipton", "Jake McDorman"], "https://68.media.tumblr.com/4fba47babc7bea678547165f35723ba2/tumblr_on22pnO7ao1v2s5upo1_250.jpg"],
 	        
@@ -498,11 +498,11 @@ var database = [
 	        
 ["film", ["The Hunger Games", "Die Tribute von Panem - The Hunger Games"], "2012", ["2015 11 08", "2016 10 10"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Hunger Games"], ["Gary Ross"], ["Stanley Tucci", "Jennifer Lawrence", "Liam Hemsworth", "Elizabeth Banks", "Woody Harrelson", "Isabelle Fuhrman", "Josh Hutcherson", "Mackenzie Lintz", "Sandra Ellis Lafferty", "Rhoda Griffis", "Alexander Ludwig", "Dayo Okeniyi"], "https://66.media.tumblr.com/a24245b34e92ec6447ebf36186441831/tumblr_px704ncX2r1v2s5upo1_250.jpg"],
 	        
-["film", ["The Hunger Games: Catching Fire", "Die Tribute von Panem - Catching Fire"], "2013", ["2015 11 12", "2016 10 11"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Liam Hemsworth", "Woody Harrelson", "Josh Hutcherson", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Sandra Ellis Lafferty"], "https://66.media.tumblr.com/f7b4170e92e5bc06aaee4193e449a0c9/tumblr_ppuwk10qr21v2s5upo1_250.jpg"],
+["film", ["The Hunger Games: Catching Fire", "Die Tribute von Panem - Catching Fire"], "2013", ["2015 11 12", "2016 10 11"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Liam Hemsworth", "Woody Harrelson", "Josh Hutcherson", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Sandra Ellis Lafferty", "Jeffrey Wright"], "https://66.media.tumblr.com/f7b4170e92e5bc06aaee4193e449a0c9/tumblr_ppuwk10qr21v2s5upo1_250.jpg"],
 	        
-["film", ["The Hunger Games: Mockingjay - Part 1", "Die Tribute von Panem - Mockingjay: Teil 1"], "2014", ["2016 10 13"], 7, ["ger"], ["action", "adventure"], [], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Mahershala Ali", "Elden Henson"], "https://68.media.tumblr.com/e43757394967e00f9c522eddb839f143/tumblr_of03elLgxw1v2s5upo1_250.jpg"],
+["film", ["The Hunger Games: Mockingjay - Part 1", "Die Tribute von Panem - Mockingjay: Teil 1"], "2014", ["2016 10 13"], 7, ["ger"], ["action", "adventure"], [], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Mahershala Ali", "Elden Henson", "Jeffrey Wright"], "https://68.media.tumblr.com/e43757394967e00f9c522eddb839f143/tumblr_of03elLgxw1v2s5upo1_250.jpg"],
 	        
-["film", ["The Hunger Games: Mockingjay - Part 2", "Die Tribute von Panem - Mockingjay: Teil 2"], "2015", ["2016 10 14"], 8, ["ger"], ["action", "adventure"], [], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Joe Chrest", "Mahershala Ali", "Elden Henson"], "https://68.media.tumblr.com/fbc3f18858c714b0e7b247f74b711b6d/tumblr_of1sxh8yGO1v2s5upo1_250.jpg"],
+["film", ["The Hunger Games: Mockingjay - Part 2", "Die Tribute von Panem - Mockingjay: Teil 2"], "2015", ["2016 10 14"], 8, ["ger"], ["action", "adventure"], [], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Joe Chrest", "Mahershala Ali", "Elden Henson", "Jeffrey Wright"], "https://68.media.tumblr.com/fbc3f18858c714b0e7b247f74b711b6d/tumblr_of1sxh8yGO1v2s5upo1_250.jpg"],
 	        
 ["audiobook", ["Lord of the Flies", "Herr der Fliegen"], "1954", [["2020 06 09", "2020 06 11"]], 4, ["eng"], [], [], [], ["William Golding"], [], "https://66.media.tumblr.com/29c9aac93e71d25a89ad3d626686c06b/4c0a0ed205b7aa97-0b/s250x400/7d746a247d63ef5f91f4c55bc201127710d39df1.jpg"],
 	        
@@ -846,7 +846,7 @@ var database = [
 	        
 ["film", ["Mission: Impossible - Ghost Protocol", "Mission: Impossible - Phantom Protokoll"], "2011", ["2016 10 22", "2018 07 26"], 7, ["ger"], ["action", "adventure"], [], ["Mission Impossible", "Netflix"], ["Brad Bird"], ["Tom Cruise", "Simon Pegg", "Jeremy Renner", "Josh Holloway", "Tom Wilkinson"], "https://66.media.tumblr.com/34fa1e7eeb82c4c9a46a5f3c44f8e6fd/tumblr_ofglkprp2V1v2s5upo1_250.jpg"],
 	        
-["film", ["Mission: Impossible III"], "2006", ["2016 10 22"], 7, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["J.J. Abrams"], ["Tom Cruise", "Philip Seymour Hoffman", "Simon Pegg", "Laurence Fishburne", "Maggie Q"], "https://68.media.tumblr.com/41874302cbda630faef2db3242c8643e/tumblr_ofge46WvyA1v2s5upo1_250.jpg"],
+["film", ["Mission: Impossible III"], "2006", ["2016 10 22"], 7, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["J.J. Abrams"], ["Tom Cruise", "Philip Seymour Hoffman", "Simon Pegg", "Laurence Fishburne", "Maggie Q", "Aaron Paul"], "https://68.media.tumblr.com/41874302cbda630faef2db3242c8643e/tumblr_ofge46WvyA1v2s5upo1_250.jpg"],
 	        
 ["film", ["Mission: Impossible II"], "2000", ["2016 10 22"], 5, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["John Woo"], ["Tom Cruise", "Ving Rhames", "Brendan Gleeson", "William Mapother", "Anthony Hopkins"], "https://68.media.tumblr.com/d45839929f432af8d837a550b10680cf/tumblr_ofg8xpnLBx1v2s5upo1_250.jpg"],
 	        
@@ -1440,7 +1440,7 @@ var database = [
 	        
 ["film", ["Rock of Ages"], "2012", ["2016 05 29"], 4, ["ger"], ["comedy", "drama"], [], [], ["Adam Shankman"], ["Russell Brand", "Alec Baldwin", "Bryan Cranston", "Tom Cruise", "T.J. Miller", "Julianne Hough"], "https://68.media.tumblr.com/ade55257d8a736975114a26a1c4ba3a4/tumblr_o7xsn9n5XC1v2s5upo1_250.jpg"],
 	        
-["film", ["Paranoia", "Paranoia - Riskantes Spiel"], "2013", ["2016 05 28"], 5, ["ger"], ["drama", "thriller"], [], [], ["Robert Luketic"], ["Liam Hemsworth", "Gary Oldman", "Harrison Ford", "Josh Holloway"], "https://66.media.tumblr.com/8f905afb816032aacf9c357539a0d5c6/tumblr_o7whiospqw1v2s5upo1_250.jpg"],
+["film", ["Paranoia", "Paranoia - Riskantes Spiel"], "2013", ["2016 05 28"], 5, ["ger"], ["drama", "thriller"], [], [], ["Robert Luketic"], ["Liam Hemsworth", "Gary Oldman", "Harrison Ford", "Josh Holloway", "Angela Sarafyan"], "https://66.media.tumblr.com/8f905afb816032aacf9c357539a0d5c6/tumblr_o7whiospqw1v2s5upo1_250.jpg"],
 	        
 ["film", ["Elysium"], "2013", ["2016 05 27"], 7, ["ger"], ["action", "drama"], [], [], ["Neill Blomkamp"], ["Matt Damon", "Jodie Foster", "Alice Braga"], "https://66.media.tumblr.com/17faa8ffb2d7c9f8a3cdfd6ac87ff25b/tumblr_o7urf54ndb1v2s5upo1_250.jpg"],
 	        
@@ -1730,7 +1730,7 @@ var database = [
 
 ["film", ["The Wandering Earth", "Die wandernde Erde", "Liu lang di qiu"], "2019", ["2021 02 27"], 3, ["eng"], ["action", "sci-fi"], [], ["Netflix"], ["Frant Gwo"], [], "https://64.media.tumblr.com/9d8ddf9b3ad53e45369584426525f3a2/3847bc867dc4a949-25/s250x400/08c3647ab7a8419e910311f0d53a5d437ad8b264.jpg"],
 
-["film", ["Kill Me Three Times", "Kill Me Three Times - Man stirbt nur dreimal"], "2014", ["2021 03 03"], 5, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Kriv Stenders"], ["Simon Pegg", "Alice Braga", "Teresa Palmer"], "https://64.media.tumblr.com/d6bcff7fc144f0cb43df03d6f2cc283d/5c106541e0ecee75-1b/s250x400/279c23cde8852c9db7dd57f0a46ce241942e1817.jpg"],
+["film", ["Kill Me Three Times", "Kill Me Three Times - Man stirbt nur dreimal"], "2014", ["2021 03 03"], 5, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Kriv Stenders"], ["Simon Pegg", "Alice Braga", "Teresa Palmer", "Luke Hemsworth"], "https://64.media.tumblr.com/d6bcff7fc144f0cb43df03d6f2cc283d/5c106541e0ecee75-1b/s250x400/279c23cde8852c9db7dd57f0a46ce241942e1817.jpg"],
 
 ["film", ["How to Be Really Bad", "Meine teuflisch gute Freundin"], "2018", ["2021 03 08"], 6, ["ger"], ["comedy", "family"], [], ["Netflix"], ["Marco Petry"], ["Emma Bading", "Janina Fautz", "Ludwig Simon", "Samuel Finzi", "Joyce Ilg"], "https://64.media.tumblr.com/455bdae11d32a4f33ba4699998af33b6/5fce6e8a4c3d54cf-60/s250x400/3c590ac4817df7cf48abac9e3c1faa4eda9b990c.jpg"],
 
