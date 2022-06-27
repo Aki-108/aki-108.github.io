@@ -89,7 +89,7 @@ var database = [
 
 ["film", ["Submarine"], "2010", ["2015 06 24", "2015 09 24"], 8, ["ger"], ["comedy", "drama", "romance"], [], [], ["Richard Ayoade"], ["Noah Taylor"], "https://40.media.tumblr.com/7d0c3deba109f7639140c1156434d51a/tumblr_nzq2ojum4c1v2s5upo1_250.jpg"],
 	        
-["film", ["50/50", "50/50: Freunde fürs (Über)Leben"], "2011", ["2015 07 12"], 6, ["ger"], ["comedy", "drama"], [], [], ["Jonathan Levine"], ["Joseph Gordon-Levitt", "Seth Rogen", "Anna Kendrick"], "https://40.media.tumblr.com/b0e652531c5a3953a573b8b41344a3ca/tumblr_nzq2qbuRr31v2s5upo1_250.jpg"],
+["film", ["50/50", "50/50: Freunde fürs (Über)Leben"], "2011", ["2015 07 12"], 6, ["ger"], ["comedy", "drama"], [], [], ["Jonathan Levine"], ["Joseph Gordon-Levitt", "Seth Rogen", "Anna Kendrick", "Bryce Dallas Howard"], "https://40.media.tumblr.com/b0e652531c5a3953a573b8b41344a3ca/tumblr_nzq2qbuRr31v2s5upo1_250.jpg"],
 	        
 ["film", ["Moonrise Kingdom"], "2012", ["2015 07 14", "2015 12 31", "2017 06 28"], 9, ["ger"], ["adventure", "comedy", "drama"], [], ["bby"], ["Wes Anderson"], ["Bruce Willis", "Bill Murray", "Frances McDormand", "Tilda Swinton", "Kara Hayward", "Jake Ryan"], "https://49.media.tumblr.com/fcfcc34b3812b98c7d186f946afd3b81/tumblr_nzq314u33r1v2s5upo1_250.jpg"],
 	        
@@ -329,7 +329,7 @@ var database = [
 	        
 ["film", ["Nerve"], "2016", ["2017 01 23"], 6, ["ger"], ["adventure", "crime"], [], [], ["Henry Joost", "Ariel Schulman"], ["Emma Roberts", "Dave Franco", "Samira Wiley", "Casey Neistat", "Miles Heizer"], "https://68.media.tumblr.com/df54a4ed23cbe1738a7c346bfa8e4782/tumblr_okc8orMOiT1v2s5upo1_250.jpg"],
 	        
-["film", ["Jurassic World"], "2015", ["2017 01 24", "2019 04 27"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Jurassic Park"], ["Colin Trevorrow"], ["Chris Pratt", "Vincent D'Onofrio", "Jake Johnson", "Omar Sy", "Judy Greer", "BD Wong", "Nick Robinson", "Irrfan Khan", "Katie McGrath"], "https://68.media.tumblr.com/192dd7ebda074ade64f0bc5b5aceb29e/tumblr_okjlsiKiZK1v2s5upo1_250.jpg"],
+["film", ["Jurassic World"], "2015", ["2017 01 24", "2019 04 27"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Jurassic Park"], ["Colin Trevorrow"], ["Chris Pratt", "Vincent D'Onofrio", "Jake Johnson", "Omar Sy", "Judy Greer", "BD Wong", "Nick Robinson", "Irrfan Khan", "Katie McGrath", "Bryce Dallas Howard"], "https://68.media.tumblr.com/192dd7ebda074ade64f0bc5b5aceb29e/tumblr_okjlsiKiZK1v2s5upo1_250.jpg"],
 	        
 ["film", ["Once"], "2007", ["2017 01 30"], 8, ["ger"], ["drama", "music", "romance"], [], [], ["John Carney"], [], "https://68.media.tumblr.com/1ceaa86559b1a5833900a857847214f0/tumblr_oklwsdRnuh1v2s5upo1_250.jpg"],
 	        
@@ -624,7 +624,7 @@ var database = [
 	        
 ["film", ["The Space Between Us", "Den Sternen so nah"], "2017", ["2017 03 04"], 7, ["ger"], ["drama", "romance", "sci-fi"], ["je", "syl"], ["Kino"], ["Peter Chelsom"], ["Gary Oldman", "BD Wong", "Asa Butterfield"], "https://68.media.tumblr.com/514a1e7f63f97208cde10e75312227b2/tumblr_omeq8dnfiM1v2s5upo1_250.jpg"],
 	        
-["film", ["Jurassic World: Fallen Kingdom", "Jurassic World: Das gefallene Königreich"], "2018", ["2018 06 07", "2020 11 26"], 8, ["ger"], ["action", "adventure"], ["bini", "je", "syl"], ["Kino", "Jurassic Park", "DVD"], ["J.A. Bayona"], ["Chris Pratt", "Bryce Dallas Howard", "Toby Jones", "Jeff Goldblum", "BD Wong", "Justice Smith", "Ted Levine"], "https://66.media.tumblr.com/2e331c74b66d28043538fe0e9ffb0e23/tumblr_pzktkmJCIo1v2s5upo1_250.jpg"],
+["film", ["Jurassic World: Fallen Kingdom", "Jurassic World: Das gefallene Königreich"], "2018", ["2018 06 07", "2020 11 26"], 8, ["ger"], ["action", "adventure"], ["bini", "je", "syl"], ["Kino", "Jurassic Park", "DVD"], ["J.A. Bayona"], ["Chris Pratt", "Bryce Dallas Howard", "Toby Jones", "Jeff Goldblum", "BD Wong", "Justice Smith", "Ted Levine", "Isabella Sermon"], "https://66.media.tumblr.com/2e331c74b66d28043538fe0e9ffb0e23/tumblr_pzktkmJCIo1v2s5upo1_250.jpg"],
 	        
 ["film", ["Lilo & Stitch"], "2002", ["2018 06 14"], 8, ["ger"], ["animation", "adventure"], ["bini"], ["Netflix"], ["Dean DeBlois", "Chris Sanders"], [], "https://66.media.tumblr.com/686b5039acaf7c0c922cb82dedc322ef/tumblr_pzktqh53nE1v2s5upo1_250.jpg"],
 	        
@@ -2267,7 +2267,9 @@ var database = [
 
 ["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", ""]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
 
-["film", ["Badhaai Do"], "2022", [["2022 06 25", ""]], 0, ["hin"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Harshavardhan Kulkarni"], [], "https://64.media.tumblr.com/19e098aca5d66b71f930e075026752cc/f9329bfd238d17a4-06/s250x400/929c766a8486a8cd4766a1759fab59ec27788188.jpg"]
+["film", ["Badhaai Do"], "2022", [["2022 06 25", ""]], 0, ["hin"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Harshavardhan Kulkarni"], [], "https://64.media.tumblr.com/19e098aca5d66b71f930e075026752cc/f9329bfd238d17a4-06/s250x400/929c766a8486a8cd4766a1759fab59ec27788188.jpg"],
+
+["film", ["Jurassic World Dominion", "Jurassic World: Ein neues Zeitalter"], "2022", ["2022 06 27"], 7, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Jurassic Park", "Kino"], ["Colin Trevorrow"], ["Chris Pratt", "Bryce Dallas Howard", "Laura Dern", "Sam Neill", "Jeff Goldblum", "Isabella Sermon", "BD Wong", "Omar Sy", "Justice Smith"], "https://64.media.tumblr.com/a17b5b0f69d8aa483647f331cf9579db/b2e654facb5ceb76-c2/s250x400/62605a9f58fd3a8df44e7aec99ad1b6b97124c3f.jpg"]
 
 	
 /*
