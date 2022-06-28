@@ -2269,7 +2269,11 @@ var database = [
 
 ["film", ["Badhaai Do"], "2022", [["2022 06 25", ""]], 0, ["hin"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Harshavardhan Kulkarni"], [], "https://64.media.tumblr.com/19e098aca5d66b71f930e075026752cc/f9329bfd238d17a4-06/s250x400/929c766a8486a8cd4766a1759fab59ec27788188.jpg"],
 
-["film", ["Jurassic World Dominion", "Jurassic World: Ein neues Zeitalter"], "2022", ["2022 06 27"], 7, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Jurassic Park", "Kino"], ["Colin Trevorrow"], ["Chris Pratt", "Bryce Dallas Howard", "Laura Dern", "Sam Neill", "Jeff Goldblum", "Isabella Sermon", "BD Wong", "Omar Sy", "Justice Smith"], "https://64.media.tumblr.com/a17b5b0f69d8aa483647f331cf9579db/b2e654facb5ceb76-c2/s250x400/62605a9f58fd3a8df44e7aec99ad1b6b97124c3f.jpg"]
+["film", ["Jurassic World Dominion", "Jurassic World: Ein neues Zeitalter"], "2022", ["2022 06 27"], 7, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Jurassic Park", "Kino"], ["Colin Trevorrow"], ["Chris Pratt", "Bryce Dallas Howard", "Laura Dern", "Sam Neill", "Jeff Goldblum", "Isabella Sermon", "BD Wong", "Omar Sy", "Justice Smith"], "https://64.media.tumblr.com/a17b5b0f69d8aa483647f331cf9579db/b2e654facb5ceb76-c2/s250x400/62605a9f58fd3a8df44e7aec99ad1b6b97124c3f.jpg"],
+
+["series", ["Encouragement of Climb", "Encouragement of Climb", "Yama no Susume"], ["2013", "2018"], [["2022 06 28", "S1"], ["2022 06 28", "Special"]], 7, ["jap"], ["anime", "adventure"], ["bini", "nico"], ["ongoing"], ["Kazuyuki Fudeyasu", "Yûsuke Yamamoto"], [], "https://64.media.tumblr.com/4b6363e01817e76056f937d9096e7de8/edfa00da095d3fae-fb/s250x400/3ae875cfc0895dec1f00ade6ab41f93a7cac14dd.jpg"],
+
+["series", ["Daily Lives of High School Boys", "Daily Lives of High School Boys", "Danshi Koukousei no Nichijou"], ["2012", ""], [["2022 06 28", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["ongoing", "watching"], ["Shinji Takamatsu", "Yasunobu Yamauchi"], [], "https://64.media.tumblr.com/26d49f29a8035bc04fdf773a00cd1ab8/6aff97a1f7ecee60-c2/s250x400/34ae2095612fe15bff444eb3cdf112c8f748a6e9.jpg"]
 
 	
 /*
