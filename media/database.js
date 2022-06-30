@@ -1074,7 +1074,7 @@ var database = [
 	        
 ["film", ["The World's End"], "2013", ["2015 09 19", "2017 12 17"], 9, ["ger"], ["comedy", "sci-fi"], ["lukas"], ["Blood and Ice Cream"], ["Edgar Wright"], ["Pierce Brosnan", "Simon Pegg", "David Bradley", "Nick Frost", "Martin Freeman", "Paddy Considine", "Bill Nighy", "Samuel Mak"], "https://68.media.tumblr.com/fce244f2c822c5849567263e3ff8b5c7/tumblr_oov1mqp1RR1v2s5upo1_250.jpg"],
 	        
-["film", ["Patema Inverted", "Patema Inverted", "Sakasama no Patema"], "2013", ["2015 09 19"], 7, ["jap"], ["anime", "adventure"], ["bini"], [], ["Yasuhiro Yoshiura"], [], "https://68.media.tumblr.com/40449edb9184fd52fcde85b36fdb6a9c/tumblr_oov2d15BDT1v2s5upo1_250.jpg"],
+["film", ["Patema Inverted", "Patema Inverted", "Sakasama no Patema"], "2013", ["2015 09 19", "2022 06 29"], 7, ["jap"], ["anime", "adventure"], ["bini", "nico", "jessie"], [], ["Yasuhiro Yoshiura"], [], "https://68.media.tumblr.com/40449edb9184fd52fcde85b36fdb6a9c/tumblr_oov2d15BDT1v2s5upo1_250.jpg"],
 	        
 ["film", ["Ice Age: The Meltdown", "Ice Age 2 - Jetzt taut's"], "2006", ["2015 10 10"], 3, ["ger"], ["animation", "adventure"], ["bini"], [], ["Carlos Saldanha"], [], "https://66.media.tumblr.com/145d5770045c5a147c2a0b9f51776b7b/tumblr_ppxzlddnCE1v2s5upo1_250.jpg"],
 	        
@@ -2273,7 +2273,9 @@ var database = [
 
 ["series", ["Encouragement of Climb", "Encouragement of Climb", "Yama no Susume"], ["2013", "2018"], [["2022 06 28", "S1"], ["2022 06 28", "Special"]], 7, ["jap"], ["anime", "adventure"], ["bini", "nico"], ["ongoing"], ["Kazuyuki Fudeyasu", "Yûsuke Yamamoto"], [], "https://64.media.tumblr.com/4b6363e01817e76056f937d9096e7de8/edfa00da095d3fae-fb/s250x400/3ae875cfc0895dec1f00ade6ab41f93a7cac14dd.jpg"],
 
-["series", ["Daily Lives of High School Boys", "Daily Lives of High School Boys", "Danshi Koukousei no Nichijou"], ["2012", ""], [["2022 06 28", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["ongoing", "watching"], ["Shinji Takamatsu", "Yasunobu Yamauchi"], [], "https://64.media.tumblr.com/26d49f29a8035bc04fdf773a00cd1ab8/6aff97a1f7ecee60-c2/s250x400/34ae2095612fe15bff444eb3cdf112c8f748a6e9.jpg"]
+["series", ["Daily Lives of High School Boys", "Daily Lives of High School Boys", "Danshi Koukousei no Nichijou"], ["2012", ""], [["2022 06 28", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["ongoing", "watching"], ["Shinji Takamatsu", "Yasunobu Yamauchi"], [], "https://64.media.tumblr.com/26d49f29a8035bc04fdf773a00cd1ab8/6aff97a1f7ecee60-c2/s250x400/34ae2095612fe15bff444eb3cdf112c8f748a6e9.jpg"],
+
+["series", ["Patema Inverted: Beginning of the Day", "Patema Inverted: Beginning of the Day", "Sakasama no Patema: Beginning of the Day"], "2012", [["2022 06 29", "S1"]], 6, ["jap"], ["anime", "sci-fi"], ["bini", "nico"], [], ["Yasuhiro Yoshiura"], [], "https://64.media.tumblr.com/d95f87eb5a5138a7315d2aca3973974b/d0486813ffd5d781-af/s250x400/1751b6f4a282489119769f26e2f800fc1576b012.jpg"]
 
 	
 /*
