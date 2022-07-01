@@ -2267,7 +2267,7 @@ var database = [
 
 ["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", ""]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
 
-["film", ["Badhaai Do"], "2022", [["2022 06 25", ""]], 0, ["hin"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Harshavardhan Kulkarni"], [], "https://64.media.tumblr.com/19e098aca5d66b71f930e075026752cc/f9329bfd238d17a4-06/s250x400/929c766a8486a8cd4766a1759fab59ec27788188.jpg"],
+["film", ["Badhaai Do"], "2022", [["2022 06 25", "2022 07 01"]], 8, ["hin"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Harshavardhan Kulkarni"], [], "https://64.media.tumblr.com/19e098aca5d66b71f930e075026752cc/f9329bfd238d17a4-06/s250x400/929c766a8486a8cd4766a1759fab59ec27788188.jpg"],
 
 ["film", ["Jurassic World Dominion", "Jurassic World: Ein neues Zeitalter"], "2022", ["2022 06 27"], 7, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Jurassic Park", "Kino"], ["Colin Trevorrow"], ["Chris Pratt", "Bryce Dallas Howard", "Laura Dern", "Sam Neill", "Jeff Goldblum", "Isabella Sermon", "BD Wong", "Omar Sy", "Justice Smith"], "https://64.media.tumblr.com/a17b5b0f69d8aa483647f331cf9579db/b2e654facb5ceb76-c2/s250x400/62605a9f58fd3a8df44e7aec99ad1b6b97124c3f.jpg"],
 
