@@ -408,7 +408,7 @@ var database = [
 	        
 ["series", ["Terrace House Boys x Girls Next Door"], "2012", [["2019 10 13", "2019 12 24", "S1E1-S1E18"], ["2021 07 24", "2021 09 08", "S1E19-E46"]], 8, ["jap"], ["reality-tv"], ["bini"], ["Netflix"], ["Masato Maeda"], [], "https://64.media.tumblr.com/dc96a41efcde322ebdd67f4205a4866a/95c8f7faf9c9026e-88/s250x400/6132e1085b759b2b17ac7a2b99bd5cca09b1f3a9.jpg"],
 	        
-["series", ["The Umbrella Academy"], "2019", [["2020 08 05", "2020 08 15", "S1"], ["2020 10 17", "2020 10 30", "S2"], ["2022 06 22", "", "S3"]], 7, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix", "ongoing", "watching"], ["Steve Blackman", "Jeremy Slater"], ["Elliot Page", "Kate Walsh", "Adam Godley", "Robert Sheehan", "Ritu Arya"], "https://64.media.tumblr.com/b5ed5269616d02fb18efc291045bedd5/36d8ed15d27df2ff-1a/s250x400/4bcce2e2fd2493e604208f974ac75822129df3e6.jpg"],
+["series", ["The Umbrella Academy"], "2019", [["2020 08 05", "2020 08 15", "S1"], ["2020 10 17", "2020 10 30", "S2"], ["2022 06 22", "2022 07 01", "S3"]], 6, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix", "ongoing"], ["Steve Blackman", "Jeremy Slater"], ["Elliot Page", "Kate Walsh", "Adam Godley", "Robert Sheehan", "Ritu Arya"], "https://64.media.tumblr.com/b5ed5269616d02fb18efc291045bedd5/36d8ed15d27df2ff-1a/s250x400/4bcce2e2fd2493e604208f974ac75822129df3e6.jpg"],
 	        
 ["film", ["Princess Mononoke"], "1997", ["2015 08 22", "2016 06 19", "2019 01 25", "2022 03 05"], 9, ["ger", "jap"], ["anime", "adventure", "fantasy"], ["bini", "mai"], ["Ghibli", "fav", "bby", "Netflix"], ["Hayao Miyazaki"], [], "https://40.media.tumblr.com/b65d33b18937b9e0d46918deaf9afad4/tumblr_o0du7hYEVy1v2s5upo1_250.jpg"],
 	        
