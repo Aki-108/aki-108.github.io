@@ -1122,7 +1122,7 @@ var database = [
 	        
 ["film", ["Oblivion"], "2013", ["2015 11 02"], 7, ["ger"], ["action", "adventure"], [], [], ["Joseph Kosinski"], ["Tom Cruise", "Morgan Freeman"], "https://66.media.tumblr.com/e76cfa3878cc2e800ec29ddf946b5c61/tumblr_pwvsijeH3W1v2s5upo1_250.jpg"],
 	        
-["film", ["Hanna", "Wer ist Hanna?"], "2011", ["2015 11 04", "2016 09 02"], 8, ["ger"], ["action", "drama"], ["bini", "nico"], [], ["Joe Wright"], ["Saoirse Ronan", "Cate Blanchett", "Sebastian Hülk"], "https://66.media.tumblr.com/4ccfdad96cbd37814b45e90af37299b3/tumblr_pwvsjzq2xF1v2s5upo1_250.jpg"],
+["film", ["Hanna", "Wer ist Hanna?"], "2011", ["2015 11 04", "2016 09 02"], 8, ["ger"], ["action", "drama"], ["bini", "nico"], [], ["Joe Wright"], ["Saoirse Ronan", "Cate Blanchett", "Sebastian Hülk", "Gudrun Ritter"], "https://66.media.tumblr.com/4ccfdad96cbd37814b45e90af37299b3/tumblr_pwvsjzq2xF1v2s5upo1_250.jpg"],
 	        
 ["film", ["A Lonely Place to Die"], "2011", ["2015 11 05"], 6, ["ger"], ["crime", "thriller"], [], [], ["Julian Gilbey"], [], "https://66.media.tumblr.com/a83c0f222e35f53dc7dd193f0960d540/tumblr_pwzsuwXloR1v2s5upo1_250.jpg"],
 	        
@@ -2275,7 +2275,9 @@ var database = [
 
 ["series", ["Daily Lives of High School Boys", "Daily Lives of High School Boys", "Danshi Koukousei no Nichijou"], ["2012", ""], [["2022 06 28", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["ongoing", "watching"], ["Shinji Takamatsu", "Yasunobu Yamauchi"], [], "https://64.media.tumblr.com/26d49f29a8035bc04fdf773a00cd1ab8/6aff97a1f7ecee60-c2/s250x400/34ae2095612fe15bff444eb3cdf112c8f748a6e9.jpg"],
 
-["series", ["Patema Inverted: Beginning of the Day", "Patema Inverted: Beginning of the Day", "Sakasama no Patema: Beginning of the Day"], "2012", [["2022 06 29", "S1"]], 6, ["jap"], ["anime", "sci-fi"], ["bini", "nico"], [], ["Yasuhiro Yoshiura"], [], "https://64.media.tumblr.com/d95f87eb5a5138a7315d2aca3973974b/d0486813ffd5d781-af/s250x400/1751b6f4a282489119769f26e2f800fc1576b012.jpg"]
+["series", ["Patema Inverted: Beginning of the Day", "Patema Inverted: Beginning of the Day", "Sakasama no Patema: Beginning of the Day"], "2012", [["2022 06 29", "S1"]], 6, ["jap"], ["anime", "sci-fi"], ["bini", "nico"], [], ["Yasuhiro Yoshiura"], [], "https://64.media.tumblr.com/d95f87eb5a5138a7315d2aca3973974b/d0486813ffd5d781-af/s250x400/1751b6f4a282489119769f26e2f800fc1576b012.jpg"],
+
+["film", ["Das Haus der Krokodile"], "2012", ["2022 07 03"], 6, ["ger"], ["adventure", "family"], [], ["Disney+"], ["Cyrill Boss", "Philipp Stennert"], ["Christoph Maria Herbst", "Gudrun Ritter"], "https://64.media.tumblr.com/2f92348d747c323142902a89f73c6dc1/a04e1350014f3bc5-ef/s250x400/495471fe5decd5ac9884dcc310d7233b98825abf.jpg"]
 
 	
 /*
