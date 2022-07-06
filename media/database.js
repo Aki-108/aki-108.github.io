@@ -390,7 +390,7 @@ var database = [
 	        
 ["series", ["Anne", "Anne with an E"], ["2017", "2019"], [["2018 06 28", "2018 07 16", "S1 - S2"], ["2019 05 07", "2019 05 22", "S1"], ["2019 05 25", "2019 05 29", "S2"], ["2020 01 03", "2020 01 13", "S3"]], 9, ["ger"], ["drama"], [], ["Anne", "Netflix", "fav"], ["Moira Walley-Beckett"], ["Amybeth McNulty", "Dalila Bela", "Kyla Matthews", "Lucas Jade Zumann", "Jonathan Holmes"], "https://66.media.tumblr.com/8266f1a5adb1b67ecbef6aa92fe0c973/4e7bf0fc5f10f7cc-29/s250x400/3b065f5a3c31379d01b763d7c2c281f9bbb6d233.jpg"],
 	        
-["series", ["Chilling Adventures of Sabrina"], ["2018", "2020"], [["2018 10 29", "2018 11 12", "S1"], ["2019 09 18", "2019 12 23", "S2"]], 0, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Roberto Aguirre-Sacasa"], ["Kiernan Shipka", "Spencer Treat Clark", "Miranda Otto"], "https://66.media.tumblr.com/b25e392bd773de76617cb1a05dbcb3af/eac2f8bae7a8a303-ae/s250x400/6a012fa79493463d7cb66fa8677db31bb14d19a5.jpg"],
+["series", ["Chilling Adventures of Sabrina"], ["2018", "2020"], [["2018 10 29", "2018 11 12", "S1"], ["2019 09 18", "2019 12 23", "S2"]], 0, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Roberto Aguirre-Sacasa"], ["Kiernan Shipka", "Spencer Treat Clark", "Miranda Otto", "Heather Doerksen", "Kayla Deorksen"], "https://66.media.tumblr.com/b25e392bd773de76617cb1a05dbcb3af/eac2f8bae7a8a303-ae/s250x400/6a012fa79493463d7cb66fa8677db31bb14d19a5.jpg"],
 	        
 ["series", ["You", "You: Du wirst mich lieben"], "2018", [["2019 01 01", "2019 01 03", "S1"], ["2019 12 26", "2020 01 03", "S2"], ["2020 10 23", "2020 11 14", "S1"], ["2020 11 16", "2020 12 01", "S2E1-S2E2"]], 8, ["ger"], ["crime", "drama"], ["syl", "bini"], ["Netflix"], ["Sera Gamble", "Greg Berlanti"], ["Victoria Pedretti", "Jenna Ortega", "Ayelet Zurer", "Zach Cherry"], "https://66.media.tumblr.com/11e496a30095a63ee91bc61b20404387/86460cd1faf80a44-80/s250x400/d76521b06d1eaed24cbe0ecb36c15a3d1991b669.jpg"],
 	        
@@ -420,7 +420,7 @@ var database = [
 	        
 ["film", ["Kick-Ass"], "2010", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], ["bini"], [], ["Matthew Vaughn"], ["Christopher Mintz-Plasse", "Chloë Grace Moretz", "Evan Peters", "Xander Berkeley", "Omari Hardwick"], "https://40.media.tumblr.com/50091ac45e1d0d7d73fee6abb55a0020/tumblr_o5mvk0MA5b1v2s5upo1_250.jpg"],
 	        
-["film", ["Kick-Ass 2"], "2013", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], [], [], ["Jeff Wadlow"], ["Chloë Grace Moretz", "John Leguizamo", "Jim Carrey", "Ella Purnell"], "https://40.media.tumblr.com/4bbb2e53f36fc274d645007c32b45568/tumblr_o5mwb2cDB91v2s5upo1_250.jpg"],
+["film", ["Kick-Ass 2"], "2013", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], [], [], ["Jeff Wadlow"], ["Chloë Grace Moretz", "John Leguizamo", "Jim Carrey", "Ella Purnell", "Iain Glen"], "https://40.media.tumblr.com/4bbb2e53f36fc274d645007c32b45568/tumblr_o5mwb2cDB91v2s5upo1_250.jpg"],
 	        
 ["film", ["Brain on Fire", "Feuer im Kopf"], "2016", ["2018 07 23"], 7, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Gerard Barrett"], ["Chloë Grace Moretz", "Thomas Mann", "Richard Armitage"], "https://66.media.tumblr.com/a289242ec9258da8d7bae2d525f96a5d/2376b81d083bf343-08/s250x400/9b3af989b942eb390622492f92bbab1850daae4f.jpg"],
 	        
@@ -452,7 +452,7 @@ var database = [
 	        
 ["film", ["Elizabethtown"], "2005", ["2015 08 25"], 8, ["ger"], ["comedy", "drama"], [], [], ["Cameron Crowe"], ["Orlando Bloom", "Kirsten Dunst", "Alec Baldwin", "Judy Greer", "Paul Schneider"], "https://49.media.tumblr.com/04848757c806d3f770ff9451e851dc3a/tumblr_o0dvucxTZA1v2s5upo1_250.jpg"],
 	        
-["film", ["Kingdom of Heaven", "Königreich der Himmel"], "2005", ["2015 12 28"], 9, ["ger"], ["action", "adventure", "war", "history"], [], [], ["Ridley Scott"], ["David Thewlis", "Orlando Bloom", "Eva Green", "Jeremy Irons"], "https://49.media.tumblr.com/3be01f4735a5d74e5c36ef0349fd379e/tumblr_o036jydUC71v2s5upo1_250.jpg"],
+["film", ["Kingdom of Heaven", "Königreich der Himmel"], "2005", ["2015 12 28"], 9, ["ger"], ["action", "adventure", "war", "history"], [], [], ["Ridley Scott"], ["David Thewlis", "Orlando Bloom", "Eva Green", "Jeremy Irons", "Iain Glen"], "https://49.media.tumblr.com/3be01f4735a5d74e5c36ef0349fd379e/tumblr_o036jydUC71v2s5upo1_250.jpg"],
 	        
 ["film", ["The Hobbit: The Desolation of Smaug", "Der Hobbit: Smaugs Einöde"], "2013", ["2015 12 13", "2016 12 16", "2018 03 10", "2020 01 17", "2022 04 20"], 8, ["ger"], ["adventure", "fantasy"], [], ["Middle Earth", "Netflix"], ["Peter Jackson"], ["Ian McKellen", "Martin Freeman", "Orlando Bloom", "Evangeline Lilly", "Cate Blanchett", "Richard Armitage"], "https://49.media.tumblr.com/67800ee6e25ae78e36fcd512a8e0a570/tumblr_o0cfd7jSK91v2s5upo1_250.png"],
 	        
@@ -580,7 +580,7 @@ var database = [
 	        
 ["film", ["Stand by Me", "Stand by Me: Das Geheimnis eines Sommers"], "1986", ["2015 09 10", "2016 09 25"], 9, ["ger"], ["adventure", "drama"], ["bini", "nico"], [], ["Rob Reiner"], [], "https://40.media.tumblr.com/bba18c1a5b52bf684b609263c5975760/tumblr_o0suhzhX1C1v2s5upo1_250.jpg"],
 	        
-["film", ["Pacific Rim"], "2013", ["2015 09 12", "2017 05 08"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "nico"], [], ["Guillermo del Toro"], ["Clifton Collins Jr.", "Ron Perlman", "Burn Gorman", "Cathy Cavadini", "Michelle Lee", "Charlie Hunnam"], "https://37.media.tumblr.com/a3c61f7b93f5a2d2e91773e76711125d/tumblr_o3kcz4exSZ1v2s5upo1_250.jpg"],
+["film", ["Pacific Rim"], "2013", ["2015 09 12", "2017 05 08"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "nico"], [], ["Guillermo del Toro"], ["Clifton Collins Jr.", "Ron Perlman", "Burn Gorman", "Cathy Cavadini", "Michelle Lee", "Charlie Hunnam", "Heather Doerksen"], "https://37.media.tumblr.com/a3c61f7b93f5a2d2e91773e76711125d/tumblr_o3kcz4exSZ1v2s5upo1_250.jpg"],
 	        
 ["film", ["Holes", "Das Geheimnis von Green Lake"], "2003", ["2015 09 26"], 5, ["ger"], ["adventure", "comedy"], [], [], ["Andrew Davis"], ["Sigourney Weaver", "Jon Voight", "Shia LaBeouf", "Dulé Hill"], "https://66.media.tumblr.com/ffc06fb1af6193586005bb6513d1568e/tumblr_ppxzedeXjF1v2s5upo1_250.jpg"],
 	        
@@ -1260,9 +1260,9 @@ var database = [
 	        
 ["film", ["Resident Evil"], "2002", ["2016 05 17"], 8, ["ger"], ["action", "horror"], [], ["Resident Evil"], ["Paul W.S. Anderson"], ["Milla Jovovich", "Michelle Rodriguez", "Heike Makatsch"], "https://68.media.tumblr.com/30a629ad38171e2f1328a705820e7a59/tumblr_o7ha4kM0VN1v2s5upo1_250.jpg"],
 	        
-["film", ["Resident Evil: Apocalypse"], "2004", ["2016 05 18"], 8, ["ger"], ["action", "horror"], [], ["Resident Evil"], ["Alexander Witt"], ["Milla Jovovich", "Jared Harris"], "https://68.media.tumblr.com/74b3bd9b1e5ea10546f82246f8db8486/tumblr_o7dquiGTOf1v2s5upo1_250.jpg"],
+["film", ["Resident Evil: Apocalypse"], "2004", ["2016 05 18"], 8, ["ger"], ["action", "horror"], [], ["Resident Evil"], ["Alexander Witt"], ["Milla Jovovich", "Jared Harris", "Iain Glen"], "https://68.media.tumblr.com/74b3bd9b1e5ea10546f82246f8db8486/tumblr_o7dquiGTOf1v2s5upo1_250.jpg"],
 	        
-["film", ["Resident Evil: Extinction"], "2007", ["2016 05 20"], 8, ["ger"], ["action", "horror"], [], ["Resident Evil"], ["Russell Mulcahy"], ["Milla Jovovich"], "https://68.media.tumblr.com/01cba57bbafa5401ff6e0364fd264942/tumblr_o7he6dAvhd1v2s5upo1_250.jpg"],
+["film", ["Resident Evil: Extinction"], "2007", ["2016 05 20"], 8, ["ger"], ["action", "horror"], [], ["Resident Evil"], ["Russell Mulcahy"], ["Milla Jovovich", "Iain Glen"], "https://68.media.tumblr.com/01cba57bbafa5401ff6e0364fd264942/tumblr_o7he6dAvhd1v2s5upo1_250.jpg"],
 	        
 ["film", ["Resident Evil: Afterlife"], "2010", ["2016 05 22"], 8, ["ger"], ["action", "horror"], [], ["Resident Evil"], ["Paul W.S. Anderson"], ["Milla Jovovich"], "https://68.media.tumblr.com/0379678b089cac47253be929ce11389d/tumblr_o7kvnp6QsR1v2s5upo1_250.jpg"],
 	        
@@ -1718,7 +1718,7 @@ var database = [
 
 ["film", ["Eighth Grade"], "2018", ["2021 02 05"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Bo Burnham"], ["Jake Ryan", "Imani Lewis"], "https://64.media.tumblr.com/bf3e142a4d848a56aaab6996908a2411/d29826633fcbea74-16/s250x400/33a141e154e645351a2167ee589a53adf3d53177.jpg"],
 
-["series", ["Snowpiercer"], "2020", [["2021 02 05", "2021 02 08", "S1"], ["2021 02 13", "2021 04 02", "S2"]], 5, ["ger"], ["action", "drama", "sci-fi"], [], ["Netflix", "ongoing"], ["Josh Friedman", "Graeme Manson"], ["Sheila Vand", "Annalise Basso", "Miranda Edwards", "Sean Bean", "Timothy V. Murphy", "Madeleine Arthur", "Jennifer Connelly", "Rowan Blanchard", "Shaun Toub"], "https://64.media.tumblr.com/3477ca09fd2b3bb5d18fea7d51fa0d40/e3297eb57edd7e85-c9/s250x400/9c46b73e0945e344c59d0fda6ff444734c3b0982.jpg"],
+["series", ["Snowpiercer"], "2020", [["2021 02 05", "2021 02 08", "S1"], ["2021 02 13", "2021 04 02", "S2"]], 5, ["ger"], ["action", "drama", "sci-fi"], [], ["Netflix", "ongoing"], ["Josh Friedman", "Graeme Manson"], ["Sheila Vand", "Annalise Basso", "Miranda Edwards", "Sean Bean", "Timothy V. Murphy", "Madeleine Arthur", "Jennifer Connelly", "Rowan Blanchard", "Shaun Toub", "Kurt Ostlund"], "https://64.media.tumblr.com/3477ca09fd2b3bb5d18fea7d51fa0d40/e3297eb57edd7e85-c9/s250x400/9c46b73e0945e344c59d0fda6ff444734c3b0982.jpg"],
 
 ["film", ["How to Lose a Guy in 10 Days", "Wie werde ich ihn los in 10 Tagen"], "2003", ["2021 02 18"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Donald Petrie"], ["Kate Hudson", "Matthew McConaughey", "Kathryn Hahn"], "https://64.media.tumblr.com/a9ed55c0a0882f0b421242460cb48778/158e9caf790b9ed9-0a/s250x400/119393a1d9f45f43c1566316500391d7b7ee51cf.jpg"],
 
@@ -2277,7 +2277,11 @@ var database = [
 
 ["series", ["Patema Inverted: Beginning of the Day", "Patema Inverted: Beginning of the Day", "Sakasama no Patema: Beginning of the Day"], "2012", [["2022 06 29", "S1"]], 6, ["jap"], ["anime", "sci-fi"], ["bini", "nico"], [], ["Yasuhiro Yoshiura"], [], "https://64.media.tumblr.com/d95f87eb5a5138a7315d2aca3973974b/d0486813ffd5d781-af/s250x400/1751b6f4a282489119769f26e2f800fc1576b012.jpg"],
 
-["film", ["Das Haus der Krokodile"], "2012", ["2022 07 03"], 6, ["ger"], ["adventure", "family"], [], ["Disney+"], ["Cyrill Boss", "Philipp Stennert"], ["Christoph Maria Herbst", "Gudrun Ritter"], "https://64.media.tumblr.com/2f92348d747c323142902a89f73c6dc1/a04e1350014f3bc5-ef/s250x400/495471fe5decd5ac9884dcc310d7233b98825abf.jpg"]
+["film", ["Das Haus der Krokodile"], "2012", ["2022 07 03"], 6, ["ger"], ["adventure", "family"], [], ["Disney+"], ["Cyrill Boss", "Philipp Stennert"], ["Christoph Maria Herbst", "Gudrun Ritter"], "https://64.media.tumblr.com/2f92348d747c323142902a89f73c6dc1/a04e1350014f3bc5-ef/s250x400/495471fe5decd5ac9884dcc310d7233b98825abf.jpg"],
+
+["film", ["Love You To Death"], "2019", ["2022 07 05"], 6, ["eng"], ["drama"], [], ["Netflix"], ["Alex Kalymnios"], ["Marcia Gay Harden", "Heather Doerksen", "Kayla Deorksen", "Kurt Ostlund"], "https://64.media.tumblr.com/e6d8308c4afb8f7d3bac1b967a781b0c/b822db2ee4679eff-93/s250x400/6b17c8cef6117edbf6eda1b48785ca091d533749.jpg"],
+
+["film", ["Resident Evil: The Final Chapter"], "2016", [["2022 07 05", ""]], 0, ["ger"], ["action", "horror"], ["je"], ["Resident Evil", "Netflix"], ["Paul W.S. Anderson"], ["Milla Jovovich", "Iain Glen"], "https://64.media.tumblr.com/3998254cd1aa65fba2d5ba52114f2075/7baf178d5433889e-64/s250x400/b9d52ebce24dbb9ccc53b907e6dc57c8037665e4.jpg"]
 
 	
 /*
