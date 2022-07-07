@@ -2281,7 +2281,9 @@ var database = [
 
 ["film", ["Love You To Death"], "2019", ["2022 07 05"], 6, ["eng"], ["drama"], [], ["Netflix"], ["Alex Kalymnios"], ["Marcia Gay Harden", "Heather Doerksen", "Kayla Deorksen", "Kurt Ostlund"], "https://64.media.tumblr.com/e6d8308c4afb8f7d3bac1b967a781b0c/b822db2ee4679eff-93/s250x400/6b17c8cef6117edbf6eda1b48785ca091d533749.jpg"],
 
-["film", ["Resident Evil: The Final Chapter"], "2016", [["2022 07 05", "2022 07 06"]], 4, ["ger"], ["action", "horror"], ["je"], ["Resident Evil", "Netflix"], ["Paul W.S. Anderson"], ["Milla Jovovich", "Iain Glen"], "https://64.media.tumblr.com/3998254cd1aa65fba2d5ba52114f2075/7baf178d5433889e-64/s250x400/b9d52ebce24dbb9ccc53b907e6dc57c8037665e4.jpg"]
+["film", ["Resident Evil: The Final Chapter"], "2016", [["2022 07 05", "2022 07 06"]], 4, ["ger"], ["action", "horror"], ["je"], ["Resident Evil", "Netflix"], ["Paul W.S. Anderson"], ["Milla Jovovich", "Iain Glen"], "https://64.media.tumblr.com/3998254cd1aa65fba2d5ba52114f2075/7baf178d5433889e-64/s250x400/b9d52ebce24dbb9ccc53b907e6dc57c8037665e4.jpg"],
+
+["film", ["The Owl House", "Willkommen im Haus der Eulen"], ["2020", ""], [["2022 07 07", "", "S1"]], 0, ["ger"], ["animation", "action"], [], ["ongoing", "watching", "Disney+"], ["Dana Terrace"], [], "https://64.media.tumblr.com/57560f9dd0c4ac1af7ab3ca6bfc0b1ee/213ff5737007a5ca-30/s250x400/293183e8f7c50ee152511deaa4635729604edeb4.jpg"]
 
 	
 /*
