@@ -2283,7 +2283,11 @@ var database = [
 
 ["film", ["Resident Evil: The Final Chapter"], "2016", [["2022 07 05", "2022 07 06"]], 4, ["ger"], ["action", "horror"], ["je"], ["Resident Evil", "Netflix"], ["Paul W.S. Anderson"], ["Milla Jovovich", "Iain Glen"], "https://64.media.tumblr.com/3998254cd1aa65fba2d5ba52114f2075/7baf178d5433889e-64/s250x400/b9d52ebce24dbb9ccc53b907e6dc57c8037665e4.jpg"],
 
-["film", ["The Owl House", "Willkommen im Haus der Eulen"], ["2020", ""], [["2022 07 07", "", "S1"]], 0, ["ger"], ["animation", "action"], [], ["ongoing", "watching", "Disney+"], ["Dana Terrace"], [], "https://64.media.tumblr.com/57560f9dd0c4ac1af7ab3ca6bfc0b1ee/213ff5737007a5ca-30/s250x400/293183e8f7c50ee152511deaa4635729604edeb4.jpg"]
+["film", ["The Owl House", "Willkommen im Haus der Eulen"], ["2020", ""], [["2022 07 07", "", "S1"]], 0, ["ger"], ["animation", "action"], [], ["ongoing", "watching", "Disney+"], ["Dana Terrace"], [], "https://64.media.tumblr.com/57560f9dd0c4ac1af7ab3ca6bfc0b1ee/213ff5737007a5ca-30/s250x400/293183e8f7c50ee152511deaa4635729604edeb4.jpg"],
+
+["film", ["Barbie: Princess Charm School", "Barbie: Die Prinzessinnen-Akademie"], "2011", ["2022 07 08"], 5, ["ger"], ["animation", "family"], ["bini", "je"], ["Barbie"], ["Ezekiel Norton"], [], "https://64.media.tumblr.com/9569406e7c7e191767c2873b3e8b7947/3f54bb043aa7649c-6e/s250x400/30b063e6476d3e8f6eb9dac24063acb38bdb0a0d.jpg"],
+
+["film", ["How I Became A Superhero", "Wie ich ein Superheld wurde", "Comment je suis devenu super-héros"], "2020", ["2022 07 08"], 0, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Douglas Attal"], [], "https://64.media.tumblr.com/faa436e6364e83f2fb3f22181fce4a42/b427591ac125f23d-88/s250x400/c5f5be06553a197182293d8406b3fdaf8e8c1881.jpg"]
 
 	
 /*
