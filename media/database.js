@@ -2287,7 +2287,7 @@ var database = [
 
 ["film", ["Barbie: Princess Charm School", "Barbie: Die Prinzessinnen-Akademie"], "2011", ["2022 07 08"], 5, ["ger"], ["animation", "family"], ["bini", "je"], ["Barbie"], ["Ezekiel Norton"], [], "https://64.media.tumblr.com/9569406e7c7e191767c2873b3e8b7947/3f54bb043aa7649c-6e/s250x400/30b063e6476d3e8f6eb9dac24063acb38bdb0a0d.jpg"],
 
-["film", ["How I Became A Superhero", "Wie ich ein Superheld wurde", "Comment je suis devenu super-héros"], "2020", ["2022 07 08"], 0, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Douglas Attal"], [], "https://64.media.tumblr.com/faa436e6364e83f2fb3f22181fce4a42/b427591ac125f23d-88/s250x400/c5f5be06553a197182293d8406b3fdaf8e8c1881.jpg"]
+["film", ["How I Became A Superhero", "Wie ich ein Superheld wurde", "Comment je suis devenu super-héros"], "2020", ["2022 07 08"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Douglas Attal"], [], "https://64.media.tumblr.com/faa436e6364e83f2fb3f22181fce4a42/b427591ac125f23d-88/s250x400/c5f5be06553a197182293d8406b3fdaf8e8c1881.jpg"]
 
 	
 /*
