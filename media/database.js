@@ -2289,7 +2289,7 @@ var database = [
 
 ["film", ["How I Became A Superhero", "Wie ich ein Superheld wurde", "Comment je suis devenu super-héros"], "2020", ["2022 07 08"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Douglas Attal"], [], "https://64.media.tumblr.com/faa436e6364e83f2fb3f22181fce4a42/b427591ac125f23d-88/s250x400/c5f5be06553a197182293d8406b3fdaf8e8c1881.jpg"],
 
-["film", ["Snow White and the Huntsman"], "2012", ["2022 07 11"], 0, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Rupert Sanders"], ["Kristen Stewart", "Chris Hemsworth", "Sam Claflin", "Nick Frost", "Eddie Marsan", "Toby Jones", "Izzy Meikle-Small"], "https://64.media.tumblr.com/01a81980c77fffb1db98028e0f4872d6/c72bd3ed735bc05e-ce/s250x400/4183d6fd7abeff0f40329d2325f79836dba86d8f.jpg"]
+["film", ["Snow White and the Huntsman"], "2012", ["2022 07 11"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Rupert Sanders"], ["Kristen Stewart", "Chris Hemsworth", "Sam Claflin", "Nick Frost", "Eddie Marsan", "Toby Jones", "Izzy Meikle-Small"], "https://64.media.tumblr.com/01a81980c77fffb1db98028e0f4872d6/c72bd3ed735bc05e-ce/s250x400/4183d6fd7abeff0f40329d2325f79836dba86d8f.jpg"]
 
 	
 /*
