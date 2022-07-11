@@ -436,7 +436,7 @@ var database = [
 	        
 ["film", ["Wildlike"], "2014", ["2015 10 28"], 5, ["ger"], ["adventure", "drama"], [], [], ["Frank Hall Green"], ["Ella Purnell", "Bruce Greenwood"], "https://66.media.tumblr.com/36cca66f36079fa889751477367cd757/tumblr_pwoou5t3Cc1v2s5upo1_250.jpg"],
 	        
-["film", ["Never Let Me Go", "Alles, was wir geben mussten"], "2010", ["2016 06 06"], 6, ["ger"], ["drama", "romance"], ["syl"], [], ["Mark Romanek"], ["Carey Mulligan", "Andrew Garfield", "Ella Purnell", "Keira Knightley", "Domhnall Gleeson", "Lydia Wilson"], "https://68.media.tumblr.com/1d757c9083bbf6aafb1effb0f24ee5ec/tumblr_o8d331zSF31v2s5upo1_250.jpg"],
+["film", ["Never Let Me Go", "Alles, was wir geben mussten"], "2010", ["2016 06 06"], 6, ["ger"], ["drama", "romance"], ["syl"], [], ["Mark Romanek"], ["Carey Mulligan", "Andrew Garfield", "Ella Purnell", "Keira Knightley", "Domhnall Gleeson", "Lydia Wilson", "Izzy Meikle-Small"], "https://68.media.tumblr.com/1d757c9083bbf6aafb1effb0f24ee5ec/tumblr_o8d331zSF31v2s5upo1_250.jpg"],
 	        
 ["film", ["Begin Again", "Can a Song Save Your Life?"], "2013", ["2015 09 09", "2017 04 10"], 7, ["ger"], ["comedy", "drama", "music"], ["syl", "bini"], ["Kino"], ["John Carney"], ["Keira Knightley", "Mark Ruffalo", "Hailee Steinfeld"], "https://40.media.tumblr.com/1dc96583f8a5a59dc6958028ab8cc320/tumblr_o0p6mtqfT31v2s5upo1_250.jpg"],
 	        
@@ -2287,7 +2287,9 @@ var database = [
 
 ["film", ["Barbie: Princess Charm School", "Barbie: Die Prinzessinnen-Akademie"], "2011", ["2022 07 08"], 5, ["ger"], ["animation", "family"], ["bini", "je"], ["Barbie"], ["Ezekiel Norton"], [], "https://64.media.tumblr.com/9569406e7c7e191767c2873b3e8b7947/3f54bb043aa7649c-6e/s250x400/30b063e6476d3e8f6eb9dac24063acb38bdb0a0d.jpg"],
 
-["film", ["How I Became A Superhero", "Wie ich ein Superheld wurde", "Comment je suis devenu super-héros"], "2020", ["2022 07 08"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Douglas Attal"], [], "https://64.media.tumblr.com/faa436e6364e83f2fb3f22181fce4a42/b427591ac125f23d-88/s250x400/c5f5be06553a197182293d8406b3fdaf8e8c1881.jpg"]
+["film", ["How I Became A Superhero", "Wie ich ein Superheld wurde", "Comment je suis devenu super-héros"], "2020", ["2022 07 08"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Douglas Attal"], [], "https://64.media.tumblr.com/faa436e6364e83f2fb3f22181fce4a42/b427591ac125f23d-88/s250x400/c5f5be06553a197182293d8406b3fdaf8e8c1881.jpg"],
+
+["film", ["Snow White and the Huntsman"], "2012", ["2022 07 11"], 0, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Rupert Sanders"], ["Kristen Stewart", "Chris Hemsworth", "Sam Claflin", "Nick Frost", "Eddie Marsan", "Toby Jones", "Izzy Meikle-Small"], "https://64.media.tumblr.com/01a81980c77fffb1db98028e0f4872d6/c72bd3ed735bc05e-ce/s250x400/4183d6fd7abeff0f40329d2325f79836dba86d8f.jpg"]
 
 	
 /*
