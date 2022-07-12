@@ -1236,7 +1236,7 @@ var database = [
 	        
 ["film", ["Blue Valentine"], "2010", ["2016 01 11"], 3, ["ger"], ["drama", "romance"], [], [], ["Derek Cianfrance"], ["Ryan Gosling", "Michelle Williams", "John Doman"], "https://49.media.tumblr.com/3ffd25c757166219c8cdeb7e063a451c/tumblr_o0sw4676fJ1v2s5upo1_250.jpg"],
 	        
-["film", ["Carol"], "2015", ["2016 06 27"], 7, ["ger"], ["drama", "romance"], [], [], ["Todd Haynes"], ["Cate Blanchett", "Rooney Mara", "Kyle Chandler", "Sarah Paulson", "Kk Heim"], "https://66.media.tumblr.com/b9c5f989d5955964de7b7bc26584ea9c/tumblr_o9fzljBmU61v2s5upo1_250.jpg"],
+["film", ["Carol"], "2015", ["2016 06 27"], 7, ["ger"], ["drama", "romance"], [], ["LGBT"], ["Todd Haynes"], ["Cate Blanchett", "Rooney Mara", "Kyle Chandler", "Sarah Paulson", "Kk Heim"], "https://66.media.tumblr.com/b9c5f989d5955964de7b7bc26584ea9c/tumblr_o9fzljBmU61v2s5upo1_250.jpg"],
 	        
 ["film", ["Independence Day"], "1996", ["2016 01 04"], 4, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], [], ["Roland Emmerich"], ["Will Smith", "Jeff Goldblum", "Nectar Rose"], "https://40.media.tumblr.com/1c241f9742132261647f8c95854d70b1/tumblr_o0hue6vBOk1v2s5upo1_250.jpg"],
 	        
@@ -1556,7 +1556,7 @@ var database = [
 
 ["series", ["Monthly Girls' Nozaki-kun", "Shojo-Mangaka Nozaki-kun", "Gekkan Shoujo Nozaki-kun"], "2014", [["2014 12 23", "2015 03 01", "S1"]], 9, ["jap"], ["comedy", "romance", "anime"], [], ["GSNK"], ["Ryohei Takeshita", "Mitsue Yamazaki", "Geisei Morita"], [], "https://64.media.tumblr.com/b598b8f848c18943eab0e96e647162f5/8d3e2767707880b4-6a/s250x400/5a6aaf80bbcf3f594024fabbcdbfa45b9b1b7ae8.jpg"],
 
-["series", ["Wandering Son", "Hourou Musuko", "Hourou Musuko"], "2011", [["2014 12 25", "2015 03 29", "S1"]], 9, ["jap"], ["anime", "drama"], [], [], ["Mari Okada", "Takako Shimura"], [], "https://64.media.tumblr.com/c14508b3671445d20cd6179c829ae90a/968e5f4256cd086a-8a/s250x400/32f583523263058bfd029fdd38bb2190f3664595.jpg"],
+["series", ["Wandering Son", "Hourou Musuko", "Hourou Musuko"], "2011", [["2014 12 25", "2015 03 29", "S1"]], 9, ["jap"], ["anime", "drama"], [], ["LGBT"], ["Mari Okada", "Takako Shimura"], [], "https://64.media.tumblr.com/c14508b3671445d20cd6179c829ae90a/968e5f4256cd086a-8a/s250x400/32f583523263058bfd029fdd38bb2190f3664595.jpg"],
 
 ["series", ["Haikyuu!!"], ["2014", "2020"], [["2015 02 03", "2015 05 29", "S1E1-S1E17"], ["2015 10 03", "2016 01 17", "S2E1-S2E18"], ["2016 04 21", "2016 05 31", "S1E18-S1E25"], ["2017 02 03", "S2E19"]], 8, ["jap"], ["comedy", "drama", "anime"], [], ["dropped"], ["Haruichi Furudate"], [], "https://64.media.tumblr.com/838d9259500a3249f3ef5fad98e8cb73/3594fd2da779e5d0-62/s250x400/92d839170c270cc8e5f14518b8000ab147e0b828.jpg"],
 
@@ -2255,7 +2255,7 @@ var database = [
 
 ["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"],
 
-["series", ["First Kill"], ["2022", ""], [["2022 06 15", "2022 06 23", "S1"]], 5, ["ger"], ["drama", "horror"], [], ["ongoing", "Netflix"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"],
+["series", ["First Kill"], ["2022", ""], [["2022 06 15", "2022 06 23", "S1"]], 5, ["ger"], ["drama", "horror"], [], ["ongoing", "Netflix", "LGBT"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"],
 
 ["film", ["Ant-Man and the Wasp"], "2018", ["2022 06 16"], 7, ["ger"], ["action", "adventure"], ["je"], ["Marvel", "Disney+"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Michael Peña", "Judy Greer", "Hannah John-Kamen", "Michelle Pfeiffer", "Randall Park", "Laurence Fishburne", "Stan Lee"], "https://64.media.tumblr.com/0b69fefa02c51b1c5e6d23b49db39851/dc3ce41b0c2b7478-df/s250x400/4a664e8059eddaeaeb20ec3bf08d2ef6848d99d8.jpg"],
 
