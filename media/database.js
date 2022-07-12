@@ -219,7 +219,7 @@ var database = [
 	        
 ["film", ["Pirates of the Caribbean: At World's End", "Pirates of the Caribbean - Am Ende der Welt"], "2007", ["2016 03 22", "2020 09 01", "2021 10 03"], 8, ["ger"], ["action", "adventure", "fantasy"], [], ["Fluch der Karibik", "DVD", "Disney+"], ["Gore Verbinski"], ["Johnny Depp", "Orlando Bloom", "Keira Knightley", "Bill Nighy", "Martin Klebba", "Marshall Manesh", "Michelle Lee", "Stellan Skarsgård", "Geoffrey Rush", "Jack Davenport", "Kevin McNally"], "https://64.media.tumblr.com/e28a26238a9e44437d65a27aa6f1dfa8/ad861de3fc9e6317-02/s250x400/30e11ca933e0e1d3e3b73cafc7a8d4f95ceda302.jpg"],
 	        
-["series", ["Teenage Bounty Hunters"], "2020", [["2020 09 02", "2020 09 03", "S1"], ["2022 01 12", "2022 01 14", "S1"]], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Kathleen Jordan"], ["Haroon Khan", "Eric Graise"], "https://64.media.tumblr.com/f2879b4e88027d2f63f435ddc839d51e/ced119bf04ce9ebd-8f/s250x400/2f89bd05f5171e617038649490aa3bb3dbfd5dc9.jpg"],
+["series", ["Teenage Bounty Hunters"], "2020", [["2020 09 02", "2020 09 03", "S1"], ["2022 01 12", "2022 01 14", "S1"]], 7, ["ger"], ["comedy", "crime"], [], ["Netflix", "LGBT"], ["Kathleen Jordan"], ["Haroon Khan", "Eric Graise"], "https://64.media.tumblr.com/f2879b4e88027d2f63f435ddc839d51e/ced119bf04ce9ebd-8f/s250x400/2f89bd05f5171e617038649490aa3bb3dbfd5dc9.jpg"],
 	        
 ["film", ["What Happened to Monday", "What Happened to Monday?"], "2017", ["2020 09 05"], 7, ["ger"], ["action", "adventure"], ["syl"], ["Netflix"], ["Tommy Wirkola"], ["Noomi Rapace", "Willem Dafoe", "Marwan Kenzari"], "https://64.media.tumblr.com/de05eee06fdc8769637827199fb24ed2/9d69a5cc9bdb41e7-62/s250x400/c6e9fb7e5eaa5d0b2a16460e5022e3e826863392.jpg"],
 	        
@@ -367,9 +367,9 @@ var database = [
 	        
 ["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
 	        
-["series", ["The Gay and Wondrous Life of Caleb Gallo"], "2016", [["2017 11 13", "S1"]], 9, ["eng"], ["comedy"], [], [], ["Brian Jordan Alvarez"], ["Stephanie Koenig"], "https://66.media.tumblr.com/97c1954bda4e7b0b57b0319e5e81122b/2f29f380c419c57b-6e/s250x400/699fdf7706dedfa3e63fc76ba474408ea3e3fd06.jpg"],
+["series", ["The Gay and Wondrous Life of Caleb Gallo"], "2016", [["2017 11 13", "S1"]], 9, ["eng"], ["comedy"], [], ["LGBT"], ["Brian Jordan Alvarez"], ["Stephanie Koenig"], "https://66.media.tumblr.com/97c1954bda4e7b0b57b0319e5e81122b/2f29f380c419c57b-6e/s250x400/699fdf7706dedfa3e63fc76ba474408ea3e3fd06.jpg"],
 	        
-["series", ["Sense8"], ["2015", "2018"], [["2017 11 22", "2017 12 06", "S1"], ["2021 12 08", "2018 01 08", "S2E1-E11"], ["2018 06 20", "S2E12"]], 10, ["ger"], ["drama", "mystery", "sci-fi"], [], ["Netflix"], ["J. Michael Straczynski", "Lana Wachowski", "Lilly Wachowski"], ["Doona Bae", "Jamie Clayton", "Tina Desai", "Tuppence Middleton", "Miguel Ángel Silvestre", "Brian J. Smith", "Naveen Andrews", "Lucas Jade Zumann", "Adam Shapiro", "Max Riemelt", "Daryl Hannah", "Max Mauff"], "https://66.media.tumblr.com/fe621b191d84e2bbe1aba5ebe2a07f66/09a111a49814a1f3-e9/s250x400/d3d1227dfa741e11309c553ea5b18b6c97ca4d8a.jpg"],
+["series", ["Sense8"], ["2015", "2018"], [["2017 11 22", "2017 12 06", "S1"], ["2021 12 08", "2018 01 08", "S2E1-E11"], ["2018 06 20", "S2E12"]], 10, ["ger"], ["drama", "mystery", "sci-fi"], [], ["Netflix", "LGBT"], ["J. Michael Straczynski", "Lana Wachowski", "Lilly Wachowski"], ["Doona Bae", "Jamie Clayton", "Tina Desai", "Tuppence Middleton", "Miguel Ángel Silvestre", "Brian J. Smith", "Naveen Andrews", "Lucas Jade Zumann", "Adam Shapiro", "Max Riemelt", "Daryl Hannah", "Max Mauff"], "https://66.media.tumblr.com/fe621b191d84e2bbe1aba5ebe2a07f66/09a111a49814a1f3-e9/s250x400/d3d1227dfa741e11309c553ea5b18b6c97ca4d8a.jpg"],
 	        
 ["series", ["Dark"], ["2017", "2020"], [["2017 12 22", "2018 01 14", "S1"], ["2019 08 02", "2019 08 19", "S2"]], 9, ["ger"], ["crime", "drama", "sci-fi"], ["bini", "syl"], ["Netflix", "dropped"], ["Baran bo Odar", "Jantje Friese"], ["Lisa Vicari", "Louis Hofmann", "Carina Wiese", "Jördis Triebel"], "https://66.media.tumblr.com/531d646040cf4d9601928b8831aa7245/09369d9c4c925cd5-a5/s250x400/1a50d68dc6061c00c9275c2b1625fed0831e9d47.jpg"],
 	        
@@ -379,7 +379,7 @@ var database = [
 	        
 ["series", ["Money Heist", "Haus des Geldes", "La Casa de Papel"], ["2017", "2021"], [/*["2018 02 09", "2018 02 10", "S1 - S2"]*/["2018 02 09", "2018 02 10", "S1"], ["2018 04 11", "2018 04 15", "S2"], ["2019 07 22", "2019 07 26", "S3"], ["2020 05 22", "2020 05 23", "S4"], ["2021 09 06", "2021 09 11", "S5E1-E5"], ["2021 12 09", "2021 12 28", "S5E6-S5E10"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Álex Pina"], ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño", "Pedro Alonso", "Miguel Herrán", "Jaime Lorente", "Esther Acebo", "Enrique Arce", "Darko Peric", "Alba Flores", "Rodrigo De la Serna", "Miguel Ángel Silvestre"], "https://66.media.tumblr.com/2ce7367fd5753cc03b95df9b7775419e/8bb4ebe063f69423-c4/s250x400/72bdf60d06590238da922be712cf24058c903ffb.jpg"],
 	        
-["series", ["Everything Sucks!"], "2018", [["2018 09 10", "S1"]], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ben York Jones", "Michael Mohan"], [], "https://66.media.tumblr.com/00834a505b1a15380f43c1ba9a03e624/7f30d92d8ec0d64b-4b/s250x400/a6c3207f6999ed4b4be0d910dc2253a302be124f.jpg"],
+["series", ["Everything Sucks!"], "2018", [["2018 09 10", "S1"]], 8, ["ger"], ["comedy", "drama"], [], ["Netflix", "LGBT"], ["Ben York Jones", "Michael Mohan"], [], "https://66.media.tumblr.com/00834a505b1a15380f43c1ba9a03e624/7f30d92d8ec0d64b-4b/s250x400/a6c3207f6999ed4b4be0d910dc2253a302be124f.jpg"],
 	        
 ["series", ["The End of the F***ing World"], ["2017", "2019"], [["2018 03 03", "S1"], ["2018 08 17", "S1"], ["2019 11 17", "2019 11 25", "S2"]], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Andy Baker", "Charlie Covell", "Charles S. Forsman"], ["Jessica Barden", "Alex Lawther"], "https://66.media.tumblr.com/bdfdaab15c2747ca07c828520df4d3fa/76c84ffa259dd5e0-6f/s250x400/20d7001b24c8d58f3a62774b638c1816332be6d5.jpg"],
 	        
@@ -408,7 +408,7 @@ var database = [
 	        
 ["series", ["Terrace House Boys x Girls Next Door"], "2012", [["2019 10 13", "2019 12 24", "S1E1-S1E18"], ["2021 07 24", "2021 09 08", "S1E19-E46"]], 8, ["jap"], ["reality-tv"], ["bini"], ["Netflix"], ["Masato Maeda"], [], "https://64.media.tumblr.com/dc96a41efcde322ebdd67f4205a4866a/95c8f7faf9c9026e-88/s250x400/6132e1085b759b2b17ac7a2b99bd5cca09b1f3a9.jpg"],
 	        
-["series", ["The Umbrella Academy"], "2019", [["2020 08 05", "2020 08 15", "S1"], ["2020 10 17", "2020 10 30", "S2"], ["2022 06 22", "2022 07 01", "S3"]], 6, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix", "ongoing"], ["Steve Blackman", "Jeremy Slater"], ["Elliot Page", "Kate Walsh", "Adam Godley", "Robert Sheehan", "Ritu Arya"], "https://64.media.tumblr.com/b5ed5269616d02fb18efc291045bedd5/36d8ed15d27df2ff-1a/s250x400/4bcce2e2fd2493e604208f974ac75822129df3e6.jpg"],
+["series", ["The Umbrella Academy"], "2019", [["2020 08 05", "2020 08 15", "S1"], ["2020 10 17", "2020 10 30", "S2"], ["2022 06 22", "2022 07 01", "S3"]], 6, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix", "ongoing", "LGBT"], ["Steve Blackman", "Jeremy Slater"], ["Elliot Page", "Kate Walsh", "Adam Godley", "Robert Sheehan", "Ritu Arya"], "https://64.media.tumblr.com/b5ed5269616d02fb18efc291045bedd5/36d8ed15d27df2ff-1a/s250x400/4bcce2e2fd2493e604208f974ac75822129df3e6.jpg"],
 	        
 ["film", ["Princess Mononoke"], "1997", ["2015 08 22", "2016 06 19", "2019 01 25", "2022 03 05"], 9, ["ger", "jap"], ["anime", "adventure", "fantasy"], ["bini", "mai"], ["Ghibli", "fav", "bby", "Netflix"], ["Hayao Miyazaki"], [], "https://40.media.tumblr.com/b65d33b18937b9e0d46918deaf9afad4/tumblr_o0du7hYEVy1v2s5upo1_250.jpg"],
 	        
@@ -508,7 +508,7 @@ var database = [
 	        
 ["audiobook", ["Treasure Island", "Die Schatzinsel"], "1883", ["2020 06 08"], 6, ["ger"], ["adventure"], [], [], ["Robert Louis Stevenson"], [], "https://66.media.tumblr.com/bb20bcc783835dc94cc8af42a84e2bc0/07170f29590fd68b-0a/s250x400/c491d31f7d0ad6d2ad0296219ceb6db17927c058.jpg"],
 	        
-["audiobook", ["Every Day", "Letztendlich sind wir dem Universum egal"], "2012", [["2020 05 06", "2020 05 07"]], 6, ["eng"], ["fantasy", "romance"], [], [], ["David Levithan"], [], "https://66.media.tumblr.com/6683e3ee9b2406579c4ba0061633a06e/3d1911ab8ffaefd0-b8/s250x400/85f597d35cbea8f7f46ff03e625deca3eca56b9e.jpg"],
+["audiobook", ["Every Day", "Letztendlich sind wir dem Universum egal"], "2012", [["2020 05 06", "2020 05 07"]], 6, ["eng"], ["fantasy", "romance"], [], ["LGBT"], ["David Levithan"], [], "https://66.media.tumblr.com/6683e3ee9b2406579c4ba0061633a06e/3d1911ab8ffaefd0-b8/s250x400/85f597d35cbea8f7f46ff03e625deca3eca56b9e.jpg"],
 	        
 ["film", ["The Intern", "Man lernt nie aus"], "2015", ["2020 08 16"], 8, ["ger"], ["comedy", "drama"], ["syl", "bini"], [], ["Nancy Meyers"], ["Robert De Niro", "Anne Hathaway"], "https://64.media.tumblr.com/dc8010cface983725a5ac4c33af808c1/2bcf8e78f7bf2566-66/s250x400/c3350890d5325425a288bfdffc3aa9c4a2aece3a.jpg"],
 	        
@@ -606,7 +606,7 @@ var database = [
 	        
 ["film", ["Sixteen Candles", "Das darf man nur als Erwachsener"], "1984", ["2020 07 29"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["John Hughes"], ["Molly Ringwald", "Justin Henry", "Michael Schoeffling", "John Cusack", "Joan Cusack"], "https://64.media.tumblr.com/16308ea24a67114d79485312c4fdb99b/54d87be6a8f5b0e9-c0/s250x400/9b52c13205076e3c4fdf64c8d514164cc5a2e5ea.jpg"],
 	        
-["film", ["The Imitation Game", "The Imitation Game - Ein streng geheimes Leben"], "2014", ["2020 07 02"], 6, ["ger"], ["biography", "drama", "war"], [], ["Netflix"], ["Morten Tyldum"], ["Benedict Cumberbatch", "Keira Knightley", "Alex Lawther"], "https://66.media.tumblr.com/46be14000a201a456d04df27f8f2ef3b/48c0da0f92e7a2b7-98/s250x400/0ecb35fbfdbbc1429ab5b3188d2c38e6ca8ae108.jpg"],
+["film", ["The Imitation Game", "The Imitation Game - Ein streng geheimes Leben"], "2014", ["2020 07 02"], 6, ["ger"], ["biography", "drama", "war"], [], ["Netflix", "LGBT"], ["Morten Tyldum"], ["Benedict Cumberbatch", "Keira Knightley", "Alex Lawther"], "https://66.media.tumblr.com/46be14000a201a456d04df27f8f2ef3b/48c0da0f92e7a2b7-98/s250x400/0ecb35fbfdbbc1429ab5b3188d2c38e6ca8ae108.jpg"],
 	        
 ["film", ["Tall Girl", "Wie Jodi über sich hinauswuchs"], "2019", ["2019 09 14", "2020 08 16"], 7, ["ger"], ["comedy", "drama"], ["syl", "bini"], ["Netflix"], ["Nzingha Stewart"], ["Ava Michelle", "Sabrina Carpenter", "Paris Berelc", "Steve Zahn", "Griffin Gluck"], "https://66.media.tumblr.com/d3fbcb8643059f746e3689ffe685cfa6/2ad3b0f691c1dcbf-8a/s250x400/9ed24ca38ebc71186b19f0c1554e23dfa1fc307a.jpg"],
 	        
@@ -660,13 +660,13 @@ var database = [
 	        
 ["film", ["Heavy Trip", "Heavy Trip", "Hevi reissu"], "2018", ["2020 05 31"], 6, ["ger"], ["comedy", "music"], ["syl", "je"], ["DVD"], ["Juuso Laatio", "Jukka Vidgren"], [], "https://66.media.tumblr.com/74693cbef6632708b889a9ab760da36a/ac02361d3d84cb1e-de/s250x400/432934756fe38c1ae41986f3f2a6cba3cab8cc3c.jpg"],
 	        
-["film", ["Every Day", "Letztendlich sind wir dem Universum egal"], "2018", ["2020 05 22"], 4, ["ger"], ["drama", "fantasy"], ["syl"], [], ["Michael Sucsy"], ["Angourie Rice", "Jeni Ross", "Lucas Jade Zumann", "Justice Smith"], "https://66.media.tumblr.com/0bfa9c19b7cb0ba0cf0511afa1e77f8d/e34dee8f5dc329bf-28/s250x400/7e39471427e2c327ebc5be055f02656bf5f8dd01.jpg"],
+["film", ["Every Day", "Letztendlich sind wir dem Universum egal"], "2018", ["2020 05 22"], 4, ["ger"], ["drama", "fantasy"], ["syl"], ["LGBT"], ["Michael Sucsy"], ["Angourie Rice", "Jeni Ross", "Lucas Jade Zumann", "Justice Smith"], "https://66.media.tumblr.com/0bfa9c19b7cb0ba0cf0511afa1e77f8d/e34dee8f5dc329bf-28/s250x400/7e39471427e2c327ebc5be055f02656bf5f8dd01.jpg"],
 	        
 ["film", ["To All the Boys: P.S. I Still Love You", "To All the Boys I've Loved Before 2"], "2020", ["2020 05 08"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Michael Fimognari"], ["Lana Condor", "Noah Centineo", "Jordan Fisher", "Anna Cathcart", "Ross Butler", "Holland Taylor"], "https://66.media.tumblr.com/9e25c39bb7f9e1657a62ad3154442813/df0cf4bb7c0fe088-ce/s250x400/201f0cb2903604f92144b379d20a2fcd5142fdd1.jpg"],
 	        
 ["film", ["Pippi on the Run", "Pippi außer Rand und Band", "På rymmen med Pippi Långstrump"], "1970", ["2020 05 22"], 7, ["ger"], ["adventure", "comedy"], ["bini"], ["Pippi"], ["Olle Hellbom"], ["Inger Nilsson", "Maria Persson", "Pär Sundberg"], "https://66.media.tumblr.com/53ca94050bc073f56333c98888564b18/c520be69b33b5418-df/s250x400/5ea0ea64168412beb8579c0a38631e2e5fd7b3ac.jpg"],
 	        
-["film", ["The Half of It", "Nur die halbe Geschichte"], "2020", ["2020 05 15"], 6, ["ger"], ["comedy", "drama"], ["bini", "syl", "je"], ["Netflix"], ["Alice Wu"], ["Leah Lewis", "Daniel Diemer"], "https://66.media.tumblr.com/bc4d97781ba36fa83812d1a371da39b2/c039f77f563a91ce-0f/s250x400/1f5b9944f8affb4f7fa34dbb02809379985deaf7.jpg"],
+["film", ["The Half of It", "Nur die halbe Geschichte"], "2020", ["2020 05 15"], 6, ["ger"], ["comedy", "drama"], ["bini", "syl", "je"], ["Netflix", "LGBT"], ["Alice Wu"], ["Leah Lewis", "Daniel Diemer"], "https://66.media.tumblr.com/bc4d97781ba36fa83812d1a371da39b2/c039f77f563a91ce-0f/s250x400/1f5b9944f8affb4f7fa34dbb02809379985deaf7.jpg"],
 	        
 ["film", ["6 Underground"], "2019", ["2020 01 31"], 5, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Michael Bay"], ["Ryan Reynolds", "Mélanie Laurent", "Dave Franco"], "https://66.media.tumblr.com/b53a443d88cf76f081441443502fe8f8/3d806c3e2fe172ec-4b/s250x400/9f93adcda729ae4e9e48bda869f3df541d6b574f.jpg"],
 	        
@@ -952,7 +952,7 @@ var database = [
 	        
 ["film", ["The Boy and the Beast", "Der Junge und das Biest", "Bakemono no Ko"], "2015", ["2016 03 29", "2016 08 23", "2019 01 14"], 8, ["eng", "ger"], ["anime", "action"], ["bini"], ["Netflix"], ["Mamoru Hosoda"], [], "https://37.media.tumblr.com/26289f709e7c8d21acf26dd9b0da597d/tumblr_o4ugnaAky01v2s5upo1_250.jpg"],
 	        
-["film", ["Tomboy"], "2011", ["2016 03 27"], 10, ["ger"], ["drama"], [], [], ["Céline Sciamma"], [], "https://40.media.tumblr.com/ab9303ef2abad33c6edea025ab75a135/tumblr_o4pcejHKF61v2s5upo1_250.jpg"],
+["film", ["Tomboy"], "2011", ["2016 03 27"], 10, ["ger"], ["drama"], [], ["LGBT"], ["Céline Sciamma"], [], "https://40.media.tumblr.com/ab9303ef2abad33c6edea025ab75a135/tumblr_o4pcejHKF61v2s5upo1_250.jpg"],
 	        
 ["film", ["Monsters University", "Die Monster Uni"], "2013", ["2016 03 24", "2018 11 05"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl"], ["Netflix"], ["Dan Scanlon"], [], "https://49.media.tumblr.com/2c0b2f8cd0a2487f07e96a40e39ca044/tumblr_o4l919vmI71v2s5upo1_250.jpg"],
 	        
@@ -1060,7 +1060,7 @@ var database = [
 	        
 ["film", ["10 Things I Hate About You", "10 Dinge, die ich an Dir hasse"], "1999", ["2016 01 01"], 8, ["ger"], ["comedy", "drama"], [], [], ["Gil Junger"], ["Heath Ledger", "Julia Stiles", "Joseph Gordon-Levitt", "Allison Janney", "Gabrielle Union"], "https://40.media.tumblr.com/4511565b6cc1d3d74f43361c03a1d010/tumblr_o0a8khuM2X1v2s5upo1_250.jpg"],
 	        
-["film", ["Mysterious Skin", "Mysterious Skin - Unter die Haut"], "2004", ["2015 09 03"], 6, ["ger"], ["drama"], [], [], ["Gregg Araki"], ["Joseph Gordon-Levitt", "Michelle Trachtenberg"], "https://40.media.tumblr.com/1340c2434d09e867bc754da506827cff/tumblr_o0p3pd3sxX1v2s5upo1_250.jpg"],
+["film", ["Mysterious Skin", "Mysterious Skin - Unter die Haut"], "2004", ["2015 09 03"], 6, ["ger"], ["drama"], [], ["LGBT"], ["Gregg Araki"], ["Joseph Gordon-Levitt", "Michelle Trachtenberg"], "https://40.media.tumblr.com/1340c2434d09e867bc754da506827cff/tumblr_o0p3pd3sxX1v2s5upo1_250.jpg"],
 	        
 ["film", ["Premium Rush"], "2012", ["2016 01 03"], 6, ["ger"], ["action"], [], [], ["David Koepp"], ["Joseph Gordon-Levitt", "Aasif Mandvi"], "https://49.media.tumblr.com/9c9c47850b8f913d1a118d22c6c47dd0/tumblr_o0e0ylPes51v2s5upo1_250.jpg"],
 	        
@@ -1142,7 +1142,7 @@ var database = [
 	        
 ["film", ["The Kings of Summer", "Kings of Summer"], "2013", ["2015 12 03"], 7, ["ger"], ["adventure", "comedy"], [], [], ["Jordan Vogt-Roberts"], ["Nick Robinson", "Gabriel Basso", "Moises Arias", "Nick Offerman", "Erin Moriarty", "Hannibal Buress"], "https://66.media.tumblr.com/a66746ac954067a5ce8994d288b0dc2c/tumblr_pxkfhx1Htq1v2s5upo1_250.jpg"],
 	        
-["film", ["Love, Simon"], "2018", ["2019 06 28"], 9, ["ger"], ["comedy", "drama"], ["bini", "syl"], [], ["Greg Berlanti"], ["Nick Robinson", "Jennifer Garner", "Josh Duhamel", "Katherine Langford", "Alexandra Shipp", "Logan Miller", "Talitha Eliana Bateman", "Miles Heizer", "Mackenzie Lintz", "Haroon Khan", "Jorge Lendeborg Jr."], "https://66.media.tumblr.com/f4e181afba29f847ddc6b367e222828a/d2d5beef5dff587c-00/s250x400/83a3348833d686e0e502f99b0b7001866117a64b.jpg"],
+["film", ["Love, Simon"], "2018", ["2019 06 28"], 9, ["ger"], ["comedy", "drama"], ["bini", "syl"], ["LGBT"], ["Greg Berlanti"], ["Nick Robinson", "Jennifer Garner", "Josh Duhamel", "Katherine Langford", "Alexandra Shipp", "Logan Miller", "Talitha Eliana Bateman", "Miles Heizer", "Mackenzie Lintz", "Haroon Khan", "Jorge Lendeborg Jr."], "https://66.media.tumblr.com/f4e181afba29f847ddc6b367e222828a/d2d5beef5dff587c-00/s250x400/83a3348833d686e0e502f99b0b7001866117a64b.jpg"],
 	        
 ["film", ["Ruby Sparks", "Ruby Sparks - Meine fabelhafte Freundin"], "2012", ["2015 12 04"], 9, ["ger"], ["comedy", "drama"], [], [], ["Jonathan Dayton", "Valerie Faris"], ["Paul Dano", "Zoe Kazan", "Aasif Mandvi"], "https://37.media.tumblr.com/7403301c936e6fb4bb7954de598bb5ca/tumblr_o0cgu1Zcpn1v2s5upo1_250.jpg"],
 	        
@@ -1376,7 +1376,7 @@ var database = [
 	        
 ["film", ["Super", "Super - Shut Up, Crime!"], "2010", ["2016 09 29"], 6, ["ger"], ["action", "comedy"], [], [], ["James Gunn"], ["Rainn Wilson", "Elliot Page", "Kevin Bacon", "Nathan Fillion"], "https://68.media.tumblr.com/debffe5d7b143c820f1f0c12de1e964c/tumblr_oe9xktVkAY1v2s5upo1_250.jpg"],
 	        
-["film", ["Blue Is the Warmest Colour", "Blau ist eine warme Farbe", "La vie d'Adèle"], "2013", ["2016 09 19"], 7, ["ger"], ["drama", "romance"], [], [], ["Abdellatif Kechiche"], [], "https://66.media.tumblr.com/eb6ccc87222129a2138074e4d3a27083/tumblr_odt62sCRSG1v2s5upo1_250.jpg"],
+["film", ["Blue Is the Warmest Colour", "Blau ist eine warme Farbe", "La vie d'Adèle"], "2013", ["2016 09 19"], 7, ["ger"], ["drama", "romance"], [], ["LGBT"], ["Abdellatif Kechiche"], [], "https://66.media.tumblr.com/eb6ccc87222129a2138074e4d3a27083/tumblr_odt62sCRSG1v2s5upo1_250.jpg"],
 	        
 ["film", ["Hardcore Henry", "Hardcore"], "2015", ["2016 09 11"], 7, ["ger"], ["action", "adventure"], [], [], ["Ilya Naishuller"], [], "https://66.media.tumblr.com/66dc8a312a00f29372cc05321fc9e7d5/tumblr_odcnp7iODM1v2s5upo1_250.jpg"],
 	        
@@ -1450,7 +1450,7 @@ var database = [
 	        
 ["film", ["Divergent", "Die Bestimmung - Divergent"], "2014", ["2016 05 14"], 7, ["ger"], ["action", "adventure"], [], ["Divergent"], ["Neil Burger"], ["Shailene Woodley", "Ansel Elgort", "Ray Stevenson", "Maggie Q", "Jai Courtney"], "https://68.media.tumblr.com/5b1ddf86ce07ab2e01dc47a8a3c48d27/tumblr_o76acxxLVg1v2s5upo1_250.jpg"],
 	        
-["film", ["Angels of Sex", "The Sex of Angels", "El sexo de los ángeles"], "2012", ["2016 05 14"], 8, ["eng"], ["drama", "romance"], [], [], ["Xavier Villaverde"], ["Astrid Bergès-Frisbey"], "https://66.media.tumblr.com/41cf57b607cdaa52fbf9ea602251f397/tumblr_o768kbs4zP1v2s5upo1_250.jpg"],
+["film", ["Angels of Sex", "The Sex of Angels", "El sexo de los ángeles"], "2012", ["2016 05 14"], 8, ["eng"], ["drama", "romance"], [], ["LGBT"], ["Xavier Villaverde"], ["Astrid Bergès-Frisbey"], "https://66.media.tumblr.com/41cf57b607cdaa52fbf9ea602251f397/tumblr_o768kbs4zP1v2s5upo1_250.jpg"],
 	        
 ["short", ["Camp Belvidere"], "2014", ["2016 05 05"], 4, ["eng"], ["drama"], [], [], ["Astrid Ovalles", "Oriana Oppice"], [], "https://68.media.tumblr.com/8e7b75da97aae419159417f7e4064a12/tumblr_o6tlq7XLU51v2s5upo1_250.jpg"],
 	        
@@ -1516,7 +1516,7 @@ var database = [
 
 ["film", ["The Chronicles of Narnia: The Voyage of the Dawn Treader", "Die Chroniken von Narnia - Die Reise auf der Morgenröte"], "2010", ["2019 04 06", "2021 12 22"], 7, ["ger"], ["adventure", "family"], [], ["Narnia", "Netflix", "Disney+"], ["Michael Apted"], ["Georgie Henley", "Skandar Keynes", "Ben Barnes", "Will Poulter", "Tilda Swinton", "Anna Popplewell"], "https://66.media.tumblr.com/24f7268b3298dbf4c4ae1a9122a2f3dd/0256992eb45e03c8-21/s250x400/bbb6924c2653086ef668b58fdb3f53e157a57de1.jpg"],
 
-["series", ["Orange Is the New Black"], ["2013", "2019"], [["2018 03 04", "2018 03 06", "S1"], ["2018 03 07", "2018 03 09", "S2"], ["2018 03 09", "2018 04 14", "S3"], ["2018 04 14", "2018 04 22", "S4"], ["2018 04 22", "2018 05 10", "S5"], ["2019 01 22", "2019 04 29", "S6"]/*["2018 03 04", "2019 04 29", "S1 - S6"]*/], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Jenji Kohan"], ["Laura Prepon", "Samira Wiley", "Laverne Cox"], "https://66.media.tumblr.com/33e78130beb5a208717c0614aaf330d7/dbcf5d5d4b548d18-86/s250x400/b72bd942e9c00f9a4cbc70a7465d8f10ee4e0bc2.jpg"],
+["series", ["Orange Is the New Black"], ["2013", "2019"], [["2018 03 04", "2018 03 06", "S1"], ["2018 03 07", "2018 03 09", "S2"], ["2018 03 09", "2018 04 14", "S3"], ["2018 04 14", "2018 04 22", "S4"], ["2018 04 22", "2018 05 10", "S5"], ["2019 01 22", "2019 04 29", "S6"]/*["2018 03 04", "2019 04 29", "S1 - S6"]*/], 7, ["ger"], ["comedy", "crime"], [], ["Netflix", "LGBT"], ["Jenji Kohan"], ["Laura Prepon", "Samira Wiley", "Laverne Cox"], "https://66.media.tumblr.com/33e78130beb5a208717c0614aaf330d7/dbcf5d5d4b548d18-86/s250x400/b72bd942e9c00f9a4cbc70a7465d8f10ee4e0bc2.jpg"],
 
 ["series", ["Between"], ["2015", "2016"], [["2018 06 27", "S1"], ["2018 06 27", "2018 07 05", "S2"]], 5, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Michael McGowan"], ["Jennette McCurdy"], "https://66.media.tumblr.com/72d4b759d273d97b4514ac79d6a2d284/4ab65324a2a042c1-25/s250x400/36f43d8d6925a44cdded25548b7914ebe5c9623d.jpg"],
 
@@ -1954,7 +1954,7 @@ var database = [
 
 ["film", ["Die Wilden Hühner"], "2006", ["2021 11 03"], 5, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Paula Romy", "Zsá Zsá Inci", "Benno Fürmann", "Nina Vorbrodt", "Axel Prahl", "Jette Hering"], "https://64.media.tumblr.com/6e75d756d4b66248126c6483b750c971/9f1cc2ad374d9fcc-31/s250x400/3afe75e6d09c1f49f6d9b97433d5d3be22011c7a.jpg"],
 
-["film", ["Die Wilden Hühner und die Liebe"], "2007", ["2021 11 04"], 6, ["ger"], ["comedy", "family"], [], ["Netflix"], ["Vivian Naefe"], ["Michelle von Treuberg", "Paula Romy", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Thomas Kretschmann", "Benno Fürmann", "Axel Prahl"], "https://64.media.tumblr.com/1a2776dae54457bcf515edc7356d6768/876998922951938e-05/s250x400/e54e96ceee013d17dbd42f0e1742f718c5b2eb60.jpg"],
+["film", ["Die Wilden Hühner und die Liebe"], "2007", ["2021 11 04"], 6, ["ger"], ["comedy", "family"], [], ["Netflix", "LGBT"], ["Vivian Naefe"], ["Michelle von Treuberg", "Paula Romy", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Thomas Kretschmann", "Benno Fürmann", "Axel Prahl"], "https://64.media.tumblr.com/1a2776dae54457bcf515edc7356d6768/876998922951938e-05/s250x400/e54e96ceee013d17dbd42f0e1742f718c5b2eb60.jpg"],
 
 ["film", ["Die Wilden Hühner und das Leben"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Benno Fürmann", "Wotan Wilke Möhring", "Milena Tscharntke"], "https://64.media.tumblr.com/87deeb29e6606958a1eb6aea58fb3efc/913287753b1fadec-9b/s250x400/f4ed62e7adbe64210f03f3db21987ae8c57fc06d.jpg"],
 
