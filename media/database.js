@@ -2291,7 +2291,9 @@ var database = [
 
 ["film", ["Snow White and the Huntsman"], "2012", ["2022 07 11"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Rupert Sanders"], ["Kristen Stewart", "Chris Hemsworth", "Sam Claflin", "Nick Frost", "Eddie Marsan", "Toby Jones", "Izzy Meikle-Small"], "https://64.media.tumblr.com/01a81980c77fffb1db98028e0f4872d6/c72bd3ed735bc05e-ce/s250x400/4183d6fd7abeff0f40329d2325f79836dba86d8f.jpg"],
 
-["film", ["The Prom"], "2020", ["2022 07 12"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ryan Murphy"], ["Meryl Streep", "James Corden", "Nicole Kidman", "Andrew Rannells", "Ariana DeBose"], "https://64.media.tumblr.com/a416609dc8e02442b20d999ca7300bdd/ecdfa9cb8088d2e0-51/s250x400/f219f89f60e6fbda13c0273298977839d0ec8bf5.jpg"]
+["film", ["The Prom"], "2020", ["2022 07 12"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ryan Murphy"], ["Meryl Streep", "James Corden", "Nicole Kidman", "Andrew Rannells", "Ariana DeBose"], "https://64.media.tumblr.com/a416609dc8e02442b20d999ca7300bdd/ecdfa9cb8088d2e0-51/s250x400/f219f89f60e6fbda13c0273298977839d0ec8bf5.jpg"],
+
+["film", ["Barbie: Spy Squad"], "2016", ["2022 07 14"], 6, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Michael Goguen", "Conrad Helten"], [], "https://64.media.tumblr.com/9a9bac791815f69afa43ae2a68f1ea8e/0f829cd39c63191f-e6/s250x400/da8898d62860eee6a4434c139f066314b6608c96.jpg"]
 
 	
 /*
