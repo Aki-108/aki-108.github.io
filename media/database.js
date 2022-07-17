@@ -2293,7 +2293,9 @@ var database = [
 
 ["film", ["The Prom"], "2020", ["2022 07 12"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ryan Murphy"], ["Meryl Streep", "James Corden", "Nicole Kidman", "Andrew Rannells", "Ariana DeBose"], "https://64.media.tumblr.com/a416609dc8e02442b20d999ca7300bdd/ecdfa9cb8088d2e0-51/s250x400/f219f89f60e6fbda13c0273298977839d0ec8bf5.jpg"],
 
-["film", ["Barbie: Spy Squad"], "2016", ["2022 07 14"], 6, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Michael Goguen", "Conrad Helten"], [], "https://64.media.tumblr.com/9a9bac791815f69afa43ae2a68f1ea8e/0f829cd39c63191f-e6/s250x400/da8898d62860eee6a4434c139f066314b6608c96.jpg"]
+["film", ["Barbie: Spy Squad"], "2016", ["2022 07 14"], 6, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Michael Goguen", "Conrad Helten"], [], "https://64.media.tumblr.com/9a9bac791815f69afa43ae2a68f1ea8e/0f829cd39c63191f-e6/s250x400/da8898d62860eee6a4434c139f066314b6608c96.jpg"],
+
+["film", [" Sometimes There is Joy, Sometimes There is Sorrow...", "In guten wie in schweren Tagen", "Kabhi Khushi Kabhie Gham..."], "2001", [["2022 07 16", ""]], 0, ["hin"], ["drama", "bollywood"], ["bini", "mai"], ["Netflix"], ["Karan Johar"], ["Amitabh Bachchan", "Jaya Bachchan", "Shah Rukh Khan", "Kajol", "Hrithik Roshan", "Kareena Kapoor", "Farida Jalal", "Jibraan Khan", "Rani Mukerji"], "https://64.media.tumblr.com/9c765020e36e3f5d8e4e15306ab5a24e/db297b34d02b1f44-72/s250x400/3876e7c98b0a916cc29ed12a895d91a9c1e94140.jpg"]
 
 	
 /*
