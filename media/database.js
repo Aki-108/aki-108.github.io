@@ -355,7 +355,7 @@ var database = [
 	        
 ["series", ["Kim Possible"], ["2002", "2007"], [["2016 10 22", "2016 11 06"]], 10, ["ger"], ["animation", "action", "comedy"], [], [], ["Mark McCorkle", "Bob Schooley"], [], "https://66.media.tumblr.com/6683ccbc9909e6c1a4fe409cb47c7b98/tumblr_ofm7qqD87l1v2s5upo1_250.jpg"],
 	        
-["series", ["Westworld"], ["2016", ""], [["2016 11 05", "2016 12 30", "S1"], ["2022 06 22", "2022 06 28", "S1"], ["2022 06 29", "2022 07 10", "S2"], ["2022 07 21", "", "S3"]], 7, ["eng", "ger"], ["drama", "mystery", "sci-fi"], [], ["ongoing", "bibliothek", "watching"], ["Lisa Joy", "Jonathan Nolan"], ["Ed Harris", "James Marsden", "Anthony Hopkins", "Rodrigo Santoro", "Talulah Riley", "Hiroyuki Sanada", "Zahn McClarnon", "Lena Waithe", "Ben Barnes", "Booboo Stewart", "Jeffrey Wright", "Luke Hemsworth", "Angela Sarafyan", "Aaron Paul", "Ariana DeBose"], "https://66.media.tumblr.com/09f5995b48f9e6a1bccc4abf37de4f73/tumblr_og5z0kJktJ1v2s5upo1_250.jpg"],
+["series", ["Westworld"], ["2016", ""], [["2016 11 05", "2016 12 30", "S1"], ["2022 06 22", "2022 06 28", "S1"], ["2022 06 29", "2022 07 10", "S2"], ["2022 07 21", "", "S3"]], 7, ["eng", "ger"], ["drama", "mystery", "sci-fi"], [], ["ongoing", "bibliothek", "watching"], ["Lisa Joy", "Jonathan Nolan"], ["Ed Harris", "James Marsden", "Anthony Hopkins", "Rodrigo Santoro", "Talulah Riley", "Hiroyuki Sanada", "Zahn McClarnon", "Lena Waithe", "Ben Barnes", "Booboo Stewart", "Jeffrey Wright", "Luke Hemsworth", "Angela Sarafyan", "Aaron Paul", "Ariana DeBose", "Phoebe Tonkin"], "https://66.media.tumblr.com/09f5995b48f9e6a1bccc4abf37de4f73/tumblr_og5z0kJktJ1v2s5upo1_250.jpg"],
 /*S1: 10, S1: 7.4, S2: 6.9*/	        
 ["series", ["Limitless"], ["2015", "2016"], [["2017 01 04", "2017 03 19", "S1"], ["2019 01 04", "2019 01 09", "S1"]], 8, ["ger"], ["comedy", "crime", "sci-fi"], ["syl"], ["Netflix"], ["Craig Sweeny"], ["Bradley Cooper", "Lio Tipton", "Jake McDorman"], "https://68.media.tumblr.com/4fba47babc7bea678547165f35723ba2/tumblr_on22pnO7ao1v2s5upo1_250.jpg"],
 	        
@@ -2297,7 +2297,11 @@ var database = [
 
 ["film", [" Sometimes There is Joy, Sometimes There is Sorrow...", "In guten wie in schweren Tagen", "Kabhi Khushi Kabhie Gham..."], "2001", [["2022 07 16", ""]], 0, ["hin"], ["drama", "bollywood"], ["bini", "mai"], ["Netflix"], ["Karan Johar"], ["Amitabh Bachchan", "Jaya Bachchan", "Shah Rukh Khan", "Kajol", "Hrithik Roshan", "Kareena Kapoor", "Farida Jalal", "Jibraan Khan", "Rani Mukerji"], "https://64.media.tumblr.com/9c765020e36e3f5d8e4e15306ab5a24e/db297b34d02b1f44-72/s250x400/3876e7c98b0a916cc29ed12a895d91a9c1e94140.jpg"],
 
-["film", ["Six"], "2017", ["2022 07 21"], 8, ["eng"], ["musical", "comedy"], [], [], ["Toby Marlow", "Lucy Moss"], ["Adrianna Hicks", "Andrea Macasaet", "Abby Mueller", "Brittney Mack", "Samantha Pauly", "Anna Uzele"], "https://64.media.tumblr.com/ec8a47826eb42579aff4cf28007b9fad/209a9ed6b26ef6cb-51/s250x400/7ef1c3d98b0bbe2dc6be451e67147b79f33ae75c.jpg"]
+["film", ["Six"], "2017", ["2022 07 21"], 8, ["eng"], ["musical", "comedy"], [], [], ["Toby Marlow", "Lucy Moss"], ["Adrianna Hicks", "Andrea Macasaet", "Abby Mueller", "Brittney Mack", "Samantha Pauly", "Anna Uzele"], "https://64.media.tumblr.com/ec8a47826eb42579aff4cf28007b9fad/209a9ed6b26ef6cb-51/s250x400/7ef1c3d98b0bbe2dc6be451e67147b79f33ae75c.jpg"],
+
+["film", ["Barbie & Her Sisters in a Puppy Chase", "Barbie und ihre Schwestern in Die große Hundesuche"], "2016", ["2022 07 23"], 3, ["ger"], ["animation"], ["bini"], ["Barbie"], ["Ken Cunningham", "Conrad Helten", "Michael Goguen"], [], "https://64.media.tumblr.com/7ac7d3641e607653d29b2616917bc4e4/99a28142e0e2a89c-73/s250x400/39255ccdc274cd6f82a0fdc31a87e49043b8fe40.jpg"],
+
+["film", ["Barbie: Big City, Big Dreams", "Barbie - Bühne frei für große Träume"], "2021", ["2022 07 23"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Scott Pleydell-Pearce"], [], "https://64.media.tumblr.com/6edd943045dac1367083383ee48c3c86/afdb978a6a9afcb4-ff/s250x400/d89dfbbcd4a114c3e7497c9251143a93c2924d2b.jpg"]
 
 	
 /*
