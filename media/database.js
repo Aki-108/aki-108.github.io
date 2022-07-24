@@ -2301,7 +2301,9 @@ var database = [
 
 ["film", ["Barbie & Her Sisters in a Puppy Chase", "Barbie und ihre Schwestern in Die große Hundesuche"], "2016", ["2022 07 23"], 3, ["ger"], ["animation"], ["bini"], ["Barbie"], ["Ken Cunningham", "Conrad Helten", "Michael Goguen"], [], "https://64.media.tumblr.com/7ac7d3641e607653d29b2616917bc4e4/99a28142e0e2a89c-73/s250x400/39255ccdc274cd6f82a0fdc31a87e49043b8fe40.jpg"],
 
-["film", ["Barbie: Big City, Big Dreams", "Barbie - Bühne frei für große Träume"], "2021", ["2022 07 23"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Scott Pleydell-Pearce"], [], "https://64.media.tumblr.com/6edd943045dac1367083383ee48c3c86/afdb978a6a9afcb4-ff/s250x400/d89dfbbcd4a114c3e7497c9251143a93c2924d2b.jpg"]
+["film", ["Barbie: Big City, Big Dreams", "Barbie - Bühne frei für große Träume"], "2021", ["2022 07 23"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Scott Pleydell-Pearce"], [], "https://64.media.tumblr.com/6edd943045dac1367083383ee48c3c86/afdb978a6a9afcb4-ff/s250x400/d89dfbbcd4a114c3e7497c9251143a93c2924d2b.jpg"],
+
+["film", ["Grace VanderWaal: Don't Assume What You Don't Know"], "2022", ["2022 07 17"], 4, ["eng"], ["documentary"], [], [], ["Mark Lalonde", "Clare Weitzel"], ["Grace VanderWaal"], "https://64.media.tumblr.com/d649f74c4ad7417713e55668376ae8bf/f7d787bc456c3b46-41/s250x400/b8d69822ae8d85b95d9fb816551b61f38563b2a2.jpg"]
 
 	
 /*
