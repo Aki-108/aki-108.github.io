@@ -2077,7 +2077,7 @@ var database = [
 
 ["film", ["Fünf Freunde und das Tal der Dinosaurier"], "2018", ["2021 12 31"], 0, ["ger"], ["adventure", "family"], ["bini"], ["Disney+", "dropped"], ["Mike Marzuk"], ["Jacob Matschenz"], "https://64.media.tumblr.com/693e4b5f42f5a8d2fc0623381337b3b3/9afcce6788b9264f-8b/s250x400/ff4b853e917071d90bcf48df3fa2abf557f3b20a.jpg"],
 
-["film", ["Die Drei !!!"], "2019", ["2021 12 31"], 6, ["ger"], ["adventure", "family"], ["bini", "syl"], ["Disney+"], ["Viviane Andereggen"], ["Jürgen Vogel"], "https://64.media.tumblr.com/ec2c536ddd16e45fad9951f2969241f6/b74daaef72e2bc55-22/s250x400/ee437f821e2964a3d8b5d0f68aa6b1cb93b8f331.jpg"],
+["film", ["Die Drei !!!"], "2019", ["2021 12 31", "2022 07 25"], 6, ["ger"], ["adventure", "family"], ["bini", "syl"], ["Disney+"], ["Viviane Andereggen"], ["Jürgen Vogel"], "https://64.media.tumblr.com/ec2c536ddd16e45fad9951f2969241f6/b74daaef72e2bc55-22/s250x400/ee437f821e2964a3d8b5d0f68aa6b1cb93b8f331.jpg"],
 
 ["film", ["Spider-Man"], "2002", ["2022 01 01"], 5, ["ger"], ["action", "adventure"], [], ["Netflix", "Marvel"], ["Sam Raimi"], ["Tobey Maguire", "Willem Dafoe", "Kirsten Dunst", "James Franco", "J.K. Simmons", "Elizabeth Banks", "Stan Lee"], "https://64.media.tumblr.com/6b93e3b93d75cdda66853f8766001bf9/cf72e90ec6d33b9c-22/s250x400/c1b398c5909a4a446f7db35942fb5abff8cf82ab.jpg"],
 
@@ -2303,7 +2303,9 @@ var database = [
 
 ["film", ["Barbie: Big City, Big Dreams", "Barbie - Bühne frei für große Träume"], "2021", ["2022 07 23"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Scott Pleydell-Pearce"], [], "https://64.media.tumblr.com/6edd943045dac1367083383ee48c3c86/afdb978a6a9afcb4-ff/s250x400/d89dfbbcd4a114c3e7497c9251143a93c2924d2b.jpg"],
 
-["film", ["Grace VanderWaal: Don't Assume What You Don't Know"], "2022", ["2022 07 17"], 4, ["eng"], ["documentary"], [], [], ["Mark Lalonde", "Clare Weitzel"], ["Grace VanderWaal"], "https://64.media.tumblr.com/d649f74c4ad7417713e55668376ae8bf/f7d787bc456c3b46-41/s250x400/b8d69822ae8d85b95d9fb816551b61f38563b2a2.jpg"]
+["film", ["Grace VanderWaal: Don't Assume What You Don't Know"], "2022", ["2022 07 17"], 4, ["eng"], ["documentary"], [], [], ["Mark Lalonde", "Clare Weitzel"], ["Grace VanderWaal"], "https://64.media.tumblr.com/d649f74c4ad7417713e55668376ae8bf/f7d787bc456c3b46-41/s250x400/b8d69822ae8d85b95d9fb816551b61f38563b2a2.jpg"],
+
+["film", ["Lupin III vs. Detective Conan: The Movie", "Lupin III vs. Detektiv Conan: The Movie", "Rupan Sansei vs Meitantei Conan: The Movie"], "2013", [["2022 07 24", ""]], 0, ["ger"], ["anime", "action"], ["bini"], ["Conan"], ["Hajime Kamegaki"], [], "https://64.media.tumblr.com/e4d67e2b90f2129d95c8e8beb703f71d/f170322f9a32a754-7e/s250x400/9305129474fddacb2e27e6ac3e6085171c8ff3ce.jpg"]
 
 	
 /*
