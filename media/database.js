@@ -2305,7 +2305,11 @@ var database = [
 
 ["film", ["Grace VanderWaal: Don't Assume What You Don't Know"], "2022", ["2022 07 17"], 4, ["eng"], ["documentary"], [], [], ["Mark Lalonde", "Clare Weitzel"], ["Grace VanderWaal"], "https://64.media.tumblr.com/d649f74c4ad7417713e55668376ae8bf/f7d787bc456c3b46-41/s250x400/b8d69822ae8d85b95d9fb816551b61f38563b2a2.jpg"],
 
-["film", ["Lupin III vs. Detective Conan: The Movie", "Lupin III vs. Detektiv Conan: The Movie", "Rupan Sansei vs Meitantei Conan: The Movie"], "2013", [["2022 07 24", ""]], 0, ["ger"], ["anime", "action"], ["bini"], ["Conan"], ["Hajime Kamegaki"], [], "https://64.media.tumblr.com/e4d67e2b90f2129d95c8e8beb703f71d/f170322f9a32a754-7e/s250x400/9305129474fddacb2e27e6ac3e6085171c8ff3ce.jpg"]
+["film", ["Lupin III vs. Detective Conan: The Movie", "Lupin III vs. Detektiv Conan: The Movie", "Rupan Sansei vs Meitantei Conan: The Movie"], "2013", [["2022 07 24", ""]], 0, ["ger"], ["anime", "action"], ["bini"], ["Conan"], ["Hajime Kamegaki"], [], "https://64.media.tumblr.com/e4d67e2b90f2129d95c8e8beb703f71d/f170322f9a32a754-7e/s250x400/9305129474fddacb2e27e6ac3e6085171c8ff3ce.jpg"],
+
+["series", ["Watashitachi, Luck Logic-bu!"], "2016", [["2022 07 26", "S1"]], 2, ["jap"], ["anime", "comedy"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/0d665fc67e8b05a2e45622708d039d03/4cd036f117d446b9-b4/s250x400/1a09f69f4002ea697ecabf99923c0c922021388f.jpg"],
+
+["series", ["This Art Club Has a Problem!", "This Art Club Has a Problem!", "Kono Bijutsubu ni wa Mondai ga Aru!"], "2016", [["2022 07 26", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Naruhisa Arakawa"], [], "https://64.media.tumblr.com/fb082eab0ede5084a1255a6b3068f4c7/702040a97ac8e493-6b/s250x400/0ae4fc8e97e0be2ff3b38a638e5aaa578ada92e4.jpg"]
 
 	
 /*
