@@ -355,7 +355,7 @@ var database = [
 	        
 ["series", ["Kim Possible"], ["2002", "2007"], [["2016 10 22", "2016 11 06"]], 10, ["ger"], ["animation", "action", "comedy"], [], [], ["Mark McCorkle", "Bob Schooley"], [], "https://66.media.tumblr.com/6683ccbc9909e6c1a4fe409cb47c7b98/tumblr_ofm7qqD87l1v2s5upo1_250.jpg"],
 	        
-["series", ["Westworld"], ["2016", ""], [["2016 11 05", "2016 12 30", "S1"], ["2022 06 22", "2022 06 28", "S1"], ["2022 06 29", "2022 07 10", "S2"], ["2022 07 21", "", "S3"]], 7, ["eng", "ger"], ["drama", "mystery", "sci-fi"], [], ["ongoing", "bibliothek", "watching"], ["Lisa Joy", "Jonathan Nolan"], ["Ed Harris", "James Marsden", "Anthony Hopkins", "Rodrigo Santoro", "Talulah Riley", "Hiroyuki Sanada", "Zahn McClarnon", "Lena Waithe", "Ben Barnes", "Booboo Stewart", "Jeffrey Wright", "Luke Hemsworth", "Angela Sarafyan", "Aaron Paul", "Ariana DeBose", "Phoebe Tonkin"], "https://66.media.tumblr.com/09f5995b48f9e6a1bccc4abf37de4f73/tumblr_og5z0kJktJ1v2s5upo1_250.jpg"],
+["series", ["Westworld"], ["2016", ""], [["2016 11 05", "2016 12 30", "S1"], ["2022 06 22", "2022 06 28", "S1"], ["2022 06 29", "2022 07 10", "S2"], ["2022 07 21", "", "S3"]], 7, ["eng", "ger"], ["drama", "mystery", "sci-fi"], [], ["ongoing", "bibliothek", "watching"], ["Lisa Joy", "Jonathan Nolan"], ["Ed Harris", "James Marsden", "Anthony Hopkins", "Rodrigo Santoro", "Talulah Riley", "Hiroyuki Sanada", "Zahn McClarnon", "Lena Waithe", "Ben Barnes", "Booboo Stewart", "Jeffrey Wright", "Luke Hemsworth", "Angela Sarafyan", "Aaron Paul", "Ariana DeBose", "Phoebe Tonkin", "Eddie Shin"], "https://66.media.tumblr.com/09f5995b48f9e6a1bccc4abf37de4f73/tumblr_og5z0kJktJ1v2s5upo1_250.jpg"],
 /*S1: 10, S1: 7.4, S2: 6.9*/	        
 ["series", ["Limitless"], ["2015", "2016"], [["2017 01 04", "2017 03 19", "S1"], ["2019 01 04", "2019 01 09", "S1"]], 8, ["ger"], ["comedy", "crime", "sci-fi"], ["syl"], ["Netflix"], ["Craig Sweeny"], ["Bradley Cooper", "Lio Tipton", "Jake McDorman"], "https://68.media.tumblr.com/4fba47babc7bea678547165f35723ba2/tumblr_on22pnO7ao1v2s5upo1_250.jpg"],
 	        
@@ -2085,7 +2085,7 @@ var database = [
 
 ["film", ["Maquia: When the Promised Flower Blooms", "Maquia: When the Promised Flower Blooms", "Sayonara no asa ni yakusoku no hana o kazarô"], "2018", ["2022 01 02"], 5, ["ger"], ["anime", "adventure"], ["bini"], ["Netflix"], ["Mari Okada"], [], "https://64.media.tumblr.com/2962e57c513b76a1ed35d06059b0b378/76f871cfb77dfdbc-84/s250x400/f4be21a71b8852e9f57c0043e817782e1f5362f7.jpg"],
 
-["film", ["Spin", "Spin - Finde deinen Beat"], "2021", ["2022 01 03"], 5, ["ger"], ["comedy", "family"], [], ["Disney+"], ["Manjari Makijany"], ["Anna Cathcart", "Kyana Teresa", "Avantika"], "https://64.media.tumblr.com/eb69da1a8b6e39e2418307a4406969c9/808eed6eee0a39c3-fa/s250x400/f79104a9d11973b28331a0a446e503c8f2e4f6df.jpg"],
+["film", ["Spin", "Spin - Finde deinen Beat"], "2021", ["2022 01 03"], 5, ["ger"], ["comedy", "family"], [], ["Disney+"], ["Manjari Makijany"], ["Anna Cathcart", "Kyana Teresa", "Avantika", "Kerri Medders"], "https://64.media.tumblr.com/eb69da1a8b6e39e2418307a4406969c9/808eed6eee0a39c3-fa/s250x400/f79104a9d11973b28331a0a446e503c8f2e4f6df.jpg"],
 
 ["series", ["No Good Nick", "Nick für ungut"], "2019", [["2022 01 04", "2022 01 07", "S1E1-S1E3"]], 4, ["ger"], ["comedy", "drama"], [], ["Netflix", "dropped"], ["Keetgi Kogan", "Keetgi Kogan", "Emily Schmidt"], ["Lauren Lindsey Donzis", "Sean Astin", "François Chau", "Gus Kamp"], "https://64.media.tumblr.com/702c8ba0508db32d16fb8e70bdbf956c/fb2b74a7c574e552-b2/s250x400/bacb9c440a0f416f6ff586fa6c0e615dc15bd3a1.jpg"],
 
@@ -2283,7 +2283,7 @@ var database = [
 
 ["film", ["Resident Evil: The Final Chapter"], "2016", [["2022 07 05", "2022 07 06"]], 4, ["ger"], ["action", "horror"], ["je"], ["Resident Evil", "Netflix"], ["Paul W.S. Anderson"], ["Milla Jovovich", "Iain Glen"], "https://64.media.tumblr.com/3998254cd1aa65fba2d5ba52114f2075/7baf178d5433889e-64/s250x400/b9d52ebce24dbb9ccc53b907e6dc57c8037665e4.jpg"],
 
-["film", ["The Owl House", "Willkommen im Haus der Eulen"], ["2020", ""], [["2022 07 07", "", "S1"]], 0, ["ger"], ["animation", "action"], [], ["ongoing", "watching", "Disney+"], ["Dana Terrace"], [], "https://64.media.tumblr.com/57560f9dd0c4ac1af7ab3ca6bfc0b1ee/213ff5737007a5ca-30/s250x400/293183e8f7c50ee152511deaa4635729604edeb4.jpg"],
+["film", ["The Owl House", "Willkommen im Haus der Eulen"], ["2020", ""], [["2022 07 07", "2022 07 28", "S1E1-S1E9"]], 6, ["ger"], ["animation", "action"], [], ["ongoing", "Disney+", "dropped"], ["Dana Terrace"], [], "https://64.media.tumblr.com/57560f9dd0c4ac1af7ab3ca6bfc0b1ee/213ff5737007a5ca-30/s250x400/293183e8f7c50ee152511deaa4635729604edeb4.jpg"],
 
 ["film", ["Barbie: Princess Charm School", "Barbie: Die Prinzessinnen-Akademie"], "2011", ["2022 07 08"], 5, ["ger"], ["animation", "family"], ["bini", "je"], ["Barbie"], ["Ezekiel Norton"], [], "https://64.media.tumblr.com/9569406e7c7e191767c2873b3e8b7947/3f54bb043aa7649c-6e/s250x400/30b063e6476d3e8f6eb9dac24063acb38bdb0a0d.jpg"],
 
@@ -2309,7 +2309,9 @@ var database = [
 
 ["series", ["Watashitachi, Luck Logic-bu!"], "2016", [["2022 07 26", "S1"]], 2, ["jap"], ["anime", "comedy"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/0d665fc67e8b05a2e45622708d039d03/4cd036f117d446b9-b4/s250x400/1a09f69f4002ea697ecabf99923c0c922021388f.jpg"],
 
-["series", ["This Art Club Has a Problem!", "This Art Club Has a Problem!", "Kono Bijutsubu ni wa Mondai ga Aru!"], "2016", [["2022 07 26", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Naruhisa Arakawa"], [], "https://64.media.tumblr.com/fb082eab0ede5084a1255a6b3068f4c7/702040a97ac8e493-6b/s250x400/0ae4fc8e97e0be2ff3b38a638e5aaa578ada92e4.jpg"]
+["series", ["This Art Club Has a Problem!", "This Art Club Has a Problem!", "Kono Bijutsubu ni wa Mondai ga Aru!"], "2016", [["2022 07 26", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Naruhisa Arakawa"], [], "https://64.media.tumblr.com/fb082eab0ede5084a1255a6b3068f4c7/702040a97ac8e493-6b/s250x400/0ae4fc8e97e0be2ff3b38a638e5aaa578ada92e4.jpg"],
+
+["series", ["Alexa & Katie"], ["2018", "2020"], [["2022 07 28", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["watching", "Netflix"], ["Heather Wordham"], ["Eddie Shin", "Kerri Medders"], "https://64.media.tumblr.com/3523d6c555974fa7204b5415c6ff875f/7e918a340ca5dfb1-25/s250x400/f466cff809df87ba6fab4114501c18f21b084765.jpg"]
 
 	
 /*
