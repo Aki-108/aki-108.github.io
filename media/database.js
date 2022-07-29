@@ -7,7 +7,7 @@ var database = [
 	        
 	        */
 	        
-["film", ["Watchmen", "Watchmen: Die Wächter"], "2009", [""], 0, ["ger"], ["action", "drama"], [], [], ["Zack Snyder"], ["Jackie Earle Haley", "Carla Gugino", "Dan Payne"], "https://64.media.tumblr.com/4101f6f80a55955a8d0fd95ac0b2125b/2e9a308c13070f84-32/s250x400/1aa2064dd71b23ac8dea2391fa6cff1802edc6c9.jpg"],
+["film", ["Watchmen", "Watchmen: Die Wächter"], "2009", [""], 0, ["ger"], ["action", "drama"], [], [], ["Zack Snyder"], ["Jackie Earle Haley", "Carla Gugino", "Dan Payne", "Kathryn Hahn"], "https://64.media.tumblr.com/4101f6f80a55955a8d0fd95ac0b2125b/2e9a308c13070f84-32/s250x400/1aa2064dd71b23ac8dea2391fa6cff1802edc6c9.jpg"],
 
 ["film", ["Race to Witch Mountain", "Die Jagd zum magischen Berg"], "2009", ["2021 12 16"], 6, ["ger"], ["action", "adventure"], [], [], ["Andy Fickman"], ["Dwayne Johnson", "AnnaSophia Robb", "Alexander Ludwig", "Carla Gugino", "Ciarán Hinds", "Bill Clinton", "Kim Richards", "Ike Eisenmann"], "https://64.media.tumblr.com/a52598667d5ad20820cf180af20c69a8/3e4b29b54dd443af-1e/s250x400/36eefc8c5d161118f934b999b8914a2157dd0ec7.jpg"],
 
@@ -97,7 +97,7 @@ var database = [
 	        
 ["film", ["Tales from Earthsea", "Die Chroniken von Erdsee", "Gedo senki"], "2006", ["2015 07 19", "2021 11 27"], 5, ["ger"], ["adventure", "fantasy", "magic", "anime"], ["bini", "mai"], ["Ghibli", "Netflix"], ["Gorô Miyazaki"], [], "https://40.media.tumblr.com/561178e59629591bc8c5b8a5f2da5d16/tumblr_nzq32e8sT21v2s5upo1_250.jpg"],
 	        
-["film", ["The Secret Life of Walter Mitty", "Das erstaunliche Leben des Walter Mitty"], "2013", ["2015 07 20", "2015 12 05", "2020 05 08"], 10, ["ger"], ["adventure", "comedy", "drama"], [], ["Kino"], ["Ben Stiller"], ["Ben Stiller", "Kristen Wiig", "Ólafur Darri Ólafsson", "Adrian Martinez"], "https://37.media.tumblr.com/010b794dc1548291f5c4dc21156153bb/tumblr_nzq3dqgJO81v2s5upo1_250.jpg"],
+["film", ["The Secret Life of Walter Mitty", "Das erstaunliche Leben des Walter Mitty"], "2013", ["2015 07 20", "2015 12 05", "2020 05 08"], 10, ["ger"], ["adventure", "comedy", "drama"], [], ["Kino"], ["Ben Stiller"], ["Ben Stiller", "Kristen Wiig", "Ólafur Darri Ólafsson", "Adrian Martinez", "Kathryn Hahn"], "https://37.media.tumblr.com/010b794dc1548291f5c4dc21156153bb/tumblr_nzq3dqgJO81v2s5upo1_250.jpg"],
 	        
 ["film", ["Hot Fuzz", "Hot Fuzz - Zwei abgewichste Profis"], "2007", ["2015 07 23", "2017 12 17"], 7, ["ger"], ["comedy", "action"], ["lukas"], ["Blood and Ice Cream"], ["Edgar Wright"], ["Simon Pegg", "Martin Freeman", "Bill Nighy", "Nick Frost"], "https://40.media.tumblr.com/beb889f85fafd83eeb8c1da42843e1e1/tumblr_nzq3e7k1lV1v2s5upo1_250.jpg"],
 	        
@@ -375,7 +375,7 @@ var database = [
 	        
 ["series", ["Atypical"], ["2017", "2021"], [["2017 12 29", "2018 01 01", "S1"], ["2018 09 07", "2018 09 08", "S2"], ["2019 11 01", "2019 11 16", "S3"], ["2020 07 09", "2020 07 16", "S1"], ["2020 07 16", "2020 07 18", "S2"], ["2020 07 18", "2020 07 20", "S3"], ["2021 07 16", "2021 07 28", "S4"]], 8, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Robia Rashid"], ["Keir Gilchrist", "Jennifer Jason Leigh", "Brigette Lundy-Paine", "Michael Rapaport", "Nik Dodani", "Amy Okuda", "Sara Gilbert", "Raúl Castillo"], "https://66.media.tumblr.com/061499d98f1a404ceb3cb290ec08e58c/bdaa33086c3fdc3d-e2/s250x400/57c82fdf9d317f70486282f02a4c7da7925edf67.jpg"],
 	        
-["series", ["Girlboss"], "2017", [["2018 01 10", "2018 01 21", "S1"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Kay Cannon"], ["Johnny Simmons", "Dean Norris"], "https://66.media.tumblr.com/aa0af156b2442fa58f69815b03f895be/c571ce21637e84b9-a2/s250x400/361be4d6838b0b47071a95bef200427e26fe9b20.jpg"],
+["series", ["Girlboss"], "2017", [["2018 01 10", "2018 01 21", "S1"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Kay Cannon"], ["Johnny Simmons", "Dean Norris", "Britt Robertson"], "https://66.media.tumblr.com/aa0af156b2442fa58f69815b03f895be/c571ce21637e84b9-a2/s250x400/361be4d6838b0b47071a95bef200427e26fe9b20.jpg"],
 	        
 ["series", ["Money Heist", "Haus des Geldes", "La Casa de Papel"], ["2017", "2021"], [/*["2018 02 09", "2018 02 10", "S1 - S2"]*/["2018 02 09", "2018 02 10", "S1"], ["2018 04 11", "2018 04 15", "S2"], ["2019 07 22", "2019 07 26", "S3"], ["2020 05 22", "2020 05 23", "S4"], ["2021 09 06", "2021 09 11", "S5E1-E5"], ["2021 12 09", "2021 12 28", "S5E6-S5E10"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Álex Pina"], ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño", "Pedro Alonso", "Miguel Herrán", "Jaime Lorente", "Esther Acebo", "Enrique Arce", "Darko Peric", "Alba Flores", "Rodrigo De la Serna", "Miguel Ángel Silvestre"], "https://66.media.tumblr.com/2ce7367fd5753cc03b95df9b7775419e/8bb4ebe063f69423-c4/s250x400/72bdf60d06590238da922be712cf24058c903ffb.jpg"],
 	        
@@ -534,7 +534,7 @@ var database = [
 	        
 ["film", ["The Girl with Nine Wigs", "Heute bin ich blond"], "2013", ["2020 09 14"], 6, ["ger"], ["biography", "comedy"], [], ["DVD"], ["Marc Rothemund"], ["Daniel Zillmann", "Lisa Tomaschewsky", "Jasmin Gerat"], "https://64.media.tumblr.com/d2873bc102bc01289ae24f7d3dd8f008/060e3a6108445317-b9/s250x400/9e04e09f6a5fd1aea7d2854821f71f11533db4ce.jpg"],
 	        
-["film", ["All the Bright Places", "All die verdammt perfekten Tage"], "2020", ["2020 06 13"], 7, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Brett Haley"], ["Elle Fanning", "Justice Smith"], "https://66.media.tumblr.com/4234402071d21b4ad20bbc81763f21ed/e281213a508bcd3d-7d/s250x400/b70ea8db842311cd587b0b85ba7e42c90d88ce95.jpg"],
+["film", ["All the Bright Places", "All die verdammt perfekten Tage"], "2020", ["2020 06 13"], 7, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Brett Haley"], ["Elle Fanning", "Justice Smith", "Keegan-Michael Key"], "https://66.media.tumblr.com/4234402071d21b4ad20bbc81763f21ed/e281213a508bcd3d-7d/s250x400/b70ea8db842311cd587b0b85ba7e42c90d88ce95.jpg"],
 	        
 ["film", ["Tigermilch"], "2017", ["2020 05 31"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Emily Kusche", "Milton Welsh"], "https://66.media.tumblr.com/81b55aa9054bce909909a7a43fe58e51/2012c6606283f3ab-4e/s250x400/c949a2422bf2f82cb85b9e3552f6b785eaf6ff18.jpg"],
 	        
@@ -622,7 +622,7 @@ var database = [
 	        
 ["film", ["Logan", "Logan: The Wolverine"], "2017", ["2017 03 02", "2020 03 02"], 8, ["ger"], ["action", "drama", "supernatural"], ["nico"], ["Kino", "X-Men", "Marvel"], ["James Mangold"], ["Hugh Jackman", "Patrick Stewart", "Dafne Keen", "Stephen Merchant", "Boyd Holbrook"], "https://68.media.tumblr.com/42f0e6d37b2f98c78afda5b69edaf6d5/tumblr_om8zfwTnMX1v2s5upo1_250.jpg"],
 	        
-["film", ["The Space Between Us", "Den Sternen so nah"], "2017", ["2017 03 04"], 7, ["ger"], ["drama", "romance", "sci-fi"], ["je", "syl"], ["Kino"], ["Peter Chelsom"], ["Gary Oldman", "BD Wong", "Asa Butterfield"], "https://68.media.tumblr.com/514a1e7f63f97208cde10e75312227b2/tumblr_omeq8dnfiM1v2s5upo1_250.jpg"],
+["film", ["The Space Between Us", "Den Sternen so nah"], "2017", ["2017 03 04"], 7, ["ger"], ["drama", "romance", "sci-fi"], ["je", "syl"], ["Kino"], ["Peter Chelsom"], ["Gary Oldman", "BD Wong", "Asa Butterfield", "Britt Robertson"], "https://68.media.tumblr.com/514a1e7f63f97208cde10e75312227b2/tumblr_omeq8dnfiM1v2s5upo1_250.jpg"],
 	        
 ["film", ["Jurassic World: Fallen Kingdom", "Jurassic World: Das gefallene Königreich"], "2018", ["2018 06 07", "2020 11 26"], 8, ["ger"], ["action", "adventure"], ["bini", "je", "syl"], ["Kino", "Jurassic Park", "DVD"], ["J.A. Bayona"], ["Chris Pratt", "Bryce Dallas Howard", "Toby Jones", "Jeff Goldblum", "BD Wong", "Justice Smith", "Ted Levine", "Isabella Sermon"], "https://66.media.tumblr.com/2e331c74b66d28043538fe0e9ffb0e23/tumblr_pzktkmJCIo1v2s5upo1_250.jpg"],
 	        
@@ -1356,7 +1356,7 @@ var database = [
 	        
 ["film", ["Philadelphia"], "1993", ["2017 01 30"], 5, ["ger"], ["drama"], [], [], ["Jonathan Demme"], ["Tom Hanks"], "https://68.media.tumblr.com/7a5725faa25413da5b5e0d04118174f4/tumblr_oknyysJ2bN1v2s5upo1_250.jpg"],
 	        
-["film", ["The Dictator", "Der Diktator"], "2012", ["2017 01 16"], 5, ["ger"], ["comedy"], [], [], ["Larry Charles"], ["Sacha Baron Cohen", "Ben Kingsley", "Megan Fox", "Anna Faris", "Chris Parnell", "Hillary Clinton", "Edward Norton", "John C. Reilly"], "https://68.media.tumblr.com/f0055cb58ccffd7855d7c76d4924a36a/tumblr_ojvtgqr9Pc1v2s5upo1_250.jpg"],
+["film", ["The Dictator", "Der Diktator"], "2012", ["2017 01 16"], 5, ["ger"], ["comedy"], [], [], ["Larry Charles"], ["Sacha Baron Cohen", "Ben Kingsley", "Megan Fox", "Anna Faris", "Chris Parnell", "Hillary Clinton", "Edward Norton", "John C. Reilly", "Kathryn Hahn"], "https://68.media.tumblr.com/f0055cb58ccffd7855d7c76d4924a36a/tumblr_ojvtgqr9Pc1v2s5upo1_250.jpg"],
 	        
 ["film", ["Miracle on 34th Street", "Das Wunder von Manhattan"], "1994", ["2016 12 19"], 6, ["ger"], ["family", "fantasy"], [], ["Schule"], ["Les Mayfield"], ["Richard Attenborough", "Mara Wilson", "Allison Janney"], "https://68.media.tumblr.com/40f397e7c379ef376e1879ab421ebcd2/tumblr_oifqxvLLsZ1v2s5upo1_250.jpg"],
 	        
@@ -1956,7 +1956,7 @@ var database = [
 
 ["film", ["Die Wilden Hühner und die Liebe"], "2007", ["2021 11 04"], 6, ["ger"], ["comedy", "family"], [], ["Netflix", "LGBT"], ["Vivian Naefe"], ["Michelle von Treuberg", "Paula Romy", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Thomas Kretschmann", "Benno Fürmann", "Axel Prahl"], "https://64.media.tumblr.com/1a2776dae54457bcf515edc7356d6768/876998922951938e-05/s250x400/e54e96ceee013d17dbd42f0e1742f718c5b2eb60.jpg"],
 
-["film", ["Die Wilden Hühner und das Leben"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Benno Fürmann", "Wotan Wilke Möhring", "Milena Tscharntke"], "https://64.media.tumblr.com/87deeb29e6606958a1eb6aea58fb3efc/913287753b1fadec-9b/s250x400/f4ed62e7adbe64210f03f3db21987ae8c57fc06d.jpg"],
+["film", ["Die Wilden Hühner und das Leben"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Benno Fürmann", "Wotan Wilke Möhring", "Milena Tscharntke", "Sonja Gerhardt"], "https://64.media.tumblr.com/87deeb29e6606958a1eb6aea58fb3efc/913287753b1fadec-9b/s250x400/f4ed62e7adbe64210f03f3db21987ae8c57fc06d.jpg"],
 
 ["film", ["Die Vorstadtkrokodile"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Christian Ditter"], ["Smudo", "Jacob Matschenz", "Axel Stein"], "https://64.media.tumblr.com/4bdcf49349ca6a11d3660c9b9b50c3d9/1df5e4c42048e73b-43/s250x400/1c6fa4d31eec11353b8c02fd623d9e8607f1bb98.jpg"],
 
@@ -2315,7 +2315,13 @@ var database = [
 
 ["film", ["Murder on the Orient Express", "Mord im Orient-Express"], "2017", ["2022 07 28"], 6, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh", "Johnny Depp", "Lucy Boynton", "Marwan Kenzari", "Michelle Pfeiffer", "Judi Dench", "Willem Dafoe", "Leslie Odom Jr.", "Tom Bateman", "Penélope Cruz", "Hayat Kamille"], "https://64.media.tumblr.com/9098c2a907b25102c1ce4edcea5fb149/98061f95a99e5123-d6/s250x400/39314062321bd07948053cbed8513c02e961d8c7.jpg"],
 
-["film", ["Crush"], "2022", ["2022 07 28"], 6, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Sammi Cohen"], ["Rowan Blanchard", "Aasif Mandvi", "Isabella Ferreira", "Tyler Alvarez", "Rico Paris", "Michelle Buteau", "Megan Mullally"], "https://64.media.tumblr.com/6e15c717bf94ad2c7be0665a85bea941/51380dfd1d4e9ed4-34/s250x400/34c733526810da4323e9c573c30f6a91bc1c23a2.jpg"]
+["film", ["Crush"], "2022", ["2022 07 28"], 6, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Sammi Cohen"], ["Rowan Blanchard", "Aasif Mandvi", "Isabella Ferreira", "Tyler Alvarez", "Rico Paris", "Michelle Buteau", "Megan Mullally"], "https://64.media.tumblr.com/6e15c717bf94ad2c7be0665a85bea941/51380dfd1d4e9ed4-34/s250x400/34c733526810da4323e9c573c30f6a91bc1c23a2.jpg"],
+
+["film", ["The Magic Kids: Three Unlikely Heroes", "Die Wolf-Gäng"], "2020", ["2022 07 29"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Tim Trageser"], ["Axel Stein", "Sonja Gerhardt"], "https://64.media.tumblr.com/1431cf5e3c91e8fce062badfc6fd3187/2b631af99ddf4859-a2/s250x400/917b1b19eb30ed7ca5ca5b969eec19566a8b12b9.jpg"],
+
+["film", ["Tall Girl 2", "Wie Jodi über sich hinauswuchs 2"], "2022", ["2022 07 29"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Emily Ting"], ["Ava Michelle", "Griffin Gluck", "Sabrina Carpenter", "Steve Zahn"], "https://64.media.tumblr.com/b5d6e1a42c33d7f65b48c0bb5118d520/210923677ed7c02d-26/s250x400/ca63dc3eafa64dc64761a45a08853d659e32b52f.jpg"],
+
+["film", ["Tomorrowland", "A World Beyond"], "2015", [["2022 07 29", ""]], 0, ["ger"], ["action", "adventure"], [], ["Disney+"], ["Brad Bird"], ["George Clooney", "Britt Robertson", "Raffey Cassidy", "Kathryn Hahn", "Keegan-Michael Key", "Judy Greer"], "https://64.media.tumblr.com/10c4b627ffa0808d5ca374041b62b0f6/b4c6bf37c2b96239-cb/s250x400/44c4bef09625d3db3a043e0554779632ef4a481e.jpg"]
 
 	
 /*
