@@ -2305,7 +2305,7 @@ var database = [
 
 ["film", ["Grace VanderWaal: Don't Assume What You Don't Know"], "2022", ["2022 07 17"], 4, ["eng"], ["documentary"], [], [], ["Mark Lalonde", "Clare Weitzel"], ["Grace VanderWaal"], "https://64.media.tumblr.com/d649f74c4ad7417713e55668376ae8bf/f7d787bc456c3b46-41/s250x400/b8d69822ae8d85b95d9fb816551b61f38563b2a2.jpg"],
 
-["film", ["Lupin III vs. Detective Conan: The Movie", "Lupin III vs. Detektiv Conan: The Movie", "Rupan Sansei vs Meitantei Conan: The Movie"], "2013", [["2022 07 24", ""]], 0, ["ger"], ["anime", "action"], ["bini"], ["Conan"], ["Hajime Kamegaki"], [], "https://64.media.tumblr.com/e4d67e2b90f2129d95c8e8beb703f71d/f170322f9a32a754-7e/s250x400/9305129474fddacb2e27e6ac3e6085171c8ff3ce.jpg"],
+["film", ["Lupin III vs. Detective Conan: The Movie", "Lupin III vs. Detektiv Conan: The Movie", "Rupan Sansei vs Meitantei Conan: The Movie"], "2013", [["2022 07 24", "2022 07 30"]], 6, ["ger"], ["anime", "action"], ["bini"], ["Conan"], ["Hajime Kamegaki"], [], "https://64.media.tumblr.com/e4d67e2b90f2129d95c8e8beb703f71d/f170322f9a32a754-7e/s250x400/9305129474fddacb2e27e6ac3e6085171c8ff3ce.jpg"],
 
 ["series", ["Watashitachi, Luck Logic-bu!"], "2016", [["2022 07 26", "S1"]], 2, ["jap"], ["anime", "comedy"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/0d665fc67e8b05a2e45622708d039d03/4cd036f117d446b9-b4/s250x400/1a09f69f4002ea697ecabf99923c0c922021388f.jpg"],
 
@@ -2321,7 +2321,9 @@ var database = [
 
 ["film", ["Tall Girl 2", "Wie Jodi über sich hinauswuchs 2"], "2022", ["2022 07 29"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Emily Ting"], ["Ava Michelle", "Griffin Gluck", "Sabrina Carpenter", "Steve Zahn"], "https://64.media.tumblr.com/b5d6e1a42c33d7f65b48c0bb5118d520/210923677ed7c02d-26/s250x400/ca63dc3eafa64dc64761a45a08853d659e32b52f.jpg"],
 
-["film", ["Tomorrowland", "A World Beyond"], "2015", [["2022 07 29", ""]], 0, ["ger"], ["action", "adventure"], [], ["Disney+"], ["Brad Bird"], ["George Clooney", "Britt Robertson", "Raffey Cassidy", "Kathryn Hahn", "Keegan-Michael Key", "Judy Greer"], "https://64.media.tumblr.com/10c4b627ffa0808d5ca374041b62b0f6/b4c6bf37c2b96239-cb/s250x400/44c4bef09625d3db3a043e0554779632ef4a481e.jpg"]
+["film", ["Tomorrowland", "A World Beyond"], "2015", [["2022 07 29", "2022 07 30"]], 8, ["ger"], ["action", "adventure"], [], ["Disney+"], ["Brad Bird"], ["George Clooney", "Britt Robertson", "Raffey Cassidy", "Kathryn Hahn", "Keegan-Michael Key", "Judy Greer"], "https://64.media.tumblr.com/10c4b627ffa0808d5ca374041b62b0f6/b4c6bf37c2b96239-cb/s250x400/44c4bef09625d3db3a043e0554779632ef4a481e.jpg"],
+
+["film", ["Parasite", "Parasite", "Gisaengchung"], "2019", ["2022 07 30"], 8, ["kor"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Bong Joon Ho"], [], "https://64.media.tumblr.com/f87320721485509c37e844d78bec3fed/35849b781278970d-7b/s250x400/91412679d247ea28eaf792d4fca21353ef3d4152.jpg"]
 
 	
 /*
