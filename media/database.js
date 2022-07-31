@@ -2171,7 +2171,7 @@ var database = [
 
 ["film", ["Hamilton"], "2020", [["2022 03 24", "2022 03 27"]], 8, ["eng"], ["biography", "drama", "musical"], [], ["Disney+"], ["Thomas Kail"], ["Ariana DeBose", "Leslie Odom Jr."], "https://64.media.tumblr.com/10f8d7e6e0254d58fd414356cefe7438/60e86324d8e92a16-11/s250x400/e5a673f1308e8ea55b6053169a11031e1bba2a3b.jpg"],
 
-["series", ["Terrace House: Aloha State"], ["2016", "2017"], [["2022 03 27", "", "S1"]], 0, ["jap"], ["drama", "reality-tv"], ["bini", "nico"], ["Netflix", "watching"], [], ["Lauren Tsai"], "https://64.media.tumblr.com/51c8623c08a7434dcacd613c5ffd704b/b48e302bb9ee65d6-2f/s250x400/5d38d87f7ad136af99762f4c8db0a399681fdcf4.jpg"],
+["series", ["Terrace House: Aloha State"], ["2016", "2017"], [["2022 03 27", "2022 07 31", "S1"]], 6, ["jap"], ["drama", "reality-tv"], ["bini", "nico"], ["Netflix"], [], ["Lauren Tsai"], "https://64.media.tumblr.com/51c8623c08a7434dcacd613c5ffd704b/b48e302bb9ee65d6-2f/s250x400/5d38d87f7ad136af99762f4c8db0a399681fdcf4.jpg"],
 
 ["book", ["Das verdammte Chaos im Mikrokosmos"], "2015", [["2022 03 29", "2022 04 25"]], 7, ["ger"], [], [], ["bibliothek"], ["Anke Weber"], [], "https://64.media.tumblr.com/111a070d053c36be33762fc23b1b66b6/ac743d4e49dec798-5e/s250x400/335d8881a169b5e46c66791c9934ada0c41dd3f9.jpg"],
 
@@ -2323,7 +2323,11 @@ var database = [
 
 ["film", ["Tomorrowland", "A World Beyond"], "2015", [["2022 07 29", "2022 07 30"]], 8, ["ger"], ["action", "adventure"], [], ["Disney+"], ["Brad Bird"], ["George Clooney", "Britt Robertson", "Raffey Cassidy", "Kathryn Hahn", "Keegan-Michael Key", "Judy Greer"], "https://64.media.tumblr.com/10c4b627ffa0808d5ca374041b62b0f6/b4c6bf37c2b96239-cb/s250x400/44c4bef09625d3db3a043e0554779632ef4a481e.jpg"],
 
-["film", ["Parasite", "Parasite", "Gisaengchung"], "2019", ["2022 07 30"], 8, ["kor"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Bong Joon Ho"], [], "https://64.media.tumblr.com/f87320721485509c37e844d78bec3fed/35849b781278970d-7b/s250x400/91412679d247ea28eaf792d4fca21353ef3d4152.jpg"]
+["film", ["Parasite", "Parasite", "Gisaengchung"], "2019", ["2022 07 30"], 8, ["kor"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Bong Joon Ho"], [], "https://64.media.tumblr.com/f87320721485509c37e844d78bec3fed/35849b781278970d-7b/s250x400/91412679d247ea28eaf792d4fca21353ef3d4152.jpg"],
+
+["film", ["Horse Girl"], "2020", ["2022 07 30"], 6, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Jeff Baena"], ["John Ortiz", "Robin Tunney", "Matthew Gray Gubler", "Debby Ryan"], "https://64.media.tumblr.com/8acbb4247ce63564049c0fd063ea91d8/38432b0d8b0f598c-c9/s250x400/b04a79a83f0f8bbc8ff08457c64308dcbcba945a.jpg"],
+
+["film", ["A Bug's Life", "Das große Krabbeln"], "1998", ["2022 07 31"], 5, ["ger"], ["animation", "adventure"], [], ["Disney+"], ["John Lasseter", "Andrew Stanton"], [], "https://64.media.tumblr.com/5e589366d1425845fbbb9441f874597a/72c7db779a56b5db-44/s250x400/6c7a15af865660bd371f20bffd5d347afffd7043.jpg"]
 
 	
 /*
