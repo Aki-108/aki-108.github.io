@@ -129,7 +129,7 @@ var database = [
 	        
 ["book", ["Of Mice and Men", "Von Mäusen und Menschen"], "1937", [["2016 06 20", "2016 07 12"], ["2021 06 04", "2021 06 17"]], 8, ["ger"], [], [], [], ["John Steinbeck"], [], "https://66.media.tumblr.com/2c9eca143441603db2a66aeed3674496/tumblr_odcl9l8fY51v2s5upo2_r1_250.jpg"],
 	        
-["audiobook", ["At the Mountains of Madness", "Berge des Wahnsinns"], "1931", [["2016 08 22", "2016 09 08"], ["2018 01 04", "2018 02 04"]], 10, ["ger"], [], [], ["fav"], ["H. P. Lovecraft"], [], "https://66.media.tumblr.com/d469a2f9e1a1e32f297e6265ece473fc/tumblr_odcjbtcCGk1v2s5upo2_r1_250.jpg"],
+["audiobook", ["At the Mountains of Madness", "Berge des Wahnsinns"], "1931", [["2016 08 22", "2016 09 08"], ["2018 01 04", "2018 02 04"], ["2022 07 31", "2022 08 01"]], 10, ["ger"], [], [], ["fav"], ["H. P. Lovecraft"], [], "https://66.media.tumblr.com/d469a2f9e1a1e32f297e6265ece473fc/tumblr_odcjbtcCGk1v2s5upo2_r1_250.jpg"],
 	        
 ["audiobook", ["Demian: The Story of Emil Sinclair's Youth", "Demian. Die Geschichte einer Jugend"], "1919", [["2016 09 09", "2016 09 12"]], 5, ["ger"], [], [], [], ["Hermann Hesse"], [], "https://66.media.tumblr.com/9647d80e3f06bf5feb58d879e3b623eb/tumblr_ode22dK9Oo1v2s5upo2_r1_250.jpg"],
 	        
