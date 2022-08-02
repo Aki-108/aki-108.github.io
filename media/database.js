@@ -496,13 +496,13 @@ var database = [
 	        
 ["audiobook", ["Mockingjay", "Die Tribute von Panem – Flammender Zorn"], "2010", [["2020 03 30", "2020 04 03"]], 7, ["eng"], [], [], ["Hunger Games"], ["Suzanne Collins"], [], "https://66.media.tumblr.com/a29684a87ede1c4134c9f75cd88b0f3b/43e0030ae8bafdef-ea/s250x400/140444d4f310e4261f80f455eba0a97055bd65e9.jpg"],
 	        
-["film", ["The Hunger Games", "Die Tribute von Panem - The Hunger Games"], "2012", ["2015 11 08", "2016 10 10"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Hunger Games"], ["Gary Ross"], ["Stanley Tucci", "Jennifer Lawrence", "Liam Hemsworth", "Elizabeth Banks", "Woody Harrelson", "Isabelle Fuhrman", "Josh Hutcherson", "Mackenzie Lintz", "Sandra Ellis Lafferty", "Rhoda Griffis", "Alexander Ludwig", "Dayo Okeniyi"], "https://66.media.tumblr.com/a24245b34e92ec6447ebf36186441831/tumblr_px704ncX2r1v2s5upo1_250.jpg"],
+["film", ["The Hunger Games", "Die Tribute von Panem - The Hunger Games"], "2012", ["2015 11 08", "2016 10 10"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Hunger Games"], ["Gary Ross"], ["Stanley Tucci", "Jennifer Lawrence", "Liam Hemsworth", "Elizabeth Banks", "Woody Harrelson", "Isabelle Fuhrman", "Josh Hutcherson", "Mackenzie Lintz", "Sandra Ellis Lafferty", "Rhoda Griffis", "Alexander Ludwig", "Dayo Okeniyi", "Donald Sutherland"], "https://66.media.tumblr.com/a24245b34e92ec6447ebf36186441831/tumblr_px704ncX2r1v2s5upo1_250.jpg"],
 	        
-["film", ["The Hunger Games: Catching Fire", "Die Tribute von Panem - Catching Fire"], "2013", ["2015 11 12", "2016 10 11"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Liam Hemsworth", "Woody Harrelson", "Josh Hutcherson", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Sandra Ellis Lafferty", "Jeffrey Wright"], "https://66.media.tumblr.com/f7b4170e92e5bc06aaee4193e449a0c9/tumblr_ppuwk10qr21v2s5upo1_250.jpg"],
+["film", ["The Hunger Games: Catching Fire", "Die Tribute von Panem - Catching Fire"], "2013", ["2015 11 12", "2016 10 11"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Liam Hemsworth", "Woody Harrelson", "Josh Hutcherson", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Sandra Ellis Lafferty", "Jeffrey Wright", "Donald Sutherland"], "https://66.media.tumblr.com/f7b4170e92e5bc06aaee4193e449a0c9/tumblr_ppuwk10qr21v2s5upo1_250.jpg"],
 	        
-["film", ["The Hunger Games: Mockingjay - Part 1", "Die Tribute von Panem - Mockingjay: Teil 1"], "2014", ["2016 10 13"], 7, ["ger"], ["action", "adventure"], [], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Mahershala Ali", "Elden Henson", "Jeffrey Wright"], "https://68.media.tumblr.com/e43757394967e00f9c522eddb839f143/tumblr_of03elLgxw1v2s5upo1_250.jpg"],
+["film", ["The Hunger Games: Mockingjay - Part 1", "Die Tribute von Panem - Mockingjay: Teil 1"], "2014", ["2016 10 13"], 7, ["ger"], ["action", "adventure"], [], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Mahershala Ali", "Elden Henson", "Jeffrey Wright", "Donald Sutherland"], "https://68.media.tumblr.com/e43757394967e00f9c522eddb839f143/tumblr_of03elLgxw1v2s5upo1_250.jpg"],
 	        
-["film", ["The Hunger Games: Mockingjay - Part 2", "Die Tribute von Panem - Mockingjay: Teil 2"], "2015", ["2016 10 14"], 8, ["ger"], ["action", "adventure"], [], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Joe Chrest", "Mahershala Ali", "Elden Henson", "Jeffrey Wright"], "https://68.media.tumblr.com/fbc3f18858c714b0e7b247f74b711b6d/tumblr_of1sxh8yGO1v2s5upo1_250.jpg"],
+["film", ["The Hunger Games: Mockingjay - Part 2", "Die Tribute von Panem - Mockingjay: Teil 2"], "2015", ["2016 10 14"], 8, ["ger"], ["action", "adventure"], [], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Joe Chrest", "Mahershala Ali", "Elden Henson", "Jeffrey Wright", "Donald Sutherland"], "https://68.media.tumblr.com/fbc3f18858c714b0e7b247f74b711b6d/tumblr_of1sxh8yGO1v2s5upo1_250.jpg"],
 	        
 ["audiobook", ["Lord of the Flies", "Herr der Fliegen"], "1954", [["2020 06 09", "2020 06 11"]], 4, ["eng"], [], [], [], ["William Golding"], [], "https://66.media.tumblr.com/29c9aac93e71d25a89ad3d626686c06b/4c0a0ed205b7aa97-0b/s250x400/7d746a247d63ef5f91f4c55bc201127710d39df1.jpg"],
 	        
@@ -524,7 +524,7 @@ var database = [
 	        
 ["film", ["Emma.", "Emma"], "2020", ["2020 07 27"], 6, ["ger"], ["comedy", "drama"], ["syl"], ["Kino"], ["Autumn de Wilde"], ["Anya Taylor-Joy", "Bill Nighy", "Tanya Reynolds", "Callum Turner"], "https://64.media.tumblr.com/b0483e91677af92641a1d11663da2aef/ae5c907a9b320a83-7e/s250x400/4b3012c6be8d4118ec14688c5096aa081b3eebc0.jpg"],
 	        
-["film", ["The Old Guard"], "2020", ["2020 07 27"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Gina Prince-Bythewood"], ["Chiwetel Ejiofor", "Harry Melling", "Matthias Schoenaerts", "Orlando Seale"], "https://64.media.tumblr.com/89ad420fc18f829fdc232cc078a87e4f/6a3b04b9ffb46ba4-e0/s250x400/e002ec38f2252118eb151df79eadaf794c231b0d.jpg"],
+["film", ["The Old Guard"], "2020", ["2020 07 27"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Gina Prince-Bythewood"], ["Chiwetel Ejiofor", "Harry Melling", "Matthias Schoenaerts", "Orlando Seale", "Charlize Theron"], "https://64.media.tumblr.com/89ad420fc18f829fdc232cc078a87e4f/6a3b04b9ffb46ba4-e0/s250x400/e002ec38f2252118eb151df79eadaf794c231b0d.jpg"],
 	        
 ["film", ["17 Again", "17 Again - Back to High School"], "2009", ["2020 07 25"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Burr Steers"], ["Zac Efron", "Matthew Perry", "Michelle Trachtenberg", "Michelle Trachtenberg"], "https://64.media.tumblr.com/0d4b4127a01f8d85f22ea9e8504476cf/e253c3091319ef95-91/s250x400/c0c7bc733244a81b173fadde533e8288b7974113.jpg"],
 	        
@@ -1302,7 +1302,7 @@ var database = [
 	        
 ["film", ["Hush", "Still"], "2016", ["2018 06 26"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Mike Flanagan"], ["James Flanagan"], "https://66.media.tumblr.com/80e3a1b9fff0084cd34701f871adcd85/tumblr_pzpvznTPCq1v2s5upo1_250.jpg"],
 	        
-["film", ["Freche Mädchen"], "2008", ["2018 06 18"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Anke Engelke", "Anna Böttcher", "Christian Tramitz", "Wilson Gonzalez", "Gerda Böken"], "https://66.media.tumblr.com/8faea0ec081e5bd5cf57b650c4ca294d/tumblr_pzktvjfw161v2s5upo1_250.jpg"],
+["film", ["Freche Mädchen"], "2008", ["2018 06 18"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Anke Engelke", "Anna Böttcher", "Christian Tramitz", "Wilson Gonzalez", "Gerda Böken", "Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel"], "https://66.media.tumblr.com/8faea0ec081e5bd5cf57b650c4ca294d/tumblr_pzktvjfw161v2s5upo1_250.jpg"],
 	        
 ["film", ["Dude"], "2018", ["2018 05 16"], 6, ["ger"], ["comedy", "drama"], [], [], ["Olivia Milch"], ["Kathryn Prescott", "Awkwafina", "Alex Wolff"], "https://66.media.tumblr.com/702308077be02f4b8fa5db3a9615e29d/tumblr_pzfebsZgCo1v2s5upo1_250.jpg"],
 	        
@@ -1334,7 +1334,7 @@ var database = [
 	        
 ["film", ["Shaun the Sheep Movie", "Shaun das Schaf - Der Film"], "2015", ["2017 08 20"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl"], [], ["Mark Burton", "Richard Starzak"], [], "https://66.media.tumblr.com/59ef436b9c93433054b57aab12e159e0/tumblr_pxrg3l15zf1v2s5upo1_250.jpg"],
 	        
-["film", ["A Million Ways to Die in the West", "A Million Ways To Die In The West"], "2014", ["2017 07 18"], 2, ["ger"], ["comedy", "western"], [], ["dropped"], ["Seth MacFarlane"], ["Amanda Seyfried", "Giovanni Ribisi", "Neil Patrick Harris", "John Michael Higgins", "Ryan Reynolds", "Mae Whitman", "Ewan McGregor"], "https://66.media.tumblr.com/e97c0bb242864440c2466af33b4b86f5/tumblr_pxnkbvYJJy1v2s5upo1_250.jpg"],
+["film", ["A Million Ways to Die in the West", "A Million Ways To Die In The West"], "2014", ["2017 07 18"], 2, ["ger"], ["comedy", "western"], [], ["dropped"], ["Seth MacFarlane"], ["Amanda Seyfried", "Giovanni Ribisi", "Neil Patrick Harris", "John Michael Higgins", "Ryan Reynolds", "Mae Whitman", "Ewan McGregor", "Charlize Theron"], "https://66.media.tumblr.com/e97c0bb242864440c2466af33b4b86f5/tumblr_pxnkbvYJJy1v2s5upo1_250.jpg"],
 	        
 ["film", ["Central Intelligence"], "2016", ["2017 07 06"], 5, ["ger"], ["action", "comedy"], [], ["Schule"], ["Rawson Marshall Thurber"], ["Dwayne Johnson", "Kevin Hart", "Jason Bateman", "Aaron Paul"], "https://66.media.tumblr.com/9f093ced17b179c56ab64b0e590886ae/tumblr_ppuvxgQHe01v2s5upo1_250.jpg"],
 	        
@@ -2289,7 +2289,7 @@ var database = [
 
 ["film", ["How I Became A Superhero", "Wie ich ein Superheld wurde", "Comment je suis devenu super-héros"], "2020", ["2022 07 08"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Douglas Attal"], [], "https://64.media.tumblr.com/faa436e6364e83f2fb3f22181fce4a42/b427591ac125f23d-88/s250x400/c5f5be06553a197182293d8406b3fdaf8e8c1881.jpg"],
 
-["film", ["Snow White and the Huntsman"], "2012", ["2022 07 11"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Rupert Sanders"], ["Kristen Stewart", "Chris Hemsworth", "Sam Claflin", "Nick Frost", "Eddie Marsan", "Toby Jones", "Izzy Meikle-Small"], "https://64.media.tumblr.com/01a81980c77fffb1db98028e0f4872d6/c72bd3ed735bc05e-ce/s250x400/4183d6fd7abeff0f40329d2325f79836dba86d8f.jpg"],
+["film", ["Snow White and the Huntsman"], "2012", ["2022 07 11"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Rupert Sanders"], ["Kristen Stewart", "Chris Hemsworth", "Sam Claflin", "Nick Frost", "Eddie Marsan", "Toby Jones", "Izzy Meikle-Small", "Charlize Theron"], "https://64.media.tumblr.com/01a81980c77fffb1db98028e0f4872d6/c72bd3ed735bc05e-ce/s250x400/4183d6fd7abeff0f40329d2325f79836dba86d8f.jpg"],
 
 ["film", ["The Prom"], "2020", ["2022 07 12"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ryan Murphy"], ["Meryl Streep", "James Corden", "Nicole Kidman", "Andrew Rannells", "Ariana DeBose"], "https://64.media.tumblr.com/a416609dc8e02442b20d999ca7300bdd/ecdfa9cb8088d2e0-51/s250x400/f219f89f60e6fbda13c0273298977839d0ec8bf5.jpg"],
 
@@ -2327,7 +2327,15 @@ var database = [
 
 ["film", ["Horse Girl"], "2020", ["2022 07 30"], 6, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Jeff Baena"], ["John Ortiz", "Robin Tunney", "Matthew Gray Gubler", "Debby Ryan"], "https://64.media.tumblr.com/8acbb4247ce63564049c0fd063ea91d8/38432b0d8b0f598c-c9/s250x400/b04a79a83f0f8bbc8ff08457c64308dcbcba945a.jpg"],
 
-["film", ["A Bug's Life", "Das große Krabbeln"], "1998", ["2022 07 31"], 5, ["ger"], ["animation", "adventure"], [], ["Disney+"], ["John Lasseter", "Andrew Stanton"], [], "https://64.media.tumblr.com/5e589366d1425845fbbb9441f874597a/72c7db779a56b5db-44/s250x400/6c7a15af865660bd371f20bffd5d347afffd7043.jpg"]
+["film", ["A Bug's Life", "Das große Krabbeln"], "1998", ["2022 07 31"], 5, ["ger"], ["animation", "adventure"], [], ["Disney+"], ["John Lasseter", "Andrew Stanton"], [], "https://64.media.tumblr.com/5e589366d1425845fbbb9441f874597a/72c7db779a56b5db-44/s250x400/6c7a15af865660bd371f20bffd5d347afffd7043.jpg"],
+
+["film", ["Minority Report"], "2002", ["2022 08 01"], 6, ["ger"], ["action", "crime"], [], ["Netflix"], ["Steven Spielberg"], ["Tom Cruise", "Max von Sydow", "Jessica Capshaw", "Peter Stormare"], "https://64.media.tumblr.com/b58c461a00ff5953bbf6c1a916166d56/9e54af70e1d7e586-47/s250x400/ef455ce5678e330de5ad7a6d29cfdbf92c998597.jpg"],
+
+["film", ["The Italian Job", "The Italian Job - Jagd auf Millionen"], "2003", ["2022 08 01"], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["F. Gary Gray"], ["Mark Wahlberg", "Charlize Theron", "Donald Sutherland", "Edward Norton"], "https://64.media.tumblr.com/39836f80ba8b55cc13f6fb749390ec8c/54e6bac5fe283f50-ad/s250x400/5a68a3fb217fc1568f8325313ae9fbc81e8391b9.jpg"],
+
+["film", ["Turning Red", "Rot"], "2022", ["2022 08 01"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl"], ["Disney+"], ["Domee Shi"], [], "https://64.media.tumblr.com/455c642f339aaf38215ad334054d8c4b/454a4340d4d2d671-28/s250x400/b19aa66857ac32e59a77f5b47683dbaa22fc2286.jpg"],
+
+["film", ["Freche Mädchen 2"], "2010", ["2022 08 02"], 0, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel", "Anke Engelke"], "https://64.media.tumblr.com/4426bcb3a3e341d055d9d7a72cf1d10b/286d77f0c07a7261-6a/s250x400/1afcf23b6b986b7865e97edac5f168faa8a5a888.jpg"]
 
 	
 /*
