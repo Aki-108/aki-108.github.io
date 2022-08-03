@@ -2283,7 +2283,7 @@ var database = [
 
 ["film", ["Resident Evil: The Final Chapter"], "2016", [["2022 07 05", "2022 07 06"]], 4, ["ger"], ["action", "horror"], ["je"], ["Resident Evil", "Netflix"], ["Paul W.S. Anderson"], ["Milla Jovovich", "Iain Glen"], "https://64.media.tumblr.com/3998254cd1aa65fba2d5ba52114f2075/7baf178d5433889e-64/s250x400/b9d52ebce24dbb9ccc53b907e6dc57c8037665e4.jpg"],
 
-["film", ["The Owl House", "Willkommen im Haus der Eulen"], ["2020", ""], [["2022 07 07", "2022 07 28", "S1E1-S1E9"]], 6, ["ger"], ["animation", "action"], [], ["ongoing", "Disney+", "dropped"], ["Dana Terrace"], [], "https://64.media.tumblr.com/57560f9dd0c4ac1af7ab3ca6bfc0b1ee/213ff5737007a5ca-30/s250x400/293183e8f7c50ee152511deaa4635729604edeb4.jpg"],
+["series", ["The Owl House", "Willkommen im Haus der Eulen"], ["2020", ""], [["2022 07 07", "2022 07 28", "S1E1-S1E9"]], 6, ["ger"], ["animation", "action"], [], ["ongoing", "Disney+", "dropped"], ["Dana Terrace"], [], "https://64.media.tumblr.com/57560f9dd0c4ac1af7ab3ca6bfc0b1ee/213ff5737007a5ca-30/s250x400/293183e8f7c50ee152511deaa4635729604edeb4.jpg"],
 
 ["film", ["Barbie: Princess Charm School", "Barbie: Die Prinzessinnen-Akademie"], "2011", ["2022 07 08"], 5, ["ger"], ["animation", "family"], ["bini", "je"], ["Barbie"], ["Ezekiel Norton"], [], "https://64.media.tumblr.com/9569406e7c7e191767c2873b3e8b7947/3f54bb043aa7649c-6e/s250x400/30b063e6476d3e8f6eb9dac24063acb38bdb0a0d.jpg"],
 
