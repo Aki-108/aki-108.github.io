@@ -582,11 +582,11 @@ var database = [
 	        
 ["film", ["Pacific Rim"], "2013", ["2015 09 12", "2017 05 08"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "nico"], [], ["Guillermo del Toro"], ["Clifton Collins Jr.", "Ron Perlman", "Burn Gorman", "Cathy Cavadini", "Michelle Lee", "Charlie Hunnam", "Heather Doerksen"], "https://37.media.tumblr.com/a3c61f7b93f5a2d2e91773e76711125d/tumblr_o3kcz4exSZ1v2s5upo1_250.jpg"],
 	        
-["film", ["Holes", "Das Geheimnis von Green Lake"], "2003", ["2015 09 26"], 5, ["ger"], ["adventure", "comedy"], [], [], ["Andrew Davis"], ["Sigourney Weaver", "Jon Voight", "Shia LaBeouf", "Dulé Hill"], "https://66.media.tumblr.com/ffc06fb1af6193586005bb6513d1568e/tumblr_ppxzedeXjF1v2s5upo1_250.jpg"],
+["film", ["Holes", "Das Geheimnis von Green Lake"], "2003", ["2015 09 26"], 5, ["ger"], ["adventure", "comedy"], [], [], ["Andrew Davis"], ["Sigourney Weaver", "Jon Voight", "Shia LaBeouf", "Dulé Hill", "Tim Blake Nelson"], "https://66.media.tumblr.com/ffc06fb1af6193586005bb6513d1568e/tumblr_ppxzedeXjF1v2s5upo1_250.jpg"],
 	        
 ["film", ["Surrogates", "Surrogates - Mein zweites Ich"], "2009", ["2015 09 27"], 6, ["ger"], ["action", "sci-fi"], ["bini"], [], ["Jonathan Mostow"], ["Bruce Willis", "Radha Mitchell", "Rosamund Pike", "Helena Mattsson", "Michelle Lee", "Cody Christian"], "https://68.media.tumblr.com/e41a682957e9496e378c5d5f02a47bb1/tumblr_oov2hahWrr1v2s5upo1_250.jpg"],
 	        
-["film", ["Jumper"], "2008", ["2015 09 28"], 5, ["ger"], ["action", "adventure", "supernatural"], ["bini"], [], ["Doug Liman"], ["Samuel L. Jackson", "AnnaSophia Robb", "Kristen Stewart"], "https://66.media.tumblr.com/c127204bd7ac8dcca93909069de581d5/tumblr_pp184vymaZ1v2s5upo1_250.jpg"],
+["film", ["Jumper"], "2008", ["2015 09 28"], 5, ["ger"], ["action", "adventure", "supernatural"], ["bini"], [], ["Doug Liman"], ["Samuel L. Jackson", "AnnaSophia Robb", "Kristen Stewart", "Jamie Bell"], "https://66.media.tumblr.com/c127204bd7ac8dcca93909069de581d5/tumblr_pp184vymaZ1v2s5upo1_250.jpg"],
 	        
 ["film", ["Bridge to Terabithia", "Brücke nach Terabithia"], "2007", ["2015 09 29"], 10, ["ger"], ["drama", "family", "fantasy"], ["bini"], [], ["Gabor Csupo"], ["Josh Hutcherson", "AnnaSophia Robb", "Zooey Deschanel", "Bailee Madison"], "http://40.media.tumblr.com/52f1c5ef8620ef3043c42c3dce1d5fb5/tumblr_nl6wmnrheq1rcb0d2o3_1280.jpg"],
 	        
@@ -878,7 +878,7 @@ var database = [
 	        
 ["film", ["Come Out and Play", "Come Out and Play - Kinder des Todes"], "2012", ["2016 08 31"], 4, ["ger"], ["horror"], [], [], ["Makinov"], [], "https://68.media.tumblr.com/44f485550d069bff8f3a9d24d62ca59c/tumblr_ocw13mFiRD1v2s5upo1_250.jpg"],
 	        
-["film", ["Jane Eyre"], "2011", ["2016 08 29"], 6, ["ger"], ["drama", "romance"], [], [], ["Cary Joji Fukunaga"], ["Mia Wasikowska", "Sally Hawkins", "Simon McBurney", "Judi Dench", "Michael Fassbender"], "https://68.media.tumblr.com/c1d3cf9a743e40ea158b0c8cd87e2588/tumblr_ocoertqVvM1v2s5upo1_250.jpg"],
+["film", ["Jane Eyre"], "2011", ["2016 08 29"], 6, ["ger"], ["drama", "romance"], [], [], ["Cary Joji Fukunaga"], ["Mia Wasikowska", "Sally Hawkins", "Simon McBurney", "Judi Dench", "Michael Fassbender", "Jamie Bell"], "https://68.media.tumblr.com/c1d3cf9a743e40ea158b0c8cd87e2588/tumblr_ocoertqVvM1v2s5upo1_250.jpg"],
 	        
 ["film", ["How I Live Now"], "2013", ["2016 08 28"], 9, ["ger"], ["romance", "sci-fi", "war"], [], [], ["Kevin Macdonald"], ["Saoirse Ronan", "Tom Holland", "George MacKay"], "https://68.media.tumblr.com/b59ca86a6fe971bc23438f35d30a1783/tumblr_ocmgz37wr41v2s5upo1_250.jpg"],
 	        
@@ -922,7 +922,7 @@ var database = [
 	        
 ["short", ["Mara & Chen"], "2016", ["2016 06 09"], 5, ["eng"], ["action", "comedy"], [], [], ["Shawna Howson"], ["Shawna Howson"], "https://68.media.tumblr.com/6d0fefc5389726bdd4a4f102698bed06/tumblr_o8ijlhIRsl1v2s5upo1_250.jpg"],
 	        
-["film", ["Chronicle", "Chronicle - Wozu bist du fähig?"], "2012", ["2016 05 31", "2017 08 21"], 8, ["ger"], ["drama", "sci-fi"], ["bini"], [], ["Josh Trank"], ["Dane DeHaan", "Michael Kelly"], "https://66.media.tumblr.com/efb2369a7db1ef6c490302c4bc58ff7d/tumblr_o81un96nwU1v2s5upo1_250.jpg"],
+["film", ["Chronicle", "Chronicle - Wozu bist du fähig?"], "2012", ["2016 05 31", "2017 08 21"], 8, ["ger"], ["drama", "sci-fi"], ["bini"], [], ["Josh Trank"], ["Dane DeHaan", "Michael Kelly", "Michael B. Jordan"], "https://66.media.tumblr.com/efb2369a7db1ef6c490302c4bc58ff7d/tumblr_o81un96nwU1v2s5upo1_250.jpg"],
 	        
 ["film", ["Return to Nim's Island", "Die Rückkehr zur Insel der Abenteuer"], "2013", ["2016 05 29"], 4, ["ger"], ["adventure", "family"], [], [], ["Brendan Maher"], ["Bindi Irwin", "Toby Wallace"], "https://66.media.tumblr.com/a3915284b36d4cb24840fb33f52e5627/tumblr_o7y03q9Hm11v2s5upo1_250.jpg"],
 	        
@@ -1160,7 +1160,7 @@ var database = [
 	        
 ["film", ["Iron Man Three", "Iron Man 3"], "2013", ["2016 03 28", ["2021 12 07", "2021 12 08"]], 9, ["ger"], ["action", "adventure"], ["je"], ["Marvel", "Avengers", "Netflix"], ["Shane Black"], ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Ben Kingsley", "James Badge Dale", "Stan Lee", "Mark Ruffalo", "Jenna Ortega", "Rebecca Hall", "Shaun Toub"], "https://49.media.tumblr.com/c864b3a35eab7507f075ec58e6ebac0e/tumblr_o4ririDQ7k1v2s5upo1_250.jpg"],
 	        
-["film", ["The Incredible Hulk", "Der unglaubliche Hulk"], "2008", ["2016 03 28"], 6, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Louis Leterrier"], ["Edward Norton", "Ty Burrell", "Robert Downey Jr.", "Stan Lee"], "https://40.media.tumblr.com/aa18fbc04b06b5a539d26518bfe21a27/tumblr_o4rq5d438j1v2s5upo1_250.jpg"],
+["film", ["The Incredible Hulk", "Der unglaubliche Hulk"], "2008", ["2016 03 28"], 6, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Louis Leterrier"], ["Edward Norton", "Ty Burrell", "Robert Downey Jr.", "Stan Lee", "Tim Blake Nelson"], "https://40.media.tumblr.com/aa18fbc04b06b5a539d26518bfe21a27/tumblr_o4rq5d438j1v2s5upo1_250.jpg"],
 	        
 ["film", ["Thor"], "2011", ["2016 03 29"], 7, ["ger"], ["action", "adventure"], ["bini"], ["Marvel", "Avengers"], ["Kenneth Branagh"], ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Anthony Hopkins", "Kat Dennings", "Clark Gregg", "Stan Lee", "Samuel L. Jackson", "Jeremy Renner", "Ray Stevenson", "Stellan Skarsgård", "Tadanobu Asano"], "https://49.media.tumblr.com/fd9020e7fe419b7fbe02f78f08454657/tumblr_o4srz0TS7k1v2s5upo1_250.jpg"],
 	        
@@ -1448,7 +1448,7 @@ var database = [
 	        
 ["film", ["Neighbors", "Bad Neighbors"], "2014", ["2016 05 16"], 6, ["ger"], ["comedy"], ["bini", "nico"], [], ["Nicholas Stoller"], ["Seth Rogen", "Rose Byrne", "Zac Efron", "Dave Franco", "Halston Sage", "Christopher Mintz-Plasse", "Jake Johnson", "Ike Barinholtz", "Hannibal Buress"], "https://68.media.tumblr.com/e6fc6fa6313076ac4eb4ae6a16b5ba57/tumblr_o7a00dR6lX1v2s5upo1_250.jpg"],
 	        
-["film", ["Divergent", "Die Bestimmung - Divergent"], "2014", ["2016 05 14"], 7, ["ger"], ["action", "adventure"], [], ["Divergent"], ["Neil Burger"], ["Shailene Woodley", "Ansel Elgort", "Ray Stevenson", "Maggie Q", "Jai Courtney"], "https://68.media.tumblr.com/5b1ddf86ce07ab2e01dc47a8a3c48d27/tumblr_o76acxxLVg1v2s5upo1_250.jpg"],
+["film", ["Divergent", "Die Bestimmung - Divergent"], "2014", ["2016 05 14"], 7, ["ger"], ["action", "adventure"], [], ["Divergent"], ["Neil Burger"], ["Shailene Woodley", "Ansel Elgort", "Ray Stevenson", "Maggie Q", "Jai Courtney", "Miles Teller"], "https://68.media.tumblr.com/5b1ddf86ce07ab2e01dc47a8a3c48d27/tumblr_o76acxxLVg1v2s5upo1_250.jpg"],
 	        
 ["film", ["Angels of Sex", "The Sex of Angels", "El sexo de los ángeles"], "2012", ["2016 05 14"], 8, ["eng"], ["drama", "romance"], [], ["LGBT"], ["Xavier Villaverde"], ["Astrid Bergès-Frisbey"], "https://66.media.tumblr.com/41cf57b607cdaa52fbf9ea602251f397/tumblr_o768kbs4zP1v2s5upo1_250.jpg"],
 	        
@@ -1906,7 +1906,7 @@ var database = [
 
 ["book", ["The Body", "Die Leiche"], "1982", [["2021 10 01", "2021 10 14"]], 8, ["eng"], ["adventure"], [], [], ["Stephen King"], [], "https://64.media.tumblr.com/507263dc3c894888a0dac0a8b727d9d3/146ac14c5cb4805b-42/s250x400/caafc7957f3578b091d39d5167afe6f5330011ae.jpg"],
 
-["film", ["Snowpiercer"], "2013", ["2021 10 02"], 2, ["ger"], ["action", "drama"], ["bini", "mai"], ["Netflix"], ["Bong Joon Ho"], ["Chris Evans", "Kang-ho Song", "Ed Harris", "Tilda Swinton"], "https://64.media.tumblr.com/77ed0e43de6cabb9b6b2bf2ed5bb9ed1/415c46edfeef99e8-a5/s250x400/69e039c373347357c25b19b8e67c306fcf31bb5e.jpg"],
+["film", ["Snowpiercer"], "2013", ["2021 10 02"], 2, ["ger"], ["action", "drama"], ["bini", "mai"], ["Netflix"], ["Bong Joon Ho"], ["Chris Evans", "Kang-ho Song", "Ed Harris", "Tilda Swinton", "Jamie Bell"], "https://64.media.tumblr.com/77ed0e43de6cabb9b6b2bf2ed5bb9ed1/415c46edfeef99e8-a5/s250x400/69e039c373347357c25b19b8e67c306fcf31bb5e.jpg"],
 
 ["film", ["The Nutcracker and the Four Realms", "Der Nussknacker und die vier Reiche"], "2018", ["2021 10 04"], 4, ["ger"], ["adventure", "family"], [], ["Disney+"], ["Lasse Hallström", "Joe Johnston"], ["Mackenzie Foy", "Morgan Freeman", "Helen Mirren", "Keira Knightley", "Jack Whitehall"], "https://64.media.tumblr.com/36c820f004865c4667025bf0e63bce9f/00b16b7657da95e7-d6/s250x400/078d9e39e7057daf5783a1a198580396a7357725.jpg"],
 
@@ -2253,7 +2253,7 @@ var database = [
 
 ["film", ["Barbie: Fairytopia"], "2005", ["2022 06 06"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Walter P. Martishius", "William Lau"], [], "https://64.media.tumblr.com/e344f6008162a127bc928efe5679d2dd/814a2e186700ddcd-e5/s250x400/a29fceb62f7dc678c4ff4ad1878c01124474ae20.jpg"],
 
-["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"],
+["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon", "Miles Teller"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"],
 
 ["series", ["First Kill"], ["2022", ""], [["2022 06 15", "2022 06 23", "S1"]], 5, ["ger"], ["drama", "horror"], [], ["ongoing", "Netflix", "LGBT"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"],
 
@@ -2329,13 +2329,19 @@ var database = [
 
 ["film", ["A Bug's Life", "Das große Krabbeln"], "1998", ["2022 07 31"], 5, ["ger"], ["animation", "adventure"], [], ["Disney+"], ["John Lasseter", "Andrew Stanton"], [], "https://64.media.tumblr.com/5e589366d1425845fbbb9441f874597a/72c7db779a56b5db-44/s250x400/6c7a15af865660bd371f20bffd5d347afffd7043.jpg"],
 
-["film", ["Minority Report"], "2002", ["2022 08 01"], 6, ["ger"], ["action", "crime"], [], ["Netflix"], ["Steven Spielberg"], ["Tom Cruise", "Max von Sydow", "Jessica Capshaw", "Peter Stormare"], "https://64.media.tumblr.com/b58c461a00ff5953bbf6c1a916166d56/9e54af70e1d7e586-47/s250x400/ef455ce5678e330de5ad7a6d29cfdbf92c998597.jpg"],
+["film", ["Minority Report"], "2002", ["2022 08 01"], 6, ["ger"], ["action", "crime"], [], ["Netflix"], ["Steven Spielberg"], ["Tom Cruise", "Max von Sydow", "Jessica Capshaw", "Peter Stormare", "Tim Blake Nelson"], "https://64.media.tumblr.com/b58c461a00ff5953bbf6c1a916166d56/9e54af70e1d7e586-47/s250x400/ef455ce5678e330de5ad7a6d29cfdbf92c998597.jpg"],
 
 ["film", ["The Italian Job", "The Italian Job - Jagd auf Millionen"], "2003", ["2022 08 01"], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["F. Gary Gray"], ["Mark Wahlberg", "Charlize Theron", "Donald Sutherland", "Edward Norton"], "https://64.media.tumblr.com/39836f80ba8b55cc13f6fb749390ec8c/54e6bac5fe283f50-ad/s250x400/5a68a3fb217fc1568f8325313ae9fbc81e8391b9.jpg"],
 
 ["film", ["Turning Red", "Rot"], "2022", ["2022 08 01"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl"], ["Disney+"], ["Domee Shi"], [], "https://64.media.tumblr.com/455c642f339aaf38215ad334054d8c4b/454a4340d4d2d671-28/s250x400/b19aa66857ac32e59a77f5b47683dbaa22fc2286.jpg"],
 
-["film", ["Freche Mädchen 2"], "2010", ["2022 08 02"], 0, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel", "Anke Engelke"], "https://64.media.tumblr.com/4426bcb3a3e341d055d9d7a72cf1d10b/286d77f0c07a7261-6a/s250x400/1afcf23b6b986b7865e97edac5f168faa8a5a888.jpg"]
+["film", ["Freche Mädchen 2"], "2010", ["2022 08 02"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel", "Anke Engelke"], "https://64.media.tumblr.com/4426bcb3a3e341d055d9d7a72cf1d10b/286d77f0c07a7261-6a/s250x400/1afcf23b6b986b7865e97edac5f168faa8a5a888.jpg"],
+
+["film", ["Encanto"], "2021", ["2022 08 02"], 9, ["ger"], ["animation", "comedy"], [], ["Disney+"], ["Jared Bush", "Byron Howard", "Charise Castro Smith"], [], "https://64.media.tumblr.com/5f9c13c7445e01de7b382aaae6a31921/4495bb7c932a9f0b-36/s250x400/d129a608a68b4bda3d6ea00d784810ff186f3b04.jpg"],
+
+["film", ["Weathering With You", "Weathering With You - Das Mädchen, das die Sonne berührte", "Tenki no ko"], "2019", ["2022 08 02"], 7, ["ger"], ["anime", "drama"], ["bini", "nico"], ["Netflix"], ["Makoto Shinkai"], [], "https://64.media.tumblr.com/e6e1e85e1f5cc156bc0d9aac743f2b5d/ebd7bb6941348b39-54/s250x400/0d4ad9cfafaaade7bddc118598a88c9dec880be2.jpg"],
+
+["film", ["Fantastic Four"], "2015", ["2022 08 03"], 0, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Josh Trank", "Stephen E. Rivkin"], ["Miles Teller", "Michael B. Jordan", "Kate Mara", "Jamie Bell", "Tim Blake Nelson"], "https://64.media.tumblr.com/2f2f2c9ea8280921bc601d2548272953/4dcf1b234a9ba9c8-9d/s250x400/25cde492210a031331ef9907d74f89188f2b2eb1.jpg"]
 
 	
 /*
