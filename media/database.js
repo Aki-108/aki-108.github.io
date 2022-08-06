@@ -129,7 +129,7 @@ var database = [
 	        
 ["book", ["Of Mice and Men", "Von Mäusen und Menschen"], "1937", [["2016 06 20", "2016 07 12"], ["2021 06 04", "2021 06 17"]], 8, ["ger"], [], [], [], ["John Steinbeck"], [], "https://66.media.tumblr.com/2c9eca143441603db2a66aeed3674496/tumblr_odcl9l8fY51v2s5upo2_r1_250.jpg"],
 	        
-["audiobook", ["At the Mountains of Madness", "Berge des Wahnsinns"], "1931", [["2016 08 22", "2016 09 08"], ["2018 01 04", "2018 02 04"], ["2022 07 31", "2022 08 01"]], 10, ["ger"], [], [], ["fav"], ["H. P. Lovecraft"], [], "https://66.media.tumblr.com/d469a2f9e1a1e32f297e6265ece473fc/tumblr_odcjbtcCGk1v2s5upo2_r1_250.jpg"],
+["audiobook", ["At the Mountains of Madness", "Berge des Wahnsinns"], "1931", [["2016 08 22", "2016 09 08"], ["2018 01 04", "2018 02 04"], ["2022 07 31", "2022 08 01"]], 10, ["ger"], [], [], ["fav"], ["H. P. Lovecraft"], ["David Nathan"], "https://66.media.tumblr.com/d469a2f9e1a1e32f297e6265ece473fc/tumblr_odcjbtcCGk1v2s5upo2_r1_250.jpg"],
 	        
 ["audiobook", ["Demian: The Story of Emil Sinclair's Youth", "Demian. Die Geschichte einer Jugend"], "1919", [["2016 09 09", "2016 09 12"]], 5, ["ger"], [], [], [], ["Hermann Hesse"], [], "https://66.media.tumblr.com/9647d80e3f06bf5feb58d879e3b623eb/tumblr_ode22dK9Oo1v2s5upo2_r1_250.jpg"],
 	        
@@ -2347,7 +2347,13 @@ var database = [
 
 ["film", ["The King's Man"], "2021", [["2022 08 03", "2022 08 05"]], 6, ["ger"], ["action", "adventure"], ["syl"], ["Disney+"], ["Matthew Vaughn"], ["Djimon Hounsou", "Daniel Brühl", "Stanley Tucci", "Ralph Fiennes", "Matthew Goode"], "https://64.media.tumblr.com/9dd0fbf74035e880b51f58b8d5b5428d/fd12193843615954-21/s250x400/26ae7e753d9455b229230273372a1740f9923a7b.jpg"],
 
-["audiobook", ["The Scarecrow of Oz", "Die Vogelscheuche von Oz"], "1915", [["2022 08 03", ""]], 0, ["eng"], [], [], ["LibriVox", "watching"], ["L. Frank Baum"], [], "https://64.media.tumblr.com/ac1c974bedc91e497a918afb6d0aaf28/c73d498d6958fd33-44/s250x400/0b7dbc3a7a93d0b2663af514fcce5e0b796516be.jpg"]
+["audiobook", ["The Scarecrow of Oz", "Die Vogelscheuche von Oz"], "1915", [["2022 08 03", ""]], 0, ["eng"], [], [], ["Oz", "LibriVox", "watching"], ["L. Frank Baum"], ["Abigail & Adam Flach", "Robert Flach", "Allyson Hester", "Jamie Wilking", "Kirsten Ferreri", "Chip Joel", "Ezwa", "Claire Goget", "Henry Frigon", "Hugh McGuire", "Stephanie König", "Mark F. Smith", "Kevin McAsh", "Ken Crooker", "Laura Brodrick", "Ada Kerman", "Michael Yard", "Lizzie Driver", "Saul", "Jason Isbell", "Susie G.", "Talia Fishman"], "https://64.media.tumblr.com/ac1c974bedc91e497a918afb6d0aaf28/c73d498d6958fd33-44/s250x400/0b7dbc3a7a93d0b2663af514fcce5e0b796516be.jpg"],
+
+["film", ["The Highwaymen"], "2019", ["2022 08 04"], 7, ["ger"], ["biography", "crime"], [], ["Netflix"], ["John Lee Hancock"], ["Woody Harrelson", "John Carroll Lynch", "Thomas Mann", "Kim Dickens"], "https://64.media.tumblr.com/53e8559fb4f2f8e8a30b6d76ec2e860f/e86a3b2fc061ef5d-6e/s250x400/4a2a064a65a0c8a0e2f02b056e6dc5f3723738ef.jpg"],
+
+["film", ["Bruder vor Luder"], "2015", ["2022 08 04"], 4, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Tomas Erhart", "Heiko Lochmann", "Roman Lochmann"], ["Axel Stein"], "https://64.media.tumblr.com/d8ccda001bad8de850e5cc3efb3f5829/e486b33a47553893-8c/s250x400/1f73464ca8823f5683b2cf2a05b00584f7b7b75d.jpg"],
+
+["film", ["The Adam Project"], "2022", ["2022 08 05"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Shawn Levy"], ["Ryan Reynolds", "Mark Ruffalo", "Jennifer Garner", "Zoe Saldana"], "https://64.media.tumblr.com/2ed029bf80258de07c6f966ab364cdc5/cac206cfe81fb7d2-9a/s250x400/65881d61670bfcd23165c2c2b4989a0b0af02169.jpg"]
 
 	
 /*
