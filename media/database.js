@@ -1192,7 +1192,7 @@ var database = [
 	        
 ["film", ["Glass"], "2019", ["2019 02 23", "2020 09 30"], 8, ["ger"], ["drama"], ["syl", "bini", "je"], ["Eastrail 177", "Kino", "DVD"], ["M. Night Shyamalan"], ["James McAvoy", "Bruce Willis", "Anya Taylor-Joy", "Sarah Paulson", "Spencer Treat Clark", "Samuel L. Jackson"], "https://66.media.tumblr.com/f3ee0e01ef65a7cb2b71e714510c00da/105064cff59d6cef-73/s250x400/91ab466e6818b14eada3f585717c3f411619d591.jpg"],
 	        
-["audiobook", ["Little Women"], "1868", [["2020 10 05", "2020 10 21"]], 9, ["eng"], [], [], ["Little Women", "March-Trilogie"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/898f2fcc7489dafce9b4bad176a822d2/6431d3cb351f91f9-f0/s250x400/3bcaa864990fd0e56da4353db71c930d8d952496.jpg"],
+["audiobook", ["Little Women"], "1868", [["2020 10 05", "2020 10 21"]], 9, ["eng"], [], [], ["March-Trilogie"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/898f2fcc7489dafce9b4bad176a822d2/6431d3cb351f91f9-f0/s250x400/3bcaa864990fd0e56da4353db71c930d8d952496.jpg"],
 	        
 ["book", ["Night School: Legacy"], "2013", [["2020 09 04", "2020 11 14"]], 8, ["eng"], ["young adult", "mystery", "romance"], [], ["Night School"], ["CJ Daugherty"], [], "https://64.media.tumblr.com/fc69578e397f3a7dc5c75060f04d60e6/c09d64f12fa351b2-f8/s250x400/61fd6b4031fa085f2663b86c0ea222d8aaaff442.jpg"],
 	        
@@ -2245,7 +2245,7 @@ var database = [
 
 ["film", ["Detective Conan 24: The Bride of Halloween", "Detektiv Conan 24: Die Braut von Halloween"], "2022", ["2022 05 31"], 7, ["ger"], ["anime", "action"], ["bini", "jessie"], ["Conan", "Kino"], ["Gosho Aoyama"], [], "https://64.media.tumblr.com/43ef2e95c848adcda15b8dae3b936f4b/d6cbbfef6cb475ef-81/s250x400/66157fc6d41342261948178fc66af3a60bc824bf.jpg"],
 
-["film", ["La La Land"], "2016", [["2022 06 01", "2022 06 02"]], 6, ["ger"], ["comedy", "drama", "music"], [], ["biliothek"], ["Damien Chazelle"], ["Ryan Gosling", "Emma Stone", "J.K. Simmons"], "https://64.media.tumblr.com/14db978cac7fe5d50c13b9a94562f9df/fbbd13374e35ee6c-42/s250x400/9dd4d737c85ab468ed1008d07f509b766471e1de.jpg"],
+["film", ["La La Land"], "2016", [["2022 06 01", "2022 06 02"]], 6, ["ger"], ["comedy", "drama", "music"], [], ["bibliothek"], ["Damien Chazelle"], ["Ryan Gosling", "Emma Stone", "J.K. Simmons"], "https://64.media.tumblr.com/14db978cac7fe5d50c13b9a94562f9df/fbbd13374e35ee6c-42/s250x400/9dd4d737c85ab468ed1008d07f509b766471e1de.jpg"],
 
 ["film", ["Barbie and the Diamond Castle", "Barbie und das Diamantschloss"], "2008", ["2022 06 02"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Gino Nichele"], [], "https://64.media.tumblr.com/22bfe2c4377ae7244dee4917f3674765/73270d5b316f6f5d-77/s250x400/9bcfec3f04de7b246f8e18edab51b921287970f8.jpg"],
 
