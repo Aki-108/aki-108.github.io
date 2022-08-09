@@ -2353,7 +2353,9 @@ var database = [
 
 ["film", ["Bruder vor Luder"], "2015", ["2022 08 04"], 4, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Tomas Erhart", "Heiko Lochmann", "Roman Lochmann"], ["Axel Stein"], "https://64.media.tumblr.com/d8ccda001bad8de850e5cc3efb3f5829/e486b33a47553893-8c/s250x400/1f73464ca8823f5683b2cf2a05b00584f7b7b75d.jpg"],
 
-["film", ["The Adam Project"], "2022", ["2022 08 05"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Shawn Levy"], ["Ryan Reynolds", "Mark Ruffalo", "Jennifer Garner", "Zoe Saldana"], "https://64.media.tumblr.com/2ed029bf80258de07c6f966ab364cdc5/cac206cfe81fb7d2-9a/s250x400/65881d61670bfcd23165c2c2b4989a0b0af02169.jpg"]
+["film", ["The Adam Project"], "2022", ["2022 08 05"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Shawn Levy"], ["Ryan Reynolds", "Mark Ruffalo", "Jennifer Garner", "Zoe Saldana"], "https://64.media.tumblr.com/2ed029bf80258de07c6f966ab364cdc5/cac206cfe81fb7d2-9a/s250x400/65881d61670bfcd23165c2c2b4989a0b0af02169.jpg"],
+
+["sries", ["Heirs of the Night", "Die Erben der Nacht"], ["2019", ""], [["2022 08 08", "", "S1"]], 0, ["ger"], ["fantasy", "horror"], [], ["Disney+", "ongoing", "watching"], ["Diederik Van Rooijen"], [], "https://64.media.tumblr.com/105150de39114a96c29cbcb3851954c0/7765bfae6eb4a1ec-e1/s250x400/c0fbd6047dbb2dbdb92bb423b52ba31279c6b144.jpg"]
 
 	
 /*
