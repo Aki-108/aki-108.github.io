@@ -610,7 +610,7 @@ var database = [
 	        
 ["film", ["Tall Girl", "Wie Jodi über sich hinauswuchs"], "2019", ["2019 09 14", "2020 08 16"], 7, ["ger"], ["comedy", "drama"], ["syl", "bini"], ["Netflix"], ["Nzingha Stewart"], ["Ava Michelle", "Sabrina Carpenter", "Paris Berelc", "Steve Zahn", "Griffin Gluck", "Rico Paris"], "https://66.media.tumblr.com/d3fbcb8643059f746e3689ffe685cfa6/2ad3b0f691c1dcbf-8a/s250x400/9ed24ca38ebc71186b19f0c1554e23dfa1fc307a.jpg"],
 	        
-["film", ["The Dark Tower", "Der Dunkle Turm"], "2017", ["2019 07 16"], 4, ["ger"], ["action", "adventure"], ["nico"], ["Dark Tower", "Netflix"], ["Nikolaj Arcel"], ["Matthew McConaughey", "Idris Elba", "Claudia Kim", "Jackie Earle Haley", "Abbey Lee", "Katheryn Winnick"], "https://66.media.tumblr.com/2717e0e9fcbcba95671053401df4a244/33834b775e3b9f2f-0c/s250x400/697e435d5346a24b31eefc99498863b4a4e4b208.jpg"],
+["film", ["The Dark Tower", "Der Dunkle Turm"], "2017", ["2019 07 16"], 4, ["ger"], ["action", "adventure"], ["nico"], ["Dark Tower", "Netflix"], ["Nikolaj Arcel"], ["Matthew McConaughey", "Idris Elba", "Claudia Kim", "Jackie Earle Haley", "Abbey Lee", "Katheryn Winnick", "Fran Kranz"], "https://66.media.tumblr.com/2717e0e9fcbcba95671053401df4a244/33834b775e3b9f2f-0c/s250x400/697e435d5346a24b31eefc99498863b4a4e4b208.jpg"],
 	        
 ["film", ["Five Feet Apart", "Drei Schritte zu dir"], "2019", ["2019 07 07"], 8, ["ger"], ["drama", "romance"], ["syl"], ["Kino"], ["Justin Baldoni"], ["Haley Lu Richardson", "Ariana Guerra", "Moises Arias"], "https://66.media.tumblr.com/9a0b9f9be370c06d273db093f9ce7e81/ca58850e02f4cfa4-99/s250x400/778f94e4fd66b54b3facc5c5b8bddb5883bacdde.jpg"],
 	        
@@ -1112,7 +1112,7 @@ var database = [
 	        
 ["film", ["Happy New Year", "Happy New Year - Herzensdiebe"], "2014", ["2015 10 25"], 4, ["ger"], ["action", "comedy", "bollywood", "music"], ["bini"], [], ["Farah Khan"], ["Shah Rukh Khan"], "https://66.media.tumblr.com/c1f84054992fbd681072778a2f35c657/tumblr_pwko56FXy31v2s5upo1_250.jpg"],
 	        
-["film", ["Signs", "Signs - Zeichen"], "2002", ["2015 10 28"], 1, ["ger"], ["drama", "mystery"], [], [], ["M. Night Shyamalan"], ["Abigail Breslin"], "https://66.media.tumblr.com/9c14f12fbc6adb2065a42ee3855c7b51/tumblr_pwkoaywx8n1v2s5upo1_250.jpg"],
+["film", ["Signs", "Signs - Zeichen"], "2002", ["2015 10 28"], 1, ["ger"], ["drama", "mystery"], [], [], ["M. Night Shyamalan"], ["Abigail Breslin", "Joaquin Phoenix", "Cherry Jones"], "https://66.media.tumblr.com/9c14f12fbc6adb2065a42ee3855c7b51/tumblr_pwkoaywx8n1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Illusionist", "The Illusionist - Nichts ist wie es scheint"], "2006", ["2015 10 29"], 7, ["ger"], ["drama", "fantasy"], [], [], ["Neil Burger"], ["Edward Norton", "Paul Giamatti"], "https://66.media.tumblr.com/a49e9f17f896342ec02e98b44587a3b3/tumblr_pwopp8zpV21v2s5upo1_250.jpg"],
 	        
@@ -1244,7 +1244,7 @@ var database = [
 	        
 ["film", ["Eternal Sunshine of the Spotless Mind", "Vergiss mein nicht"], "2004", ["2016 01 09"], 5, ["ger"], ["drama", "romance"], [], [], ["Michel Gondry"], ["Jim Carrey", "Elijah Wood", "Mark Ruffalo", "Kirsten Dunst", "David Cross", "Tom Wilkinson"], "https://37.media.tumblr.com/d371732634e0cc95062c3334342f1ef6/tumblr_o0p8m8QQo61v2s5upo1_250.jpg"],
 	        
-["film", ["Walk the Line"], "2005", ["2016 01 12", "2016 11 22"], 8, ["ger"], ["drama", "biography", "music"], [], [], ["James Mangold"], ["Reese Witherspoon", "Sandra Ellis Lafferty", "Rhoda Griffis", "Kerris Dorsey"], "https://49.media.tumblr.com/32dd2ca4acef9d612c5c483155af3959/tumblr_o0weanHCtx1v2s5upo1_250.jpg"],
+["film", ["Walk the Line"], "2005", ["2016 01 12", "2016 11 22"], 8, ["ger"], ["drama", "biography", "music"], [], [], ["James Mangold"], ["Reese Witherspoon", "Sandra Ellis Lafferty", "Rhoda Griffis", "Kerris Dorsey", "Joaquin Phoenix"], "https://49.media.tumblr.com/32dd2ca4acef9d612c5c483155af3959/tumblr_o0weanHCtx1v2s5upo1_250.jpg"],
 	        
 ["film", ["Crouching Tiger, Hidden Dragon", "Tiger & Dragon", "Wo hu cang long"], "2000", ["2016 01 17"], 6, ["ger"], ["action", "adventure"], [], [], ["Ang Lee"], ["Ziyi Zhang"], "https://49.media.tumblr.com/29dcb9d9ecff20273762c3061405d32a/tumblr_o147difiGI1v2s5upo1_250.jpg"],
 	        
@@ -1472,7 +1472,7 @@ var database = [
 	        
 ["film", ["Ocean's Eleven"], "2001", ["2016 02 04"], 7, ["ger"], ["crime", "thriller"], [], ["Ocean's"], ["Steven Soderbergh"], ["George Clooney", "Bernie Mac", "Brad Pitt", "Matt Damon", "Julia Roberts", "Don Cheadle"], "https://49.media.tumblr.com/1811709df5b6221319bdcada72df6b3a/tumblr_o21hgqinxh1v2s5upo1_250.jpg"],
 	        
-["film", ["Ocean's Twelve"], "2004", ["2016 02 04"], 7, ["ger"], ["crime", "thriller"], [], ["Ocean's"], ["Steven Soderbergh"], ["Brad Pitt", "George Clooney", "Julia Roberts", "Bernie Mac", "Don Cheadle", "Jared Harris", "Matt Damon", "Bruce Willis"], "https://40.media.tumblr.com/2531d637ad743bbba5177ba59889c334/tumblr_o21hjmuplI1v2s5upo1_250.jpg"],
+["film", ["Ocean's Twelve"], "2004", ["2016 02 04"], 7, ["ger"], ["crime", "thriller"], [], ["Ocean's"], ["Steven Soderbergh"], ["Brad Pitt", "George Clooney", "Julia Roberts", "Bernie Mac", "Don Cheadle", "Jared Harris", "Matt Damon", "Bruce Willis", "Cherry Jones"], "https://40.media.tumblr.com/2531d637ad743bbba5177ba59889c334/tumblr_o21hjmuplI1v2s5upo1_250.jpg"],
 	        
 ["film", ["Ocean's Thirteen", "Ocean's 13"], "2007", ["2016 02 06"], 7, ["ger"], ["action", "crime"], [], ["Ocean's"], ["Steven Soderbergh"], ["George Clooney", "Brad Pitt", "Matt Damon", "Don Cheadle", "Bernie Mac", "Joe Chrest"], "https://49.media.tumblr.com/c8c5ad3dfafd2f2b605241b993cdb55f/tumblr_o2aq5llQgm1v2s5upo1_250.jpg"],
 	        
@@ -2311,7 +2311,7 @@ var database = [
 
 ["series", ["This Art Club Has a Problem!", "This Art Club Has a Problem!", "Kono Bijutsubu ni wa Mondai ga Aru!"], "2016", [["2022 07 26", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Naruhisa Arakawa"], [], "https://64.media.tumblr.com/fb082eab0ede5084a1255a6b3068f4c7/702040a97ac8e493-6b/s250x400/0ae4fc8e97e0be2ff3b38a638e5aaa578ada92e4.jpg"],
 
-["series", ["Alexa & Katie"], ["2018", "2020"], [["2022 07 28", "2022 08 10", "S1"], ["2022 08 10", "", "S2"]], 6, ["ger"], ["comedy", "drama"], [], ["watching", "Netflix"], ["Heather Wordham"], ["Eddie Shin", "Kerri Medders"], "https://64.media.tumblr.com/3523d6c555974fa7204b5415c6ff875f/7e918a340ca5dfb1-25/s250x400/f466cff809df87ba6fab4114501c18f21b084765.jpg"],
+["series", ["Alexa & Katie"], ["2018", "2020"], [["2022 07 28", "2022 08 10", "S1"], ["2022 08 10", "2022 08 11", "S2"]], 6, ["ger"], ["comedy", "drama"], [], ["watching", "Netflix"], ["Heather Wordham"], ["Eddie Shin", "Kerri Medders", "Ricky Garcia"], "https://64.media.tumblr.com/3523d6c555974fa7204b5415c6ff875f/7e918a340ca5dfb1-25/s250x400/f466cff809df87ba6fab4114501c18f21b084765.jpg"],
 
 ["film", ["Murder on the Orient Express", "Mord im Orient-Express"], "2017", ["2022 07 28"], 6, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh", "Johnny Depp", "Lucy Boynton", "Marwan Kenzari", "Michelle Pfeiffer", "Judi Dench", "Willem Dafoe", "Leslie Odom Jr.", "Tom Bateman", "Penélope Cruz", "Hayat Kamille"], "https://64.media.tumblr.com/9098c2a907b25102c1ce4edcea5fb149/98061f95a99e5123-d6/s250x400/39314062321bd07948053cbed8513c02e961d8c7.jpg"],
 
@@ -2357,7 +2357,9 @@ var database = [
 
 ["sries", ["Heirs of the Night", "Die Erben der Nacht"], ["2019", ""], [["2022 08 08", "", "S1"]], 0, ["ger"], ["fantasy", "horror"], [], ["Disney+", "ongoing", "watching"], ["Diederik Van Rooijen"], [], "https://64.media.tumblr.com/105150de39114a96c29cbcb3851954c0/7765bfae6eb4a1ec-e1/s250x400/c0fbd6047dbb2dbdb92bb423b52ba31279c6b144.jpg"],
 
-["film", ["Middle School: The Worst Years of My Life", "School Survival: Die schlimmsten Jahre meines Lebens"], "2016", ["2022 08 09"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Steve Carr"], ["Griffin Gluck", "Lauren Graham"], "https://64.media.tumblr.com/0ecfefef94c12761e116eb6b73016acf/3d46f6f3e23949b5-26/s250x400/c104eb3cebe152faa199f9072e253f0e30c9ac60.jpg"]
+["film", ["Middle School: The Worst Years of My Life", "School Survival: Die schlimmsten Jahre meines Lebens"], "2016", ["2022 08 09"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Steve Carr"], ["Griffin Gluck", "Lauren Graham"], "https://64.media.tumblr.com/0ecfefef94c12761e116eb6b73016acf/3d46f6f3e23949b5-26/s250x400/c104eb3cebe152faa199f9072e253f0e30c9ac60.jpg"],
+
+["film", ["The Village", "The Village - Das Dorf"], "2004", ["2022 08 11"], 8, ["ger"], ["drama", "mystery", "thriller", "horror"], [], ["Disney+"], ["M. Night Shyamalan"], ["Bryce Dallas Howard", "Joaquin Phoenix", "Adrien Brody", "Sigourney Weaver", "Brendan Gleeson", "Cherry Jones", "Judy Greer", "Fran Kranz", "Jesse Eisenberg"], "https://64.media.tumblr.com/347c473c43beb5b269fc3db0f8141a85/b1a5697de1a28afe-9d/s250x400/7934131e68cac8d38c565322925e1a266075f434.jpg"]
 
 	
 /*
