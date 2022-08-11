@@ -2265,7 +2265,7 @@ var database = [
 
 ["film", ["Ride the Cyclone"], "2019", ["2022 06 20"], 7, ["eng"], ["musical"], [], [], ["Jacob Richmond", "Brooke Maxwell"], [], "https://64.media.tumblr.com/6fdde99368c6607bb175488e92bd7c9e/b1393f70ec05ffdc-82/s250x400/3a080007052d45177826e1c64d03e2376e7d68bb.jpg"],
 
-["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", ""]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
+["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", "2022 08 07", "C1.1-C6.3"]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "ongoing"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
 
 ["film", ["Badhaai Do"], "2022", [["2022 06 25", "2022 07 01"]], 8, ["hin"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Harshavardhan Kulkarni"], [], "https://64.media.tumblr.com/19e098aca5d66b71f930e075026752cc/f9329bfd238d17a4-06/s250x400/929c766a8486a8cd4766a1759fab59ec27788188.jpg"],
 
@@ -2355,7 +2355,9 @@ var database = [
 
 ["film", ["The Adam Project"], "2022", ["2022 08 05"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Shawn Levy"], ["Ryan Reynolds", "Mark Ruffalo", "Jennifer Garner", "Zoe Saldana"], "https://64.media.tumblr.com/2ed029bf80258de07c6f966ab364cdc5/cac206cfe81fb7d2-9a/s250x400/65881d61670bfcd23165c2c2b4989a0b0af02169.jpg"],
 
-["sries", ["Heirs of the Night", "Die Erben der Nacht"], ["2019", ""], [["2022 08 08", "", "S1"]], 0, ["ger"], ["fantasy", "horror"], [], ["Disney+", "ongoing", "watching"], ["Diederik Van Rooijen"], [], "https://64.media.tumblr.com/105150de39114a96c29cbcb3851954c0/7765bfae6eb4a1ec-e1/s250x400/c0fbd6047dbb2dbdb92bb423b52ba31279c6b144.jpg"]
+["sries", ["Heirs of the Night", "Die Erben der Nacht"], ["2019", ""], [["2022 08 08", "", "S1"]], 0, ["ger"], ["fantasy", "horror"], [], ["Disney+", "ongoing", "watching"], ["Diederik Van Rooijen"], [], "https://64.media.tumblr.com/105150de39114a96c29cbcb3851954c0/7765bfae6eb4a1ec-e1/s250x400/c0fbd6047dbb2dbdb92bb423b52ba31279c6b144.jpg"],
+
+["film", ["Middle School: The Worst Years of My Life", "School Survival: Die schlimmsten Jahre meines Lebens"], "2016", ["2022 08 09"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Steve Carr"], ["Griffin Gluck", "Lauren Graham"], "https://64.media.tumblr.com/0ecfefef94c12761e116eb6b73016acf/3d46f6f3e23949b5-26/s250x400/c104eb3cebe152faa199f9072e253f0e30c9ac60.jpg"]
 
 	
 /*
