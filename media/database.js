@@ -2311,7 +2311,7 @@ var database = [
 
 ["series", ["This Art Club Has a Problem!", "This Art Club Has a Problem!", "Kono Bijutsubu ni wa Mondai ga Aru!"], "2016", [["2022 07 26", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Naruhisa Arakawa"], [], "https://64.media.tumblr.com/fb082eab0ede5084a1255a6b3068f4c7/702040a97ac8e493-6b/s250x400/0ae4fc8e97e0be2ff3b38a638e5aaa578ada92e4.jpg"],
 
-["series", ["Alexa & Katie"], ["2018", "2020"], [["2022 07 28", "2022 08 10", "S1"], ["2022 08 10", "2022 08 11", "S2"]], 6, ["ger"], ["comedy", "drama"], [], ["watching", "Netflix"], ["Heather Wordham"], ["Eddie Shin", "Kerri Medders", "Ricky Garcia"], "https://64.media.tumblr.com/3523d6c555974fa7204b5415c6ff875f/7e918a340ca5dfb1-25/s250x400/f466cff809df87ba6fab4114501c18f21b084765.jpg"],
+["series", ["Alexa & Katie"], ["2018", "2020"], [["2022 07 28", "2022 08 10", "S1"], ["2022 08 10", "2022 08 11", "S2"], ["2022 08 12", "", "S3"]], 6, ["ger"], ["comedy", "drama"], [], ["watching", "Netflix"], ["Heather Wordham"], ["Eddie Shin", "Kerri Medders", "Ricky Garcia"], "https://64.media.tumblr.com/3523d6c555974fa7204b5415c6ff875f/7e918a340ca5dfb1-25/s250x400/f466cff809df87ba6fab4114501c18f21b084765.jpg"],
 
 ["film", ["Murder on the Orient Express", "Mord im Orient-Express"], "2017", ["2022 07 28"], 6, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh", "Johnny Depp", "Lucy Boynton", "Marwan Kenzari", "Michelle Pfeiffer", "Judi Dench", "Willem Dafoe", "Leslie Odom Jr.", "Tom Bateman", "Penélope Cruz", "Hayat Kamille"], "https://64.media.tumblr.com/9098c2a907b25102c1ce4edcea5fb149/98061f95a99e5123-d6/s250x400/39314062321bd07948053cbed8513c02e961d8c7.jpg"],
 
