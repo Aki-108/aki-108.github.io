@@ -371,7 +371,7 @@ var database = [
 	        
 ["series", ["Sense8"], ["2015", "2018"], [["2017 11 22", "2017 12 06", "S1"], ["2021 12 08", "2018 01 08", "S2E1-E11"], ["2018 06 20", "S2E12"]], 10, ["ger"], ["drama", "mystery", "sci-fi"], [], ["Netflix", "LGBT"], ["J. Michael Straczynski", "Lana Wachowski", "Lilly Wachowski"], ["Doona Bae", "Jamie Clayton", "Tina Desai", "Tuppence Middleton", "Miguel Ángel Silvestre", "Brian J. Smith", "Naveen Andrews", "Lucas Jade Zumann", "Adam Shapiro", "Max Riemelt", "Daryl Hannah", "Max Mauff"], "https://66.media.tumblr.com/fe621b191d84e2bbe1aba5ebe2a07f66/09a111a49814a1f3-e9/s250x400/d3d1227dfa741e11309c553ea5b18b6c97ca4d8a.jpg"],
 	        
-["series", ["Dark"], ["2017", "2020"], [["2017 12 22", "2018 01 14", "S1"], ["2019 08 02", "2019 08 19", "S2"]], 9, ["ger"], ["crime", "drama", "sci-fi"], ["bini", "syl"], ["Netflix", "dropped"], ["Baran bo Odar", "Jantje Friese"], ["Lisa Vicari", "Louis Hofmann", "Carina Wiese", "Jördis Triebel"], "https://66.media.tumblr.com/531d646040cf4d9601928b8831aa7245/09369d9c4c925cd5-a5/s250x400/1a50d68dc6061c00c9275c2b1625fed0831e9d47.jpg"],
+["series", ["Dark"], ["2017", "2020"], [["2017 12 22", "2018 01 14", "S1"], ["2019 08 02", "2019 08 19", "S2"]], 9, ["ger"], ["crime", "drama", "sci-fi"], ["bini", "syl"], ["Netflix", "dropped"], ["Baran bo Odar", "Jantje Friese"], ["Lisa Vicari", "Louis Hofmann", "Carina Wiese", "Jördis Triebel", "Oliver Masucci"], "https://66.media.tumblr.com/531d646040cf4d9601928b8831aa7245/09369d9c4c925cd5-a5/s250x400/1a50d68dc6061c00c9275c2b1625fed0831e9d47.jpg"],
 	        
 ["series", ["Atypical"], ["2017", "2021"], [["2017 12 29", "2018 01 01", "S1"], ["2018 09 07", "2018 09 08", "S2"], ["2019 11 01", "2019 11 16", "S3"], ["2020 07 09", "2020 07 16", "S1"], ["2020 07 16", "2020 07 18", "S2"], ["2020 07 18", "2020 07 20", "S3"], ["2021 07 16", "2021 07 28", "S4"]], 8, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Robia Rashid"], ["Keir Gilchrist", "Jennifer Jason Leigh", "Brigette Lundy-Paine", "Michael Rapaport", "Nik Dodani", "Amy Okuda", "Sara Gilbert", "Raúl Castillo"], "https://66.media.tumblr.com/061499d98f1a404ceb3cb290ec08e58c/bdaa33086c3fdc3d-e2/s250x400/57c82fdf9d317f70486282f02a4c7da7925edf67.jpg"],
 	        
@@ -2359,7 +2359,9 @@ var database = [
 
 ["film", ["Middle School: The Worst Years of My Life", "School Survival: Die schlimmsten Jahre meines Lebens"], "2016", ["2022 08 09"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Steve Carr"], ["Griffin Gluck", "Lauren Graham"], "https://64.media.tumblr.com/0ecfefef94c12761e116eb6b73016acf/3d46f6f3e23949b5-26/s250x400/c104eb3cebe152faa199f9072e253f0e30c9ac60.jpg"],
 
-["film", ["The Village", "The Village - Das Dorf"], "2004", ["2022 08 11"], 8, ["ger"], ["drama", "mystery", "thriller", "horror"], [], ["Disney+"], ["M. Night Shyamalan"], ["Bryce Dallas Howard", "Joaquin Phoenix", "Adrien Brody", "Sigourney Weaver", "Brendan Gleeson", "Cherry Jones", "Judy Greer", "Fran Kranz", "Jesse Eisenberg"], "https://64.media.tumblr.com/347c473c43beb5b269fc3db0f8141a85/b1a5697de1a28afe-9d/s250x400/7934131e68cac8d38c565322925e1a266075f434.jpg"]
+["film", ["The Village", "The Village - Das Dorf"], "2004", ["2022 08 11"], 8, ["ger"], ["drama", "mystery", "thriller", "horror"], [], ["Disney+"], ["M. Night Shyamalan"], ["Bryce Dallas Howard", "Joaquin Phoenix", "Adrien Brody", "Sigourney Weaver", "Brendan Gleeson", "Cherry Jones", "Judy Greer", "Fran Kranz", "Jesse Eisenberg"], "https://64.media.tumblr.com/347c473c43beb5b269fc3db0f8141a85/b1a5697de1a28afe-9d/s250x400/7934131e68cac8d38c565322925e1a266075f434.jpg"],
+
+["film", ["Day Shift"], "2022", ["2022 08 12"], 5, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["J.J. Perry"], ["Jamie Foxx", "Dave Franco", "Oliver Masucci", "Snoop Dogg", "Peter Stormare"], "https://64.media.tumblr.com/0e1d7f73af59409d652a71d0ec66d3a3/dfa390d50b720080-69/s250x400/ff99c65b08eeadc8485a79e7d2cead492f54f600.jpg"]
 
 	
 /*
