@@ -7,6 +7,8 @@ var database = [
 	        
 	        */
 	        
+["film", ["Cell", "Puls"], "2016", [""], 0, ["ger"], ["action", "adventure"], [], [], ["Tod Williams"], ["John Cusack", "Samuel L. Jackson", "Isabelle Fuhrman"], "https://64.media.tumblr.com/57b8fe2a760b849677dc4ff69d48ca85/2298f83200c43de1-90/s250x400/2540ec14d6d248cf7e39371253dc00d5ef9e425b.jpg"],
+	        
 ["film", ["Watchmen", "Watchmen: Die Wächter"], "2009", [""], 0, ["ger"], ["action", "drama"], [], [], ["Zack Snyder"], ["Jackie Earle Haley", "Carla Gugino", "Dan Payne", "Kathryn Hahn", "Matthew Goode"], "https://64.media.tumblr.com/4101f6f80a55955a8d0fd95ac0b2125b/2e9a308c13070f84-32/s250x400/1aa2064dd71b23ac8dea2391fa6cff1802edc6c9.jpg"],
 
 ["film", ["Race to Witch Mountain", "Die Jagd zum magischen Berg"], "2009", ["2021 12 16"], 6, ["ger"], ["action", "adventure"], [], [], ["Andy Fickman"], ["Dwayne Johnson", "AnnaSophia Robb", "Alexander Ludwig", "Carla Gugino", "Ciarán Hinds", "Bill Clinton", "Kim Richards", "Ike Eisenmann"], "https://64.media.tumblr.com/a52598667d5ad20820cf180af20c69a8/3e4b29b54dd443af-1e/s250x400/36eefc8c5d161118f934b999b8914a2157dd0ec7.jpg"],
@@ -2311,7 +2313,7 @@ var database = [
 
 ["series", ["This Art Club Has a Problem!", "This Art Club Has a Problem!", "Kono Bijutsubu ni wa Mondai ga Aru!"], "2016", [["2022 07 26", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Naruhisa Arakawa"], [], "https://64.media.tumblr.com/fb082eab0ede5084a1255a6b3068f4c7/702040a97ac8e493-6b/s250x400/0ae4fc8e97e0be2ff3b38a638e5aaa578ada92e4.jpg"],
 
-["series", ["Alexa & Katie"], ["2018", "2020"], [["2022 07 28", "2022 08 10", "S1"], ["2022 08 10", "2022 08 11", "S2"], ["2022 08 12", "2022 08 14", "S3"], ["2022 08 15", "", "S4"]], 6, ["ger"], ["comedy", "drama"], [], ["watching", "Netflix"], ["Heather Wordham"], ["Eddie Shin", "Kerri Medders", "Ricky Garcia"], "https://64.media.tumblr.com/3523d6c555974fa7204b5415c6ff875f/7e918a340ca5dfb1-25/s250x400/f466cff809df87ba6fab4114501c18f21b084765.jpg"],
+["series", ["Alexa & Katie"], ["2018", "2020"], [["2022 07 28", "2022 08 10", "S1"], ["2022 08 10", "2022 08 11", "S2"], ["2022 08 12", "2022 08 14", "S3"], ["2022 08 15", "S4"]], 6, ["ger"], ["comedy", "drama"], [], ["watching", "Netflix"], ["Heather Wordham"], ["Eddie Shin", "Kerri Medders", "Ricky Garcia"], "https://64.media.tumblr.com/3523d6c555974fa7204b5415c6ff875f/7e918a340ca5dfb1-25/s250x400/f466cff809df87ba6fab4114501c18f21b084765.jpg"],
 
 ["film", ["Murder on the Orient Express", "Mord im Orient-Express"], "2017", ["2022 07 28"], 6, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh", "Johnny Depp", "Lucy Boynton", "Marwan Kenzari", "Michelle Pfeiffer", "Judi Dench", "Willem Dafoe", "Leslie Odom Jr.", "Tom Bateman", "Penélope Cruz", "Hayat Kamille"], "https://64.media.tumblr.com/9098c2a907b25102c1ce4edcea5fb149/98061f95a99e5123-d6/s250x400/39314062321bd07948053cbed8513c02e961d8c7.jpg"],
 
