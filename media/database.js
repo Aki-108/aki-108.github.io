@@ -396,7 +396,7 @@ var database = [
 	        
 ["series", ["You", "You: Du wirst mich lieben"], "2018", [["2019 01 01", "2019 01 03", "S1"], ["2019 12 26", "2020 01 03", "S2"], ["2020 10 23", "2020 11 14", "S1"], ["2020 11 16", "2020 12 01", "S2E1-S2E2"]], 8, ["ger"], ["crime", "drama"], ["syl", "bini"], ["Netflix"], ["Sera Gamble", "Greg Berlanti"], ["Victoria Pedretti", "Jenna Ortega", "Ayelet Zurer", "Zach Cherry"], "https://66.media.tumblr.com/11e496a30095a63ee91bc61b20404387/86460cd1faf80a44-80/s250x400/d76521b06d1eaed24cbe0ecb36c15a3d1991b669.jpg"],
 	        
-["series", ["Love, Death & Robots"], ["2019", "2021"], [["2019 04 06", "S1"], ["2021 05 26", "2021 06 09", "S2"]], 7, ["ger"], ["animation", "sci-fi"], [], ["Netflix"], ["Tim Miller"], [], "https://66.media.tumblr.com/5331b164c8cfac716c03ce7eca1d51dc/fe2409a39ecc2f2e-c4/s250x400/d65945fdda9dee05781d957d0a2bb6da467e4466.jpg"],
+["series", ["Love, Death & Robots"], ["2019", "2021"], [["2019 04 06", "S1"], ["2021 05 26", "2021 06 09", "S2"], ["2022 08 16", "", "S3"]], 7, ["ger"], ["animation", "sci-fi"], [], ["Netflix", "watching"], ["Tim Miller"], [], "https://66.media.tumblr.com/5331b164c8cfac716c03ce7eca1d51dc/fe2409a39ecc2f2e-c4/s250x400/d65945fdda9dee05781d957d0a2bb6da467e4466.jpg"],
 	        
 ["series", ["Hilda"], ["2018", "2020"], [["2019 08 21", "2019 08 27", "S1"], ["2020 08 30", "S1"], ["2020 12 15", "2021 01 04", "S2"]], 8, ["ger"], ["animation", "adventure"], ["bini", "jani", "sai"], ["Netflix"], ["Kurt Mueller", "Luke Pearson", "Stephanie Simpson"], [], "https://66.media.tumblr.com/3945796a427172ab48d56b4504101249/710bd787409c9bc9-2f/s250x400/8e66f0a422ba79d724f8c494c9b9a12321eb0b94.jpg"],
 	        
