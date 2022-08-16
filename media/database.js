@@ -1954,11 +1954,11 @@ var database = [
 
 ["film", ["The Wave", "Die Welle"], "2008", ["2021 11 01"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Dennis Gansel"], ["Jürgen Vogel", "Frederick Lau", "Max Riemelt", "Elyas M'Barek", "Jacob Matschenz", "Max Mauff", "Tim Oliver Schultz"], "https://64.media.tumblr.com/22e92cc08046c98c68f0e4778c1fc2a5/a37e1ae2a4afa3cb-5b/s250x400/8debab79dfb2f3b21f632e6feb3e68d1d69910f0.jpg"],
 
-["film", ["Die Wilden Hühner"], "2006", ["2021 11 03"], 5, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Paula Romy", "Zsá Zsá Inci", "Benno Fürmann", "Nina Vorbrodt", "Axel Prahl", "Jette Hering"], "https://64.media.tumblr.com/6e75d756d4b66248126c6483b750c971/9f1cc2ad374d9fcc-31/s250x400/3afe75e6d09c1f49f6d9b97433d5d3be22011c7a.jpg"],
+["film", ["Die Wilden Hühner"], "2006", ["2021 11 03"], 5, ["ger"], ["adventure", "family"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Paula Romy", "Zsá Zsá Inci", "Benno Fürmann", "Nina Vorbrodt", "Axel Prahl", "Jette Hering"], "https://64.media.tumblr.com/6e75d756d4b66248126c6483b750c971/9f1cc2ad374d9fcc-31/s250x400/3afe75e6d09c1f49f6d9b97433d5d3be22011c7a.jpg"],
 
-["film", ["Die Wilden Hühner und die Liebe"], "2007", ["2021 11 04"], 6, ["ger"], ["comedy", "family"], [], ["Netflix", "LGBT"], ["Vivian Naefe"], ["Michelle von Treuberg", "Paula Romy", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Thomas Kretschmann", "Benno Fürmann", "Axel Prahl"], "https://64.media.tumblr.com/1a2776dae54457bcf515edc7356d6768/876998922951938e-05/s250x400/e54e96ceee013d17dbd42f0e1742f718c5b2eb60.jpg"],
+["film", ["Die Wilden Hühner und die Liebe"], "2007", ["2021 11 04"], 6, ["ger"], ["comedy", "family"], [], ["Netflix", "LGBT", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Paula Romy", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Thomas Kretschmann", "Benno Fürmann", "Axel Prahl"], "https://64.media.tumblr.com/1a2776dae54457bcf515edc7356d6768/876998922951938e-05/s250x400/e54e96ceee013d17dbd42f0e1742f718c5b2eb60.jpg"],
 
-["film", ["Die Wilden Hühner und das Leben"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Benno Fürmann", "Wotan Wilke Möhring", "Milena Tscharntke", "Sonja Gerhardt"], "https://64.media.tumblr.com/87deeb29e6606958a1eb6aea58fb3efc/913287753b1fadec-9b/s250x400/f4ed62e7adbe64210f03f3db21987ae8c57fc06d.jpg"],
+["film", ["Die Wilden Hühner und das Leben"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Benno Fürmann", "Wotan Wilke Möhring", "Milena Tscharntke", "Sonja Gerhardt"], "https://64.media.tumblr.com/87deeb29e6606958a1eb6aea58fb3efc/913287753b1fadec-9b/s250x400/f4ed62e7adbe64210f03f3db21987ae8c57fc06d.jpg"],
 
 ["film", ["Die Vorstadtkrokodile"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Christian Ditter"], ["Smudo", "Jacob Matschenz", "Axel Stein"], "https://64.media.tumblr.com/4bdcf49349ca6a11d3660c9b9b50c3d9/1df5e4c42048e73b-43/s250x400/1c6fa4d31eec11353b8c02fd623d9e8607f1bb98.jpg"],
 
@@ -2235,7 +2235,7 @@ var database = [
 
 ["film", ["Freaks: You're One of Us", "Freaks - Du bist eine von uns"], "2020", ["2022 05 16"], 6, ["ger"], ["action", "drama"], [], ["Netflix"], ["Felix Binder"], ["Tim Oliver Schultz", "Wotan Wilke Möhring", "Daniel Zillmann"], "https://64.media.tumblr.com/11916506c255711cdc60b10c0381c229/2521ff8a2d6612d3-83/s250x400/4c89c54e4a13d0d94e864d2599f8f64f0787b26f.jpg"],
 
-["book", ["Die Wilden Hühner"], "1993", [["2022 05 16", "2022 05 28"]], 5, ["ger"], [], [], ["bibliothek"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/2f6dbd662a2354b7f8eeb43d401bb0f0/7efe93fbfc70075b-84/s250x400/c57bafa9dda3822df617c27adf6d47fc0afad6cb.jpg"],
+["book", ["Die Wilden Hühner"], "1993", [["2022 05 16", "2022 05 28"]], 5, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/2f6dbd662a2354b7f8eeb43d401bb0f0/7efe93fbfc70075b-84/s250x400/c57bafa9dda3822df617c27adf6d47fc0afad6cb.jpg"],
 
 ["film", ["Full Out", "Die unglaubliche Geschichte der Ariana Berlin"], "2015", ["2022 05 20"], 4, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Sean Cisterna"], [], "https://64.media.tumblr.com/e22e07199d69247c076510472ddae940/c0c26183ecffb028-fe/s250x400/7bf505beb989e61d21a0490a0c42403b9f8d4379.jpg"],
 
@@ -2363,8 +2363,9 @@ var database = [
 
 ["film", ["The Village", "The Village - Das Dorf"], "2004", ["2022 08 11"], 8, ["ger"], ["drama", "mystery", "thriller", "horror"], [], ["Disney+"], ["M. Night Shyamalan"], ["Bryce Dallas Howard", "Joaquin Phoenix", "Adrien Brody", "Sigourney Weaver", "Brendan Gleeson", "Cherry Jones", "Judy Greer", "Fran Kranz", "Jesse Eisenberg"], "https://64.media.tumblr.com/347c473c43beb5b269fc3db0f8141a85/b1a5697de1a28afe-9d/s250x400/7934131e68cac8d38c565322925e1a266075f434.jpg"],
 
-["film", ["Day Shift"], "2022", ["2022 08 12"], 5, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["J.J. Perry"], ["Jamie Foxx", "Dave Franco", "Oliver Masucci", "Snoop Dogg", "Peter Stormare"], "https://64.media.tumblr.com/0e1d7f73af59409d652a71d0ec66d3a3/dfa390d50b720080-69/s250x400/ff99c65b08eeadc8485a79e7d2cead492f54f600.jpg"]
+["film", ["Day Shift"], "2022", ["2022 08 12"], 5, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["J.J. Perry"], ["Jamie Foxx", "Dave Franco", "Oliver Masucci", "Snoop Dogg", "Peter Stormare"], "https://64.media.tumblr.com/0e1d7f73af59409d652a71d0ec66d3a3/dfa390d50b720080-69/s250x400/ff99c65b08eeadc8485a79e7d2cead492f54f600.jpg"],
 
+["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", ""]], 0, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"]
 	
 /*
 ,
