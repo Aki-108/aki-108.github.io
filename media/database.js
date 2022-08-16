@@ -1742,7 +1742,7 @@ var database = [
 
 ["film", ["The Breadwinner", "Der Brotverdiener"], "2017", ["2021 03 13"], 6, ["ger"], ["animation", "drama", "war"], [], ["Netflix"], ["Nora Twomey"], [], "https://64.media.tumblr.com/5094ab30126775a21e12825e12798ebe/f441f2a27202ba95-65/s250x400/902b158b3180a19484c19e30e20af50b8743dbdc.jpg"],
 
-["series", ["Locke & Key"], ["2020", ""], [["2021 03 14", "2021 03 28", "S1"], ["2021 11 01", "2021 11 19", "S2"], ["2022 08 07", "", "S1"]], 6, ["ger"], ["drama", "fantasy"], ["bini", "nico"], ["Netflix", "ongoing", "watching"], ["Meredith Averill", "Meredith Averill", "Aron Eli Coleite"], ["Darby Stanchfield", "Connor Jessup", "Emilia Jones", "Jackson Robert Scott", "Petrice Jones", "Bill Heck", "Griffin Gluck", "Kevin Durand", "Eric Graise"], "https://64.media.tumblr.com/fca4ec9110efd06d277632a31ce7d5c3/9fd830e62f280f00-ef/s250x400/08f87b1c54d5994aa1516aff3a2327da36ce6ddc.jpg"],/*S1: 6, S1: 6.8*/
+["series", ["Locke & Key"], ["2020", ""], [["2021 03 14", "2021 03 28", "S1"], ["2021 11 01", "2021 11 19", "S2"], ["2022 08 07", "2022 08 16", "S1"], ["2022 08 21", "", "S2"]], 6, ["ger"], ["drama", "fantasy"], ["bini", "nico"], ["Netflix", "ongoing", "watching"], ["Meredith Averill", "Meredith Averill", "Aron Eli Coleite"], ["Darby Stanchfield", "Connor Jessup", "Emilia Jones", "Jackson Robert Scott", "Petrice Jones", "Bill Heck", "Griffin Gluck", "Kevin Durand", "Eric Graise"], "https://64.media.tumblr.com/fca4ec9110efd06d277632a31ce7d5c3/9fd830e62f280f00-ef/s250x400/08f87b1c54d5994aa1516aff3a2327da36ce6ddc.jpg"],/*S1: 6, S1: 6.8*/
 
 ["series", ["The Houseboat", "Das Hausboot"], "2021", [["2021 03 13", "2021 03 21", "S1"]], 5, ["ger"], ["documentary"], ["syl", "je", "bini"], ["Netflix"], [""], [], "https://64.media.tumblr.com/b3878fa50fd2d7d4286af2dd96bdfd06/5eb4e8a877f50e3f-08/s250x400/8fdcc5005f169eb2a6602ac6634f174a37c672b5.jpg"],
 
@@ -2365,7 +2365,7 @@ var database = [
 
 ["film", ["Day Shift"], "2022", ["2022 08 12"], 5, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["J.J. Perry"], ["Jamie Foxx", "Dave Franco", "Oliver Masucci", "Snoop Dogg", "Peter Stormare"], "https://64.media.tumblr.com/0e1d7f73af59409d652a71d0ec66d3a3/dfa390d50b720080-69/s250x400/ff99c65b08eeadc8485a79e7d2cead492f54f600.jpg"],
 
-["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", ""]], 0, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"]
+["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", ""]], 0, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"]
 	
 /*
 ,
