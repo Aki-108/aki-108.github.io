@@ -1362,7 +1362,7 @@ var database = [
 	        
 ["film", ["Miracle on 34th Street", "Das Wunder von Manhattan"], "1994", ["2016 12 19"], 6, ["ger"], ["family", "fantasy"], [], ["Schule"], ["Les Mayfield"], ["Richard Attenborough", "Mara Wilson", "Allison Janney"], "https://68.media.tumblr.com/40f397e7c379ef376e1879ab421ebcd2/tumblr_oifqxvLLsZ1v2s5upo1_250.jpg"],
 	        
-["film", ["The Graduate", "Die Reifeprüfung"], "1967", ["2016 12 16"], 6, ["eng"], ["comedy", "drama"], [], ["Schule"], ["Mike Nichols"], ["Dustin Hoffman", "Kevin Tighe"], "https://68.media.tumblr.com/8586dc1f3d876a1855b98ad679c34411/tumblr_oibsbkL5Pf1v2s5upo1_250.jpg"],
+["film", ["The Graduate", "Die Reifeprüfung"], "1967", ["2016 12 16"], 6, ["eng"], ["comedy", "drama"], [], ["Schule"], ["Mike Nichols"], ["Dustin Hoffman", "Kevin Tighe", "William Daniels"], "https://68.media.tumblr.com/8586dc1f3d876a1855b98ad679c34411/tumblr_oibsbkL5Pf1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Odd Life of Timothy Green", "Das wundersame Leben von Timothy Green"], "2012", ["2016 12 04"], 6, ["ger"], ["comedy", "drama"], [], [], ["Peter Hedges"], ["Jennifer Garner", "Joel Edgerton", "Odeya Rush"], "https://68.media.tumblr.com/56ecbddc631f535930a5913aa806a1a2/tumblr_oho7x2dqVL1v2s5upo1_250.jpg"],
 	        
@@ -2093,7 +2093,7 @@ var database = [
 
 ["film", ["Hilda and the Mountain King", "Hilda und der Bergkönig"], "2021", ["2022 01 06"], 7, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Andy Coyle"], [], "https://64.media.tumblr.com/299b02775621d028149c693d1fa73aaa/48e2ee9fed822400-bf/s250x400/26ae45c86e0b527a178422334b3c4035e01dcc98.jpg"],
 
-["series", ["Girl Meets World", "Das Leben und Riley"], ["2014", "2017"], [["2022 01 08", "2022 01 12", "S1"], ["2022 01 13", "2022 01 28", "S2"], ["2022 01 29", "2022 02 10", "S3"]], 8, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Michael Jacobs", "April Kelly"], ["Rowan Blanchard", "Sabrina Carpenter", "M.C. Gainey", "Ricky Garcia", "Jane Lynch", "Debby Ryan", "Tania Gunadi"], "https://64.media.tumblr.com/36187f43acff0bc60164f66ed977e142/e1a8385b51505f2c-13/s250x400/97af5d53aa9a8fbddf77597f0af622893b1a1fd2.jpg"], /* S1: 5.4; S2: 6.3; S3: 6.4 */
+["series", ["Girl Meets World", "Das Leben und Riley"], ["2014", "2017"], [["2022 01 08", "2022 01 12", "S1"], ["2022 01 13", "2022 01 28", "S2"], ["2022 01 29", "2022 02 10", "S3"]], 8, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Michael Jacobs", "April Kelly"], ["Rowan Blanchard", "Sabrina Carpenter", "M.C. Gainey", "Ricky Garcia", "Jane Lynch", "Debby Ryan", "Tania Gunadi", "Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/36187f43acff0bc60164f66ed977e142/e1a8385b51505f2c-13/s250x400/97af5d53aa9a8fbddf77597f0af622893b1a1fd2.jpg"], /* S1: 5.4; S2: 6.3; S3: 6.4 */
 
 ["film", ["Friendzone"], "2021", ["2022 01 08"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Charles Van Tieghem"], [], "https://64.media.tumblr.com/1a21a4d0767564112499f161fac6ed81/e537b0b1bd1b8426-ea/s250x400/22cab9c14e7fb6407cfc43946ceac125b35f23d3.jpg"],
 
@@ -2365,7 +2365,9 @@ var database = [
 
 ["film", ["Day Shift"], "2022", ["2022 08 12"], 5, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["J.J. Perry"], ["Jamie Foxx", "Dave Franco", "Oliver Masucci", "Snoop Dogg", "Peter Stormare"], "https://64.media.tumblr.com/0e1d7f73af59409d652a71d0ec66d3a3/dfa390d50b720080-69/s250x400/ff99c65b08eeadc8485a79e7d2cead492f54f600.jpg"],
 
-["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", ""]], 0, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"]
+["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", ""]], 0, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"],
+
+["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"]
 	
 /*
 ,
