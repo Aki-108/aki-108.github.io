@@ -2357,7 +2357,7 @@ var database = [
 
 ["film", ["The Adam Project"], "2022", ["2022 08 05"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Shawn Levy"], ["Ryan Reynolds", "Mark Ruffalo", "Jennifer Garner", "Zoe Saldana"], "https://64.media.tumblr.com/2ed029bf80258de07c6f966ab364cdc5/cac206cfe81fb7d2-9a/s250x400/65881d61670bfcd23165c2c2b4989a0b0af02169.jpg"],
 
-["series", ["Heirs of the Night", "Die Erben der Nacht"], ["2019", ""], [["2022 08 08", "", "S1"]], 0, ["ger"], ["fantasy", "horror"], [], ["Disney+", "ongoing", "watching"], ["Diederik Van Rooijen"], [], "https://64.media.tumblr.com/105150de39114a96c29cbcb3851954c0/7765bfae6eb4a1ec-e1/s250x400/c0fbd6047dbb2dbdb92bb423b52ba31279c6b144.jpg"],
+["series", ["Heirs of the Night", "Die Erben der Nacht"], ["2019", ""], [["2022 08 08", "2022 08 24", "S1"]], 4, ["ger"], ["fantasy", "horror"], [], ["Disney+", "ongoing"], ["Diederik Van Rooijen"], [], "https://64.media.tumblr.com/105150de39114a96c29cbcb3851954c0/7765bfae6eb4a1ec-e1/s250x400/c0fbd6047dbb2dbdb92bb423b52ba31279c6b144.jpg"],
 
 ["film", ["Middle School: The Worst Years of My Life", "School Survival: Die schlimmsten Jahre meines Lebens"], "2016", ["2022 08 09"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Steve Carr"], ["Griffin Gluck", "Lauren Graham"], "https://64.media.tumblr.com/0ecfefef94c12761e116eb6b73016acf/3d46f6f3e23949b5-26/s250x400/c104eb3cebe152faa199f9072e253f0e30c9ac60.jpg"],
 
