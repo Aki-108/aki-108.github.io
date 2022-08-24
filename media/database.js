@@ -2311,7 +2311,7 @@ var database = [
 
 ["series", ["Watashitachi, Luck Logic-bu!"], "2016", [["2022 07 26", "S1"]], 2, ["jap"], ["anime", "comedy"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/0d665fc67e8b05a2e45622708d039d03/4cd036f117d446b9-b4/s250x400/1a09f69f4002ea697ecabf99923c0c922021388f.jpg"],
 
-["series", ["This Art Club Has a Problem!", "This Art Club Has a Problem!", "Kono Bijutsubu ni wa Mondai ga Aru!"], "2016", [["2022 07 26", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Naruhisa Arakawa"], [], "https://64.media.tumblr.com/fb082eab0ede5084a1255a6b3068f4c7/702040a97ac8e493-6b/s250x400/0ae4fc8e97e0be2ff3b38a638e5aaa578ada92e4.jpg"],
+["series", ["This Art Club Has a Problem!", "This Art Club Has a Problem!", "Kono Bijutsubu ni wa Mondai ga Aru!"], "2016", [["2022 07 26", "2022 08 23", "S1"]], 5, ["jap"], ["anime", "comedy"], ["bini", "nico"], [], ["Naruhisa Arakawa"], [], "https://64.media.tumblr.com/fb082eab0ede5084a1255a6b3068f4c7/702040a97ac8e493-6b/s250x400/0ae4fc8e97e0be2ff3b38a638e5aaa578ada92e4.jpg"],
 
 ["series", ["Alexa & Katie"], ["2018", "2020"], [["2022 07 28", "2022 08 10", "S1"], ["2022 08 10", "2022 08 11", "S2"], ["2022 08 12", "2022 08 14", "S3"], ["2022 08 15", "S4"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Heather Wordham"], ["Eddie Shin", "Kerri Medders", "Ricky Garcia"], "https://64.media.tumblr.com/3523d6c555974fa7204b5415c6ff875f/7e918a340ca5dfb1-25/s250x400/f466cff809df87ba6fab4114501c18f21b084765.jpg"],
 
