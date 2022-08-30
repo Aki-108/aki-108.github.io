@@ -486,7 +486,7 @@ var database = [
 	        
 ["film", ["Ant-Man"], "2015", ["2016 05 21", "2018 04 01"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl", "je"], ["Marvel"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Corey Stoll", "Anthony Mackie", "Judy Greer", "Michael Peña", "Chris Evans", "Joe Chrest", "Sebastian Stan"], "https://68.media.tumblr.com/b70bf1e59eaffd22e771eec8025d4215/tumblr_o7jla3gTae1v2s5upo1_250.jpg"],
 	        
-["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], [], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
+["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], [], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray", "Sarah Swire"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Golden Compass", "Der goldene Kompass"], "2007", ["2015 11 23", "2020 01 06"], 6, ["ger"], ["adventure", "family", "fantasy"], ["bini"], ["His Dark Materials"], ["Chris Weitz"], ["Nicole Kidman", "Daniel Craig", "Dakota Blue Richards", "Ian McKellen", "Eva Green", "Christopher Lee"], "https://66.media.tumblr.com/58e999a51e7baea5ccd8cb4d6b0a0054/tumblr_ppuwcejZDQ1v2s5upo1_250.jpg"],
 	        
@@ -2016,7 +2016,7 @@ var database = [
 
 ["book", ["Aristocats"], "1992", [["2021 11 28", "2021 12 01"]], 5, ["ger"], [], [], [], [], [], "https://64.media.tumblr.com/d19a736fe2a000d32b2b67d3d29bf22d/872ce6cbcf86db29-a3/s400x600/22922e3d8786b8f416465b7010a45fc65f248ecb.jpg"],
 
-["series", ["Best Friends Whenever", "Best Friends - Zu jeder Zeit"], ["2015", "2016"], [["2021 11 29", "2021 12 16", "S1"], ["2021 12 21", "2022 01 02", "S2"]], 7, ["ger"], ["comedy", "family"], [], ["Disney+"], ["Jed Elinoff", "Scott Thomas"], ["Amiah Miller", "Rowan Blanchard", "Lauren Lindsey Donzis", "Ricky Garcia", "Gus Kamp"], "https://64.media.tumblr.com/d0b98f93c2c43a71ce50d3a3f23b5268/ce8aee5415160c83-13/s250x400/9f5b858dff619e1bc8a0955ca5f3ff2bb504743b.jpg"],
+["series", ["Best Friends Whenever", "Best Friends - Zu jeder Zeit"], ["2015", "2016"], [["2021 11 29", "2021 12 16", "S1"], ["2021 12 21", "2022 01 02", "S2"]], 7, ["ger"], ["comedy", "family"], [], ["Disney+", "fav"], ["Jed Elinoff", "Scott Thomas"], ["Amiah Miller", "Rowan Blanchard", "Lauren Lindsey Donzis", "Ricky Garcia", "Gus Kamp"], "https://64.media.tumblr.com/d0b98f93c2c43a71ce50d3a3f23b5268/ce8aee5415160c83-13/s250x400/9f5b858dff619e1bc8a0955ca5f3ff2bb504743b.jpg"],
 
 ["series", ["Dig Deeper - Das Verschwinden von Birgit Meier"], "2021", [["2021 11 30", "S1"], ["2021 12 29", "S1E2-S1E4"]], 7, ["ger"], ["documentary", "biography"], ["syl"], ["Netflix"], ["Nicolas Steiner"], [], "https://64.media.tumblr.com/3b91919efb858bcfcf591f9db7c22db9/38b29c14adc3282a-1e/s250x400/78ea2039298c0a08213cd981ca08a3e771419e7b.jpg"],
 
@@ -2093,7 +2093,7 @@ var database = [
 
 ["film", ["Hilda and the Mountain King", "Hilda und der Bergkönig"], "2021", ["2022 01 06"], 7, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Andy Coyle"], [], "https://64.media.tumblr.com/299b02775621d028149c693d1fa73aaa/48e2ee9fed822400-bf/s250x400/26ae45c86e0b527a178422334b3c4035e01dcc98.jpg"],
 
-["series", ["Girl Meets World", "Das Leben und Riley"], ["2014", "2017"], [["2022 01 08", "2022 01 12", "S1"], ["2022 01 13", "2022 01 28", "S2"], ["2022 01 29", "2022 02 10", "S3"]], 8, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Michael Jacobs", "April Kelly"], ["Rowan Blanchard", "Sabrina Carpenter", "M.C. Gainey", "Ricky Garcia", "Jane Lynch", "Debby Ryan", "Tania Gunadi", "Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/36187f43acff0bc60164f66ed977e142/e1a8385b51505f2c-13/s250x400/97af5d53aa9a8fbddf77597f0af622893b1a1fd2.jpg"], /* S1: 5.4; S2: 6.3; S3: 6.4 */
+["series", ["Girl Meets World", "Das Leben und Riley"], ["2014", "2017"], [["2022 01 08", "2022 01 12", "S1"], ["2022 01 13", "2022 01 28", "S2"], ["2022 01 29", "2022 02 10", "S3"]], 8, ["ger"], ["comedy", "drama"], [], ["Disney+", "fav"], ["Michael Jacobs", "April Kelly"], ["Rowan Blanchard", "Sabrina Carpenter", "M.C. Gainey", "Ricky Garcia", "Jane Lynch", "Debby Ryan", "Tania Gunadi", "Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/36187f43acff0bc60164f66ed977e142/e1a8385b51505f2c-13/s250x400/97af5d53aa9a8fbddf77597f0af622893b1a1fd2.jpg"], /* S1: 5.4; S2: 6.3; S3: 6.4 */
 
 ["film", ["Friendzone"], "2021", ["2022 01 08"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Charles Van Tieghem"], [], "https://64.media.tumblr.com/1a21a4d0767564112499f161fac6ed81/e537b0b1bd1b8426-ea/s250x400/22cab9c14e7fb6407cfc43946ceac125b35f23d3.jpg"],
 
@@ -2373,7 +2373,9 @@ var database = [
 
 ["film", ["Z-O-M-B-I-E-S 2", "Zombies 2"], "2020", ["2022 08 25"], 5, ["ger"], ["family", "musical"], [], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/a282988f451a9f32e7216d8b8dcca5bc/5ec189f6287eb689-bc/s250x400/753c6e890b96968a184ec67db5fd407a8d202525.jpg"],
 
-["film", ["Z-O-M-B-I-E-S 3", "Zombies 3"], "2022", ["2022 08 25"], 6, ["ger"], ["family", "musical"], [], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/89536d3a15adcc5b2049c2ce136f70da/a766474ff10672b0-0a/s250x400/10e1f65145ee97eb63158d33a58140c897055b06.jpg"]
+["film", ["Z-O-M-B-I-E-S 3", "Zombies 3"], "2022", ["2022 08 25"], 6, ["ger"], ["family", "musical"], [], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/89536d3a15adcc5b2049c2ce136f70da/a766474ff10672b0-0a/s250x400/10e1f65145ee97eb63158d33a58140c897055b06.jpg"],
+
+["film", ["Anna and the Apocalypse", "Anna und die Apokalypse"], "2017", ["2022 08 30"], 6, ["ger"], ["comedy", "horror", "musical"], [], ["Netflix"], ["John McPhail"], ["Sarah Swire"], "https://64.media.tumblr.com/7d1d0276848a82ee59621c5795c52a89/805def8d50859b11-05/s250x400/29b9c434c9e67c079f8a927a060157eec00b469e.jpg"]
 	
 /*
 ,
