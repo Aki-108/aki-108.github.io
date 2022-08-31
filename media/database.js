@@ -2365,7 +2365,7 @@ var database = [
 
 ["film", ["Day Shift"], "2022", ["2022 08 12"], 5, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["J.J. Perry"], ["Jamie Foxx", "Dave Franco", "Oliver Masucci", "Snoop Dogg", "Peter Stormare"], "https://64.media.tumblr.com/0e1d7f73af59409d652a71d0ec66d3a3/dfa390d50b720080-69/s250x400/ff99c65b08eeadc8485a79e7d2cead492f54f600.jpg"],
 
-["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", ""]], 0, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"],
+["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", "2022 08 30"]], 6, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"],
 
 ["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "", "S2"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
 
@@ -2377,8 +2377,10 @@ var database = [
 
 ["film", ["Anna and the Apocalypse", "Anna und die Apokalypse"], "2017", ["2022 08 30"], 6, ["ger"], ["comedy", "horror", "musical"], [], ["Netflix"], ["John McPhail"], ["Sarah Swire"], "https://64.media.tumblr.com/7d1d0276848a82ee59621c5795c52a89/805def8d50859b11-05/s250x400/29b9c434c9e67c079f8a927a060157eec00b469e.jpg"],
 
-["film", ["Her"], "2013", ["2022 08 31"], 0, ["eng"], ["drama", "romance"], [], ["bibliothek"], ["Spike Jonze"], ["Joaquin Phoenix", "Amy Adams", "Chris Pratt", "Rooney Mara", "Olivia Wilde"], "https://64.media.tumblr.com/cc8681e22f5f6b7605008667fb5d15ef/152400b51030905c-f6/s250x400/2822127d534d7a110ce8f2dcdf2054f31a8c9e96.jpg"]
-	
+["film", ["Her"], "2013", ["2022 08 31"], 5, ["eng"], ["drama", "romance"], [], ["bibliothek"], ["Spike Jonze"], ["Joaquin Phoenix", "Amy Adams", "Chris Pratt", "Rooney Mara", "Olivia Wilde"], "https://64.media.tumblr.com/cc8681e22f5f6b7605008667fb5d15ef/152400b51030905c-f6/s250x400/2822127d534d7a110ce8f2dcdf2054f31a8c9e96.jpg"],
+
+["book", ["Turtles All the Way Down", "Schlaft gut, ihr fiesen Gedanken"], "2017", [["2022 08 31", ""]], 0, ["eng"], ["young adult novel"], [], ["bibliothek", "watching"], ["John Green"], [], "https://64.media.tumblr.com/33269ba2a869370b54d6a36d35e767ad/af483c7bc4b54628-95/s250x400/c05977355374b3322ce8ceafb44737fec1f9d288.jpg"]
+
 /*
 ,
 
