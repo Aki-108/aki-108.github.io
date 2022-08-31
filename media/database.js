@@ -2255,7 +2255,7 @@ var database = [
 
 ["film", ["Barbie: Fairytopia"], "2005", ["2022 06 06"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Walter P. Martishius", "William Lau"], [], "https://64.media.tumblr.com/e344f6008162a127bc928efe5679d2dd/814a2e186700ddcd-e5/s250x400/a29fceb62f7dc678c4ff4ad1878c01124474ae20.jpg"],
 
-["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon", "Miles Teller"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"],
+["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon", "Miles Teller", "Andie MacDowell"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"],
 
 ["series", ["First Kill"], ["2022", ""], [["2022 06 15", "2022 06 23", "S1"]], 5, ["ger"], ["drama", "horror"], [], ["ongoing", "Netflix", "LGBT"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"],
 
@@ -2379,7 +2379,9 @@ var database = [
 
 ["film", ["Her"], "2013", ["2022 08 31"], 5, ["eng"], ["drama", "romance"], [], ["bibliothek"], ["Spike Jonze"], ["Joaquin Phoenix", "Amy Adams", "Chris Pratt", "Rooney Mara", "Olivia Wilde"], "https://64.media.tumblr.com/cc8681e22f5f6b7605008667fb5d15ef/152400b51030905c-f6/s250x400/2822127d534d7a110ce8f2dcdf2054f31a8c9e96.jpg"],
 
-["book", ["Turtles All the Way Down", "Schlaft gut, ihr fiesen Gedanken"], "2017", [["2022 08 31", ""]], 0, ["eng"], ["young adult novel"], [], ["bibliothek", "watching"], ["John Green"], [], "https://64.media.tumblr.com/33269ba2a869370b54d6a36d35e767ad/af483c7bc4b54628-95/s250x400/c05977355374b3322ce8ceafb44737fec1f9d288.jpg"]
+["book", ["Turtles All the Way Down", "Schlaft gut, ihr fiesen Gedanken"], "2017", [["2022 08 31", ""]], 0, ["eng"], ["young adult novel"], [], ["bibliothek", "watching"], ["John Green"], [], "https://64.media.tumblr.com/33269ba2a869370b54d6a36d35e767ad/af483c7bc4b54628-95/s250x400/c05977355374b3322ce8ceafb44737fec1f9d288.jpg"],
+
+["film", ["Groundhog Day", "Und täglich grüßt das Murmeltier"], "1993", ["2022 08 31"], 6, ["ger"], ["comedy", "drama"], [], ["bibliothek"], ["Harold Ramis"], ["Bill Murray", "Andie MacDowell"], "https://64.media.tumblr.com/9a33c52b57f56e23e3f51f4a640686f8/24687f4f0ba96df9-b0/s250x400/5bd4b55279d11ae79f31491b66e3e19d1e4d4769.jpg"]
 
 /*
 ,
