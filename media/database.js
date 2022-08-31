@@ -2375,7 +2375,9 @@ var database = [
 
 ["film", ["Z-O-M-B-I-E-S 3", "Zombies 3"], "2022", ["2022 08 25"], 6, ["ger"], ["family", "musical"], [], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/89536d3a15adcc5b2049c2ce136f70da/a766474ff10672b0-0a/s250x400/10e1f65145ee97eb63158d33a58140c897055b06.jpg"],
 
-["film", ["Anna and the Apocalypse", "Anna und die Apokalypse"], "2017", ["2022 08 30"], 6, ["ger"], ["comedy", "horror", "musical"], [], ["Netflix"], ["John McPhail"], ["Sarah Swire"], "https://64.media.tumblr.com/7d1d0276848a82ee59621c5795c52a89/805def8d50859b11-05/s250x400/29b9c434c9e67c079f8a927a060157eec00b469e.jpg"]
+["film", ["Anna and the Apocalypse", "Anna und die Apokalypse"], "2017", ["2022 08 30"], 6, ["ger"], ["comedy", "horror", "musical"], [], ["Netflix"], ["John McPhail"], ["Sarah Swire"], "https://64.media.tumblr.com/7d1d0276848a82ee59621c5795c52a89/805def8d50859b11-05/s250x400/29b9c434c9e67c079f8a927a060157eec00b469e.jpg"],
+
+["film", ["Her"], "2013", ["2022 08 31"], 0, ["eng"], ["drama", "romance"], [], ["bibliothek"], ["Spike Jonze"], ["Joaquin Phoenix", "Amy Adams", "Chris Pratt", "Rooney Mara", "Olivia Wilde"], "https://64.media.tumblr.com/cc8681e22f5f6b7605008667fb5d15ef/152400b51030905c-f6/s250x400/2822127d534d7a110ce8f2dcdf2054f31a8c9e96.jpg"]
 	
 /*
 ,
