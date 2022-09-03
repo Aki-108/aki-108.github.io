@@ -574,7 +574,7 @@ var database = [
 	        
 ["film", ["Die Vorstadtkrokodile"], "1977", ["2015 08 11", "2021 12 12"], 6, ["ger"], ["family", "adventure"], ["syl", "je"], [], ["Wolfgang Becker"], [], "https://49.media.tumblr.com/bec2fd9059b81e005cfcb4c3a793ade6/tumblr_nztao7NoRR1v2s5upo2_r1_250.png"],
 	        
-["film", ["Whisper of the Heart", "Stimme des Herzens", "Mimi wo sumaseba"], "1995", ["2015 08 26", "2020 12 12"], 5, ["ger"], ["anime", "drama", "romance", "music"], ["bini"], ["Ghibli"], ["Yoshifumi Kondô"], [], "https://49.media.tumblr.com/d9f5ec0c7b5e004e756df9a23cd3885a/tumblr_o0dwdeGGtP1v2s5upo1_250.jpg"],
+["film", ["Whisper of the Heart", "Stimme des Herzens", "Mimi wo sumaseba"], "1995", ["2015 08 26", "2020 12 12", "2022 09 03"], 5, ["ger"], ["anime", "drama", "romance"], ["bini", "mai"], ["Ghibli", "Netflix"], ["Yoshifumi Kondô"], [], "https://49.media.tumblr.com/d9f5ec0c7b5e004e756df9a23cd3885a/tumblr_o0dwdeGGtP1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Virgin Suicides", "The Virgin Suicides - Verlorene Jugend"], "1999", ["2015 08 30", "2016 08 13"], 9, ["ger"], ["drama", "romance"], [], [], ["Sofia Coppola"], ["Kirsten Dunst", "Danny DeVito"], "https://40.media.tumblr.com/71765bd581b584f16cddae7574c9eeff/tumblr_o0p1t2Azpk1v2s5upo1_250.jpg"],
 	        
