@@ -1538,7 +1538,7 @@ var database = [
 
 ["film", ["The Last Witch Hunter"], "2015", ["2020 10 15"], 4, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Breck Eisner"], ["Vin Diesel", "Rose Leslie", "Elijah Wood", "Ólafur Darri Ólafsson", "Michael Caine"], "https://64.media.tumblr.com/34529c008dba10e1a52d3464eccddd29/187a9419e6f17ebb-90/s250x400/a25c4b8527f8750d37c6204cab5b63a77f244754.jpg"],
 
-["series", ["Candy Online"], "2019", [["2020 10 16", "2020 11 18", "S1E1-S1E2"]], 0, ["man"], [], [], ["Netflix", "dropped"], [], [], "https://64.media.tumblr.com/6f875a83a6e380cba20e1e5fce74070f/b4e9753e631c19a2-fa/s250x400/2c8032825e6bd6566cd9f7a1d291e5d98e15f22b.jpg"],
+["series", ["Candy Online"], "2019", [["2020 10 16", "2020 11 18", "S1E1-S1E2"]], 0, ["chi"], [], [], ["Netflix", "dropped"], [], [], "https://64.media.tumblr.com/6f875a83a6e380cba20e1e5fce74070f/b4e9753e631c19a2-fa/s250x400/2c8032825e6bd6566cd9f7a1d291e5d98e15f22b.jpg"],
 
 ["film", ["Fantastic Beasts: The Crimes of Grindelwald", "Phantastische Tierwesen: Grindelwalds Verbrechen"], "2018", ["2020 10 16"], 6, ["ger"], ["adventure", "family"], [], ["Harry Potter", "Netflix"], ["David Yates"], ["Johnny Depp", "Carmen Ejogo", "Eddie Redmayne", "Callum Turner", "Jude Law", "Alison Sudol", "Claudia Kim", "Ólafur Darri Ólafsson", "Jamie Campbell Bower"], "https://64.media.tumblr.com/7d27499772f45466df494174c9b0affa/adccec2fb135d417-ad/s250x400/4d8c0d5b74a03b5b413dcceeaa5942e219ed1bc6.jpg"],
 
@@ -2385,7 +2385,11 @@ var database = [
 
 ["audiobook", ["Dead Men Tell Tales"], "1939", [["2022 09 02", ""]], 0, ["eng"], [], [], ["LibriVox", "watching"], ["Harry Rimmer"], ["Maria Agustina Von", "josephineking", "roselbex", "Owlivia", "Ryan Lohner", "BrandonB", "KHand", "MichelleKinge"], "https://64.media.tumblr.com/cd060d321a7738d9b0f8d103c1ee637b/104fb591d360372b-5c/s400x600/1400b273498cfd6725f6694b8eb596b83c402d39.jpg"],
 
-["film", ["13: The Musical", "13: Das Musical"], "2022", ["2022 09 04"], 6, ["ger"], ["comedy", "drama", "musical"], [], ["Netflix"], ["Tamra Davis"], ["Josh Peck", "Khiyla Aynne"], "https://64.media.tumblr.com/8da84e2fee987a2597a77e797d7de365/98050ca1aac85501-89/s250x400/962eeed633a54075b7a75d06e3d5ead87a1ce500.jpg"]
+["film", ["13: The Musical", "13: Das Musical"], "2022", ["2022 09 04"], 6, ["ger"], ["comedy", "drama", "musical"], [], ["Netflix"], ["Tamra Davis"], ["Josh Peck", "Khiyla Aynne"], "https://64.media.tumblr.com/8da84e2fee987a2597a77e797d7de365/98050ca1aac85501-89/s250x400/962eeed633a54075b7a75d06e3d5ead87a1ce500.jpg"],
+
+["series", ["Spare Me, Great Lord!", "Da Wang Rao Ming", "Da Wang Rao Ming"], ["2021", ""], [["2022 09 06", "", "S1"]], 0, ["chi"], ["action", "adventure", "animation"], ["bini", "nico"], ["watching", "ongoing"], [], [], "https://64.media.tumblr.com/366d6014357ba05e1fc750ba15ffcd02/497b2ccbfbf6dc4e-f0/s250x400/15219bc858f14cfc63f12e88e89f32f5f23d9503.jpg"],
+
+["film", ["Bubble"], "2022", ["2022 09 07"], 6, ["ger"], ["anime", "action"], ["bini", "jessie"], ["Netflix"], ["Tetsurô Araki"], [], "https://64.media.tumblr.com/d7626f3a5032579ef01af7d379539bde/dd55da0ce447a11e-6d/s250x400/2a094b38ee66fb3447d698095d7a95814576a7c4.jpg"]
 
 /*
 ,
