@@ -1182,7 +1182,7 @@ var database = [
 	        
 ["series", ["Lego Jurassic World: The Indominus Escape", "Lego Jurassic World: Flucht des Indominus Rex"], "2016", [["2017 10 13", "S1"]], 9, ["ger"], ["animation", "action"], ["bini"], ["Jurassic Park", "Netflix"], ["Michael D. Black"], [], "https://66.media.tumblr.com/fe7acab7ce2bbe3569c84be0a02ad6e4/tumblr_pxxegmWanX1v2s5upo1_250.jpg"],
 	        
-["film", ["Enola Holmes"], "2020", ["2020 09 25"], 7, ["ger"], ["adventure", "crime"], [], ["Netflix"], ["Harry Bradbeer"], ["Millie Bobby Brown", "Sam Claflin", "Helena Bonham Carter", "Burn Gorman", "Fiona Shaw", "Henry Cavill"], "https://64.media.tumblr.com/a6e1b5b4d92ff144ebfc8523e3d2dfd6/237a739cc3a6e9fa-13/s250x400/4da4bc2c50782d46ea0a2799194a4c7934c82c5d.jpg"],
+["film", ["Enola Holmes"], "2020", ["2020 09 25", "2022 09 10"], 7, ["ger", "eng"], ["adventure", "crime"], ["bini", "mai"], ["Netflix"], ["Harry Bradbeer"], ["Millie Bobby Brown", "Sam Claflin", "Helena Bonham Carter", "Burn Gorman", "Fiona Shaw", "Henry Cavill"], "https://64.media.tumblr.com/a6e1b5b4d92ff144ebfc8523e3d2dfd6/237a739cc3a6e9fa-13/s250x400/4da4bc2c50782d46ea0a2799194a4c7934c82c5d.jpg"],
 	        
 ["film", ["The Last Summer"], "2019", ["2020 09 25"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["William Bindley"], ["Maia Mitchell", "Halston Sage"], "https://64.media.tumblr.com/341a11f6cfdd916580db8695c1f3d157/78ab0a97c0633405-07/s250x400/04f5e80e1aedd0009183a33e770d397cf34bdfd7.jpg"],
 	        
