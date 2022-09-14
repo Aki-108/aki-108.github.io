@@ -2389,7 +2389,9 @@ var database = [
 
 ["series", ["Spare Me, Great Lord!", "Da Wang Rao Ming", "Da Wang Rao Ming"], ["2021", ""], [["2022 09 06", "", "S1"]], 0, ["chi"], ["action", "adventure", "animation"], ["bini", "nico"], ["watching", "ongoing"], [], [], "https://64.media.tumblr.com/366d6014357ba05e1fc750ba15ffcd02/497b2ccbfbf6dc4e-f0/s250x400/15219bc858f14cfc63f12e88e89f32f5f23d9503.jpg"],
 
-["film", ["Bubble"], "2022", ["2022 09 07"], 6, ["ger"], ["anime", "action"], ["bini", "jessie"], ["Netflix"], ["Tetsurô Araki"], [], "https://64.media.tumblr.com/d7626f3a5032579ef01af7d379539bde/dd55da0ce447a11e-6d/s250x400/2a094b38ee66fb3447d698095d7a95814576a7c4.jpg"]
+["film", ["Bubble"], "2022", ["2022 09 07"], 6, ["ger"], ["anime", "action"], ["bini", "jessie"], ["Netflix"], ["Tetsurô Araki"], [], "https://64.media.tumblr.com/d7626f3a5032579ef01af7d379539bde/dd55da0ce447a11e-6d/s250x400/2a094b38ee66fb3447d698095d7a95814576a7c4.jpg"],
+
+["audiobook", ["Silber - Das erste Buch der Träume"], "2013", [["2022 09 13", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Kerstin Gier"], ["Simona Pahl"], "https://64.media.tumblr.com/321096c84ee0bc857df885235a44ca5e/b2118a186370cdaf-7e/s400x600/279de0dcee13a4a9b21b0e17a6eff8a9f4d2d421.jpg"]
 
 /*
 ,
