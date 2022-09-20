@@ -2379,7 +2379,7 @@ var database = [
 
 ["film", ["Her"], "2013", ["2022 08 31"], 5, ["eng"], ["drama", "romance"], [], ["bibliothek"], ["Spike Jonze"], ["Joaquin Phoenix", "Amy Adams", "Chris Pratt", "Rooney Mara", "Olivia Wilde"], "https://64.media.tumblr.com/cc8681e22f5f6b7605008667fb5d15ef/152400b51030905c-f6/s250x400/2822127d534d7a110ce8f2dcdf2054f31a8c9e96.jpg"],
 
-["book", ["Turtles All the Way Down", "Schlaft gut, ihr fiesen Gedanken"], "2017", [["2022 08 31", ""]], 0, ["eng"], ["young adult novel"], [], ["bibliothek", "watching"], ["John Green"], [], "https://64.media.tumblr.com/33269ba2a869370b54d6a36d35e767ad/af483c7bc4b54628-95/s250x400/c05977355374b3322ce8ceafb44737fec1f9d288.jpg"],
+["book", ["Turtles All the Way Down", "Schlaft gut, ihr fiesen Gedanken"], "2017", [["2022 08 31", "2022 09 19"]], 7, ["eng"], ["young adult novel"], [], ["bibliothek"], ["John Green"], [], "https://64.media.tumblr.com/33269ba2a869370b54d6a36d35e767ad/af483c7bc4b54628-95/s250x400/c05977355374b3322ce8ceafb44737fec1f9d288.jpg"],
 
 ["film", ["Groundhog Day", "Und täglich grüßt das Murmeltier"], "1993", ["2022 08 31"], 6, ["ger"], ["comedy", "drama"], [], ["bibliothek"], ["Harold Ramis"], ["Bill Murray", "Andie MacDowell"], "https://64.media.tumblr.com/9a33c52b57f56e23e3f51f4a640686f8/24687f4f0ba96df9-b0/s250x400/5bd4b55279d11ae79f31491b66e3e19d1e4d4769.jpg"],
 
