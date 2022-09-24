@@ -1502,7 +1502,7 @@ var database = [
 	        
 ["film", ["Attack on Titan Part 1", "Attack on Titan - Film 1", "Shingeki no kyojin"], "2015", ["2017 06 18"], 3, ["ger"], ["action", "adventure"], ["bini", "sai", "nico"], ["Attack on Titan"], ["Shinji Higuchi"], [], "https://66.media.tumblr.com/28637a05483a4ba3afcb3fa1bb4686de/tumblr_ppuvhvjDCI1v2s5upo1_250.jpg"],
 	        
-["film", ["The Three Investigators and the Secret of Skeleton Island", "Die drei ??? - Das Geheimnis der Geisterinsel"], "2007", ["2017 08 20"], 6, ["ger"], ["adventure", "family"], ["bini", "syl"], ["Die Drei ???"], ["Florian Baxmeyer"], [], "https://66.media.tumblr.com/7545efb0d0d18a27af7cc8f6deac9754/tumblr_pxrg1vlgSh1v2s5upo1_250.jpg"],
+["film", ["The Three Investigators and the Secret of Skeleton Island", "Die drei ??? - Das Geheimnis der Geisterinsel"], "2007", ["2017 08 20", ["2022 09 22", "2022 09 23"]], 6, ["ger"], ["adventure", "family"], ["bini", "syl", "je"], ["Die Drei ???", "bibliothek"], ["Florian Baxmeyer"], [], "https://66.media.tumblr.com/7545efb0d0d18a27af7cc8f6deac9754/tumblr_pxrg1vlgSh1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Three Investigators and the Secret of Terror Castle", "Die drei ??? - Das verfluchte Schloss"], "2009", ["2017 08 21"], 6, ["ger"], ["adventure", "family"], ["bini", "syl"], ["Die Drei ???"], ["Florian Baxmeyer"], [], "https://66.media.tumblr.com/a7946d483045d65949db9904cd1ba015/tumblr_pxrg81cI4y1v2s5upo1_250.jpg"],
 	        
@@ -2367,7 +2367,7 @@ var database = [
 
 ["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", "2022 08 30"]], 6, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"],
 
-["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "2022 09 11", "S2"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
+["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "2022 09 11", "S2"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
 
 ["film", ["Z-O-M-B-I-E-S", "Zombies - Das Musical"], "2018", ["2022 08 25"], 5, ["ger"], ["family", "musical"], [], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/872f8f06df5b500939e5870fdd0d4ce4/14a080293eb78a81-04/s250x400/55213a056e85af0b98bb3456d63a3d1cb0a319bc.jpg"],
 
@@ -2391,9 +2391,11 @@ var database = [
 
 ["film", ["Bubble"], "2022", ["2022 09 07"], 6, ["ger"], ["anime", "action"], ["bini", "jessie"], ["Netflix"], ["Tetsurô Araki"], [], "https://64.media.tumblr.com/d7626f3a5032579ef01af7d379539bde/dd55da0ce447a11e-6d/s250x400/2a094b38ee66fb3447d698095d7a95814576a7c4.jpg"],
 
-["audiobook", ["Silber - Das erste Buch der Träume"], "2013", [["2022 09 13", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Kerstin Gier"], ["Simona Pahl"], "https://64.media.tumblr.com/321096c84ee0bc857df885235a44ca5e/b2118a186370cdaf-7e/s400x600/279de0dcee13a4a9b21b0e17a6eff8a9f4d2d421.jpg"],
+["audiobook", ["Silber - Das erste Buch der Träume"], "2013", [["2022 09 13", "2022 09 22"]], 7, ["ger"], [], [], ["bibliothek"], ["Kerstin Gier"], ["Simona Pahl"], "https://64.media.tumblr.com/321096c84ee0bc857df885235a44ca5e/b2118a186370cdaf-7e/s400x600/279de0dcee13a4a9b21b0e17a6eff8a9f4d2d421.jpg"],
 
-["film", ["The Takedown", "Ein MordsTeam ermittelt wieder", "Loin du périph"], "2022", [["2022 09 16", "2022 09 17"]], 5, ["ger"], ["action", "comedy"], ["bini", "syl", "je"], ["Netflix"], ["Louis Leterrier"], ["Omar Sy"], "https://64.media.tumblr.com/380466e4210fd631c390c53f78dabfb3/cbe10a080ff5490e-b1/s250x400/eccfdc59427ccc68aa6e7d874ad40423633c75e3.jpg"]
+["film", ["The Takedown", "Ein MordsTeam ermittelt wieder", "Loin du périph"], "2022", [["2022 09 16", "2022 09 17"]], 5, ["ger"], ["action", "comedy"], ["bini", "syl", "je"], ["Netflix"], ["Louis Leterrier"], ["Omar Sy"], "https://64.media.tumblr.com/380466e4210fd631c390c53f78dabfb3/cbe10a080ff5490e-b1/s250x400/eccfdc59427ccc68aa6e7d874ad40423633c75e3.jpg"],
+
+["audiobook", ["Project Hail Mary", "Der Astronaut"], "2021", [["2022 09 22", ""]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["Andy Weir"], ["Richard Barenberg"], "https://64.media.tumblr.com/0ddda7bf2f0b5eee73e72d266acf8087/043eec8401f925e9-e5/s250x400/9a69930348a1851c2f04126c000ffa0250f4a50c.jpg"]
 
 /*
 ,
