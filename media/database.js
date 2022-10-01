@@ -1504,7 +1504,7 @@ var database = [
 	        
 ["film", ["The Three Investigators and the Secret of Skeleton Island", "Die drei ??? - Das Geheimnis der Geisterinsel"], "2007", ["2017 08 20", ["2022 09 22", "2022 09 23"]], 6, ["ger"], ["adventure", "family"], ["bini", "syl", "je"], ["Die Drei ???", "bibliothek"], ["Florian Baxmeyer"], [], "https://66.media.tumblr.com/7545efb0d0d18a27af7cc8f6deac9754/tumblr_pxrg1vlgSh1v2s5upo1_250.jpg"],
 	        
-["film", ["The Three Investigators and the Secret of Terror Castle", "Die drei ??? - Das verfluchte Schloss"], "2009", ["2017 08 21"], 6, ["ger"], ["adventure", "family"], ["bini", "syl"], ["Die Drei ???"], ["Florian Baxmeyer"], [], "https://66.media.tumblr.com/a7946d483045d65949db9904cd1ba015/tumblr_pxrg81cI4y1v2s5upo1_250.jpg"],
+["film", ["The Three Investigators and the Secret of Terror Castle", "Die drei ??? - Das verfluchte Schloss"], "2009", ["2017 08 21", "2022 10 01"], 6, ["ger"], ["adventure", "family"], ["bini", "syl"], ["Die Drei ???", "bibliothek"], ["Florian Baxmeyer"], [], "https://66.media.tumblr.com/a7946d483045d65949db9904cd1ba015/tumblr_pxrg81cI4y1v2s5upo1_250.jpg"],
 	        
 ["film", ["Hilfe, wir sind offline!"], "2016", ["2017 10 23"], 5, ["ger"], ["comedy"], [], [], ["Ingo Rasper"], [], "https://66.media.tumblr.com/6aa4e7b05a285f119e0e2599dd9f0312/462a8354759e7b65-f8/s250x400/a69ee17be24929225689f8d9df7a6c462ece598a.jpg"],
 	        
