@@ -2395,7 +2395,13 @@ var database = [
 
 ["film", ["The Takedown", "Ein MordsTeam ermittelt wieder", "Loin du périph"], "2022", [["2022 09 16", "2022 09 17"]], 5, ["ger"], ["action", "comedy"], ["bini", "syl", "je"], ["Netflix"], ["Louis Leterrier"], ["Omar Sy"], "https://64.media.tumblr.com/380466e4210fd631c390c53f78dabfb3/cbe10a080ff5490e-b1/s250x400/eccfdc59427ccc68aa6e7d874ad40423633c75e3.jpg"],
 
-["audiobook", ["Project Hail Mary", "Der Astronaut"], "2021", [["2022 09 22", "2022 10 04"]], 8, ["ger"], ["sci-fi"], [], ["bibliothek"], ["Andy Weir"], ["Richard Barenberg"], "https://64.media.tumblr.com/0ddda7bf2f0b5eee73e72d266acf8087/043eec8401f925e9-e5/s250x400/9a69930348a1851c2f04126c000ffa0250f4a50c.jpg"]
+["audiobook", ["Project Hail Mary", "Der Astronaut"], "2021", [["2022 09 22", "2022 10 04"]], 8, ["ger"], ["sci-fi"], [], ["bibliothek"], ["Andy Weir"], ["Richard Barenberg"], "https://64.media.tumblr.com/0ddda7bf2f0b5eee73e72d266acf8087/043eec8401f925e9-e5/s250x400/9a69930348a1851c2f04126c000ffa0250f4a50c.jpg"],
+
+["series", ["Miss Kobayashi's Dragon Maid", "Miss Kobayashi's Dragon Maid", "Kobayashi-san Chi no Maid Dragon"], ["2017", "2022"], [["2022 09 29", "", "S1"]], 0, ["jap"], ["anime", "comedy", "fantasy", "slice of life"], ["bini", "jessie"], ["watching"], ["Coolkyoushinja", "Yuka Yamada"], [], "https://64.media.tumblr.com/18ba8f94a8acde4807ae4dabaf0ff8f0/a0fe5779aca8a63a-aa/s250x400/f7c53bdbf9d239f01ba3b916749d3805b9d51c2a.jpg"],
+
+["series", ["Cyberpunk: Edgerunners"], "2022", [["2022 10 03", "", "S1"]], 0, ["ger"], ["anime", "action", "sci-fi"], ["bini", "nico"], ["Netflix", "watching"], ["Rafal Jaki"], [], "https://64.media.tumblr.com/e4ed827970b29bb1ec7c6ce446e06109/a79cb184e7fe9ce6-94/s250x400/7ca0f1d7bb23260850c11c0b65b31f1ba8b7e739.jpg"],
+
+["audiobook", ["Silber – Das zweite Buch der Träume"], "2014", [["2022 10 05", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Kerstin Gier"], ["Simona Pahl"], "https://64.media.tumblr.com/697c07780faf1c2bb0fa1e8d85bacf4f/abc93a13bde57ee7-4d/s250x400/cb14e96ee4c939e4713652514507315dab4b22da.jpg"]
 
 /*
 ,
