@@ -2399,7 +2399,7 @@ var database = [
 
 ["series", ["Miss Kobayashi's Dragon Maid", "Miss Kobayashi's Dragon Maid", "Kobayashi-san Chi no Maid Dragon"], ["2017", "2022"], [["2022 09 29", "", "S1"]], 0, ["jap"], ["anime", "comedy", "fantasy", "slice of life"], ["bini", "jessie"], ["watching"], ["Coolkyoushinja", "Yuka Yamada"], [], "https://64.media.tumblr.com/18ba8f94a8acde4807ae4dabaf0ff8f0/a0fe5779aca8a63a-aa/s250x400/f7c53bdbf9d239f01ba3b916749d3805b9d51c2a.jpg"],
 
-["series", ["Cyberpunk: Edgerunners"], "2022", [["2022 10 03", "", "S1"]], 0, ["ger"], ["anime", "action", "sci-fi"], ["bini", "nico"], ["Netflix", "watching"], ["Rafal Jaki"], [], "https://64.media.tumblr.com/e4ed827970b29bb1ec7c6ce446e06109/a79cb184e7fe9ce6-94/s250x400/7ca0f1d7bb23260850c11c0b65b31f1ba8b7e739.jpg"],
+["series", ["Cyberpunk: Edgerunners"], "2022", [["2022 10 03", "2022 10 10", "S1"]], 7, ["ger"], ["anime", "action", "sci-fi"], ["bini", "nico"], ["Netflix"], ["Rafal Jaki"], [], "https://64.media.tumblr.com/e4ed827970b29bb1ec7c6ce446e06109/a79cb184e7fe9ce6-94/s250x400/7ca0f1d7bb23260850c11c0b65b31f1ba8b7e739.jpg"],
 
 ["audiobook", ["Silber – Das zweite Buch der Träume"], "2014", [["2022 10 05", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Kerstin Gier"], ["Simona Pahl"], "https://64.media.tumblr.com/697c07780faf1c2bb0fa1e8d85bacf4f/abc93a13bde57ee7-4d/s250x400/cb14e96ee4c939e4713652514507315dab4b22da.jpg"]
 
