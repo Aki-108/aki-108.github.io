@@ -2403,7 +2403,9 @@ var database = [
 
 ["audiobook", ["Silber – Das zweite Buch der Träume"], "2014", [["2022 10 05", "2022 10 12"]], 7, ["ger"], [], [], ["bibliothek"], ["Kerstin Gier"], ["Simona Pahl"], "https://64.media.tumblr.com/697c07780faf1c2bb0fa1e8d85bacf4f/abc93a13bde57ee7-4d/s250x400/cb14e96ee4c939e4713652514507315dab4b22da.jpg"],
 
-["audiobook", ["Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships", "Gullivers Reisen"], "1726", [["2022 10 12", ""]], 0, ["ger"], ["satire"], [], ["bibliothek", "watching"], ["Jonathan Swift"], ["Helmut Krauss", "Friedhelm Ptok", "Joachim Nottke"], "https://64.media.tumblr.com/840c83b2d343ddd670af5973eca3fcb8/40c0d0351b158cfd-00/s250x400/dcf95621efa632238944776f59217b9fa7ba6dac.jpg"]
+["audiobook", ["Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships", "Gullivers Reisen"], "1726", [["2022 10 12", "2022 10 13"]], 6, ["ger"], ["satire"], [], ["bibliothek"], ["Jonathan Swift"], ["Helmut Krauss", "Friedhelm Ptok", "Joachim Nottke"], "https://64.media.tumblr.com/840c83b2d343ddd670af5973eca3fcb8/40c0d0351b158cfd-00/s250x400/dcf95621efa632238944776f59217b9fa7ba6dac.jpg"],
+
+["audiobook", ["Awaken", "Die Rebellion der Maddie Freeman"], "2011", [["2022 10 13", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Katie Kacvinsky"], ["Marie Bierstedt"], "https://64.media.tumblr.com/f5cfb3744f147ce7594a6c72624528e2/057b8932ae6687b1-1a/s250x400/d1d5db00caa187a49928156e0b7caa39e650b2b5.jpg"]
 
 /*
 ,
