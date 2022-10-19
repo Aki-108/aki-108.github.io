@@ -2397,7 +2397,7 @@ var database = [
 
 ["audiobook", ["Project Hail Mary", "Der Astronaut"], "2021", [["2022 09 22", "2022 10 04"]], 9, ["ger"], ["sci-fi"], [], ["bibliothek"], ["Andy Weir"], ["Richard Barenberg"], "https://64.media.tumblr.com/0ddda7bf2f0b5eee73e72d266acf8087/043eec8401f925e9-e5/s250x400/9a69930348a1851c2f04126c000ffa0250f4a50c.jpg"],
 
-["series", ["Miss Kobayashi's Dragon Maid", "Miss Kobayashi's Dragon Maid", "Kobayashi-san Chi no Maid Dragon"], ["2017", "2022"], [["2022 09 29", "", "S1"]], 0, ["jap"], ["anime", "comedy", "fantasy", "slice of life"], ["bini", "jessie"], ["watching"], ["Coolkyoushinja", "Yuka Yamada"], [], "https://64.media.tumblr.com/18ba8f94a8acde4807ae4dabaf0ff8f0/a0fe5779aca8a63a-aa/s250x400/f7c53bdbf9d239f01ba3b916749d3805b9d51c2a.jpg"],
+["series", ["Miss Kobayashi's Dragon Maid", "Miss Kobayashi's Dragon Maid", "Kobayashi-san Chi no Maid Dragon"], ["2017", "2022"], [["2022 09 29", "2022 10 19", "S1"]], 0, ["jap"], ["anime", "comedy", "fantasy", "slice of life"], ["bini", "jessie"], [], ["Coolkyoushinja", "Yuka Yamada"], [], "https://64.media.tumblr.com/18ba8f94a8acde4807ae4dabaf0ff8f0/a0fe5779aca8a63a-aa/s250x400/f7c53bdbf9d239f01ba3b916749d3805b9d51c2a.jpg"],
 
 ["series", ["Cyberpunk: Edgerunners"], "2022", [["2022 10 03", "2022 10 10", "S1"]], 7, ["ger"], ["anime", "action", "sci-fi"], ["bini", "nico"], ["Netflix"], ["Rafal Jaki"], [], "https://64.media.tumblr.com/e4ed827970b29bb1ec7c6ce446e06109/a79cb184e7fe9ce6-94/s250x400/7ca0f1d7bb23260850c11c0b65b31f1ba8b7e739.jpg"],
 
@@ -2405,7 +2405,7 @@ var database = [
 
 ["audiobook", ["Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships", "Gullivers Reisen"], "1726", [["2022 10 12", "2022 10 13"]], 6, ["ger"], ["satire"], [], ["bibliothek"], ["Jonathan Swift"], ["Helmut Krauss", "Friedhelm Ptok", "Joachim Nottke"], "https://64.media.tumblr.com/840c83b2d343ddd670af5973eca3fcb8/40c0d0351b158cfd-00/s250x400/dcf95621efa632238944776f59217b9fa7ba6dac.jpg"],
 
-["audiobook", ["Awaken", "Die Rebellion der Maddie Freeman"], "2011", [["2022 10 13", "2022 10 19"]], 4, ["ger"], [], [], ["bibliothek"], ["Katie Kacvinsky"], ["Marie Bierstedt"], "https://64.media.tumblr.com/f5cfb3744f147ce7594a6c72624528e2/057b8932ae6687b1-1a/s250x400/d1d5db00caa187a49928156e0b7caa39e650b2b5.jpg"],
+["audiobook", ["Awaken", "Die Rebellion der Maddie Freeman"], "2011", [["2022 10 13", "2022 10 19"]], 4, ["ger"], [], [], ["bibliothek", "ongoing"], ["Katie Kacvinsky"], ["Marie Bierstedt"], "https://64.media.tumblr.com/f5cfb3744f147ce7594a6c72624528e2/057b8932ae6687b1-1a/s250x400/d1d5db00caa187a49928156e0b7caa39e650b2b5.jpg"],
 
 ["film", ["Drifting Home", "Drifting Home", "Ame wo Tsugeru Hyôryû Danchi"], "2022", ["2022 10 15"], 8, ["ger"], ["anime", "adventure"], ["bini", "mai"], ["Netflix"], ["Hiroyasu Ishida"], [], "https://64.media.tumblr.com/1d754688421dd4c63efbf0cb912e99ff/c398be15c965b03b-c6/s250x400/08645cc50d46b1ad7b975fd5b4d9eb96e18f56bc.jpg"],
 
