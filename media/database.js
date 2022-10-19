@@ -2405,11 +2405,15 @@ var database = [
 
 ["audiobook", ["Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships", "Gullivers Reisen"], "1726", [["2022 10 12", "2022 10 13"]], 6, ["ger"], ["satire"], [], ["bibliothek"], ["Jonathan Swift"], ["Helmut Krauss", "Friedhelm Ptok", "Joachim Nottke"], "https://64.media.tumblr.com/840c83b2d343ddd670af5973eca3fcb8/40c0d0351b158cfd-00/s250x400/dcf95621efa632238944776f59217b9fa7ba6dac.jpg"],
 
-["audiobook", ["Awaken", "Die Rebellion der Maddie Freeman"], "2011", [["2022 10 13", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Katie Kacvinsky"], ["Marie Bierstedt"], "https://64.media.tumblr.com/f5cfb3744f147ce7594a6c72624528e2/057b8932ae6687b1-1a/s250x400/d1d5db00caa187a49928156e0b7caa39e650b2b5.jpg"],
+["audiobook", ["Awaken", "Die Rebellion der Maddie Freeman"], "2011", [["2022 10 13", "2022 10 19"]], 4, ["ger"], [], [], ["bibliothek"], ["Katie Kacvinsky"], ["Marie Bierstedt"], "https://64.media.tumblr.com/f5cfb3744f147ce7594a6c72624528e2/057b8932ae6687b1-1a/s250x400/d1d5db00caa187a49928156e0b7caa39e650b2b5.jpg"],
 
 ["film", ["Drifting Home", "Drifting Home", "Ame wo Tsugeru Hyôryû Danchi"], "2022", ["2022 10 15"], 8, ["ger"], ["anime", "adventure"], ["bini", "mai"], ["Netflix"], ["Hiroyasu Ishida"], [], "https://64.media.tumblr.com/1d754688421dd4c63efbf0cb912e99ff/c398be15c965b03b-c6/s250x400/08645cc50d46b1ad7b975fd5b4d9eb96e18f56bc.jpg"],
 
-["series", ["Fakes"], "2022", [["2022 10 16", "", "S1"]], 0, ["ger"], ["comedy"], ["bini", "nico"], ["Netflix", "watching"], ["David Turko", "Tabia Lau"], ["Emilija Baranac"], "https://64.media.tumblr.com/4aaa9fb31f42df094b5900a1b5b10ee8/c1b9790c9531b0e1-1b/s250x400/13aff57df0855f1ae37101210c08b317167483c0.jpg"]
+["series", ["Fakes"], "2022", [["2022 10 16", "", "S1"]], 0, ["ger"], ["comedy"], ["bini", "nico"], ["Netflix", "watching"], ["David Turko", "Tabia Lau"], ["Emilija Baranac"], "https://64.media.tumblr.com/4aaa9fb31f42df094b5900a1b5b10ee8/c1b9790c9531b0e1-1b/s250x400/13aff57df0855f1ae37101210c08b317167483c0.jpg"],
+
+["series", ["My Teen Romantic Comedy SNAFU", "My Teen Romantic Comedy SNAFU", "Yahari Ore no Seishun Love Comedy wa Machigatteiru."], "2013", [["2022 10 17", "", "S1"]], 0, ["ger"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Marta Bechtol", "Touko Machida", "Shotaro Suga"], ["actors"], "https://64.media.tumblr.com/8a62aa20987b7d809b9e6ce01e031952/9b8ddd3b3987d78f-4a/s250x400/4c9be1bba2e1e194c8b23912f9e4c128f41144d0.jpg"],
+
+["audiobook", ["The Lost Village", "Das Dorf der toten Seelen", "Staden"], "2019", [["2022 10 19", ""]], 0, ["ger"], ["horror", "mystery"], [], ["bibliothek", "watching"], ["Camilla Sten"], ["Katja Pilaski"], "https://64.media.tumblr.com/ef7e8c17555f37c69fa12d26df1814b8/c55a9b0b5427dde7-ac/s250x400/3312022cdb744f80de06e53c246ff6b6af0ace90.jpg"]
 
 /*
 ,
