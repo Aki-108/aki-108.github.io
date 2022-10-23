@@ -564,7 +564,7 @@ var database = [
 	        
 ["film", ["Steinzeit – Das Experiment: Steinzeit-Kinder"], "2007", ["2020 09 14"], 5, ["ger"], ["reality-tv", "documentary"], [], ["DVD"], [], [], "https://64.media.tumblr.com/8bb35e0c8e0aabdde9b04cbf5c90ee94/dabfd6ff7b8b7930-bb/s250x400/092f4f016e091d45e0ac36f95806b311eebccfae.jpg"],
 	        
-["film", ["Transformers: The Last Knight", "Transformers 5: The Last Knight"], "2017", ["2017 07 19"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Transformers", "Kino"], ["Michael Bay"], ["Mark Wahlberg", "Anthony Hopkins", "Josh Duhamel", "Stanley Tucci", "Steve Buscemi", "John Goodman", "Omar Sy", "Martin McCreadie"], "https://66.media.tumblr.com/aeaef5ce22de525ce1bdf7e9d1e811d9/tumblr_pxnkebxWTN1v2s5upo1_250.jpg"],
+["film", ["Transformers: The Last Knight", "Transformers 5: The Last Knight"], "2017", ["2017 07 19"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Transformers", "Kino"], ["Michael Bay"], ["Mark Wahlberg", "Anthony Hopkins", "Josh Duhamel", "Stanley Tucci", "Steve Buscemi", "John Goodman", "Omar Sy", "Martin McCreadie", "Isabela Merced"], "https://66.media.tumblr.com/aeaef5ce22de525ce1bdf7e9d1e811d9/tumblr_pxnkebxWTN1v2s5upo1_250.jpg"],
 	        
 ["film", ["Zombieland"], "2009", ["2017 07 31"], 7, ["ger"], ["adventure", "comedy", "fantasy", "horror"], ["nico", "sai", "jenny"], [], ["Ruben Fleischer"], ["Jesse Eisenberg", "Woody Harrelson", "Emma Stone", "Abigail Breslin", "Bill Murray"], "https://66.media.tumblr.com/6b6285b5a200e3a84ba7b3255787e593/tumblr_pxnkhdoJuQ1v2s5upo1_250.jpg"],
 	        
@@ -1270,7 +1270,7 @@ var database = [
 	        
 ["film", ["Resident Evil: Retribution"], "2012", ["2016 05 25"], 8, ["ger"], ["action", "horror"], [], ["Resident Evil"], ["Paul W.S. Anderson"], ["Milla Jovovich", "Kevin Durand"], "https://68.media.tumblr.com/49b938188ffd8e03c02329cce7bddf28/tumblr_o7u9thZguG1v2s5upo1_250.jpg"],
 	        
-["film", ["Laggies", "Grow Up!? - Erwachsen werd' ich später"], "2014", ["2016 05 28"], 7, ["ger"], ["comedy", "drama"], [], [], ["Lynn Shelton"], ["Keira Knightley", "Jeff Garlin", "Chloë Grace Moretz", "Sam Rockwell"], "https://68.media.tumblr.com/029332ab558404bc2721c93c84d88730/tumblr_o7wh4hPXdb1v2s5upo1_250.jpg"],
+["film", ["Laggies", "Grow Up!? - Erwachsen werd' ich später"], "2014", ["2016 05 28"], 7, ["ger"], ["comedy", "drama"], [], [], ["Lynn Shelton"], ["Keira Knightley", "Jeff Garlin", "Chloë Grace Moretz", "Sam Rockwell", "Kaitlyn Dever"], "https://68.media.tumblr.com/029332ab558404bc2721c93c84d88730/tumblr_o7wh4hPXdb1v2s5upo1_250.jpg"],
 	        
 ["film", ["Goodbye to All That", "Suddenly Single"], "2014", ["2016 06 19"], 3, ["ger"], ["comedy", "drama"], [], [], ["Angus MacLachlan"], ["Paul Schneider"], "https://68.media.tumblr.com/2b52387fb84ce6f9e1e0ab7b2f54910b/tumblr_o90ykbAJXr1v2s5upo1_250.jpg"],
 	        
@@ -2415,7 +2415,11 @@ var database = [
 
 ["audiobook", ["The Lost Village", "Das Dorf der toten Seelen", "Staden"], "2019", [["2022 10 19", ""]], 0, ["ger"], ["horror", "mystery"], [], ["bibliothek", "watching"], ["Camilla Sten"], ["Katja Pilaski"], "https://64.media.tumblr.com/ef7e8c17555f37c69fa12d26df1814b8/c55a9b0b5427dde7-ac/s250x400/3312022cdb744f80de06e53c246ff6b6af0ace90.jpg"],
 
-["film", ["Do Revenge"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Jennifer Kaytin Robinson"], ["Camila Mendes", "Maya Hawke", "Austin Abrams", "Alisha Boe", "Paris Berelc"], "https://64.media.tumblr.com/de614a637a4df381ed7f045087c2c4de/5b169a5927624bab-b0/s250x400/d44b1ee3845732d607f6050acf4eaab9028121fb.jpg"]
+["film", ["Do Revenge"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Jennifer Kaytin Robinson"], ["Camila Mendes", "Maya Hawke", "Austin Abrams", "Alisha Boe", "Paris Berelc"], "https://64.media.tumblr.com/de614a637a4df381ed7f045087c2c4de/5b169a5927624bab-b0/s250x400/d44b1ee3845732d607f6050acf4eaab9028121fb.jpg"],
+
+["film", ["Rosaline"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Karen Maine"], ["Kaitlyn Dever", "Isabela Merced"], "https://64.media.tumblr.com/65ff2e4c37b30140025b9a67c743d80e/d66b54865dd0ca32-cb/s250x400/e4214a5a0ad73efdcaec7daf94d3e5578cfbf560.jpg"],
+
+["film", ["OMG: Oh My God!"], "2012", ["2022 10 23"], 7, ["hin"], ["comedy", "drama"], ["bini", "mai"], ["Netflix"], ["Umesh Shukla"], [], "https://64.media.tumblr.com/6c7ba0aa69300318c5c4422000992125/a32f24e90a5db3ce-e4/s250x400/a3543c8066037657a7d3ef2548a12619b4f129c4.jpg"]
 
 /*
 ,
