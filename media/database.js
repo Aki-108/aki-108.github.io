@@ -2409,7 +2409,7 @@ var database = [
 
 ["film", ["Drifting Home", "Drifting Home", "Ame wo Tsugeru Hyôryû Danchi"], "2022", ["2022 10 15"], 8, ["ger"], ["anime", "adventure"], ["bini", "mai"], ["Netflix"], ["Hiroyasu Ishida"], [], "https://64.media.tumblr.com/1d754688421dd4c63efbf0cb912e99ff/c398be15c965b03b-c6/s250x400/08645cc50d46b1ad7b975fd5b4d9eb96e18f56bc.jpg"],
 
-["series", ["Fakes"], "2022", [["2022 10 16", "", "S1"]], 0, ["ger"], ["comedy"], ["bini", "nico"], ["Netflix", "watching"], ["David Turko", "Tabia Lau"], ["Emilija Baranac"], "https://64.media.tumblr.com/4aaa9fb31f42df094b5900a1b5b10ee8/c1b9790c9531b0e1-1b/s250x400/13aff57df0855f1ae37101210c08b317167483c0.jpg"],
+["series", ["Fakes"], "2022", [["2022 10 16", "2022 10 23", "S1"]], 6, ["ger"], ["comedy"], ["bini", "nico"], ["Netflix"], ["David Turko", "Tabia Lau"], ["Emilija Baranac"], "https://64.media.tumblr.com/4aaa9fb31f42df094b5900a1b5b10ee8/c1b9790c9531b0e1-1b/s250x400/13aff57df0855f1ae37101210c08b317167483c0.jpg"],
 
 ["series", ["My Teen Romantic Comedy SNAFU", "My Teen Romantic Comedy SNAFU", "Yahari Ore no Seishun Love Comedy wa Machigatteiru."], "2013", [["2022 10 17", "", "S1"]], 0, ["ger"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Marta Bechtol", "Touko Machida", "Shotaro Suga"], ["actors"], "https://64.media.tumblr.com/8a62aa20987b7d809b9e6ce01e031952/9b8ddd3b3987d78f-4a/s250x400/4c9be1bba2e1e194c8b23912f9e4c128f41144d0.jpg"],
 
