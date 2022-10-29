@@ -1484,7 +1484,7 @@ var database = [
 	        
 ["film", ["Sherlock Holmes"], "2009", ["2016 05 29", "2016 10 19", "2017 07 20", "2018 03 07", "2021 05 07", ["2022 10 14", "2022 10 15"]], 9, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Sherlock Holmes", "fav", "Netflix"], ["Guy Ritchie"], ["Robert Downey Jr.", "Rachel McAdams", "Mark Strong", "Jude Law", "Eddie Marsan"], "https://66.media.tumblr.com/3b03ca044ab3248a0e4b4292ff22e9a7/tumblr_o7zwr8yEKB1v2s5upo1_250.jpg"],
 	        
-["film", ["Sherlock Holmes: A Game of Shadows", "Sherlock Holmes - Spiel im Schatten"], "2011", ["2016 05 30", "2018 07 26", "2019 09 18"], 9, ["ger", "eng"], ["action", "adventure"], [], ["Sherlock Holmes", "Netflix", "fav"], ["Guy Ritchie"], ["Robert Downey Jr.", "Jude Law", "Noomi Rapace", "Rachel McAdams", "Jared Harris", "Stephen Fry", "Eddie Marsan"], "https://68.media.tumblr.com/a6f4f97c4a99d895cf50feb151c7623c/tumblr_o81o7cc2WL1v2s5upo1_250.jpg"],
+["film", ["Sherlock Holmes: A Game of Shadows", "Sherlock Holmes - Spiel im Schatten"], "2011", ["2016 05 30", "2018 07 26", "2019 09 18", ["2022 10 28", "2022 10 29"]], 9, ["ger", "eng"], ["action", "adventure"], ["bini", "syl", "je"], ["Sherlock Holmes", "Netflix", "fav"], ["Guy Ritchie"], ["Robert Downey Jr.", "Jude Law", "Noomi Rapace", "Rachel McAdams", "Jared Harris", "Stephen Fry", "Eddie Marsan"], "https://68.media.tumblr.com/a6f4f97c4a99d895cf50feb151c7623c/tumblr_o81o7cc2WL1v2s5upo1_250.jpg"],
 	        
 ["film", ["Isi & Ossi"], "2020", ["2020 10 12", "2021 02 27"], 8, ["ger"], ["comedy", "romance"], ["bini", "mai"], ["Netflix"], ["Oliver Kienle"], ["Lisa Vicari"], "https://64.media.tumblr.com/0185fee186caed73f134c23cd9c0691f/0d23c573ff9d8992-aa/s250x400/19becf5a1ae3e47aeb60c082833b927057e4f9d2.jpg"],
 	        
