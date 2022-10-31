@@ -1598,7 +1598,7 @@ var database = [
 
 ["series", ["Terror in Resonance", "Terror in Tokio", "Zankyô no teroru"], "2014", [["2014 11 14", "2015 05 14", "S1E1-S1E3"]], 5, ["jap"], ["anime", "drama"], [], ["dropped"], ["Shin'ichirô Watanabe", "Sayo Aoi", "Yuzuru Tachikawa"], [], "https://64.media.tumblr.com/829fa42796f294a0988732be1400fc03/726a3bdb7a4dc9b2-00/s250x400/25d871934b9c3d5fcb5834b26656cfe67857be87.jpg"],
 
-["series", ["My Teen Romantic Comedy SNAFU", "My Teen Romantic Comedy SNAFU", "Yahari ore no seishun rabukome wa machigatteiru."], ["2013", ""], [["2015 05 28", "S2E1"]], 0, ["jap"], ["anime", "comedy"], [], ["dropped", "ongoing"], ["Touko Machida", "Shotaro Suga", "Katsuhiko Takayama"], [], "https://64.media.tumblr.com/68cca8602889690dd8d4e65a2ae1bef4/397133657a1cee8f-b5/s250x400/ff61f2e1af4b58fb1fd4cfb768e4f04aa6a7f066.jpg"],
+["series", ["My Teen Romantic Comedy SNAFU", "My Teen Romantic Comedy SNAFU", "Yahari ore no seishun rabukome wa machigatteiru."], ["2013", ""], [["2015 05 28", "S2E1"], ["2022 10 17", "2022 10 31", "S1"]], 6, ["jap", "ger"], ["anime", "comedy"], ["bini", "nico"], ["ongoing"], ["Touko Machida", "Shotaro Suga", "Katsuhiko Takayama"], [], "https://64.media.tumblr.com/68cca8602889690dd8d4e65a2ae1bef4/397133657a1cee8f-b5/s250x400/ff61f2e1af4b58fb1fd4cfb768e4f04aa6a7f066.jpg"],
 
 ["series", ["Un-Go"], "2011", [["2015 03 26", "S1E1"]], 0, ["jap"], ["anime", "crime"], [], ["dropped"], ["Shô Aikawa", "Ango Sakaguchi"], [], "https://64.media.tumblr.com/48622d170422a1bb6a561701988fb573/645879eb4ce5390e-bf/s250x400/7a25eaa9c1524343d2df1275c17522f4e1b6393f.jpg"],
 
@@ -2410,8 +2410,6 @@ var database = [
 ["film", ["Drifting Home", "Drifting Home", "Ame wo Tsugeru Hyôryû Danchi"], "2022", ["2022 10 15"], 8, ["ger"], ["anime", "adventure"], ["bini", "mai"], ["Netflix"], ["Hiroyasu Ishida"], [], "https://64.media.tumblr.com/1d754688421dd4c63efbf0cb912e99ff/c398be15c965b03b-c6/s250x400/08645cc50d46b1ad7b975fd5b4d9eb96e18f56bc.jpg"],
 
 ["series", ["Fakes"], "2022", [["2022 10 16", "2022 10 23", "S1"]], 6, ["ger"], ["comedy"], ["bini", "nico"], ["Netflix"], ["David Turko", "Tabia Lau"], ["Emilija Baranac"], "https://64.media.tumblr.com/4aaa9fb31f42df094b5900a1b5b10ee8/c1b9790c9531b0e1-1b/s250x400/13aff57df0855f1ae37101210c08b317167483c0.jpg"],
-
-["series", ["My Teen Romantic Comedy SNAFU", "My Teen Romantic Comedy SNAFU", "Yahari Ore no Seishun Love Comedy wa Machigatteiru."], "2013", [["2022 10 17", "", "S1"]], 0, ["ger"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Marta Bechtol", "Touko Machida", "Shotaro Suga"], ["actors"], "https://64.media.tumblr.com/8a62aa20987b7d809b9e6ce01e031952/9b8ddd3b3987d78f-4a/s250x400/4c9be1bba2e1e194c8b23912f9e4c128f41144d0.jpg"],
 
 ["audiobook", ["The Lost Village", "Das Dorf der toten Seelen", "Staden"], "2019", [["2022 10 19", "2022 10 24"]], 5, ["ger"], ["horror", "mystery"], [], ["bibliothek"], ["Camilla Sten"], ["Katja Pilaski"], "https://64.media.tumblr.com/ef7e8c17555f37c69fa12d26df1814b8/c55a9b0b5427dde7-ac/s250x400/3312022cdb744f80de06e53c246ff6b6af0ace90.jpg"],
 
