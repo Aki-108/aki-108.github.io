@@ -2421,7 +2421,11 @@ var database = [
 
 ["audiobook", ["Alea Aquarius: Der Ruf des Wassers"], "2015", [["2022 10 25", "2022 10 27"]], 6, ["ger"], [], [], ["bibliothek"], ["Tanya Stewner"], ["Laura Maire"], "https://64.media.tumblr.com/caa9e5145169753620f676362da4f43c/f45f07eaf3c47ea6-3b/s250x400/50351f7b08010b4e44fde96c40abaf9da6996a20.jpg"],
 
-["audiobook", ["Alea Aquarius: Die Farben des Meeres"], "2016", [["2022 10 28", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Tanya Stewner"], ["Laura Maire"], "https://64.media.tumblr.com/946e54d4aee6d4587097dc806152ce4c/bf15559b14ab2f45-d0/s250x400/d4fc15cd59959a4d569ef367d7b717ec3833d193.jpg"]
+["audiobook", ["Alea Aquarius: Die Farben des Meeres"], "2016", [["2022 10 28", "2022 11 02"]], 5, ["ger"], [], [], ["bibliothek"], ["Tanya Stewner"], ["Laura Maire"], "https://64.media.tumblr.com/946e54d4aee6d4587097dc806152ce4c/bf15559b14ab2f45-d0/s250x400/d4fc15cd59959a4d569ef367d7b717ec3833d193.jpg"],
+
+["series", ["Baccano!"], "2007", [["2022 10 31", "S1E1"]], 0, ["jap"], ["anime", "action", "comedy", "mystery", "supernatural"], ["bini", "nico"], ["dropped"], ["Ryôgo Narita"], [], "https://64.media.tumblr.com/ae4eb81e3d895ace6aa26839941c8288/202fcf42d50255a9-2c/s250x400/ac8af8a4f40afd40ceb5c214168d6516344014d8.jpg"],
+
+["audiobook", ["Alea Aquarius: Das Geheimnis der Ozeane"], "2017", [["2022 11 02", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Tanya Stewner"], ["Laura Maire"], "https://64.media.tumblr.com/3b57ca27dfd4974bfffd7c3c090e7cec/b4770b033896ca04-73/s250x400/23286b0abe2c574db9a0f41120d914dcba918276.jpg"]
 
 /*
 ,
