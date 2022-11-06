@@ -2367,7 +2367,7 @@ var database = [
 
 ["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", "2022 08 30"]], 6, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"],
 
-["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "2022 09 11", "S2"], ["2022 10 03", "", "S3"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
+["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "2022 09 11", "S2"], ["2022 10 03", "2022 11 06", "S3"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
 
 ["film", ["Z-O-M-B-I-E-S", "Zombies - Das Musical"], "2018", ["2022 08 25"], 5, ["ger"], ["family", "musical"], [], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/872f8f06df5b500939e5870fdd0d4ce4/14a080293eb78a81-04/s250x400/55213a056e85af0b98bb3456d63a3d1cb0a319bc.jpg"],
 
@@ -2427,7 +2427,9 @@ var database = [
 
 ["audiobook", ["Alea Aquarius: Das Geheimnis der Ozeane"], "2017", [["2022 11 02", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Tanya Stewner"], ["Laura Maire"], "https://64.media.tumblr.com/3b57ca27dfd4974bfffd7c3c090e7cec/b4770b033896ca04-73/s250x400/23286b0abe2c574db9a0f41120d914dcba918276.jpg"],
 
-["film", ["Sex Appeal"], "2022", ["2022 11 04"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Talia Osteen"], [], "https://64.media.tumblr.com/67ca94abcc3f34fb105b898719587697/33a38d0d6b83ab39-00/s250x400/0633a90d76b7800bd5302339eb6d396f2e522aa7.jpg"]
+["film", ["Sex Appeal"], "2022", ["2022 11 04"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Talia Osteen"], [], "https://64.media.tumblr.com/67ca94abcc3f34fb105b898719587697/33a38d0d6b83ab39-00/s250x400/0633a90d76b7800bd5302339eb6d396f2e522aa7.jpg"],
+
+["series", ["Running Wild with Bear Grylls", "Bear Grylls: Stars am Limit"], ["2014", ""], [["2022 11 06", "", "S5"]], 0, ["ger"], ["adventure", "comedy"], ["bini", "nico"], ["Disney+", "watching"], ["Delbert Shoopman"], ["Bear Grylls"], "https://64.media.tumblr.com/bd30ebffcb9207446006f85616a56b4d/98d58338f9bbb26e-89/s250x400/af6e0494495deba03c86befa1cc616477843ce7e.jpg"]
 
 /*
 ,
