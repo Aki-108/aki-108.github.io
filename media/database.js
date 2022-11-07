@@ -33,7 +33,7 @@ var database = [
 	        
 ["series", ["MythBusters", "MythBusters - Die Wissensjäger"], ["2003", "2018"], ["", ["2021 08 28", "S12E6,7,2"]], 6, ["ger"], ["documentary"], [], [], ["Peter Rees"], [], "https://68.media.tumblr.com/e0afaae383fed8ecc9e625444a06c618/tumblr_oov10gocsR1v2s5upo1_250.jpg"],
 	        
-["series", ["The Legend of Korra", "Die Legende von Korra"], "2012 - 2014", [""], 0, ["ger"], ["animation", "action"], [], ["dropped"], ["Michael Dante DiMartino", "Bryan Konietzko"], [], "https://66.media.tumblr.com/0965a0c472ec082166ab735d1e2c9a17/tumblr_ofm9jr2WK81v2s5upo1_250.jpg"],
+["series", ["The Legend of Korra", "Die Legende von Korra"], "2012 - 2014", ["", ["2022 11 07", "", "S1"]], 0, ["ger"], ["animation", "action"], [], ["dropped", "watching"], ["Michael Dante DiMartino", "Bryan Konietzko"], [], "https://66.media.tumblr.com/0965a0c472ec082166ab735d1e2c9a17/tumblr_ofm9jr2WK81v2s5upo1_250.jpg"],
 
 ["film", ["The Green Hornet"], "2021", [""], 0, ["ger"], ["action", "comedy"], [], ["DVD"], ["Michel Gondry"], ["Seth Rogen", "Jay Chou", "Cameron Diaz", "Tom Wilkinson", "Christoph Waltz", "David Harbour", "Jamie Harris", "Lio Tipton"], "https://64.media.tumblr.com/91cc77b24afc5dc1177e1247d57c1d69/57f6525693893d37-13/s250x400/3a0995fe87b9dcb027b97a4f49382b828ff67302.jpg"],
 
@@ -2425,7 +2425,7 @@ var database = [
 
 ["series", ["Baccano!"], "2007", [["2022 10 31", "S1E1"]], 0, ["jap"], ["anime", "action", "comedy", "mystery", "supernatural"], ["bini", "nico"], ["dropped"], ["Ryôgo Narita"], [], "https://64.media.tumblr.com/ae4eb81e3d895ace6aa26839941c8288/202fcf42d50255a9-2c/s250x400/ac8af8a4f40afd40ceb5c214168d6516344014d8.jpg"],
 
-["audiobook", ["Alea Aquarius: Das Geheimnis der Ozeane"], "2017", [["2022 11 02", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Tanya Stewner"], ["Laura Maire"], "https://64.media.tumblr.com/3b57ca27dfd4974bfffd7c3c090e7cec/b4770b033896ca04-73/s250x400/23286b0abe2c574db9a0f41120d914dcba918276.jpg"],
+["audiobook", ["Alea Aquarius: Das Geheimnis der Ozeane"], "2017", [["2022 11 02", "2022 11 07", "Part 1"]], 4, ["ger"], [], [], ["bibliothek", "ongoing", "dropped"], ["Tanya Stewner"], ["Laura Maire"], "https://64.media.tumblr.com/3b57ca27dfd4974bfffd7c3c090e7cec/b4770b033896ca04-73/s250x400/23286b0abe2c574db9a0f41120d914dcba918276.jpg"],
 
 ["film", ["Sex Appeal"], "2022", ["2022 11 04"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Talia Osteen"], [], "https://64.media.tumblr.com/67ca94abcc3f34fb105b898719587697/33a38d0d6b83ab39-00/s250x400/0633a90d76b7800bd5302339eb6d396f2e522aa7.jpg"],
 
