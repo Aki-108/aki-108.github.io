@@ -2431,7 +2431,11 @@ var database = [
 
 ["series", ["Running Wild with Bear Grylls", "Bear Grylls: Stars am Limit"], ["2014", ""], [["2022 11 06", "", "S5"]], 0, ["ger"], ["adventure", "comedy"], ["bini", "nico"], ["Disney+", "watching"], ["Delbert Shoopman"], ["Bear Grylls"], "https://64.media.tumblr.com/bd30ebffcb9207446006f85616a56b4d/98d58338f9bbb26e-89/s250x400/af6e0494495deba03c86befa1cc616477843ce7e.jpg"],
 
-["audiobook", ["John Sinclair 33: Irrfahrt ins Jenseits"], "2018", ["2022 11 08"], 6, ["ger"], ["horror"], [], ["bibliothek"], ["Jason Dark"], ["Dietmar Wunder", "Alexandra Lange"], "https://64.media.tumblr.com/c104deaeb01805d0a11ce5e88b45c95d/a295795ef81b53cc-49/s250x400/110e135a1cb3e9fcc5c69bd6aff30b2ed711e784.jpg"]
+["audiobook", ["John Sinclair: Irrfahrt ins Jenseits"], "2018", ["2022 11 08"], 6, ["ger"], ["horror"], [], ["bibliothek"], ["Jason Dark"], ["Dietmar Wunder", "Alexandra Lange"], "https://64.media.tumblr.com/c104deaeb01805d0a11ce5e88b45c95d/a295795ef81b53cc-49/s250x400/110e135a1cb3e9fcc5c69bd6aff30b2ed711e784.jpg"],
+
+["audiobook", ["Die Geschichte der Bienen"], "2015", [["2022 11 08", "2022 11 09", "1h55min"]], 0, ["ger"], [], [], ["bibliothek", "dropped"], ["Maja Lunde"], ["Thomas M. Meinhardt", "Bibiana Beglau", "Markus Fennert"], "https://64.media.tumblr.com/02d5dc38adb559056de9bc971765e905/eb4d262d191565c5-7c/s400x600/ec2c1641f646c0c3ce8018192e5d1f539cd7d537.jpg"],
+
+["audiobook", ["Numbers", "Numbers: den Tod vor Augen"], "2008", [["2022 11 10", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Rachel Ward"], ["Sascha Icks", "Philipp Schepmann"], "https://64.media.tumblr.com/0e2f572287be528e5711dc309457c0e8/aae5be0b66188706-b0/s250x400/9f3adc21045e5a585b164931d8587cc0e8245716.jpg"]
 
 /*
 ,
