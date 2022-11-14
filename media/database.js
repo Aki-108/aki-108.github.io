@@ -2267,7 +2267,7 @@ var database = [
 
 ["film", ["Ride the Cyclone"], "2019", ["2022 06 20"], 7, ["eng"], ["musical"], [], [], ["Jacob Richmond", "Brooke Maxwell"], [], "https://64.media.tumblr.com/6fdde99368c6607bb175488e92bd7c9e/b1393f70ec05ffdc-82/s250x400/3a080007052d45177826e1c64d03e2376e7d68bb.jpg"],
 
-["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", "2022 08 07", "C1.1-C6.3"], ["2022 09 20", "", "C6.4-"]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
+["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", "2022 08 07", "C1.1-C6.3"], ["2022 09 20", "2022 11 06", "C6.4-C8.8"]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "onhold", "ongoing"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
 
 ["film", ["Badhaai Do"], "2022", [["2022 06 25", "2022 07 01"]], 8, ["hin"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Harshavardhan Kulkarni"], [], "https://64.media.tumblr.com/19e098aca5d66b71f930e075026752cc/f9329bfd238d17a4-06/s250x400/929c766a8486a8cd4766a1759fab59ec27788188.jpg"],
 
@@ -2435,7 +2435,9 @@ var database = [
 
 ["audiobook", ["Die Geschichte der Bienen"], "2015", [["2022 11 08", "2022 11 09", "1h55min"]], 0, ["ger"], [], [], ["bibliothek", "dropped"], ["Maja Lunde"], ["Thomas M. Meinhardt", "Bibiana Beglau", "Markus Fennert"], "https://64.media.tumblr.com/02d5dc38adb559056de9bc971765e905/eb4d262d191565c5-7c/s400x600/ec2c1641f646c0c3ce8018192e5d1f539cd7d537.jpg"],
 
-["audiobook", ["Numbers", "Numbers: den Tod vor Augen"], "2008", [["2022 11 10", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Rachel Ward"], ["Sascha Icks", "Philipp Schepmann"], "https://64.media.tumblr.com/0e2f572287be528e5711dc309457c0e8/aae5be0b66188706-b0/s250x400/9f3adc21045e5a585b164931d8587cc0e8245716.jpg"]
+["audiobook", ["Numbers", "Numbers: den Tod vor Augen"], "2008", [["2022 11 10", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Rachel Ward"], ["Sascha Icks", "Philipp Schepmann"], "https://64.media.tumblr.com/0e2f572287be528e5711dc309457c0e8/aae5be0b66188706-b0/s250x400/9f3adc21045e5a585b164931d8587cc0e8245716.jpg"],
+
+["book", ["Die Wilden Hühner - Fuchsalarm!"], "2006", [["2022 11 14", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/037d1e5f14c3d48bd77738b29e468817/c8027e028b17de4f-c6/s250x400/ac5dfe31e12ece88e50ce960ca6f480e81bc8118.jpg"]
 
 /*
 ,
