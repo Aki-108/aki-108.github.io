@@ -1060,7 +1060,7 @@ var database = [
 	        
 ["film", ["(500) Days of Summer"], "2009", ["2015 08 31"], 1, ["ger"], ["comedy", "drama"], [], [], ["Marc Webb"], ["Joseph Gordon-Levitt", "Zooey Deschanel", "Geoffrey Arend", "Chloë Grace Moretz", "Matthew Gray Gubler"], "https://40.media.tumblr.com/6762ed316c12eb69646967f4b931c84d/tumblr_o0p36rb1hy1v2s5upo1_250.jpg"],
 	        
-["film", ["10 Things I Hate About You", "10 Dinge, die ich an Dir hasse"], "1999", ["2016 01 01"], 8, ["ger"], ["comedy", "drama"], [], [], ["Gil Junger"], ["Heath Ledger", "Julia Stiles", "Joseph Gordon-Levitt", "Allison Janney", "Gabrielle Union"], "https://40.media.tumblr.com/4511565b6cc1d3d74f43361c03a1d010/tumblr_o0a8khuM2X1v2s5upo1_250.jpg"],
+["film", ["10 Things I Hate About You", "10 Dinge, die ich an Dir hasse"], "1999", ["2016 01 01", "2022 12 03"], 8, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Gil Junger"], ["Heath Ledger", "Julia Stiles", "Joseph Gordon-Levitt", "Allison Janney", "Gabrielle Union"], "https://40.media.tumblr.com/4511565b6cc1d3d74f43361c03a1d010/tumblr_o0a8khuM2X1v2s5upo1_250.jpg"],
 	        
 ["film", ["Mysterious Skin", "Mysterious Skin - Unter die Haut"], "2004", ["2015 09 03"], 6, ["ger"], ["drama"], [], ["LGBT"], ["Gregg Araki"], ["Joseph Gordon-Levitt", "Michelle Trachtenberg"], "https://40.media.tumblr.com/1340c2434d09e867bc754da506827cff/tumblr_o0p3pd3sxX1v2s5upo1_250.jpg"],
 	        
