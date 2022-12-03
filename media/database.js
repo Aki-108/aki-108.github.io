@@ -1938,7 +1938,7 @@ var database = [
 
 ["film", ["Camp Rock"], "2008", ["2021 10 20"], 5, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Matthew Diamond"], ["Demi Lovato", "Joe Jonas", "Meaghan Martin", "Maria Canals-Barrera", "Alyson Stoner", "Kevin Jonas", "Nick Jonas"], "https://64.media.tumblr.com/fc7b950dd460e3ac2e51511186439ecc/faf580e125dbe03a-69/s250x400/991e2cf3e2fc739eef66f3f8e1f516c3bb8c98ad.jpg"],
 
-["film", ["Stargirl", "Stargirl: Anders ist völlig normal"], "2020", ["2021 10 21", "2021 11 08", "2022 01 15"], 9, ["ger", "eng"], ["comedy", "drama"], [], ["Disney+", "fav", "bby"], ["Julia Hart"], ["Grace VanderWaal", "Graham Verchere", "Darby Stanchfield", "Karan Brar", "Giancarlo Esposito", "Karan Brar"], "https://64.media.tumblr.com/74147c192aabad90a6e15779f039e151/ffb0278dc58df436-39/s250x400/adcb85b2fbba58b564bcd84b131bf57b23f08e38.jpg"],
+["film", ["Stargirl", "Stargirl: Anders ist völlig normal"], "2020", ["2021 10 21", "2021 11 08", "2022 01 15", "2022 12 03"], 9, ["ger", "eng"], ["comedy", "drama"], [], ["Disney+", "fav", "bby"], ["Julia Hart"], ["Grace VanderWaal", "Graham Verchere", "Darby Stanchfield", "Karan Brar", "Giancarlo Esposito", "Karan Brar"], "https://64.media.tumblr.com/74147c192aabad90a6e15779f039e151/ffb0278dc58df436-39/s250x400/adcb85b2fbba58b564bcd84b131bf57b23f08e38.jpg"],
 
 ["film", ["The Parent Trap", "Ein Zwilling kommt selten allein"], "1998", ["2021 10 22"], 4, ["ger"], ["adventure", "comedy"], [], ["Disney+"], ["Nancy Meyers"], ["Lindsay Lohan"], "https://64.media.tumblr.com/f01b241132a4d209bea62ac34fc6db7b/7cb9a6047fbc9973-d4/s250x400/067ce115ab1983ea2cd270ef9fa876da40a0c694.jpg"],
 
@@ -2441,7 +2441,7 @@ var database = [
 
 ["audiobook", ["Unsterblich Mein"], "2019", [["2022 11 18", "2022 11 28"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/9d727d06c597a9572f6915f84c2760d6/cda6196b0d95f6f9-32/s250x400/2ae71a9cbd2d15811ef226f2ea8af8ecf1b7f55b.jpg"],
 
-["film", ["Mortal Engines", "Mortal Engines - Krieg der Städte"], "2018", [["2022 11 26", ""]], 0, ["ger"], ["action", "adventure"], ["bini"], [], ["Christian Rivers"], ["Robert Sheehan", "Hugo Weaving"], "https://64.media.tumblr.com/09242d299b0506d4bb67fa2bc81bd748/476b2d1b4df2db9d-67/s250x400/3e90af52bdaf491ead81bfd98b4099f60097eec0.jpg"],
+["film", ["Mortal Engines", "Mortal Engines - Krieg der Städte"], "2018", [["2022 11 26", "2022 12 03"]], 6, ["ger"], ["action", "adventure"], ["bini"], [], ["Christian Rivers"], ["Robert Sheehan", "Hugo Weaving"], "https://64.media.tumblr.com/09242d299b0506d4bb67fa2bc81bd748/476b2d1b4df2db9d-67/s250x400/3e90af52bdaf491ead81bfd98b4099f60097eec0.jpg"],
 
 ["audiobook", ["Unsterblich Mein"], "2019", [["2022 11 29", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/e1f8944a297283a791928752ba440569/9bff45cf22f5b48f-c9/s250x400/b28a8e2836c05cb37d6cf9feed862628df3677b8.jpg"]
 
