@@ -2443,7 +2443,9 @@ var database = [
 
 ["film", ["Mortal Engines", "Mortal Engines - Krieg der Städte"], "2018", [["2022 11 26", "2022 12 03"]], 6, ["ger"], ["action", "adventure"], ["bini"], [], ["Christian Rivers"], ["Robert Sheehan", "Hugo Weaving"], "https://64.media.tumblr.com/09242d299b0506d4bb67fa2bc81bd748/476b2d1b4df2db9d-67/s250x400/3e90af52bdaf491ead81bfd98b4099f60097eec0.jpg"],
 
-["audiobook", ["Unsterblich Mein"], "2019", [["2022 11 29", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/e1f8944a297283a791928752ba440569/9bff45cf22f5b48f-c9/s250x400/b28a8e2836c05cb37d6cf9feed862628df3677b8.jpg"]
+["audiobook", ["Unsterblich Dein"], "2019", [["2022 11 29", "2022 12 08"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/e1f8944a297283a791928752ba440569/9bff45cf22f5b48f-c9/s250x400/b28a8e2836c05cb37d6cf9feed862628df3677b8.jpg"],
+
+["type", ["All the bright places", "All die verdammt perfekten Tage"], "2015", [["2022 12 08", ""]], 0, ["ger"], ["drama"], [], ["bibliothek", "watching"], ["Jennifer Niven"], ["Patrick Mölleken", "Annina Braunmiller-Jest"], "https://64.media.tumblr.com/4809dd69d67423d65449c16f654c8c0b/110579d9c0ed5fcb-d2/s250x400/cf09d1fbc2214c51d25ec532e837a623b055bb10.jpg"]
 
 /*
 ,
