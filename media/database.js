@@ -2437,7 +2437,7 @@ var database = [
 
 ["audiobook", ["Numbers", "Numbers: den Tod vor Augen"], "2008", [["2022 11 10", "2022 11 18"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Rachel Ward"], ["Sascha Icks", "Philipp Schepmann"], "https://64.media.tumblr.com/0e2f572287be528e5711dc309457c0e8/aae5be0b66188706-b0/s250x400/9f3adc21045e5a585b164931d8587cc0e8245716.jpg"],
 
-["book", ["Die Wilden Hühner - Fuchsalarm!"], "2006", [["2022 11 14", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/037d1e5f14c3d48bd77738b29e468817/c8027e028b17de4f-c6/s250x400/ac5dfe31e12ece88e50ce960ca6f480e81bc8118.jpg"],
+["book", ["Die Wilden Hühner - Fuchsalarm!"], "2006", [["2022 11 14", "2022 12 13"]], 8, ["ger"], [], [], ["bibliothek"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/037d1e5f14c3d48bd77738b29e468817/c8027e028b17de4f-c6/s250x400/ac5dfe31e12ece88e50ce960ca6f480e81bc8118.jpg"],
 
 ["audiobook", ["Unsterblich Mein"], "2019", [["2022 11 18", "2022 11 28"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/9d727d06c597a9572f6915f84c2760d6/cda6196b0d95f6f9-32/s250x400/2ae71a9cbd2d15811ef226f2ea8af8ecf1b7f55b.jpg"],
 
