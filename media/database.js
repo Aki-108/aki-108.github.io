@@ -1746,7 +1746,7 @@ var database = [
 
 ["series", ["The Houseboat", "Das Hausboot"], "2021", [["2021 03 13", "2021 03 21", "S1"]], 5, ["ger"], ["documentary"], ["syl", "je", "bini"], ["Netflix"], [""], [], "https://64.media.tumblr.com/b3878fa50fd2d7d4286af2dd96bdfd06/5eb4e8a877f50e3f-08/s250x400/8fdcc5005f169eb2a6602ac6634f174a37c672b5.jpg"],
 
-["audiobook", ["The Ballad of Songbirds and Snakes", "Die Tribute von Panem X – Das Lied von Vogel und Schlange"], "2020", [["2021 03 19", "2021 04 16"]], 9, ["eng"], ["adventure", "war", "sci-fi", "action"], [], ["Hunger Games"], ["Suzanne Collins"], [], "https://64.media.tumblr.com/1da763b32e2e1ed96cb49b78115fdfde/f1521d2ef3ed6937-ed/s250x400/f49c55bbd19de80ba1a4b5e21e5ead3f3adfd225.jpg"],
+["audiobook", ["The Ballad of Songbirds and Snakes", "Die Tribute von Panem X – Das Lied von Vogel und Schlange"], "2020", [["2021 03 19", "2021 04 16"], ["2022 12 16"]], 9, ["eng"], ["adventure", "war", "sci-fi", "action"], [], ["Hunger Games"], ["Suzanne Collins"], ["Uve Teschner"], "https://64.media.tumblr.com/1da763b32e2e1ed96cb49b78115fdfde/f1521d2ef3ed6937-ed/s250x400/f49c55bbd19de80ba1a4b5e21e5ead3f3adfd225.jpg"],
 
 ["film", ["Tomb Raider"], "2018", ["2021 03 23"], 7, ["ger"], ["action", "adventure"], ["bini"], [], ["Roar Uthaug"], ["Alicia Vikander", "Samuel Mak", "Nick Frost", "Hannah John-Kamen"], "https://64.media.tumblr.com/372792c09e88b1a2e5050a14d07c8d28/7390892fff0ee0a8-bc/s250x400/17b02720c477a1a90b24817b4956ddf80f6366b5.jpg"],
 
@@ -2445,7 +2445,7 @@ var database = [
 
 ["audiobook", ["Unendlich Dein"], "2019", [["2022 11 29", "2022 12 08"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/e1f8944a297283a791928752ba440569/9bff45cf22f5b48f-c9/s250x400/b28a8e2836c05cb37d6cf9feed862628df3677b8.jpg"],
 
-["audiobook", ["All the bright places", "All die verdammt perfekten Tage"], "2015", [["2022 12 08", ""]], 0, ["ger"], ["drama"], [], ["bibliothek", "watching"], ["Jennifer Niven"], ["Patrick Mölleken", "Annina Braunmiller-Jest"], "https://64.media.tumblr.com/4809dd69d67423d65449c16f654c8c0b/110579d9c0ed5fcb-d2/s250x400/cf09d1fbc2214c51d25ec532e837a623b055bb10.jpg"],
+["audiobook", ["All the bright places", "All die verdammt perfekten Tage"], "2015", [["2022 12 08", "2022 12 15"]], 9, ["ger"], ["drama"], [], ["bibliothek"], ["Jennifer Niven"], ["Patrick Mölleken", "Annina Braunmiller-Jest"], "https://64.media.tumblr.com/4809dd69d67423d65449c16f654c8c0b/110579d9c0ed5fcb-d2/s250x400/cf09d1fbc2214c51d25ec532e837a623b055bb10.jpg"],
 
 ["book", ["Für dich soll's tausend Tode regnen"], "2016", [["2022 12 14", ""]], 0, ["lang"], [], [], ["bibliothek", "watching"], ["Anna Pfeffer"], [], "https://64.media.tumblr.com/794c5fdf8ce28291d1bd85c65763782f/e392b7f52d948027-66/s250x400/6e0bf3dadc197bb803aff39209b282cb6859de6a.jpg"]
 
