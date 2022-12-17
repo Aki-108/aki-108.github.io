@@ -536,7 +536,7 @@ var database = [
 	        
 ["film", ["The Girl with Nine Wigs", "Heute bin ich blond"], "2013", ["2020 09 14"], 6, ["ger"], ["biography", "comedy"], [], ["DVD"], ["Marc Rothemund"], ["Daniel Zillmann", "Lisa Tomaschewsky", "Jasmin Gerat"], "https://64.media.tumblr.com/d2873bc102bc01289ae24f7d3dd8f008/060e3a6108445317-b9/s250x400/9e04e09f6a5fd1aea7d2854821f71f11533db4ce.jpg"],
 	        
-["film", ["All the Bright Places", "All die verdammt perfekten Tage"], "2020", ["2020 06 13"], 7, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Brett Haley"], ["Elle Fanning", "Justice Smith", "Keegan-Michael Key"], "https://66.media.tumblr.com/4234402071d21b4ad20bbc81763f21ed/e281213a508bcd3d-7d/s250x400/b70ea8db842311cd587b0b85ba7e42c90d88ce95.jpg"],
+["film", ["All the Bright Places", "All die verdammt perfekten Tage"], "2020", ["2020 06 13", "2022 12 17"], 7, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Brett Haley"], ["Elle Fanning", "Justice Smith", "Keegan-Michael Key"], "https://66.media.tumblr.com/4234402071d21b4ad20bbc81763f21ed/e281213a508bcd3d-7d/s250x400/b70ea8db842311cd587b0b85ba7e42c90d88ce95.jpg"],
 	        
 ["film", ["Tigermilch"], "2017", ["2020 05 31"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Emily Kusche", "Milton Welsh"], "https://66.media.tumblr.com/81b55aa9054bce909909a7a43fe58e51/2012c6606283f3ab-4e/s250x400/c949a2422bf2f82cb85b9e3552f6b785eaf6ff18.jpg"],
 	        
