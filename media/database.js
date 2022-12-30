@@ -367,7 +367,7 @@ var database = [
 	        
 ["series", ["Stranger Things"], "2016", [["2017 09 30", "2017 10 01", "S1"], ["2017 10 28", "2017 10 29", "S2"], ["2019 07 05", "2019 07 09", "S3"]], 8, ["ger"], ["drama", "fantasy", "horror", "mystery", "thriller", "sci-fi"], ["bini"], ["Netflix"], ["Matt Duffer", "Ross Duffer"], ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Sean Astin", "Joe Chrest", "Jamie Campbell Bower", "Maya Hawke"], "https://66.media.tumblr.com/c8b627f6c4e359d3e447107df3fbf426/67ddec5eb9eb235d-ed/s250x400/d663062da2fa7916f4f53c57f65e0a4898097490.jpg"],
 	        
-["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt", "Alisha Boe"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
+["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt", "Alisha Boe", "Timothy Granaderos"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
 	        
 ["series", ["The Gay and Wondrous Life of Caleb Gallo"], "2016", [["2017 11 13", "S1"]], 9, ["eng"], ["comedy"], [], ["LGBT"], ["Brian Jordan Alvarez"], ["Stephanie Koenig"], "https://66.media.tumblr.com/97c1954bda4e7b0b57b0319e5e81122b/2f29f380c419c57b-6e/s250x400/699fdf7706dedfa3e63fc76ba474408ea3e3fd06.jpg"],
 	        
@@ -2453,7 +2453,9 @@ var database = [
 
 ["film", ["About a Girl"], "2014", ["2022 12 18"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Mark Monheim"], ["Heike Makatsch"], "https://64.media.tumblr.com/bd65711cc46879faa7d65b11ee6833b7/a79aa342df23862c-0e/s250x400/96658ce7ea5d9f97d795fca55a7fdf618b6ccb6d.jpg"],
 
-["film", ["Roald Dahl's Matilda the Musical", "Matilda - Das Musical"], "2022", ["2022 12 25"], 6, ["eng"], ["comedy", "musical"], [], ["Netflix"], ["Matthew Warchus"], [], "https://64.media.tumblr.com/a099fea054157faaa164449f636e8a64/2f7a2a30ed9c4047-9e/s250x400/07084a68c1b0ebdb5a8a1f6c936da80d155ec175.jpg"]
+["film", ["Roald Dahl's Matilda the Musical", "Matilda - Das Musical"], "2022", ["2022 12 25"], 6, ["eng"], ["comedy", "musical"], [], ["Netflix"], ["Matthew Warchus"], [], "https://64.media.tumblr.com/a099fea054157faaa164449f636e8a64/2f7a2a30ed9c4047-9e/s250x400/07084a68c1b0ebdb5a8a1f6c936da80d155ec175.jpg"],
+
+["film", ["Plan B"], "2021", ["2022 12 30"], 5, ["ger"], ["comedy"], [], ["Disney+"], ["Natalie Morales"], ["Timothy Granaderos"], "https://64.media.tumblr.com/a4332cf7ea21ef932644cd9d1ea64ffd/dd4341f0d64173dd-95/s250x400/656744220fee6626163e0c064d669318536f5fbf.jpg"]
 
 /*
 ,
