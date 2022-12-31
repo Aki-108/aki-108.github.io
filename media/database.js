@@ -189,7 +189,7 @@ var database = [
 	        
 ["audiobook", ["The Dark Tower: The Wind Through the Keyhole", "Wind"], "2012", [["2019 04 23", "2019 05 02"]], 0, ["ger"], [], [], ["Dark Tower"], ["Stephen King"], [], "https://66.media.tumblr.com/0c8eced9a1337968e8e547213931b483/b9148aecbc2d7ef0-40/s250x400/8e67222009461c17a365e412c5d4f21e53eead71.jpg"],
 	        
-["audiobook", ["Anne of Green Gables", "Anne auf Green Gables"], "1908", [["2019 05 03", "2019 05 10"]], 10, ["eng"], [], [], ["Anne"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/679d639b8b39436b1ad25e6245672092/d591ea85407c16e2-c0/s250x400/7a272d4c1fabda215d19b5e23e1b4702bdcce985.jpg"],
+["audiobook", ["Anne of Green Gables", "Anne auf Green Gables"], "1908", [["2019 05 03", "2019 05 10"]], 10, ["eng"], [], [], ["Anne", "LibriVox"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/679d639b8b39436b1ad25e6245672092/d591ea85407c16e2-c0/s250x400/7a272d4c1fabda215d19b5e23e1b4702bdcce985.jpg"],
 	        
 ["audiobook", ["Needful Things", "In einer kleinen Stadt"], "1991", [["2019 05 13", "2019 05 20"]], 0, ["ger"], [], [], ["dropped"], ["Stephen King"], [], "https://66.media.tumblr.com/5841ff354531eac535c0e9cae41d51cf/50f28ee209bd1926-72/s250x400/fa3a77ce0195953afa47d06f5ab465e724510e09.jpg"],
 	        
@@ -307,23 +307,23 @@ var database = [
 	        
 ["film", ["Moana", "Vaiana - Das Paradies hat einen Haken"], "2016", ["2019 01 12"], 7, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Ron Clements", "John Musker", "Don Hall"], [], "https://66.media.tumblr.com/a02e2a8ed04dc229ec61995a4802d3e4/ba5b0a9895db30ce-bf/s250x400/054cbd04c4fa1743f964303f83ae279c0b546143.jpg"],
 	        
-["audiobook", ["Anne of Avonlea", "Anne in Avonlea"], "1909", [["2020 02 02", "2020 02 05"]], 8, ["eng"], [], [], ["Anne"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/541c459bbee026004c174ba3426322bc/c80eb27a46f7c867-cf/s250x400/ba718acb6fae50237689168e20bdcb230f085d97.jpg"],
+["audiobook", ["Anne of Avonlea", "Anne in Avonlea"], "1909", [["2020 02 02", "2020 02 05"]], 8, ["eng"], [], [], ["Anne", "LibriVox"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/541c459bbee026004c174ba3426322bc/c80eb27a46f7c867-cf/s250x400/ba718acb6fae50237689168e20bdcb230f085d97.jpg"],
 	        
-["audiobook", ["Anne of the Island", "Anne in Kingsport"], "1915", [["2020 02 05", "2020 02 08"]], 7, ["eng"], [], [], ["Anne"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/af044ff0799cb8c3d49ee463c2309b9c/dab999156a16b84b-f4/s250x400/dcd81ad5a92b2b6a0e00f45b910b869cb0e65391.jpg"],
+["audiobook", ["Anne of the Island", "Anne in Kingsport"], "1915", [["2020 02 05", "2020 02 08"]], 7, ["eng"], [], [], ["Anne", "LibriVox"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/af044ff0799cb8c3d49ee463c2309b9c/dab999156a16b84b-f4/s250x400/dcd81ad5a92b2b6a0e00f45b910b869cb0e65391.jpg"],
 	        
-["audiobook", ["Anne of Windy Willows", "Anne in Windy Willows"], "1936", [["2020 02 09", "2020 02 13"]], 6, ["eng"], [], [], ["Anne"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/1ed1f46af2f8a7f7ef68a0353c189755/ccf1b183b753ce5d-84/s250x400/cf29c12e2ac281b31f0b403389cae5045ac946ac.jpg"],
+["audiobook", ["Anne of Windy Willows", "Anne in Windy Willows"], "1936", [["2020 02 09", "2020 02 13"]], 6, ["eng"], [], [], ["Anne", "LibriVox"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/1ed1f46af2f8a7f7ef68a0353c189755/ccf1b183b753ce5d-84/s250x400/cf29c12e2ac281b31f0b403389cae5045ac946ac.jpg"],
 	        
-["audiobook", ["Anne's House of Dreams", "Anne in Four Winds"], "1917", [["2020 02 13", "2020 02 18"]], 8, ["eng"], [], [], ["Anne"], ["Lucy Maud Montgomery"], ["Sibella Denton"], "https://66.media.tumblr.com/3163ed2f582a938e54439bf5f2b64186/bc0dd6887965e7b3-a1/s250x400/ccc775cb9cfc86901c55ae63f27e0a97b95f898b.jpg"],
+["audiobook", ["Anne's House of Dreams", "Anne in Four Winds"], "1917", [["2020 02 13", "2020 02 18"]], 8, ["eng"], [], [], ["Anne", "LibriVox"], ["Lucy Maud Montgomery"], ["Sibella Denton"], "https://66.media.tumblr.com/3163ed2f582a938e54439bf5f2b64186/bc0dd6887965e7b3-a1/s250x400/ccc775cb9cfc86901c55ae63f27e0a97b95f898b.jpg"],
 	        
-["audiobook", ["Anne of Ingleside", "Anne in Ingleside"], "1939", [["2020 02 18", "2020 02 24"]], 6, ["eng"], [], [], ["Anne"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/bd065f2950e1bf733067859b11fbb12c/f8a410a953867e0e-1b/s250x400/c3f04db4681d0b468b3abd8ff024d392de885764.jpg"],
+["audiobook", ["Anne of Ingleside", "Anne in Ingleside"], "1939", [["2020 02 18", "2020 02 24"]], 6, ["eng"], [], [], ["Anne", "LibriVox"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/bd065f2950e1bf733067859b11fbb12c/f8a410a953867e0e-1b/s250x400/c3f04db4681d0b468b3abd8ff024d392de885764.jpg"],
 	        
-["audiobook", ["Rainbow Valley", "Anne im Rainbow Valley"], "1919", [["2020 02 24", "2020 02 26"]], 7, ["eng"], [], [], ["Anne"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/e34cda1241e11def480e4dbaebc6f02e/a7ff05d68242607e-6f/s250x400/df03bd39c15598a537da4781644f3b71ae5e7dfb.jpg"],
+["audiobook", ["Rainbow Valley", "Anne im Rainbow Valley"], "1919", [["2020 02 24", "2020 02 26"]], 7, ["eng"], [], [], ["Anne", "LibriVox"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/e34cda1241e11def480e4dbaebc6f02e/a7ff05d68242607e-6f/s250x400/df03bd39c15598a537da4781644f3b71ae5e7dfb.jpg"],
 	        
-["audiobook", ["Rilla of Ingleside", "Anne und Rilla: Der Weg ins Glück"], "1921", [["2020 02 26", "2020 03 04"]], 10, ["eng"], [], [], ["Anne"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/17a64fbe793045b6c03328a1e0a7c5c2/8c5979514c8acded-c9/s250x400/8180a4469ae1d944ae2a7bcb2025783b1ab2de6d.jpg"],
+["audiobook", ["Rilla of Ingleside", "Anne und Rilla: Der Weg ins Glück"], "1921", [["2020 02 26", "2020 03 04"]], 10, ["eng"], [], [], ["Anne", "LibriVox"], ["Lucy Maud Montgomery"], [], "https://66.media.tumblr.com/17a64fbe793045b6c03328a1e0a7c5c2/8c5979514c8acded-c9/s250x400/8180a4469ae1d944ae2a7bcb2025783b1ab2de6d.jpg"],
 	        
-["audiobook", ["Chronicles of Avonlea", "Geschichten aus Avonlea"], "1912", [["2020 03 04", "2020 03 10"]], 6, ["eng"], [], [], ["Anne"], ["Lucy Maud Montgomery"], ["Sibella Denton"], "https://66.media.tumblr.com/59ff89aeb07e919fc39660590ac15116/5367de076266db9e-ea/s250x400/c5d4e832c16b00db5ff572d4d1437181be1fc537.jpg"],
+["audiobook", ["Chronicles of Avonlea", "Geschichten aus Avonlea"], "1912", [["2020 03 04", "2020 03 10"]], 6, ["eng"], [], [], ["Anne", "LibriVox"], ["Lucy Maud Montgomery"], ["Sibella Denton"], "https://66.media.tumblr.com/59ff89aeb07e919fc39660590ac15116/5367de076266db9e-ea/s250x400/c5d4e832c16b00db5ff572d4d1437181be1fc537.jpg"],
 	        
-["audiobook", ["Further Chronicles of Avonlea", "Neues aus Avonlea"], "1920", [["2020 03 10", "2020 03 13"]], 5, ["eng"], [], [], ["Anne"], ["Lucy Maud Montgomery"], ["Sibella Denton"], "https://66.media.tumblr.com/24f21cd324fdeb60c36031ba459ce97f/e3168d1a30fd8e3a-33/s250x400/9c36845f76f76ed789c6e6c7626df9ff0b1a8dc2.jpg"],
+["audiobook", ["Further Chronicles of Avonlea", "Neues aus Avonlea"], "1920", [["2020 03 10", "2020 03 13"]], 5, ["eng"], [], [], ["Anne", "LibriVox"], ["Lucy Maud Montgomery"], ["Sibella Denton"], "https://66.media.tumblr.com/24f21cd324fdeb60c36031ba459ce97f/e3168d1a30fd8e3a-33/s250x400/9c36845f76f76ed789c6e6c7626df9ff0b1a8dc2.jpg"],
 	        
 ["audiobook", ["Howl's Moving Castle", "Sophie im Schloss des Zauberers"], "1986", [["2020 01 16", "2020 01 24"]], 7, ["eng"], ["fantasy"], [], [], ["Diana Wynne Jones"], [], "https://66.media.tumblr.com/c45dcacd614a17a14bf864b54eed715f/53f4483e0c763ded-2a/s250x400/278c71476a2ec8ec9629a6df32d9706fd9be4c35.jpg"],
 	        
@@ -1194,7 +1194,7 @@ var database = [
 	        
 ["film", ["Glass"], "2019", ["2019 02 23", "2020 09 30"], 8, ["ger"], ["drama"], ["syl", "bini", "je"], ["Eastrail 177", "Kino", "DVD"], ["M. Night Shyamalan"], ["James McAvoy", "Bruce Willis", "Anya Taylor-Joy", "Sarah Paulson", "Spencer Treat Clark", "Samuel L. Jackson"], "https://66.media.tumblr.com/f3ee0e01ef65a7cb2b71e714510c00da/105064cff59d6cef-73/s250x400/91ab466e6818b14eada3f585717c3f411619d591.jpg"],
 	        
-["audiobook", ["Little Women"], "1868", [["2020 10 05", "2020 10 21"]], 9, ["eng"], [], [], ["March-Trilogie"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/898f2fcc7489dafce9b4bad176a822d2/6431d3cb351f91f9-f0/s250x400/3bcaa864990fd0e56da4353db71c930d8d952496.jpg"],
+["audiobook", ["Little Women"], "1868", [["2020 10 05", "2020 10 21"]], 9, ["eng"], [], [], ["March-Trilogie", "LibriVox"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/898f2fcc7489dafce9b4bad176a822d2/6431d3cb351f91f9-f0/s250x400/3bcaa864990fd0e56da4353db71c930d8d952496.jpg"],
 	        
 ["book", ["Night School: Legacy"], "2013", [["2020 09 04", "2020 11 14"]], 8, ["eng"], ["young adult", "mystery", "romance"], [], ["Night School"], ["CJ Daugherty"], [], "https://64.media.tumblr.com/fc69578e397f3a7dc5c75060f04d60e6/c09d64f12fa351b2-f8/s250x400/61fd6b4031fa085f2663b86c0ea222d8aaaff442.jpg"],
 	        
@@ -1544,7 +1544,7 @@ var database = [
 
 ["film", ["365 Days", "365 Days", "365 dni"], "2020", ["2020 10 16"], 3, ["ger"], ["drama", "romance"], [], ["Netflix", "dropped"], ["Barbara Bialowas", "Tomasz Mandes"], [], "https://64.media.tumblr.com/2c85edd45ebeb256d326495aabbd856a/eb98e46994706b23-cc/s250x400/cbcb89dbd1400195572e5190bbcf56acfd0fe402.jpg"],
 
-["audiobook", ["Good Wives"], "1869", [["2020 10 21", "2020 11 23"]], 8, ["eng"], [], [], ["March-Trilogie"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/7f3d6feda05afd7018598432df30ad8f/b01ae36c85f5a2b5-80/s250x400/0246a1075a03acf0565518bfd1ab3fe41e9b8128.jpg"],
+["audiobook", ["Good Wives"], "1869", [["2020 10 21", "2020 11 23"]], 8, ["eng"], [], [], ["March-Trilogie", "LibriVox"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/7f3d6feda05afd7018598432df30ad8f/b01ae36c85f5a2b5-80/s250x400/0246a1075a03acf0565518bfd1ab3fe41e9b8128.jpg"],
 
 ["film", ["I am here", "Ich bin immer für dich da!", "Main Hoon Na"], "2004", ["2020 10 26"], 6, ["hin"], ["action", "comedy", "bollywood"], ["bini"], [], ["Farah Khan"], ["Shah Rukh Khan", "Sushmita Sen", "Amrita Rao"], "https://64.media.tumblr.com/b0cdd5b36ab21c7927472b0ba3f26df2/c77b1b7cbfb69703-e8/s250x400/2d79b6abe2f007b1006bc4b51bf715a594b89ca5.jpg"],
 
@@ -1664,7 +1664,7 @@ var database = [
 
 ["film", ["3096 Days", "3096 Tage"], "2013", ["2020 11 04"], 0, ["ger"], ["biography", "crime"], [], ["Netflix", "dropped"], ["Sherry Hormann"], ["Antonia Campbell-Hughes", "Thure Lindhardt"], "https://64.media.tumblr.com/652cab13e7ad0ddba3b5943174ac7240/e56e640487743952-80/s250x400/b8e82c509d07f1a6d9c15a64834cbcad8be2b591.jpg"],
 
-["audiobook", ["Little Men"], "1871", [["2020 11 30", "2021 02 04"]], 8, ["eng"], [], [], ["March-Trilogie"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/183bf87c0b1f3f8ca48b176b2ff3851c/a06c379b6c7a588c-e0/s250x400/bddf48ffc7d64ce47f8f25fa27a580ca0efb5952.jpg"],
+["audiobook", ["Little Men"], "1871", [["2020 11 30", "2021 02 04"]], 8, ["eng"], [], [], ["March-Trilogie", "LibriVox"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/183bf87c0b1f3f8ca48b176b2ff3851c/a06c379b6c7a588c-e0/s250x400/bddf48ffc7d64ce47f8f25fa27a580ca0efb5952.jpg"],
 
 ["series", ["Dash & Lily"], "2020", [["2020 11 27", "2020 11 30", "S1"]], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Rachel Cohn", "David Levithan", "Lauren Moon"], ["Austin Abrams", "Midori Francis", "Dante Brown", "Troy Iwata", "Keana Marie", "Patrick Vaill", "Michael Park", "Alexander Blaise", "Kevin Jonas", "Nick Jonas", "Joe Jonas"], "https://64.media.tumblr.com/009e36fbb4c3a950d53376fa4810855c/bdf61e2f07ebd615-8d/s250x400/bca2ea4bb589a8eb190267b3e4cfe399acb3e40b.jpg"],
 
@@ -1716,7 +1716,7 @@ var database = [
 
 ["film", ["The Climb", "Der Aufstieg", "L'ascension"], "2017", ["2021 02 02"], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Ludovic Bernard"], ["Ahmed Sylla", "Moussa Maaskri", "Mario Pecqueur"], "https://64.media.tumblr.com/0d952fda503a2fe75024c31a7772f738/7050e5ee38e9b772-06/s250x400/321d75e73bdb0013616658ea52a825c51afb5d0c.jpg"],
 
-["audiobook", ["Jo's Boys"], "1886", [["2021 02 04", "2021 03 15"]], 8, ["eng"], [], [], ["March-Trilogie"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/2c95760a721ddc546744dde0a847e9cd/086cf60edc83fcb4-8f/s400x600/ba1ec8168f1e4567e0be6f1dd7b84c02eae7e39f.jpg"],
+["audiobook", ["Jo's Boys"], "1886", [["2021 02 04", "2021 03 15"]], 8, ["eng"], [], [], ["March-Trilogie", "LibriVox"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/2c95760a721ddc546744dde0a847e9cd/086cf60edc83fcb4-8f/s400x600/ba1ec8168f1e4567e0be6f1dd7b84c02eae7e39f.jpg"],
 
 ["film", ["Eighth Grade"], "2018", ["2021 02 05"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Bo Burnham"], ["Jake Ryan", "Imani Lewis"], "https://64.media.tumblr.com/bf3e142a4d848a56aaab6996908a2411/d29826633fcbea74-16/s250x400/33a141e154e645351a2167ee589a53adf3d53177.jpg"],
 
@@ -2183,7 +2183,7 @@ var database = [
 
 ["audiobook", ["Journal of Small Things"], "1917", [["2022 04 04", "C1-C8"]], 0, ["eng"], ["war"], [], ["LibriVox", "dropped"], ["Helen Gansevoort Edwards Mackay"], ["BettyB", "Elroi", "Tatiana Chichilla", "TR Love", "Sarah Rothwell", "Tom Merritt"], "https://64.media.tumblr.com/a0dc1efcf26022a0c1808143869d97b1/1e52f809807cd001-fc/s250x400/3ac2d225f0a2790595e009e5f994595ff72aaba8.jpg"],
 
-["audiobook", ["The Luckiest Girl in the School"], "1916", [["2022 04 05", "C1-C8"]], 0, ["eng"], ["school"], [], ["dropped"], ["Angela Brazil"], ["Katie Francesca", "Jim Locke"], "https://64.media.tumblr.com/4b2c3d4fb7bcccb8e1bef54b00a4dcda/46547362e4543fb7-2f/s250x400/8ba28ec7f0bb6b1398c0897e64db3ddd0bb729e9.jpg"],
+["audiobook", ["The Luckiest Girl in the School"], "1916", [["2022 04 05", "C1-C8"]], 0, ["eng"], ["school"], [], ["dropped", "LibriVox"], ["Angela Brazil"], ["Katie Francesca", "Jim Locke"], "https://64.media.tumblr.com/4b2c3d4fb7bcccb8e1bef54b00a4dcda/46547362e4543fb7-2f/s250x400/8ba28ec7f0bb6b1398c0897e64db3ddd0bb729e9.jpg"],
 
 ["audiobook", ["Short Ghost and Horror Collection 057"], ["1859", "1933"], [["2022 04 06", "2022 04 12"]], 6, ["eng"], ["horror"], [], ["LibriVox"], ["Algernon Blackwood", "Carl Richard Jacobi", "Francis Marion Crawford", "Arthur Beecher Waltermire", "George Waight", "Clifford Martin Eddy Jr.", "Lal Behari Dey", "William Waldorf Astor", "Sir Arthur Conan Doyle", "Edward Bulwer-Lytton", "Anton Maracek Oliver", "Rudyard Kipling", "John W. Jakes", "R.G. Macready", "William Sanford", "Gertrude Atherton", "Auguste Villiers de l'Isle-Adam"], ["Camryn Blakely", "Colleen", "Andy Sames", "Dale Grothmann", "ChinmayHota", "Neil Jaybe", "Rafe Ball", "David Sweeney-Bear", "Dustin Pete", "Dan Gurzynski", "Paula Messina"], "https://64.media.tumblr.com/bcc432d15e9d1b2ff296056ca57051ae/df2c5aac7d41f092-39/s250x400/1b5d6fe06aaf8c0645abb1cb06fb43acad179b70.jpg"],
 
