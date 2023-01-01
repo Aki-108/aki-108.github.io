@@ -2097,7 +2097,7 @@ var database = [
 
 ["film", ["Friendzone"], "2021", ["2022 01 08"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Charles Van Tieghem"], [], "https://64.media.tumblr.com/1a21a4d0767564112499f161fac6ed81/e537b0b1bd1b8426-ea/s250x400/22cab9c14e7fb6407cfc43946ceac125b35f23d3.jpg"],
 
-["book", ["Love, Stargirl"], "2007", [["2022 01 08", "2022 02 02"]], 9, ["eng"], ["young adult"], [], ["bby", "fav"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/b88bf55a159701d2594ed235c80d7f85/8914101fc7d1fd55-92/s250x400/1ec740cecb9c0912da50babb9d991f32d459a7cc.jpg"],
+["book", ["Love, Stargirl"], "2007", [["2022 01 08", "2022 02 02"], ["2023 01 01", ""]], 9, ["eng"], ["young adult"], [], ["bby", "fav", "watching"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/b88bf55a159701d2594ed235c80d7f85/8914101fc7d1fd55-92/s250x400/1ec740cecb9c0912da50babb9d991f32d459a7cc.jpg"],
 
 ["film", ["Red Notice"], "2021", ["2022 01 08"], 4, ["ger"], ["action", "comedy"], ["bini", "mai"], ["Netflix"], ["Rawson Marshall Thurber"], ["Dwayne Johnson", "Ryan Reynolds", "Ed Sheeran", "Ritu Arya"], "https://64.media.tumblr.com/853d7ca93d2d4254a8dc3fb24a451fb0/fe600e07dca487a5-8f/s250x400/42d55efe3b567cb1382b901e104fed157f18b1f9.jpg"],
 
@@ -2323,7 +2323,7 @@ var database = [
 
 ["film", ["Tall Girl 2", "Wie Jodi über sich hinauswuchs 2"], "2022", ["2022 07 29"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Emily Ting"], ["Ava Michelle", "Griffin Gluck", "Sabrina Carpenter", "Steve Zahn"], "https://64.media.tumblr.com/b5d6e1a42c33d7f65b48c0bb5118d520/210923677ed7c02d-26/s250x400/ca63dc3eafa64dc64761a45a08853d659e32b52f.jpg"],
 
-["film", ["Tomorrowland", "A World Beyond"], "2015", [["2022 07 29", "2022 07 30"]], 8, ["ger"], ["action", "adventure"], [], ["Disney+"], ["Brad Bird"], ["George Clooney", "Britt Robertson", "Raffey Cassidy", "Kathryn Hahn", "Keegan-Michael Key", "Judy Greer"], "https://64.media.tumblr.com/10c4b627ffa0808d5ca374041b62b0f6/b4c6bf37c2b96239-cb/s250x400/44c4bef09625d3db3a043e0554779632ef4a481e.jpg"],
+["film", ["Tomorrowland", "A World Beyond"], "2015", [["2022 07 29", "2022 07 30"], "2022 12 31"], 8, ["ger"], ["action", "adventure"], ["bini", "je", "syl"], ["Disney+"], ["Brad Bird"], ["George Clooney", "Britt Robertson", "Raffey Cassidy", "Kathryn Hahn", "Keegan-Michael Key", "Judy Greer"], "https://64.media.tumblr.com/10c4b627ffa0808d5ca374041b62b0f6/b4c6bf37c2b96239-cb/s250x400/44c4bef09625d3db3a043e0554779632ef4a481e.jpg"],
 
 ["film", ["Parasite", "Parasite", "Gisaengchung"], "2019", ["2022 07 30"], 8, ["kor"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Bong Joon Ho"], [], "https://64.media.tumblr.com/f87320721485509c37e844d78bec3fed/35849b781278970d-7b/s250x400/91412679d247ea28eaf792d4fca21353ef3d4152.jpg"],
 
