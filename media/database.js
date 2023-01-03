@@ -2457,7 +2457,9 @@ var database = [
 
 ["film", ["Plan B"], "2021", ["2022 12 30"], 5, ["ger"], ["comedy"], [], ["Disney+"], ["Natalie Morales"], ["Timothy Granaderos"], "https://64.media.tumblr.com/a4332cf7ea21ef932644cd9d1ea64ffd/dd4341f0d64173dd-95/s250x400/656744220fee6626163e0c064d669318536f5fbf.jpg"],
 
-["audiobook", ["Survival - Überleben in der Natur"], "2022", [["2023 01 02", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Arthur Sennefelder"], ["Lucas Blasius"], "https://64.media.tumblr.com/97eb8afab7b7db1df871f6963d7d147f/d288d88a177c7bb3-4e/s250x400/92de56441deff1978302ebff56ccf2a716ed63e5.jpg"]
+["audiobook", ["Survival - Überleben in der Natur"], "2022", [["2023 01 02", "2023 01 03"]], 5, ["ger"], [], [], ["bibliothek"], ["Arthur Sennefelder"], ["Lucas Blasius"], "https://64.media.tumblr.com/97eb8afab7b7db1df871f6963d7d147f/d288d88a177c7bb3-4e/s250x400/92de56441deff1978302ebff56ccf2a716ed63e5.jpg"],
+
+["audiobook", ["Der Junge und das Meer"], "1977", [["2023 01 04", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Tschingis Aitmatow"], ["Gert Westphal"], "https://64.media.tumblr.com/7a8c017ccc98a46b3dc53751fa4f11eb/ee980bcdc51352e2-f4/s250x400/dd01d9aefcfd7de2e11fc67c646bb23d6accf382.jpg"]
 
 /*
 ,
