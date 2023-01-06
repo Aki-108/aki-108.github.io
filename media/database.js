@@ -2459,7 +2459,7 @@ var database = [
 
 ["audiobook", ["Survival - Überleben in der Natur"], "2022", [["2023 01 02", "2023 01 03"]], 5, ["ger"], [], [], ["bibliothek"], ["Arthur Sennefelder"], ["Lucas Blasius"], "https://64.media.tumblr.com/97eb8afab7b7db1df871f6963d7d147f/d288d88a177c7bb3-4e/s250x400/92de56441deff1978302ebff56ccf2a716ed63e5.jpg"],
 
-["audiobook", ["Der Junge und das Meer"], "1977", [["2023 01 04", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Tschingis Aitmatow"], ["Gert Westphal"], "https://64.media.tumblr.com/7a8c017ccc98a46b3dc53751fa4f11eb/ee980bcdc51352e2-f4/s250x400/dd01d9aefcfd7de2e11fc67c646bb23d6accf382.jpg"]
+["audiobook", ["Der Junge und das Meer"], "1977", [["2023 01 04", "2023 01 06"]], 6, ["ger"], [], [], ["bibliothek"], ["Tschingis Aitmatow"], ["Gert Westphal"], "https://64.media.tumblr.com/7a8c017ccc98a46b3dc53751fa4f11eb/ee980bcdc51352e2-f4/s250x400/dd01d9aefcfd7de2e11fc67c646bb23d6accf382.jpg"]
 
 /*
 ,
