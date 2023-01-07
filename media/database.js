@@ -1550,7 +1550,7 @@ var database = [
 
 ["film", ["The Babysitter: Killer Queen"], "2020", ["2020 10 31"], 6, ["ger"], ["comedy", "horror"], ["bini"], ["Netflix"], ["McG"], ["Judah Lewis", "Samara Weaving", "Jenna Ortega", "Emily Alyn Lind", "Andrew Bachelor", "Robbie Amell", "Bella Thorne", "Hana Mae Lee"], "https://64.media.tumblr.com/2fdddf667d194b1d6b4e632f01f954ed/bcccd7b7533c156e-20/s250x400/25f93e87fbf70d5d90142d5451c5e48d2c03024d.jpg"],
 
-["film", ["This Crazy Heart", "Dieses bescheuerte Herz"], "2017", ["2020 11 06"], 6, ["ger"], ["comedy", "drama"], ["syl", "bini"], ["Netflix"], ["Marc Rothemund"], ["Elyas M'Barek", "Nadine Wrietz"], "https://64.media.tumblr.com/f2e2519180de5df4fa39242eb4f044e7/b586f67d0e2637a2-eb/s250x400/787ab39392e449537936e477573dd28a343e41bc.jpg"],
+["film", ["This Crazy Heart", "Dieses bescheuerte Herz"], "2017", ["2020 11 06"], 6, ["ger"], ["comedy", "drama"], ["syl", "bini"], ["Netflix"], ["Marc Rothemund"], ["Elyas M'Barek", "Nadine Wrietz", "Lisa Bitter"], "https://64.media.tumblr.com/f2e2519180de5df4fa39242eb4f044e7/b586f67d0e2637a2-eb/s250x400/787ab39392e449537936e477573dd28a343e41bc.jpg"],
 
 ["film", ["Firebringer"], "2016", ["2020 11 10", "2021 02 05"], 9, ["eng"], ["comedy", "history", "musical"], ["jenny", "vin"], ["StarKid"], ["Julia Albain", "Nick Lang"], ["Lauren Lopez", "Meredith Stepien", "Denise Donovan", "Lauren Walker", "Rachael Soglin", "Joey Richter", "Jaime Lyn Beatty", "Joe Walker", "Tiffany Williams", "Brian Holden", "Jamie Burns", "Clark Baxtresser"], "https://64.media.tumblr.com/de4235c06a4bfde26f73c7ee29dacb2d/95e669e372833627-2a/s250x400/05edbe20a3de0c564ed48caff5a01eeeb7d607e3.jpg"],
 
@@ -2459,7 +2459,13 @@ var database = [
 
 ["audiobook", ["Survival - Überleben in der Natur"], "2022", [["2023 01 02", "2023 01 03"]], 5, ["ger"], [], [], ["bibliothek"], ["Arthur Sennefelder"], ["Lucas Blasius"], "https://64.media.tumblr.com/97eb8afab7b7db1df871f6963d7d147f/d288d88a177c7bb3-4e/s250x400/92de56441deff1978302ebff56ccf2a716ed63e5.jpg"],
 
-["audiobook", ["Der Junge und das Meer"], "1977", [["2023 01 04", "2023 01 06"]], 6, ["ger"], [], [], ["bibliothek"], ["Tschingis Aitmatow"], ["Gert Westphal"], "https://64.media.tumblr.com/7a8c017ccc98a46b3dc53751fa4f11eb/ee980bcdc51352e2-f4/s250x400/dd01d9aefcfd7de2e11fc67c646bb23d6accf382.jpg"]
+["audiobook", ["Der Junge und das Meer"], "1977", [["2023 01 04", "2023 01 06"]], 6, ["ger"], [], [], ["bibliothek"], ["Tschingis Aitmatow"], ["Gert Westphal"], "https://64.media.tumblr.com/7a8c017ccc98a46b3dc53751fa4f11eb/ee980bcdc51352e2-f4/s250x400/dd01d9aefcfd7de2e11fc67c646bb23d6accf382.jpg"],
+
+["film", ["Die Goldfische"], "2019", ["2023 01 06"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Alireza Golafshan"], ["Tom Schilling", "Lisa Bitter", "Jella Haase", "Axel Stein"], "https://64.media.tumblr.com/f1afa16dd3e66e2c7c03c5ebbb6a1385/6b7b71895365fb42-4a/s250x400/cf75649be1e395a6e892b3543e5c6d81c0010b09.jpg"],
+
+["series", ["The 7 Lives of Lea", "Léas 7 Leben", "Les 7 vies de Léa"], "2022", [["2023 01 07", "S1"]], 7, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Charlotte Sanson", "Déborah Hassoun", "Dorothée Lachaud"], [], "https://64.media.tumblr.com/fec6784453b36c9ddcf21f10b43edda3/92365293b6806dce-c9/s250x400/5f2710afc419d55e143c46b68331600ba61a9080.jpg"],
+
+["film", ["Enola Holmes 2"], "2022", ["2023 01 07"], 7, ["ger"], ["action", "adventure"], ["bini", "mai"], ["Netflix"], ["Harry Bradbeer"], ["Millie Bobby Brown", "Henry Cavill", "David Thewlis", "Helena Bonham Carter"], "https://64.media.tumblr.com/9a8c95ca55ce0117dc592a17873db3eb/fd597d19bb961a4e-44/s250x400/d0390428b405f85a4f8537887c8dffbb2ea4d424.jpg"]
 
 /*
 ,
