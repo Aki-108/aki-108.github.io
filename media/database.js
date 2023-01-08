@@ -1760,7 +1760,7 @@ var database = [
 
 ["film", ["Yes Day"], "2021", ["2021 04 03"], 5, ["ger"], ["comedy", "family"], ["bini", "syl"], ["Netflix"], ["Miguel Arteta"], ["Jennifer Garner", "Jenna Ortega", "Tracie Thoms", "Hayden Szeto", "H.E.R.", "June Diane Raphael", "Edgar Ramírez"], "https://64.media.tumblr.com/d10854499df16c7d02faa4d831444a1f/53aed6f5eeff8122-d2/s250x400/4125603c1791cede4fcc939e912fcae95ea2258b.jpg"],
 
-["film", ["Moxie", "Moxie. Zeit, zurückzuschlagen"], "2021", ["2021 04 07"], 10, ["ger"], ["comedy", "drama", "music"], [], ["Netflix"], ["Amy Poehler"], ["Hadley Robinson", "Lauren Tsai", "Amy Poehler", "Marcia Gay Harden"], "https://64.media.tumblr.com/49e988bac2688563cfdee5e37fe386a7/be1d77579f1573d6-fe/s250x400/300ec4f841531d4fc8d3ec93c3ce044eb203bca3.jpg"],
+["film", ["Moxie", "Moxie. Zeit, zurückzuschlagen"], "2021", ["2021 04 07", "2023 01 08"], 10, ["ger"], ["comedy", "drama", "music"], [], ["Netflix"], ["Amy Poehler"], ["Hadley Robinson", "Lauren Tsai", "Amy Poehler", "Marcia Gay Harden"], "https://64.media.tumblr.com/49e988bac2688563cfdee5e37fe386a7/be1d77579f1573d6-fe/s250x400/300ec4f841531d4fc8d3ec93c3ce044eb203bca3.jpg"],
 
 ["series", ["Ramsay's Kitchen Nightmares", "Gordon Ramsay - Chef ohne Gnade"], ["2004", "2014"], [["2021 04 07", "2021 04 08", "S5E7"]], 0, ["eng"], ["reality-tv"], [], [], [""], ["Gordon Ramsay"], "https://64.media.tumblr.com/eaaa1753ccfa94a2abb3f49458d6fa2c/ea1e16bcf0824d35-12/s250x400/8bd75cd3dece28191e4b0b210afda89c8ecb2b83.jpg"],
 
@@ -2465,7 +2465,9 @@ var database = [
 
 ["series", ["The 7 Lives of Lea", "Léas 7 Leben", "Les 7 vies de Léa"], "2022", [["2023 01 07", "S1"]], 7, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Charlotte Sanson", "Déborah Hassoun", "Dorothée Lachaud"], [], "https://64.media.tumblr.com/fec6784453b36c9ddcf21f10b43edda3/92365293b6806dce-c9/s250x400/5f2710afc419d55e143c46b68331600ba61a9080.jpg"],
 
-["film", ["Enola Holmes 2"], "2022", ["2023 01 07"], 7, ["ger"], ["action", "adventure"], ["bini", "mai"], ["Netflix"], ["Harry Bradbeer"], ["Millie Bobby Brown", "Henry Cavill", "David Thewlis", "Helena Bonham Carter"], "https://64.media.tumblr.com/9a8c95ca55ce0117dc592a17873db3eb/fd597d19bb961a4e-44/s250x400/d0390428b405f85a4f8537887c8dffbb2ea4d424.jpg"]
+["film", ["Enola Holmes 2"], "2022", ["2023 01 07"], 7, ["ger"], ["action", "adventure"], ["bini", "mai"], ["Netflix"], ["Harry Bradbeer"], ["Millie Bobby Brown", "Henry Cavill", "David Thewlis", "Helena Bonham Carter"], "https://64.media.tumblr.com/9a8c95ca55ce0117dc592a17873db3eb/fd597d19bb961a4e-44/s250x400/d0390428b405f85a4f8537887c8dffbb2ea4d424.jpg"],
+
+["film", ["Annabelle"], "2014", ["2023 01 08"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["John R. Leonetti"], [], "https://64.media.tumblr.com/91b131ae1e995e313374cacc096ad6e7/574487038cb4b557-9b/s250x400/2217626dd4ae2505c3708c68353e472e42d480a2.jpg"]
 
 /*
 ,
