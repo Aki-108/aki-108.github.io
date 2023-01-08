@@ -239,7 +239,7 @@ var database = [
 	        
 ["audiobook", ["The Fault in Our Stars", "Das Schicksal ist ein mieser Verräter"], "2012", [["2020 06 11", "2020 06 15"]], 6, ["eng"], [], [], [], ["John Green"], [], "https://66.media.tumblr.com/39ba75a7b01954fcc20d319030ea40fe/85cedb8a8a2ae325-81/s250x400/b8f4f644b5f2e5e9c164e94ada878c0db4d3787f.jpg"],
 	        
-["film", ["Inglourious Basterds"], "2009", ["2015 11 15", "2017 07 18", "2020 09 07"], 8, ["ger"], ["adventure", "drama", "war"], [], ["Netflix"], ["Quentin Tarantino"], ["Brad Pitt", "Christoph Waltz", "Michael Fassbender", "Diane Kruger", "Daniel Brühl", "Til Schweiger", "August Diehl", "Arndt Schwering-Sohnrey", "Sebastian Hülk", "Samm Levine", "Jana Pallaske"], "https://66.media.tumblr.com/ab8929345ac1ca2ddd4fbb4b4c5e17b3/tumblr_ppuwii750k1v2s5upo1_250.jpg"],
+["film", ["Inglourious Basterds"], "2009", ["2015 11 15", "2017 07 18", "2020 09 07"], 8, ["ger"], ["adventure", "drama", "war"], [], ["Netflix"], ["Quentin Tarantino"], ["Brad Pitt", "Christoph Waltz", "Michael Fassbender", "Diane Kruger", "Daniel Brühl", "Til Schweiger", "August Diehl", "Arndt Schwering-Sohnrey", "Sebastian Hülk", "Samm Levine", "Jana Pallaske", "Martin Wuttke"], "https://66.media.tumblr.com/ab8929345ac1ca2ddd4fbb4b4c5e17b3/tumblr_ppuwii750k1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Theory of Everything", "Die Entdeckung der Unendlichkeit"], "2014", ["2016 01 14", "2020 09 08"], 8, ["ger"], ["biography", "drama"], [], ["Netflix"], ["James Marsh"], ["Tom Prior", "Eddie Redmayne", "Felicity Jones", "Lucy Chappell"], "https://49.media.tumblr.com/14456fa07bb7d6cfa722c290f70507b7/tumblr_o103rxZoXN1v2s5upo1_250.jpg"],
 	        
@@ -371,7 +371,7 @@ var database = [
 	        
 ["series", ["The Gay and Wondrous Life of Caleb Gallo"], "2016", [["2017 11 13", "S1"]], 9, ["eng"], ["comedy"], [], ["LGBT"], ["Brian Jordan Alvarez"], ["Stephanie Koenig"], "https://66.media.tumblr.com/97c1954bda4e7b0b57b0319e5e81122b/2f29f380c419c57b-6e/s250x400/699fdf7706dedfa3e63fc76ba474408ea3e3fd06.jpg"],
 	        
-["series", ["Sense8"], ["2015", "2018"], [["2017 11 22", "2017 12 06", "S1"], ["2021 12 08", "2018 01 08", "S2E1-E11"], ["2018 06 20", "S2E12"]], 10, ["ger"], ["drama", "mystery", "sci-fi"], [], ["Netflix", "LGBT"], ["J. Michael Straczynski", "Lana Wachowski", "Lilly Wachowski"], ["Doona Bae", "Jamie Clayton", "Tina Desai", "Tuppence Middleton", "Miguel Ángel Silvestre", "Brian J. Smith", "Naveen Andrews", "Lucas Jade Zumann", "Adam Shapiro", "Max Riemelt", "Daryl Hannah", "Max Mauff"], "https://66.media.tumblr.com/fe621b191d84e2bbe1aba5ebe2a07f66/09a111a49814a1f3-e9/s250x400/d3d1227dfa741e11309c553ea5b18b6c97ca4d8a.jpg"],
+["series", ["Sense8"], ["2015", "2018"], [["2017 11 22", "2017 12 06", "S1"], ["2021 12 08", "2018 01 08", "S2E1-E11"], ["2018 06 20", "S2E12"]], 10, ["ger"], ["drama", "mystery", "sci-fi"], [], ["Netflix", "LGBT"], ["J. Michael Straczynski", "Lana Wachowski", "Lilly Wachowski"], ["Doona Bae", "Jamie Clayton", "Tina Desai", "Tuppence Middleton", "Miguel Ángel Silvestre", "Brian J. Smith", "Naveen Andrews", "Lucas Jade Zumann", "Adam Shapiro", "Max Riemelt", "Daryl Hannah", "Max Mauff", "Martin Wuttke"], "https://66.media.tumblr.com/fe621b191d84e2bbe1aba5ebe2a07f66/09a111a49814a1f3-e9/s250x400/d3d1227dfa741e11309c553ea5b18b6c97ca4d8a.jpg"],
 	        
 ["series", ["Dark"], ["2017", "2020"], [["2017 12 22", "2018 01 14", "S1"], ["2019 08 02", "2019 08 19", "S2"]], 9, ["ger"], ["crime", "drama", "sci-fi"], ["bini", "syl"], ["Netflix", "dropped"], ["Baran bo Odar", "Jantje Friese"], ["Lisa Vicari", "Louis Hofmann", "Carina Wiese", "Jördis Triebel", "Oliver Masucci"], "https://66.media.tumblr.com/531d646040cf4d9601928b8831aa7245/09369d9c4c925cd5-a5/s250x400/1a50d68dc6061c00c9275c2b1625fed0831e9d47.jpg"],
 	        
@@ -846,7 +846,7 @@ var database = [
 	        
 ["film", ["Mission: Impossible - Rogue Nation"], "2015", ["2016 10 22"], 8, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["Christopher McQuarrie"], ["Tom Cruise", "Jeremy Renner", "Simon Pegg", "Alec Baldwin", "Rebecca Ferguson", "Hermione Corfield"], "https://66.media.tumblr.com/d6416db392a7792d623ee68bc37a9a36/tumblr_ofgql1ZojC1v2s5upo1_250.jpg"],
 	        
-["film", ["Mission: Impossible - Ghost Protocol", "Mission: Impossible - Phantom Protokoll"], "2011", ["2016 10 22", "2018 07 26"], 7, ["ger"], ["action", "adventure"], [], ["Mission Impossible", "Netflix"], ["Brad Bird"], ["Tom Cruise", "Simon Pegg", "Jeremy Renner", "Josh Holloway", "Tom Wilkinson"], "https://66.media.tumblr.com/34fa1e7eeb82c4c9a46a5f3c44f8e6fd/tumblr_ofglkprp2V1v2s5upo1_250.jpg"],
+["film", ["Mission: Impossible - Ghost Protocol", "Mission: Impossible - Phantom Protokoll"], "2011", ["2016 10 22", "2018 07 26"], 7, ["ger"], ["action", "adventure"], [], ["Mission Impossible", "Netflix"], ["Brad Bird"], ["Tom Cruise", "Simon Pegg", "Jeremy Renner", "Josh Holloway", "Tom Wilkinson", "Michael Nyqvist"], "https://66.media.tumblr.com/34fa1e7eeb82c4c9a46a5f3c44f8e6fd/tumblr_ofglkprp2V1v2s5upo1_250.jpg"],
 	        
 ["film", ["Mission: Impossible III"], "2006", ["2016 10 22"], 7, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["J.J. Abrams"], ["Tom Cruise", "Philip Seymour Hoffman", "Simon Pegg", "Laurence Fishburne", "Maggie Q", "Aaron Paul"], "https://68.media.tumblr.com/41874302cbda630faef2db3242c8643e/tumblr_ofge46WvyA1v2s5upo1_250.jpg"],
 	        
@@ -1124,7 +1124,7 @@ var database = [
 	        
 ["film", ["Oblivion"], "2013", ["2015 11 02"], 7, ["ger"], ["action", "adventure"], [], [], ["Joseph Kosinski"], ["Tom Cruise", "Morgan Freeman"], "https://66.media.tumblr.com/e76cfa3878cc2e800ec29ddf946b5c61/tumblr_pwvsijeH3W1v2s5upo1_250.jpg"],
 	        
-["film", ["Hanna", "Wer ist Hanna?"], "2011", ["2015 11 04", "2016 09 02"], 8, ["ger"], ["action", "drama"], ["bini", "nico"], [], ["Joe Wright"], ["Saoirse Ronan", "Cate Blanchett", "Sebastian Hülk", "Gudrun Ritter"], "https://66.media.tumblr.com/4ccfdad96cbd37814b45e90af37299b3/tumblr_pwvsjzq2xF1v2s5upo1_250.jpg"],
+["film", ["Hanna", "Wer ist Hanna?"], "2011", ["2015 11 04", "2016 09 02"], 8, ["ger"], ["action", "drama"], ["bini", "nico"], [], ["Joe Wright"], ["Saoirse Ronan", "Cate Blanchett", "Sebastian Hülk", "Gudrun Ritter", "Martin Wuttke"], "https://66.media.tumblr.com/4ccfdad96cbd37814b45e90af37299b3/tumblr_pwvsjzq2xF1v2s5upo1_250.jpg"],
 	        
 ["film", ["A Lonely Place to Die"], "2011", ["2015 11 05"], 6, ["ger"], ["crime", "thriller"], [], [], ["Julian Gilbey"], [], "https://66.media.tumblr.com/a83c0f222e35f53dc7dd193f0960d540/tumblr_pwzsuwXloR1v2s5upo1_250.jpg"],
 	        
@@ -2467,7 +2467,9 @@ var database = [
 
 ["film", ["Enola Holmes 2"], "2022", ["2023 01 07"], 7, ["ger"], ["action", "adventure"], ["bini", "mai"], ["Netflix"], ["Harry Bradbeer"], ["Millie Bobby Brown", "Henry Cavill", "David Thewlis", "Helena Bonham Carter"], "https://64.media.tumblr.com/9a8c95ca55ce0117dc592a17873db3eb/fd597d19bb961a4e-44/s250x400/d0390428b405f85a4f8537887c8dffbb2ea4d424.jpg"],
 
-["film", ["Annabelle"], "2014", ["2023 01 08"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["John R. Leonetti"], [], "https://64.media.tumblr.com/91b131ae1e995e313374cacc096ad6e7/574487038cb4b557-9b/s250x400/2217626dd4ae2505c3708c68353e472e42d480a2.jpg"]
+["film", ["Annabelle"], "2014", ["2023 01 08"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["John R. Leonetti"], [], "https://64.media.tumblr.com/91b131ae1e995e313374cacc096ad6e7/574487038cb4b557-9b/s250x400/2217626dd4ae2505c3708c68353e472e42d480a2.jpg"],
+
+["film", ["Colonia", "Colonia Dignidad - Es gibt kein Zurück"], "2015", ["2023 01 08"], 7, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Florian Gallenberger"], ["Emma Watson", "Daniel Brühl", "Michael Nyqvist", "Martin Wuttke"], "https://64.media.tumblr.com/37753c855a9168f099b62c9f4924b679/85debf1431484e89-0e/s250x400/3a559afb0b29072d130c7b86d597b27e247de945.jpg"]
 
 /*
 ,
