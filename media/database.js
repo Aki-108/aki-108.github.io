@@ -33,7 +33,7 @@ var database = [
 	        
 ["series", ["MythBusters", "MythBusters - Die Wissensjäger"], ["2003", "2018"], ["", ["2021 08 28", "S12E6,7,2"]], 6, ["ger"], ["documentary"], [], [], ["Peter Rees"], [], "https://68.media.tumblr.com/e0afaae383fed8ecc9e625444a06c618/tumblr_oov10gocsR1v2s5upo1_250.jpg"],
 	        
-["series", ["The Legend of Korra", "Die Legende von Korra"], "2012 - 2014", ["", ["2022 11 07", "2022 11 21", "S1"], ["2022 11 21", "2022 12 12", "S2"], ["2022 12 12", "", "S3"]], 4, ["ger"], ["animation", "action"], [], ["dropped", "watching"], ["Michael Dante DiMartino", "Bryan Konietzko"], [], "https://66.media.tumblr.com/0965a0c472ec082166ab735d1e2c9a17/tumblr_ofm9jr2WK81v2s5upo1_250.jpg"],
+["series", ["The Legend of Korra", "Die Legende von Korra"], "2012 - 2014", ["", ["2022 11 07", "2022 11 21", "S1"], ["2022 11 21", "2022 12 12", "S2"], ["2022 12 12", "2023 01 02", "S3"], ["2023 01 09", "", "S4"]], 4, ["ger"], ["animation", "action"], [], ["dropped", "watching"], ["Michael Dante DiMartino", "Bryan Konietzko"], [], "https://66.media.tumblr.com/0965a0c472ec082166ab735d1e2c9a17/tumblr_ofm9jr2WK81v2s5upo1_250.jpg"],
 
 ["film", ["The Green Hornet"], "2021", [""], 0, ["ger"], ["action", "comedy"], [], ["DVD"], ["Michel Gondry"], ["Seth Rogen", "Jay Chou", "Cameron Diaz", "Tom Wilkinson", "Christoph Waltz", "David Harbour", "Jamie Harris", "Lio Tipton"], "https://64.media.tumblr.com/91cc77b24afc5dc1177e1247d57c1d69/57f6525693893d37-13/s250x400/3a0995fe87b9dcb027b97a4f49382b828ff67302.jpg"],
 
