@@ -2473,7 +2473,7 @@ var database = [
 
 ["audiobook", ["Eine Leiche aus gutem Hause"], "2020", [["2023 01 09", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d3d74cdddb8994aa61a19a837f2e74fb/04f3bda7fdccd2e9-39/s250x400/555104bc0a69ac070803eabaaabbb525e7ef8102.jpg"],
 
-["series", ["title"], "pub year", ["dates"], rating, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"]
+["series", ["Fate/stay night"], "2006", [["2023 01 11", "", "S1"]], 0, ["jap"], ["anime", "action", "fantasy", "romance", "supernatural"], ["bini", "jessie", "nico"], ["watching"], ["Jukki Hanada", "Kinoko Nasu", "Mari Okada"], [], "https://64.media.tumblr.com/89968cefac4d2fd6d36862a836d56c23/4a000909c1d2566b-77/s250x400/e6d2cd96dd30ab2d51bf87acd7b13fa155032676.jpg"]
 
 /*
 ,
