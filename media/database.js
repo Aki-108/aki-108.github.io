@@ -2477,7 +2477,7 @@ var database = [
 
 ["series", ["Fate/stay night: Unlimited Blade Works"], ["2014", "2015"], [["2023 01 11", "", "S1"]], 0, ["ger"], ["anime", "action", "fantasy", "supernatural"], ["bini", "jessie", "nico"], ["watching"], ["Akira Hiyama", "Tatsuki Ichinose", "Michael McConnohie"], [], "https://64.media.tumblr.com/5866a2aafe5194abf6b1196395b99ffe/5700d55fc672f13c-f5/s250x400/a9111cac3eda8f0900ad1de2fc31b412f0c1830f.jpg"],
 
-["audiobook", ["Tod zur Mittagsstunde"], "2020", [["2023 01 13", ""]], 0, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/45ebf70f8ab49eab1fb3f7cfad67e9fd/408b18bdf1f11574-4c/s250x400/a5c1afe9bdef0b1e13f045e289000044dbc0f7c5.jpg"],
+["audiobook", ["Tod zur Mittagsstunde"], "2020", [["2023 01 13", "2023 01 14"]], 7, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/45ebf70f8ab49eab1fb3f7cfad67e9fd/408b18bdf1f11574-4c/s250x400/a5c1afe9bdef0b1e13f045e289000044dbc0f7c5.jpg"],
 
 ["series", ["Maggie"], "2022", [["2023 01 13", "2023 01 14", "S1"]], 5, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Hayley Adams", "Justin Adler"], ["Leonardo Nam"], "https://64.media.tumblr.com/63c83768d810d7a6703bef7b6cdc0d1f/3b15af4b6fd402bb-c9/s250x400/6602d62ec55b41a9292965a53e685a0411f6597f.jpg"]
 
