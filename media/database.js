@@ -2479,7 +2479,11 @@ var database = [
 
 ["audiobook", ["Tod zur Mittagsstunde"], "2020", [["2023 01 13", "2023 01 14"]], 7, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/45ebf70f8ab49eab1fb3f7cfad67e9fd/408b18bdf1f11574-4c/s250x400/a5c1afe9bdef0b1e13f045e289000044dbc0f7c5.jpg"],
 
-["series", ["Maggie"], "2022", [["2023 01 13", "2023 01 14", "S1"]], 5, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Hayley Adams", "Justin Adler"], ["Leonardo Nam"], "https://64.media.tumblr.com/63c83768d810d7a6703bef7b6cdc0d1f/3b15af4b6fd402bb-c9/s250x400/6602d62ec55b41a9292965a53e685a0411f6597f.jpg"]
+["series", ["Maggie"], "2022", [["2023 01 13", "2023 01 14", "S1"]], 5, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Hayley Adams", "Justin Adler"], ["Leonardo Nam"], "https://64.media.tumblr.com/63c83768d810d7a6703bef7b6cdc0d1f/3b15af4b6fd402bb-c9/s250x400/6602d62ec55b41a9292965a53e685a0411f6597f.jpg"],
+
+["film", ["Wedding Season"], "2022", ["2023 01 14"], 6, ["ger"], ["comedy", "romance"], ["bini", "mai"], ["Netflix"], ["Tom Dey"], [], "https://64.media.tumblr.com/17a8c945a15b5edadb3e00205c8be195/4dca76515009c5ab-79/s250x400/56ea53fa24420588f24be7e2d74ae70899648dc2.jpg"],
+
+["audiobook", ["Der Tote am Fluss"], "2020", [["2023 01 16", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/86f251f21af8ae700eaba30f63e4f731/3fde18ee8c557f8a-0b/s250x400/544b9b82e3051cd1b793da85bae4989dbf0cce71.jpg"]
 
 /*
 ,
