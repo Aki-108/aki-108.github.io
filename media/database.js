@@ -2473,7 +2473,7 @@ var database = [
 
 ["audiobook", ["Eine Leiche aus gutem Hause"], "2020", [["2023 01 09", "2023 01 12"]], 7, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d3d74cdddb8994aa61a19a837f2e74fb/04f3bda7fdccd2e9-39/s250x400/555104bc0a69ac070803eabaaabbb525e7ef8102.jpg"],
 
-["series", ["Fate/stay night"], "2006", [["2023 01 11", "", "S1"]], 0, ["jap"], ["anime", "action", "fantasy", "romance", "supernatural"], ["bini", "jessie", "nico"], ["watching"], ["Jukki Hanada", "Kinoko Nasu", "Mari Okada"], [], "https://64.media.tumblr.com/89968cefac4d2fd6d36862a836d56c23/4a000909c1d2566b-77/s250x400/e6d2cd96dd30ab2d51bf87acd7b13fa155032676.jpg"],
+["series", ["Fate/stay night"], "2006", [["2023 01 11", "S1"]], 0, ["jap"], ["anime", "action", "fantasy", "romance", "supernatural"], ["bini", "jessie", "nico"], ["dropped"], ["Jukki Hanada", "Kinoko Nasu", "Mari Okada"], [], "https://64.media.tumblr.com/89968cefac4d2fd6d36862a836d56c23/4a000909c1d2566b-77/s250x400/e6d2cd96dd30ab2d51bf87acd7b13fa155032676.jpg"],
 
 ["series", ["Fate/stay night: Unlimited Blade Works"], ["2014", "2015"], [["2023 01 11", "", "S1"]], 0, ["ger"], ["anime", "action", "fantasy", "supernatural"], ["bini", "jessie", "nico"], ["watching"], ["Akira Hiyama", "Tatsuki Ichinose", "Michael McConnohie"], [], "https://64.media.tumblr.com/5866a2aafe5194abf6b1196395b99ffe/5700d55fc672f13c-f5/s250x400/a9111cac3eda8f0900ad1de2fc31b412f0c1830f.jpg"],
 
@@ -2483,7 +2483,7 @@ var database = [
 
 ["film", ["Wedding Season"], "2022", ["2023 01 14"], 6, ["ger"], ["comedy", "romance"], ["bini", "mai"], ["Netflix"], ["Tom Dey"], [], "https://64.media.tumblr.com/17a8c945a15b5edadb3e00205c8be195/4dca76515009c5ab-79/s250x400/56ea53fa24420588f24be7e2d74ae70899648dc2.jpg"],
 
-["audiobook", ["Der Tote am Fluss"], "2020", [["2023 01 16", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/86f251f21af8ae700eaba30f63e4f731/3fde18ee8c557f8a-0b/s250x400/544b9b82e3051cd1b793da85bae4989dbf0cce71.jpg"]
+["audiobook", ["Der Tote am Fluss"], "2020", [["2023 01 16", "2023 01 18"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/86f251f21af8ae700eaba30f63e4f731/3fde18ee8c557f8a-0b/s250x400/544b9b82e3051cd1b793da85bae4989dbf0cce71.jpg"]
 
 /*
 ,
