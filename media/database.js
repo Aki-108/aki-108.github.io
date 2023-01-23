@@ -2429,7 +2429,7 @@ var database = [
 
 ["film", ["Sex Appeal"], "2022", ["2022 11 04"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Talia Osteen"], [], "https://64.media.tumblr.com/67ca94abcc3f34fb105b898719587697/33a38d0d6b83ab39-00/s250x400/0633a90d76b7800bd5302339eb6d396f2e522aa7.jpg"],
 
-["series", ["Running Wild with Bear Grylls", "Bear Grylls: Stars am Limit"], ["2014", ""], [["2022 11 06", "2022 12 11", "S5"], ["2022 12 11", "", "S6"]], 5, ["ger"], ["adventure", "comedy"], ["bini", "nico"], ["Disney+", "watching"], ["Delbert Shoopman"], ["Bear Grylls"], "https://64.media.tumblr.com/bd30ebffcb9207446006f85616a56b4d/98d58338f9bbb26e-89/s250x400/af6e0494495deba03c86befa1cc616477843ce7e.jpg"],
+["series", ["Running Wild with Bear Grylls", "Bear Grylls: Stars am Limit"], ["2014", ""], [["2022 11 06", "2022 12 11", "S5"], ["2022 12 11", "2023 01 20", "S6"]], 5, ["ger"], ["adventure", "comedy"], ["bini", "nico"], ["Disney+"], ["Delbert Shoopman"], ["Bear Grylls"], "https://64.media.tumblr.com/bd30ebffcb9207446006f85616a56b4d/98d58338f9bbb26e-89/s250x400/af6e0494495deba03c86befa1cc616477843ce7e.jpg"],
 
 ["audiobook", ["John Sinclair: Irrfahrt ins Jenseits"], "2018", ["2022 11 08"], 6, ["ger"], ["horror"], [], ["bibliothek"], ["Jason Dark"], ["Dietmar Wunder", "Alexandra Lange"], "https://64.media.tumblr.com/c104deaeb01805d0a11ce5e88b45c95d/a295795ef81b53cc-49/s250x400/110e135a1cb3e9fcc5c69bd6aff30b2ed711e784.jpg"],
 
@@ -2471,7 +2471,7 @@ var database = [
 
 ["film", ["Colonia", "Colonia Dignidad - Es gibt kein Zurück"], "2015", ["2023 01 08"], 7, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Florian Gallenberger"], ["Emma Watson", "Daniel Brühl", "Michael Nyqvist", "Martin Wuttke"], "https://64.media.tumblr.com/37753c855a9168f099b62c9f4924b679/85debf1431484e89-0e/s250x400/3a559afb0b29072d130c7b86d597b27e247de945.jpg"],
 
-["audiobook", ["Eine Leiche aus gutem Hause"], "2020", [["2023 01 09", "2023 01 12"]], 7, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d3d74cdddb8994aa61a19a837f2e74fb/04f3bda7fdccd2e9-39/s250x400/555104bc0a69ac070803eabaaabbb525e7ef8102.jpg"],
+["audiobook", ["Eine Leiche aus gutem Hause"], "2020", [["2023 01 09", "2023 01 12"]], 7, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d7db9f91221ca97e0e68aedcece6d5bb/6fbed9588e9daba9-87/s250x400/e0b8d91eaa90659ffe03d1906ca6c582c8eb0172.jpg"],
 
 ["series", ["Fate/stay night"], "2006", [["2023 01 11", "S1E1-S1E3"]], 0, ["jap"], ["anime", "action", "fantasy", "romance", "supernatural"], ["bini", "jessie", "nico"], ["dropped"], ["Jukki Hanada", "Kinoko Nasu", "Mari Okada"], [], "https://64.media.tumblr.com/89968cefac4d2fd6d36862a836d56c23/4a000909c1d2566b-77/s250x400/e6d2cd96dd30ab2d51bf87acd7b13fa155032676.jpg"],
 
@@ -2487,7 +2487,11 @@ var database = [
 
 ["series", ["The Baby-Sitters Club", "Der Babysitter-Club"], ["2020", "2021"], [["2023 01 22", "", "S1"]], 0, ["ger"], ["adventure", "comedy"], [], ["Netflix", "watching"], ["Lisha Brooks"], [], "https://64.media.tumblr.com/977064f8f1e52b790729b0d925f87905/b53de1b33d6ed04f-41/s250x400/6a5ce88b78e25c7b441993f7ac47d693513476b9.jpg"],
 
-["series", ["Wednesday"], ["2022", ""], [["2023 01 22", "", "S1"]], 0, ["ger"], ["comedy", "crime"], ["bini", "nico"], ["Netflix", "watching", "ongoing"], ["Charles Addams", "Alfred Gough"], ["Jenna Ortega", "Emma Myers", "Christina Ricci"], "https://64.media.tumblr.com/2c0de27e286ef85f7feefbadbde28f78/d5c60e11e8a10e79-68/s250x400/f4f3b3b474bddc4148370fb9ebabd4b6c2f9c9b2.jpg"]
+["series", ["Wednesday"], ["2022", ""], [["2023 01 22", "", "S1"]], 0, ["ger"], ["comedy", "crime"], ["bini", "nico"], ["Netflix", "watching", "ongoing"], ["Charles Addams", "Alfred Gough"], ["Jenna Ortega", "Emma Myers", "Christina Ricci"], "https://64.media.tumblr.com/2c0de27e286ef85f7feefbadbde28f78/d5c60e11e8a10e79-68/s250x400/f4f3b3b474bddc4148370fb9ebabd4b6c2f9c9b2.jpg"],
+
+["audiobook", ["Eine rätselhafte Beichte"], "2020", [["2023 01 18", "2023 01 23"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/4dd1ca534d34b802eebb01f11bfe934e/6cd97adf43d18f43-4d/s250x400/e7ee5fdfe6f986bd032f00c675dbe2e366f4695c.jpg"],
+
+["audiobook", ["Ein geheimnisvoller Gast"], "2020", [["2023 01 23", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d13a83d6a25f929b25f030b639bb2c0b/c6eafd855ac4a00d-3f/s250x400/3144cc6a976a628ff84bbdd44ece1f8f6a3032bb.jpg"]
 
 /*
 ,
