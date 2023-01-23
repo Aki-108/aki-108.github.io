@@ -33,7 +33,7 @@ var database = [
 	        
 ["series", ["MythBusters", "MythBusters - Die Wissensjäger"], ["2003", "2018"], ["", ["2021 08 28", "S12E6,7,2"]], 6, ["ger"], ["documentary"], [], [], ["Peter Rees"], [], "https://68.media.tumblr.com/e0afaae383fed8ecc9e625444a06c618/tumblr_oov10gocsR1v2s5upo1_250.jpg"],
 	        
-["series", ["The Legend of Korra", "Die Legende von Korra"], "2012 - 2014", ["", ["2022 11 07", "2022 11 21", "S1"], ["2022 11 21", "2022 12 12", "S2"], ["2022 12 12", "2023 01 02", "S3"], ["2023 01 09", "", "S4"]], 4, ["ger"], ["animation", "action"], [], ["dropped", "watching"], ["Michael Dante DiMartino", "Bryan Konietzko"], [], "https://66.media.tumblr.com/0965a0c472ec082166ab735d1e2c9a17/tumblr_ofm9jr2WK81v2s5upo1_250.jpg"],
+["series", ["The Legend of Korra", "Die Legende von Korra"], "2012 - 2014", ["", ["2022 11 07", "2022 11 21", "S1"], ["2022 11 21", "2022 12 12", "S2"], ["2022 12 12", "2023 01 02", "S3"], ["2023 01 09", "2023 01 23", "S4"]], 5, ["ger"], ["animation", "action"], [], ["dropped", "Netflix"], ["Michael Dante DiMartino", "Bryan Konietzko"], [], "https://66.media.tumblr.com/0965a0c472ec082166ab735d1e2c9a17/tumblr_ofm9jr2WK81v2s5upo1_250.jpg"],
 
 ["film", ["The Green Hornet"], "2021", [""], 0, ["ger"], ["action", "comedy"], [], ["DVD"], ["Michel Gondry"], ["Seth Rogen", "Jay Chou", "Cameron Diaz", "Tom Wilkinson", "Christoph Waltz", "David Harbour", "Jamie Harris", "Lio Tipton"], "https://64.media.tumblr.com/91cc77b24afc5dc1177e1247d57c1d69/57f6525693893d37-13/s250x400/3a0995fe87b9dcb027b97a4f49382b828ff67302.jpg"],
 
@@ -2491,7 +2491,9 @@ var database = [
 
 ["audiobook", ["Eine rätselhafte Beichte"], "2020", [["2023 01 18", "2023 01 23"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/4dd1ca534d34b802eebb01f11bfe934e/6cd97adf43d18f43-4d/s250x400/e7ee5fdfe6f986bd032f00c675dbe2e366f4695c.jpg"],
 
-["audiobook", ["Ein geheimnisvoller Gast"], "2020", [["2023 01 23", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d13a83d6a25f929b25f030b639bb2c0b/c6eafd855ac4a00d-3f/s250x400/3144cc6a976a628ff84bbdd44ece1f8f6a3032bb.jpg"]
+["audiobook", ["Ein geheimnisvoller Gast"], "2020", [["2023 01 23", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d13a83d6a25f929b25f030b639bb2c0b/c6eafd855ac4a00d-3f/s250x400/3144cc6a976a628ff84bbdd44ece1f8f6a3032bb.jpg"],
+
+["series", ["Space Dandy"], "2014", [["2023 01 23", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "sci-fi"], ["bini", "nico"], ["watching"], ["John Burgmeier", "Kimiko Ueno"], [], "https://64.media.tumblr.com/1aa1976a698288855a87b3d51cf21883/a9f5bf639d489a7e-6f/s250x400/293d4592923de16cd7426eb7ebae1c5eb18ee12f.jpg"]
 
 /*
 ,
