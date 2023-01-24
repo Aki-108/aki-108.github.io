@@ -720,7 +720,7 @@ var database = [
 	        
 ["film", ["The Babysitter"], "2017", ["2018 05 23", "2020 10 31"], 7, ["ger"], ["comedy", "horror"], ["bini"], ["Netflix"], ["McG"], ["Samara Weaving", "Robbie Amell", "Emily Alyn Lind", "Andrew Bachelor", "Judah Lewis", "Bella Thorne", "Hana Mae Lee"], "https://66.media.tumblr.com/945e69d735b3f15ae8bb96233081c04e/tumblr_pzkt7faJcw1v2s5upo1_250.jpg"],
 	        
-["film", ["Lady Bird"], "2017", ["2018 05 22"], 7, ["ger"], ["comedy", "drama"], ["syl"], ["Kino"], ["Greta Gerwig"], ["Saoirse Ronan", "Timothée Chalamet", "Kathryn Newton", "Odeya Rush", "Beanie Feldstein", "Jake McDorman"], "https://66.media.tumblr.com/b84196ccf9d098be5b45373b14925706/tumblr_pzkt5n4zW21v2s5upo1_250.jpg"],
+["film", ["Lady Bird"], "2017", ["2018 05 22", "2023 01 24"], 7, ["ger"], ["comedy", "drama"], ["syl"], ["Kino", "bibliothek"], ["Greta Gerwig"], ["Saoirse Ronan", "Timothée Chalamet", "Kathryn Newton", "Odeya Rush", "Beanie Feldstein", "Jake McDorman"], "https://66.media.tumblr.com/b84196ccf9d098be5b45373b14925706/tumblr_pzkt5n4zW21v2s5upo1_250.jpg"],
 	        
 ["film", ["Interstellar"], "2014", ["2016 10 18", "2017 03 27"], 7, ["ger"], ["adventure", "drama", "sci-fi"], ["bini", "syl"], [], ["Christopher Nolan"], ["Timothée Chalamet", "Matthew McConaughey", "Mackenzie Foy", "John Lithgow", "Anne Hathaway", "Michael Caine", "Jessica Chastain", "Matt Damon"], "https://68.media.tumblr.com/c6a73d7ad753da57f16b5b6392587458/tumblr_of8pl59vIY1v2s5upo1_250.jpg"],
 	        
