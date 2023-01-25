@@ -2471,29 +2471,31 @@ var database = [
 
 ["film", ["Colonia", "Colonia Dignidad - Es gibt kein Zurück"], "2015", ["2023 01 08"], 7, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Florian Gallenberger"], ["Emma Watson", "Daniel Brühl", "Michael Nyqvist", "Martin Wuttke"], "https://64.media.tumblr.com/37753c855a9168f099b62c9f4924b679/85debf1431484e89-0e/s250x400/3a559afb0b29072d130c7b86d597b27e247de945.jpg"],
 
-["audiobook", ["Eine Leiche aus gutem Hause"], "2020", [["2023 01 09", "2023 01 12"]], 7, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d7db9f91221ca97e0e68aedcece6d5bb/6fbed9588e9daba9-87/s250x400/e0b8d91eaa90659ffe03d1906ca6c582c8eb0172.jpg"],
+["audiobook", ["Eine Leiche aus gutem Hause"], "2020", [["2023 01 09", "2023 01 12"]], 7, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d7db9f91221ca97e0e68aedcece6d5bb/6fbed9588e9daba9-87/s250x400/e0b8d91eaa90659ffe03d1906ca6c582c8eb0172.jpg"],
 
 ["series", ["Fate/stay night"], "2006", [["2023 01 11", "S1E1-S1E3"]], 0, ["jap"], ["anime", "action", "fantasy", "romance", "supernatural"], ["bini", "jessie", "nico"], ["dropped"], ["Jukki Hanada", "Kinoko Nasu", "Mari Okada"], [], "https://64.media.tumblr.com/89968cefac4d2fd6d36862a836d56c23/4a000909c1d2566b-77/s250x400/e6d2cd96dd30ab2d51bf87acd7b13fa155032676.jpg"],
 
 ["series", ["Fate/stay night: Unlimited Blade Works"], ["2014", "2015"], [["2023 01 11", "", "S1"]], 0, ["ger"], ["anime", "action", "fantasy", "supernatural"], ["bini", "jessie", "nico"], ["watching"], ["Akira Hiyama", "Tatsuki Ichinose", "Michael McConnohie"], [], "https://64.media.tumblr.com/5866a2aafe5194abf6b1196395b99ffe/5700d55fc672f13c-f5/s250x400/a9111cac3eda8f0900ad1de2fc31b412f0c1830f.jpg"],
 
-["audiobook", ["Tod zur Mittagsstunde"], "2020", [["2023 01 13", "2023 01 14"]], 7, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/45ebf70f8ab49eab1fb3f7cfad67e9fd/408b18bdf1f11574-4c/s250x400/a5c1afe9bdef0b1e13f045e289000044dbc0f7c5.jpg"],
+["audiobook", ["Tod zur Mittagsstunde"], "2020", [["2023 01 13", "2023 01 14"]], 7, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/45ebf70f8ab49eab1fb3f7cfad67e9fd/408b18bdf1f11574-4c/s250x400/a5c1afe9bdef0b1e13f045e289000044dbc0f7c5.jpg"],
 
 ["series", ["Maggie"], "2022", [["2023 01 13", "2023 01 14", "S1"]], 5, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Hayley Adams", "Justin Adler"], ["Leonardo Nam"], "https://64.media.tumblr.com/63c83768d810d7a6703bef7b6cdc0d1f/3b15af4b6fd402bb-c9/s250x400/6602d62ec55b41a9292965a53e685a0411f6597f.jpg"],
 
 ["film", ["Wedding Season"], "2022", ["2023 01 14"], 6, ["ger"], ["comedy", "romance"], ["bini", "mai"], ["Netflix"], ["Tom Dey"], [], "https://64.media.tumblr.com/17a8c945a15b5edadb3e00205c8be195/4dca76515009c5ab-79/s250x400/56ea53fa24420588f24be7e2d74ae70899648dc2.jpg"],
 
-["audiobook", ["Der Tote am Fluss"], "2020", [["2023 01 16", "2023 01 18"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/86f251f21af8ae700eaba30f63e4f731/3fde18ee8c557f8a-0b/s250x400/544b9b82e3051cd1b793da85bae4989dbf0cce71.jpg"],
+["audiobook", ["Der Tote am Fluss"], "2020", [["2023 01 16", "2023 01 18"]], 6, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/86f251f21af8ae700eaba30f63e4f731/3fde18ee8c557f8a-0b/s250x400/544b9b82e3051cd1b793da85bae4989dbf0cce71.jpg"],
 
 ["series", ["The Baby-Sitters Club", "Der Babysitter-Club"], ["2020", "2021"], [["2023 01 22", "", "S1"]], 0, ["ger"], ["adventure", "comedy"], [], ["Netflix", "watching"], ["Lisha Brooks"], [], "https://64.media.tumblr.com/977064f8f1e52b790729b0d925f87905/b53de1b33d6ed04f-41/s250x400/6a5ce88b78e25c7b441993f7ac47d693513476b9.jpg"],
 
 ["series", ["Wednesday"], ["2022", ""], [["2023 01 22", "", "S1"]], 0, ["ger"], ["comedy", "crime"], ["bini", "nico"], ["Netflix", "watching", "ongoing"], ["Charles Addams", "Alfred Gough"], ["Jenna Ortega", "Emma Myers", "Christina Ricci"], "https://64.media.tumblr.com/2c0de27e286ef85f7feefbadbde28f78/d5c60e11e8a10e79-68/s250x400/f4f3b3b474bddc4148370fb9ebabd4b6c2f9c9b2.jpg"],
 
-["audiobook", ["Eine rätselhafte Beichte"], "2020", [["2023 01 18", "2023 01 23"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/4dd1ca534d34b802eebb01f11bfe934e/6cd97adf43d18f43-4d/s250x400/e7ee5fdfe6f986bd032f00c675dbe2e366f4695c.jpg"],
+["audiobook", ["Eine rätselhafte Beichte"], "2020", [["2023 01 18", "2023 01 23"]], 6, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/4dd1ca534d34b802eebb01f11bfe934e/6cd97adf43d18f43-4d/s250x400/e7ee5fdfe6f986bd032f00c675dbe2e366f4695c.jpg"],
 
-["audiobook", ["Ein geheimnisvoller Gast"], "2020", [["2023 01 23", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d13a83d6a25f929b25f030b639bb2c0b/c6eafd855ac4a00d-3f/s250x400/3144cc6a976a628ff84bbdd44ece1f8f6a3032bb.jpg"],
+["audiobook", ["Ein geheimnisvoller Gast"], "2020", [["2023 01 23", "2023 01 25"]], 6, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d13a83d6a25f929b25f030b639bb2c0b/c6eafd855ac4a00d-3f/s250x400/3144cc6a976a628ff84bbdd44ece1f8f6a3032bb.jpg"],
 
-["series", ["Space Dandy"], "2014", [["2023 01 23", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "sci-fi"], ["bini", "nico"], ["watching"], ["John Burgmeier", "Kimiko Ueno"], [], "https://64.media.tumblr.com/1aa1976a698288855a87b3d51cf21883/a9f5bf639d489a7e-6f/s250x400/293d4592923de16cd7426eb7ebae1c5eb18ee12f.jpg"]
+["series", ["Space Dandy"], "2014", [["2023 01 23", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "sci-fi"], ["bini", "nico"], ["watching"], ["John Burgmeier", "Kimiko Ueno"], [], "https://64.media.tumblr.com/1aa1976a698288855a87b3d51cf21883/a9f5bf639d489a7e-6f/s250x400/293d4592923de16cd7426eb7ebae1c5eb18ee12f.jpg"],
+
+["audiobook", ["Lord of the Rings: The Fellowship of the Ring", "Herr der Ringe: Die Gefährten"], "1954", [["2023 01 25", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "watching", "Middle Earth"], ["J. R. R. Tolkien"], ["Achim Höppner"], "https://64.media.tumblr.com/578e78bae11f4ba9c301de1dd831150b/5d9c45f272d73f02-3e/s250x400/2ff545d4fef9ecb7cc1c044c3598cc9890528675.jpg"]
 
 /*
 ,
