@@ -830,7 +830,7 @@ var database = [
 	        
 ["film", ["Mirror Mirror", "Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen"], "2012", ["2016 12 10", "2018 05 12", "2019 08 14"], 7, ["ger"], ["adventure", "comedy", "fantasy"], ["syl"], ["Netflix", "DVD"], ["Tarsem Singh"], ["Julia Roberts", "Lily Collins", "Martin Klebba"], "https://68.media.tumblr.com/85e6af5ca1ea499e7e2559c88bf40bac/tumblr_ohzs6oEFYx1v2s5upo1_250.jpg"],
 	        
-["film", ["The Great Gatsby", "Der große Gatsby"], "2013", ["2016 12 04", "2018 03 22"], 7, ["ger"], ["drama", "romance"], [], [], ["Baz Luhrmann"], ["Amitabh Bachchan", "Elizabeth Debicki", "Leonardo DiCaprio", "Isla Fisher", "Tobey Maguire", "Carey Mulligan", "Gemma Ward", "Callan McAuliffe", "Joel Edgerton"], "https://68.media.tumblr.com/dab91bb769730f950891cdd9f7ebd2e3/tumblr_ohnriy3QpA1v2s5upo1_250.jpg"],
+["film", ["The Great Gatsby", "Der große Gatsby"], "2013", ["2016 12 04", "2018 03 22", "2023 01 28"], 7, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Baz Luhrmann"], ["Amitabh Bachchan", "Elizabeth Debicki", "Leonardo DiCaprio", "Isla Fisher", "Tobey Maguire", "Carey Mulligan", "Gemma Ward", "Callan McAuliffe", "Joel Edgerton"], "https://68.media.tumblr.com/dab91bb769730f950891cdd9f7ebd2e3/tumblr_ohnriy3QpA1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Prestige", "Prestige - Die Meister der Magie"], "2006", ["2016 12 02"], 9, ["ger"], ["drama", "mystery", "sci-fi"], [], [], ["Christopher Nolan"], ["Hugh Jackman", "Christian Bale", "Michael Caine", "Scarlett Johansson", "Rebecca Hall", "Jamie Harris"], "https://68.media.tumblr.com/c93c2fbf56473180ef3305bfa33f3a18/tumblr_ohkqlhJj9Z1v2s5upo1_250.jpg"],
 	        
@@ -1546,7 +1546,7 @@ var database = [
 
 ["audiobook", ["Good Wives"], "1869", [["2020 10 21", "2020 11 23"]], 8, ["eng"], [], [], ["March-Trilogie", "LibriVox"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/7f3d6feda05afd7018598432df30ad8f/b01ae36c85f5a2b5-80/s250x400/0246a1075a03acf0565518bfd1ab3fe41e9b8128.jpg"],
 
-["film", ["I am here", "Ich bin immer für dich da!", "Main Hoon Na"], "2004", ["2020 10 26", ["2023 01 21", ""]], 10, ["hin"], ["action", "comedy", "bollywood"], ["bini", "mai"], ["Netflix"], ["Farah Khan"], ["Shah Rukh Khan", "Sushmita Sen", "Amrita Rao"], "https://64.media.tumblr.com/b0cdd5b36ab21c7927472b0ba3f26df2/c77b1b7cbfb69703-e8/s250x400/2d79b6abe2f007b1006bc4b51bf715a594b89ca5.jpg"],
+["film", ["I am here", "Ich bin immer für dich da!", "Main Hoon Na"], "2004", ["2020 10 26", ["2023 01 21", "2023 01 28"]], 10, ["hin"], ["action", "comedy", "bollywood"], ["bini", "mai"], ["Netflix"], ["Farah Khan"], ["Shah Rukh Khan", "Sushmita Sen", "Amrita Rao"], "https://64.media.tumblr.com/b0cdd5b36ab21c7927472b0ba3f26df2/c77b1b7cbfb69703-e8/s250x400/2d79b6abe2f007b1006bc4b51bf715a594b89ca5.jpg"],
 
 ["film", ["The Babysitter: Killer Queen"], "2020", ["2020 10 31"], 6, ["ger"], ["comedy", "horror"], ["bini"], ["Netflix"], ["McG"], ["Judah Lewis", "Samara Weaving", "Jenna Ortega", "Emily Alyn Lind", "Andrew Bachelor", "Robbie Amell", "Bella Thorne", "Hana Mae Lee"], "https://64.media.tumblr.com/2fdddf667d194b1d6b4e632f01f954ed/bcccd7b7533c156e-20/s250x400/25f93e87fbf70d5d90142d5451c5e48d2c03024d.jpg"],
 
