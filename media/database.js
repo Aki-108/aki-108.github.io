@@ -2485,7 +2485,7 @@ var database = [
 
 ["audiobook", ["Der Tote am Fluss"], "2020", [["2023 01 16", "2023 01 18"]], 6, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/86f251f21af8ae700eaba30f63e4f731/3fde18ee8c557f8a-0b/s250x400/544b9b82e3051cd1b793da85bae4989dbf0cce71.jpg"],
 
-["series", ["The Baby-Sitters Club", "Der Babysitter-Club"], ["2020", "2021"], [["2023 01 22", "2023 01 25", "S1"], ["2023 01 26", "", "S2"]], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix", "watching"], ["Lisha Brooks"], [], "https://64.media.tumblr.com/977064f8f1e52b790729b0d925f87905/b53de1b33d6ed04f-41/s250x400/6a5ce88b78e25c7b441993f7ac47d693513476b9.jpg"],
+["series", ["The Baby-Sitters Club", "Der Babysitter-Club"], ["2020", "2021"], [["2023 01 22", "2023 01 25", "S1"], ["2023 01 26", "2023 01 29", "S2"]], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Lisha Brooks"], [], "https://64.media.tumblr.com/977064f8f1e52b790729b0d925f87905/b53de1b33d6ed04f-41/s250x400/6a5ce88b78e25c7b441993f7ac47d693513476b9.jpg"],
 
 ["series", ["Wednesday"], ["2022", ""], [["2023 01 22", "", "S1"]], 0, ["ger"], ["comedy", "crime"], ["bini", "nico"], ["Netflix", "watching", "ongoing"], ["Charles Addams", "Alfred Gough"], ["Jenna Ortega", "Emma Myers", "Christina Ricci", "Riki Lindhome"], "https://64.media.tumblr.com/2c0de27e286ef85f7feefbadbde28f78/d5c60e11e8a10e79-68/s250x400/f4f3b3b474bddc4148370fb9ebabd4b6c2f9c9b2.jpg"],
 
