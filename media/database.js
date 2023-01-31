@@ -2367,7 +2367,7 @@ var database = [
 
 ["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", "2022 08 30"]], 6, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"],
 
-["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "2022 09 11", "S2"], ["2022 10 03", "2022 11 06", "S3"], ["2022 11 10", "2022 12 27", "S4"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
+["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "2022 09 11", "S2"], ["2022 10 03", "2022 11 06", "S3"], ["2022 11 10", "2022 12 27", "S4"], ["2023 01 29", "", "S5"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing", "watching"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
 
 ["film", ["Z-O-M-B-I-E-S", "Zombies - Das Musical"], "2018", ["2022 08 25"], 5, ["ger"], ["family", "musical"], [], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/872f8f06df5b500939e5870fdd0d4ce4/14a080293eb78a81-04/s250x400/55213a056e85af0b98bb3456d63a3d1cb0a319bc.jpg"],
 
@@ -2437,7 +2437,7 @@ var database = [
 
 ["audiobook", ["Numbers", "Numbers: den Tod vor Augen"], "2008", [["2022 11 10", "2022 11 18"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Rachel Ward"], ["Sascha Icks", "Philipp Schepmann"], "https://64.media.tumblr.com/0e2f572287be528e5711dc309457c0e8/aae5be0b66188706-b0/s250x400/9f3adc21045e5a585b164931d8587cc0e8245716.jpg"],
 
-["book", ["Die Wilden Hühner - Fuchsalarm!"], "2006", [["2022 11 14", "2022 12 13"]], 8, ["ger"], [], [], ["bibliothek"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/037d1e5f14c3d48bd77738b29e468817/c8027e028b17de4f-c6/s250x400/ac5dfe31e12ece88e50ce960ca6f480e81bc8118.jpg"],
+["book", ["Die Wilden Hühner - Fuchsalarm!"], "2006", [["2022 11 14", "2022 12 13"]], 8, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/037d1e5f14c3d48bd77738b29e468817/c8027e028b17de4f-c6/s250x400/ac5dfe31e12ece88e50ce960ca6f480e81bc8118.jpg"],
 
 ["audiobook", ["Unsterblich Mein"], "2019", [["2022 11 18", "2022 11 28"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/9d727d06c597a9572f6915f84c2760d6/cda6196b0d95f6f9-32/s250x400/2ae71a9cbd2d15811ef226f2ea8af8ecf1b7f55b.jpg"],
 
@@ -2499,7 +2499,9 @@ var database = [
 
 ["film", ["Metal Lords"], "2022", ["2023 01 27"], 8, ["ger"], ["comedy", "music"], [], ["Netflix"], ["Peter Sollett"], ["Jaeden Martell", "Isis Hainsworth"], "https://64.media.tumblr.com/f49c52a439b48767af186094f7e466f0/7fcd52d2121c9b2e-27/s250x400/9210b432f16212f36cfba4186369a6491401ed57.jpg"],
 
-["film", ["Knives Out", "Knives Out: Mord ist Familiensache"], "2019", ["2023 01 27"], 9, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Chris Evans", "Ana de Armas", "Katherine Langford", "Jaeden Martell", "Riki Lindhome"], "https://64.media.tumblr.com/d2f6d59bdfcc045186007292e7e86315/3e2acbf1c4b693d4-87/s250x400/6d83b8ecf1729f74d4bffc6abec2996716928990.jpg"]
+["film", ["Knives Out", "Knives Out: Mord ist Familiensache"], "2019", ["2023 01 27"], 9, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Chris Evans", "Ana de Armas", "Katherine Langford", "Jaeden Martell", "Riki Lindhome"], "https://64.media.tumblr.com/d2f6d59bdfcc045186007292e7e86315/3e2acbf1c4b693d4-87/s250x400/6d83b8ecf1729f74d4bffc6abec2996716928990.jpg"],
+
+["book", ["Die Wilden Hühner und das Glück der Erde"], "2005", [["2023 01 26", ""]], 0, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/432565b590929b69689205cd479b9c5c/a04add625a1dc6bd-91/s250x400/8e7bcd7bdb1225e169d3bb9c34ec2ccfd015ede0.jpg"]
 
 /*
 ,
