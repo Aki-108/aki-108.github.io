@@ -2493,7 +2493,7 @@ var database = [
 
 ["audiobook", ["Ein geheimnisvoller Gast"], "2020", [["2023 01 23", "2023 01 25"]], 6, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/d13a83d6a25f929b25f030b639bb2c0b/c6eafd855ac4a00d-3f/s250x400/3144cc6a976a628ff84bbdd44ece1f8f6a3032bb.jpg"],
 
-["series", ["Space Dandy"], "2014", [["2023 01 23", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "sci-fi"], ["bini", "nico"], ["watching"], ["John Burgmeier", "Kimiko Ueno"], [], "https://64.media.tumblr.com/1aa1976a698288855a87b3d51cf21883/a9f5bf639d489a7e-6f/s250x400/293d4592923de16cd7426eb7ebae1c5eb18ee12f.jpg"],
+["series", ["Space Dandy"], "2014", [["2023 01 23", "2023 02 06", "S1"]], 6, ["ger"], ["anime", "adventure", "comedy", "sci-fi"], ["bini", "nico"], ["ongoing"], ["John Burgmeier", "Kimiko Ueno"], [], "https://64.media.tumblr.com/1aa1976a698288855a87b3d51cf21883/a9f5bf639d489a7e-6f/s250x400/293d4592923de16cd7426eb7ebae1c5eb18ee12f.jpg"],
 
 ["audiobook", ["Lord of the Rings: The Fellowship of the Ring", "Herr der Ringe: Die Gefährten"], "1954", [["2023 01 25", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "watching", "Middle Earth"], ["J. R. R. Tolkien"], ["Achim Höppner"], "https://64.media.tumblr.com/578e78bae11f4ba9c301de1dd831150b/5d9c45f272d73f02-3e/s250x400/2ff545d4fef9ecb7cc1c044c3598cc9890528675.jpg"],
 
