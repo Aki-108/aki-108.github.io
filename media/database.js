@@ -2503,7 +2503,9 @@ var database = [
 
 ["book", ["Die Wilden Hühner und das Glück der Erde"], "2005", [["2023 01 26", ""]], 0, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/432565b590929b69689205cd479b9c5c/a04add625a1dc6bd-91/s250x400/8e7bcd7bdb1225e169d3bb9c34ec2ccfd015ede0.jpg"],
 
-["film", ["Coraline"], "2009", ["2023 02 04"], 8, ["eng"], ["animation", "drama", "horror"], ["bini", "mai"], ["Netflix"], ["Henry Selick"], [], "https://64.media.tumblr.com/a659e7c43d2a021feeb7d2710f882183/2bcaf717d05a0b16-58/s250x400/3f3e6d39bc6a24f15ed6ce8c7aaaf9405c647b6a.jpg"]
+["film", ["Coraline"], "2009", ["2023 02 04"], 8, ["eng"], ["animation", "drama", "horror"], ["bini", "mai"], ["Netflix"], ["Henry Selick"], [], "https://64.media.tumblr.com/a659e7c43d2a021feeb7d2710f882183/2bcaf717d05a0b16-58/s250x400/3f3e6d39bc6a24f15ed6ce8c7aaaf9405c647b6a.jpg"],
+
+["series", ["Zootopia+"], "2022", [["2023 02 06", "2023 02 07", "S1"]], 4, ["ger"], ["animation", "short"], [], ["Disney+"], ["Trent Correy", "Michael Herrera"], [], "https://64.media.tumblr.com/1e55d1d598db47dc314b37f4ca51b7a4/860eee002bdd99ed-08/s250x400/c64302bee7f889453b00a3afb578e38a18396e02.jpg"]
 
 /*
 ,
