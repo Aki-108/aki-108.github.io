@@ -2016,7 +2016,7 @@ var database = [
 
 ["book", ["Aristocats"], "1992", [["2021 11 28", "2021 12 01"]], 5, ["ger"], [], [], [], [], [], "https://64.media.tumblr.com/d19a736fe2a000d32b2b67d3d29bf22d/872ce6cbcf86db29-a3/s400x600/22922e3d8786b8f416465b7010a45fc65f248ecb.jpg"],
 
-["series", ["Best Friends Whenever", "Best Friends - Zu jeder Zeit"], ["2015", "2016"], [["2021 11 29", "2021 12 16", "S1"], ["2021 12 21", "2022 01 02", "S2"]], 7, ["ger"], ["comedy", "family"], [], ["Disney+", "fav"], ["Jed Elinoff", "Scott Thomas"], ["Amiah Miller", "Rowan Blanchard", "Lauren Lindsey Donzis", "Ricky Garcia", "Gus Kamp"], "https://64.media.tumblr.com/d0b98f93c2c43a71ce50d3a3f23b5268/ce8aee5415160c83-13/s250x400/9f5b858dff619e1bc8a0955ca5f3ff2bb504743b.jpg"],
+["series", ["Best Friends Whenever", "Best Friends - Zu jeder Zeit"], ["2015", "2016"], [["2021 11 29", "2021 12 16", "S1"], ["2021 12 21", "2022 01 02", "S2"]], 7, ["ger"], ["comedy", "family"], [], ["Disney+", "fav"], ["Jed Elinoff", "Scott Thomas"], ["Amiah Miller", "Rowan Blanchard", "Lauren Lindsey Donzis", "Ricky Garcia", "Gus Kamp", "Madison Hu"], "https://64.media.tumblr.com/d0b98f93c2c43a71ce50d3a3f23b5268/ce8aee5415160c83-13/s250x400/9f5b858dff619e1bc8a0955ca5f3ff2bb504743b.jpg"],
 
 ["series", ["Dig Deeper - Das Verschwinden von Birgit Meier"], "2021", [["2021 11 30", "S1"], ["2021 12 29", "S1E2-S1E4"]], 7, ["ger"], ["documentary", "biography"], ["syl"], ["Netflix"], ["Nicolas Steiner"], [], "https://64.media.tumblr.com/3b91919efb858bcfcf591f9db7c22db9/38b29c14adc3282a-1e/s250x400/78ea2039298c0a08213cd981ca08a3e771419e7b.jpg"],
 
@@ -2505,7 +2505,11 @@ var database = [
 
 ["film", ["Coraline"], "2009", ["2023 02 04"], 8, ["eng"], ["animation", "drama", "horror"], ["bini", "mai"], ["Netflix"], ["Henry Selick"], [], "https://64.media.tumblr.com/a659e7c43d2a021feeb7d2710f882183/2bcaf717d05a0b16-58/s250x400/3f3e6d39bc6a24f15ed6ce8c7aaaf9405c647b6a.jpg"],
 
-["series", ["Zootopia+"], "2022", [["2023 02 06", "2023 02 07", "S1"]], 4, ["ger"], ["animation", "short"], [], ["Disney+"], ["Trent Correy", "Michael Herrera"], [], "https://64.media.tumblr.com/1e55d1d598db47dc314b37f4ca51b7a4/860eee002bdd99ed-08/s250x400/c64302bee7f889453b00a3afb578e38a18396e02.jpg"]
+["series", ["Zootopia+"], "2022", [["2023 02 06", "2023 02 07", "S1"]], 4, ["ger"], ["animation", "short"], [], ["Disney+"], ["Trent Correy", "Michael Herrera"], [], "https://64.media.tumblr.com/1e55d1d598db47dc314b37f4ca51b7a4/860eee002bdd99ed-08/s250x400/c64302bee7f889453b00a3afb578e38a18396e02.jpg"],
+
+["series", ["Bizaardvark"], ["2016", "2019"], [["2023 02 08", "", "S1"]], 0, ["ger"], ["comedy", "family"], [], ["Disney+", "watching"], ["Josh Lehrman", "Kyle Stegina"], ["Olivia Rodrigo", "Madison Hu"], "https://64.media.tumblr.com/bd816340925118439769e6df6af8397e/723e45e7373120a3-e9/s250x400/0340c2fd74c338c70df32f85781a35acb27e4fd0.jpg"],
+
+["film", ["I'm Thinking of Ending Things"], "2020", ["2023 02 10"], 0, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Charlie Kaufman"], ["Jesse Plemons", "David Thewlis", "Hadley Robinson"], "https://64.media.tumblr.com/fd8bb502ba097f2d2da43b0fafbb7672/c224734a55112ad3-09/s250x400/6489c037486ae1cba686fb5ebebbe26a52021325.jpg"]
 
 /*
 ,
