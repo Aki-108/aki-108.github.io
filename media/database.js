@@ -1110,7 +1110,7 @@ var database = [
 	        
 ["film", ["The Fifth Element", "Das fünfte Element"], "1997", ["2015 10 20", "2021 06 04"], 6, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], [], ["Luc Besson"], ["Bruce Willis", "Gary Oldman", "Milla Jovovich"], "https://66.media.tumblr.com/c2b9366f5a0a8ce5ab56c6da9553790c/tumblr_pwf7roRFyr1v2s5upo1_250.jpg"],
 	        
-["film", ["Kuch Kuch Hota Hai", "Kuch Kuch Hota Hai - Und ganz plötzlich ist es Liebe"], "1998", ["2015 10 23", "2023 02 11"], 5, ["ger", "hin"], ["comedy", "drama", "bollywood"], ["bini", "mai"], ["Netflix"], ["Karan Johar"], ["Shah Rukh Khan", "Anupam Kher", "Rani Mukerji"], "https://66.media.tumblr.com/5c85abbf91995378d4363a9bdbdec0d8/tumblr_pwko1ihh061v2s5upo1_250.jpg"],
+["film", ["Kuch Kuch Hota Hai", "Kuch Kuch Hota Hai - Und ganz plötzlich ist es Liebe"], "1998", ["2015 10 23", ["2023 02 11", ""]], 5, ["ger", "hin"], ["comedy", "drama", "bollywood"], ["bini", "mai"], ["Netflix", "watching"], ["Karan Johar"], ["Shah Rukh Khan", "Anupam Kher", "Rani Mukerji"], "https://66.media.tumblr.com/5c85abbf91995378d4363a9bdbdec0d8/tumblr_pwko1ihh061v2s5upo1_250.jpg"],
 	        
 ["film", ["Happy New Year", "Happy New Year - Herzensdiebe"], "2014", ["2015 10 25"], 4, ["ger"], ["action", "comedy", "bollywood", "music"], ["bini"], [], ["Farah Khan"], ["Shah Rukh Khan"], "https://66.media.tumblr.com/c1f84054992fbd681072778a2f35c657/tumblr_pwko56FXy31v2s5upo1_250.jpg"],
 	        
@@ -2495,7 +2495,7 @@ var database = [
 
 ["series", ["Space Dandy"], "2014", [["2023 01 23", "2023 02 06", "S1"]], 6, ["ger"], ["anime", "adventure", "comedy", "sci-fi"], ["bini", "nico"], ["ongoing"], ["John Burgmeier", "Kimiko Ueno"], [], "https://64.media.tumblr.com/1aa1976a698288855a87b3d51cf21883/a9f5bf639d489a7e-6f/s250x400/293d4592923de16cd7426eb7ebae1c5eb18ee12f.jpg"],
 
-["audiobook", ["Lord of the Rings: The Fellowship of the Ring", "Herr der Ringe: Die Gefährten"], "1954", [["2023 01 25", "2023 02 11"]], 8, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth"], ["J. R. R. Tolkien"], ["Achim Höppner"], "https://64.media.tumblr.com/578e78bae11f4ba9c301de1dd831150b/5d9c45f272d73f02-3e/s250x400/2ff545d4fef9ecb7cc1c044c3598cc9890528675.jpg"],
+["audiobook", ["Lord of the Rings: The Fellowship of the Ring", "Herr der Ringe: Die Gefährten"], "1954", [["2023 01 25", "2023 02 10"]], 8, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth"], ["J. R. R. Tolkien"], ["Achim Höppner"], "https://64.media.tumblr.com/578e78bae11f4ba9c301de1dd831150b/5d9c45f272d73f02-3e/s250x400/2ff545d4fef9ecb7cc1c044c3598cc9890528675.jpg"],
 
 ["film", ["Metal Lords"], "2022", ["2023 01 27"], 8, ["ger"], ["comedy", "music"], [], ["Netflix"], ["Peter Sollett"], ["Jaeden Martell", "Isis Hainsworth"], "https://64.media.tumblr.com/f49c52a439b48767af186094f7e466f0/7fcd52d2121c9b2e-27/s250x400/9210b432f16212f36cfba4186369a6491401ed57.jpg"],
 
@@ -2511,7 +2511,9 @@ var database = [
 
 ["film", ["I'm Thinking of Ending Things"], "2020", ["2023 02 10"], 5, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Charlie Kaufman"], ["Jesse Plemons", "David Thewlis", "Hadley Robinson"], "https://64.media.tumblr.com/fd8bb502ba097f2d2da43b0fafbb7672/c224734a55112ad3-09/s250x400/6489c037486ae1cba686fb5ebebbe26a52021325.jpg"],
 
-["film", ["Far from the Madding Crowd", "Am grünen Rand der Welt"], "2015", ["2023 02 11"], 7, ["ger"], ["drama", "romance"], [], ["Disney+"], ["Thomas Vinterberg"], ["Carey Mulligan", "Matthias Schoenaerts", "Tilly Vosburgh", "Tom Sturridge", "Juno Temple", "Jessica Barden"], "https://64.media.tumblr.com/72131a35d67743ce1a06cf5fb77c3a03/2e0f287709c1677c-69/s250x400/0f7f53186d2922616741c7be2ed0a47eb1d3b1e6.jpg"]
+["film", ["Far from the Madding Crowd", "Am grünen Rand der Welt"], "2015", ["2023 02 11"], 7, ["ger"], ["drama", "romance"], [], ["Disney+"], ["Thomas Vinterberg"], ["Carey Mulligan", "Matthias Schoenaerts", "Tilly Vosburgh", "Tom Sturridge", "Juno Temple", "Jessica Barden"], "https://64.media.tumblr.com/72131a35d67743ce1a06cf5fb77c3a03/2e0f287709c1677c-69/s250x400/0f7f53186d2922616741c7be2ed0a47eb1d3b1e6.jpg"],
+
+["audiobook", ["Lord of the Rings: The Two Towers", "Herr der Ringe: Die zwei Türme"], "1954", [["2023 02 11", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth", "watching"], ["J. R. R. Tolkien"], ["Achim Höppner"], "https://64.media.tumblr.com/31307e3563f717fbe1b764bef7e7e617/18d8e44138b72923-fc/s250x400/321d883ea056f22901788f23eb8a52b8548ed7b8.jpg"]
 
 /*
 ,
