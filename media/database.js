@@ -504,7 +504,7 @@ var database = [
 	        
 ["film", ["The Hunger Games: Mockingjay - Part 1", "Die Tribute von Panem - Mockingjay: Teil 1"], "2014", ["2016 10 13", "2022 12 27"], 7, ["ger"], ["action", "adventure"], ["bini"], ["Hunger Games", "Netflix"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Mahershala Ali", "Elden Henson", "Jeffrey Wright", "Donald Sutherland"], "https://68.media.tumblr.com/e43757394967e00f9c522eddb839f143/tumblr_of03elLgxw1v2s5upo1_250.jpg"],
 	        
-["film", ["The Hunger Games: Mockingjay - Part 2", "Die Tribute von Panem - Mockingjay: Teil 2"], "2015", ["2016 10 14"], 8, ["ger"], ["action", "adventure"], [], ["Hunger Games"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Joe Chrest", "Mahershala Ali", "Elden Henson", "Jeffrey Wright", "Donald Sutherland"], "https://68.media.tumblr.com/fbc3f18858c714b0e7b247f74b711b6d/tumblr_of1sxh8yGO1v2s5upo1_250.jpg"],
+["film", ["The Hunger Games: Mockingjay - Part 2", "Die Tribute von Panem - Mockingjay: Teil 2"], "2015", ["2016 10 14", "2023 02 11"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Hunger Games", "Netflix"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Joe Chrest", "Mahershala Ali", "Elden Henson", "Jeffrey Wright", "Donald Sutherland"], "https://68.media.tumblr.com/fbc3f18858c714b0e7b247f74b711b6d/tumblr_of1sxh8yGO1v2s5upo1_250.jpg"],
 	        
 ["audiobook", ["Lord of the Flies", "Herr der Fliegen"], "1954", [["2020 06 09", "2020 06 11"]], 4, ["eng"], [], [], [], ["William Golding"], [], "https://66.media.tumblr.com/29c9aac93e71d25a89ad3d626686c06b/4c0a0ed205b7aa97-0b/s250x400/7d746a247d63ef5f91f4c55bc201127710d39df1.jpg"],
 	        
@@ -1110,7 +1110,7 @@ var database = [
 	        
 ["film", ["The Fifth Element", "Das fünfte Element"], "1997", ["2015 10 20", "2021 06 04"], 6, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], [], ["Luc Besson"], ["Bruce Willis", "Gary Oldman", "Milla Jovovich"], "https://66.media.tumblr.com/c2b9366f5a0a8ce5ab56c6da9553790c/tumblr_pwf7roRFyr1v2s5upo1_250.jpg"],
 	        
-["film", ["Kuch Kuch Hota Hai", "Kuch Kuch Hota Hai - Und ganz plötzlich ist es Liebe"], "1998", ["2015 10 23"], 5, ["ger"], ["comedy", "drama", "bollywood"], ["bini"], [], ["Karan Johar"], ["Shah Rukh Khan", "Anupam Kher", "Rani Mukerji"], "https://66.media.tumblr.com/5c85abbf91995378d4363a9bdbdec0d8/tumblr_pwko1ihh061v2s5upo1_250.jpg"],
+["film", ["Kuch Kuch Hota Hai", "Kuch Kuch Hota Hai - Und ganz plötzlich ist es Liebe"], "1998", ["2015 10 23", "2023 02 11"], 5, ["ger", "hin"], ["comedy", "drama", "bollywood"], ["bini", "mai"], ["Netflix"], ["Karan Johar"], ["Shah Rukh Khan", "Anupam Kher", "Rani Mukerji"], "https://66.media.tumblr.com/5c85abbf91995378d4363a9bdbdec0d8/tumblr_pwko1ihh061v2s5upo1_250.jpg"],
 	        
 ["film", ["Happy New Year", "Happy New Year - Herzensdiebe"], "2014", ["2015 10 25"], 4, ["ger"], ["action", "comedy", "bollywood", "music"], ["bini"], [], ["Farah Khan"], ["Shah Rukh Khan"], "https://66.media.tumblr.com/c1f84054992fbd681072778a2f35c657/tumblr_pwko56FXy31v2s5upo1_250.jpg"],
 	        
