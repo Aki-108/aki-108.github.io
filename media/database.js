@@ -239,7 +239,7 @@ var database = [
 	        
 ["audiobook", ["The Fault in Our Stars", "Das Schicksal ist ein mieser Verräter"], "2012", [["2020 06 11", "2020 06 15"]], 6, ["eng"], [], [], [], ["John Green"], [], "https://66.media.tumblr.com/39ba75a7b01954fcc20d319030ea40fe/85cedb8a8a2ae325-81/s250x400/b8f4f644b5f2e5e9c164e94ada878c0db4d3787f.jpg"],
 	        
-["film", ["Inglourious Basterds"], "2009", ["2015 11 15", "2017 07 18", "2020 09 07"], 8, ["ger"], ["adventure", "drama", "war"], [], ["Netflix"], ["Quentin Tarantino"], ["Brad Pitt", "Christoph Waltz", "Michael Fassbender", "Diane Kruger", "Daniel Brühl", "Til Schweiger", "August Diehl", "Arndt Schwering-Sohnrey", "Sebastian Hülk", "Samm Levine", "Jana Pallaske", "Martin Wuttke"], "https://66.media.tumblr.com/ab8929345ac1ca2ddd4fbb4b4c5e17b3/tumblr_ppuwii750k1v2s5upo1_250.jpg"],
+["film", ["Inglourious Basterds"], "2009", ["2015 11 15", "2017 07 18", "2020 09 07"], 8, ["ger"], ["adventure", "drama", "war"], [], ["Netflix"], ["Quentin Tarantino"], ["Brad Pitt", "Christoph Waltz", "Michael Fassbender", "Diane Kruger", "Daniel Brühl", "Til Schweiger", "August Diehl", "Arndt Schwering-Sohnrey", "Sebastian Hülk", "Samm Levine", "Jana Pallaske", "Martin Wuttke", "Gedeon Burkhard"], "https://66.media.tumblr.com/ab8929345ac1ca2ddd4fbb4b4c5e17b3/tumblr_ppuwii750k1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Theory of Everything", "Die Entdeckung der Unendlichkeit"], "2014", ["2016 01 14", "2020 09 08"], 8, ["ger"], ["biography", "drama"], [], ["Netflix"], ["James Marsh"], ["Tom Prior", "Eddie Redmayne", "Felicity Jones", "Lucy Chappell"], "https://49.media.tumblr.com/14456fa07bb7d6cfa722c290f70507b7/tumblr_o103rxZoXN1v2s5upo1_250.jpg"],
 	        
@@ -674,7 +674,7 @@ var database = [
 	        
 ["film", ["The Family", "Malavita - The Family"], "2013", ["2020 01 29"], 9, ["ger"], ["comedy", "crime"], [], ["Netflix", "bby"], ["Luc Besson"], ["Robert De Niro", "Michelle Pfeiffer", "Dianna Agron", "Tommy Lee Jones", "Moussa Maaskri", "Mario Pecqueur"], "https://66.media.tumblr.com/0f27115fbd083328a3f6e526d5e1fc83/4c3103e169298be5-3e/s250x400/2e76361e8f5b723c2ca95e545e3de3bd0a1790af.jpg"],
 	        
-["film", ["Valerian and the City of a Thousand Planets", "Valerian - Die Stadt der tausend Planeten"], "2017", ["2020 01 11"], 5, ["ger"], ["action", "adventure"], ["syl", "bini"], [], ["Luc Besson"], ["Dane DeHaan", "Cara Delevingne", "Rihanna", "Elizabeth Debicki"], "https://66.media.tumblr.com/a9e37d9528bdba8e52ffc5c16e48f5db/8db875a518a406bf-42/s250x400/c5de1b90dccfef805a15029062c1608c94f99b06.jpg"],
+["film", ["Valerian and the City of a Thousand Planets", "Valerian - Die Stadt der tausend Planeten"], "2017", ["2020 01 11"], 5, ["ger"], ["action", "adventure"], ["syl", "bini"], [], ["Luc Besson"], ["Dane DeHaan", "Cara Delevingne", "Rihanna", "Elizabeth Debicki", "Sasha Luss"], "https://66.media.tumblr.com/a9e37d9528bdba8e52ffc5c16e48f5db/8db875a518a406bf-42/s250x400/c5de1b90dccfef805a15029062c1608c94f99b06.jpg"],
 	        
 ["film", ["Just One of the Guys"], "1985", ["2019 12 23"], 7, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Lisa Gottlieb"], ["Joyce Hyser", "Toni Hudson"], "https://66.media.tumblr.com/c49928dc9dad0bcfeaeccfbc2e36b1a6/3cd0efa077cc60c1-9c/s250x400/1dec9a586f3a5420aca1bcd4f0ac756a7f5bad4b.jpg"],
 	        
@@ -1784,7 +1784,7 @@ var database = [
 
 ["film", ["Year One", "Year One - Aller Anfang ist schwer"], "2009", ["2021 04 21"], 4, ["ger"], ["comedy"], ["bini", "syl", "je"], [], ["Harold Ramis"], ["Jack Black", "Michael Cera", "Oliver Platt", "David Cross", "Christopher Mintz-Plasse", "Vinnie Jones", "Juno Temple", "Olivia Wilde", "June Diane Raphael", "Xander Berkeley", "Matthew Willig", "Rhoda Griffis", "Marshall Manesh", "Paul Rudd"], "https://64.media.tumblr.com/acb888d0a637486983e8c77a91b86f8d/914d704920c46a2b-3f/s250x400/c27db0e1e0bdc9b389e4ffd8e18eb093b706193f.jpg"],
 
-["film", ["Rocca verändert die Welt"], "2019", ["2021 04 22"], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Katja Benrath"], ["Luna Maxeiner"], "https://64.media.tumblr.com/a46c32e0b16a7dab2510315a652b06c5/92533c010400559b-2c/s250x400/904afe21149e7e960c4fb1eea68f7837b3c2f12e.jpg"],
+["film", ["Rocca verändert die Welt"], "2019", ["2021 04 22"], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Katja Benrath"], ["Luna Maxeiner", "Nevio Wendt"], "https://64.media.tumblr.com/a46c32e0b16a7dab2510315a652b06c5/92533c010400559b-2c/s250x400/904afe21149e7e960c4fb1eea68f7837b3c2f12e.jpg"],
 
 ["film", ["Love and Monsters", "Monster Problems"], "2020", ["2021 04 24"], 5, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl"], ["Netflix"], ["Michael Matthews"], ["Dylan O'Brien", "Jessica Henwick"], "https://64.media.tumblr.com/1c691845a3a8d688cafdbfca3891c7dd/603967b5f0a6df28-ee/s250x400/a85b4d8d5840fe986a510bff0d969923257e4c89.jpg"],
 
@@ -2513,7 +2513,13 @@ var database = [
 
 ["film", ["Far from the Madding Crowd", "Am grünen Rand der Welt"], "2015", ["2023 02 11"], 7, ["ger"], ["drama", "romance"], [], ["Disney+"], ["Thomas Vinterberg"], ["Carey Mulligan", "Matthias Schoenaerts", "Tilly Vosburgh", "Tom Sturridge", "Juno Temple", "Jessica Barden"], "https://64.media.tumblr.com/72131a35d67743ce1a06cf5fb77c3a03/2e0f287709c1677c-69/s250x400/0f7f53186d2922616741c7be2ed0a47eb1d3b1e6.jpg"],
 
-["audiobook", ["Lord of the Rings: The Two Towers", "Herr der Ringe: Die zwei Türme"], "1954", [["2023 02 11", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth", "watching"], ["J. R. R. Tolkien"], ["Achim Höppner"], "https://64.media.tumblr.com/31307e3563f717fbe1b764bef7e7e617/18d8e44138b72923-fc/s250x400/321d883ea056f22901788f23eb8a52b8548ed7b8.jpg"]
+["audiobook", ["Lord of the Rings: The Two Towers", "Herr der Ringe: Die zwei Türme"], "1954", [["2023 02 11", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth", "watching"], ["J. R. R. Tolkien"], ["Gert Heidenreich"], "https://64.media.tumblr.com/31307e3563f717fbe1b764bef7e7e617/18d8e44138b72923-fc/s250x400/321d883ea056f22901788f23eb8a52b8548ed7b8.jpg"],
+
+["series", ["Lilo & Stitch: The Series", "Lilo & Stitch"], ["2003", "2006"], [["2023 02 12", "", "S1"]], 0, ["ger"], ["animation", "action"], ["bini", "nico"], ["Disney+", "watching"], ["Dean DeBlois", "Chris Sanders", "Doug TenNapel"], [], "https://64.media.tumblr.com/d6fbdf35427c2b8b0f173e1767f6f490/1f66ac63513e592b-d7/s250x400/2e80d4291ef2b5764b6f75d9ff412ce8440c03e6.jpg"],
+
+["film", ["Anna"], "2019", ["2023 02 12"], 6, ["ger"], ["action"], [], ["Netflix"], ["Luc Besson"], ["Sasha Luss", "Luke Evans", "Cillian Murphy"], "https://64.media.tumblr.com/efb03aa08974b6ffcedc57e45e925de5/08a27c0b18a0101c-c2/s250x400/4039f426b13f9db327b357ffd38643afb4303528.jpg"],
+
+["film", ["Die Drei ??? - Erbe des Drachen"], "2023", ["2023 02 12"], 6, ["ger"], ["adventure", "family"], ["bini", "syl", "je"], ["Kino", "Die Drei ???"], ["Tim Dünschede"], ["Gedeon Burkhard", "Florian Lukas", "Jördis Triebel", "Nevio Wendt"], "https://64.media.tumblr.com/5969b85eae3e6a9595db20cffd59992d/4dc2c025a2d9f5e9-c3/s250x400/e84750a16b1594ba2b46af757afcda2daec632ed.jpg"]
 
 /*
 ,
