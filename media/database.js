@@ -1564,7 +1564,7 @@ var database = [
 
 ["short", ["On Your Mark"], "1995", ["2017 01 15"], 6, ["jap"], ["anime", "music"], ["bini"], ["Ghibli"], ["Hayao Miyazaki"], [], "https://64.media.tumblr.com/284f6e9df40de551249740993dac0026/de6f2e4ba9ff6a98-c9/s250x400/c29878fc959b894e60eeff8cf71a7e413bc11eef.jpg"],
 
-["series", ["Oban Star-Racers"], "2006", [["2015 03 15", "2015 05 03", "S1"]], 7, ["ger"], ["anime", "action"], [], [], ["Savin Yeatman-Eiffel"], [], "https://64.media.tumblr.com/5a69f68482000c3d3bc49e1d9f913bfa/8778f65fc372df03-37/s250x400/66f4dc32f1ab67c74827bf8abb8310d191667d34.jpg"],
+["series", ["Oban Star-Racers"], "2006", [["2015 03 15", "2015 05 03", "S1"], ["2023 02 13", "", "S1"], 7, ["ger"], ["anime", "action"], ["bini", "nico"], ["watching"], ["Savin Yeatman-Eiffel"], [], "https://64.media.tumblr.com/5a69f68482000c3d3bc49e1d9f913bfa/8778f65fc372df03-37/s250x400/66f4dc32f1ab67c74827bf8abb8310d191667d34.jpg"],
 
 ["series", ["Kantai Collection: Kan Colle"], "2015", [["2015 03 01", "2015 03 27", "S1"]], 9, ["jap"], ["anime", "action", "war"], [], ["Kantai Collection"], ["Jukki Hanada", "Kristen McGuire"], [], "https://64.media.tumblr.com/9f432ee003542cc7d6f1aea7c42d8b79/ec48220645d3149f-09/s250x400/a0cc00bcc3c5eb8d310df89fd2463d9fb89e96df.jpg"],
 
@@ -2475,7 +2475,7 @@ var database = [
 
 ["series", ["Fate/stay night"], "2006", [["2023 01 11", "S1E1-S1E3"]], 0, ["jap"], ["anime", "action", "fantasy", "romance", "supernatural"], ["bini", "jessie", "nico"], ["dropped"], ["Jukki Hanada", "Kinoko Nasu", "Mari Okada"], [], "https://64.media.tumblr.com/89968cefac4d2fd6d36862a836d56c23/4a000909c1d2566b-77/s250x400/e6d2cd96dd30ab2d51bf87acd7b13fa155032676.jpg"],
 
-["series", ["Fate/stay night: Unlimited Blade Works"], ["2014", "2015"], [["2023 01 11", "", "S1"]], 0, ["ger"], ["anime", "action", "fantasy", "supernatural"], ["bini", "jessie", "nico"], ["watching"], ["Akira Hiyama", "Tatsuki Ichinose", "Michael McConnohie"], [], "https://64.media.tumblr.com/5866a2aafe5194abf6b1196395b99ffe/5700d55fc672f13c-f5/s250x400/a9111cac3eda8f0900ad1de2fc31b412f0c1830f.jpg"],
+["series", ["Fate/stay night: Unlimited Blade Works"], ["2014", "2015"], [["2023 01 11", "2023 02 15", "S1"]], 3, ["ger"], ["anime", "action", "fantasy", "supernatural"], ["bini", "jessie", "nico"], [], ["Akira Hiyama", "Tatsuki Ichinose", "Michael McConnohie"], [], "https://64.media.tumblr.com/5866a2aafe5194abf6b1196395b99ffe/5700d55fc672f13c-f5/s250x400/a9111cac3eda8f0900ad1de2fc31b412f0c1830f.jpg"],
 
 ["audiobook", ["Tod zur Mittagsstunde"], "2020", [["2023 01 13", "2023 01 14"]], 7, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/45ebf70f8ab49eab1fb3f7cfad67e9fd/408b18bdf1f11574-4c/s250x400/a5c1afe9bdef0b1e13f045e289000044dbc0f7c5.jpg"],
 
