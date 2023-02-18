@@ -1110,7 +1110,7 @@ var database = [
 	        
 ["film", ["The Fifth Element", "Das fünfte Element"], "1997", ["2015 10 20", "2021 06 04"], 6, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], [], ["Luc Besson"], ["Bruce Willis", "Gary Oldman", "Milla Jovovich"], "https://66.media.tumblr.com/c2b9366f5a0a8ce5ab56c6da9553790c/tumblr_pwf7roRFyr1v2s5upo1_250.jpg"],
 	        
-["film", ["Kuch Kuch Hota Hai", "Kuch Kuch Hota Hai - Und ganz plötzlich ist es Liebe"], "1998", ["2015 10 23", ["2023 02 11", ""]], 5, ["ger", "hin"], ["comedy", "drama", "bollywood"], ["bini", "mai"], ["Netflix", "watching"], ["Karan Johar"], ["Shah Rukh Khan", "Anupam Kher", "Rani Mukerji"], "https://66.media.tumblr.com/5c85abbf91995378d4363a9bdbdec0d8/tumblr_pwko1ihh061v2s5upo1_250.jpg"],
+["film", ["Kuch Kuch Hota Hai", "Kuch Kuch Hota Hai - Und ganz plötzlich ist es Liebe"], "1998", ["2015 10 23", ["2023 02 11", "2023 02 18"]], 6, ["ger", "hin"], ["comedy", "drama", "bollywood"], ["bini", "mai"], ["Netflix"], ["Karan Johar"], ["Shah Rukh Khan", "Anupam Kher", "Rani Mukerji"], "https://66.media.tumblr.com/5c85abbf91995378d4363a9bdbdec0d8/tumblr_pwko1ihh061v2s5upo1_250.jpg"],
 	        
 ["film", ["Happy New Year", "Happy New Year - Herzensdiebe"], "2014", ["2015 10 25"], 4, ["ger"], ["action", "comedy", "bollywood", "music"], ["bini"], [], ["Farah Khan"], ["Shah Rukh Khan"], "https://66.media.tumblr.com/c1f84054992fbd681072778a2f35c657/tumblr_pwko56FXy31v2s5upo1_250.jpg"],
 	        
@@ -1797,7 +1797,7 @@ var database = [
 ["series", ["Love on the Spectrum", "Liebe im Spektrum"], ["2019", "2021"], [["2021 05 02", "2021 05 04", "S1"], ["2021 09 23", "2021 10 10", "S2"]], 6, ["eng"], ["documentary", "reality-tv"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/72ce0c0cdf9d20f80dafd14ae88c3561/d7b2978419840e85-c5/s250x400/d471d986f0b33eb1d9fe3eb8d8a0478d0bc982e6.jpg"],
 /*S1: 7; S2: 5*/
 
-["film", ["Das schweigende Klassenzimmer"], "2018", [["2021 05 06", "2021 05 07"]], 6, ["ger"], ["drama", "history"], [], ["Netflix"], ["Lars Kraume"], ["Carina Wiese", "Florian Lukas", "Jördis Triebel", "Rolf Kanies", "Rainer Reiners"], "https://64.media.tumblr.com/b1847768b0301fe7fbf751303f2dd957/e3731d3087eeb68d-b2/s250x400/4b85311eca3e24cc235c6d4af24a73efa493d6d2.jpg"],
+["film", ["The Silent Revolution", "Das schweigende Klassenzimmer"], "2018", [["2021 05 06", "2021 05 07"]], 6, ["ger"], ["drama", "history"], [], ["Netflix"], ["Lars Kraume"], ["Carina Wiese", "Florian Lukas", "Jördis Triebel", "Rolf Kanies", "Rainer Reiners", "Lena Klenke"], "https://64.media.tumblr.com/b1847768b0301fe7fbf751303f2dd957/e3731d3087eeb68d-b2/s250x400/4b85311eca3e24cc235c6d4af24a73efa493d6d2.jpg"],
 
 ["audiobook", ["Bridge to Terabithia", "Die Brücke nach Terabithia"], "1977", [["2021 05 18", "2021 05 25"]], 4, ["ger"], ["drama"], [], [], ["Katherine Paterson"], [], "https://64.media.tumblr.com/e593fb695c3880950db5a8b54cfc76e5/5d759b2bfbae98af-db/s250x400/01e35b58ae28e910be4e3699ed8dd25769e7f9ae.jpg"],
 
@@ -2525,7 +2525,9 @@ var database = [
 
 ["film", ["Barbie & Chelsea the Lost Birthday"], "2021", ["2023 02 18"], 6, ["ger"], ["animation", "adventure"], ["bini"], ["Barbie"], ["Cassandra Mackay"], [], "https://64.media.tumblr.com/b21a6920948a97e493cfe6bb304c20ec/c6a80f9486773d4b-b6/s250x400/a10ff7c312232abc3c3de5542fbb5e670a2cd055.jpg"],
 
-["film", ["Barbie Mariposa and Her Butterfly Fairy Friends"], "2008", ["2023 02 18"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Conrad Helten"], [], "https://64.media.tumblr.com/971ef4d35f41dc6f075601cd772e74b7/1ba642a7315f0465-4f/s250x400/29c291eee5ca881c938b44379bde74f2be6eb97f.jpg"]
+["film", ["Barbie Mariposa and Her Butterfly Fairy Friends"], "2008", ["2023 02 18"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Conrad Helten"], [], "https://64.media.tumblr.com/971ef4d35f41dc6f075601cd772e74b7/1ba642a7315f0465-4f/s250x400/29c291eee5ca881c938b44379bde74f2be6eb97f.jpg"],
+
+["film", ["Fack ju Göhte"], "2013", ["2023 02 18"], 8, ["ger"], ["comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Karoline Herfurth", "Katja Riemann", "Jana Pallaske", "Alwara Höfels", "Jella Haase", "Gizem Emre", "Lena Klenke"], "https://64.media.tumblr.com/7795bba0b0b61bc22748402c46c7bf04/aa6ac7c6aa7708d3-8c/s250x400/a986960e043a8b399dc0fb5a6dd0019bd1a208be.jpg"]
 
 /*
 ,
