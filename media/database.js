@@ -628,7 +628,7 @@ var database = [
 	        
 ["film", ["Jurassic World: Fallen Kingdom", "Jurassic World: Das gefallene Königreich"], "2018", ["2018 06 07", "2020 11 26"], 8, ["ger"], ["action", "adventure"], ["bini", "je", "syl"], ["Kino", "Jurassic Park", "DVD"], ["J.A. Bayona"], ["Chris Pratt", "Bryce Dallas Howard", "Toby Jones", "Jeff Goldblum", "BD Wong", "Justice Smith", "Ted Levine", "Isabella Sermon"], "https://66.media.tumblr.com/2e331c74b66d28043538fe0e9ffb0e23/tumblr_pzktkmJCIo1v2s5upo1_250.jpg"],
 	        
-["film", ["Lilo & Stitch"], "2002", ["2018 06 14"], 8, ["ger"], ["animation", "adventure"], ["bini"], ["Netflix"], ["Dean DeBlois", "Chris Sanders"], [], "https://66.media.tumblr.com/686b5039acaf7c0c922cb82dedc322ef/tumblr_pzktqh53nE1v2s5upo1_250.jpg"],
+["film", ["Lilo & Stitch"], "2002", ["2018 06 14", "2023 02 19"], 8, ["ger"], ["animation", "adventure"], ["bini", "nico"], ["Netflix", "Disney+"], ["Dean DeBlois", "Chris Sanders"], [], "https://66.media.tumblr.com/686b5039acaf7c0c922cb82dedc322ef/tumblr_pzktqh53nE1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Fault in Our Stars", "Das Schicksal ist ein mieser Verräter"], "2014", ["2018 05 27"], 7, ["ger"], ["drama", "romance"], ["syl"], [], ["Josh Boone"], ["Shailene Woodley", "Ansel Elgort", "Nat Wolff", "Laura Dern", "Willem Dafoe"], "https://66.media.tumblr.com/9d2ff6a174443bf31ae6cea3328fcf01/tumblr_pzktgoXS3g1v2s5upo1_250.jpg"],
 	        
@@ -918,7 +918,7 @@ var database = [
 	        
 ["film", ["The Sound of Music", "Meine Lieder, meine Träume"], "1965", ["2016 06 15", ["2022 03 13", "2022 03 14"]], 8, ["ger", "eng"], ["biography", "drama", "music"], [], ["Disney+"], ["Robert Wise"], [], "https://66.media.tumblr.com/5262e2c4b18c22f1dc0f966195120fa4/tumblr_o8twjmVmli1v2s5upo1_250.jpg"],
 	        
-["film", ["Forrest Gump"], "1994", ["2016 06 13"], 6, ["ger"], ["drama", "romance"], [], [], ["Robert Zemeckis"], ["Tom Hanks", "Sam Anderson", "John F. Kennedy", "John Lennon", "Richard Nixon"], "https://66.media.tumblr.com/eeb123f80cdb0bf25e3d0cccea3bc930/tumblr_o8q1umC0Ey1v2s5upo1_250.jpg"],
+["film", ["Forrest Gump"], "1994", ["2016 06 13", "2023 02 19"], 6, ["ger", "eng"], ["drama", "romance"], [], ["Netflix"], ["Robert Zemeckis"], ["Tom Hanks", "Sam Anderson", "John F. Kennedy", "John Lennon", "Richard Nixon"], "https://66.media.tumblr.com/eeb123f80cdb0bf25e3d0cccea3bc930/tumblr_o8q1umC0Ey1v2s5upo1_250.jpg"],
 	        
 ["film", ["Bee Movie", "Bee Movie - Das Honigkomplott"], "2007", ["2016 06 12"], 4, ["ger"], ["animation", "adventure"], [], [], ["Simon J. Smith", "Steve Hickner"], [], "https://66.media.tumblr.com/3b38bf4c8872c24754cf7cb447f7bb75/tumblr_o8ptkg6gG41v2s5upo1_250.jpg"],
 	        
