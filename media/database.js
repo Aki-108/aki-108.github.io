@@ -2507,7 +2507,7 @@ var database = [
 
 ["series", ["Zootopia+"], "2022", [["2023 02 06", "2023 02 07", "S1"]], 4, ["ger"], ["animation", "short"], [], ["Disney+"], ["Trent Correy", "Michael Herrera"], [], "https://64.media.tumblr.com/1e55d1d598db47dc314b37f4ca51b7a4/860eee002bdd99ed-08/s250x400/c64302bee7f889453b00a3afb578e38a18396e02.jpg"],
 
-["series", ["Bizaardvark"], ["2016", "2019"], [["2023 02 08", "", "S1"]], 0, ["ger"], ["comedy", "family"], [], ["Disney+", "watching"], ["Josh Lehrman", "Kyle Stegina"], ["Olivia Rodrigo", "Madison Hu"], "https://64.media.tumblr.com/bd816340925118439769e6df6af8397e/723e45e7373120a3-e9/s250x400/0340c2fd74c338c70df32f85781a35acb27e4fd0.jpg"],
+["series", ["Bizaardvark"], ["2016", "2019"], [["2023 02 08", "2023 02 22", "S1"]], 4, ["ger"], ["comedy", "family"], [], ["Disney+", "ongoing"], ["Josh Lehrman", "Kyle Stegina"], ["Olivia Rodrigo", "Madison Hu"], "https://64.media.tumblr.com/bd816340925118439769e6df6af8397e/723e45e7373120a3-e9/s250x400/0340c2fd74c338c70df32f85781a35acb27e4fd0.jpg"],
 
 ["film", ["I'm Thinking of Ending Things"], "2020", ["2023 02 10"], 5, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Charlie Kaufman"], ["Jesse Plemons", "David Thewlis", "Hadley Robinson"], "https://64.media.tumblr.com/fd8bb502ba097f2d2da43b0fafbb7672/c224734a55112ad3-09/s250x400/6489c037486ae1cba686fb5ebebbe26a52021325.jpg"],
 
@@ -2527,7 +2527,9 @@ var database = [
 
 ["film", ["Barbie Mariposa and Her Butterfly Fairy Friends"], "2008", ["2023 02 18"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Conrad Helten"], [], "https://64.media.tumblr.com/971ef4d35f41dc6f075601cd772e74b7/1ba642a7315f0465-4f/s250x400/29c291eee5ca881c938b44379bde74f2be6eb97f.jpg"],
 
-["film", ["Fack ju Göhte"], "2013", ["2023 02 18"], 8, ["ger"], ["comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Karoline Herfurth", "Katja Riemann", "Jana Pallaske", "Alwara Höfels", "Jella Haase", "Gizem Emre", "Lena Klenke"], "https://64.media.tumblr.com/7795bba0b0b61bc22748402c46c7bf04/aa6ac7c6aa7708d3-8c/s250x400/a986960e043a8b399dc0fb5a6dd0019bd1a208be.jpg"]
+["film", ["Fack ju Göhte"], "2013", ["2023 02 18"], 8, ["ger"], ["comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Karoline Herfurth", "Katja Riemann", "Jana Pallaske", "Alwara Höfels", "Jella Haase", "Gizem Emre", "Lena Klenke"], "https://64.media.tumblr.com/7795bba0b0b61bc22748402c46c7bf04/aa6ac7c6aa7708d3-8c/s250x400/a986960e043a8b399dc0fb5a6dd0019bd1a208be.jpg"],
+
+["series", ["Bleach: Thousand Year Blood War", "Bleach: Thousand Year Blood War", "Bleach: Sennen Kessen-hen"], ["2023", ""], [["2023 02 22", "", "S1"]], 0, ["eng"], ["anime", "action"], ["bini", "nico"], ["Disney+", "watching", "ongoing"], ["Tite Kubo"], [], "https://64.media.tumblr.com/3197f63ea8fb194f83135447825f4c14/46149f0dc648c47e-7d/s250x400/e1910ca4cb8f2fb81631bacb1fdf22a37997a8fb.jpg"]
 
 /*
 ,
