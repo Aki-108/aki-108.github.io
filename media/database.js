@@ -532,7 +532,7 @@ var database = [
 	        
 ["film", ["Catch Me If You Can"], "2002", ["2020 07 21", "2021 10 09"], 8, ["ger"], ["biography", "crime"], [], ["Netflix"], ["Steven Spielberg"], ["Leonardo DiCaprio", "Tom Hanks", "Christopher Walken", "Amy Adams", "Jennifer Garner", "Ellen Pompeo", "Elizabeth Banks"], "https://64.media.tumblr.com/93357d4f48df3e0b2b0dfc95e82bcbcc/ff023cbce9ed2f16-8c/s250x400/7b7873def851e0fb4c04653412b4cdaab1303f9e.jpg"],
 	        
-["film", ["Stitch! The Movie", "Stitch & Co. – Der Film"], "2003", ["2020 09 14"], 7, ["ger"], ["animation", "adventure"], [], ["DVD"], ["Tony Craig", "Roberts Gannaway"], [], "https://64.media.tumblr.com/7c664cd9f211dba1d0888af946e6cb35/4b3de6d48ceb0f31-cc/s250x400/fe674abada469721c2c1d3a49e2645f55ab35a1b.jpg"],
+["film", ["Stitch! The Movie", "Stitch & Co. – Der Film"], "2003", ["2020 09 14", "2023 02 26"], 7, ["ger"], ["animation", "adventure"], ["bini", "nico"], ["DVD", "Disney+", "Lilo & Stitch"], ["Tony Craig", "Roberts Gannaway"], [], "https://64.media.tumblr.com/7c664cd9f211dba1d0888af946e6cb35/4b3de6d48ceb0f31-cc/s250x400/fe674abada469721c2c1d3a49e2645f55ab35a1b.jpg"],
 	        
 ["film", ["The Girl with Nine Wigs", "Heute bin ich blond"], "2013", ["2020 09 14"], 6, ["ger"], ["biography", "comedy"], [], ["DVD"], ["Marc Rothemund"], ["Daniel Zillmann", "Lisa Tomaschewsky", "Jasmin Gerat"], "https://64.media.tumblr.com/d2873bc102bc01289ae24f7d3dd8f008/060e3a6108445317-b9/s250x400/9e04e09f6a5fd1aea7d2854821f71f11533db4ce.jpg"],
 	        
@@ -628,7 +628,7 @@ var database = [
 	        
 ["film", ["Jurassic World: Fallen Kingdom", "Jurassic World: Das gefallene Königreich"], "2018", ["2018 06 07", "2020 11 26"], 8, ["ger"], ["action", "adventure"], ["bini", "je", "syl"], ["Kino", "Jurassic Park", "DVD"], ["J.A. Bayona"], ["Chris Pratt", "Bryce Dallas Howard", "Toby Jones", "Jeff Goldblum", "BD Wong", "Justice Smith", "Ted Levine", "Isabella Sermon"], "https://66.media.tumblr.com/2e331c74b66d28043538fe0e9ffb0e23/tumblr_pzktkmJCIo1v2s5upo1_250.jpg"],
 	        
-["film", ["Lilo & Stitch"], "2002", ["2018 06 14", "2023 02 19"], 8, ["ger"], ["animation", "adventure"], ["bini", "nico"], ["Netflix", "Disney+"], ["Dean DeBlois", "Chris Sanders"], [], "https://66.media.tumblr.com/686b5039acaf7c0c922cb82dedc322ef/tumblr_pzktqh53nE1v2s5upo1_250.jpg"],
+["film", ["Lilo & Stitch"], "2002", ["2018 06 14", "2023 02 19"], 8, ["ger"], ["animation", "adventure"], ["bini", "nico"], ["Netflix", "Disney+", "Lilo & Stitch"], ["Dean DeBlois", "Chris Sanders"], [], "https://66.media.tumblr.com/686b5039acaf7c0c922cb82dedc322ef/tumblr_pzktqh53nE1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Fault in Our Stars", "Das Schicksal ist ein mieser Verräter"], "2014", ["2018 05 27"], 7, ["ger"], ["drama", "romance"], ["syl"], [], ["Josh Boone"], ["Shailene Woodley", "Ansel Elgort", "Nat Wolff", "Laura Dern", "Willem Dafoe"], "https://66.media.tumblr.com/9d2ff6a174443bf31ae6cea3328fcf01/tumblr_pzktgoXS3g1v2s5upo1_250.jpg"],
 	        
@@ -1880,7 +1880,7 @@ var database = [
 
 ["film", ["Caught by a Wave", "Mit den Wellen", "Sulla Stessa Onda"], "2021", ["2021 09 07"], 2, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Massimiliano Camaiti"], ["Elvira Camarrone", "Roberto Christian"], "https://64.media.tumblr.com/252d60de41d472a9167edea312ceb03f/4940661148b56459-d2/s250x400/f699696ffeaaeaac3448612aeddfb716c1cda228.jpg"],
 
-["film", ["Clueless", "Clueless - Was sonst!"], "1995", ["2021 09 10"], 4, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Amy Heckerling"], ["Alicia Silverstone", "Stacey Dash", "Paul Rudd", "Donald Faison"], "https://64.media.tumblr.com/b374d4e6e5a8e3d84ac01181b87a39e8/fd0dea824f76c34c-d0/s250x400/84512fa639645cbd189ca4952e0c12879390438a.jpg"],
+["film", ["Clueless", "Clueless - Was sonst!"], "1995", ["2021 09 10"], 4, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Amy Heckerling"], ["Alicia Silverstone", "Stacey Dash", "Paul Rudd", "Donald Faison", "Brittany Murphy"], "https://64.media.tumblr.com/b374d4e6e5a8e3d84ac01181b87a39e8/fd0dea824f76c34c-d0/s250x400/84512fa639645cbd189ca4952e0c12879390438a.jpg"],
 
 ["film", ["Money Heist: From Tokyo to Berlin", "Haus des Geldes: Von Tokio bis Berlin", "La casa de papel: De Tokio a Berlín"], "2021", ["2021 09 11"], 6, ["ger"], ["documentary"], [], ["Netflix"], ["Luis Alfaro", "Javier Gómez Santander", "María Signes"], ["Úrsula Corberó", "Pedro Alonso", "Enrique Arce", "Rodrigo De la Serna", "Itziar Ituño", "Miguel Herrán", "Jaime Lorente", "Darko Peric", "Álvaro Morte"], "https://64.media.tumblr.com/1597849e9594cd8b6bee32a79be8d164/e272d87a1b48bf5f-25/s250x400/40d37bad041433cd61a42687801d2cdf5afdb93d.jpg"],
 
@@ -1942,7 +1942,7 @@ var database = [
 
 ["film", ["The Parent Trap", "Ein Zwilling kommt selten allein"], "1998", ["2021 10 22"], 4, ["ger"], ["adventure", "comedy"], [], ["Disney+"], ["Nancy Meyers"], ["Lindsay Lohan"], "https://64.media.tumblr.com/f01b241132a4d209bea62ac34fc6db7b/7cb9a6047fbc9973-d4/s250x400/067ce115ab1983ea2cd270ef9fa876da40a0c694.jpg"],
 
-["film", ["Lilo & Stitch 2: Stitch Has a Glitch", "Lilo & Stitch 2 - Stitch völlig abgedreht"], "2005", ["2021 10 22"], 4, ["ger"], ["animation", "comedy"], [], ["Disney+"], ["Michael LaBash", "Tony Leondis"], [], "https://64.media.tumblr.com/e3dcfa1acaee06257a763aada0af767e/349576d91dcf714d-7a/s250x400/e29335acf50d200e1cc02bb805ee1b25dc8d5d61.jpg"],
+["film", ["Lilo & Stitch 2: Stitch Has a Glitch", "Lilo & Stitch 2 - Stitch völlig abgedreht"], "2005", ["2021 10 22"], 4, ["ger"], ["animation", "comedy"], [], ["Disney+", "Lilo & Stitch"], ["Michael LaBash", "Tony Leondis"], [], "https://64.media.tumblr.com/e3dcfa1acaee06257a763aada0af767e/349576d91dcf714d-7a/s250x400/e29335acf50d200e1cc02bb805ee1b25dc8d5d61.jpg"],
 
 ["film", ["Phineas and Ferb the Movie: Across the 2nd Dimension", "Phineas und Ferb: Quer durch die 2. Dimension"], "2011", ["2021 10 23"], 5, ["ger"], ["animation", "action"], [], ["Disney+"], ["Robert Hughes", "Dan Povenmire", "Jay Lender"], [], "https://64.media.tumblr.com/10019d05ef376566b2131bd2f302c11b/267367c4391a3724-a9/s250x400/adee15f6b1020248459d6943fdd8715a2340ae25.jpg"],
 
@@ -2515,7 +2515,7 @@ var database = [
 
 ["audiobook", ["Lord of the Rings: The Two Towers", "Herr der Ringe: Die zwei Türme"], "1954", [["2023 02 11", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth", "watching"], ["J. R. R. Tolkien"], ["Gert Heidenreich"], "https://64.media.tumblr.com/31307e3563f717fbe1b764bef7e7e617/18d8e44138b72923-fc/s250x400/321d883ea056f22901788f23eb8a52b8548ed7b8.jpg"],
 
-["series", ["Lilo & Stitch: The Series", "Lilo & Stitch"], ["2003", "2006"], [["2023 02 12", "", "S1"]], 0, ["ger"], ["animation", "action"], ["bini", "nico"], ["Disney+", "watching"], ["Dean DeBlois", "Chris Sanders", "Doug TenNapel"], [], "https://64.media.tumblr.com/d6fbdf35427c2b8b0f173e1767f6f490/1f66ac63513e592b-d7/s250x400/2e80d4291ef2b5764b6f75d9ff412ce8440c03e6.jpg"],
+["series", ["Lilo & Stitch: The Series", "Lilo & Stitch"], ["2003", "2006"], [["2023 02 12", "", "S1"]], 0, ["ger"], ["animation", "action"], ["bini", "nico"], ["Disney+", "watching", "Lilo & Stitch"], ["Dean DeBlois", "Chris Sanders", "Doug TenNapel"], [], "https://64.media.tumblr.com/d6fbdf35427c2b8b0f173e1767f6f490/1f66ac63513e592b-d7/s250x400/2e80d4291ef2b5764b6f75d9ff412ce8440c03e6.jpg"],
 
 ["film", ["Anna"], "2019", ["2023 02 12"], 6, ["ger"], ["action"], [], ["Netflix"], ["Luc Besson"], ["Sasha Luss", "Luke Evans", "Cillian Murphy"], "https://64.media.tumblr.com/efb03aa08974b6ffcedc57e45e925de5/08a27c0b18a0101c-c2/s250x400/4039f426b13f9db327b357ffd38643afb4303528.jpg"],
 
@@ -2531,7 +2531,9 @@ var database = [
 
 ["series", ["Bleach: Thousand Year Blood War", "Bleach: Thousand Year Blood War", "Bleach: Sennen Kessen-hen"], ["2023", ""], [["2023 02 22", "", "S1"]], 0, ["eng"], ["anime", "action"], ["bini", "nico"], ["Disney+", "watching", "ongoing"], ["Tite Kubo"], [], "https://64.media.tumblr.com/3197f63ea8fb194f83135447825f4c14/46149f0dc648c47e-7d/s250x400/e1910ca4cb8f2fb81631bacb1fdf22a37997a8fb.jpg"],
 
-["series", ["Insatiable"], ["2018", "2019"], [["2023 02 23", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Netflix", "watching"], ["Lauren Gussis", "Jenina Kibuka"], ["Debby Ryan", "Michael Provost"], "https://64.media.tumblr.com/6983029dcbc834c7f4529d5d3a9aa243/1053b374f048c3a9-be/s250x400/72db042f3009202468a9f32a0d5bee76d6c78d4f.jpg"]
+["series", ["Insatiable"], ["2018", "2019"], [["2023 02 23", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Netflix", "watching"], ["Lauren Gussis", "Jenina Kibuka"], ["Debby Ryan", "Michael Provost"], "https://64.media.tumblr.com/6983029dcbc834c7f4529d5d3a9aa243/1053b374f048c3a9-be/s250x400/72db042f3009202468a9f32a0d5bee76d6c78d4f.jpg"],
+
+["film", ["8 Mile"], "2002", [["2023 02 25", "2023 02 26"]], 6, ["ger"], ["drama", "music"], [], ["Netflix"], ["Curtis Hanson"], ["Eminem", "Brittany Murphy", "Anthony Mackie"], "https://64.media.tumblr.com/0120cf074f65d7d4d2df9789cd0b8191/9c2a7c40e5ab33ab-7d/s250x400/f4fe56ae854cb4ae1793016919f62da7c9f7f8cf.jpg"]
 
 /*
 ,
