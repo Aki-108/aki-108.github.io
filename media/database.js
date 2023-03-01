@@ -2535,7 +2535,9 @@ var database = [
 
 ["film", ["8 Mile"], "2002", [["2023 02 25", "2023 02 26"]], 6, ["ger"], ["drama", "music"], [], ["Netflix"], ["Curtis Hanson"], ["Eminem", "Brittany Murphy", "Anthony Mackie"], "https://64.media.tumblr.com/0120cf074f65d7d4d2df9789cd0b8191/9c2a7c40e5ab33ab-7d/s250x400/f4fe56ae854cb4ae1793016919f62da7c9f7f8cf.jpg"],
 
-["film", ["Rainbow"], "2022", ["2023 02 26"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Paco León"], [], "https://64.media.tumblr.com/d61c5d3bdeb321978c1fe8b4b7511003/8ad7c51e301e4d19-ec/s250x400/1886095dda37c79100713c199a464ec004a844e7.jpg"]
+["film", ["Rainbow"], "2022", ["2023 02 26"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Paco León"], [], "https://64.media.tumblr.com/d61c5d3bdeb321978c1fe8b4b7511003/8ad7c51e301e4d19-ec/s250x400/1886095dda37c79100713c199a464ec004a844e7.jpg"],
+
+["film", ["Spiderhead", "Der Spinnenkopf"], "2022", ["2023 02 28"], 6, ["ger"], ["sci-fi"], [], ["Netflix"], ["Joseph Kosinski"], ["Chris Hemsworth", "Miles Teller"], "https://64.media.tumblr.com/2cdc01a722f7dc021ea8cd8771e3e265/fcb39a7f5517ced8-9e/s250x400/270f5ed916819d63be8677d2f89dcf3e2dd4d61c.jpg"]
 
 /*
 ,
