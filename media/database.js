@@ -99,7 +99,7 @@ var database = [
 	        
 ["film", ["Tales from Earthsea", "Die Chroniken von Erdsee", "Gedo senki"], "2006", ["2015 07 19", "2021 11 27"], 5, ["ger"], ["adventure", "fantasy", "magic", "anime"], ["bini", "mai"], ["Ghibli", "Netflix"], ["Gorô Miyazaki"], [], "https://40.media.tumblr.com/561178e59629591bc8c5b8a5f2da5d16/tumblr_nzq32e8sT21v2s5upo1_250.jpg"],
 	        
-["film", ["The Secret Life of Walter Mitty", "Das erstaunliche Leben des Walter Mitty"], "2013", ["2015 07 20", "2015 12 05", "2020 05 08"], 10, ["ger"], ["adventure", "comedy", "drama"], [], ["Kino"], ["Ben Stiller"], ["Ben Stiller", "Kristen Wiig", "Ólafur Darri Ólafsson", "Adrian Martinez", "Kathryn Hahn"], "https://37.media.tumblr.com/010b794dc1548291f5c4dc21156153bb/tumblr_nzq3dqgJO81v2s5upo1_250.jpg"],
+["film", ["The Secret Life of Walter Mitty", "Das erstaunliche Leben des Walter Mitty"], "2013", ["2015 07 20", "2015 12 05", "2020 05 08"], 10, ["ger"], ["adventure", "comedy", "drama"], [], ["Kino"], ["Ben Stiller"], ["Ben Stiller", "Kristen Wiig", "Ólafur Darri Ólafsson", "Adrian Martinez", "Kathryn Hahn", "Patton Oswalt"], "https://37.media.tumblr.com/010b794dc1548291f5c4dc21156153bb/tumblr_nzq3dqgJO81v2s5upo1_250.jpg"],
 	        
 ["film", ["Hot Fuzz", "Hot Fuzz - Zwei abgewichste Profis"], "2007", ["2015 07 23", "2017 12 17"], 7, ["ger"], ["comedy", "action"], ["lukas"], ["Blood and Ice Cream"], ["Edgar Wright"], ["Simon Pegg", "Martin Freeman", "Bill Nighy", "Nick Frost"], "https://40.media.tumblr.com/beb889f85fafd83eeb8c1da42843e1e1/tumblr_nzq3e7k1lV1v2s5upo1_250.jpg"],
 	        
@@ -1668,7 +1668,7 @@ var database = [
 
 ["series", ["Dash & Lily"], "2020", [["2020 11 27", "2020 11 30", "S1"]], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Rachel Cohn", "David Levithan", "Lauren Moon"], ["Austin Abrams", "Midori Francis", "Dante Brown", "Troy Iwata", "Keana Marie", "Patrick Vaill", "Michael Park", "Alexander Blaise", "Kevin Jonas", "Nick Jonas", "Joe Jonas"], "https://64.media.tumblr.com/009e36fbb4c3a950d53376fa4810855c/bdf61e2f07ebd615-8d/s250x400/bca2ea4bb589a8eb190267b3e4cfe399acb3e40b.jpg"],
 
-["series", ["Never Have I Ever", "Noch nie in meinem Leben ..."], ["2020", "2023"], [["2020 12 01", "2020 12 07", "S1"], ["2021 09 10", "2021 09 20", "S2"], ["2023 01 17", "2023 01 21", "S3"]], 7, ["ger"], ["comedy"], [], ["Netflix", "ongoing"], ["Lang Fisher", "Mindy Kaling"], ["Maitreyi Ramakrishnan", "Darren Barnet", "Adam Shapiro", "Iqbal Theba"], "https://64.media.tumblr.com/0ab55504d8cb69c49a4e329cff0bea82/ea32689669f5c17a-58/s250x400/509388dce734b2135fa474ff2839329cd1285968.jpg"],
+["series", ["Never Have I Ever", "Noch nie in meinem Leben ..."], ["2020", "2023"], [["2020 12 01", "2020 12 07", "S1"], ["2021 09 10", "2021 09 20", "S2"], ["2023 01 17", "2023 01 21", "S3"]], 7, ["ger"], ["comedy"], [], ["Netflix", "ongoing"], ["Lang Fisher", "Mindy Kaling"], ["Maitreyi Ramakrishnan", "Darren Barnet", "Adam Shapiro", "Iqbal Theba", "Poorna Jagannathan"], "https://64.media.tumblr.com/0ab55504d8cb69c49a4e329cff0bea82/ea32689669f5c17a-58/s250x400/509388dce734b2135fa474ff2839329cd1285968.jpg"],
 
 ["film", ["Jurassic Park"], "1993", ["2020 12 03"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl", "je"], ["Jurassic Park", "DVD"], ["Steven Spielberg"], ["Sam Neill", "Laura Dern", "Jeff Goldblum", "Richard Attenborough", "BD Wong", "Samuel L. Jackson"], "https://64.media.tumblr.com/677119acfe9761f64d9adf79ad569595/297f5ab82df6a1a2-07/s250x400/9f34de7bcafefe97dd99a3d0c2f4df93468175d2.jpg"],
 
@@ -2537,7 +2537,9 @@ var database = [
 
 ["film", ["Rainbow"], "2022", ["2023 02 26"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Paco León"], [], "https://64.media.tumblr.com/d61c5d3bdeb321978c1fe8b4b7511003/8ad7c51e301e4d19-ec/s250x400/1886095dda37c79100713c199a464ec004a844e7.jpg"],
 
-["film", ["Spiderhead", "Der Spinnenkopf"], "2022", ["2023 02 28"], 6, ["ger"], ["sci-fi"], [], ["Netflix"], ["Joseph Kosinski"], ["Chris Hemsworth", "Miles Teller"], "https://64.media.tumblr.com/2cdc01a722f7dc021ea8cd8771e3e265/fcb39a7f5517ced8-9e/s250x400/270f5ed916819d63be8677d2f89dcf3e2dd4d61c.jpg"]
+["film", ["Spiderhead", "Der Spinnenkopf"], "2022", ["2023 02 28"], 6, ["ger"], ["sci-fi"], [], ["Netflix"], ["Joseph Kosinski"], ["Chris Hemsworth", "Miles Teller"], "https://64.media.tumblr.com/2cdc01a722f7dc021ea8cd8771e3e265/fcb39a7f5517ced8-9e/s250x400/270f5ed916819d63be8677d2f89dcf3e2dd4d61c.jpg"],
+
+["film", ["The Circle"], "2017", ["2023 03 04"], 6, ["ger"], ["drama", "sci-fi"], [], ["Netflix"], ["James Ponsoldt"], ["Emma Watson", "Karen Gillan", "Tom Hanks", "Patton Oswalt", "Poorna Jagannathan", "Judy Reyes"], "https://64.media.tumblr.com/35b31298a69367010c00c5b8bf9ce8ea/6215319b73a48620-4f/s250x400/2f52fe2ca0efb3c9141cef2b00a340a579551ef0.jpg"]
 
 /*
 ,
