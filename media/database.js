@@ -2501,7 +2501,7 @@ var database = [
 
 ["film", ["Knives Out", "Knives Out: Mord ist Familiensache"], "2019", ["2023 01 27"], 9, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Chris Evans", "Ana de Armas", "Katherine Langford", "Jaeden Martell", "Riki Lindhome"], "https://64.media.tumblr.com/d2f6d59bdfcc045186007292e7e86315/3e2acbf1c4b693d4-87/s250x400/6d83b8ecf1729f74d4bffc6abec2996716928990.jpg"],
 
-["book", ["Die Wilden Hühner und das Glück der Erde"], "2005", [["2023 01 26", ""]], 0, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/432565b590929b69689205cd479b9c5c/a04add625a1dc6bd-91/s250x400/8e7bcd7bdb1225e169d3bb9c34ec2ccfd015ede0.jpg"],
+["book", ["Die Wilden Hühner und das Glück der Erde"], "2005", [["2023 01 26", "2023 03 04"]], 7, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/432565b590929b69689205cd479b9c5c/a04add625a1dc6bd-91/s250x400/8e7bcd7bdb1225e169d3bb9c34ec2ccfd015ede0.jpg"],
 
 ["film", ["Coraline"], "2009", ["2023 02 04"], 8, ["eng"], ["animation", "drama", "horror"], ["bini", "mai"], ["Netflix"], ["Henry Selick"], [], "https://64.media.tumblr.com/a659e7c43d2a021feeb7d2710f882183/2bcaf717d05a0b16-58/s250x400/3f3e6d39bc6a24f15ed6ce8c7aaaf9405c647b6a.jpg"],
 
@@ -2531,7 +2531,7 @@ var database = [
 
 ["series", ["Bleach: Thousand Year Blood War", "Bleach: Thousand Year Blood War", "Bleach: Sennen Kessen-hen"], ["2023", ""], [["2023 02 22", "", "S1"]], 0, ["eng"], ["anime", "action"], ["bini", "nico"], ["Disney+", "watching", "ongoing"], ["Tite Kubo"], [], "https://64.media.tumblr.com/3197f63ea8fb194f83135447825f4c14/46149f0dc648c47e-7d/s250x400/e1910ca4cb8f2fb81631bacb1fdf22a37997a8fb.jpg"],
 
-["series", ["Insatiable"], ["2018", "2019"], [["2023 02 23", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Netflix", "watching"], ["Lauren Gussis", "Jenina Kibuka"], ["Debby Ryan", "Michael Provost"], "https://64.media.tumblr.com/6983029dcbc834c7f4529d5d3a9aa243/1053b374f048c3a9-be/s250x400/72db042f3009202468a9f32a0d5bee76d6c78d4f.jpg"],
+["series", ["Insatiable"], ["2018", "2019"], [["2023 02 23", "2023 03 04", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Lauren Gussis", "Jenina Kibuka"], ["Debby Ryan", "Michael Provost"], "https://64.media.tumblr.com/6983029dcbc834c7f4529d5d3a9aa243/1053b374f048c3a9-be/s250x400/72db042f3009202468a9f32a0d5bee76d6c78d4f.jpg"],
 
 ["film", ["8 Mile"], "2002", [["2023 02 25", "2023 02 26"]], 6, ["ger"], ["drama", "music"], [], ["Netflix"], ["Curtis Hanson"], ["Eminem", "Brittany Murphy", "Anthony Mackie"], "https://64.media.tumblr.com/0120cf074f65d7d4d2df9789cd0b8191/9c2a7c40e5ab33ab-7d/s250x400/f4fe56ae854cb4ae1793016919f62da7c9f7f8cf.jpg"],
 
