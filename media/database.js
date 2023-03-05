@@ -2541,7 +2541,11 @@ var database = [
 
 ["film", ["The Circle"], "2017", ["2023 03 04"], 6, ["ger"], ["drama", "sci-fi"], [], ["Netflix"], ["James Ponsoldt"], ["Emma Watson", "Karen Gillan", "Tom Hanks", "Patton Oswalt", "Poorna Jagannathan", "Judy Reyes"], "https://64.media.tumblr.com/35b31298a69367010c00c5b8bf9ce8ea/6215319b73a48620-4f/s250x400/2f52fe2ca0efb3c9141cef2b00a340a579551ef0.jpg"],
 
-["film", ["Gunpowder Milkshake"], "2021", ["2023 03 04"], 8, ["eng"], ["action", "crime"], ["bini", "mai"], ["Netflix"], ["Navot Papushado"], ["Karen Gillan", "Freya Allan", "Paul Giamatti", "Carla Gugino"], "https://64.media.tumblr.com/7b5c9fef73a0fcc91a12373ad1e2926e/f4a027b8d5a8b7c9-9e/s250x400/df35dade3800254e90ccaf6de0e7f3f493b8aa6c.jpg"]
+["film", ["Gunpowder Milkshake"], "2021", ["2023 03 04"], 8, ["eng"], ["action", "crime"], ["bini", "mai"], ["Netflix"], ["Navot Papushado"], ["Karen Gillan", "Freya Allan", "Paul Giamatti", "Carla Gugino"], "https://64.media.tumblr.com/7b5c9fef73a0fcc91a12373ad1e2926e/f4a027b8d5a8b7c9-9e/s250x400/df35dade3800254e90ccaf6de0e7f3f493b8aa6c.jpg"],
+
+["film", ["The Spectacular Now", "The Spectacular Now: Perfekt ist jetzt"], "2013", ["2023 03 05"], 5, ["eng"], ["drama", "romance"], [], ["Netflix"], ["James Ponsoldt"], ["Miles Teller", "Shailene Woodley", "Brie Larson", "Dayo Okeniyi", "Kyle Chandler", "Jennifer Jason Leigh", "Bob Odenkirk"], "https://64.media.tumblr.com/74e8e199645b773fb2473d3d1caef8a3/eae594adfaf8992e-74/s250x400/0b7b3a95616356e9ffd9d1424bd66e5c02120147.jpg"],
+
+["book", ["An Absolutely Remarkable Thing"], "2018", [["2023 03 05", ""]], 0, ["eng"], ["sci-fi"], [], ["watching"], ["Hank Green"], [], "https://64.media.tumblr.com/54018f445b51c46b35ab847abc3dfbd1/5454d70268fdf8dd-a6/s250x400/af5bc3daac177e93b8e4dc34c53982b52b18e4ee.jpg"]
 
 /*
 ,
