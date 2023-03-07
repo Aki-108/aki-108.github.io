@@ -2513,7 +2513,7 @@ var database = [
 
 ["film", ["Far from the Madding Crowd", "Am grünen Rand der Welt"], "2015", ["2023 02 11"], 7, ["ger"], ["drama", "romance"], [], ["Disney+"], ["Thomas Vinterberg"], ["Carey Mulligan", "Matthias Schoenaerts", "Tilly Vosburgh", "Tom Sturridge", "Juno Temple", "Jessica Barden"], "https://64.media.tumblr.com/72131a35d67743ce1a06cf5fb77c3a03/2e0f287709c1677c-69/s250x400/0f7f53186d2922616741c7be2ed0a47eb1d3b1e6.jpg"],
 
-["audiobook", ["Lord of the Rings: The Two Towers", "Herr der Ringe: Die zwei Türme"], "1954", [["2023 02 11", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth", "watching"], ["J. R. R. Tolkien"], ["Gert Heidenreich"], "https://64.media.tumblr.com/31307e3563f717fbe1b764bef7e7e617/18d8e44138b72923-fc/s250x400/321d883ea056f22901788f23eb8a52b8548ed7b8.jpg"],
+["audiobook", ["Lord of the Rings: The Two Towers", "Herr der Ringe: Die zwei Türme"], "1954", [["2023 02 11", "2023 03 07"]], 8, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth"], ["J. R. R. Tolkien"], ["Gert Heidenreich"], "https://64.media.tumblr.com/31307e3563f717fbe1b764bef7e7e617/18d8e44138b72923-fc/s250x400/321d883ea056f22901788f23eb8a52b8548ed7b8.jpg"],
 
 ["series", ["Lilo & Stitch: The Series", "Lilo & Stitch"], ["2003", "2006"], [["2023 02 12", "", "S1"]], 0, ["ger"], ["animation", "action"], ["bini", "nico"], ["Disney+", "watching", "Lilo & Stitch"], ["Dean DeBlois", "Chris Sanders", "Doug TenNapel"], [], "https://64.media.tumblr.com/d6fbdf35427c2b8b0f173e1767f6f490/1f66ac63513e592b-d7/s250x400/2e80d4291ef2b5764b6f75d9ff412ce8440c03e6.jpg"],
 
@@ -2545,7 +2545,9 @@ var database = [
 
 ["film", ["The Spectacular Now", "The Spectacular Now: Perfekt ist jetzt"], "2013", ["2023 03 05"], 5, ["eng"], ["drama", "romance"], [], ["Netflix"], ["James Ponsoldt"], ["Miles Teller", "Shailene Woodley", "Brie Larson", "Dayo Okeniyi", "Kyle Chandler", "Jennifer Jason Leigh", "Bob Odenkirk"], "https://64.media.tumblr.com/74e8e199645b773fb2473d3d1caef8a3/eae594adfaf8992e-74/s250x400/0b7b3a95616356e9ffd9d1424bd66e5c02120147.jpg"],
 
-["book", ["An Absolutely Remarkable Thing"], "2018", [["2023 03 05", ""]], 0, ["eng"], ["sci-fi"], [], ["watching"], ["Hank Green"], [], "https://64.media.tumblr.com/54018f445b51c46b35ab847abc3dfbd1/5454d70268fdf8dd-a6/s250x400/af5bc3daac177e93b8e4dc34c53982b52b18e4ee.jpg"]
+["book", ["An Absolutely Remarkable Thing"], "2018", [["2023 03 05", ""]], 0, ["eng"], ["sci-fi"], [], ["watching"], ["Hank Green"], [], "https://64.media.tumblr.com/54018f445b51c46b35ab847abc3dfbd1/5454d70268fdf8dd-a6/s250x400/af5bc3daac177e93b8e4dc34c53982b52b18e4ee.jpg"],
+
+["audiobook", ["Gruß aus dem Jenseits"], "2020", [["2023 03 07", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/3cd5178fe0030b28709c2bc3fb7958b8/dfb91fef40702a7d-8c/s250x400/8f6d5570af4ffb96992278e8138fce26bec755d1.jpg"],
 
 /*
 ,
