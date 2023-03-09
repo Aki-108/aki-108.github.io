@@ -2547,7 +2547,7 @@ var database = [
 
 ["book", ["An Absolutely Remarkable Thing"], "2018", [["2023 03 05", ""]], 0, ["eng"], ["sci-fi"], [], ["watching"], ["Hank Green"], [], "https://64.media.tumblr.com/54018f445b51c46b35ab847abc3dfbd1/5454d70268fdf8dd-a6/s250x400/af5bc3daac177e93b8e4dc34c53982b52b18e4ee.jpg"],
 
-["audiobook", ["Gruß aus dem Jenseits"], "2020", [["2023 03 07", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/3cd5178fe0030b28709c2bc3fb7958b8/dfb91fef40702a7d-8c/s250x400/8f6d5570af4ffb96992278e8138fce26bec755d1.jpg"],
+["audiobook", ["Gruß aus dem Jenseits"], "2020", [["2023 03 07", "2023 03 09"]], 7, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/3cd5178fe0030b28709c2bc3fb7958b8/dfb91fef40702a7d-8c/s250x400/8f6d5570af4ffb96992278e8138fce26bec755d1.jpg"],
 
 /*
 ,
