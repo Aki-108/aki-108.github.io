@@ -1564,7 +1564,7 @@ var database = [
 
 ["short", ["On Your Mark"], "1995", ["2017 01 15"], 6, ["jap"], ["anime", "music"], ["bini"], ["Ghibli"], ["Hayao Miyazaki"], [], "https://64.media.tumblr.com/284f6e9df40de551249740993dac0026/de6f2e4ba9ff6a98-c9/s250x400/c29878fc959b894e60eeff8cf71a7e413bc11eef.jpg"],
 
-["series", ["Oban Star-Racers"], "2006", [["2015 03 15", "2015 05 03", "S1"], ["2023 02 13", "", "S1"]], 7, ["ger"], ["anime", "action"], ["bini", "nico"], ["watching"], ["Savin Yeatman-Eiffel"], [], "https://64.media.tumblr.com/5a69f68482000c3d3bc49e1d9f913bfa/8778f65fc372df03-37/s250x400/66f4dc32f1ab67c74827bf8abb8310d191667d34.jpg"],
+["series", ["Oban Star-Racers"], "2006", [["2015 03 15", "2015 05 03", "S1"], ["2023 02 13", "2023 03 12", "S1"]], 7, ["ger"], ["anime", "action"], ["bini", "nico"], [], ["Savin Yeatman-Eiffel"], [], "https://64.media.tumblr.com/5a69f68482000c3d3bc49e1d9f913bfa/8778f65fc372df03-37/s250x400/66f4dc32f1ab67c74827bf8abb8310d191667d34.jpg"],
 
 ["series", ["Kantai Collection: Kan Colle"], "2015", [["2015 03 01", "2015 03 27", "S1"]], 9, ["jap"], ["anime", "action", "war"], [], ["Kantai Collection"], ["Jukki Hanada", "Kristen McGuire"], [], "https://64.media.tumblr.com/9f432ee003542cc7d6f1aea7c42d8b79/ec48220645d3149f-09/s250x400/a0cc00bcc3c5eb8d310df89fd2463d9fb89e96df.jpg"],
 
