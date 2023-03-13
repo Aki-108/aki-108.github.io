@@ -472,7 +472,7 @@ var database = [
 	        
 ["film", ["Pirates of the Caribbean: On Stranger Tides", "Pirates of the Caribbean - Fremde Gezeiten"], "2011", ["2016 03 23", ["2021 10 06", "2021 10 07"]], 8, ["ger"], ["action", "adventure"], [], ["Fluch der Karibik", "Disney+"], ["Rob Marshall"], ["Johnny Depp", "Geoffrey Rush", "Judi Dench", "Richard Griffiths", "Gemma Ward", "Astrid Bergès-Frisbey", "Kevin McNally", "Sam Claflin", "Emilia Jones", "Penélope Cruz"], "https://49.media.tumblr.com/2220dcaf321ba3de02635574eaf4925c/tumblr_o4jewhpfkM1v2s5upo1_250.jpg"],
 	        
-["film", ["Dark Shadows"], "2012", ["2016 10 19", "2017 10 31"], 7, ["ger"], ["comedy", "fantasy"], ["bini", "nico", "sai"], ["Netflix"], ["Tim Burton"], ["Johnny Depp", "Michelle Pfeiffer", "Helena Bonham Carter", "Eva Green", "Chloë Grace Moretz", "Hannah Murray", "Christopher Lee", "Jackie Earle Haley"], "https://66.media.tumblr.com/72d7e1d695f1143db14cbb78f9caf1c0/tumblr_ofc9wvl12p1v2s5upo1_250.jpg"],
+["film", ["Dark Shadows"], "2012", ["2016 10 19", "2017 10 31"], 7, ["ger"], ["comedy", "fantasy"], ["bini", "nico", "sai"], ["Netflix"], ["Tim Burton"], ["Johnny Depp", "Michelle Pfeiffer", "Helena Bonham Carter", "Eva Green", "Chloë Grace Moretz", "Hannah Murray", "Christopher Lee", "Jackie Earle Haley", "Bella Heathcote"], "https://66.media.tumblr.com/72d7e1d695f1143db14cbb78f9caf1c0/tumblr_ofc9wvl12p1v2s5upo1_250.jpg"],
 	        
 ["film", ["Transcendence"], "2014", ["2017 01 27", "2020 06 13"], 7, ["ger"], ["action", "drama", "sci-fi"], [], ["Netflix"], ["Wally Pfister"], ["Johnny Depp", "Morgan Freeman", "Clifton Collins Jr.", "Xander Berkeley", "Rebecca Hall", "Kate Mara"], "https://68.media.tumblr.com/e20c6018d6932df10e90da04ffe4e8cd/tumblr_okjl5qW5Ou1v2s5upo1_250.jpg"],
 	        
@@ -608,7 +608,7 @@ var database = [
 	        
 ["film", ["Sixteen Candles", "Das darf man nur als Erwachsener"], "1984", ["2020 07 29"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["John Hughes"], ["Molly Ringwald", "Justin Henry", "Michael Schoeffling", "John Cusack", "Joan Cusack"], "https://64.media.tumblr.com/16308ea24a67114d79485312c4fdb99b/54d87be6a8f5b0e9-c0/s250x400/9b52c13205076e3c4fdf64c8d514164cc5a2e5ea.jpg"],
 	        
-["film", ["The Imitation Game", "The Imitation Game - Ein streng geheimes Leben"], "2014", ["2020 07 02"], 6, ["ger"], ["biography", "drama", "war"], [], ["Netflix", "LGBT"], ["Morten Tyldum"], ["Benedict Cumberbatch", "Keira Knightley", "Alex Lawther", "Matthew Goode"], "https://66.media.tumblr.com/46be14000a201a456d04df27f8f2ef3b/48c0da0f92e7a2b7-98/s250x400/0ecb35fbfdbbc1429ab5b3188d2c38e6ca8ae108.jpg"],
+["film", ["The Imitation Game", "The Imitation Game - Ein streng geheimes Leben"], "2014", ["2020 07 02"], 6, ["ger"], ["biography", "drama", "war"], [], ["Netflix", "LGBT"], ["Morten Tyldum"], ["Benedict Cumberbatch", "Keira Knightley", "Alex Lawther", "Matthew Goode", "Charles Dance"], "https://66.media.tumblr.com/46be14000a201a456d04df27f8f2ef3b/48c0da0f92e7a2b7-98/s250x400/0ecb35fbfdbbc1429ab5b3188d2c38e6ca8ae108.jpg"],
 	        
 ["film", ["Tall Girl", "Wie Jodi über sich hinauswuchs"], "2019", ["2019 09 14", "2020 08 16"], 7, ["ger"], ["comedy", "drama"], ["syl", "bini"], ["Netflix"], ["Nzingha Stewart"], ["Ava Michelle", "Sabrina Carpenter", "Paris Berelc", "Steve Zahn", "Griffin Gluck", "Rico Paris"], "https://66.media.tumblr.com/d3fbcb8643059f746e3689ffe685cfa6/2ad3b0f691c1dcbf-8a/s250x400/9ed24ca38ebc71186b19f0c1554e23dfa1fc307a.jpg"],
 	        
@@ -812,7 +812,7 @@ var database = [
 	        
 ["film", ["Zapped", "Ferngesteuert"], "2014", ["2017 01 22"], 5, ["ger"], ["comedy", "family"], [], [], ["Peter DeLuise"], ["Zendaya", "Emilia McCarthy"], "https://68.media.tumblr.com/c4cafb6e37adc2da5849ec9681cab0ac/tumblr_ok8d66VULO1v2s5upo1_250.jpg"],
 	        
-["film", ["Me Before You", "Ein ganzes halbes Jahr"], "2016", ["2017 01 21", "2019 01 03"], 8, ["ger"], ["drama", "romance"], ["syl"], [], ["Thea Sharrock"], ["Sam Claflin", "Vanessa Kirby", "Emilia Clarke", "Matthew Lewis"], "https://68.media.tumblr.com/2614c0a7f5ecdc90fa9709c537519bd9/tumblr_ok5g3f6oIg1v2s5upo1_250.jpg"],
+["film", ["Me Before You", "Ein ganzes halbes Jahr"], "2016", ["2017 01 21", "2019 01 03"], 8, ["ger"], ["drama", "romance"], ["syl"], [], ["Thea Sharrock"], ["Sam Claflin", "Vanessa Kirby", "Emilia Clarke", "Matthew Lewis", "Charles Dance"], "https://68.media.tumblr.com/2614c0a7f5ecdc90fa9709c537519bd9/tumblr_ok5g3f6oIg1v2s5upo1_250.jpg"],
 	        
 ["film", ["Edge of Tomorrow", "Edge of Tomorrow - Live. Die. Repeat"], "2014", ["2017 01 10", "2021 12 17"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix"], ["Doug Liman"], ["Tom Cruise", "Emily Blunt", "Noah Taylor", "Hillary Clinton", "Lara Pulver"], "https://68.media.tumblr.com/9b746359461b357738288b49fe826bd4/tumblr_ojmer7q46Q1v2s5upo1_250.jpg"],
 	        
@@ -984,7 +984,7 @@ var database = [
 	        
 ["film", ["Indiana Jones and the Last Crusade", "Indiana Jones und der letzte Kreuzzug"], "1989", ["2016 02 13"], 7, ["ger"], ["action", "adventure"], ["bini"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Sean Connery"], "https://49.media.tumblr.com/46dcb49054fe63c9596e759f92207ef9/tumblr_o2j6kc2glH1v2s5upo1_250.jpg"],
 	        
-["film", ["The Falling"], "2014", ["2016 01 29"], 8, ["ger"], ["drama", "mystery"], [], [], ["Carol Morley"], ["Maisie Williams", "Florence Pugh"], "https://49.media.tumblr.com/2ea7f2b5367a91d098bd3d5b679f099c/tumblr_o1q7miQoB91v2s5upo1_250.jpg"],
+["film", ["The Falling"], "2014", ["2016 01 29"], 8, ["ger"], ["drama", "mystery"], [], [], ["Carol Morley"], ["Maisie Williams", "Florence Pugh", "Ellie Bamber"], "https://49.media.tumblr.com/2ea7f2b5367a91d098bd3d5b679f099c/tumblr_o1q7miQoB91v2s5upo1_250.jpg"],
 	        
 ["film", ["Burnt", "Im Rausch der Sterne"], "2015", ["2016 01 20"], 5, ["ger"], ["comedy", "drama"], ["syl"], ["Kino"], ["John Wells"], ["Bradley Cooper", "Daniel Brühl", "Omar Sy", "Uma Thurman", "Lily James", "Alicia Vikander"], "https://40.media.tumblr.com/e7aff9b959e9260c6daeb477d8b1b965/tumblr_o1bafkydum1v2s5upo1_250.jpg"],
 	        
@@ -1278,7 +1278,7 @@ var database = [
 	        
 ["film", ["Rush Hour"], "1998", ["2019 07 08"], 5, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Brett Ratner"], ["Ken Leung", "Jackie Chan", "Chris Tucker", "Tom Wilkinson"], "https://66.media.tumblr.com/9d176e93e4c29e946dc1c2a258c39944/f244781f2db8bae3-3f/s250x400/46441916585879a5b8546c60f85cabdebca7a220.jpg"],
 	        
-["film", ["Godzilla: King of the Monsters", "Godzilla II: King of the Monsters"], "2019", ["2019 06 05", "2021 02 09"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "je"], ["Godzilla", "Kino", "Netflix"], ["Michael Dougherty"], ["Kyle Chandler", "Vera Farmiga", "Millie Bobby Brown", "Ken Watanabe", "Sally Hawkins", "Thomas Middleditch", "David Strathairn"], "https://66.media.tumblr.com/c5817466fb41929749ffef31976696b4/54fb646f9f71a893-39/s250x400/e417d96a4c1fc5d7e7aba55905b8d0c7d8624199.jpg"],
+["film", ["Godzilla: King of the Monsters", "Godzilla II: King of the Monsters"], "2019", ["2019 06 05", "2021 02 09"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "je"], ["Godzilla", "Kino", "Netflix"], ["Michael Dougherty"], ["Kyle Chandler", "Vera Farmiga", "Millie Bobby Brown", "Ken Watanabe", "Sally Hawkins", "Thomas Middleditch", "David Strathairn", "Charles Dance"], "https://66.media.tumblr.com/c5817466fb41929749ffef31976696b4/54fb646f9f71a893-39/s250x400/e417d96a4c1fc5d7e7aba55905b8d0c7d8624199.jpg"],
 	        
 ["film", ["Blackfish", "Der Killerwal"], "2013", ["2019 05 19"], 7, ["eng"], ["documentary"], [], [], ["Gabriela Cowperthwaite"], ["Whoopi Goldberg"], "https://66.media.tumblr.com/ee6cc26548f145015e6100a1cff2a21a/89f4a86e93f73e5a-cf/s250x400/3d2424c9c7fedd905a7d6465de7b3e77cd91c811.jpg"],
 	        
@@ -1910,7 +1910,7 @@ var database = [
 
 ["film", ["Snowpiercer"], "2013", ["2021 10 02"], 2, ["ger"], ["action", "drama"], ["bini", "mai"], ["Netflix"], ["Bong Joon Ho"], ["Chris Evans", "Kang-ho Song", "Ed Harris", "Tilda Swinton", "Jamie Bell"], "https://64.media.tumblr.com/77ed0e43de6cabb9b6b2bf2ed5bb9ed1/415c46edfeef99e8-a5/s250x400/69e039c373347357c25b19b8e67c306fcf31bb5e.jpg"],
 
-["film", ["The Nutcracker and the Four Realms", "Der Nussknacker und die vier Reiche"], "2018", ["2021 10 04"], 4, ["ger"], ["adventure", "family"], [], ["Disney+"], ["Lasse Hallström", "Joe Johnston"], ["Mackenzie Foy", "Morgan Freeman", "Helen Mirren", "Keira Knightley", "Jack Whitehall"], "https://64.media.tumblr.com/36c820f004865c4667025bf0e63bce9f/00b16b7657da95e7-d6/s250x400/078d9e39e7057daf5783a1a198580396a7357725.jpg"],
+["film", ["The Nutcracker and the Four Realms", "Der Nussknacker und die vier Reiche"], "2018", ["2021 10 04"], 4, ["ger"], ["adventure", "family"], [], ["Disney+"], ["Lasse Hallström", "Joe Johnston"], ["Mackenzie Foy", "Morgan Freeman", "Helen Mirren", "Keira Knightley", "Jack Whitehall", "Ellie Bamber"], "https://64.media.tumblr.com/36c820f004865c4667025bf0e63bce9f/00b16b7657da95e7-d6/s250x400/078d9e39e7057daf5783a1a198580396a7357725.jpg"],
 
 ["film", ["Pacific Rim: Uprising", "Pacific Rim 2: Uprising"], "2018", [["2021 10 04", "1st Half"], ["2021 10 11", "2nd Half"]], 6, ["ger"], ["action", "adventure"], ["bini"], [], ["Steven S. DeKnight"], ["John Boyega", "Scott Eastwood", "Burn Gorman", "Charlie Day", "Tian Jing", "Karan Brar", "Karan Brar"], "https://64.media.tumblr.com/e12b9539d43524c32ecff8cae3f70bd2/7d2d2c172a7742b7-ff/s250x400/f79b7d8599b216e339013c2df41db4d2e09b2520.jpg"],
 
@@ -2347,7 +2347,7 @@ var database = [
 
 ["film", ["The Gray Man"], "2022", ["2022 08 03"], 7, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Anthony Russo", "Joe Russo"], ["Ryan Gosling", "Chris Evans", "Jessica Henwick", "Ana de Armas"], "https://64.media.tumblr.com/fec6763ab3a8ce4a5296f538b2f4154f/2d214e5956d59396-b0/s250x400/07eb72e38047117024cce961ce8bbf039e578cdf.jpg"],
 
-["film", ["The King's Man"], "2021", [["2022 08 03", "2022 08 05"]], 6, ["ger"], ["action", "adventure"], ["syl"], ["Disney+"], ["Matthew Vaughn"], ["Djimon Hounsou", "Daniel Brühl", "Stanley Tucci", "Ralph Fiennes", "Matthew Goode"], "https://64.media.tumblr.com/9dd0fbf74035e880b51f58b8d5b5428d/fd12193843615954-21/s250x400/26ae7e753d9455b229230273372a1740f9923a7b.jpg"],
+["film", ["The King's Man"], "2021", [["2022 08 03", "2022 08 05"]], 6, ["ger"], ["action", "adventure"], ["syl"], ["Disney+"], ["Matthew Vaughn"], ["Djimon Hounsou", "Daniel Brühl", "Stanley Tucci", "Ralph Fiennes", "Matthew Goode", "Charles Dance"], "https://64.media.tumblr.com/9dd0fbf74035e880b51f58b8d5b5428d/fd12193843615954-21/s250x400/26ae7e753d9455b229230273372a1740f9923a7b.jpg"],
 
 ["audiobook", ["The Scarecrow of Oz", "Die Vogelscheuche von Oz"], "1915", [["2022 08 03", "2022 09 01"]], 4, ["eng"], [], [], ["Oz", "LibriVox"], ["L. Frank Baum"], ["Abigail & Adam Flach", "Robert Flach", "Allyson Hester", "Jamie Wilking", "Kirsten Ferreri", "Chip Joel", "Ezwa", "Claire Goget", "Henry Frigon", "Hugh McGuire", "Stephanie König", "Mark F. Smith", "Kevin McAsh", "Ken Crooker", "Laura Brodrick", "Ada Kerman", "Michael Yard", "Lizzie Driver", "Saul", "Jason Isbell", "Susie G.", "Talia Fishman"], "https://64.media.tumblr.com/ac1c974bedc91e497a918afb6d0aaf28/c73d498d6958fd33-44/s250x400/0b7dbc3a7a93d0b2663af514fcce5e0b796516be.jpg"],
 
@@ -2541,7 +2541,7 @@ var database = [
 
 ["film", ["The Circle"], "2017", ["2023 03 04"], 6, ["ger"], ["drama", "sci-fi"], [], ["Netflix"], ["James Ponsoldt"], ["Emma Watson", "Karen Gillan", "Tom Hanks", "Patton Oswalt", "Poorna Jagannathan", "Judy Reyes"], "https://64.media.tumblr.com/35b31298a69367010c00c5b8bf9ce8ea/6215319b73a48620-4f/s250x400/2f52fe2ca0efb3c9141cef2b00a340a579551ef0.jpg"],
 
-["film", ["Gunpowder Milkshake"], "2021", ["2023 03 04"], 8, ["eng"], ["action", "crime"], ["bini", "mai"], ["Netflix"], ["Navot Papushado"], ["Karen Gillan", "Freya Allan", "Paul Giamatti", "Carla Gugino"], "https://64.media.tumblr.com/7b5c9fef73a0fcc91a12373ad1e2926e/f4a027b8d5a8b7c9-9e/s250x400/df35dade3800254e90ccaf6de0e7f3f493b8aa6c.jpg"],
+["film", ["Gunpowder Milkshake"], "2021", ["2023 03 04"], 8, ["eng"], ["action", "crime"], ["bini", "mai"], ["Netflix"], ["Navot Papushado"], ["Karen Gillan", "Freya Allan", "Paul Giamatti", "Carla Gugino", "Lena Headey"], "https://64.media.tumblr.com/7b5c9fef73a0fcc91a12373ad1e2926e/f4a027b8d5a8b7c9-9e/s250x400/df35dade3800254e90ccaf6de0e7f3f493b8aa6c.jpg"],
 
 ["film", ["The Spectacular Now", "The Spectacular Now: Perfekt ist jetzt"], "2013", ["2023 03 05"], 5, ["eng"], ["drama", "romance"], [], ["Netflix"], ["James Ponsoldt"], ["Miles Teller", "Shailene Woodley", "Brie Larson", "Dayo Okeniyi", "Kyle Chandler", "Jennifer Jason Leigh", "Bob Odenkirk"], "https://64.media.tumblr.com/74e8e199645b773fb2473d3d1caef8a3/eae594adfaf8992e-74/s250x400/0b7b3a95616356e9ffd9d1424bd66e5c02120147.jpg"],
 
@@ -2551,7 +2551,9 @@ var database = [
 
 ["audiobook", ["Rezept für einen Mord"], "2020", [["2023 03 08", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt", "watching"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/6187aafa82ca2fb15afa7679aa8ca315/888123188985cf8b-83/s250x400/ea789e20ffe0f3c9a0f1262fbab1ba5774d164d4.jpg"],
 
-["film", ["Barbie of Swan Lake", "Barbie in Schwanensee"], "2003", ["2023 03 11"], 5, ["rus"], ["animation", "family"], ["bini"], ["Barbie", "Netflix"], ["Owen Hurley"], [], "https://64.media.tumblr.com/55f258d28757e2243ba5dca401a2a4e8/a3508877869cfe86-a5/s250x400/3a74dc50c99553e7cb37d4c697337e67fe1bc34e.jpg"]
+["film", ["Barbie of Swan Lake", "Barbie in Schwanensee"], "2003", ["2023 03 11"], 5, ["rus"], ["animation", "family"], ["bini"], ["Barbie", "Netflix"], ["Owen Hurley"], [], "https://64.media.tumblr.com/55f258d28757e2243ba5dca401a2a4e8/a3508877869cfe86-a5/s250x400/3a74dc50c99553e7cb37d4c697337e67fe1bc34e.jpg"],
+
+["film", ["Pride and Prejudice and Zombies", "Stolz und Vorurteil & Zombies"], "2016", ["2023 03 13"], 6, ["eng"], ["action", "comedy"], [], ["Netflix"], ["Burr Steers"], ["Lily James", "Bella Heathcote", "Ellie Bamber", "Millie Brady", "Charles Dance", "Lena Headey", "Matt Smith"], "https://64.media.tumblr.com/e3f07639a286f3e586fa9b7384df439f/5c89bab307c114ca-3b/s250x400/084f769b0b06f58c7d0dc40af59c93b07ce11b7a.jpg"]
 
 /*
 ,
