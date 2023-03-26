@@ -2561,7 +2561,11 @@ var database = [
 
 ["audiobook", ["Das Geheimnis des toten Malers"], "2021", [["2023 03 22", "2023 03 23"]], 0, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/00aa24415b77a1f468e89c198df0370f/d43f83f4ac52a7f2-8f/s250x400/b4613736378bd6a330d804a761f1f46ff95857cf.jpg"],
 
-["audiobook", ["Shatter Me", "Ich fürchte mich nicht"], "2014", [["2023 03 23", ""]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["Tahereh Mafi"], ["Britta Steffenhagen"], "https://64.media.tumblr.com/119c973e13bf6f6bf8acdb8c117f13a9/93ae53e03900339c-81/s250x400/0eed023ed7633c2cc256e40433f762abb838d56e.jpg"]
+["audiobook", ["Shatter Me", "Ich fürchte mich nicht"], "2014", [["2023 03 23", ""]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["Tahereh Mafi"], ["Britta Steffenhagen"], "https://64.media.tumblr.com/119c973e13bf6f6bf8acdb8c117f13a9/93ae53e03900339c-81/s250x400/0eed023ed7633c2cc256e40433f762abb838d56e.jpg"],
+
+["series", ["K.C. Undercover"], ["2015", "2018"], [["2023 03 06", "2023 03 13", "S1E1-S1E9"]], 4, ["ger"], ["action", "comedy"], [], ["Disney+", "dropped"], ["Corinne Marshall"], ["Zendaya"], "https://64.media.tumblr.com/1a62a4fda3cd3a6aa788463fb8eb72ce/5b869ff21918a379-73/s250x400/758a5c68b069016b2e2c697e6c0046a1a7b8a747.jpg"],
+
+["series", ["The Finder"], "2012", [["2023 03 26", "", "S1"]], 0, ["ger"], ["comedy", "crime"], [], ["Disney+", "watching"], ["Richard Greener", "Hart Hanson"], [], "https://64.media.tumblr.com/6e1a4ef1ddb79bd9f3268b2bb029963a/950df7253383b3f3-8a/s250x400/ad77b9c3cfc974c1e67ad87ee169dfdbc6119d5e.jpg"]
 
 /*
 ,
