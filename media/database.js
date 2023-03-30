@@ -2495,7 +2495,7 @@ var database = [
 
 ["series", ["Space Dandy"], "2014", [["2023 01 23", "2023 02 06", "S1"]], 6, ["ger"], ["anime", "adventure", "comedy", "sci-fi"], ["bini", "nico"], ["ongoing"], ["John Burgmeier", "Kimiko Ueno"], [], "https://64.media.tumblr.com/1aa1976a698288855a87b3d51cf21883/a9f5bf639d489a7e-6f/s250x400/293d4592923de16cd7426eb7ebae1c5eb18ee12f.jpg"],
 
-["audiobook", ["Lord of the Rings: The Fellowship of the Ring", "Herr der Ringe: Die Gefährten"], "1954", [["2023 01 25", "2023 02 10"]], 8, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth"], ["J. R. R. Tolkien"], ["Achim Höppner"], "https://64.media.tumblr.com/578e78bae11f4ba9c301de1dd831150b/5d9c45f272d73f02-3e/s250x400/2ff545d4fef9ecb7cc1c044c3598cc9890528675.jpg"],
+["audiobook", ["Lord of the Rings: The Fellowship of the Ring", "Herr der Ringe: Die Gefährten"], "1954", [["2023 01 25", "2023 02 10"]], 8, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth"], ["J. R. R. Tolkien"], ["Achim Höppner"], "https://64.media.tumblr.com/2f9e8ae5468e0b1c151b17286299bb46/27c5fe3be9216020-46/s400x600/7363fa983b4063e7c1f33681c4c06ba2e8a9cfea.jpg"],
 
 ["film", ["Metal Lords"], "2022", ["2023 01 27"], 8, ["ger"], ["comedy", "music"], [], ["Netflix"], ["Peter Sollett"], ["Jaeden Martell", "Isis Hainsworth"], "https://64.media.tumblr.com/f49c52a439b48767af186094f7e466f0/7fcd52d2121c9b2e-27/s250x400/9210b432f16212f36cfba4186369a6491401ed57.jpg"],
 
@@ -2529,7 +2529,7 @@ var database = [
 
 ["film", ["Fack ju Göhte"], "2013", ["2023 02 18"], 8, ["ger"], ["comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Karoline Herfurth", "Katja Riemann", "Jana Pallaske", "Alwara Höfels", "Jella Haase", "Gizem Emre", "Lena Klenke"], "https://64.media.tumblr.com/7795bba0b0b61bc22748402c46c7bf04/aa6ac7c6aa7708d3-8c/s250x400/a986960e043a8b399dc0fb5a6dd0019bd1a208be.jpg"],
 
-["series", ["Bleach: Thousand Year Blood War", "Bleach: Thousand Year Blood War", "Bleach: Sennen Kessen-hen"], ["2023", ""], [["2023 02 22", "", "S1"]], 0, ["eng"], ["anime", "action"], ["bini", "nico"], ["Disney+", "watching", "ongoing"], ["Tite Kubo"], [], "https://64.media.tumblr.com/3197f63ea8fb194f83135447825f4c14/46149f0dc648c47e-7d/s250x400/e1910ca4cb8f2fb81631bacb1fdf22a37997a8fb.jpg"],
+["series", ["Bleach: Thousand Year Blood War", "Bleach: Thousand Year Blood War", "Bleach: Sennen Kessen-hen"], ["2023", ""], [["2023 02 22", "2023 03 29", "S1"]], 5, ["eng"], ["anime", "action"], ["bini", "nico"], ["Disney+", "ongoing"], ["Tite Kubo"], [], "https://64.media.tumblr.com/3197f63ea8fb194f83135447825f4c14/46149f0dc648c47e-7d/s250x400/e1910ca4cb8f2fb81631bacb1fdf22a37997a8fb.jpg"],
 
 ["series", ["Insatiable"], ["2018", "2019"], [["2023 02 23", "2023 03 04", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Lauren Gussis", "Jenina Kibuka"], ["Debby Ryan", "Michael Provost"], "https://64.media.tumblr.com/6983029dcbc834c7f4529d5d3a9aa243/1053b374f048c3a9-be/s250x400/72db042f3009202468a9f32a0d5bee76d6c78d4f.jpg"],
 
@@ -2565,7 +2565,11 @@ var database = [
 
 ["series", ["K.C. Undercover"], ["2015", "2018"], [["2023 03 06", "2023 03 13", "S1E1-S1E9"]], 4, ["ger"], ["action", "comedy"], [], ["Disney+", "dropped"], ["Corinne Marshall"], ["Zendaya"], "https://64.media.tumblr.com/1a62a4fda3cd3a6aa788463fb8eb72ce/5b869ff21918a379-73/s250x400/758a5c68b069016b2e2c697e6c0046a1a7b8a747.jpg"],
 
-["series", ["The Finder"], "2012", [["2023 03 26", "", "S1"]], 0, ["ger"], ["comedy", "crime"], [], ["Disney+", "watching"], ["Richard Greener", "Hart Hanson"], [], "https://64.media.tumblr.com/6e1a4ef1ddb79bd9f3268b2bb029963a/950df7253383b3f3-8a/s250x400/ad77b9c3cfc974c1e67ad87ee169dfdbc6119d5e.jpg"]
+["series", ["The Finder"], "2012", [["2023 03 26", "", "S1"]], 0, ["ger"], ["comedy", "crime"], [], ["Disney+", "watching"], ["Richard Greener", "Hart Hanson"], [], "https://64.media.tumblr.com/6e1a4ef1ddb79bd9f3268b2bb029963a/950df7253383b3f3-8a/s250x400/ad77b9c3cfc974c1e67ad87ee169dfdbc6119d5e.jpg"],
+
+["audiobook", ["Im Reich der Pubertiere"], "2016", [["2023 03 29", "2023 03 30"]], 7, ["ger"], ["comedy"], [], ["bibliothek"], ["Jan Weiler"], ["Jan Weiler"], "https://64.media.tumblr.com/8365aa58c0f05decba5a4d1c27c26375/1fd3da0975fac07b-53/s250x400/16fc2961dbcf0bba49a5a8eafff48e7edb4b526e.jpg"],
+
+["audiobook", ["Lord of the Rings: The Return of the King", "Herr der Ringe: Die Wiederkehr des Königs"], "1955", [["2023 03 31", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth", "watching"], ["J. R. R. Tolkien"], ["Gert Heidenreich"], "https://64.media.tumblr.com/d233fc1abba4c426fe2e265e4b16b444/ad7f28b3634765ce-46/s250x400/28dfb34371298fe0433eac9561333d31ffd44628.jpg"]
 
 /*
 ,
