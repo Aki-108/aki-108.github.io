@@ -2367,7 +2367,7 @@ var database = [
 
 ["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", "2022 08 30"]], 6, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"],
 
-["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "2022 09 11", "S2"], ["2022 10 03", "2022 11 06", "S3"], ["2022 11 10", "2022 12 27", "S4"], ["2023 01 29", "2023 02 05", "S5"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
+["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "2022 09 11", "S2"], ["2022 10 03", "2022 11 06", "S3"], ["2022 11 10", "2022 12 27", "S4"], ["2023 01 29", "2023 02 05", "S5"], ["2023 04 04", "", "S6"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing", "watching"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
 
 ["film", ["Z-O-M-B-I-E-S", "Zombies - Das Musical"], "2018", ["2022 08 25"], 5, ["ger"], ["family", "musical"], [], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/872f8f06df5b500939e5870fdd0d4ce4/14a080293eb78a81-04/s250x400/55213a056e85af0b98bb3456d63a3d1cb0a319bc.jpg"],
 
@@ -2565,7 +2565,7 @@ var database = [
 
 ["series", ["K.C. Undercover"], ["2015", "2018"], [["2023 03 06", "2023 03 13", "S1E1-S1E9"]], 4, ["ger"], ["action", "comedy"], [], ["Disney+", "dropped"], ["Corinne Marshall"], ["Zendaya"], "https://64.media.tumblr.com/1a62a4fda3cd3a6aa788463fb8eb72ce/5b869ff21918a379-73/s250x400/758a5c68b069016b2e2c697e6c0046a1a7b8a747.jpg"],
 
-["series", ["The Finder"], "2012", [["2023 03 26", "", "S1"]], 0, ["ger"], ["comedy", "crime"], [], ["Disney+", "watching"], ["Richard Greener", "Hart Hanson"], [], "https://64.media.tumblr.com/6e1a4ef1ddb79bd9f3268b2bb029963a/950df7253383b3f3-8a/s250x400/ad77b9c3cfc974c1e67ad87ee169dfdbc6119d5e.jpg"],
+["series", ["The Finder"], "2012", [["2023 03 26", "2023 04 04", "S1"]], 7, ["ger"], ["comedy", "crime"], [], ["Disney+", "ongoing"], ["Richard Greener", "Hart Hanson"], [], "https://64.media.tumblr.com/6e1a4ef1ddb79bd9f3268b2bb029963a/950df7253383b3f3-8a/s250x400/ad77b9c3cfc974c1e67ad87ee169dfdbc6119d5e.jpg"],
 
 ["audiobook", ["Im Reich der Pubertiere"], "2016", [["2023 03 29", "2023 03 30"]], 7, ["ger"], ["comedy"], [], ["bibliothek"], ["Jan Weiler"], ["Jan Weiler"], "https://64.media.tumblr.com/8365aa58c0f05decba5a4d1c27c26375/1fd3da0975fac07b-53/s250x400/16fc2961dbcf0bba49a5a8eafff48e7edb4b526e.jpg"],
 
@@ -2575,7 +2575,9 @@ var database = [
 
 ["audiobook", ["Die drei ??? Kids: Gefahr im Spiegelkabinett"], "2023", [["2023 04 02", ""]], 0, ["ger"], [], ["bini", "syl"], ["Spotify", "watching"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/8389b5ee49c19e10834ce3953ad40d8d/0cf762a2dd565abb-a4/s250x400/350ed18a84139ef38c5f464db4f6b47e9070dd98.jpg"],
 
-["film", ["Sightless"], "2020", ["2023 04 02"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Cooper Karl"], [], "https://64.media.tumblr.com/bb4df154c6aef1f9080f8c1616897329/c33462af5acdec77-fb/s250x400/14fb522683c4a4ecf9f726db78ce4e78c053d949.jpg"]
+["film", ["Sightless"], "2020", ["2023 04 02"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Cooper Karl"], [], "https://64.media.tumblr.com/bb4df154c6aef1f9080f8c1616897329/c33462af5acdec77-fb/s250x400/14fb522683c4a4ecf9f726db78ce4e78c053d949.jpg"],
+
+["series", ["Megalo Box", "Megalo Box", "Megaro bokusu: Megalo Box"], ["2018", ""], [["2023 04 03", "S1E9-E13"]], 0, ["ger"], ["anime", "action"], ["bini", "nico"], [], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/3d042c142db025fd0eface0645ae615e/0ffd053bc7f14c8a-e1/s250x400/2f58538cc1038186b8f7d57e7db35df18f740764.jpg"]
 
 /*
 ,
