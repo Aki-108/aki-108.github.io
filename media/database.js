@@ -2577,7 +2577,9 @@ var database = [
 
 ["film", ["Sightless"], "2020", ["2023 04 02"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Cooper Karl"], [], "https://64.media.tumblr.com/bb4df154c6aef1f9080f8c1616897329/c33462af5acdec77-fb/s250x400/14fb522683c4a4ecf9f726db78ce4e78c053d949.jpg"],
 
-["series", ["Megalo Box", "Megalo Box", "Megaro bokusu: Megalo Box"], ["2018", ""], [["2023 04 03", "S1E9-E13"]], 0, ["ger"], ["anime", "action"], ["bini", "nico"], [], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/3d042c142db025fd0eface0645ae615e/0ffd053bc7f14c8a-e1/s250x400/2f58538cc1038186b8f7d57e7db35df18f740764.jpg"]
+["series", ["Megalo Box", "Megalo Box", "Megaro bokusu: Megalo Box"], ["2018", ""], [["2023 04 03", "S1E9-E13"]], 0, ["ger"], ["anime", "action"], ["bini", "nico"], [], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/3d042c142db025fd0eface0645ae615e/0ffd053bc7f14c8a-e1/s250x400/2f58538cc1038186b8f7d57e7db35df18f740764.jpg"],
+
+["series", ["Bocchi the Rock!"], "2022", [["2023 04 05", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Aki Hamaji", "Erika Yoshida"], [], "https://64.media.tumblr.com/d50e36c1ed2a7e4748f7b6f1ff7ec02f/a18455bd23bf84c6-b3/s250x400/a5eb1d6faac41b905a9c1c1391dd8bc702fcf11e.jpg"]
 
 /*
 ,
