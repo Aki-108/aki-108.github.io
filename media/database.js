@@ -2327,7 +2327,7 @@ var database = [
 
 ["film", ["Parasite", "Parasite", "Gisaengchung"], "2019", ["2022 07 30"], 8, ["kor"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Bong Joon Ho"], [], "https://64.media.tumblr.com/f87320721485509c37e844d78bec3fed/35849b781278970d-7b/s250x400/91412679d247ea28eaf792d4fca21353ef3d4152.jpg"],
 
-["film", ["Horse Girl"], "2020", ["2022 07 30"], 6, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Jeff Baena"], ["John Ortiz", "Robin Tunney", "Matthew Gray Gubler", "Debby Ryan"], "https://64.media.tumblr.com/8acbb4247ce63564049c0fd063ea91d8/38432b0d8b0f598c-c9/s250x400/b04a79a83f0f8bbc8ff08457c64308dcbcba945a.jpg"],
+["film", ["Horse Girl"], "2020", ["2022 07 30"], 6, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Jeff Baena"], ["John Ortiz", "Robin Tunney", "Matthew Gray Gubler", "Debby Ryan", "Paul Reiser"], "https://64.media.tumblr.com/8acbb4247ce63564049c0fd063ea91d8/38432b0d8b0f598c-c9/s250x400/b04a79a83f0f8bbc8ff08457c64308dcbcba945a.jpg"],
 
 ["film", ["A Bug's Life", "Das große Krabbeln"], "1998", ["2022 07 31"], 5, ["ger"], ["animation", "adventure"], [], ["Disney+"], ["John Lasseter", "Andrew Stanton"], [], "https://64.media.tumblr.com/5e589366d1425845fbbb9441f874597a/72c7db779a56b5db-44/s250x400/6c7a15af865660bd371f20bffd5d347afffd7043.jpg"],
 
@@ -2579,7 +2579,9 @@ var database = [
 
 ["series", ["Megalo Box", "Megalo Box", "Megaro bokusu: Megalo Box"], ["2018", ""], [["2023 04 03", "S1E9-E13"]], 0, ["ger"], ["anime", "action"], ["bini", "nico"], [], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/3d042c142db025fd0eface0645ae615e/0ffd053bc7f14c8a-e1/s250x400/2f58538cc1038186b8f7d57e7db35df18f740764.jpg"],
 
-["series", ["Bocchi the Rock!"], "2022", [["2023 04 05", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Aki Hamaji", "Erika Yoshida"], [], "https://64.media.tumblr.com/d50e36c1ed2a7e4748f7b6f1ff7ec02f/a18455bd23bf84c6-b3/s250x400/a5eb1d6faac41b905a9c1c1391dd8bc702fcf11e.jpg"]
+["series", ["Bocchi the Rock!"], "2022", [["2023 04 05", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Aki Hamaji", "Erika Yoshida"], [], "https://64.media.tumblr.com/d50e36c1ed2a7e4748f7b6f1ff7ec02f/a18455bd23bf84c6-b3/s250x400/a5eb1d6faac41b905a9c1c1391dd8bc702fcf11e.jpg"],
+
+["film", ["Whiplash"], "2014", ["2023 04 06"], 8, ["ger"], ["drama", "music"], [], ["Netflix"], ["Damien Chazelle"], ["Miles Teller", "J.K. Simmons", "Paul Reiser", "Melissa Benoist"], "https://64.media.tumblr.com/8195d31808920e07b61a81e25df4ec10/007f98966148ec20-c4/s250x400/7fd9bc716a1c7474c5a8b0e889cf50b828ef817a.jpg"]
 
 /*
 ,
