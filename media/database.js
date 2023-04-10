@@ -2367,7 +2367,7 @@ var database = [
 
 ["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", "2022 08 30"]], 6, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"],
 
-["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "2022 09 11", "S2"], ["2022 10 03", "2022 11 06", "S3"], ["2022 11 10", "2022 12 27", "S4"], ["2023 01 29", "2023 02 05", "S5"], ["2023 04 04", "", "S6"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing", "watching"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
+["series", ["Boy Meets World", "Das Leben und ich"], ["1993", "2000"], [["2022 08 21", "2022 08 29", "S1"], ["2022 08 29", "2022 09 11", "S2"], ["2022 10 03", "2022 11 06", "S3"], ["2022 11 10", "2022 12 27", "S4"], ["2023 01 29", "2023 02 05", "S5"], ["2023 04 04", "2023 04 10", "S6"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing"], ["Michael Jacobs"], ["Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/fc0d57e3c3386b084d0e89b0456d7b75/6afd8f2f29acf24c-c6/s250x400/6fe3fe1189a4d09a9f5312fe92f9d7a8d33ab169.jpg"],
 
 ["film", ["Z-O-M-B-I-E-S", "Zombies - Das Musical"], "2018", ["2022 08 25"], 5, ["ger"], ["family", "musical"], [], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/872f8f06df5b500939e5870fdd0d4ce4/14a080293eb78a81-04/s250x400/55213a056e85af0b98bb3456d63a3d1cb0a319bc.jpg"],
 
@@ -2573,7 +2573,7 @@ var database = [
 
 ["film", ["Ivy & Bean"], "2022", ["2023 04 02"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Elissa Down"], [], "https://64.media.tumblr.com/17ed89cba91cae1d88389b8311ea2d23/453ec9efd973dfe5-42/s250x400/ff63e6a87d7b8544262a75b6685d7a0d831c735e.jpg"],
 
-["audiobook", ["Die drei ??? Kids: Gefahr im Spiegelkabinett"], "2023", [["2023 04 02", ""]], 0, ["ger"], [], ["bini", "syl"], ["Spotify", "watching"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/8389b5ee49c19e10834ce3953ad40d8d/0cf762a2dd565abb-a4/s250x400/350ed18a84139ef38c5f464db4f6b47e9070dd98.jpg"],
+["audiobook", ["Die drei ??? Kids: Gefahr im Spiegelkabinett"], "2023", [["2023 04 02", "2023 04 10"]], 0, ["ger"], [], ["bini", "syl", "je"], ["Spotify"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/8389b5ee49c19e10834ce3953ad40d8d/0cf762a2dd565abb-a4/s250x400/350ed18a84139ef38c5f464db4f6b47e9070dd98.jpg"],
 
 ["film", ["Sightless"], "2020", ["2023 04 02"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Cooper Karl"], [], "https://64.media.tumblr.com/bb4df154c6aef1f9080f8c1616897329/c33462af5acdec77-fb/s250x400/14fb522683c4a4ecf9f726db78ce4e78c053d949.jpg"],
 
@@ -2583,7 +2583,9 @@ var database = [
 
 ["film", ["Whiplash"], "2014", ["2023 04 06"], 8, ["ger"], ["drama", "music"], [], ["Netflix"], ["Damien Chazelle"], ["Miles Teller", "J.K. Simmons", "Paul Reiser", "Melissa Benoist"], "https://64.media.tumblr.com/8195d31808920e07b61a81e25df4ec10/007f98966148ec20-c4/s250x400/7fd9bc716a1c7474c5a8b0e889cf50b828ef817a.jpg"],
 
-["film", ["The Green Knight"], "2021", ["2023 04 09"], 7, ["ger"], ["adventure", "drama"], [], ["Netflix"], ["David Lowery"], ["Dev Patel", "Alicia Vikander", "Sarita Choudhury", "Joel Edgerton"], "https://64.media.tumblr.com/4c6e18013c1927673532b9f0db5cd086/fd2dbb8deefcbfdc-86/s250x400/44417b26ca27ba8b74074533d41447ecfb3c8fd6.jpg"]
+["film", ["The Green Knight"], "2021", ["2023 04 09"], 7, ["ger"], ["adventure", "drama"], [], ["Netflix"], ["David Lowery"], ["Dev Patel", "Alicia Vikander", "Sarita Choudhury", "Joel Edgerton"], "https://64.media.tumblr.com/4c6e18013c1927673532b9f0db5cd086/fd2dbb8deefcbfdc-86/s250x400/44417b26ca27ba8b74074533d41447ecfb3c8fd6.jpg"],
+
+["film", ["Girl Gang"], "2022", ["2023 04 10"], 4, ["ger"], ["documentary"], [], ["Netflix"], ["Susanne Regina Meures"], [], "https://64.media.tumblr.com/8e08e94ad683070c69ed449b267a5dc7/a2b0b3ca8e28b89f-3c/s250x400/0ba9743e4058f0153d5b91e80c39b202cfc7aed1.jpg"]
 
 /*
 ,
