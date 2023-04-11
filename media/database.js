@@ -1766,7 +1766,7 @@ var database = [
 
 ["film", ["Red Riding Hood", "Red Riding Hood - Unter dem Wolfsmond"], "2011", ["2021 04 08"], 7, ["ger"], ["fantasy", "horror"], [], ["Netflix"], ["Catherine Hardwicke"], ["Amanda Seyfried", "Gary Oldman", "Billy Burke", "Lukas Haas", "Shauna Kain", "Dalila Bela"], "https://64.media.tumblr.com/7d24827d3ada00ea0932d25fa72e8bb4/0e3fff2872555123-a1/s250x400/26f96954fe5b42a4f2fed72ee726dd81417593a4.jpg"],
 
-["series", ["The Way of the Househusband", "Yakuza goes Hausmann", "Gokushufudo"], "2021", [["2021 04 08", "2021 04 17", "S1E1-E5"], ["2021 10 10", "2021 10 12", "S1E6-E10"]], 7, ["ger"], ["anime", "action", "comedy", "slice of life"], [], ["Netflix"], ["Kousuke Oono"], [], "https://64.media.tumblr.com/31952cb719ccdfae5cddb1c2ea23547f/fb3c05e57cef376a-19/s250x400/2f78eebe5e1f696cc0000cf9fdebe2b97873e96b.jpg"],
+["series", ["The Way of the Househusband", "Yakuza goes Hausmann", "Gokushufudo"], "2021", [["2021 04 08", "2021 04 17", "S1E1-E5"], ["2021 10 10", "2021 10 12", "S1E6-E10"]], 7, ["ger"], ["anime", "action", "comedy", "slice of life"], [], ["Netflix", "ongoing"], ["Kousuke Oono"], [], "https://64.media.tumblr.com/31952cb719ccdfae5cddb1c2ea23547f/fb3c05e57cef376a-19/s250x400/2f78eebe5e1f696cc0000cf9fdebe2b97873e96b.jpg"],
 
 ["film", ["Girls on Top", "Mädchen Mädchen!"], "2001", ["2021 04 09"], 5, ["ger"], ["comedy"], [], ["Netflix", "bby"], ["Dennis Gansel"], ["Diana Amft", "Felicitas Woll", "Karoline Herfurth", "Max Riemelt", "Florian Lukas", "Henning Baum"], "https://64.media.tumblr.com/26b9f6ff621898e46338d045c03f29a2/623979ca447725b6-e8/s250x400/644a19029a0e69df06e6979e203eb8df820ff52c.jpg"],
 
@@ -2585,7 +2585,13 @@ var database = [
 
 ["film", ["The Green Knight"], "2021", ["2023 04 09"], 7, ["ger"], ["adventure", "drama"], [], ["Netflix"], ["David Lowery"], ["Dev Patel", "Alicia Vikander", "Sarita Choudhury", "Joel Edgerton"], "https://64.media.tumblr.com/4c6e18013c1927673532b9f0db5cd086/fd2dbb8deefcbfdc-86/s250x400/44417b26ca27ba8b74074533d41447ecfb3c8fd6.jpg"],
 
-["film", ["Girl Gang"], "2022", ["2023 04 10"], 4, ["ger"], ["documentary"], [], ["Netflix"], ["Susanne Regina Meures"], [], "https://64.media.tumblr.com/8e08e94ad683070c69ed449b267a5dc7/a2b0b3ca8e28b89f-3c/s250x400/0ba9743e4058f0153d5b91e80c39b202cfc7aed1.jpg"]
+["film", ["Girl Gang"], "2022", ["2023 04 10"], 4, ["ger"], ["documentary"], [], ["Netflix"], ["Susanne Regina Meures"], [], "https://64.media.tumblr.com/8e08e94ad683070c69ed449b267a5dc7/a2b0b3ca8e28b89f-3c/s250x400/0ba9743e4058f0153d5b91e80c39b202cfc7aed1.jpg"],
+
+["series", ["Detective Conan: The Culprit Hanzawa"], ["2022", "2023"], [["2023 04 10", "S1"]], 6, ["ger"], ["anime", "comedy"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/aad231c9b45abb0a014953fd3c275f87/5d03a01561d14209-ef/s250x400/42a46b1baa1ee41e92a68853b4d34c6de64ab69b.jpg"],
+
+["series", ["Nomad: Megalo Box 2", "Nomad: Megalo Box 2", "Megalobox 2: Nomad"], "2021", [["2023 04 10", "", "S1"]], 0, ["jap"], ["anime", "sci-fi", "sport"], ["bini", "nico"], ["watching"], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/824832ae5eabffaa1154e1dc17d27cf2/6371363194eaf1e4-52/s250x400/0fd3a35d6942252a1eb9182a538c06cbc7b58884.jpg"],
+
+["series", ["Good Trouble"], ["2019", ""], [["2023 04 11", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing"], ["Bradley Bredeweg"], ["Maia Mitchell"], "https://64.media.tumblr.com/0e38206405116a7ca78e4b60d604c759/f9470cde4701d11b-11/s250x400/8264cf3362203ff2ae9140c93c430affc574749c.jpg"]
 
 /*
 ,
