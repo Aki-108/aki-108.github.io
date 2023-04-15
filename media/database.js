@@ -1518,7 +1518,7 @@ var database = [
 
 ["film", ["The Chronicles of Narnia: The Voyage of the Dawn Treader", "Die Chroniken von Narnia - Die Reise auf der Morgenröte"], "2010", ["2019 04 06", "2021 12 22"], 7, ["ger"], ["adventure", "family"], [], ["Narnia", "Netflix", "Disney+"], ["Michael Apted"], ["Georgie Henley", "Skandar Keynes", "Ben Barnes", "Will Poulter", "Tilda Swinton", "Anna Popplewell"], "https://66.media.tumblr.com/24f7268b3298dbf4c4ae1a9122a2f3dd/0256992eb45e03c8-21/s250x400/bbb6924c2653086ef668b58fdb3f53e157a57de1.jpg"],
 
-["series", ["Orange Is the New Black"], ["2013", "2019"], [["2018 03 04", "2018 03 06", "S1"], ["2018 03 07", "2018 03 09", "S2"], ["2018 03 09", "2018 04 14", "S3"], ["2018 04 14", "2018 04 22", "S4"], ["2018 04 22", "2018 05 10", "S5"], ["2019 01 22", "2019 04 29", "S6"]/*["2018 03 04", "2019 04 29", "S1 - S6"]*/], 7, ["ger"], ["comedy", "crime"], [], ["Netflix", "LGBT"], ["Jenji Kohan"], ["Laura Prepon", "Samira Wiley", "Laverne Cox", "Isabella Ferreira", "Tyler Alvarez"], "https://66.media.tumblr.com/33e78130beb5a208717c0614aaf330d7/dbcf5d5d4b548d18-86/s250x400/b72bd942e9c00f9a4cbc70a7465d8f10ee4e0bc2.jpg"],
+["series", ["Orange Is the New Black"], ["2013", "2019"], [["2018 03 04", "2018 03 06", "S1"], ["2018 03 07", "2018 03 09", "S2"], ["2018 03 09", "2018 04 14", "S3"], ["2018 04 14", "2018 04 22", "S4"], ["2018 04 22", "2018 05 10", "S5"], ["2019 01 22", "2019 04 29", "S6"]/*["2018 03 04", "2019 04 29", "S1 - S6"]*/], 7, ["ger"], ["comedy", "crime"], [], ["Netflix", "LGBT"], ["Jenji Kohan"], ["Laura Prepon", "Samira Wiley", "Laverne Cox", "Isabella Ferreira", "Tyler Alvarez", "Natasha Lyonne"], "https://66.media.tumblr.com/33e78130beb5a208717c0614aaf330d7/dbcf5d5d4b548d18-86/s250x400/b72bd942e9c00f9a4cbc70a7465d8f10ee4e0bc2.jpg"],
 
 ["series", ["Between"], ["2015", "2016"], [["2018 06 27", "S1"], ["2018 06 27", "2018 07 05", "S2"]], 5, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Michael McGowan"], ["Jennette McCurdy"], "https://66.media.tumblr.com/72d4b759d273d97b4514ac79d6a2d284/4ab65324a2a042c1-25/s250x400/36f43d8d6925a44cdded25548b7914ebe5c9623d.jpg"],
 
@@ -2595,7 +2595,9 @@ var database = [
 
 ["film", ["Girl, Interrupted", "Durchgeknallt"], "1999", ["2023 04 14"], 0, ["ger"], ["biography", "drama"], [], ["Netflix"], ["James Mangold"], ["Winona Ryder", "Angelina Jolie", "Brittany Murphy", "Whoopi Goldberg"], "https://64.media.tumblr.com/d6fa8cee8e6c7b80b4a4f3caf0e1331d/e2edf5e0b0002cb1-8f/s250x400/a4ad524a5937b6e718b61c4d6b9e180851e546b0.jpg"],
 
-["series", ["Austin & Ally"], ["2011", "2016"], [["2023 04 15", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching", "ongoing"], ["Kevin Kopelow"], ["Ross Lynch", "Laura Marano"], "https://64.media.tumblr.com/0249a6d48c116caefed14e41f349aa70/8adb5822370b19f8-6a/s250x400/47d63a62a3ab6688747543262a0a741bd606e2fc.jpg"]
+["series", ["Austin & Ally"], ["2011", "2016"], [["2023 04 15", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching", "ongoing"], ["Kevin Kopelow"], ["Ross Lynch", "Laura Marano"], "https://64.media.tumblr.com/0249a6d48c116caefed14e41f349aa70/8adb5822370b19f8-6a/s250x400/47d63a62a3ab6688747543262a0a741bd606e2fc.jpg"],
+
+["film", ["Glass Onion", "Glass Onion: A Knives Out Mystery"], "2022", ["2023 04 15"], 8, ["ger"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Edward Norton", "Kathryn Hahn", "Leslie Odom Jr.", "Kate Hudson", "Dave Bautista", "Jessica Henwick", "Hugh Grant", "Natasha Lyonne"], "https://64.media.tumblr.com/551fd9a459d760e2d7b577b91e8fcf8b/927f9c1c53016ba6-6d/s250x400/fb15789ba0a974bf3fe28d038031c1070b5b52b6.jpg"]
 
 /*
 ,
