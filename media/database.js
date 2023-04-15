@@ -392,7 +392,7 @@ var database = [
 	        
 ["series", ["Anne", "Anne with an E"], ["2017", "2019"], [["2018 06 28", "2018 07 16", "S1 - S2"], ["2019 05 07", "2019 05 22", "S1"], ["2019 05 25", "2019 05 29", "S2"], ["2020 01 03", "2020 01 13", "S3"]], 9, ["ger"], ["drama"], [], ["Anne", "Netflix", "fav"], ["Moira Walley-Beckett"], ["Amybeth McNulty", "Dalila Bela", "Kyla Matthews", "Lucas Jade Zumann", "Jonathan Holmes"], "https://66.media.tumblr.com/8266f1a5adb1b67ecbef6aa92fe0c973/4e7bf0fc5f10f7cc-29/s250x400/3b065f5a3c31379d01b763d7c2c281f9bbb6d233.jpg"],
 	        
-["series", ["Chilling Adventures of Sabrina"], ["2018", "2020"], [["2018 10 29", "2018 11 12", "S1"], ["2019 09 18", "2019 12 23", "S2"]], 0, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Roberto Aguirre-Sacasa"], ["Kiernan Shipka", "Spencer Treat Clark", "Miranda Otto", "Heather Doerksen", "Kayla Deorksen"], "https://66.media.tumblr.com/b25e392bd773de76617cb1a05dbcb3af/eac2f8bae7a8a303-ae/s250x400/6a012fa79493463d7cb66fa8677db31bb14d19a5.jpg"],
+["series", ["Chilling Adventures of Sabrina"], ["2018", "2020"], [["2018 10 29", "2018 11 12", "S1"], ["2019 09 18", "2019 12 23", "S2"]], 0, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Roberto Aguirre-Sacasa"], ["Kiernan Shipka", "Spencer Treat Clark", "Miranda Otto", "Heather Doerksen", "Kayla Deorksen", "Ross Lynch"], "https://66.media.tumblr.com/b25e392bd773de76617cb1a05dbcb3af/eac2f8bae7a8a303-ae/s250x400/6a012fa79493463d7cb66fa8677db31bb14d19a5.jpg"],
 	        
 ["series", ["You", "You: Du wirst mich lieben"], "2018", [["2019 01 01", "2019 01 03", "S1"], ["2019 12 26", "2020 01 03", "S2"], ["2020 10 23", "2020 11 14", "S1"], ["2020 11 16", "2020 12 01", "S2E1-S2E2"]], 8, ["ger"], ["crime", "drama"], ["syl", "bini"], ["Netflix"], ["Sera Gamble", "Greg Berlanti"], ["Victoria Pedretti", "Jenna Ortega", "Ayelet Zurer", "Zach Cherry"], "https://66.media.tumblr.com/11e496a30095a63ee91bc61b20404387/86460cd1faf80a44-80/s250x400/d76521b06d1eaed24cbe0ecb36c15a3d1991b669.jpg"],
 	        
@@ -672,7 +672,7 @@ var database = [
 	        
 ["film", ["6 Underground"], "2019", ["2020 01 31"], 5, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Michael Bay"], ["Ryan Reynolds", "Mélanie Laurent", "Dave Franco"], "https://66.media.tumblr.com/b53a443d88cf76f081441443502fe8f8/3d806c3e2fe172ec-4b/s250x400/9f93adcda729ae4e9e48bda869f3df541d6b574f.jpg"],
 	        
-["film", ["The Family", "Malavita - The Family"], "2013", ["2020 01 29"], 9, ["ger"], ["comedy", "crime"], [], ["Netflix", "bby"], ["Luc Besson"], ["Robert De Niro", "Michelle Pfeiffer", "Dianna Agron", "Tommy Lee Jones", "Moussa Maaskri", "Mario Pecqueur"], "https://66.media.tumblr.com/0f27115fbd083328a3f6e526d5e1fc83/4c3103e169298be5-3e/s250x400/2e76361e8f5b723c2ca95e545e3de3bd0a1790af.jpg"],
+["film", ["The Family", "Malavita - The Family"], "2013", ["2020 01 29", "2023 04 14"], 9, ["ger", "eng"], ["comedy", "crime"], [], ["Netflix", "bby"], ["Luc Besson"], ["Robert De Niro", "Michelle Pfeiffer", "Dianna Agron", "Tommy Lee Jones", "Moussa Maaskri", "Mario Pecqueur"], "https://66.media.tumblr.com/0f27115fbd083328a3f6e526d5e1fc83/4c3103e169298be5-3e/s250x400/2e76361e8f5b723c2ca95e545e3de3bd0a1790af.jpg"],
 	        
 ["film", ["Valerian and the City of a Thousand Planets", "Valerian - Die Stadt der tausend Planeten"], "2017", ["2020 01 11"], 5, ["ger"], ["action", "adventure"], ["syl", "bini"], [], ["Luc Besson"], ["Dane DeHaan", "Cara Delevingne", "Rihanna", "Elizabeth Debicki", "Sasha Luss"], "https://66.media.tumblr.com/a9e37d9528bdba8e52ffc5c16e48f5db/8db875a518a406bf-42/s250x400/c5de1b90dccfef805a15029062c1608c94f99b06.jpg"],
 	        
@@ -2591,7 +2591,11 @@ var database = [
 
 ["series", ["Nomad: Megalo Box 2", "Nomad: Megalo Box 2", "Megalobox 2: Nomad"], "2021", [["2023 04 10", "", "S1"]], 0, ["jap"], ["anime", "sci-fi", "sport"], ["bini", "nico"], ["watching"], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/824832ae5eabffaa1154e1dc17d27cf2/6371363194eaf1e4-52/s250x400/0fd3a35d6942252a1eb9182a538c06cbc7b58884.jpg"],
 
-["series", ["Good Trouble"], ["2019", ""], [["2023 04 11", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing"], ["Bradley Bredeweg"], ["Maia Mitchell"], "https://64.media.tumblr.com/0e38206405116a7ca78e4b60d604c759/f9470cde4701d11b-11/s250x400/8264cf3362203ff2ae9140c93c430affc574749c.jpg"]
+["series", ["Good Trouble"], ["2019", ""], [["2023 04 11", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing", "watching"], ["Bradley Bredeweg"], ["Maia Mitchell"], "https://64.media.tumblr.com/0e38206405116a7ca78e4b60d604c759/f9470cde4701d11b-11/s250x400/8264cf3362203ff2ae9140c93c430affc574749c.jpg"],
+
+["film", ["Girl, Interrupted", "Durchgeknallt"], "1999", ["2023 04 14"], 0, ["ger"], ["biography", "drama"], [], ["Netflix"], ["James Mangold"], ["Winona Ryder", "Angelina Jolie", "Brittany Murphy", "Whoopi Goldberg"], "https://64.media.tumblr.com/d6fa8cee8e6c7b80b4a4f3caf0e1331d/e2edf5e0b0002cb1-8f/s250x400/a4ad524a5937b6e718b61c4d6b9e180851e546b0.jpg"],
+
+["series", ["Austin & Ally"], ["2011", "2016"], [["2023 04 15", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching", "ongoing"], ["Kevin Kopelow"], ["Ross Lynch", "Laura Marano"], "https://64.media.tumblr.com/0249a6d48c116caefed14e41f349aa70/8adb5822370b19f8-6a/s250x400/47d63a62a3ab6688747543262a0a741bd606e2fc.jpg"]
 
 /*
 ,
