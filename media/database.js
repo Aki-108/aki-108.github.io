@@ -2597,8 +2597,9 @@ var database = [
 
 ["series", ["Austin & Ally"], ["2011", "2016"], [["2023 04 15", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching", "ongoing"], ["Kevin Kopelow"], ["Ross Lynch", "Laura Marano"], "https://64.media.tumblr.com/0249a6d48c116caefed14e41f349aa70/8adb5822370b19f8-6a/s250x400/47d63a62a3ab6688747543262a0a741bd606e2fc.jpg"],
 
-["film", ["Glass Onion", "Glass Onion: A Knives Out Mystery"], "2022", ["2023 04 15"], 8, ["ger"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Edward Norton", "Kathryn Hahn", "Leslie Odom Jr.", "Kate Hudson", "Dave Bautista", "Jessica Henwick", "Hugh Grant", "Natasha Lyonne"], "https://64.media.tumblr.com/551fd9a459d760e2d7b577b91e8fcf8b/927f9c1c53016ba6-6d/s250x400/fb15789ba0a974bf3fe28d038031c1070b5b52b6.jpg"]
+["film", ["Glass Onion", "Glass Onion: A Knives Out Mystery"], "2022", ["2023 04 15"], 8, ["ger"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Edward Norton", "Kathryn Hahn", "Leslie Odom Jr.", "Kate Hudson", "Dave Bautista", "Jessica Henwick", "Hugh Grant", "Natasha Lyonne"], "https://64.media.tumblr.com/551fd9a459d760e2d7b577b91e8fcf8b/927f9c1c53016ba6-6d/s250x400/fb15789ba0a974bf3fe28d038031c1070b5b52b6.jpg"],
 
+["audiobook", ["Die Drei ???: Manuskript des Satans"], "2022", [["2023 04 16", ""]], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Spotify", "watching"], ["Hendrik Buchna"], [], "https://64.media.tumblr.com/d2ef2dd650388a86a9e5c7881bf2bdbe/60aa32ae7fdb8b6f-ab/s250x400/992103200b2c6ed51ad85d95dd43517ce0bbf4fe.jpg"]
 /*
 ,
 
