@@ -2577,9 +2577,9 @@ var database = [
 
 ["film", ["Sightless"], "2020", ["2023 04 02"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Cooper Karl"], [], "https://64.media.tumblr.com/bb4df154c6aef1f9080f8c1616897329/c33462af5acdec77-fb/s250x400/14fb522683c4a4ecf9f726db78ce4e78c053d949.jpg"],
 
-["series", ["Megalo Box", "Megalo Box", "Megaro bokusu: Megalo Box"], ["2018", ""], [["2023 04 03", "S1E9-E13"]], 0, ["ger"], ["anime", "action"], ["bini", "nico"], [], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/3d042c142db025fd0eface0645ae615e/0ffd053bc7f14c8a-e1/s250x400/2f58538cc1038186b8f7d57e7db35df18f740764.jpg"],
+["series", ["Megalo Box", "Megalo Box", "Megaro bokusu: Megalo Box"], ["2018"], [["2023 04 03", "S1E9-E13"]], 0, ["ger"], ["anime", "action"], ["bini", "nico"], [], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/3d042c142db025fd0eface0645ae615e/0ffd053bc7f14c8a-e1/s250x400/2f58538cc1038186b8f7d57e7db35df18f740764.jpg"],
 
-["series", ["Bocchi the Rock!"], "2022", [["2023 04 05", "", "S1"]], 0, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["watching"], ["Aki Hamaji", "Erika Yoshida"], [], "https://64.media.tumblr.com/d50e36c1ed2a7e4748f7b6f1ff7ec02f/a18455bd23bf84c6-b3/s250x400/a5eb1d6faac41b905a9c1c1391dd8bc702fcf11e.jpg"],
+["series", ["Bocchi the Rock!"], "2022", [["2023 04 05", "2023 04 19", "S1"]], 7, ["jap"], ["anime", "comedy"], ["bini", "nico"], [], ["Aki Hamaji", "Erika Yoshida"], [], "https://64.media.tumblr.com/d50e36c1ed2a7e4748f7b6f1ff7ec02f/a18455bd23bf84c6-b3/s250x400/a5eb1d6faac41b905a9c1c1391dd8bc702fcf11e.jpg"],
 
 ["film", ["Whiplash"], "2014", ["2023 04 06"], 8, ["ger"], ["drama", "music"], [], ["Netflix"], ["Damien Chazelle"], ["Miles Teller", "J.K. Simmons", "Paul Reiser", "Melissa Benoist"], "https://64.media.tumblr.com/8195d31808920e07b61a81e25df4ec10/007f98966148ec20-c4/s250x400/7fd9bc716a1c7474c5a8b0e889cf50b828ef817a.jpg"],
 
@@ -2589,7 +2589,7 @@ var database = [
 
 ["series", ["Detective Conan: The Culprit Hanzawa"], ["2022", "2023"], [["2023 04 10", "S1"]], 6, ["ger"], ["anime", "comedy"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/aad231c9b45abb0a014953fd3c275f87/5d03a01561d14209-ef/s250x400/42a46b1baa1ee41e92a68853b4d34c6de64ab69b.jpg"],
 
-["series", ["Nomad: Megalo Box 2", "Nomad: Megalo Box 2", "Megalobox 2: Nomad"], "2021", [["2023 04 10", "", "S1"]], 0, ["jap"], ["anime", "sci-fi", "sport"], ["bini", "nico"], ["watching"], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/824832ae5eabffaa1154e1dc17d27cf2/6371363194eaf1e4-52/s250x400/0fd3a35d6942252a1eb9182a538c06cbc7b58884.jpg"],
+["series", ["Nomad: Megalo Box 2", "Nomad: Megalo Box 2", "Megalobox 2: Nomad"], "2021", [["2023 04 10", "2023 04 19", "S1"]], 0, ["jap"], ["anime", "sci-fi", "sport"], ["bini", "nico"], [], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/824832ae5eabffaa1154e1dc17d27cf2/6371363194eaf1e4-52/s250x400/0fd3a35d6942252a1eb9182a538c06cbc7b58884.jpg"],
 
 ["series", ["Good Trouble"], ["2019", ""], [["2023 04 11", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing", "watching"], ["Bradley Bredeweg"], ["Maia Mitchell"], "https://64.media.tumblr.com/0e38206405116a7ca78e4b60d604c759/f9470cde4701d11b-11/s250x400/8264cf3362203ff2ae9140c93c430affc574749c.jpg"],
 
