@@ -1502,9 +1502,9 @@ var database = [
 	        
 ["film", ["Attack on Titan Part 1", "Attack on Titan - Film 1", "Shingeki no kyojin"], "2015", ["2017 06 18"], 3, ["ger"], ["action", "adventure"], ["bini", "sai", "nico"], ["Attack on Titan"], ["Shinji Higuchi"], [], "https://66.media.tumblr.com/28637a05483a4ba3afcb3fa1bb4686de/tumblr_ppuvhvjDCI1v2s5upo1_250.jpg"],
 	        
-["film", ["The Three Investigators and the Secret of Skeleton Island", "Die drei ??? - Das Geheimnis der Geisterinsel"], "2007", ["2017 08 20", ["2022 09 22", "2022 09 23"]], 6, ["ger"], ["adventure", "family"], ["bini", "syl", "je"], ["Die Drei ???", "bibliothek"], ["Florian Baxmeyer"], [], "https://66.media.tumblr.com/7545efb0d0d18a27af7cc8f6deac9754/tumblr_pxrg1vlgSh1v2s5upo1_250.jpg"],
+["film", ["The Three Investigators and the Secret of Skeleton Island", "Die drei ??? - Das Geheimnis der Geisterinsel"], "2007", ["2017 08 20", ["2022 09 22", "2022 09 23"]], 6, ["ger"], ["adventure", "family"], ["bini", "syl", "je"], ["Die drei ???", "bibliothek"], ["Florian Baxmeyer"], [], "https://66.media.tumblr.com/7545efb0d0d18a27af7cc8f6deac9754/tumblr_pxrg1vlgSh1v2s5upo1_250.jpg"],
 	        
-["film", ["The Three Investigators and the Secret of Terror Castle", "Die drei ??? - Das verfluchte Schloss"], "2009", ["2017 08 21", "2022 10 01"], 6, ["ger"], ["adventure", "family"], ["bini", "syl"], ["Die Drei ???", "bibliothek"], ["Florian Baxmeyer"], [], "https://66.media.tumblr.com/a7946d483045d65949db9904cd1ba015/tumblr_pxrg81cI4y1v2s5upo1_250.jpg"],
+["film", ["The Three Investigators and the Secret of Terror Castle", "Die drei ??? - Das verfluchte Schloss"], "2009", ["2017 08 21", "2022 10 01"], 6, ["ger"], ["adventure", "family"], ["bini", "syl"], ["Die drei ???", "bibliothek"], ["Florian Baxmeyer"], [], "https://66.media.tumblr.com/a7946d483045d65949db9904cd1ba015/tumblr_pxrg81cI4y1v2s5upo1_250.jpg"],
 	        
 ["film", ["Hilfe, wir sind offline!"], "2016", ["2017 10 23"], 5, ["ger"], ["comedy"], [], [], ["Ingo Rasper"], [], "https://66.media.tumblr.com/6aa4e7b05a285f119e0e2599dd9f0312/462a8354759e7b65-f8/s250x400/a69ee17be24929225689f8d9df7a6c462ece598a.jpg"],
 	        
@@ -1854,7 +1854,7 @@ var database = [
 
 ["film", ["Angels & Demons", "Illuminati"], "2009", [["2021 07 11", "2021 07 12"]], 7, ["ger"], ["action", "mystery"], ["bini", "syl"], [], ["Ron Howard"], ["Tom Hanks", "Ewan McGregor", "Ayelet Zurer", "Stellan Skarsgård", "Pierfrancesco Favino", "Ciara Bravo"], "https://64.media.tumblr.com/6d5ad7eaa200afddf3152e4d1e6da853/794a82b0ae61d259-02/s250x400/43baf53018cd2e2ca084f3f4584489f83fb5403b.jpg"],
 
-["film", ["Inferno"], "2016", [["2021 07 18", "2021 07 19"]], 6, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Netflix"], ["Ron Howard"], ["Tom Hanks", "Felicity Jones", "Omar Sy", "Irrfan Khan", "Ben Foster"], "https://64.media.tumblr.com/cf1cd3ca332f2a1e37e15b5a56a14d45/b97c74f4bcba63a8-d5/s250x400/6de6fb6b9d229eec1032e3835ea7fccf16be7381.jpg"],
+["film", ["Inferno"], "2016", [["2021 07 18", "2021 07 19"], "2023 04 22"], 6, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Netflix"], ["Ron Howard"], ["Tom Hanks", "Felicity Jones", "Omar Sy", "Irrfan Khan", "Ben Foster"], "https://64.media.tumblr.com/cf1cd3ca332f2a1e37e15b5a56a14d45/b97c74f4bcba63a8-d5/s250x400/6de6fb6b9d229eec1032e3835ea7fccf16be7381.jpg"],
 
 ["series", ["Mushishi"], ["2005", "2006"], [["2021 07 20", "2021 07 27", "S1E17-S1E26"]], 7, ["jap"], ["anime", "drama"], ["bini", "nico"], ["Mushishi"], ["John Burgmeier", "Yuki Urushibara", "Mike McFarland"], [], "https://64.media.tumblr.com/57aa60c9b5700e3070d07ec1cad9b6eb/910be819886934da-9c/s250x400/765f70bf5c01ac59687416ee697f2de7f9bd925b.jpg"],
 
@@ -2209,7 +2209,7 @@ var database = [
 
 ["series", ["Ella Schön"], ["2018", ""], [["2022 04 24", "S5E1"]], 6, ["ger"], ["comedy", "drama"], ["syl", "je"], ["ongoing"], ["Simon X. Rost", "Simon X. Rost", "Elke Rössler"], ["Annette Frier"], "https://64.media.tumblr.com/46fc5587af74ddb4f79f0f9dc338e24e/f048541a454c5bad-55/s250x400/46e7350ead1d9e1716c2db6598497e40fb038e27.jpg"],
 
-["book", ["Die drei ??? Kids 7: Gruft der Piraten"], "2000", [["2022 04 25", "2022 05 01"]], 7, ["ger"], [], [], ["Die Drei ???", "bibliothek"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/76b1f777dfc0fb89c5ad8c53586721e1/8d07670ca5b77157-68/s250x400/8f912755974d94d3b791d6c40d746c044071c4fb.jpg"],
+["book", ["Die drei ??? Kids 7: Gruft der Piraten"], "2000", [["2022 04 25", "2022 05 01"]], 7, ["ger"], [], [], ["Die drei ???", "bibliothek"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/76b1f777dfc0fb89c5ad8c53586721e1/8d07670ca5b77157-68/s250x400/8f912755974d94d3b791d6c40d746c044071c4fb.jpg"],
 
 ["film", ["Slumdog Millionaire", "Slumdog Millionär"], "2008", ["2022 04 28"], 0, ["ger"], ["drama", "romance"], [], [], ["Danny Boyle", "Loveleen Tandan"], ["Dev Patel", "Irrfan Khan"], "https://64.media.tumblr.com/8492f47674370ff6d2b90f3c7d0d52b7/8968561d519a3d9b-2d/s250x400/faecb34b9870ccb5fac446f8c79a130ef96150a8.jpg"],
 
@@ -2519,7 +2519,7 @@ var database = [
 
 ["film", ["Anna"], "2019", ["2023 02 12"], 6, ["ger"], ["action"], [], ["Netflix"], ["Luc Besson"], ["Sasha Luss", "Luke Evans", "Cillian Murphy"], "https://64.media.tumblr.com/efb03aa08974b6ffcedc57e45e925de5/08a27c0b18a0101c-c2/s250x400/4039f426b13f9db327b357ffd38643afb4303528.jpg"],
 
-["film", ["Die Drei ??? - Erbe des Drachen"], "2023", ["2023 02 12"], 6, ["ger"], ["adventure", "family"], ["bini", "syl", "je"], ["Kino", "Die Drei ???"], ["Tim Dünschede"], ["Gedeon Burkhard", "Florian Lukas", "Jördis Triebel", "Nevio Wendt"], "https://64.media.tumblr.com/5969b85eae3e6a9595db20cffd59992d/4dc2c025a2d9f5e9-c3/s250x400/e84750a16b1594ba2b46af757afcda2daec632ed.jpg"],
+["film", ["Die Drei ??? - Erbe des Drachen"], "2023", ["2023 02 12"], 6, ["ger"], ["adventure", "family"], ["bini", "syl", "je"], ["Kino", "Die drei ???"], ["Tim Dünschede"], ["Gedeon Burkhard", "Florian Lukas", "Jördis Triebel", "Nevio Wendt"], "https://64.media.tumblr.com/5969b85eae3e6a9595db20cffd59992d/4dc2c025a2d9f5e9-c3/s250x400/e84750a16b1594ba2b46af757afcda2daec632ed.jpg"],
 
 ["series", ["Extraordinary"], ["2023", ""], [["2023 02 18", "S1"]], 7, ["ger"], ["comedy", "fantasy"], [], ["Disney+"], ["Emma Moran"], [], "https://64.media.tumblr.com/ef8c670c289e53fd3e9be48d62061457/c7133c0b2e95cfc8-7a/s250x400/6d8017359b3a3f6d22040c33c646a759acffbd65.jpg"],
 
@@ -2573,7 +2573,7 @@ var database = [
 
 ["film", ["Ivy & Bean"], "2022", ["2023 04 02"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Elissa Down"], [], "https://64.media.tumblr.com/17ed89cba91cae1d88389b8311ea2d23/453ec9efd973dfe5-42/s250x400/ff63e6a87d7b8544262a75b6685d7a0d831c735e.jpg"],
 
-["audiobook", ["Die drei ??? Kids: Gefahr im Spiegelkabinett"], "2023", [["2023 04 02", "2023 04 10"]], 0, ["ger"], [], ["bini", "syl", "je"], ["Spotify"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/8389b5ee49c19e10834ce3953ad40d8d/0cf762a2dd565abb-a4/s250x400/350ed18a84139ef38c5f464db4f6b47e9070dd98.jpg"],
+["audiobook", ["Die drei ??? Kids 91: Gefahr im Spiegelkabinett"], "2023", [["2023 04 02", "2023 04 10"]], 0, ["ger"], [], ["bini", "syl", "je"], ["Spotify", "Die drei ???"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/8389b5ee49c19e10834ce3953ad40d8d/0cf762a2dd565abb-a4/s250x400/350ed18a84139ef38c5f464db4f6b47e9070dd98.jpg"],
 
 ["film", ["Sightless"], "2020", ["2023 04 02"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Cooper Karl"], [], "https://64.media.tumblr.com/bb4df154c6aef1f9080f8c1616897329/c33462af5acdec77-fb/s250x400/14fb522683c4a4ecf9f726db78ce4e78c053d949.jpg"],
 
@@ -2599,7 +2599,12 @@ var database = [
 
 ["film", ["Glass Onion", "Glass Onion: A Knives Out Mystery"], "2022", ["2023 04 15"], 8, ["ger"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Edward Norton", "Kathryn Hahn", "Leslie Odom Jr.", "Kate Hudson", "Dave Bautista", "Jessica Henwick", "Hugh Grant", "Natasha Lyonne"], "https://64.media.tumblr.com/551fd9a459d760e2d7b577b91e8fcf8b/927f9c1c53016ba6-6d/s250x400/fb15789ba0a974bf3fe28d038031c1070b5b52b6.jpg"],
 
-["audiobook", ["Die Drei ???: Manuskript des Satans"], "2022", [["2023 04 16", ""]], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Spotify", "watching"], ["Hendrik Buchna"], [], "https://64.media.tumblr.com/d2ef2dd650388a86a9e5c7881bf2bdbe/60aa32ae7fdb8b6f-ab/s250x400/992103200b2c6ed51ad85d95dd43517ce0bbf4fe.jpg"]
+["audiobook", ["Die drei ??? 221: Manuskript des Satans"], "2022", [["2023 04 16", ""]], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Spotify", "watching", "Die drei ???"], ["Hendrik Buchna"], [], "https://64.media.tumblr.com/d2ef2dd650388a86a9e5c7881bf2bdbe/60aa32ae7fdb8b6f-ab/s250x400/992103200b2c6ed51ad85d95dd43517ce0bbf4fe.jpg"],
+
+["audiobook", ["Die drei ??? Kids 23: Feuer in Rocky Beach"], "2009", ["2023 04 22"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Die drei ???"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/82bd5cf7d122e03315d9f22e739f85b6/94c4e8e48e64ca28-97/s250x400/eb4440c121233147c18ec470a920c995488dc14d.jpg"],
+
+["audiobook", ["Eine Stimme für den Tod"], "2021", [["2023 04 22", "2023 04 24"]], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/a6be2a52f30fcb3535389d76d06118a1/5a91df9091a5e415-1b/s250x400/5a4385c7c3efeef8a5c42dbb93265dabe675e8da.jpg"]
+
 /*
 ,
 
