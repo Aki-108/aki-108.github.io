@@ -1442,7 +1442,7 @@ var database = [
 	        
 ["film", ["Rock of Ages"], "2012", ["2016 05 29"], 4, ["ger"], ["comedy", "drama"], [], [], ["Adam Shankman"], ["Russell Brand", "Alec Baldwin", "Bryan Cranston", "Tom Cruise", "T.J. Miller", "Julianne Hough"], "https://68.media.tumblr.com/ade55257d8a736975114a26a1c4ba3a4/tumblr_o7xsn9n5XC1v2s5upo1_250.jpg"],
 	        
-["film", ["Paranoia", "Paranoia - Riskantes Spiel"], "2013", ["2016 05 28"], 5, ["ger"], ["drama", "thriller"], [], [], ["Robert Luketic"], ["Liam Hemsworth", "Gary Oldman", "Harrison Ford", "Josh Holloway", "Angela Sarafyan"], "https://66.media.tumblr.com/8f905afb816032aacf9c357539a0d5c6/tumblr_o7whiospqw1v2s5upo1_250.jpg"],
+["film", ["Paranoia", "Paranoia - Riskantes Spiel"], "2013", ["2016 05 28"], 5, ["ger"], ["drama", "thriller"], [], [], ["Robert Luketic"], ["Liam Hemsworth", "Gary Oldman", "Harrison Ford", "Josh Holloway", "Angela Sarafyan", "Amber Heard"], "https://66.media.tumblr.com/8f905afb816032aacf9c357539a0d5c6/tumblr_o7whiospqw1v2s5upo1_250.jpg"],
 	        
 ["film", ["Elysium"], "2013", ["2016 05 27"], 7, ["ger"], ["action", "drama"], [], [], ["Neill Blomkamp"], ["Matt Damon", "Jodie Foster", "Alice Braga"], "https://66.media.tumblr.com/17faa8ffb2d7c9f8a3cdfd6ac87ff25b/tumblr_o7urf54ndb1v2s5upo1_250.jpg"],
 	        
@@ -2603,7 +2603,11 @@ var database = [
 
 ["audiobook", ["Die drei ??? Kids 23: Feuer in Rocky Beach"], "2009", ["2023 04 22"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Die drei ???"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/82bd5cf7d122e03315d9f22e739f85b6/94c4e8e48e64ca28-97/s250x400/eb4440c121233147c18ec470a920c995488dc14d.jpg"],
 
-["audiobook", ["Eine Stimme für den Tod"], "2021", [["2023 04 22", "2023 04 24"]], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/a6be2a52f30fcb3535389d76d06118a1/5a91df9091a5e415-1b/s250x400/5a4385c7c3efeef8a5c42dbb93265dabe675e8da.jpg"]
+["audiobook", ["Eine Stimme für den Tod"], "2021", [["2023 04 22", "2023 04 24"]], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/a6be2a52f30fcb3535389d76d06118a1/5a91df9091a5e415-1b/s250x400/5a4385c7c3efeef8a5c42dbb93265dabe675e8da.jpg"],
+
+["film", ["Aquaman"], "2018", ["2023 04 23"], 4, ["ger"], ["action", "adventure"], ["bini", "je"], [], ["James Wan"], ["Jason Momoa", "Amber Heard", "Willem Dafoe", "Nicole Kidman", "Yahya Abdul-Mateen II"], "https://64.media.tumblr.com/86a1dade50305e323eb28211870af226/84cb510690d7d89b-90/s250x400/f2c5b16dd26d83de668b82c9420352eadfd57930.jpg"],
+
+["audiobook", ["Die drei ??? Kids 1: Panik im Paradies"], "2009", ["2023 04 29"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Die drei ???"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/4a7db1fd1ddf5a5a5878e227ad3f35c3/af17798e2f4ebb84-78/s250x400/f45430b9813cdadbbc51991eebaf57e2484544ab.jpg"]
 
 /*
 ,
