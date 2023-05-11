@@ -2611,7 +2611,7 @@ var database = [
 
 ["series", ["Final Space"], ["2018", "2021"], [["2023 05 02", "2023 05 08", "S1"]], 7, ["ger"], ["animation", "action"], ["bini", "nico"], ["Netflix", "watching"], ["Olan Rogers"], [], "https://64.media.tumblr.com/c578a4deff97dcf3e3fd8b6c002abb8c/503d75b293ac7774-34/s250x400/7eddf25a9532a9fb1bdbbc2db6732f487ea547db.jpg"],
 
-["audiobook", ["Gerade war der Himmel noch blau"], "2017", [["2023 05 02", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Florian Illies"], ["Ulrich Noethen"], "https://64.media.tumblr.com/d543531beabd7144d6d3939395c96826/ebc9b1915ba7d171-b7/s400x600/30a124f1048cf49dcd91a907d100f2bb9a22717f.jpg"],
+["audiobook", ["Gerade war der Himmel noch blau"], "2017", [["2023 05 02", "2023 05 10"]], 7, ["ger"], [], [], ["bibliothek"], ["Florian Illies"], ["Ulrich Noethen"], "https://64.media.tumblr.com/d543531beabd7144d6d3939395c96826/ebc9b1915ba7d171-b7/s400x600/30a124f1048cf49dcd91a907d100f2bb9a22717f.jpg"],
 
 ["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"]], 5, ["ger"], ["crime", "family"], [], ["ongoing"], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
 
@@ -2621,7 +2621,9 @@ var database = [
 
 ["film", ["Circle", "Der Kreis"], "2015", ["2023 05 07"], 5, ["eng"], ["drama", "horror"], [], ["Netflix"], ["Aaron Hann", "Mario Miscione"], [], "https://64.media.tumblr.com/7335df07f4b2a1e0d2eb7656c8d2a6cc/ae837cc238c60c8d-66/s250x400/b303629c7b2a9b77f204d9b95b0a012f2b657af2.jpg"],
 
-["book", ["Humble Pi: A Comedy of Maths Errors", "Damit hatte keiner gerechnet! Die größten Mathe-Irrtümer der Menschheit"], "2019", [["2023 05 08", ""]], 0, ["ger"], ["nonfiction", "science", "comedy"], [], ["bibliothek", "watching"], ["Matt Parker"], [], "https://64.media.tumblr.com/87186c514b35c0bd70a4ef3ca4e88b6c/ad9474a7586d88d3-d3/s250x400/2cce4423903d7735db2e43f672e6a791ea91abf6.jpg"]
+["book", ["Humble Pi: A Comedy of Maths Errors", "Damit hatte keiner gerechnet! Die größten Mathe-Irrtümer der Menschheit"], "2019", [["2023 05 08", ""]], 0, ["ger"], ["nonfiction", "science", "comedy"], [], ["bibliothek", "watching"], ["Matt Parker"], [], "https://64.media.tumblr.com/87186c514b35c0bd70a4ef3ca4e88b6c/ad9474a7586d88d3-d3/s250x400/2cce4423903d7735db2e43f672e6a791ea91abf6.jpg"],
+
+["audiobook", ["Die Welt der Fabelwesen"], "2018", [["2023 05 11", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Frank Schwieger"], ["Peter Kaempfe"], "https://64.media.tumblr.com/fc05373d2719aaddbcb2e73ad8e61ec0/a106fb3f6019c257-b3/s250x400/8479a2f4677f4b3f2e7595cca589b6d7507edb0c.jpg"]
 
 /*
 ,
