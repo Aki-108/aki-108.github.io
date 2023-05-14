@@ -842,7 +842,7 @@ var database = [
 	        
 ["film", ["Bibi Blocksberg and the Secret of the Blue Owls", "Bibi Blocksberg und das Geheimnis der blauen Eulen"], "2004", ["2016 11 10", "2018 03 10", "2022 07 14"], 7, ["ger"], ["family", "fantasy"], ["bini"], ["Bibi Blocksberg", "Disney+"], ["Franziska Buch"], ["Sidonie von Krosigk", "Frederick Lau", "Katja Riemann"], "https://68.media.tumblr.com/a0de0fa678d6e81a7567b271f3e67b31/tumblr_ogjsiuLQPR1v2s5upo1_250.jpg"],
 	        
-["film", ["Kim Possible: So the Drama", "Kim Possible - Der Film: Invasion der Roboter"], "2005", ["2016 11 03"], 7, ["ger"], ["animation", "action"], [], [], ["Steve Loter"], [], "https://68.media.tumblr.com/e388d46edd65dc4d4a03f6f017c69e6f/tumblr_og4nw3DkbE1v2s5upo1_250.jpg"],
+["film", ["Kim Possible: So the Drama", "Kim Possible - Der Film: Invasion der Roboter"], "2005", ["2016 11 03", "2023 05 14"], 7, ["ger"], ["animation", "action"], ["Disney+"], ["bini", "nico"], ["Steve Loter"], [], "https://68.media.tumblr.com/e388d46edd65dc4d4a03f6f017c69e6f/tumblr_og4nw3DkbE1v2s5upo1_250.jpg"],
 	        
 ["film", ["Mission: Impossible - Rogue Nation"], "2015", ["2016 10 22"], 8, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["Christopher McQuarrie"], ["Tom Cruise", "Jeremy Renner", "Simon Pegg", "Alec Baldwin", "Rebecca Ferguson", "Hermione Corfield"], "https://66.media.tumblr.com/d6416db392a7792d623ee68bc37a9a36/tumblr_ofgql1ZojC1v2s5upo1_250.jpg"],
 	        
@@ -2515,7 +2515,7 @@ var database = [
 
 ["audiobook", ["Lord of the Rings: The Two Towers", "Herr der Ringe: Die zwei Türme"], "1954", [["2023 02 11", "2023 03 07"]], 8, ["ger"], ["fantasy", "adventure"], [], ["bibliothek", "Middle Earth"], ["J. R. R. Tolkien"], ["Gert Heidenreich"], "https://64.media.tumblr.com/31307e3563f717fbe1b764bef7e7e617/18d8e44138b72923-fc/s250x400/321d883ea056f22901788f23eb8a52b8548ed7b8.jpg"],
 
-["series", ["Lilo & Stitch: The Series", "Lilo & Stitch"], ["2003", "2006"], [["2023 02 12", "2023 04 16", "S1E1-E29"]], 5, ["ger"], ["animation", "action"], ["bini", "nico"], ["Disney+", "dropped", "Lilo & Stitch"], ["Dean DeBlois", "Chris Sanders", "Doug TenNapel"], [], "https://64.media.tumblr.com/d6fbdf35427c2b8b0f173e1767f6f490/1f66ac63513e592b-d7/s250x400/2e80d4291ef2b5764b6f75d9ff412ce8440c03e6.jpg"],
+["series", ["Lilo & Stitch: The Series", "Lilo & Stitch"], ["2003", "2006"], [["2023 02 12", "2023 04 16", "S1E1-E29"], ["2023 05 14", "S2E19 & E21"]], 5, ["ger"], ["animation", "action"], ["bini", "nico"], ["Disney+", "dropped", "Lilo & Stitch"], ["Dean DeBlois", "Chris Sanders", "Doug TenNapel"], [], "https://64.media.tumblr.com/d6fbdf35427c2b8b0f173e1767f6f490/1f66ac63513e592b-d7/s250x400/2e80d4291ef2b5764b6f75d9ff412ce8440c03e6.jpg"],
 
 ["film", ["Anna"], "2019", ["2023 02 12"], 6, ["ger"], ["action"], [], ["Netflix"], ["Luc Besson"], ["Sasha Luss", "Luke Evans", "Cillian Murphy"], "https://64.media.tumblr.com/efb03aa08974b6ffcedc57e45e925de5/08a27c0b18a0101c-c2/s250x400/4039f426b13f9db327b357ffd38643afb4303528.jpg"],
 
