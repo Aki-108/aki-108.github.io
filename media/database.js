@@ -2623,7 +2623,9 @@ var database = [
 
 ["book", ["Humble Pi: A Comedy of Maths Errors", "Damit hatte keiner gerechnet! Die größten Mathe-Irrtümer der Menschheit"], "2019", [["2023 05 08", ""]], 0, ["ger"], ["nonfiction", "science", "comedy"], [], ["bibliothek", "watching"], ["Matt Parker"], [], "https://64.media.tumblr.com/87186c514b35c0bd70a4ef3ca4e88b6c/ad9474a7586d88d3-d3/s250x400/2cce4423903d7735db2e43f672e6a791ea91abf6.jpg"],
 
-["audiobook", ["Die Welt der Fabelwesen"], "2018", [["2023 05 11", "2023 05 16"]], 7, ["ger"], [], [], ["bibliothek"], ["Frank Schwieger"], ["Peter Kaempfe"], "https://64.media.tumblr.com/fc05373d2719aaddbcb2e73ad8e61ec0/a106fb3f6019c257-b3/s250x400/8479a2f4677f4b3f2e7595cca589b6d7507edb0c.jpg"]
+["audiobook", ["Die Welt der Fabelwesen"], "2018", [["2023 05 11", "2023 05 16"]], 7, ["ger"], [], [], ["bibliothek"], ["Frank Schwieger"], ["Peter Kaempfe"], "https://64.media.tumblr.com/fc05373d2719aaddbcb2e73ad8e61ec0/a106fb3f6019c257-b3/s250x400/8479a2f4677f4b3f2e7595cca589b6d7507edb0c.jpg"],
+
+["film", ["Kung Fu Panda 3"], "2016", ["2023 05 18"], 7, ["ger"], ["animation", "action"], ["bini", "syl"], ["animation", "action"], ["Alessandro Carloni", "Jennifer Yuh Nelson"], [], "https://64.media.tumblr.com/91bdffc2a4f220c05ca47455fa65926a/febc9063cda12962-43/s250x400/4e1c3728c4c97eff1729d0898cda821c76a85974.jpg"]
 
 /*
 ,
