@@ -43,6 +43,8 @@ var idResults = 12;
 
 
 function init() {
+	document.getElementById("titleYears").innerHTML = "2015-" + new Date().getFullYear();
+	
 	if (window.location.host == "aki-108.github.io") {
 	    let url = window.location.search.substring(1);
 	    let q = "";
