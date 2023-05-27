@@ -2599,7 +2599,7 @@ var database = [
 
 ["film", ["Glass Onion", "Glass Onion: A Knives Out Mystery"], "2022", ["2023 04 15"], 8, ["ger"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Edward Norton", "Kathryn Hahn", "Leslie Odom Jr.", "Kate Hudson", "Dave Bautista", "Jessica Henwick", "Hugh Grant", "Natasha Lyonne"], "https://64.media.tumblr.com/551fd9a459d760e2d7b577b91e8fcf8b/927f9c1c53016ba6-6d/s250x400/fb15789ba0a974bf3fe28d038031c1070b5b52b6.jpg"],
 
-["audiobook", ["Die drei ??? 221: Manuskript des Satans"], "2022", [["2023 04 16", ""]], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Spotify", "watching", "Die drei ???"], ["Hendrik Buchna"], [], "https://64.media.tumblr.com/d2ef2dd650388a86a9e5c7881bf2bdbe/60aa32ae7fdb8b6f-ab/s250x400/992103200b2c6ed51ad85d95dd43517ce0bbf4fe.jpg"],
+["audiobook", ["Die drei ??? 221: Manuskript des Satans"], "2022", [["2023 04 16", "2023 05 27"]], 0, ["ger"], ["crime"], ["bini", "syl"], ["Spotify", "Die drei ???"], ["Hendrik Buchna"], [], "https://64.media.tumblr.com/d2ef2dd650388a86a9e5c7881bf2bdbe/60aa32ae7fdb8b6f-ab/s250x400/992103200b2c6ed51ad85d95dd43517ce0bbf4fe.jpg"],
 
 ["audiobook", ["Die drei ??? Kids 23: Feuer in Rocky Beach"], "2009", ["2023 04 22"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Die drei ???"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/82bd5cf7d122e03315d9f22e739f85b6/94c4e8e48e64ca28-97/s250x400/eb4440c121233147c18ec470a920c995488dc14d.jpg"],
 
