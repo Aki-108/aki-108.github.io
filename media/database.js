@@ -824,7 +824,7 @@ var database = [
 	        
 ["short", ["Fan-o-rama"], "2016", ["2016 12 23"], 6, ["eng"], ["sci-fi"], [], [], ["Dan Lanigan"], [], "https://68.media.tumblr.com/4f5f23e9d76dfad8e7b8c6a1992dd17d/tumblr_oinbx6wPvv1v2s5upo1_250.jpg"],
 	        
-["film", ["The Perfect Date"], "2019", ["2020 09 20"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Chris Nelson"], ["Noah Centineo", "Laura Marano", "Camila Mendes", "Joe Chrest"], "https://64.media.tumblr.com/8c9c6bca2102fdcc48f3c4d251507c81/90af1c41b99146f9-2a/s250x400/efd03e6ad8723bb8fc534f1cf9c021bcb3aad3a5.jpg"],
+["film", ["The Perfect Date"], "2019", ["2020 09 20"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Chris Nelson"], ["Noah Centineo", "Laura Marano", "Camila Mendes", "Joe Chrest", "Rhonda Johnson Dents"], "https://64.media.tumblr.com/8c9c6bca2102fdcc48f3c4d251507c81/90af1c41b99146f9-2a/s250x400/efd03e6ad8723bb8fc534f1cf9c021bcb3aad3a5.jpg"],
 	        
 ["film", ["Millennium Actress", "Millennium Actress", "Sennen joyû"], "2001", ["2016 12 13"], 8, ["ger"], ["anime", "drama"], [], [], ["Satoshi Kon"], [], "https://68.media.tumblr.com/9deb090d38f93a7093de537f463f7d6d/tumblr_oi6svhBI7j1v2s5upo1_250.jpg"],
 	        
@@ -2343,7 +2343,7 @@ var database = [
 
 ["film", ["Weathering With You", "Weathering With You - Das Mädchen, das die Sonne berührte", "Tenki no ko"], "2019", ["2022 08 02"], 7, ["ger"], ["anime", "drama"], ["bini", "nico"], ["Netflix"], ["Makoto Shinkai"], [], "https://64.media.tumblr.com/e6e1e85e1f5cc156bc0d9aac743f2b5d/ebd7bb6941348b39-54/s250x400/0d4ad9cfafaaade7bddc118598a88c9dec880be2.jpg"],
 
-["film", ["Fantastic Four"], "2015", ["2022 08 03"], 0, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Josh Trank", "Stephen E. Rivkin"], ["Miles Teller", "Michael B. Jordan", "Kate Mara", "Jamie Bell", "Tim Blake Nelson"], "https://64.media.tumblr.com/2f2f2c9ea8280921bc601d2548272953/4dcf1b234a9ba9c8-9d/s250x400/25cde492210a031331ef9907d74f89188f2b2eb1.jpg"],
+["film", ["Fantastic Four"], "2015", ["2022 08 03"], 0, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Josh Trank", "Stephen E. Rivkin"], ["Miles Teller", "Michael B. Jordan", "Kate Mara", "Jamie Bell", "Tim Blake Nelson", "Rhonda Johnson Dents"], "https://64.media.tumblr.com/2f2f2c9ea8280921bc601d2548272953/4dcf1b234a9ba9c8-9d/s250x400/25cde492210a031331ef9907d74f89188f2b2eb1.jpg"],
 
 ["film", ["The Gray Man"], "2022", ["2022 08 03"], 7, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Anthony Russo", "Joe Russo"], ["Ryan Gosling", "Chris Evans", "Jessica Henwick", "Ana de Armas"], "https://64.media.tumblr.com/fec6763ab3a8ce4a5296f538b2f4154f/2d214e5956d59396-b0/s250x400/07eb72e38047117024cce961ce8bbf039e578cdf.jpg"],
 
@@ -2627,7 +2627,9 @@ var database = [
 
 ["film", ["Kung Fu Panda 3"], "2016", ["2023 05 18"], 7, ["ger"], ["animation", "action"], ["bini", "syl"], ["animation", "action"], ["Alessandro Carloni", "Jennifer Yuh Nelson"], [], "https://64.media.tumblr.com/91bdffc2a4f220c05ca47455fa65926a/febc9063cda12962-43/s250x400/4e1c3728c4c97eff1729d0898cda821c76a85974.jpg"],
 
-["audiobook", ["Die Berlinreise"], "2014", [["2023 05 22", ""]], 0, ["ger"], ["biography"], [], ["bibliothek", "watching"], ["Hanns-Josef Ortheil"], ["Hanns-Josef Ortheil"], "https://64.media.tumblr.com/4c6e0bf573e6a6bab937ac4fe3eca469/e4b027c28509609b-a0/s250x400/1d29767e3ecb5525d557576020012d787ae59053.jpg"]
+["audiobook", ["Die Berlinreise"], "2014", [["2023 05 22", ""]], 0, ["ger"], ["biography"], [], ["bibliothek", "watching"], ["Hanns-Josef Ortheil"], ["Hanns-Josef Ortheil"], "https://64.media.tumblr.com/4c6e0bf573e6a6bab937ac4fe3eca469/e4b027c28509609b-a0/s250x400/1d29767e3ecb5525d557576020012d787ae59053.jpg"],
+
+["film", ["Renfield"], "2023", ["2023 05 27"], 7, ["ger"], ["comedy", "fantasy"], ["bini", "je"], ["Kino"], ["Chris McKay"], ["Nicholas Hoult", "Nicolas Cage", "Awkwafina", "Adrian Martinez", "Rhonda Johnson Dents"], "https://64.media.tumblr.com/7cad65ce904a305899b71d0f49318b5e/d120a5961e50fc0d-c5/s250x400/91c55c449da80b66c73be9e31c30c2d5b15613b8.jpg"]
 
 /*
 ,
