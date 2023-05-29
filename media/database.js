@@ -2609,7 +2609,7 @@ var database = [
 
 ["audiobook", ["Die drei ??? Kids 1: Panik im Paradies"], "2009", ["2023 04 29"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Die drei ???"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/4a7db1fd1ddf5a5a5878e227ad3f35c3/af17798e2f4ebb84-78/s250x400/f45430b9813cdadbbc51991eebaf57e2484544ab.jpg"],
 
-["series", ["Final Space"], ["2018", "2021"], [["2023 05 02", "2023 05 08", "S1"], ["2023 05 21", "", "S2"]], 7, ["ger"], ["animation", "action"], ["bini", "nico"], ["Netflix", "watching"], ["Olan Rogers"], [], "https://64.media.tumblr.com/c578a4deff97dcf3e3fd8b6c002abb8c/503d75b293ac7774-34/s250x400/7eddf25a9532a9fb1bdbbc2db6732f487ea547db.jpg"],
+["series", ["Final Space"], ["2018", "2021"], [["2023 05 02", "2023 05 08", "S1"], ["2023 05 21", "2023 05 29", "S2"], ["2023 05 29", "", "S3"]], 6, ["ger"], ["animation", "action"], ["bini", "nico"], ["Netflix", "watching"], ["Olan Rogers"], [], "https://64.media.tumblr.com/c578a4deff97dcf3e3fd8b6c002abb8c/503d75b293ac7774-34/s250x400/7eddf25a9532a9fb1bdbbc2db6732f487ea547db.jpg"],
 
 ["audiobook", ["Gerade war der Himmel noch blau"], "2017", [["2023 05 02", "2023 05 10"]], 7, ["ger"], [], [], ["bibliothek"], ["Florian Illies"], ["Ulrich Noethen"], "https://64.media.tumblr.com/d543531beabd7144d6d3939395c96826/ebc9b1915ba7d171-b7/s400x600/30a124f1048cf49dcd91a907d100f2bb9a22717f.jpg"],
 
@@ -2629,7 +2629,9 @@ var database = [
 
 ["audiobook", ["Die Berlinreise"], "2014", [["2023 05 22", ""]], 0, ["ger"], ["biography"], [], ["bibliothek", "watching"], ["Hanns-Josef Ortheil"], ["Hanns-Josef Ortheil"], "https://64.media.tumblr.com/4c6e0bf573e6a6bab937ac4fe3eca469/e4b027c28509609b-a0/s250x400/1d29767e3ecb5525d557576020012d787ae59053.jpg"],
 
-["film", ["Renfield"], "2023", ["2023 05 27"], 7, ["ger"], ["comedy", "fantasy"], ["bini", "je"], ["Kino"], ["Chris McKay"], ["Nicholas Hoult", "Nicolas Cage", "Awkwafina", "Adrian Martinez", "Rhonda Johnson Dents"], "https://64.media.tumblr.com/7cad65ce904a305899b71d0f49318b5e/d120a5961e50fc0d-c5/s250x400/91c55c449da80b66c73be9e31c30c2d5b15613b8.jpg"]
+["film", ["Renfield"], "2023", ["2023 05 27"], 7, ["ger"], ["comedy", "fantasy"], ["bini", "je"], ["Kino"], ["Chris McKay"], ["Nicholas Hoult", "Nicolas Cage", "Awkwafina", "Adrian Martinez", "Rhonda Johnson Dents"], "https://64.media.tumblr.com/7cad65ce904a305899b71d0f49318b5e/d120a5961e50fc0d-c5/s250x400/91c55c449da80b66c73be9e31c30c2d5b15613b8.jpg"],
+
+["series", ["School of Chocolate"], "2021", [["2023 05 29", "", "S1"]], 0, ["eng"], ["reality-tv"], [], ["Netflix", "watching"], [], [], "https://64.media.tumblr.com/22d3931933e733ed9e14c11ae41501ff/d60aae13811c4a5d-b7/s250x400/09e552b62e1983333a95b51ae241016b04b22758.jpg"]
 
 /*
 ,
