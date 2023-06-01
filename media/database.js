@@ -2627,11 +2627,11 @@ var database = [
 
 ["film", ["Kung Fu Panda 3"], "2016", ["2023 05 18"], 7, ["ger"], ["animation", "action"], ["bini", "syl"], ["animation", "action"], ["Alessandro Carloni", "Jennifer Yuh Nelson"], [], "https://64.media.tumblr.com/91bdffc2a4f220c05ca47455fa65926a/febc9063cda12962-43/s250x400/4e1c3728c4c97eff1729d0898cda821c76a85974.jpg"],
 
-["audiobook", ["Die Berlinreise"], "2014", [["2023 05 22", ""]], 0, ["ger"], ["biography"], [], ["bibliothek", "watching"], ["Hanns-Josef Ortheil"], ["Hanns-Josef Ortheil"], "https://64.media.tumblr.com/4c6e0bf573e6a6bab937ac4fe3eca469/e4b027c28509609b-a0/s250x400/1d29767e3ecb5525d557576020012d787ae59053.jpg"],
+["audiobook", ["Die Berlinreise"], "2014", [["2023 05 22", "2023 06 01"]], 5, ["ger"], ["biography"], [], ["bibliothek"], ["Hanns-Josef Ortheil"], ["Hanns-Josef Ortheil"], "https://64.media.tumblr.com/4c6e0bf573e6a6bab937ac4fe3eca469/e4b027c28509609b-a0/s250x400/1d29767e3ecb5525d557576020012d787ae59053.jpg"],
 
 ["film", ["Renfield"], "2023", ["2023 05 27"], 7, ["ger"], ["comedy", "fantasy"], ["bini", "je"], ["Kino"], ["Chris McKay"], ["Nicholas Hoult", "Nicolas Cage", "Awkwafina", "Adrian Martinez", "Rhonda Johnson Dents"], "https://64.media.tumblr.com/7cad65ce904a305899b71d0f49318b5e/d120a5961e50fc0d-c5/s250x400/91c55c449da80b66c73be9e31c30c2d5b15613b8.jpg"],
 
-["series", ["School of Chocolate"], "2021", [["2023 05 29", "", "S1"]], 0, ["eng"], ["reality-tv"], [], ["Netflix", "watching"], [], [], "https://64.media.tumblr.com/22d3931933e733ed9e14c11ae41501ff/d60aae13811c4a5d-b7/s250x400/09e552b62e1983333a95b51ae241016b04b22758.jpg"]
+["series", ["School of Chocolate"], "2021", [["2023 05 29", "2023 06 01", "S1"]], 7, ["eng"], ["reality-tv"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/22d3931933e733ed9e14c11ae41501ff/d60aae13811c4a5d-b7/s250x400/09e552b62e1983333a95b51ae241016b04b22758.jpg"]
 
 /*
 ,
