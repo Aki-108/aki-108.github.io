@@ -1566,7 +1566,7 @@ var database = [
 
 ["series", ["Oban Star-Racers"], "2006", [["2015 03 15", "2015 05 03", "S1"], ["2023 02 13", "2023 03 12", "S1"]], 7, ["ger"], ["anime", "action"], ["bini", "nico"], [], ["Savin Yeatman-Eiffel"], [], "https://64.media.tumblr.com/5a69f68482000c3d3bc49e1d9f913bfa/8778f65fc372df03-37/s250x400/66f4dc32f1ab67c74827bf8abb8310d191667d34.jpg"],
 
-["series", ["Kantai Collection: Kan Colle"], "2015", [["2015 03 01", "2015 03 27", "S1"]], 9, ["jap"], ["anime", "action", "war"], [], ["Kantai Collection"], ["Jukki Hanada", "Kristen McGuire"], [], "https://64.media.tumblr.com/9f432ee003542cc7d6f1aea7c42d8b79/ec48220645d3149f-09/s250x400/a0cc00bcc3c5eb8d310df89fd2463d9fb89e96df.jpg"],
+["series", ["Kantai Collection: Kan Colle"], ["2015", "2023"], [["2015 03 01", "2015 03 27", "S1"], ["2023 05 31", "", "S2"]], 9, ["jap"], ["anime", "action", "war"], ["bini", "nico"], ["Kantai Collection", "KanColle", "watching"], ["Jukki Hanada", "Kristen McGuire"], [], "https://64.media.tumblr.com/9f432ee003542cc7d6f1aea7c42d8b79/ec48220645d3149f-09/s250x400/a0cc00bcc3c5eb8d310df89fd2463d9fb89e96df.jpg"],
 
 ["series", ["I Can't Understand What My Husband Is Saying", "I Can't Understand What My Husband Is Saying", "Danna ga Nani wo Itteiru ka Wakaranai Ken"], "2014", [["2015 02 14", "S1"], ["2015 04 04", "2015 07 12", "S2"]], 7, ["jap"], ["anime", "comedy"], [], [], ["Coolkyoushinja", "Itsuki Imazaki", "Shinpei Nagai"], [], "https://64.media.tumblr.com/0e5b0afd03becd284c943e574eb98a43/151c681fed742ec8-d6/s250x400/29c2159837f4eb6a6d3b5403930058081d0dbf91.jpg"],
 
@@ -1682,7 +1682,7 @@ var database = [
 
 ["short", ["If Anything Happens I Love You"], "2020", ["2020 12 30"], 8, [], ["animation"], [], ["Netflix"], ["Michael Govier", "Will McCormack"], [], "https://64.media.tumblr.com/68ef38fc329dde23e88a4700cda62102/e50395811689d835-b8/s250x400/0fed1c2aaded4b604425c91e4942c31cda2e5756.jpg"],
 
-["film", ["KanColle: The Movie", "Kantai Collection: KanColle Movie"], "2016", [["2020 12 31", "2021 01 03"]], 7, ["jap"], ["anime", "action"], [], ["Kantai Collection"], ["Keizô Kusakawa"], [], "https://64.media.tumblr.com/a447c9f6d8a7c8d7d0a2a0833c0d282e/b02d8f292f5b4614-e3/s250x400/02d83c1d81f532e207e2a240ad6951157f82212d.jpg"],
+["film", ["KanColle: The Movie", "Kantai Collection: KanColle Movie"], "2016", [["2020 12 31", "2021 01 03"]], 7, ["jap"], ["anime", "action"], [], ["Kantai Collection", "KanColle"], ["Keizô Kusakawa"], [], "https://64.media.tumblr.com/a447c9f6d8a7c8d7d0a2a0833c0d282e/b02d8f292f5b4614-e3/s250x400/02d83c1d81f532e207e2a240ad6951157f82212d.jpg"],
 
 ["series", ["The Alienist", "Die Einkreisung"], ["2018", "2020"], [["2020 12 31", "2021 01 03", "S1"], ["2021 01 05", "2021 01 14", "S2"]], 8, ["ger"], ["crime", "drama"], [], ["Kreizler Series", "Netflix"], ["Hossein Amini", "Amy Berg", "Stuart Carolan"], ["Daniel Brühl", "Luke Evans", "Dakota Fanning", "Ted Levine", "Martin McCreadie", "Lara Pulver", "Bill Heck", "Brooke Carter"], "https://64.media.tumblr.com/71ab538cd41671bc3c008d7452b33420/d6035eae3c5d56bf-b7/s250x400/b3e91ecd7b08bee60651d960f8dde88599b41458.jpg"],
 
@@ -2379,7 +2379,7 @@ var database = [
 
 ["film", ["Her"], "2013", ["2022 08 31"], 5, ["eng"], ["drama", "romance"], [], ["bibliothek"], ["Spike Jonze"], ["Joaquin Phoenix", "Amy Adams", "Chris Pratt", "Rooney Mara", "Olivia Wilde"], "https://64.media.tumblr.com/cc8681e22f5f6b7605008667fb5d15ef/152400b51030905c-f6/s250x400/2822127d534d7a110ce8f2dcdf2054f31a8c9e96.jpg"],
 
-["book", ["Turtles All the Way Down", "Schlaft gut, ihr fiesen Gedanken"], "2017", [["2022 08 31", "2022 09 19"]], 7, ["eng"], ["young adult novel"], [], ["bibliothek"], ["John Green"], [], "https://64.media.tumblr.com/33269ba2a869370b54d6a36d35e767ad/af483c7bc4b54628-95/s250x400/c05977355374b3322ce8ceafb44737fec1f9d288.jpg"],
+["book", ["Turtles All the Way Down", "Schlaft gut, ihr fiesen Gedanken"], "2017", [["2022 08 31", "2022 09 19"]], 7, ["eng"], ["young adult"], [], ["bibliothek"], ["John Green"], [], "https://64.media.tumblr.com/33269ba2a869370b54d6a36d35e767ad/af483c7bc4b54628-95/s250x400/c05977355374b3322ce8ceafb44737fec1f9d288.jpg"],
 
 ["film", ["Groundhog Day", "Und täglich grüßt das Murmeltier"], "1993", ["2022 08 31"], 6, ["ger"], ["comedy", "drama"], [], ["bibliothek"], ["Harold Ramis"], ["Bill Murray", "Andie MacDowell"], "https://64.media.tumblr.com/9a33c52b57f56e23e3f51f4a640686f8/24687f4f0ba96df9-b0/s250x400/5bd4b55279d11ae79f31491b66e3e19d1e4d4769.jpg"],
 
@@ -2631,7 +2631,11 @@ var database = [
 
 ["film", ["Renfield"], "2023", ["2023 05 27"], 7, ["ger"], ["comedy", "fantasy"], ["bini", "je"], ["Kino"], ["Chris McKay"], ["Nicholas Hoult", "Nicolas Cage", "Awkwafina", "Adrian Martinez", "Rhonda Johnson Dents"], "https://64.media.tumblr.com/7cad65ce904a305899b71d0f49318b5e/d120a5961e50fc0d-c5/s250x400/91c55c449da80b66c73be9e31c30c2d5b15613b8.jpg"],
 
-["series", ["School of Chocolate"], "2021", [["2023 05 29", "2023 06 01", "S1"]], 7, ["eng"], ["reality-tv"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/22d3931933e733ed9e14c11ae41501ff/d60aae13811c4a5d-b7/s250x400/09e552b62e1983333a95b51ae241016b04b22758.jpg"]
+["series", ["School of Chocolate"], "2021", [["2023 05 29", "2023 06 01", "S1"]], 7, ["eng"], ["reality-tv"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/22d3931933e733ed9e14c11ae41501ff/d60aae13811c4a5d-b7/s250x400/09e552b62e1983333a95b51ae241016b04b22758.jpg"],
+
+["audiobook", ["My Heart and Other Black Holes", "Mein Herz und andere schwarze Löscher"], "2015", [["2023 06 02", ""]], 0, ["ger"], ["young adult"], [], ["bibliothek", "watching"], ["Jasmine Warga"], ["Inka Löwendorf"], "https://64.media.tumblr.com/ac9b8e0de6df3145704e6b8e71610830/98b254b9863d6d78-01/s250x400/2ed8ee7dac608ad82b543bf8890ac15a4afff26b.jpg"],
+
+["audiobook", ["Die drei ??? Kids 77: Die Musikdiebe"], "2018", [["2023 06 03", ""]], 0, ["ger"], ["crime"], ["bini", "syl"], ["Spotify", "watching"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/42f0829b1e07f8ae3c9b33509e188d5b/9020aac709d46be3-f6/s250x400/671fef06c5407a00446efe1d80796ae8acf4c4b5.jpg"]
 
 /*
 ,
