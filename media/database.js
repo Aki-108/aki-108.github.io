@@ -2565,7 +2565,7 @@ var database = [
 
 ["series", ["K.C. Undercover"], ["2015", "2018"], [["2023 03 06", "2023 03 13", "S1E1-S1E9"]], 4, ["ger"], ["action", "comedy"], [], ["Disney+", "dropped"], ["Corinne Marshall"], ["Zendaya"], "https://64.media.tumblr.com/1a62a4fda3cd3a6aa788463fb8eb72ce/5b869ff21918a379-73/s250x400/758a5c68b069016b2e2c697e6c0046a1a7b8a747.jpg"],
 
-["series", ["The Finder"], "2012", [["2023 03 26", "2023 04 04", "S1"]], 7, ["ger"], ["comedy", "crime"], [], ["Disney+", "ongoing"], ["Richard Greener", "Hart Hanson"], [], "https://64.media.tumblr.com/6e1a4ef1ddb79bd9f3268b2bb029963a/950df7253383b3f3-8a/s250x400/ad77b9c3cfc974c1e67ad87ee169dfdbc6119d5e.jpg"],
+["series", ["The Finder"], "2012", [["2023 03 26", "2023 04 04", "S1"]], 7, ["ger"], ["comedy", "crime"], [], ["Disney+"], ["Richard Greener", "Hart Hanson"], [], "https://64.media.tumblr.com/6e1a4ef1ddb79bd9f3268b2bb029963a/950df7253383b3f3-8a/s250x400/ad77b9c3cfc974c1e67ad87ee169dfdbc6119d5e.jpg"],
 
 ["audiobook", ["Im Reich der Pubertiere"], "2016", [["2023 03 29", "2023 03 30"]], 7, ["ger"], ["comedy"], [], ["bibliothek"], ["Jan Weiler"], ["Jan Weiler"], "https://64.media.tumblr.com/8365aa58c0f05decba5a4d1c27c26375/1fd3da0975fac07b-53/s250x400/16fc2961dbcf0bba49a5a8eafff48e7edb4b526e.jpg"],
 
