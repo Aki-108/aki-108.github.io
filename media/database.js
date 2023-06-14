@@ -2622,7 +2622,7 @@ var database = [
 
 ["film", ["Circle", "Der Kreis"], "2015", ["2023 05 07"], 5, ["eng"], ["drama", "horror"], [], ["Netflix"], ["Aaron Hann", "Mario Miscione"], [], "https://64.media.tumblr.com/7335df07f4b2a1e0d2eb7656c8d2a6cc/ae837cc238c60c8d-66/s250x400/b303629c7b2a9b77f204d9b95b0a012f2b657af2.jpg"],
 
-["book", ["Humble Pi: A Comedy of Maths Errors", "Damit hatte keiner gerechnet! Die größten Mathe-Irrtümer der Menschheit"], "2019", [["2023 05 08", ""]], 0, ["ger"], ["nonfiction", "science", "comedy"], [], ["bibliothek", "watching"], ["Matt Parker"], [], "https://64.media.tumblr.com/87186c514b35c0bd70a4ef3ca4e88b6c/ad9474a7586d88d3-d3/s250x400/2cce4423903d7735db2e43f672e6a791ea91abf6.jpg"],
+["book", ["Humble Pi: A Comedy of Maths Errors", "Damit hatte keiner gerechnet! Die größten Mathe-Irrtümer der Menschheit"], "2019", [["2023 05 08", "2023 06 14", "C1-C4"]], 0, ["ger"], ["nonfiction", "science", "comedy"], [], ["bibliothek"], ["Matt Parker"], [], "https://64.media.tumblr.com/87186c514b35c0bd70a4ef3ca4e88b6c/ad9474a7586d88d3-d3/s250x400/2cce4423903d7735db2e43f672e6a791ea91abf6.jpg"],
 
 ["audiobook", ["Die Welt der Fabelwesen"], "2018", [["2023 05 11", "2023 05 16"]], 7, ["ger"], [], [], ["bibliothek"], ["Frank Schwieger"], ["Peter Kaempfe"], "https://64.media.tumblr.com/fc05373d2719aaddbcb2e73ad8e61ec0/a106fb3f6019c257-b3/s250x400/8479a2f4677f4b3f2e7595cca589b6d7507edb0c.jpg"],
 
