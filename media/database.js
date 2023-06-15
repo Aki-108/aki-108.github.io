@@ -2642,7 +2642,9 @@ var database = [
 
 ["series", ["Terrace House: Opening New Doors", "Terrace House: Alte und neue Türen"], ["2017", "2019"], [["2023 06 04", "", "S1"]], 0, ["jap"], ["drama", "reality-tv"], ["bini", "nico"], ["Netflix", "watching"], ["You", "Reina Triendl", "Yoshimi Tokui"], [], "https://64.media.tumblr.com/bffb937328fc09f84a11421af604934d/6996437739b094e9-0a/s250x400/12fae2bdded8cc427c6b64583118734fbabc4a83.jpg"],
 
-["audiobook", ["The Statistical Probability of Love at First Sight", "Die statische Wahrscheinlichkeit von Liebe auf den ersten Blick"], "2011", [["2023 06 09", ""]], 0, ["ger"], ["young adult"], [], ["bibliothek", "watching"], ["Jennifer E. Smith"], ["Anna Carlsson"], "https://64.media.tumblr.com/30f1c5debe7496f02e4449109e258fd9/c74c0b9eca8e6108-89/s250x400/3d69279bc039ef5259ff208a109b17b355a92f27.jpg"]
+["audiobook", ["The Statistical Probability of Love at First Sight", "Die statische Wahrscheinlichkeit von Liebe auf den ersten Blick"], "2011", [["2023 06 09", ""]], 0, ["ger"], ["young adult"], [], ["bibliothek", "watching"], ["Jennifer E. Smith"], ["Anna Carlsson"], "https://64.media.tumblr.com/30f1c5debe7496f02e4449109e258fd9/c74c0b9eca8e6108-89/s250x400/3d69279bc039ef5259ff208a109b17b355a92f27.jpg"],
+
+["book", ["Freche Abenteuer mit Pittiplatsch"], "2018", [["2023 06 14", ""]], 0, ["ger"], [], [], ["watching"], ["Ingeborg Feustel"], [], "https://64.media.tumblr.com/3601c974e43dc83e283fd49b489b27c7/c3a3fe95d8903848-1e/s250x400/9a518cb2761faaa7151d3c9b2caaa188cb2a5e8b.jpg"]
 
 /*
 ,
