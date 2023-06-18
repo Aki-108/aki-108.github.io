@@ -327,7 +327,7 @@ var database = [
 	        
 ["audiobook", ["Howl's Moving Castle", "Sophie im Schloss des Zauberers"], "1986", [["2020 01 16", "2020 01 24"]], 7, ["eng"], ["fantasy"], [], [], ["Diana Wynne Jones"], [], "https://66.media.tumblr.com/c45dcacd614a17a14bf864b54eed715f/53f4483e0c763ded-2a/s250x400/278c71476a2ec8ec9629a6df32d9706fd9be4c35.jpg"],
 	        
-["film", ["Project Power"], "2020", ["2020 08 21"], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Henry Joost", "Ariel Schulman"], ["Jamie Foxx", "Joseph Gordon-Levitt", "Rodrigo Santoro", "Casey Neistat"], "https://64.media.tumblr.com/839621d06e31e60f3dacd6df4aaa4ea0/5a4a32d998cfdaa5-95/s250x400/981dbde98d53aed73a0bd155e73e347a388478f6.jpg"],
+["film", ["Project Power"], "2020", ["2020 08 21"], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Henry Joost", "Ariel Schulman"], ["Jamie Foxx", "Joseph Gordon-Levitt", "Rodrigo Santoro", "Casey Neistat", "Dominique Fishback"], "https://64.media.tumblr.com/839621d06e31e60f3dacd6df4aaa4ea0/5a4a32d998cfdaa5-95/s250x400/981dbde98d53aed73a0bd155e73e347a388478f6.jpg"],
 	        
 ["film", ["Nerve"], "2016", ["2017 01 23"], 6, ["ger"], ["adventure", "crime"], [], [], ["Henry Joost", "Ariel Schulman"], ["Emma Roberts", "Dave Franco", "Samira Wiley", "Casey Neistat", "Miles Heizer"], "https://68.media.tumblr.com/df54a4ed23cbe1738a7c346bfa8e4782/tumblr_okc8orMOiT1v2s5upo1_250.jpg"],
 	        
@@ -2644,7 +2644,9 @@ var database = [
 
 ["audiobook", ["The Statistical Probability of Love at First Sight", "Die statische Wahrscheinlichkeit von Liebe auf den ersten Blick"], "2011", [["2023 06 09", ""]], 0, ["ger"], ["young adult"], [], ["bibliothek", "watching"], ["Jennifer E. Smith"], ["Anna Carlsson"], "https://64.media.tumblr.com/30f1c5debe7496f02e4449109e258fd9/c74c0b9eca8e6108-89/s250x400/3d69279bc039ef5259ff208a109b17b355a92f27.jpg"],
 
-["book", ["Freche Abenteuer mit Pittiplatsch"], "2018", [["2023 06 14", ""]], 0, ["ger"], [], [], ["watching"], ["Ingeborg Feustel"], [], "https://64.media.tumblr.com/3601c974e43dc83e283fd49b489b27c7/c3a3fe95d8903848-1e/s250x400/9a518cb2761faaa7151d3c9b2caaa188cb2a5e8b.jpg"]
+["book", ["Freche Abenteuer mit Pittiplatsch"], "2018", [["2023 06 14", ""]], 0, ["ger"], [], [], ["watching"], ["Ingeborg Feustel"], [], "https://64.media.tumblr.com/3601c974e43dc83e283fd49b489b27c7/c3a3fe95d8903848-1e/s250x400/9a518cb2761faaa7151d3c9b2caaa188cb2a5e8b.jpg"],
+
+["film", ["Transformers: Rise of the Beasts", "Transformers: Aufstieg der Bestien"], "2023", ["2023 06 18"], 7, ["ger"], ["action"], ["bini", "je"], ["Kino", "Transformers"], ["Steven Caple Jr."], ["Dominique Fishback"], "https://64.media.tumblr.com/7c7e0e4d544f32936435f25559faf491/314adb8d5230e9ad-68/s250x400/f4a926919bfbaa2580243e7b764d21d7b1fcc9a9.jpg"]
 
 /*
 ,
