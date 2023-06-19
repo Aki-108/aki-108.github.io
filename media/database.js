@@ -1566,7 +1566,7 @@ var database = [
 
 ["series", ["Oban Star-Racers"], "2006", [["2015 03 15", "2015 05 03", "S1"], ["2023 02 13", "2023 03 12", "S1"]], 7, ["ger"], ["anime", "action"], ["bini", "nico"], [], ["Savin Yeatman-Eiffel"], [], "https://64.media.tumblr.com/5a69f68482000c3d3bc49e1d9f913bfa/8778f65fc372df03-37/s250x400/66f4dc32f1ab67c74827bf8abb8310d191667d34.jpg"],
 
-["series", ["Kantai Collection: Kan Colle"], ["2015", "2023"], [["2015 03 01", "2015 03 27", "S1"], ["2023 05 31", "", "S2"]], 9, ["jap"], ["anime", "action", "war"], ["bini", "nico"], ["Kantai Collection", "KanColle", "watching"], ["Jukki Hanada", "Kristen McGuire"], [], "https://64.media.tumblr.com/9f432ee003542cc7d6f1aea7c42d8b79/ec48220645d3149f-09/s250x400/a0cc00bcc3c5eb8d310df89fd2463d9fb89e96df.jpg"],
+["series", ["Kantai Collection: Kan Colle"], ["2015", "2023"], [["2015 03 01", "2015 03 27", "S1"], ["2023 05 31", "2023 06 07", "S2"]], 9, ["jap"], ["anime", "action", "war"], ["bini", "nico"], ["Kantai Collection", "KanColle"], ["Jukki Hanada", "Kristen McGuire"], [], "https://64.media.tumblr.com/9f432ee003542cc7d6f1aea7c42d8b79/ec48220645d3149f-09/s250x400/a0cc00bcc3c5eb8d310df89fd2463d9fb89e96df.jpg"],
 
 ["series", ["I Can't Understand What My Husband Is Saying", "I Can't Understand What My Husband Is Saying", "Danna ga Nani wo Itteiru ka Wakaranai Ken"], "2014", [["2015 02 14", "S1"], ["2015 04 04", "2015 07 12", "S2"]], 7, ["jap"], ["anime", "comedy"], [], [], ["Coolkyoushinja", "Itsuki Imazaki", "Shinpei Nagai"], [], "https://64.media.tumblr.com/0e5b0afd03becd284c943e574eb98a43/151c681fed742ec8-d6/s250x400/29c2159837f4eb6a6d3b5403930058081d0dbf91.jpg"],
 
@@ -2646,7 +2646,9 @@ var database = [
 
 ["book", ["Freche Abenteuer mit Pittiplatsch"], "2018", [["2023 06 14", ""]], 0, ["ger"], [], [], ["watching"], ["Ingeborg Feustel"], [], "https://64.media.tumblr.com/3601c974e43dc83e283fd49b489b27c7/c3a3fe95d8903848-1e/s250x400/9a518cb2761faaa7151d3c9b2caaa188cb2a5e8b.jpg"],
 
-["film", ["Transformers: Rise of the Beasts", "Transformers: Aufstieg der Bestien"], "2023", ["2023 06 18"], 7, ["ger"], ["action"], ["bini", "je"], ["Kino", "Transformers"], ["Steven Caple Jr."], ["Dominique Fishback"], "https://64.media.tumblr.com/7c7e0e4d544f32936435f25559faf491/314adb8d5230e9ad-68/s250x400/f4a926919bfbaa2580243e7b764d21d7b1fcc9a9.jpg"]
+["film", ["Transformers: Rise of the Beasts", "Transformers: Aufstieg der Bestien"], "2023", ["2023 06 18"], 7, ["ger"], ["action"], ["bini", "je"], ["Kino", "Transformers"], ["Steven Caple Jr."], ["Dominique Fishback"], "https://64.media.tumblr.com/7c7e0e4d544f32936435f25559faf491/314adb8d5230e9ad-68/s250x400/f4a926919bfbaa2580243e7b764d21d7b1fcc9a9.jpg"],
+
+["film", ["Die Wilden Hühner und die Liebe"], "2007", [["2023 06 19", ""]], 0, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/22ca3ec79801bd0ef54bc80423037991/32f0dacf10219d8e-f5/s250x400/19ac5bbbfbe2054f4e5ba43b4462e70d16106004.jpg"]
 
 /*
 ,
