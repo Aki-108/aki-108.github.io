@@ -1034,7 +1034,7 @@ var database = [
 	        
 ["film", ["Detective Conan: Episode One - The Great Detective Turned Small", "Detective Conan: Episode One - The Great Detective Turned Small"], "2016", ["2019 02 05"], 4, ["ger"], ["anime", "crime"], ["bini"], ["Conan"], ["Yasuichirô Yamamoto"], [], "https://66.media.tumblr.com/0f0ce65119f91d1ec5ebbfd047f11353/653d2f4dc433b258-53/s250x400/eccad1615e33024df63b8822e713f37c0004bcf3.jpg"],
 	        
-["film", ["Raiders of the Lost Ark", "Jäger des verlorenen Schatzes"], "1981", ["2015 09 23"], 6, ["ger"], ["action", "adventure"], ["bini"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford"], "https://66.media.tumblr.com/99f8c6fe7649d8071d7eefa3158199c8/tumblr_ppxzblvnCt1v2s5upo1_250.jpg"],
+["film", ["Raiders of the Lost Ark", "Jäger des verlorenen Schatzes"], "1981", ["2015 09 23", "2023 06 25"], 6, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford"], "https://66.media.tumblr.com/99f8c6fe7649d8071d7eefa3158199c8/tumblr_ppxzblvnCt1v2s5upo1_250.jpg"],
 	        
 ["film", ["Indiana Jones and the Temple of Doom", "Indiana Jones und der Tempel des Todes"], "1984", ["2015 11 10"], 5, ["ger"], ["action", "adventure"], ["bini"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Ke Huy Quan"], "https://66.media.tumblr.com/20b2adb7329022b1b43f3eee1a3342f9/tumblr_px706pD5dM1v2s5upo1_250.jpg"],
 	        
