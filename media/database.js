@@ -2650,7 +2650,11 @@ var database = [
 
 ["film", ["Die Wilden Hühner und die Liebe"], "2007", [["2023 06 19", ""]], 0, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/22ca3ec79801bd0ef54bc80423037991/32f0dacf10219d8e-f5/s250x400/19ac5bbbfbe2054f4e5ba43b4462e70d16106004.jpg"],
 
-["series", ["Hajime no ippo"], ["2000", "2002"], [["2023 06 19", "", "S1"]], 0, ["eng"], ["anime", "action"], ["bini", "nico"], ["Netflix", "watching"], ["Kazuyuki Fudeyasu", "Daisuke Aranishi", "Ryosuke Nakamura"], [], "https://64.media.tumblr.com/734502d375e51134ebc6c8f63ce2511b/c7aa3cc407fca320-55/s250x400/1322ef7eab1b97dc737648c693b9dd43252585a0.jpg"]
+["series", ["Hajime no ippo"], ["2000", "2002"], [["2023 06 19", "", "S1"]], 0, ["eng"], ["anime", "action"], ["bini", "nico"], ["Netflix", "watching"], ["Kazuyuki Fudeyasu", "Daisuke Aranishi", "Ryosuke Nakamura"], [], "https://64.media.tumblr.com/734502d375e51134ebc6c8f63ce2511b/c7aa3cc407fca320-55/s250x400/1322ef7eab1b97dc737648c693b9dd43252585a0.jpg"],
+
+["short", ["The Crimson Permanent Assurance"], "1983", ["2023 06 23"], 0, ["ger"], ["comedy"], ["bini", "syl", "je"], [], ["Terry Gilliam"], [], "https://64.media.tumblr.com/18f2d7e6ab839689a5e4e6688acefcc6/667c53cc067346d7-5b/s250x400/228b2619cbbc805132cbf305950614810c2b896e.jpg"],
+
+["audiobook", ["Ich, Odin, und die wilden Wikinger. Götter und Helden erzählen nordische Sagen"], "2019", [["2023 06 26", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Frank Schwieger"], ["Peter Kaempfe", "Sabine Falkenberg", "Cathlen Gawlich", "Romanus Fuhrmann", "Frank Bahrenberg", "Ingeborg Wunderlich"], "https://64.media.tumblr.com/693cd21fdaed6589f0cdd78013576b4d/88707d343caee181-13/s250x400/bb5142977d3272be59d0a79dddf08d14f13118e4.jpg"]
 
 /*
 ,
