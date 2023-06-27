@@ -2644,7 +2644,7 @@ var database = [
 
 ["audiobook", ["The Statistical Probability of Love at First Sight", "Die statische Wahrscheinlichkeit von Liebe auf den ersten Blick"], "2011", [["2023 06 09", "2023 06 19"]], 5, ["ger"], ["young adult"], [], ["bibliothek"], ["Jennifer E. Smith"], ["Anna Carlsson"], "https://64.media.tumblr.com/30f1c5debe7496f02e4449109e258fd9/c74c0b9eca8e6108-89/s250x400/3d69279bc039ef5259ff208a109b17b355a92f27.jpg"],
 
-["book", ["Freche Abenteuer mit Pittiplatsch"], "2018", [["2023 06 14", ""]], 0, ["ger"], [], [], ["watching"], ["Ingeborg Feustel"], [], "https://64.media.tumblr.com/3601c974e43dc83e283fd49b489b27c7/c3a3fe95d8903848-1e/s250x400/9a518cb2761faaa7151d3c9b2caaa188cb2a5e8b.jpg"],
+["book", ["Freche Abenteuer mit Pittiplatsch"], "2018", [["2023 06 14", "2023 06 26"]], 6, ["ger"], [], [], [], ["Ingeborg Feustel"], [], "https://64.media.tumblr.com/3601c974e43dc83e283fd49b489b27c7/c3a3fe95d8903848-1e/s250x400/9a518cb2761faaa7151d3c9b2caaa188cb2a5e8b.jpg"],
 
 ["film", ["Transformers: Rise of the Beasts", "Transformers: Aufstieg der Bestien"], "2023", ["2023 06 18"], 7, ["ger"], ["action"], ["bini", "je"], ["Kino", "Transformers"], ["Steven Caple Jr."], ["Dominique Fishback"], "https://64.media.tumblr.com/7c7e0e4d544f32936435f25559faf491/314adb8d5230e9ad-68/s250x400/f4a926919bfbaa2580243e7b764d21d7b1fcc9a9.jpg"],
 
