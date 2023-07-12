@@ -2654,9 +2654,11 @@ var database = [
 
 ["short", ["The Crimson Permanent Assurance"], "1983", ["2023 06 23"], 0, ["ger"], ["comedy"], ["bini", "syl", "je"], [], ["Terry Gilliam"], [], "https://64.media.tumblr.com/18f2d7e6ab839689a5e4e6688acefcc6/667c53cc067346d7-5b/s250x400/228b2619cbbc805132cbf305950614810c2b896e.jpg"],
 
-["audiobook", ["Ich, Odin, und die wilden Wikinger. Götter und Helden erzählen nordische Sagen"], "2019", [["2023 06 26", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Frank Schwieger"], ["Peter Kaempfe", "Sabine Falkenberg", "Cathlen Gawlich", "Romanus Fuhrmann", "Frank Bahrenberg", "Ingeborg Wunderlich"], "https://64.media.tumblr.com/693cd21fdaed6589f0cdd78013576b4d/88707d343caee181-13/s250x400/bb5142977d3272be59d0a79dddf08d14f13118e4.jpg"],
+["audiobook", ["Ich, Odin, und die wilden Wikinger. Götter und Helden erzählen nordische Sagen"], "2019", [["2023 06 26", "2023 07 12"]], 6, ["ger"], [], [], ["bibliothek"], ["Frank Schwieger"], ["Peter Kaempfe", "Sabine Falkenberg", "Cathlen Gawlich", "Romanus Fuhrmann", "Frank Bahrenberg", "Ingeborg Wunderlich"], "https://64.media.tumblr.com/693cd21fdaed6589f0cdd78013576b4d/88707d343caee181-13/s250x400/bb5142977d3272be59d0a79dddf08d14f13118e4.jpg"],
 
-["series", ["Saga of Tanya the Evil", "Youjo Senki", "Youjo Senki"], "2017", [["2023 06 07", "2023 07 05", "S1"]], 5, ["ger"], ["action", "fantasy", "anime"], ["bini", "nico"], [], ["Kenta Ihara", "Carlo Zen"], [], "https://64.media.tumblr.com/0bf7f3c6a16b00b6ce2f2e5ce85db319/4809e4c584f7cdff-c7/s250x400/f92e2466c5a2ef4555979f7d035f2359adc14d1f.jpg"]
+["series", ["Saga of Tanya the Evil", "Youjo Senki", "Youjo Senki"], "2017", [["2023 06 07", "2023 07 05", "S1"]], 5, ["ger"], ["action", "fantasy", "anime"], ["bini", "nico"], [], ["Kenta Ihara", "Carlo Zen"], [], "https://64.media.tumblr.com/0bf7f3c6a16b00b6ce2f2e5ce85db319/4809e4c584f7cdff-c7/s250x400/f92e2466c5a2ef4555979f7d035f2359adc14d1f.jpg"],
+
+["series", ["Wandering Witch: The Journey of Elaina", "Wandering Witch: The Journey of Elaina", "Majo no Tabitabi"], "2020", [["2023 07 12", "", "S1"]], 0, ["jap"], ["anime", "adventure", "fantasy"], ["bini", "nico"], ["watching"], ["Kazuyuki Fudeyasu", "Jougi Shiraishi"], [], "https://64.media.tumblr.com/bf94b2373e270c9c6fd25b5a14adfa22/00bbb105b7c59f77-73/s250x400/8bd74dc8d8cee2d632271ed8f322f143e80a1825.jpg"]
 
 /*
 ,
