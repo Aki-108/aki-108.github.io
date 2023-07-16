@@ -982,7 +982,7 @@ var database = [
 	        
 ["film", ["Indiana Jones and the Kingdom of the Crystal Skull", "Indiana Jones und das Königreich des Kristallschädels"], "2008", ["2016 03 21", "2017 11 01"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Indiana Jones", "Netflix"], ["Steven Spielberg"], ["Harrison Ford", "Cate Blanchett", "Shia LaBeouf", "Andrew Divoff", "Alan Dale", "Neil Flynn"], "https://40.media.tumblr.com/7ac811363dde5fb36742145ff5a077c0/tumblr_o4eot320G31v2s5upo1_250.jpg"],
 	        
-["film", ["Indiana Jones and the Last Crusade", "Indiana Jones und der letzte Kreuzzug"], "1989", ["2016 02 13", "2023 07 08"], 7, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Sean Connery"], "https://49.media.tumblr.com/46dcb49054fe63c9596e759f92207ef9/tumblr_o2j6kc2glH1v2s5upo1_250.jpg"],
+["film", ["Indiana Jones and the Last Crusade", "Indiana Jones und der letzte Kreuzzug"], "1989", ["2016 02 13", "2023 07 08"], 7, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Sean Connery", "Alison Doody"], "https://49.media.tumblr.com/46dcb49054fe63c9596e759f92207ef9/tumblr_o2j6kc2glH1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Falling"], "2014", ["2016 01 29"], 8, ["ger"], ["drama", "mystery"], [], [], ["Carol Morley"], ["Maisie Williams", "Florence Pugh", "Ellie Bamber"], "https://49.media.tumblr.com/2ea7f2b5367a91d098bd3d5b679f099c/tumblr_o1q7miQoB91v2s5upo1_250.jpg"],
 	        
@@ -2658,7 +2658,9 @@ var database = [
 
 ["series", ["Saga of Tanya the Evil", "Youjo Senki", "Youjo Senki"], "2017", [["2023 06 07", "2023 07 05", "S1"]], 5, ["ger"], ["action", "fantasy", "anime"], ["bini", "nico"], [], ["Kenta Ihara", "Carlo Zen"], [], "https://64.media.tumblr.com/0bf7f3c6a16b00b6ce2f2e5ce85db319/4809e4c584f7cdff-c7/s250x400/f92e2466c5a2ef4555979f7d035f2359adc14d1f.jpg"],
 
-["series", ["Wandering Witch: The Journey of Elaina", "Wandering Witch: The Journey of Elaina", "Majo no Tabitabi"], "2020", [["2023 07 12", "", "S1"]], 0, ["jap"], ["anime", "adventure", "fantasy"], ["bini", "nico"], ["watching"], ["Kazuyuki Fudeyasu", "Jougi Shiraishi"], [], "https://64.media.tumblr.com/bf94b2373e270c9c6fd25b5a14adfa22/00bbb105b7c59f77-73/s250x400/8bd74dc8d8cee2d632271ed8f322f143e80a1825.jpg"]
+["series", ["Wandering Witch: The Journey of Elaina", "Wandering Witch: The Journey of Elaina", "Majo no Tabitabi"], "2020", [["2023 07 12", "", "S1"]], 0, ["jap"], ["anime", "adventure", "fantasy"], ["bini", "nico"], ["watching"], ["Kazuyuki Fudeyasu", "Jougi Shiraishi"], [], "https://64.media.tumblr.com/bf94b2373e270c9c6fd25b5a14adfa22/00bbb105b7c59f77-73/s250x400/8bd74dc8d8cee2d632271ed8f322f143e80a1825.jpg"],
+
+["film", ["RRR (Rise Roar Revolt)", "RRR"], "2022", [["2023 07 08", "2023 07 15"]], 7, ["eng"], ["action", "drama"], ["bini", "mai"], ["Netflix"], ["S.S. Rajamouli"], ["Ray Stevenson", "Alison Doody"], "https://64.media.tumblr.com/85a55e0ffd218cf5fbf67a71bf209683/4dfbc9a2de55e03e-01/s250x400/c7eb0c80e411f48bcc97f0f486b83bdce4cf25ce.jpg"]
 
 /*
 ,
