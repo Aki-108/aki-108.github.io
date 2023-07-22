@@ -942,7 +942,7 @@ var database = [
 	        
 ["film", ["Godzilla"], "2014", ["2016 04 30", "2017 11 01"], 7, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Godzilla", "Netflix"], ["Gareth Edwards"], ["Ken Watanabe", "Bryan Cranston", "Sally Hawkins", "David Strathairn"], "https://68.media.tumblr.com/b9aa36ed56992b0c873cf485152a891b/tumblr_o6tletji011v2s5upo1_250.jpg"],
 	        
-["film", ["Fight Club"], "1999", ["2016 04 28", "2016 09 17"], 9, ["ger"], ["drama"], [], [], ["David Fincher"], ["Edward Norton", "Brad Pitt", "Helena Bonham Carter"], "https://66.media.tumblr.com/96175385d3dd724e655069a52b115138/tumblr_o6tkxx0u6w1v2s5upo1_250.jpg"],
+["film", ["Fight Club"], "1999", ["2016 04 28", "2016 09 17", "2023 07 22"], 9, ["ger"], ["drama"], [], ["Disney+"], ["David Fincher"], ["Edward Norton", "Brad Pitt", "Helena Bonham Carter"], "https://66.media.tumblr.com/96175385d3dd724e655069a52b115138/tumblr_o6tkxx0u6w1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", "Die Chroniken von Narnia - Der König von Narnia"], "2005", ["2016 04 24", "2021 12 20"], 6, ["ger"], ["adventure", "family", "fantasy"], [], ["Narnia", "Disney+"], ["Andrew Adamson"], ["Georgie Henley", "Skandar Keynes", "Anna Popplewell", "Tilda Swinton", "James McAvoy", "Jim Broadbent"], "https://66.media.tumblr.com/bb9c49e547897ce1c90b8a25060d202a/tumblr_o6tkbenbzc1v2s5upo1_250.jpg"],
 	        
