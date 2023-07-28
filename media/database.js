@@ -980,7 +980,7 @@ var database = [
 	        
 ["film", ["The Garden of Words"], "2013", ["2016 03 30"], 7, ["jap"], ["anime", "drama"], ["bini"], [], ["Makoto Shinkai"], [], "https://40.media.tumblr.com/785c031bb41f3d37bb25f602aebcaf43/tumblr_o4velsP8Nw1v2s5upo1_250.jpg"],
 	        
-["film", ["Indiana Jones and the Kingdom of the Crystal Skull", "Indiana Jones und das Königreich des Kristallschädels"], "2008", ["2016 03 21", "2017 11 01", "2023 07 21"], 8, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Indiana Jones", "Netflix"], ["Steven Spielberg"], ["Harrison Ford", "Cate Blanchett", "Shia LaBeouf", "Andrew Divoff", "Alan Dale", "Neil Flynn"], "https://40.media.tumblr.com/7ac811363dde5fb36742145ff5a077c0/tumblr_o4eot320G31v2s5upo1_250.jpg"],
+["film", ["Indiana Jones and the Kingdom of the Crystal Skull", "Indiana Jones und das Königreich des Kristallschädels"], "2008", ["2016 03 21", "2017 11 01", "2023 07 21"], 8, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Indiana Jones", "Netflix"], ["Steven Spielberg"], ["Harrison Ford", "Cate Blanchett", "Shia LaBeouf", "Andrew Divoff", "Alan Dale", "Neil Flynn", "Karen Allen"], "https://40.media.tumblr.com/7ac811363dde5fb36742145ff5a077c0/tumblr_o4eot320G31v2s5upo1_250.jpg"],
 	        
 ["film", ["Indiana Jones and the Last Crusade", "Indiana Jones und der letzte Kreuzzug"], "1989", ["2016 02 13", "2023 07 08"], 7, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Sean Connery", "Alison Doody"], "https://49.media.tumblr.com/46dcb49054fe63c9596e759f92207ef9/tumblr_o2j6kc2glH1v2s5upo1_250.jpg"],
 	        
@@ -1034,7 +1034,7 @@ var database = [
 	        
 ["film", ["Detective Conan: Episode One - The Great Detective Turned Small", "Detective Conan: Episode One - The Great Detective Turned Small"], "2016", ["2019 02 05"], 4, ["ger"], ["anime", "crime"], ["bini"], ["Conan"], ["Yasuichirô Yamamoto"], [], "https://66.media.tumblr.com/0f0ce65119f91d1ec5ebbfd047f11353/653d2f4dc433b258-53/s250x400/eccad1615e33024df63b8822e713f37c0004bcf3.jpg"],
 	        
-["film", ["Raiders of the Lost Ark", "Jäger des verlorenen Schatzes"], "1981", ["2015 09 23", "2023 06 25"], 6, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford"], "https://66.media.tumblr.com/99f8c6fe7649d8071d7eefa3158199c8/tumblr_ppxzblvnCt1v2s5upo1_250.jpg"],
+["film", ["Raiders of the Lost Ark", "Jäger des verlorenen Schatzes"], "1981", ["2015 09 23", "2023 06 25"], 6, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Karen Allen"], "https://66.media.tumblr.com/99f8c6fe7649d8071d7eefa3158199c8/tumblr_ppxzblvnCt1v2s5upo1_250.jpg"],
 	        
 ["film", ["Indiana Jones and the Temple of Doom", "Indiana Jones und der Tempel des Todes"], "1984", ["2015 11 10"], 5, ["ger"], ["action", "adventure"], ["bini"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Ke Huy Quan"], "https://66.media.tumblr.com/20b2adb7329022b1b43f3eee1a3342f9/tumblr_px706pD5dM1v2s5upo1_250.jpg"],
 	        
@@ -2265,7 +2265,7 @@ var database = [
 
 ["film", ["Hollywood Stargirl"], "2022", ["2022 06 20"], 6, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Julia Hart"], ["Grace VanderWaal", "Judy Greer", "Uma Thurman"], "https://64.media.tumblr.com/8d5bf17ba1ea5156cc0f58684bc2d676/05e3949bd4a878c7-d0/s250x400/233442e5a464b652671db42e025d4922cc9f0554.jpg"],
 
-["film", ["Ride the Cyclone"], "2019", ["2022 06 20"], 7, ["eng"], ["musical"], [], [], ["Jacob Richmond", "Brooke Maxwell"], [], "https://64.media.tumblr.com/6fdde99368c6607bb175488e92bd7c9e/b1393f70ec05ffdc-82/s250x400/3a080007052d45177826e1c64d03e2376e7d68bb.jpg"],
+["film", ["Ride the Cyclone"], "2019", ["2022 06 20", "2023 07 28"], 7, ["eng"], ["musical"], [], [], ["Jacob Richmond", "Brooke Maxwell"], [], "https://64.media.tumblr.com/6fdde99368c6607bb175488e92bd7c9e/b1393f70ec05ffdc-82/s250x400/3a080007052d45177826e1c64d03e2376e7d68bb.jpg"],
 
 ["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", "2022 08 07", "C1.1-C6.3"], ["2022 09 20", "2022 11 06", "C6.4-C8.8"]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "onhold", "ongoing"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
 
@@ -2660,7 +2660,9 @@ var database = [
 
 ["series", ["Wandering Witch: The Journey of Elaina", "Wandering Witch: The Journey of Elaina", "Majo no Tabitabi"], "2020", [["2023 07 12", "", "S1"]], 0, ["jap"], ["anime", "adventure", "fantasy"], ["bini", "nico"], ["watching"], ["Kazuyuki Fudeyasu", "Jougi Shiraishi"], [], "https://64.media.tumblr.com/bf94b2373e270c9c6fd25b5a14adfa22/00bbb105b7c59f77-73/s250x400/8bd74dc8d8cee2d632271ed8f322f143e80a1825.jpg"],
 
-["film", ["RRR (Rise Roar Revolt)", "RRR"], "2022", [["2023 07 08", "2023 07 15"]], 7, ["eng"], ["action", "drama"], ["bini", "mai"], ["Netflix"], ["S.S. Rajamouli"], ["Ray Stevenson", "Alison Doody"], "https://64.media.tumblr.com/85a55e0ffd218cf5fbf67a71bf209683/4dfbc9a2de55e03e-01/s250x400/c7eb0c80e411f48bcc97f0f486b83bdce4cf25ce.jpg"]
+["film", ["RRR (Rise Roar Revolt)", "RRR"], "2022", [["2023 07 08", "2023 07 15"]], 7, ["eng"], ["action", "drama"], ["bini", "mai"], ["Netflix"], ["S.S. Rajamouli"], ["Ray Stevenson", "Alison Doody"], "https://64.media.tumblr.com/85a55e0ffd218cf5fbf67a71bf209683/4dfbc9a2de55e03e-01/s250x400/c7eb0c80e411f48bcc97f0f486b83bdce4cf25ce.jpg"],
+
+["film", ["Indiana Jones and the Dial of Destiny", "Indiana Jones und das Rad des Schicksals"], "2023", ["2023 07 23"], 6, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Kino", "Indiana Jones"], ["James Mangold"], ["Harrison Ford", "Karen Allen", "Toby Jones"], "https://64.media.tumblr.com/142b7010169555f8e61a8aedf03ed6da/0753295efb7afeb2-31/s250x400/c5c12a91bc1ec41c46729063d9808cc5c4c3108d.jpg"]
 
 /*
 ,
