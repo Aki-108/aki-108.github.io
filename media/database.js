@@ -580,7 +580,7 @@ var database = [
 	        
 ["film", ["The Lovely Bones", "In meinem Himmel"], "2009", ["2015 09 05"], 9, ["ger"], ["drama"], ["bini", "syl"], [], ["Peter Jackson"], ["Mark Wahlberg", "Stanley Tucci", "Saoirse Ronan", "AJ Michalka", "Peter Jackson"], "https://40.media.tumblr.com/59174cdcb45dae0ee391972f62671a27/tumblr_o0p4w7xCtV1v2s5upo1_250.jpg"],
 	        
-["film", ["Stand by Me", "Stand by Me: Das Geheimnis eines Sommers"], "1986", ["2015 09 10", "2016 09 25"], 9, ["ger"], ["adventure", "drama"], ["bini", "nico"], [], ["Rob Reiner"], [], "https://40.media.tumblr.com/bba18c1a5b52bf684b609263c5975760/tumblr_o0suhzhX1C1v2s5upo1_250.jpg"],
+["film", ["Stand by Me", "Stand by Me: Das Geheimnis eines Sommers"], "1986", ["2015 09 10", "2016 09 25"], 9, ["ger"], ["adventure", "drama"], ["bini", "nico"], [], ["Rob Reiner"], ["Jerry O'Connell"], "https://40.media.tumblr.com/bba18c1a5b52bf684b609263c5975760/tumblr_o0suhzhX1C1v2s5upo1_250.jpg"],
 	        
 ["film", ["Pacific Rim"], "2013", ["2015 09 12", "2017 05 08"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "nico"], [], ["Guillermo del Toro"], ["Clifton Collins Jr.", "Ron Perlman", "Burn Gorman", "Cathy Cavadini", "Michelle Lee", "Charlie Hunnam", "Heather Doerksen"], "https://37.media.tumblr.com/a3c61f7b93f5a2d2e91773e76711125d/tumblr_o3kcz4exSZ1v2s5upo1_250.jpg"],
 	        
@@ -2093,7 +2093,7 @@ var database = [
 
 ["film", ["Hilda and the Mountain King", "Hilda und der Bergkönig"], "2021", ["2022 01 06"], 7, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Andy Coyle"], [], "https://64.media.tumblr.com/299b02775621d028149c693d1fa73aaa/48e2ee9fed822400-bf/s250x400/26ae45c86e0b527a178422334b3c4035e01dcc98.jpg"],
 
-["series", ["Girl Meets World", "Das Leben und Riley"], ["2014", "2017"], [["2022 01 08", "2022 01 12", "S1"], ["2022 01 13", "2022 01 28", "S2"], ["2022 01 29", "2022 02 10", "S3"]], 8, ["ger"], ["comedy", "drama"], [], ["Disney+", "fav"], ["Michael Jacobs", "April Kelly"], ["Rowan Blanchard", "Sabrina Carpenter", "M.C. Gainey", "Ricky Garcia", "Jane Lynch", "Debby Ryan", "Tania Gunadi", "Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/36187f43acff0bc60164f66ed977e142/e1a8385b51505f2c-13/s250x400/97af5d53aa9a8fbddf77597f0af622893b1a1fd2.jpg"], /* S1: 5.4; S2: 6.3; S3: 6.4 */
+["series", ["Girl Meets World", "Das Leben und Riley"], ["2014", "2017"], [["2022 01 08", "2022 01 12", "S1"], ["2022 01 13", "2022 01 28", "S2"], ["2022 01 29", "2022 02 10", "S3"]], 8, ["ger"], ["comedy", "drama"], [], ["Disney+", "fav"], ["Michael Jacobs", "April Kelly", "Ava Kolker"], ["Rowan Blanchard", "Sabrina Carpenter", "M.C. Gainey", "Ricky Garcia", "Jane Lynch", "Debby Ryan", "Tania Gunadi", "Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/36187f43acff0bc60164f66ed977e142/e1a8385b51505f2c-13/s250x400/97af5d53aa9a8fbddf77597f0af622893b1a1fd2.jpg"], /* S1: 5.4; S2: 6.3; S3: 6.4 */
 
 ["film", ["Friendzone"], "2021", ["2022 01 08"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Charles Van Tieghem"], [], "https://64.media.tumblr.com/1a21a4d0767564112499f161fac6ed81/e537b0b1bd1b8426-ea/s250x400/22cab9c14e7fb6407cfc43946ceac125b35f23d3.jpg"],
 
@@ -2141,7 +2141,7 @@ var database = [
 
 ["audiobook", ["Dorothy and the Wizard in Oz", "Dorothy und der Zauberer in Oz"], "1908", [["2022 02 17", "2022 02 28"]], 5, ["eng"], ["fantasy"], [], ["Oz", "LibriVox"], ["L. Frank Baum"], ["Phil Chenevert"], "https://64.media.tumblr.com/eb57072cab6319fce50981b688e4e272/63ef1d47086265a9-22/s250x400/e9e4b1f6e8268fcc9a43f0d783afde4d68032bcb.jpg"],
 
-["film", ["The F**k-It List", "Die LmaA-Liste"], "2020", ["2022 02 18"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Michael Duggan"], ["Madison Iseman", "Karan Brar"], "https://64.media.tumblr.com/0e4eb544fa55e4ffd2390bb2b884bd79/9d9ae9fbf7b01780-7f/s250x400/6f5ce82c0d01aa71fd45dfb402d50c25ccf23573.jpg"],
+["film", ["The F**k-It List", "Die LmaA-Liste"], "2020", ["2022 02 18"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Michael Duggan"], ["Madison Iseman", "Karan Brar", "Jerry O'Connell"], "https://64.media.tumblr.com/0e4eb544fa55e4ffd2390bb2b884bd79/9d9ae9fbf7b01780-7f/s250x400/6f5ce82c0d01aa71fd45dfb402d50c25ccf23573.jpg"],
 
 ["film", ["Next Gen", "Das Mädchen und ihr Roboter - Die nächste Generation"], "2018", ["2022 02 19"], 5, ["ger"], ["animation", "action"], [], ["Netflix"], ["Kevin R. Adams", "Joe Ksander", "Ricardo Curtis"], [], "https://64.media.tumblr.com/39b12b01232b61d0409ce5c7cb9d2a1b/bc155e421d30c65a-e3/s250x400/825c68642c8121ee9e9074d837d77b5eb4bf9145.jpg"],
 
@@ -2668,7 +2668,9 @@ var database = [
 
 ["film", ["What a Girl Wants", "Was Mädchen wollen"], "2003", ["2023 07 29"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Dennie Gordon"], ["Kelly Preston", "Colin Firth"], "https://64.media.tumblr.com/21dca32f273be0c5a107b1d0e37152df/c8dd3e609a6531f6-a0/s250x400/7efce46a03da146b562d6ec7f2c398135b159d37.jpg"],
 
-["film", ["Scream"], "2022", ["2023 07 29"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Matt Bettinelli-Olpin", "Tyler Gillett"], ["Jenna Ortega", "Dylan Minnette"], "https://64.media.tumblr.com/cefe0dca7ad4397a4e05c963a0ddae3d/095472feee2154cc-aa/s250x400/f1e3254d1a368eb9662c5546ac6f05a077d0ab29.jpg"]
+["film", ["Scream"], "2022", ["2023 07 29"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Matt Bettinelli-Olpin", "Tyler Gillett"], ["Jenna Ortega", "Dylan Minnette"], "https://64.media.tumblr.com/cefe0dca7ad4397a4e05c963a0ddae3d/095472feee2154cc-aa/s250x400/f1e3254d1a368eb9662c5546ac6f05a077d0ab29.jpg"],
+
+["film", ["Scary Movie 5"], "2013", ["2023 07 30"], 5, ["ger"], ["comedy"], [], ["Netflix"], ["Malcolm D. Lee", "David Zucker"], ["Ashley Tisdale", "Ava Kolker", "Snoop Dogg", "Terry Crews", "Charlie Sheen", "Lindsay Lohan", "Jerry O'Connell", "Usher", "Kate Walsh", "Mike Tyson"], "https://64.media.tumblr.com/e44667ff70f8e6b70b2ad45a03fbc7a8/005926ac54b353e7-a2/s250x400/98b5c85adb17cac0ff3c821066ac07fbe11e735c.jpg"]
 
 /*
 ,
