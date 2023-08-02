@@ -2636,7 +2636,7 @@ var database = [
 
 ["audiobook", ["My Heart and Other Black Holes", "Mein Herz und andere schwarze Löscher"], "2015", [["2023 06 02", "2023 06 09"]], 8, ["ger"], ["young adult"], [], ["bibliothek"], ["Jasmine Warga"], ["Inka Löwendorf"], "https://64.media.tumblr.com/ac9b8e0de6df3145704e6b8e71610830/98b254b9863d6d78-01/s250x400/2ed8ee7dac608ad82b543bf8890ac15a4afff26b.jpg"],
 
-["audiobook", ["Die drei ??? Kids 77: Die Musikdiebe"], "2018", [["2023 06 03", ""]], 0, ["ger"], ["crime"], ["bini", "syl"], ["Spotify", "watching"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/42f0829b1e07f8ae3c9b33509e188d5b/9020aac709d46be3-f6/s250x400/671fef06c5407a00446efe1d80796ae8acf4c4b5.jpg"],
+["audiobook", ["Die drei ??? Kids 77: Die Musikdiebe"], "2018", [["2023 06 03", ""]], 0, ["ger"], ["crime"], ["bini", "syl"], ["Spotify"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/42f0829b1e07f8ae3c9b33509e188d5b/9020aac709d46be3-f6/s250x400/671fef06c5407a00446efe1d80796ae8acf4c4b5.jpg"],
 
 ["film", ["Airplane II: The Sequel", "Die unglaubliche Reise in einem verrückten Raumschiff"], "1982", ["2023 06 03"], 5, ["ger"], ["comedy"], ["bini", "syl", "je"], [], ["Ken Finkleman"], [], "https://64.media.tumblr.com/d82db766a50555cf4c32e818830ff3f2/f046b65b45e3005b-3b/s250x400/d963e9b2fbcf2236cdeea605f12c83ba1f1684c2.jpg"],
 
@@ -2648,7 +2648,7 @@ var database = [
 
 ["film", ["Transformers: Rise of the Beasts", "Transformers: Aufstieg der Bestien"], "2023", ["2023 06 18"], 7, ["ger"], ["action"], ["bini", "je"], ["Kino", "Transformers"], ["Steven Caple Jr."], ["Dominique Fishback"], "https://64.media.tumblr.com/7c7e0e4d544f32936435f25559faf491/314adb8d5230e9ad-68/s250x400/f4a926919bfbaa2580243e7b764d21d7b1fcc9a9.jpg"],
 
-["film", ["Die Wilden Hühner und die Liebe"], "2007", [["2023 06 19", ""]], 0, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/22ca3ec79801bd0ef54bc80423037991/32f0dacf10219d8e-f5/s250x400/19ac5bbbfbe2054f4e5ba43b4462e70d16106004.jpg"],
+["book", ["Die Wilden Hühner und die Liebe"], "2007", [["2023 06 19", ""]], 0, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/22ca3ec79801bd0ef54bc80423037991/32f0dacf10219d8e-f5/s250x400/19ac5bbbfbe2054f4e5ba43b4462e70d16106004.jpg"],
 
 ["series", ["Hajime no ippo"], ["2000", "2002"], [["2023 06 19", "", "S1"]], 0, ["eng"], ["anime", "action"], ["bini", "nico"], ["Netflix", "watching"], ["Kazuyuki Fudeyasu", "Daisuke Aranishi", "Ryosuke Nakamura"], [], "https://64.media.tumblr.com/734502d375e51134ebc6c8f63ce2511b/c7aa3cc407fca320-55/s250x400/1322ef7eab1b97dc737648c693b9dd43252585a0.jpg"],
 
