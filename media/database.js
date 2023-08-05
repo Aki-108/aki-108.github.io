@@ -213,7 +213,7 @@ var database = [
 	        
 ["film", ["The Gambler"], "2014", ["2017 12 17", "2020 08 25"], 6, ["ger"], ["crime", "drama"], ["syl"], ["Netflix"], ["Rupert Wyatt"], ["Mark Wahlberg", "Brie Larson"], "https://64.media.tumblr.com/59cf82bb84efbd634c6c8761158b6bf2/583455e823677e36-a7/s250x400/af609f8d1fcea387763918adc60780bec89e5358.jpg"],
 	        
-["film", ["Little Women"], "2019", ["2020 08 25"], 7, ["ger"], ["drama", "romance"], ["syl"], ["Kino", "March-Trilogie"], ["Greta Gerwig"], ["Saoirse Ronan", "Emma Watson", "Florence Pugh", "Laura Dern", "Timothée Chalamet", "Bob Odenkirk", "Sasha Frolova", "Hadley Robinson", "Eliza Scanlen"], "https://64.media.tumblr.com/e3f467bff2248eb7b30836a5e2ac65fb/396d88ffa1c90001-e5/s250x400/3de3c348f0a2305e3b8cc594f3accf60005f92c0.jpg"],
+["film", ["Little Women"], "2019", ["2020 08 25"], 7, ["ger"], ["drama", "romance"], ["syl"], ["Kino", "March-Trilogie"], ["Greta Gerwig"], ["Saoirse Ronan", "Emma Watson", "Florence Pugh", "Laura Dern", "Timothée Chalamet", "Bob Odenkirk", "Sasha Frolova", "Hadley Robinson", "Eliza Scanlen", "Ana Cruz Kayne"], "https://64.media.tumblr.com/e3f467bff2248eb7b30836a5e2ac65fb/396d88ffa1c90001-e5/s250x400/3de3c348f0a2305e3b8cc594f3accf60005f92c0.jpg"],
 	        
 ["series", ["Love, Chunibyo & Other Delusions", "Trotz Chūnibyō will ich mich verlieben!", "Chuunibyou demo Koi ga Shitai!"], "2012", [["2016 04 30", "S1E1-S1E3"], ["2020 08 20", "2020 08 24", "S1"], ["2022 02 22", "2022 03 20", "S1"], ["2022 03 20", "Special"]], 7, ["jap", "ger"], ["slice of life", "comedy", "drama", "romance", "school", "anime"], ["bini", "nico"], ["Chuunibyou"], ["Katelyn Barr", "Jukki Hanada", "Lainee Hooks"], [], "https://64.media.tumblr.com/92552cbd930a297548aeee4c833a93ff/6482341bf7df8348-72/s250x400/3a40be7e25c20f7790af98846c3abf7db1c65cfa.jpg"],
 	        
@@ -536,7 +536,7 @@ var database = [
 	        
 ["film", ["The Girl with Nine Wigs", "Heute bin ich blond"], "2013", ["2020 09 14"], 6, ["ger"], ["biography", "comedy"], [], ["DVD"], ["Marc Rothemund"], ["Daniel Zillmann", "Lisa Tomaschewsky", "Jasmin Gerat"], "https://64.media.tumblr.com/d2873bc102bc01289ae24f7d3dd8f008/060e3a6108445317-b9/s250x400/9e04e09f6a5fd1aea7d2854821f71f11533db4ce.jpg"],
 	        
-["film", ["All the Bright Places", "All die verdammt perfekten Tage"], "2020", ["2020 06 13", "2022 12 17"], 7, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Brett Haley"], ["Elle Fanning", "Justice Smith", "Keegan-Michael Key"], "https://66.media.tumblr.com/4234402071d21b4ad20bbc81763f21ed/e281213a508bcd3d-7d/s250x400/b70ea8db842311cd587b0b85ba7e42c90d88ce95.jpg"],
+["film", ["All the Bright Places", "All die verdammt perfekten Tage"], "2020", ["2020 06 13", "2022 12 17"], 7, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Brett Haley"], ["Elle Fanning", "Justice Smith", "Keegan-Michael Key", "Alexandra Shipp"], "https://66.media.tumblr.com/4234402071d21b4ad20bbc81763f21ed/e281213a508bcd3d-7d/s250x400/b70ea8db842311cd587b0b85ba7e42c90d88ce95.jpg"],
 	        
 ["film", ["Tigermilch"], "2017", ["2020 05 31"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Emily Kusche", "Milton Welsh"], "https://66.media.tumblr.com/81b55aa9054bce909909a7a43fe58e51/2012c6606283f3ab-4e/s250x400/c949a2422bf2f82cb85b9e3552f6b785eaf6ff18.jpg"],
 	        
@@ -1306,7 +1306,7 @@ var database = [
 	        
 ["film", ["Freche Mädchen"], "2008", ["2018 06 18"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Anke Engelke", "Anna Böttcher", "Christian Tramitz", "Wilson Gonzalez", "Gerda Böken", "Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel"], "https://66.media.tumblr.com/8faea0ec081e5bd5cf57b650c4ca294d/tumblr_pzktvjfw161v2s5upo1_250.jpg"],
 	        
-["film", ["Dude"], "2018", ["2018 05 16"], 6, ["ger"], ["comedy", "drama"], [], [], ["Olivia Milch"], ["Kathryn Prescott", "Awkwafina", "Alex Wolff"], "https://66.media.tumblr.com/702308077be02f4b8fa5db3a9615e29d/tumblr_pzfebsZgCo1v2s5upo1_250.jpg"],
+["film", ["Dude"], "2018", ["2018 05 16"], 6, ["ger"], ["comedy", "drama"], [], [], ["Olivia Milch"], ["Kathryn Prescott", "Awkwafina", "Alex Wolff", "Alexandra Shipp"], "https://66.media.tumblr.com/702308077be02f4b8fa5db3a9615e29d/tumblr_pzfebsZgCo1v2s5upo1_250.jpg"],
 	        
 ["film", ["Bibi Blocksberg"], "2002", ["2018 03 10"], 5, ["ger"], ["comedy", "family"], ["bini"], ["Bibi Blocksberg"], ["Hermine Huntgeburth"], ["Sidonie von Krosigk", "Katja Riemann"], "https://66.media.tumblr.com/ce02de8e989f7fec97130e504c9fed6b/tumblr_pzdf4jmvOy1v2s5upo1_250.jpg"],
 	        
@@ -1750,7 +1750,7 @@ var database = [
 
 ["film", ["Tomb Raider"], "2018", ["2021 03 23"], 7, ["ger"], ["action", "adventure"], ["bini"], [], ["Roar Uthaug"], ["Alicia Vikander", "Samuel Mak", "Nick Frost", "Hannah John-Kamen"], "https://64.media.tumblr.com/372792c09e88b1a2e5050a14d07c8d28/7390892fff0ee0a8-bc/s250x400/17b02720c477a1a90b24817b4956ddf80f6366b5.jpg"],
 
-["film", ["Deadpool 2"], "2018", [["2021 03 30", "2021 03 31"]], 6, ["ger"], ["action", "adventure", "sci-fi"], [], ["X-Men", "Marvel", "Netflix"], ["David Leitch"], ["Ryan Reynolds", "Josh Brolin", "Morena Baccarin", "Julian Dennison", "Zazie Beetz", "Karan Soni", "Brianna Hildebrand", "Eddie Marsan", "Terry Crews", "Brad Pitt", "Alan Tudyk", "Matt Damon", "Nicholas Hoult", "James McAvoy", "Evan Peters", "Tye Sheridan", "T.J. Miller"], "https://64.media.tumblr.com/dd71964ef1a86b54cab0298b59eed681/b3037834c87b497c-92/s250x400/908fe51a4a273d0398cc0d2f9d826453cb436461.jpg"],
+["film", ["Deadpool 2"], "2018", [["2021 03 30", "2021 03 31"]], 6, ["ger"], ["action", "adventure", "sci-fi"], [], ["X-Men", "Marvel", "Netflix"], ["David Leitch"], ["Ryan Reynolds", "Josh Brolin", "Morena Baccarin", "Julian Dennison", "Zazie Beetz", "Karan Soni", "Brianna Hildebrand", "Eddie Marsan", "Terry Crews", "Brad Pitt", "Alan Tudyk", "Matt Damon", "Nicholas Hoult", "James McAvoy", "Evan Peters", "Tye Sheridan", "T.J. Miller", "Alexandra Shipp"], "https://64.media.tumblr.com/dd71964ef1a86b54cab0298b59eed681/b3037834c87b497c-92/s250x400/908fe51a4a273d0398cc0d2f9d826453cb436461.jpg"],
 
 ["book", ["Percy Jackson & the Olympians: The Lightning Thief", "Percy Jackson: Diebe im Olymp"], "2005", [["2021 03 31", "2021 06 03"]], 5, ["ger"], ["fantasy"], [], ["Percy Jackson"], ["Rick Riordan"], [], "https://64.media.tumblr.com/4098b9175e3b3c8932382b62d6dfba88/7f7426adcf7ee8bd-ec/s250x400/b7c399658eb5a07d777c4ebc6e4e87e02e2be9b0.jpg"],
 
@@ -2051,7 +2051,7 @@ var database = [
 
 ["film", ["Still Out of My League", "Immer noch nicht meine Liga", "Ancora più bello"], "2021", ["2021 12 13"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Claudio Norza"], [], "https://64.media.tumblr.com/0aa4fd98b10748ee7420b2cb7c03dabf/0d0459a80a742b13-37/s250x400/b5f621cc550b2a06337fe547f4ae4fed226ba472.jpg"],
 
-["film", ["Shang-Chi and the Legend of the Ten Rings"], "2021", ["2021 12 14"], 6, ["ger"], ["action", "adventure"], [], ["Disney+", "Marvel"], ["Destin Daniel Cretton"], ["Awkwafina", "Ben Kingsley", "Zach Cherry"], "https://64.media.tumblr.com/76929d1573351d3bc442d047e4e6c34b/a5f8ee358500fc51-a2/s250x400/ea97225150bea7e032cbdbe5a571a20fd0a8fd7f.jpg"],
+["film", ["Shang-Chi and the Legend of the Ten Rings"], "2021", ["2021 12 14"], 6, ["ger"], ["action", "adventure"], [], ["Disney+", "Marvel"], ["Destin Daniel Cretton"], ["Awkwafina", "Ben Kingsley", "Zach Cherry", "Simu Liu"], "https://64.media.tumblr.com/76929d1573351d3bc442d047e4e6c34b/a5f8ee358500fc51-a2/s250x400/ea97225150bea7e032cbdbe5a571a20fd0a8fd7f.jpg"],
 
 ["film", ["Escape to Witch Mountain", "Die Flucht zum Hexenberg"], "1975", ["2021 12 15"], 4, ["ger"], ["adventure", "family"], [], ["Disney+"], ["John Hough"], ["Kim Richards", "Ike Eisenmann"], "https://64.media.tumblr.com/202b050f90d61bf528f7fad447e42483/ebdbb3f0bbc76cd0-ba/s250x400/e1e35daf84c7cd0857734f680e3ae36e9357ec64.jpg"],
 
@@ -2217,7 +2217,7 @@ var database = [
 
 ["book", ["Maniac Magee", "East End, West End und dazwischen Maniac Magee"], "1990", [["2022 05 01", "2022 05 15"]], 6, ["ger"], [], [], ["bibliothek"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/eba83b6d747fec37902bb193be553839/929dab40af472a01-98/s250x400/5ae720f5de4e6e5986b16bda63a78de08eb41a19.jpg"],
 
-["film", ["Death on the Nile", "Tod auf dem Nil"], "2022", ["2022 05 05"], 7, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Orlando Seale", "Kenneth Branagh", "Sophie Okonedo", "Russell Brand", "Tom Bateman", "Hayat Kamille"], "https://64.media.tumblr.com/72633d92436cf4de74d217de6c0d4212/2dca79524f634bee-61/s250x400/8775fbd68a8bb15cf1f07008ca90720cb3b4f96c.jpg"],
+["film", ["Death on the Nile", "Tod auf dem Nil"], "2022", ["2022 05 05"], 7, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Orlando Seale", "Kenneth Branagh", "Sophie Okonedo", "Russell Brand", "Tom Bateman", "Hayat Kamille", "Emma Mackey"], "https://64.media.tumblr.com/72633d92436cf4de74d217de6c0d4212/2dca79524f634bee-61/s250x400/8775fbd68a8bb15cf1f07008ca90720cb3b4f96c.jpg"],
 
 ["film", ["The Craft", "Der Hexenclub"], "1996", ["2022 05 08"], 8, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Andrew Fleming"], ["Robin Tunney"], "https://64.media.tumblr.com/3c030d96f34af7187abad628feffb7fb/152a7307000bcfca-da/s250x400/e87c53c238f2e91b4359a42428a5c35df9260498.jpg"],
 
@@ -2674,9 +2674,15 @@ var database = [
 
 ["audiobook", ["Das Schweigen der Abtissin"], "2021", [["2023 08 01", "2023 08 02"]], 8, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/452dafb98ce41bd2ba287827c7fe6a10/e6cb6a4f35673c12-97/s250x400/b8306bb86af0b7fef8cf721a9cae4199c305b0de.jpg"],
 
-["audiobook", ["Isottas letzter Wille"], "2022", [["2023 08 02", ""]], 0, ["ger"], ["crime"], [], ["watching", "bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/0d1451a509f894cc513286bc54456baa/54dfb176b1b84358-b4/s250x400/faae64bbb5f8e76dc9703b03ae181e98b2bb3026.jpg"],
+["audiobook", ["Isottas letzter Wille"], "2022", [["2023 08 02", "2023 08 04"]], 7, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/0d1451a509f894cc513286bc54456baa/54dfb176b1b84358-b4/s250x400/faae64bbb5f8e76dc9703b03ae181e98b2bb3026.jpg"],
 
-["series", ["Wonder Egg Priority"], "2021", [["2023 08 02", "", "S1"]], 0, ["jap"], ["anime", "drama", "fantasy", "action"], ["bini", "nico"], ["watching"], ["Kristen McGuire", "Shinji Nojima"], [], "https://64.media.tumblr.com/64980883c3720688c45f0553d75febe5/d34e2f0f7c313937-f9/s250x400/fd10173db678295f7be5ab0d470a381f2a2cfe80.jpg"]
+["series", ["Wonder Egg Priority"], "2021", [["2023 08 02", "", "S1"]], 0, ["jap"], ["anime", "drama", "fantasy", "action"], ["bini", "nico"], ["watching"], ["Kristen McGuire", "Shinji Nojima"], [], "https://64.media.tumblr.com/64980883c3720688c45f0553d75febe5/d34e2f0f7c313937-f9/s250x400/fd10173db678295f7be5ab0d470a381f2a2cfe80.jpg"],
+
+["audiobook", ["Sein letztes Abendmahl"], "2022", [["2023 08 05", ""]], 0, ["ger"], ["crime"], [], ["watching", "bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/f3c303d46b2678f903b062e6efaf7d7e/1e501dd28d1de6bc-4a/s250x400/d668761fabbc85477dfd09f6511d31f76ecf8942.jpg"],
+
+["film", ["Barbie"], "2023", ["2023 08 05"], 8, ["ger"], ["comedy"], ["bini", "je"], ["Kino"], ["Greta Gerwig"], ["Margot Robbie", "Alexandra Shipp", "Emma Mackey", "Ana Cruz Kayne", "Ritu Arya", "Dua Lipa", "Ryan Gosling", "Simu Liu", "John Cena", "Michael Cera"], "https://64.media.tumblr.com/339c8e42e8a7ddb06cfa56f7e5f5c353/091dc4ddc628f1a0-1e/s250x400/a53dfe1a3edd09ae6f25ad67236202bce70eb8c0.jpg"],
+
+["comic", ["Homestuck"], ["2009", "2016"], [["2023 08 04", ""]], 0, ["eng"], ["comedy", "adventure"], [], ["watching", "bby"], ["Andrew Hussie"], [], "https://64.media.tumblr.com/dbd56fa57602de75232ea6dc5a9c723a/962912a1219620dc-47/s250x400/341485f84a612c759ae49a8ed3e7a3aa03f86330.pnj"]
 
 /*
 ,
