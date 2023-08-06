@@ -2034,7 +2034,7 @@ var database = [
 
 ["film", ["Hotel Transylvania 3: Summer Vacation", "Hotel Transsilvanien 3 - Ein Monster Urlaub"], "2018", ["2021 12 05"], 5, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Genndy Tartakovsky"], [], "https://64.media.tumblr.com/5edf2ccb3a5f51ad63d932c94854ce62/e694826ba4fd0a57-6a/s250x400/d0244eeda13eefaac464d3b2f2d68a46008477a8.jpg"],
 
-["series", ["Das Haus Anubis"], ["2009", "2012"], [["2021 12 06", "2022 03 13", "S1"]], 6, ["ger"], ["adventure", "drama"], ["bini", "nico"], ["Netflix"], ["Jeroen van der Zee", "Susanne Biesinger"], ["Gerda Böken"], "https://64.media.tumblr.com/b946c528a2016fa0ff60064345fb6a74/5dc3dc2dc2f1ca70-16/s250x400/83249957a03efbec5f394b25e19319acd34fa3a6.jpg"],
+["series", ["Das Haus Anubis"], ["2009", "2012"], [["2021 12 06", "2022 03 13", "S1"], ["2023 08 06", "", "S2"]], 6, ["ger"], ["adventure", "drama"], ["bini", "nico"], ["Netflix", "watching"], ["Jeroen van der Zee", "Susanne Biesinger"], ["Gerda Böken"], "https://64.media.tumblr.com/b946c528a2016fa0ff60064345fb6a74/5dc3dc2dc2f1ca70-16/s250x400/83249957a03efbec5f394b25e19319acd34fa3a6.jpg"],
 
 ["series", ["Ergo Proxy"], "2006", [["2021 12 07", "2022 01 18", "S1"]], 5, ["ger"], ["anime", "mystery", "sci-fi", "action"], ["bini", "nico"], [], ["Yusuke Asayama", "Yûko Kawabe", "Junichi Matsumoto"], [], "https://64.media.tumblr.com/8338120e29832eb7970a5ff97acc0a60/67886bed1b9248af-1e/s250x400/2e90ed293d12c209041394995c06528fc96655df.jpg"],
 
