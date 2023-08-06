@@ -2581,7 +2581,7 @@ var database = [
 
 ["series", ["Bocchi the Rock!"], "2022", [["2023 04 05", "2023 04 19", "S1"]], 7, ["jap"], ["anime", "comedy"], ["bini", "nico"], [], ["Aki Hamaji", "Erika Yoshida"], [], "https://64.media.tumblr.com/d50e36c1ed2a7e4748f7b6f1ff7ec02f/a18455bd23bf84c6-b3/s250x400/a5eb1d6faac41b905a9c1c1391dd8bc702fcf11e.jpg"],
 
-["film", ["Whiplash"], "2014", ["2023 04 06"], 8, ["ger"], ["drama", "music"], [], ["Netflix"], ["Damien Chazelle"], ["Miles Teller", "J.K. Simmons", "Paul Reiser", "Melissa Benoist"], "https://64.media.tumblr.com/8195d31808920e07b61a81e25df4ec10/007f98966148ec20-c4/s250x400/7fd9bc716a1c7474c5a8b0e889cf50b828ef817a.jpg"],
+["film", ["Whiplash"], "2014", ["2023 04 06", "2023 08 06"], 8, ["ger"], ["drama", "music"], [], ["Netflix"], ["Damien Chazelle"], ["Miles Teller", "J.K. Simmons", "Paul Reiser", "Melissa Benoist"], "https://64.media.tumblr.com/8195d31808920e07b61a81e25df4ec10/007f98966148ec20-c4/s250x400/7fd9bc716a1c7474c5a8b0e889cf50b828ef817a.jpg"],
 
 ["film", ["The Green Knight"], "2021", ["2023 04 09"], 7, ["ger"], ["adventure", "drama"], [], ["Netflix"], ["David Lowery"], ["Dev Patel", "Alicia Vikander", "Sarita Choudhury", "Joel Edgerton"], "https://64.media.tumblr.com/4c6e18013c1927673532b9f0db5cd086/fd2dbb8deefcbfdc-86/s250x400/44417b26ca27ba8b74074533d41447ecfb3c8fd6.jpg"],
 
