@@ -2648,7 +2648,7 @@ var database = [
 
 ["film", ["Transformers: Rise of the Beasts", "Transformers: Aufstieg der Bestien"], "2023", ["2023 06 18"], 7, ["ger"], ["action"], ["bini", "je"], ["Kino", "Transformers"], ["Steven Caple Jr."], ["Dominique Fishback"], "https://64.media.tumblr.com/7c7e0e4d544f32936435f25559faf491/314adb8d5230e9ad-68/s250x400/f4a926919bfbaa2580243e7b764d21d7b1fcc9a9.jpg"],
 
-["book", ["Die Wilden Hühner und die Liebe"], "2007", [["2023 06 19", ""]], 0, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek", "watching"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/22ca3ec79801bd0ef54bc80423037991/32f0dacf10219d8e-f5/s250x400/19ac5bbbfbe2054f4e5ba43b4462e70d16106004.jpg"],
+["book", ["Die Wilden Hühner und die Liebe"], "2007", [["2023 06 19", "2023 08 07"]], 7, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/22ca3ec79801bd0ef54bc80423037991/32f0dacf10219d8e-f5/s250x400/19ac5bbbfbe2054f4e5ba43b4462e70d16106004.jpg"],
 
 ["series", ["Hajime no ippo"], ["2000", "2002"], [["2023 06 19", "", "S1"]], 0, ["eng"], ["anime", "action"], ["bini", "nico"], ["Netflix", "watching"], ["Kazuyuki Fudeyasu", "Daisuke Aranishi", "Ryosuke Nakamura"], [], "https://64.media.tumblr.com/734502d375e51134ebc6c8f63ce2511b/c7aa3cc407fca320-55/s250x400/1322ef7eab1b97dc737648c693b9dd43252585a0.jpg"],
 
