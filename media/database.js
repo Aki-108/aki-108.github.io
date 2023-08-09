@@ -2591,7 +2591,7 @@ var database = [
 
 ["series", ["Nomad: Megalo Box 2", "Nomad: Megalo Box 2", "Megalobox 2: Nomad"], "2021", [["2023 04 10", "2023 04 19", "S1"]], 0, ["jap"], ["anime", "sci-fi", "sport"], ["bini", "nico"], [], ["Ikki Kajiwara", "Kensaku Kojima", "Katsuhiko Manabe"], [], "https://64.media.tumblr.com/824832ae5eabffaa1154e1dc17d27cf2/6371363194eaf1e4-52/s250x400/0fd3a35d6942252a1eb9182a538c06cbc7b58884.jpg"],
 
-["series", ["Good Trouble"], ["2019", ""], [["2023 04 11", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing", "watching"], ["Bradley Bredeweg"], ["Maia Mitchell"], "https://64.media.tumblr.com/0e38206405116a7ca78e4b60d604c759/f9470cde4701d11b-11/s250x400/8264cf3362203ff2ae9140c93c430affc574749c.jpg"],
+["series", ["Good Trouble"], ["2019", ""], [["2023 04 11", "2023 04 16", "S1E1-S1E5"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing", "dropped"], ["Bradley Bredeweg"], ["Maia Mitchell"], "https://64.media.tumblr.com/0e38206405116a7ca78e4b60d604c759/f9470cde4701d11b-11/s250x400/8264cf3362203ff2ae9140c93c430affc574749c.jpg"],
 
 ["film", ["Girl, Interrupted", "Durchgeknallt"], "1999", ["2023 04 14"], 0, ["ger"], ["biography", "drama"], [], ["Netflix"], ["James Mangold"], ["Winona Ryder", "Angelina Jolie", "Brittany Murphy", "Whoopi Goldberg"], "https://64.media.tumblr.com/d6fa8cee8e6c7b80b4a4f3caf0e1331d/e2edf5e0b0002cb1-8f/s250x400/a4ad524a5937b6e718b61c4d6b9e180851e546b0.jpg"],
 
@@ -2640,7 +2640,7 @@ var database = [
 
 ["film", ["Airplane II: The Sequel", "Die unglaubliche Reise in einem verrückten Raumschiff"], "1982", ["2023 06 03"], 5, ["ger"], ["comedy"], ["bini", "syl", "je"], [], ["Ken Finkleman"], [], "https://64.media.tumblr.com/d82db766a50555cf4c32e818830ff3f2/f046b65b45e3005b-3b/s250x400/d963e9b2fbcf2236cdeea605f12c83ba1f1684c2.jpg"],
 
-["series", ["Terrace House: Opening New Doors", "Terrace House: Alte und neue Türen"], ["2017", "2019"], [["2023 06 04", "", "S1"]], 0, ["jap"], ["drama", "reality-tv"], ["bini", "nico"], ["Netflix", "watching"], ["You", "Reina Triendl", "Yoshimi Tokui"], [], "https://64.media.tumblr.com/bffb937328fc09f84a11421af604934d/6996437739b094e9-0a/s250x400/12fae2bdded8cc427c6b64583118734fbabc4a83.jpg"],
+["series", ["Terrace House: Opening New Doors", "Terrace House: Alte und neue Türen"], ["2017", "2019"], [["2023 06 04", "2023 08 06", "S1E1-S1E16"]], 0, ["jap"], ["drama", "reality-tv"], ["bini", "nico"], ["Netflix", "onhold"], ["You", "Reina Triendl", "Yoshimi Tokui"], [], "https://64.media.tumblr.com/bffb937328fc09f84a11421af604934d/6996437739b094e9-0a/s250x400/12fae2bdded8cc427c6b64583118734fbabc4a83.jpg"],
 
 ["audiobook", ["The Statistical Probability of Love at First Sight", "Die statische Wahrscheinlichkeit von Liebe auf den ersten Blick"], "2011", [["2023 06 09", "2023 06 19"]], 5, ["ger"], ["young adult"], [], ["bibliothek"], ["Jennifer E. Smith"], ["Anna Carlsson"], "https://64.media.tumblr.com/30f1c5debe7496f02e4449109e258fd9/c74c0b9eca8e6108-89/s250x400/3d69279bc039ef5259ff208a109b17b355a92f27.jpg"],
 
