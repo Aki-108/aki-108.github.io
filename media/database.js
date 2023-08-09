@@ -2678,7 +2678,7 @@ var database = [
 
 ["series", ["Wonder Egg Priority"], "2021", [["2023 08 02", "", "S1"]], 0, ["jap"], ["anime", "drama", "fantasy", "action"], ["bini", "nico"], ["watching"], ["Kristen McGuire", "Shinji Nojima"], [], "https://64.media.tumblr.com/64980883c3720688c45f0553d75febe5/d34e2f0f7c313937-f9/s250x400/fd10173db678295f7be5ab0d470a381f2a2cfe80.jpg"],
 
-["audiobook", ["Sein letztes Abendmahl"], "2022", [["2023 08 05", ""]], 0, ["ger"], ["crime"], [], ["watching", "bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/f3c303d46b2678f903b062e6efaf7d7e/1e501dd28d1de6bc-4a/s250x400/d668761fabbc85477dfd09f6511d31f76ecf8942.jpg"],
+["audiobook", ["Sein letztes Abendmahl"], "2022", [["2023 08 05", "2023 08 08"]], 8, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/f3c303d46b2678f903b062e6efaf7d7e/1e501dd28d1de6bc-4a/s250x400/d668761fabbc85477dfd09f6511d31f76ecf8942.jpg"],
 
 ["film", ["Barbie"], "2023", ["2023 08 05"], 8, ["ger"], ["comedy"], ["bini", "je"], ["Kino"], ["Greta Gerwig"], ["Margot Robbie", "Alexandra Shipp", "Emma Mackey", "Ana Cruz Kayne", "Ritu Arya", "Dua Lipa", "Ryan Gosling", "Simu Liu", "John Cena", "Michael Cera"], "https://64.media.tumblr.com/339c8e42e8a7ddb06cfa56f7e5f5c353/091dc4ddc628f1a0-1e/s250x400/a53dfe1a3edd09ae6f25ad67236202bce70eb8c0.jpg"],
 
@@ -2686,7 +2686,11 @@ var database = [
 
 ["film", ["Luckiest Girl Alive", "Ich. Bin. So. Glücklich."], "2022", ["2023 08 06"], 4, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Mike Barker"], ["Mila Kunis", "Chiara Aurelia"], "https://64.media.tumblr.com/60d090b8498b50dfa20561fa062f6226/eef8d7b6d2a97191-c2/s250x400/2b797da908c27c2ee78d6550ede948af62a33321.jpg"],
 
-["film", ["New York Minute", "Ein verrückter Tag in New York"], "2004", ["2023 08 06"], 4, ["ger"], ["comedy"], [], ["Netflix"], ["Dennie Gordon"], ["Ashley Olsen", "Mary-Kate Olsen"], "https://64.media.tumblr.com/6ba6aaf948c50af73997a2dbd2ec37cb/8e609316e571520e-11/s250x400/e24973425ff6f8e52493d57a18d9a612df79e8d6.jpg"]
+["film", ["New York Minute", "Ein verrückter Tag in New York"], "2004", ["2023 08 06"], 4, ["ger"], ["comedy"], [], ["Netflix"], ["Dennie Gordon"], ["Ashley Olsen", "Mary-Kate Olsen"], "https://64.media.tumblr.com/6ba6aaf948c50af73997a2dbd2ec37cb/8e609316e571520e-11/s250x400/e24973425ff6f8e52493d57a18d9a612df79e8d6.jpg"],
+
+["audiobook", ["Alte Geheimnisse schlummern tief"], "2022", [["2023 08 08", ""]], 0, ["ger"], ["crime"], [], ["watching", "bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/0ffba5543925242d49fcfcb47e2cb9ba/8549a79b444c2276-52/s250x400/9d15773c84e98341048f25e1c0c70f25ce15e4f7.jpg"],
+
+["book", ["La sinfonia del tempo breve", "Die Symphonie des Augenblicks", "La sinfonia del tempo breve"], "2009", [["2023 08 09", ""]], 0, ["ger"], [], [], ["watching"], ["Mattia Signorini"], [], "https://64.media.tumblr.com/280cf5ef995af36e96a7b6436eb4b8f0/3680562cf0945c26-f5/s400x600/5e3a0fb07f0a5c9e58cc475dd4822600e57f341c.jpg"]
 
 /*
 ,
