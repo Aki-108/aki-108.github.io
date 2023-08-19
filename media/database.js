@@ -472,7 +472,7 @@ var database = [
 	        
 ["film", ["Pirates of the Caribbean: On Stranger Tides", "Pirates of the Caribbean - Fremde Gezeiten"], "2011", ["2016 03 23", ["2021 10 06", "2021 10 07"]], 8, ["ger"], ["action", "adventure"], [], ["Fluch der Karibik", "Disney+"], ["Rob Marshall"], ["Johnny Depp", "Geoffrey Rush", "Judi Dench", "Richard Griffiths", "Gemma Ward", "Astrid Bergès-Frisbey", "Kevin McNally", "Sam Claflin", "Emilia Jones", "Penélope Cruz"], "https://49.media.tumblr.com/2220dcaf321ba3de02635574eaf4925c/tumblr_o4jewhpfkM1v2s5upo1_250.jpg"],
 	        
-["film", ["Dark Shadows"], "2012", ["2016 10 19", "2017 10 31"], 7, ["ger"], ["comedy", "fantasy"], ["bini", "nico", "sai"], ["Netflix"], ["Tim Burton"], ["Johnny Depp", "Michelle Pfeiffer", "Helena Bonham Carter", "Eva Green", "Chloë Grace Moretz", "Hannah Murray", "Christopher Lee", "Jackie Earle Haley", "Bella Heathcote"], "https://66.media.tumblr.com/72d7e1d695f1143db14cbb78f9caf1c0/tumblr_ofc9wvl12p1v2s5upo1_250.jpg"],
+["film", ["Dark Shadows"], "2012", ["2016 10 19", "2017 10 31", "2023 08 19"], 7, ["ger"], ["comedy", "fantasy"], ["bini", "nico", "sai"], ["Netflix"], ["Tim Burton"], ["Johnny Depp", "Michelle Pfeiffer", "Helena Bonham Carter", "Eva Green", "Chloë Grace Moretz", "Hannah Murray", "Christopher Lee", "Jackie Earle Haley", "Bella Heathcote"], "https://66.media.tumblr.com/72d7e1d695f1143db14cbb78f9caf1c0/tumblr_ofc9wvl12p1v2s5upo1_250.jpg"],
 	        
 ["film", ["Transcendence"], "2014", ["2017 01 27", "2020 06 13"], 7, ["ger"], ["action", "drama", "sci-fi"], [], ["Netflix"], ["Wally Pfister"], ["Johnny Depp", "Morgan Freeman", "Clifton Collins Jr.", "Xander Berkeley", "Rebecca Hall", "Kate Mara"], "https://68.media.tumblr.com/e20c6018d6932df10e90da04ffe4e8cd/tumblr_okjl5qW5Ou1v2s5upo1_250.jpg"],
 	        
@@ -2692,7 +2692,11 @@ var database = [
 
 ["book", ["La sinfonia del tempo breve", "Die Symphonie des Augenblicks", "La sinfonia del tempo breve"], "2009", [["2023 08 09", ""]], 0, ["ger"], [], [], ["watching"], ["Mattia Signorini"], [], "https://64.media.tumblr.com/280cf5ef995af36e96a7b6436eb4b8f0/3680562cf0945c26-f5/s400x600/5e3a0fb07f0a5c9e58cc475dd4822600e57f341c.jpg"],
 
-["film", ["Nellys Abenteuer"], "2016", ["2023 08 12"], 6, ["ger"], ["adventure", "family"], [], ["bibliothek"], ["Dominik Wessely"], ["Flora Li Thiemann"], "https://64.media.tumblr.com/bef01a074ae8d530d9b2e9668eccf0e0/50980d2b1cb1b209-cf/s250x400/fbb4d58ac010b5dae2fb7e4a6557c39fdf9fc97a.jpg"]
+["film", ["Nellys Abenteuer"], "2016", ["2023 08 12"], 6, ["ger"], ["adventure", "family"], [], ["bibliothek"], ["Dominik Wessely"], ["Flora Li Thiemann"], "https://64.media.tumblr.com/bef01a074ae8d530d9b2e9668eccf0e0/50980d2b1cb1b209-cf/s250x400/fbb4d58ac010b5dae2fb7e4a6557c39fdf9fc97a.jpg"],
+
+["audiobook", ["Das mörderische Manuskript"], "2022", [["2023 08 15", "2023 08 18"]], 9, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/82604a2d83e7863617796d14eb84a0d4/d9ebabab97fbcc29-02/s250x400/bc1813f423f61d082e07235f37dc3c0ffb9dbaa4.jpg"],
+
+["audiobook", ["Das Rätsel des Klosterkellers"], "2023", [["2023 08 19", ""]], 0, ["ger"], ["crime"], [], ["watching", "bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/6d5292a1bad982e1debffaac7f84318e/76e68c7f27aea97c-c6/s250x400/0cbd529238c7101d51db8a61f64d86003038348c.jpg"]
 
 /*
 ,
