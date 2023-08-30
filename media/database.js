@@ -2676,7 +2676,7 @@ var database = [
 
 ["audiobook", ["Isottas letzter Wille"], "2022", [["2023 08 02", "2023 08 04"]], 7, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/0d1451a509f894cc513286bc54456baa/54dfb176b1b84358-b4/s250x400/faae64bbb5f8e76dc9703b03ae181e98b2bb3026.jpg"],
 
-["series", ["Wonder Egg Priority"], "2021", [["2023 08 02", "", "S1"]], 0, ["jap"], ["anime", "drama", "fantasy", "action"], ["bini", "nico"], ["watching"], ["Kristen McGuire", "Shinji Nojima"], [], "https://64.media.tumblr.com/64980883c3720688c45f0553d75febe5/d34e2f0f7c313937-f9/s250x400/fd10173db678295f7be5ab0d470a381f2a2cfe80.jpg"],
+["series", ["Wonder Egg Priority"], "2021", [["2023 08 02", "2023 08 30", "S1"], ["2023 08 30", "Watashi no Priority"]], 8, ["jap"], ["anime", "drama", "fantasy", "action"], ["bini", "nico"], [], ["Kristen McGuire", "Shinji Nojima"], [], "https://64.media.tumblr.com/64980883c3720688c45f0553d75febe5/d34e2f0f7c313937-f9/s250x400/fd10173db678295f7be5ab0d470a381f2a2cfe80.jpg"],
 
 ["audiobook", ["Sein letztes Abendmahl"], "2022", [["2023 08 05", "2023 08 08"]], 8, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/f3c303d46b2678f903b062e6efaf7d7e/1e501dd28d1de6bc-4a/s250x400/d668761fabbc85477dfd09f6511d31f76ecf8942.jpg"],
 
