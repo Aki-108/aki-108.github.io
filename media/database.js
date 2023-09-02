@@ -2415,7 +2415,7 @@ var database = [
 
 ["film", ["Do Revenge"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Jennifer Kaytin Robinson"], ["Camila Mendes", "Maya Hawke", "Austin Abrams", "Alisha Boe", "Paris Berelc"], "https://64.media.tumblr.com/de614a637a4df381ed7f045087c2c4de/5b169a5927624bab-b0/s250x400/d44b1ee3845732d607f6050acf4eaab9028121fb.jpg"],
 
-["film", ["Rosaline"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Karen Maine"], ["Kaitlyn Dever", "Isabela Merced"], "https://64.media.tumblr.com/65ff2e4c37b30140025b9a67c743d80e/d66b54865dd0ca32-cb/s250x400/e4214a5a0ad73efdcaec7daf94d3e5578cfbf560.jpg"],
+["film", ["Rosaline"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Karen Maine"], ["Kaitlyn Dever", "Isabela Merced", "Minnie Driver"], "https://64.media.tumblr.com/65ff2e4c37b30140025b9a67c743d80e/d66b54865dd0ca32-cb/s250x400/e4214a5a0ad73efdcaec7daf94d3e5578cfbf560.jpg"],
 
 ["film", ["OMG: Oh My God!"], "2012", ["2022 10 23"], 7, ["hin"], ["comedy", "drama"], ["bini", "mai"], ["Netflix"], ["Umesh Shukla"], [], "https://64.media.tumblr.com/6c7ba0aa69300318c5c4422000992125/a32f24e90a5db3ce-e4/s250x400/a3543c8066037657a7d3ef2548a12619b4f129c4.jpg"],
 
@@ -2698,7 +2698,9 @@ var database = [
 
 ["audiobook", ["Das Rätsel des Klosterkellers"], "2023", [["2023 08 19", "2023 08 24"]], 8, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/6d5292a1bad982e1debffaac7f84318e/76e68c7f27aea97c-c6/s250x400/0cbd529238c7101d51db8a61f64d86003038348c.jpg"],
 
-["film", ["Queen of Niendorf", "Königin von Niendorf"], "2017", ["2023 08 26"], 7, ["ger"], ["family"], [], ["bibliothek"], ["Joya Thome"], [], "https://64.media.tumblr.com/c904abfa9427f6f7e1a13140efe2fd89/dd124705e623c908-9c/s250x400/e7b5590b13cfc43a8a06ce3bdcef20df52cc5067.jpg"]
+["film", ["Queen of Niendorf", "Königin von Niendorf"], "2017", ["2023 08 26"], 7, ["ger"], ["family"], [], ["bibliothek"], ["Joya Thome"], [], "https://64.media.tumblr.com/c904abfa9427f6f7e1a13140efe2fd89/dd124705e623c908-9c/s250x400/e7b5590b13cfc43a8a06ce3bdcef20df52cc5067.jpg"],
+
+["film", ["Good Will Hunting", "Good Will Hunting: Der gute Will Hunting"], "1997", ["2023 09 02"], 9, ["eng"], ["drama", "romance"], ["bini", "mai"], ["Netflix"], ["Gus Van Sant"], ["Matt Damon", "Stellan Skarsgård", "Minnie Driver", "Robin Williams"], "https://64.media.tumblr.com/001a30349ff3fbf59832105848e9b8ed/5af3bb044b132d0f-7d/s250x400/62b78d0c1e763a47fec18abd1e6324b3b24c51b2.jpg"]
 
 /*
 ,
