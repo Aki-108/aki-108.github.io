@@ -2683,7 +2683,8 @@ var database = [
 ["film", ["Barbie"], "2023", ["2023 08 05"], 8, ["ger"], ["comedy"], ["bini", "je"], ["Kino"], ["Greta Gerwig"], ["Margot Robbie", "Alexandra Shipp", "Emma Mackey", "Ana Cruz Kayne", "Ritu Arya", "Dua Lipa", "Ryan Gosling", "Simu Liu", "John Cena", "Michael Cera"], "https://64.media.tumblr.com/339c8e42e8a7ddb06cfa56f7e5f5c353/091dc4ddc628f1a0-1e/s250x400/a53dfe1a3edd09ae6f25ad67236202bce70eb8c0.jpg"],
 
 ["comic", ["Homestuck"], ["2009", "2016"], [["2023 08 04", ""]], 0, ["eng"], ["comedy", "adventure"], [], ["watching", "bby"], ["Andrew Hussie"], [], "https://64.media.tumblr.com/dbd56fa57602de75232ea6dc5a9c723a/962912a1219620dc-47/s250x400/341485f84a612c759ae49a8ed3e7a3aa03f86330.pnj"],
-
+/* Act 2 finished 230905 */
+	
 ["film", ["Luckiest Girl Alive", "Ich. Bin. So. Glücklich."], "2022", ["2023 08 06"], 4, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Mike Barker"], ["Mila Kunis", "Chiara Aurelia"], "https://64.media.tumblr.com/60d090b8498b50dfa20561fa062f6226/eef8d7b6d2a97191-c2/s250x400/2b797da908c27c2ee78d6550ede948af62a33321.jpg"],
 
 ["film", ["New York Minute", "Ein verrückter Tag in New York"], "2004", ["2023 08 06"], 4, ["ger"], ["comedy"], [], ["Netflix"], ["Dennie Gordon"], ["Ashley Olsen", "Mary-Kate Olsen"], "https://64.media.tumblr.com/6ba6aaf948c50af73997a2dbd2ec37cb/8e609316e571520e-11/s250x400/e24973425ff6f8e52493d57a18d9a612df79e8d6.jpg"],
@@ -2700,7 +2701,9 @@ var database = [
 
 ["film", ["Queen of Niendorf", "Königin von Niendorf"], "2017", ["2023 08 26"], 7, ["ger"], ["family"], [], ["bibliothek"], ["Joya Thome"], [], "https://64.media.tumblr.com/c904abfa9427f6f7e1a13140efe2fd89/dd124705e623c908-9c/s250x400/e7b5590b13cfc43a8a06ce3bdcef20df52cc5067.jpg"],
 
-["film", ["Good Will Hunting", "Good Will Hunting: Der gute Will Hunting"], "1997", ["2023 09 02"], 9, ["eng"], ["drama", "romance"], ["bini", "mai"], ["Netflix"], ["Gus Van Sant"], ["Matt Damon", "Stellan Skarsgård", "Minnie Driver", "Robin Williams"], "https://64.media.tumblr.com/001a30349ff3fbf59832105848e9b8ed/5af3bb044b132d0f-7d/s250x400/62b78d0c1e763a47fec18abd1e6324b3b24c51b2.jpg"]
+["film", ["Good Will Hunting", "Good Will Hunting: Der gute Will Hunting"], "1997", ["2023 09 02"], 9, ["eng"], ["drama", "romance"], ["bini", "mai"], ["Netflix"], ["Gus Van Sant"], ["Matt Damon", "Stellan Skarsgård", "Minnie Driver", "Robin Williams"], "https://64.media.tumblr.com/001a30349ff3fbf59832105848e9b8ed/5af3bb044b132d0f-7d/s250x400/62b78d0c1e763a47fec18abd1e6324b3b24c51b2.jpg"],
+
+["series", ["Die drei !!!"], "2023", [["2023 09 07", "", "S1"]], 0, ["ger"], ["crime"], [], ["watching", "Disney+"], ["Sina Flammang", "Doris Laske"], [], "https://64.media.tumblr.com/93ceeb11676971f09183ffc8566249b7/cc72d70a7e8c3a83-68/s250x400/9b3e23942e363fc9a2560d955aabd31c7be3f04b.jpg"]
 
 /*
 ,
