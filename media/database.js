@@ -2267,7 +2267,7 @@ var database = [
 
 ["film", ["Ride the Cyclone"], "2019", ["2022 06 20", "2023 07 28"], 9, ["eng"], ["musical"], [], [], ["Jacob Richmond", "Brooke Maxwell"], [], "https://64.media.tumblr.com/6fdde99368c6607bb175488e92bd7c9e/b1393f70ec05ffdc-82/s250x400/3a080007052d45177826e1c64d03e2376e7d68bb.jpg"],
 
-["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", "2022 08 07", "C1.1-C6.3"], ["2022 09 20", "2022 11 06", "C6.4-C8.8"], ["2023 08 08", "", "C8.8-"]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching", "ongoing"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
+["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", "2022 08 07", "C1.1-C6.3"], ["2022 09 20", "2022 11 06", "C6.4-C8.8"], ["2023 08 08", "2023 09 14", "C8.8-End"]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "ongoing"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
 
 ["film", ["Badhaai Do"], "2022", [["2022 06 25", "2022 07 01"]], 8, ["hin"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Harshavardhan Kulkarni"], [], "https://64.media.tumblr.com/19e098aca5d66b71f930e075026752cc/f9329bfd238d17a4-06/s250x400/929c766a8486a8cd4766a1759fab59ec27788188.jpg"],
 
