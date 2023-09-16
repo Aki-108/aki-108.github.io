@@ -2705,7 +2705,9 @@ var database = [
 
 ["series", ["Die drei !!!"], "2023", [["2023 09 07", "", "S1"]], 0, ["ger"], ["crime"], [], ["watching", "Disney+"], ["Sina Flammang", "Doris Laske"], [], "https://64.media.tumblr.com/93ceeb11676971f09183ffc8566249b7/cc72d70a7e8c3a83-68/s250x400/9b3e23942e363fc9a2560d955aabd31c7be3f04b.jpg"],
 
-["audiobook", ["V is for Virgin"], "2020", [["2023 09 09", ""]], 0, ["ger"], ["young adult"], [], ["watching", "bibliothek"], ["Kelly Oram"], ["Corinna Dorenkamp"], "https://64.media.tumblr.com/f45758bce49e70614ef0900b33a49c9c/b592fedd3e42edfe-ba/s250x400/b28f20aed210908f9f861621608cc83d8138512d.jpg"]
+["audiobook", ["V is for Virgin"], "2020", [["2023 09 09", "2023 09 16"]], 6, ["ger"], ["young adult"], [], ["bibliothek"], ["Kelly Oram"], ["Corinna Dorenkamp"], "https://64.media.tumblr.com/f45758bce49e70614ef0900b33a49c9c/b592fedd3e42edfe-ba/s250x400/b28f20aed210908f9f861621608cc83d8138512d.jpg"],
+
+["book", ["Silber – Das dritte Buch der Träume"], "2015", [["2023 09 14", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Kerstin Gier"], [], "https://64.media.tumblr.com/415bbde9e69a3d43cebcf93262256bd5/e6cbce3d3e2f2456-c1/s250x400/d8b737a4569e3cf708a162c08521d5d5f21b98e6.jpg"]
 
 /*
 ,
