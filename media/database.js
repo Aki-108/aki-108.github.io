@@ -2711,7 +2711,9 @@ var database = [
 
 ["film", ["Totally True Love", "Anne liebt Philipp", "Jørgen + Anne = sant"], "2011", ["2023 09 19"], 6, ["ger"], ["family", "mystery"], ["je"], ["bibliothek"], ["Anne Sewitsky"], [], "https://64.media.tumblr.com/61820e53d613f1792ca296698239f24a/13f730cc566dc31e-8a/s400x600/ddaf8b4a9d22692eedfbe9973d1d26580ef429b4.jpg"],
 
-["film", ["Wadjda", "Das Mädchen Wadjda"], "2012", ["2023 09 20"], 6, ["ger"], ["drama"], [], ["bibliothek"], ["Haifaa Al-Mansour"], [], "https://64.media.tumblr.com/3ac8b33856641c426cf2d07257381115/2c3fc800755b5d44-61/s250x400/d1f29ae1f2e7d05e50719e401386d7256e56fe6c.jpg"]
+["film", ["Wadjda", "Das Mädchen Wadjda"], "2012", ["2023 09 20"], 6, ["ger"], ["drama"], [], ["bibliothek"], ["Haifaa Al-Mansour"], [], "https://64.media.tumblr.com/3ac8b33856641c426cf2d07257381115/2c3fc800755b5d44-61/s250x400/d1f29ae1f2e7d05e50719e401386d7256e56fe6c.jpg"],
+
+["film", ["Plan A Plan B"], "2022", ["2023 09 23"], 5, ["hin"], ["comedy", "romance"], ["bini", "mai"], ["Netflix"], ["Shashanka Ghosh"], [], "https://64.media.tumblr.com/cd7ec6bede9be59d23560edfce03fce4/0dd939efc75415be-e0/s250x400/430af5b6ef8af7f42359e6da368cd5f506e9499f.jpg"]
 
 /*
 ,
