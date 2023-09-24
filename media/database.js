@@ -670,7 +670,7 @@ var database = [
 	        
 ["film", ["The Half of It", "Nur die halbe Geschichte"], "2020", ["2020 05 15"], 6, ["ger"], ["comedy", "drama"], ["bini", "syl", "je"], ["Netflix", "LGBT"], ["Alice Wu"], ["Leah Lewis", "Daniel Diemer"], "https://66.media.tumblr.com/bc4d97781ba36fa83812d1a371da39b2/c039f77f563a91ce-0f/s250x400/1f5b9944f8affb4f7fa34dbb02809379985deaf7.jpg"],
 	        
-["film", ["6 Underground"], "2019", ["2020 01 31"], 5, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Michael Bay"], ["Ryan Reynolds", "Mélanie Laurent", "Dave Franco"], "https://66.media.tumblr.com/b53a443d88cf76f081441443502fe8f8/3d806c3e2fe172ec-4b/s250x400/9f93adcda729ae4e9e48bda869f3df541d6b574f.jpg"],
+["film", ["6 Underground"], "2019", ["2020 01 31"], 5, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Michael Bay"], ["Ryan Reynolds", "Mélanie Laurent", "Dave Franco", "Ben Hardy"], "https://66.media.tumblr.com/b53a443d88cf76f081441443502fe8f8/3d806c3e2fe172ec-4b/s250x400/9f93adcda729ae4e9e48bda869f3df541d6b574f.jpg"],
 	        
 ["film", ["The Family", "Malavita - The Family"], "2013", ["2020 01 29", "2023 04 14"], 9, ["ger", "eng"], ["comedy", "crime"], [], ["Netflix", "bby"], ["Luc Besson"], ["Robert De Niro", "Michelle Pfeiffer", "Dianna Agron", "Tommy Lee Jones", "Moussa Maaskri", "Mario Pecqueur"], "https://66.media.tumblr.com/0f27115fbd083328a3f6e526d5e1fc83/4c3103e169298be5-3e/s250x400/2e76361e8f5b723c2ca95e545e3de3bd0a1790af.jpg"],
 	        
@@ -856,7 +856,7 @@ var database = [
 	        
 ["film", ["Invisible Sister", "Überraschend unsichtbar"], "2015", ["2016 10 21"], 7, ["ger"], ["comedy"], [], [], ["Paul Hoen"], ["Rowan Blanchard", "Paris Berelc", "Karan Brar"], "https://66.media.tumblr.com/70e6e70f96a83c55bc2bce7401348575/tumblr_ofez6snN8w1v2s5upo1_250.jpg"],
 	        
-["film", ["X-Men: Apocalypse"], "2016", ["2016 10 21"], 7, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel"], ["Bryan Singer"], ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Nicholas Hoult", "Evan Peters", "Tye Sheridan", "Lana Condor", "Stan Lee", "Zeljko Ivanek", "Hugh Jackman", "Alexandra Shipp"], "https://66.media.tumblr.com/7f10be72d9112640fb906a002ccfd4f6/tumblr_ofehce2Pw51v2s5upo1_250.jpg"],
+["film", ["X-Men: Apocalypse"], "2016", ["2016 10 21"], 7, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel"], ["Bryan Singer"], ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Nicholas Hoult", "Evan Peters", "Tye Sheridan", "Lana Condor", "Stan Lee", "Zeljko Ivanek", "Hugh Jackman", "Alexandra Shipp", "Ben Hardy"], "https://66.media.tumblr.com/7f10be72d9112640fb906a002ccfd4f6/tumblr_ofehce2Pw51v2s5upo1_250.jpg"],
 	        
 ["film", ["Ex Machina"], "2014", ["2016 10 15"], 7, ["ger"], ["drama", "sci-fi"], [], [], ["Alex Garland"], ["Domhnall Gleeson", "Oscar Isaac", "Alicia Vikander"], "https://68.media.tumblr.com/97dab00446b2dfe145915ab8e67df8ac/tumblr_of3rnupqdD1v2s5upo1_250.jpg"],
 	        
@@ -1340,7 +1340,7 @@ var database = [
 	        
 ["film", ["Central Intelligence"], "2016", ["2017 07 06"], 5, ["ger"], ["action", "comedy"], [], ["Schule"], ["Rawson Marshall Thurber"], ["Dwayne Johnson", "Kevin Hart", "Jason Bateman", "Aaron Paul"], "https://66.media.tumblr.com/9f093ced17b179c56ab64b0e590886ae/tumblr_ppuvxgQHe01v2s5upo1_250.jpg"],
 	        
-["film", ["Welcome to the Sticks", "Willkommen bei den Sch'tis", "Bienvenue chez les Ch'tis"], "2008", ["2017 07 03"], 7, ["ger"], ["comedy", "romance"], ["jenny"], ["Schule"], ["Dany Boon"], [], "https://66.media.tumblr.com/b1ae0738fbde9f1847042a91efd02a96/tumblr_ppuvo9umAb1v2s5upo1_250.jpg"],
+["film", ["Welcome to the Sticks", "Willkommen bei den Sch'tis", "Bienvenue chez les Ch'tis"], "2008", ["2017 07 03"], 7, ["ger"], ["comedy", "romance"], ["jenny"], ["Schule"], ["Dany Boon"], ["Kad Merad"], "https://66.media.tumblr.com/b1ae0738fbde9f1847042a91efd02a96/tumblr_ppuvo9umAb1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Shamer's Daughter", "Die Hüterin der Wahrheit - Dinas Bestimmung"], "2015", ["2017 04 12"], 6, ["ger"], ["adventure", "drama"], [], [], ["Kenneth Kainz"], [], "https://68.media.tumblr.com/b3e358060648c9ec15625ff3d0054917/tumblr_oor7e2Ysld1v2s5upo1_250.jpg"],
 	        
@@ -2713,7 +2713,11 @@ var database = [
 
 ["film", ["Wadjda", "Das Mädchen Wadjda"], "2012", ["2023 09 20"], 6, ["ger"], ["drama"], [], ["bibliothek"], ["Haifaa Al-Mansour"], [], "https://64.media.tumblr.com/3ac8b33856641c426cf2d07257381115/2c3fc800755b5d44-61/s250x400/d1f29ae1f2e7d05e50719e401386d7256e56fe6c.jpg"],
 
-["film", ["Plan A Plan B"], "2022", ["2023 09 23"], 5, ["hin"], ["comedy", "romance"], ["bini", "mai"], ["Netflix"], ["Shashanka Ghosh"], [], "https://64.media.tumblr.com/cd7ec6bede9be59d23560edfce03fce4/0dd939efc75415be-e0/s250x400/430af5b6ef8af7f42359e6da368cd5f506e9499f.jpg"]
+["film", ["Plan A Plan B"], "2022", ["2023 09 23"], 5, ["hin"], ["comedy", "romance"], ["bini", "mai"], ["Netflix"], ["Shashanka Ghosh"], [], "https://64.media.tumblr.com/cd7ec6bede9be59d23560edfce03fce4/0dd939efc75415be-e0/s250x400/430af5b6ef8af7f42359e6da368cd5f506e9499f.jpg"],
+
+["film", ["The Chorus", "Die Kinder des Monsieur Mathieu", "Les choristes"], "2004", ["2023 09 24"], 7, ["ger"], ["drama", "music"], [], ["bibliothek"], ["Christophe Barratier"], ["Kad Merad"], "https://64.media.tumblr.com/de0a57975b9d978981a766ef2badc975/591bf1b64e72c4a4-ea/s250x400/0ba8ad6681bf6d1f339912804c47a85480a58bbb.jpg"],
+
+["film", ["Love at First Sight", "Die statistische Wahrscheinlichkeit von Liebe auf den ersten Blick"], "2023", ["2023 09 24"], 6, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Vanessa Caswill"], ["Haley Lu Richardson", "Ben Hardy"], "https://64.media.tumblr.com/f491162dc045e1000b49e98016652e62/7a58fa4f61d96b9d-e5/s250x400/3aff1a934e79a66f3e25fda44c6f9b2d80546c70.jpg"]
 
 /*
 ,
