@@ -1,0 +1,439 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Links</title>
+<style>
+body {
+	margin: 0;
+	background-color: var(--darkGrey);  
+	font-family: "Calibri", sans-serif;
+}
+
+header {
+	background-color: var(--midGrey);
+	padding: 1em;
+	display: flex;
+	flex-direction: row-reverse;  
+	position: fixed;
+  width: 100vw;
+  box-sizing: border-box;
+  top:0;
+}
+
+#searchInput {
+	border: 1px solid var(--textColor);
+	background-color: var(--midGrey);
+	font-size: 2em;
+	color: var(--textColor);
+	border-radius: 5px;
+	padding: 0 .4em;
+}
+
+#newButton {
+	width: 50px;
+  height: 50px;
+  border: 1px solid var(--textColor);
+  background-color: var(--midGrey);
+  border-radius: 5%;
+  padding: 0;
+  margin: 0;
+    width: calc(50px + 5em);
+  padding: 4px 0;
+  cursor: pointer;
+}
+#newButton::after {
+  content: "New";
+  height: 0;
+  padding: 0;
+  color: var(--textColor);
+  font-size: 2em;
+  position: relative;
+  top: -37px;
+  left: 22px;
+}
+
+#newButton div:nth-child(1) {
+	width: 35px;
+  background-color: var(--textColor);
+  height: 5px;
+  position: relative;
+  top: 18.5px;
+  left: 7px;
+}
+
+#newButton div:nth-child(2) {
+	height: 35px;
+  width: 5px;
+  background-color: var(--textColor);
+  position: relative;
+  left: 22px;
+  top: -2px;
+}
+
+#settingsButton {
+	width: 48px;
+  height: 48px;
+  background-color: var(--midGrey);
+  border: 1px solid var(--textColor);
+  border-radius: 5%;
+  margin: 0;
+  padding: 0;
+    padding: 1px 0;
+  text-decoration: navajowhite;
+  height: 46.5px;
+  width: calc(48px + 7em);
+}
+#settingsButton::after {
+  content: "Settings";
+  height: 0;
+  padding: 0;
+  color: var(--textColor);
+  font-size: 2em;
+  position: relative;  
+  top: -47px;
+  left: 50px;
+}
+
+#settingsButton div {
+	width: 40px;
+  height: 5px;
+  background-color: var(--textColor);
+  position: relative;
+}
+
+#settingsButton div:nth-child(1) {
+	  top: 21.5px;
+  left: 4.5px;
+}
+
+#settingsButton div:nth-child(2) { 
+ transform: rotate(45deg);
+   top: 16.5px;
+  left: 4.5px;
+}
+
+#settingsButton div:nth-child(3) {
+	  transform: rotate(90deg);
+	    top: 11.5px;
+  left: 4.5px;
+}
+
+#settingsButton div:nth-child(4) {
+	  transform: rotate(135deg);
+	    top: 6.5px;
+  left: 4.5px;
+}
+
+#settingsButton div:nth-child(5) {
+width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  background-color: var(--midGrey);
+  top: -10.5px;
+  border: 5px solid var(--textColor);
+  left: 9.5px;
+}
+
+#scrollArea {
+height: calc(100vh - 80px);
+  display: grid;
+  grid-template-rows: auto 48px;
+  margin-top: 5em;
+  overflow: hidden scroll;
+}
+
+main {
+	display: flex;
+	justify-content: center;
+	padding: 2em;  
+	flex-wrap: wrap;
+  gap: 1em;
+}
+
+main a {
+	width: 300px;
+	height: 150px;
+	background-color: var(--midGrey);
+	text-align: center;
+	line-height: 150px;
+	font-size: 4em;
+  background-position: 10px 10px;
+  background-size: 48px;
+  background-repeat: no-repeat;
+  color: var(--textColor);
+  text-decoration: none;
+}
+
+footer {
+	  background-color: var(--midGrey);
+  height: 3em;
+  line-height: 3em;
+  text-align: center;
+  color: var(--textColor);
+}
+
+footer p {
+	margin: 0;
+}
+
+dialog {
+	display: none;
+  grid-template-columns: 20% 30% 50%;
+  padding: 0;
+    background-color: var(--darkGrey);
+  color: var(--textColor);
+  border: none;
+}
+dialog::backdrop {
+	background-color: #24292f;
+	opacity: 0.7;
+}
+dialog[open=""] {
+	display: grid;
+}
+
+dialog h1 {
+	  grid-column-start: 1;
+  grid-column-end: 4;
+    padding: 0.2em 1em;
+  text-align: center;
+  margin: 0;
+  border-bottom: 1px solid black;
+  background-color: var(--midGrey);
+  color: var(--textColor);
+}
+
+dialog label {
+	  margin: 20px;
+  font-size: 2em;
+}
+
+dialog input {
+  font-size: 2em;
+    border: none;
+  border-radius: 0;
+  padding: 0 0.2em;
+  margin: 0;
+    background-color: var(--midGrey);
+  color: var(--textColor);
+}
+
+#titleInput,
+#urlInput {
+	  grid-column-start: 2;
+  grid-column-end: 4;
+	  margin: 20px;
+}
+
+#colorBox {
+	  grid-column-start: 2;
+  grid-column-end: 4;
+  display: grid;
+  grid-template-columns: 40px auto;
+    width: calc(100% - 40px);
+  padding: 20px;
+}
+
+#colorInput {
+	  width: 100%;
+  height: 100%;
+  padding: 0;
+  cursor: pointer;
+}
+
+#hexInput {
+	  width: calc(100% - 14px);
+}
+
+#buttonCancel {
+	  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+dialog button {
+	font-size: 2em;
+	  margin: 0 20px 20px 20px;
+  background-color: var(--midGrey);
+  color: var(--textColor);
+  border: 1px solid transparent;
+  padding: 0.3em 1em;
+  cursor: pointer;
+}
+
+#preview {
+	  display: flex;
+  justify-content: center;
+  grid-column-start: 1;
+  grid-column-end: 4;
+    margin-bottom: 20px;
+}
+
+#preview div {
+	height: 2em;
+	line-height: 2em;
+	  font-size: 2em;
+  padding: 0 0.5em;
+  text-align: center;
+}
+
+:root {
+	--darkGrey: #0d1117;
+	--midGrey: #24292f;
+	--textColor: #e6edf3;
+}
+</style>
+</head>
+<body>
+
+<header id="header">
+	<input id="searchInput" placeholder="Search"></input>
+	<button id="newButton" onclick="newLink()"><div></div><div></div></button>
+	<a id="settingsButton" href="/settings"><div></div><div></div><div></div><div></div><div></div></a>
+</header>
+
+<div id="scrollArea">
+<main id="main">
+</main>
+	
+<footer id="footer">
+	<p>
+		made by Aki108 ― October 2023 ― V0.1
+	</p>
+</footer>
+</div>
+
+<dialog id="modal">
+	<h1>Add a new Link</h1>
+	<label for="titleInput">
+		Title:
+	</label>
+	<input 
+		id="titleInput" 
+		onkeyup="updatePreview()">
+	</input>
+	<label for="urlInput">
+		URL:
+	</label>
+	<input id="urlInput"></input>
+	<label for="colorInput">
+		Color:
+	</label>
+	<div id="colorBox">
+		<input 
+			type="color" 
+			id="colorInput" 
+			oninput="updatePreview()">
+		</input>
+		<input 
+			id="hexInput" 
+			oninput="enterHex()" 
+			maxlength="7">
+		</input>
+	</div>
+	<div id="preview">
+		<div>
+		</div>
+	</div>
+	<button 
+		id="buttonCancel" 
+		onclick="closeModal()">
+			Cancel
+	</button>
+	<button 
+		id="buttonSave" 
+		onclick="saveLink()">
+			Save
+	</button>
+</dialog>
+
+</body>
+
+<script>
+	let links = [{title: "Netflix", icon: "https://www.netflix.com/favicon.ico", color: "", url: "https://www.netflix.com/"}];
+	let modal = document.getElementById("modal");
+	loadData();
+	displayLinks();
+	
+	function loadData() {
+		links = JSON.parse(localStorage.getItem("linkData") || "[]");
+	}
+	
+	function saveData() {
+		localStorage.setItem("linkData", JSON.stringify(links));
+	}
+	
+	function displayLinks() {
+		let main = document.getElementById("main");
+		main.innerHTML = "";
+		//for (let a = 0; a < 30; a++)
+		links.forEach(function(link) {
+			let element = document.createElement("a");
+			element.innerHTML = link.title || "";
+			element.style.backgroundColor = link.color || "var(--midGrey)";
+			element.style.backgroundImage = "url(" + link.icon + ")";
+			element.href = link.url;
+			main.appendChild(element);
+		});
+	modal.close();
+	}
+		
+	function newLink() {
+		let color = randomColor();
+		document.getElementById("titleInput").value = "";
+		document.getElementById("urlInput").value = "";
+		document.getElementById("urlInput").style.backgroundColor = "var(--midGrey)";
+		document.getElementById("colorInput").value = color;
+		document.getElementById("hexInput").value = color;
+		updatePreview();
+		modal.showModal();
+	}
+	
+	function saveLink() {		
+		let url;
+		try {
+			url = new URL(document.getElementById("urlInput").value);
+		} catch(error) {
+			document.getElementById("urlInput").style.backgroundColor = "red";//todo dark red
+			document.getElementById("urlInput").focus();
+			return;
+		}
+		
+		links.push({
+			title: document.getElementById("titleInput").value,
+			url: document.getElementById("urlInput").value,
+			color: document.getElementById("colorInput").value,
+			icon: url.protocol + "//" + url.hostname + "/favicon.ico"
+		});
+		saveData();
+		displayLinks();
+		closeModal();
+	}
+	
+	function closeModal() {
+		modal.close();
+	}
+	
+	function randomColor() {
+		let colors = ["#252933", "#404556", "#60515C", "#386775", "#20504E", "#193D31", "#17292B"];
+		let index = Math.floor(Math.random() * colors.length);
+		return colors[index];
+	}
+	
+	function updatePreview() {
+		let preview = document.getElementById("preview").children[0];
+		preview.style.backgroundColor = document.getElementById("colorInput").value;
+		preview.innerHTML = document.getElementById("titleInput").value;
+	}
+	
+	function enterHex() {
+		document.getElementById("colorInput").value = document.getElementById("hexInput").value;
+	}
+	
+	//TODO
+	//search List
+	//sort List (manuel, by frequency, by name)
+	//record frequently used
+	//themes
+	//view localstorage
+</script>
+</html> 
