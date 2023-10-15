@@ -578,7 +578,7 @@ var database = [
 	        
 ["film", ["The Virgin Suicides", "The Virgin Suicides - Verlorene Jugend"], "1999", ["2015 08 30", "2016 08 13"], 9, ["ger"], ["drama", "romance"], [], [], ["Sofia Coppola"], ["Kirsten Dunst", "Danny DeVito"], "https://40.media.tumblr.com/71765bd581b584f16cddae7574c9eeff/tumblr_o0p1t2Azpk1v2s5upo1_250.jpg"],
 	        
-["film", ["The Lovely Bones", "In meinem Himmel"], "2009", ["2015 09 05"], 9, ["ger"], ["drama"], ["bini", "syl"], [], ["Peter Jackson"], ["Mark Wahlberg", "Stanley Tucci", "Saoirse Ronan", "AJ Michalka", "Peter Jackson"], "https://40.media.tumblr.com/59174cdcb45dae0ee391972f62671a27/tumblr_o0p4w7xCtV1v2s5upo1_250.jpg"],
+["film", ["The Lovely Bones", "In meinem Himmel"], "2009", ["2015 09 05"], 9, ["ger"], ["drama"], ["bini", "syl"], [], ["Peter Jackson"], ["Mark Wahlberg", "Stanley Tucci", "Saoirse Ronan", "AJ Michalka", "Peter Jackson", "Rachel Weisz"], "https://40.media.tumblr.com/59174cdcb45dae0ee391972f62671a27/tumblr_o0p4w7xCtV1v2s5upo1_250.jpg"],
 	        
 ["film", ["Stand by Me", "Stand by Me: Das Geheimnis eines Sommers"], "1986", ["2015 09 10", "2016 09 25"], 9, ["ger"], ["adventure", "drama"], ["bini", "nico"], [], ["Rob Reiner"], ["Jerry O'Connell"], "https://40.media.tumblr.com/bba18c1a5b52bf684b609263c5975760/tumblr_o0suhzhX1C1v2s5upo1_250.jpg"],
 	        
@@ -1210,7 +1210,7 @@ var database = [
 	        
 ["film", ["Dead Poets Society", "Der Club der toten Dichter"], "1989", ["2015 12 22", "2023 05 26"], 8, ["ger"], ["comedy", "drama"], ["bini", "syl", "je"], [], ["Peter Weir"], ["Robin Williams"], "https://40.media.tumblr.com/4ef53f4ffdb4ff8ce75ec0afd1850b93/tumblr_nzs3t3Nuux1v2s5upo1_250.jpg"],
 	        
-["film", ["Oz the Great and Powerful", "Die fantastische Welt von Oz"], "2013", ["2015 12 22"], 4, ["ger"], ["adventure", "family"], [], ["Oz"], ["Sam Raimi"], ["James Franco", "Mila Kunis", "Michelle Williams", "Zach Braff", "Joey King", "Bill Cobbs"], "https://49.media.tumblr.com/d2b287563da1b159da5b84126e2fc939/tumblr_nzs58qzhJX1v2s5upo1_250.jpg"],
+["film", ["Oz the Great and Powerful", "Die fantastische Welt von Oz"], "2013", ["2015 12 22"], 4, ["ger"], ["adventure", "family"], [], ["Oz"], ["Sam Raimi"], ["James Franco", "Mila Kunis", "Michelle Williams", "Zach Braff", "Joey King", "Bill Cobbs", "Rachel Weisz"], "https://49.media.tumblr.com/d2b287563da1b159da5b84126e2fc939/tumblr_nzs58qzhJX1v2s5upo1_250.jpg"],
 	        
 ["film", ["My Fair Lady"], "1964", ["2015 12 23"], 7, ["ger"], ["drama", "family", "musical"], [], [], ["George Cukor"], ["Audrey Hepburn"], "https://40.media.tumblr.com/df7a7ee51c81342fd6592e421ee704dc/tumblr_nzv4p6keYJ1v2s5upo1_250.jpg"],
 	        
@@ -2733,7 +2733,11 @@ var database = [
 
 ["film", ["Run Rabbit Run"], "2023", ["2023 10 08"], 0, ["ger"], ["horror", "thriller"], [], ["Netflix", "dropped"], ["Daina Reid"], [], "https://64.media.tumblr.com/ed868a3456d0fb5421a37aa1b89e98d5/09aa81c5e63b3aba-34/s250x400/699926324587a0817eb71dac2c52e767878972fc.jpg"],
 
-["film", ["The Strays"], "2023", ["2023 10 09"], 4, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Nathaniel Martello-White"], ["Ashley Madekwe"], "https://64.media.tumblr.com/ba6b3766808b3ec3bdac52a7ba967291/5247c6fcee3c4514-1c/s250x400/4428c77de7f8c617b42e517f3480744533e7ec29.jpg"]
+["film", ["The Strays"], "2023", ["2023 10 09"], 4, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Nathaniel Martello-White"], ["Ashley Madekwe"], "https://64.media.tumblr.com/ba6b3766808b3ec3bdac52a7ba967291/5247c6fcee3c4514-1c/s250x400/4428c77de7f8c617b42e517f3480744533e7ec29.jpg"],
+
+["film", ["The Mummy", "Die Mumie"], "1999", ["2023 10 09"], 6, ["ger"], ["action", "adventure"], ["je"], ["Netflix"], ["Stephen Sommers"], ["Rachel Weisz"], "https://64.media.tumblr.com/7e9d3ce4e9dde185ea969eebfd64e87e/8a580e0c41a8ea20-cd/s250x400/db472d83a9eea87a555d9162bb277a1d4a80220a.jpg"],
+
+["film", ["Die Wilden Kerle: Alles ist gut, solange du wild bist!"], "2003", ["2023 10 09"], 5, ["ger"], ["family"], [], ["Disney+"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/22572c7b8f344487e885fa2de912b413/7cb33ba879c25a00-8c/s250x400/3e322022270464516f92d8a75264561613da9a53.jpg"]
 
 /*
 ,
