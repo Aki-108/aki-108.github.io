@@ -410,7 +410,7 @@ var database = [
 	        
 ["series", ["Terrace House: Boys & Girls in the City", "Terrace House"], ["2015", "2016"], [["2019 10 13", "2019 12 24", "S1E1-S1E18"], ["2021 07 24", "2021 09 08", "S1E19-E46"]], 8, ["jap"], ["reality-tv"], ["bini"], ["Netflix"], ["Masato Maeda"], [], "https://64.media.tumblr.com/dc96a41efcde322ebdd67f4205a4866a/95c8f7faf9c9026e-88/s250x400/6132e1085b759b2b17ac7a2b99bd5cca09b1f3a9.jpg"],
 	        
-["series", ["The Umbrella Academy"], "2019", [["2020 08 05", "2020 08 15", "S1"], ["2020 10 17", "2020 10 30", "S2"], ["2022 06 22", "2022 07 01", "S3"]], 6, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix", "ongoing", "LGBT"], ["Steve Blackman", "Jeremy Slater"], ["Elliot Page", "Kate Walsh", "Adam Godley", "Robert Sheehan", "Ritu Arya"], "https://64.media.tumblr.com/b5ed5269616d02fb18efc291045bedd5/36d8ed15d27df2ff-1a/s250x400/4bcce2e2fd2493e604208f974ac75822129df3e6.jpg"],
+["series", ["The Umbrella Academy"], "2019", [["2020 08 05", "2020 08 15", "S1"], ["2020 10 17", "2020 10 30", "S2"], ["2022 06 22", "2022 07 01", "S3"]], 6, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix", "ongoing", "LGBT"], ["Steve Blackman", "Jeremy Slater"], ["Elliot Page", "Kate Walsh", "Adam Godley", "Robert Sheehan", "Ritu Arya", "Ashley Madekwe"], "https://64.media.tumblr.com/b5ed5269616d02fb18efc291045bedd5/36d8ed15d27df2ff-1a/s250x400/4bcce2e2fd2493e604208f974ac75822129df3e6.jpg"],
 	        
 ["film", ["Princess Mononoke"], "1997", ["2015 08 22", "2016 06 19", "2019 01 25", "2022 03 05"], 9, ["ger", "jap"], ["anime", "adventure", "fantasy"], ["bini", "mai"], ["Ghibli", "fav", "bby", "Netflix"], ["Hayao Miyazaki"], [], "https://40.media.tumblr.com/b65d33b18937b9e0d46918deaf9afad4/tumblr_o0du7hYEVy1v2s5upo1_250.jpg"],
 	        
@@ -1080,7 +1080,7 @@ var database = [
 	        
 ["film", ["Ice Age: The Meltdown", "Ice Age 2 - Jetzt taut's"], "2006", ["2015 10 10"], 3, ["ger"], ["animation", "adventure"], ["bini"], [], ["Carlos Saldanha"], [], "https://66.media.tumblr.com/145d5770045c5a147c2a0b9f51776b7b/tumblr_ppxzlddnCE1v2s5upo1_250.jpg"],
 	        
-["film", ["How to Lose Friends & Alienate People", "New York für Anfänger"], "2008", ["2015 09 20"], 6, ["ger"], ["biography", "comedy"], [], [], ["Robert B. Weide"], ["Simon Pegg", "Megan Fox", "Kirsten Dunst", "Daniel Craig"], "https://66.media.tumblr.com/e25c13ef11b7ba8ef8b3d3b787960c0a/tumblr_ppxz5xX3wp1v2s5upo1_250.jpg"],
+["film", ["How to Lose Friends & Alienate People", "New York für Anfänger"], "2008", ["2015 09 20"], 6, ["ger"], ["biography", "comedy"], [], [], ["Robert B. Weide"], ["Simon Pegg", "Megan Fox", "Kirsten Dunst", "Daniel Craig", "Ashley Madekwe"], "https://66.media.tumblr.com/e25c13ef11b7ba8ef8b3d3b787960c0a/tumblr_ppxz5xX3wp1v2s5upo1_250.jpg"],
 	        
 ["film", ["Pain & Gain"], "2013", ["2015 09 21"], 4, ["ger"], ["action", "comedy"], ["bini"], [], ["Michael Bay"], ["Mark Wahlberg", "Dwayne Johnson", "Anthony Mackie", "Tony Shalhoub", "Ed Harris", "Ken Jeong", "Peter Stormare", "Rebel Wilson"], "https://66.media.tumblr.com/a8b015b73adfb7e1571797ac1e0ca38a/tumblr_ppxz7cPxSj1v2s5upo1_250.jpg"],
 	        
@@ -2727,7 +2727,13 @@ var database = [
 
 ["film", ["My Extraordinary Summer with Tess", "Meine wunderbar seltsame Woche mit Tess", "Mijn bijzonder rare week met Tess"], "2019", ["2023 10 02"], 8, ["ger"], ["comedy", "drama"], [], ["bibliothek"], ["Steven Wouterlood"], ["Josephine Arendsen"], "https://64.media.tumblr.com/9f7e6d17289d56215274b40d1e5b3bda/59bdfb580a18fd2f-74/s250x400/0f0c561fc50736cc2a314bb55f027090ab062109.jpg"],
 
-["film", ["My Best Friend Anne Frank", "Meine Beste Freundin Anne Frank", "Mijn beste vriendin Anne Frank"], "2021", ["2023 10 03"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Ben Sombogaart"], ["Josephine Arendsen"], "https://64.media.tumblr.com/c2c2002cc9b91fb7dbe9773aa5fd6cc2/95f0ccfcef5f2f30-d1/s250x400/7f5307aa5c80c39a3cc1b2853599ae63b346e4ea.jpg"]
+["film", ["My Best Friend Anne Frank", "Meine Beste Freundin Anne Frank", "Mijn beste vriendin Anne Frank"], "2021", ["2023 10 03"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Ben Sombogaart"], ["Josephine Arendsen"], "https://64.media.tumblr.com/c2c2002cc9b91fb7dbe9773aa5fd6cc2/95f0ccfcef5f2f30-d1/s250x400/7f5307aa5c80c39a3cc1b2853599ae63b346e4ea.jpg"],
+
+["film", ["Don't Breathe 2"], "2021", ["2023 10 08"], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Rodo Sayagues"], ["Stephen Lang"], "https://64.media.tumblr.com/3bc0b3843a4d70dbf25dd86aa1eeaa7c/f481a0c8f40d5d60-5a/s250x400/1fd71560591568472fd84ed0df171b3fec231b7d.jpg"],
+
+["film", ["Run Rabbit Run"], "2023", ["2023 10 08"], 0, ["ger"], ["horror", "thriller"], [], ["Netflix", "dropped"], ["Daina Reid"], [], "https://64.media.tumblr.com/ed868a3456d0fb5421a37aa1b89e98d5/09aa81c5e63b3aba-34/s250x400/699926324587a0817eb71dac2c52e767878972fc.jpg"],
+
+["film", ["The Strays"], "2023", ["2023 10 09"], 4, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Nathaniel Martello-White"], ["Ashley Madekwe"], "https://64.media.tumblr.com/ba6b3766808b3ec3bdac52a7ba967291/5247c6fcee3c4514-1c/s250x400/4428c77de7f8c617b42e517f3480744533e7ec29.jpg"]
 
 /*
 ,
