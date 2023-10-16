@@ -331,7 +331,7 @@ var database = [
 	        
 ["film", ["Nerve"], "2016", ["2017 01 23"], 6, ["ger"], ["adventure", "crime"], [], [], ["Henry Joost", "Ariel Schulman"], ["Emma Roberts", "Dave Franco", "Samira Wiley", "Casey Neistat", "Miles Heizer"], "https://68.media.tumblr.com/df54a4ed23cbe1738a7c346bfa8e4782/tumblr_okc8orMOiT1v2s5upo1_250.jpg"],
 	        
-["film", ["Jurassic World"], "2015", ["2017 01 24", "2019 04 27"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Jurassic Park"], ["Colin Trevorrow"], ["Chris Pratt", "Vincent D'Onofrio", "Jake Johnson", "Omar Sy", "Judy Greer", "BD Wong", "Nick Robinson", "Irrfan Khan", "Katie McGrath", "Bryce Dallas Howard"], "https://68.media.tumblr.com/192dd7ebda074ade64f0bc5b5aceb29e/tumblr_okjlsiKiZK1v2s5upo1_250.jpg"],
+["film", ["Jurassic World"], "2015", ["2017 01 24", "2019 04 27"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Jurassic Park"], ["Colin Trevorrow"], ["Chris Pratt", "Vincent D'Onofrio", "Jake Johnson", "Omar Sy", "Judy Greer", "BD Wong", "Nick Robinson", "Irrfan Khan", "Katie McGrath", "Bryce Dallas Howard", "Lauren Lapkus"], "https://68.media.tumblr.com/192dd7ebda074ade64f0bc5b5aceb29e/tumblr_okjlsiKiZK1v2s5upo1_250.jpg"],
 	        
 ["film", ["Once"], "2007", ["2017 01 30", "2022 08 19"], 8, ["ger"], ["drama", "music", "romance"], ["syl"], ["DVD"], ["John Carney"], [], "https://68.media.tumblr.com/1ceaa86559b1a5833900a857847214f0/tumblr_oklwsdRnuh1v2s5upo1_250.jpg"],
 	        
@@ -1518,7 +1518,7 @@ var database = [
 
 ["film", ["The Chronicles of Narnia: The Voyage of the Dawn Treader", "Die Chroniken von Narnia - Die Reise auf der Morgenröte"], "2010", ["2019 04 06", "2021 12 22"], 7, ["ger"], ["adventure", "family"], [], ["Narnia", "Netflix", "Disney+"], ["Michael Apted"], ["Georgie Henley", "Skandar Keynes", "Ben Barnes", "Will Poulter", "Tilda Swinton", "Anna Popplewell"], "https://66.media.tumblr.com/24f7268b3298dbf4c4ae1a9122a2f3dd/0256992eb45e03c8-21/s250x400/bbb6924c2653086ef668b58fdb3f53e157a57de1.jpg"],
 
-["series", ["Orange Is the New Black"], ["2013", "2019"], [["2018 03 04", "2018 03 06", "S1"], ["2018 03 07", "2018 03 09", "S2"], ["2018 03 09", "2018 04 14", "S3"], ["2018 04 14", "2018 04 22", "S4"], ["2018 04 22", "2018 05 10", "S5"], ["2019 01 22", "2019 04 29", "S6"]/*["2018 03 04", "2019 04 29", "S1 - S6"]*/], 7, ["ger"], ["comedy", "crime"], [], ["Netflix", "LGBT"], ["Jenji Kohan"], ["Laura Prepon", "Samira Wiley", "Laverne Cox", "Isabella Ferreira", "Tyler Alvarez", "Natasha Lyonne"], "https://66.media.tumblr.com/33e78130beb5a208717c0614aaf330d7/dbcf5d5d4b548d18-86/s250x400/b72bd942e9c00f9a4cbc70a7465d8f10ee4e0bc2.jpg"],
+["series", ["Orange Is the New Black"], ["2013", "2019"], [["2018 03 04", "2018 03 06", "S1"], ["2018 03 07", "2018 03 09", "S2"], ["2018 03 09", "2018 04 14", "S3"], ["2018 04 14", "2018 04 22", "S4"], ["2018 04 22", "2018 05 10", "S5"], ["2019 01 22", "2019 04 29", "S6"]/*["2018 03 04", "2019 04 29", "S1 - S6"]*/], 7, ["ger"], ["comedy", "crime"], [], ["Netflix", "LGBT"], ["Jenji Kohan"], ["Laura Prepon", "Samira Wiley", "Laverne Cox", "Isabella Ferreira", "Tyler Alvarez", "Natasha Lyonne", "Lauren Lapkus"], "https://66.media.tumblr.com/33e78130beb5a208717c0614aaf330d7/dbcf5d5d4b548d18-86/s250x400/b72bd942e9c00f9a4cbc70a7465d8f10ee4e0bc2.jpg"],
 
 ["series", ["Between"], ["2015", "2016"], [["2018 06 27", "S1"], ["2018 06 27", "2018 07 05", "S2"]], 5, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Michael McGowan"], ["Jennette McCurdy"], "https://66.media.tumblr.com/72d4b759d273d97b4514ac79d6a2d284/4ab65324a2a042c1-25/s250x400/36f43d8d6925a44cdded25548b7914ebe5c9623d.jpg"],
 
@@ -1698,7 +1698,7 @@ var database = [
 
 ["film", ["Seven Years in Tibet", "Sieben Jahre in Tibet"], "1997", ["2021 01 15"], 6, ["ger"], ["adventure", "biography", "war", "history"], [], ["Netflix"], ["Jean-Jacques Annaud"], ["Brad Pitt", "David Thewlis", "BD Wong"], "https://64.media.tumblr.com/cc17db779107d0f352635dd66cbb836c/de3f13db62a0d239-4f/s250x400/33cfa36fb11efec9467dd78071eb8a6f5f1dada0.jpg"],
 
-["series", ["Lupin"], "2021", [["2021 01 15", "S1"], ["2021 06 11", "2021 06 15", "S2"]], 7, ["ger"], ["action", "crime"], [], ["Netflix", "ongoing"], ["George Kay", "François Uzan", "Florent Meyer"], ["Omar Sy"], "https://64.media.tumblr.com/13329024a3f2db9b2cd874c63b0cb1c1/355aa3eb0ea4d2e7-b2/s250x400/2c7e5cfd6c3a5f1eea65d50f0b04404e8ad66338.jpg"],
+["series", ["Lupin"], "2021", [["2021 01 15", "S1"], ["2021 06 11", "2021 06 15", "S2"], ["2023 10 10", "2023 10 11", "S3"]], 8, ["ger"], ["action", "crime"], [], ["Netflix", "ongoing"], ["George Kay", "François Uzan", "Florent Meyer"], ["Omar Sy"], "https://64.media.tumblr.com/13329024a3f2db9b2cd874c63b0cb1c1/355aa3eb0ea4d2e7-b2/s250x400/2c7e5cfd6c3a5f1eea65d50f0b04404e8ad66338.jpg"],
 
 ["film", ["Ni no Kuni"], "2019", ["2021 01 15"], 5, ["ger"], ["anime", "action"], [], ["Netflix"], ["Yoshiyuki Momose"], [], "https://64.media.tumblr.com/9c6cac0c01db052e626942361741ed45/22ad2c7cc4e364ae-b2/s250x400/9f0da76df04a1f30c108bc5928f5b4e99e6349ba.jpg"],
 
@@ -2040,7 +2040,7 @@ var database = [
 
 ["film", ["Mixtape"], "2021", ["2021 12 09"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Valerie Weiss"], ["Gemma Brooke Allen", "Julie Bowen", "Nick Thune", "Jackson Rathbone"], "https://64.media.tumblr.com/42e8d611733928f37a32e519d41a2383/c511d9264cb095a2-a1/s250x400/57c5ae1beef2679110211c06869b52d4264d6cb7.jpg"],
 
-["series", ["Detective Conan", "Detektiv Conan", "Meitantei Conan"], ["1996", ""], [["2021 12 10", "2022 01 06", "E1-E20"], ["2022 01 10", "2022 02 09", "E21-E40"], ["2022 02 09", "2022 03 20", "E41-E60"], ["2022 03 20", "2022 05 05", "E61-E80"], ["2022 05 07", "2022 06 13", "E81-E100"], ["2022 06 14", "2022 06 24", "E101-E120"], ["2022 06 24", "2022 07 07", "E121-E140"], ["2022 07 19", "2022 08 15", "E141-E160"], ["2022 08 15", "2022 09 16", "E161-E180"], ["2022 09 24", "2022 10 15", "E181-E200"], ["2022 10 15", "2022 11 05", "E201-E222"], ["2022 11 08", "2022 11 25", "E434-E440"], ["2022 11 25", "2022 12 18", "E441-E460"], ["2022 12 27", "2023 02 04", "E461-E480"], ["2023 02 04", "2023 02 10", "E481-E483"], ["2023 03 25", "2023 05 15", "E223-E240"], ["2023 05 16", "2023 06 13", "E241-E260"], ["2023 06 13", "2023 07 13", "E261-E280"], ["2023 07 13", "2023 08 13", "E281-E300"], ["2023 08 13", "2023 09 10", "E301-E320"], ["2023 09 30", "", "E321-E340"]], 5, ["ger"], ["anime", "comedy", "crime"], ["bini"], ["Conan", "ongoing", "watching"], ["Gosho Aoyama"], [], "https://64.media.tumblr.com/73aadd9d6cbcf62315c5abd8cb70d059/2685f4921d799787-fd/s250x400/e77d85d7ee42456cc18b8c8c765cc4ef019dc953.jpg"],
+["series", ["Detective Conan", "Detektiv Conan", "Meitantei Conan"], ["1996", ""], [["2021 12 10", "2022 01 06", "E1-E20"], ["2022 01 10", "2022 02 09", "E21-E40"], ["2022 02 09", "2022 03 20", "E41-E60"], ["2022 03 20", "2022 05 05", "E61-E80"], ["2022 05 07", "2022 06 13", "E81-E100"], ["2022 06 14", "2022 06 24", "E101-E120"], ["2022 06 24", "2022 07 07", "E121-E140"], ["2022 07 19", "2022 08 15", "E141-E160"], ["2022 08 15", "2022 09 16", "E161-E180"], ["2022 09 24", "2022 10 15", "E181-E200"], ["2022 10 15", "2022 11 05", "E201-E222"], ["2022 11 08", "2022 11 25", "E434-E440"], ["2022 11 25", "2022 12 18", "E441-E460"], ["2022 12 27", "2023 02 04", "E461-E480"], ["2023 02 04", "2023 02 10", "E481-E483"], ["2023 03 25", "2023 05 15", "E223-E240"], ["2023 05 16", "2023 06 13", "E241-E260"], ["2023 06 13", "2023 07 13", "E261-E280"], ["2023 07 13", "2023 08 13", "E281-E300"], ["2023 08 13", "2023 09 10", "E301-E320"], ["2023 09 30", "2023 10 10", "E321-E340"], ["2023 10 10", "", "E341-360"]], 5, ["ger"], ["anime", "comedy", "crime"], ["bini"], ["Conan", "ongoing", "watching"], ["Gosho Aoyama"], [], "https://64.media.tumblr.com/73aadd9d6cbcf62315c5abd8cb70d059/2685f4921d799787-fd/s250x400/e77d85d7ee42456cc18b8c8c765cc4ef019dc953.jpg"],
 /* S1: 5.64; S2: */
 
 ["film", ["Babyteeth", "Milla Meets Moses"], "2019", ["2021 12 10"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Shannon Murphy"], ["Eliza Scanlen", "Toby Wallace", "Essie Davis", "Ben Mendelsohn"], "https://64.media.tumblr.com/6246e2f37663cefdfb3b6208ce2bb5a9/9a2cc3822c29e24a-8d/s250x400/d76a734ed5a02b1263e66a688f943da4fc5835f3.jpg"],
@@ -2145,7 +2145,7 @@ var database = [
 
 ["film", ["Next Gen", "Das Mädchen und ihr Roboter - Die nächste Generation"], "2018", ["2022 02 19"], 5, ["ger"], ["animation", "action"], [], ["Netflix"], ["Kevin R. Adams", "Joe Ksander", "Ricardo Curtis"], [], "https://64.media.tumblr.com/39b12b01232b61d0409ce5c7cb9d2a1b/bc155e421d30c65a-e3/s250x400/825c68642c8121ee9e9074d837d77b5eb4bf9145.jpg"],
 
-["series", ["Shadow and Bone", "Shadow and Bone: Legenden der Grisha"], "2021", [["2022 02 20", "2022 05 08", "S1"]], 0, ["ger"], ["action", "adventure"], [], ["Netflix", "ongoing"], ["Leigh Bardugo", "Eric Heisserer", "Eric Heisserer"], ["Ben Barnes"], "https://64.media.tumblr.com/bc8862162e951291eb9c3d7dd90e0a69/e773c915fc14a2c3-1d/s250x400/218ee8b9d290b1317fb16bccb1e4b41434824bde.jpg"],
+["series", ["Shadow and Bone", "Shadow and Bone: Legenden der Grisha"], "2021", [["2022 02 20", "2022 05 08", "S1"]], 0, ["ger"], ["action", "adventure"], [], ["Netflix", "ongoing"], ["Leigh Bardugo", "Eric Heisserer"], ["Ben Barnes", "Kit Young"], "https://64.media.tumblr.com/bc8862162e951291eb9c3d7dd90e0a69/e773c915fc14a2c3-1d/s250x400/218ee8b9d290b1317fb16bccb1e4b41434824bde.jpg"],
 
 ["book", ["Carrie"], "1974", [["2022 02 25", "2022 03 28"]], 7, ["ger"], ["horror"], [], ["bibliothek"], ["Stephen King"], [], "https://64.media.tumblr.com/b253903cf34e6d32d4bbce97fa14ee42/b12c1c6314c9d139-82/s400x600/25d34acffe31f1ab9fab3d7259252cbdf94d82e2.jpg"],
 
@@ -2613,7 +2613,7 @@ var database = [
 
 ["audiobook", ["Gerade war der Himmel noch blau"], "2017", [["2023 05 02", "2023 05 10"]], 7, ["ger"], [], [], ["bibliothek"], ["Florian Illies"], ["Ulrich Noethen"], "https://64.media.tumblr.com/d543531beabd7144d6d3939395c96826/ebc9b1915ba7d171-b7/s400x600/30a124f1048cf49dcd91a907d100f2bb9a22717f.jpg"],
 
-["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"], ["2023 05 17", "2023 06 10", "S8"], ["2023 06 11", "2023 06 20", "S9"], ["2023 07 08", "2023 08 03", "S10"], ["2023 09 30", "", "S11"]], 6, ["ger"], ["crime", "family"], [], ["watching"], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
+["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"], ["2023 05 17", "2023 06 10", "S8"], ["2023 06 11", "2023 06 20", "S9"], ["2023 07 08", "2023 08 03", "S10"], ["2023 09 30", "2023 10 10", "S11"], ["2023 10 11", "", "S12"]], 6, ["ger"], ["crime", "family"], [], ["watching"], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
 /*S7: 5; S8: 6; S10: 6*/
 	
 ["film", ["Pom Poko", "Pom Poko", "Heisei tanuki gassen ponpoko"], "1994", ["2023 05 06"], 6, ["ger"], ["anime", "comedy"], ["bini", "mai"], ["Netflix"], ["Isao Takahata"], [], "https://64.media.tumblr.com/1beb8edfc26020a43aed81edc4e21332/dafcc2886aafff4c-bd/s250x400/77c4a5b5ad990b573aa847915d50a006325e049a.jpg"],
@@ -2737,7 +2737,15 @@ var database = [
 
 ["film", ["The Mummy", "Die Mumie"], "1999", ["2023 10 09"], 6, ["ger"], ["action", "adventure"], ["je"], ["Netflix"], ["Stephen Sommers"], ["Rachel Weisz"], "https://64.media.tumblr.com/7e9d3ce4e9dde185ea969eebfd64e87e/8a580e0c41a8ea20-cd/s250x400/db472d83a9eea87a555d9162bb277a1d4a80220a.jpg"],
 
-["film", ["Die Wilden Kerle: Alles ist gut, solange du wild bist!"], "2003", ["2023 10 09"], 5, ["ger"], ["family"], [], ["Disney+"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/22572c7b8f344487e885fa2de912b413/7cb33ba879c25a00-8c/s250x400/3e322022270464516f92d8a75264561613da9a53.jpg"]
+["film", ["Die Wilden Kerle: Alles ist gut, solange du wild bist!"], "2003", ["2023 10 09"], 5, ["ger"], ["family"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/22572c7b8f344487e885fa2de912b413/7cb33ba879c25a00-8c/s250x400/3e322022270464516f92d8a75264561613da9a53.jpg"],
+
+["film", ["Die Wilden Kerle 2"], "2005", ["2023 10 10"], 5, ["ger"], ["family", "comedy"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/6ef10808a66d51aad79d6ed094e63ff3/11b51b4ed8433275-72/s400x600/000c109c4846da53850886d739ff3ccbc0104225.jpg"],
+
+["film", ["The School for Good and Evil"], "2022", ["2023 10 10"], 7, ["ger"], ["action", "comedy"], ["je"], ["Netflix"], ["Paul Feig"], ["Kit Young", "Sophia Anne Caruso", "Cate Blanchett"], "https://64.media.tumblr.com/1d14a63f5cad36093000b5ce82b50a2d/efcbb970819c5032-0c/s250x400/25e6c6eb9cbce573931dccf938d202a3f5193da9.jpg"],
+
+["film", ["Die Wilden Kerle 3"], "2006", ["2023 10 11"], 4, ["ger"], ["comedy", "family"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/b2b9f7f142df4ef19424a41bd2c63e51/5540475b8f8545ca-7b/s250x400/4686beb76ea65c22d1f2bc05bb443808d79f598f.jpg"],
+
+["film", ["The Curse of Bridge Hollow"], "2022", ["2023 10 11"], 7, ["ger"], ["adventure", "comedy"], ["je"], ["Netflix"], ["Jeff Wadlow"], ["Lauren Lapkus"], "https://64.media.tumblr.com/75f465a908efd8a346ddafa437fa1f8c/2733af9ea6032f0e-ad/s250x400/9cbf26c5fb811a4b9c4a1692b3ece1559a0b545a.jpg"]
 
 /*
 ,
