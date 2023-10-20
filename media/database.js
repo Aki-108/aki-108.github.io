@@ -2684,6 +2684,7 @@ var database = [
 
 ["comic", ["Homestuck"], ["2009", "2016"], [["2023 08 04", ""]], 0, ["eng"], ["comedy", "adventure"], [], ["watching", "bby"], ["Andrew Hussie"], [], "https://64.media.tumblr.com/dbd56fa57602de75232ea6dc5a9c723a/962912a1219620dc-47/s250x400/341485f84a612c759ae49a8ed3e7a3aa03f86330.pnj"],
 /* Act 2 finished 230905 */
+/* Act 3 finished 231016 */
 	
 ["film", ["Luckiest Girl Alive", "Ich. Bin. So. Glücklich."], "2022", ["2023 08 06"], 4, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Mike Barker"], ["Mila Kunis", "Chiara Aurelia"], "https://64.media.tumblr.com/60d090b8498b50dfa20561fa062f6226/eef8d7b6d2a97191-c2/s250x400/2b797da908c27c2ee78d6550ede948af62a33321.jpg"],
 
@@ -2747,7 +2748,7 @@ var database = [
 
 ["film", ["The Curse of Bridge Hollow"], "2022", ["2023 10 11"], 7, ["ger"], ["adventure", "comedy"], ["je"], ["Netflix"], ["Jeff Wadlow"], ["Lauren Lapkus"], "https://64.media.tumblr.com/75f465a908efd8a346ddafa437fa1f8c/2733af9ea6032f0e-ad/s250x400/9cbf26c5fb811a4b9c4a1692b3ece1559a0b545a.jpg"],
 
-["series", ["Everything Now"], "2023", [["2023 10 12", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Netflix", "watching"], ["Ripley Parker", "Roanne Bardsley", "Dylan Brady"], ["Stephen Fry"], "https://64.media.tumblr.com/ff3a9beee0bbc15a2cfa2a5c54d33c3f/c8db776420afd50f-2a/s250x400/4d4a651bd502f7ba5abc52cf339b42e89d94c9e0.jpg"],
+["series", ["Everything Now"], "2023", [["2023 10 12", "2023 10 19", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ripley Parker", "Roanne Bardsley", "Dylan Brady"], ["Stephen Fry"], "https://64.media.tumblr.com/ff3a9beee0bbc15a2cfa2a5c54d33c3f/c8db776420afd50f-2a/s250x400/4d4a651bd502f7ba5abc52cf339b42e89d94c9e0.jpg"],
 
 ["film", ["Die Wilden Kerle 4"], "2007", ["2023 10 12"], 4, ["ger"], ["comedy", "family"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/f9139dc689d8ef7477cdd27cb0351dd7/2a78d46dad8ab572-b8/s250x400/fb6c156b45df7232799cb9e780c1541a24aee112.jpg"],
 
@@ -2755,7 +2756,11 @@ var database = [
 
 ["film", ["Die Wilden Kerle 6 - Die Legende lebt"], "2016", ["2023 10 15"], 4, ["ger"], ["action", "adventure"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/aed131cd1b2b177f60f6b6b74b3a65dc/d8e3eb25910f6365-57/s250x400/c10a5f826aa901b4abb99f56f69ddffe2ad3db8c.jpg"],
 
-["series", ["Silent Witness"], ["1996", ""], [["2023 10 15", "S19E1-E2"]], 8, ["ger"], ["crime"], ["syl", "je"], [], ["Dudi Appleton"], [], "https://64.media.tumblr.com/6b47476c3e43b3ff19c1caa3a776a304/953b8944c7e523bd-7c/s250x400/e69eeda4277f48e48b8b19349eaa5cb9d6bc061d.jpg"]
+["series", ["Silent Witness"], ["1996", ""], [["2023 10 15", "S19E1-E2"]], 8, ["ger"], ["crime"], ["syl", "je"], [], ["Dudi Appleton"], [], "https://64.media.tumblr.com/6b47476c3e43b3ff19c1caa3a776a304/953b8944c7e523bd-7c/s250x400/e69eeda4277f48e48b8b19349eaa5cb9d6bc061d.jpg"],
+
+["audiobook", ["Vincent flattert ins Abenteuer"], "2022", ["2023 10 17"], 4, ["ger"], ["adventure"], [], ["bibliothek"], ["Sonja Kaiblinger"], ["Christian Rudolf"], "https://64.media.tumblr.com/a6d859ed3e31425871e82434359d5120/e0d9dfe95966bd56-5c/s250x400/61add0a9bb470d2c9c4ef189ceed2a11b2023fdb.jpg"],
+
+["audiobook", ["Vincent und das Geisterlama"], "2022", ["2023 10 17"], 4, ["ger"], ["adventure"], [], ["bibliothek"], ["Sonja Kaiblinger"], ["Christian Rudolf"], "https://64.media.tumblr.com/e4916a2e4b5ede5e45732ba30e2ffc64/476d775c139e021c-5d/s250x400/b6b47552457d9ef113e951fccc9edfe237df2c4b.jpg"]
 
 /*
 ,
