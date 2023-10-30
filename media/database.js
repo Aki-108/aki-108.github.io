@@ -2764,7 +2764,9 @@ var database = [
 
 ["film", ["Avatar: The Way of Water"], "2022", [["2023 10 23", "2023 10 25"]], 8, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"], "https://64.media.tumblr.com/5d939c5d537f6c78a5358fb7c7b76ce9/3d9c444cb5301eec-20/s250x400/4da20fb477cb01c2057b5bf0a171466eca5ddc0b.jpg"],
 
-["film", ["Of Mice and Men", "Von Mäusen und Menschen"], "1992", ["2023 10 29"], 8, ["ger"], ["drama", "western"], ["bini", "syl"], ["bibliothek"], ["Gary Sinise"], ["Gary Sinise", "John Terry"], "https://64.media.tumblr.com/737fe944e99b4e51575b679c1c4880f1/5380813e916f97ac-b1/s250x400/893e1cce1a3f581c19a0924f75b8086c825d04aa.jpg"]
+["film", ["Of Mice and Men", "Von Mäusen und Menschen"], "1992", ["2023 10 29"], 8, ["ger"], ["drama", "western"], ["bini", "syl"], ["bibliothek"], ["Gary Sinise"], ["Gary Sinise", "John Terry"], "https://64.media.tumblr.com/737fe944e99b4e51575b679c1c4880f1/5380813e916f97ac-b1/s250x400/893e1cce1a3f581c19a0924f75b8086c825d04aa.jpg"],
+
+["film", ["The Greatest Showman", "Greatest Showman"], "2017", ["2023 10 30"], 7, ["ger"], ["biography", "drama", "musical"], [], ["bibliothek"], ["Michael Gracey"], ["Hugh Jackman", "Michelle Williams", "Zac Efron", "Zendaya", "Rebecca Ferguson"], "https://64.media.tumblr.com/7231045286a4f8498f83e7bc7d55ba49/e1bfb7fa3ea2d562-cd/s250x400/581becbad3d15f3fe398e05545c345e8e2931e2f.jpg"]
 
 /*
 ,
