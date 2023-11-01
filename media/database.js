@@ -121,7 +121,7 @@ var database = [
 	        
 ["film", ["Far Cry"], "2008", ["2015 08 07"], 2, ["ger"], ["action", "adventure", "sci-fi"], [], [], ["Uwe Boll"], ["Til Schweiger"], "https://40.media.tumblr.com/1d83eab289438010b087990fb76f1c65/tumblr_nzt4wfQvhj1v2s5upo1_250.jpg"],
 	        
-["film", ["National Treasure", "Das Vermächtnis der Tempelritter"], "2004", ["2015 08 08", "2022 04 10"], 7, ["ger"], ["action", "adventure", "mystery"], ["bini", "syl"], ["Disney+"], ["Jon Turteltaub"], ["Nicolas Cage", "Diane Kruger", "Justin Bartha", "Sean Bean", "Mark Pellegrino"], "https://40.media.tumblr.com/d5f1a3f558ffe2fa131bc3e6647f3b58/tumblr_nzt9ucKTJd1v2s5upo1_250.jpg"],
+["film", ["National Treasure", "Das Vermächtnis der Tempelritter"], "2004", ["2015 08 08", "2022 04 10"], 7, ["ger"], ["action", "adventure", "mystery"], ["bini", "syl"], ["Disney+"], ["Jon Turteltaub"], ["Nicolas Cage", "Diane Kruger", "Justin Bartha", "Sean Bean", "Mark Pellegrino", "Christopher Plummer"], "https://40.media.tumblr.com/d5f1a3f558ffe2fa131bc3e6647f3b58/tumblr_nzt9ucKTJd1v2s5upo1_250.jpg"],
 	        
 ["book", ["Cold Turkey"], "1994", [""], 5, ["ger"], [], [], ["Schule"], ["Angelika Mechtel"], [], "https://68.media.tumblr.com/249a138ced967735a049eec963d20726/tumblr_odcmepFwLd1v2s5upo2_r1_250.jpg"],
 	        
@@ -778,7 +778,7 @@ var database = [
 	        
 ["film", ["Tangled"], "2010", ["2017 04 17"], 7, ["ger"], ["animation", "adventure"], [], [], ["Nathan Greno", "Byron Howard"], [], "https://68.media.tumblr.com/b533482ed1218266106a3ca0ba880619/tumblr_oor74rJGZc1v2s5upo1_250.jpg"],
 	        
-["film", ["The Girl with the Dragon Tattoo", "Verblendung"], "2011", ["2017 04 17"], 8, ["ger"], ["crime", "drama", "thriller"], [], [], ["David Fincher"], ["Daniel Craig", "Rooney Mara", "Stellan Skarsgård"], "https://68.media.tumblr.com/501e722a8df0c5354b24a62b6c5c1ec4/tumblr_oor774khJ41v2s5upo1_250.jpg"],
+["film", ["The Girl with the Dragon Tattoo", "Verblendung"], "2011", ["2017 04 17"], 8, ["ger"], ["crime", "drama", "thriller"], [], [], ["David Fincher"], ["Daniel Craig", "Rooney Mara", "Stellan Skarsgård", "Christopher Plummer"], "https://68.media.tumblr.com/501e722a8df0c5354b24a62b6c5c1ec4/tumblr_oor774khJ41v2s5upo1_250.jpg"],
 	        
 ["film", ["Hunt for the Wilderpeople", "Wo die wilden Menschen jagen"], "2016", ["2017 04 13"], 8, ["ger"], ["adventure", "comedy"], [], [], ["Taika Waititi"], ["Sam Neill", "Julian Dennison"], "https://68.media.tumblr.com/5eb0b72a042e1a59b4960ebbb9b01a49/tumblr_oor79j7Xly1v2s5upo1_250.jpg"],
 	        
@@ -1206,7 +1206,7 @@ var database = [
 	        
 ["film", ["The Pianist", "Der Pianist"], "2002", ["2015 12 17"], 7, ["ger"], ["biography", "drama", "war", "music"], [], [], ["Roman Polanski"], ["Adrien Brody", "Axel Prahl"], "https://40.media.tumblr.com/ae6121711b216d0736e739521189b369/tumblr_o0cf57h3JY1v2s5upo1_250.jpg"],
 	        
-["film", ["The Last Station", "Ein russischer Sommer"], "2009", ["2015 12 21"], 6, ["ger"], ["biography", "drama"], [], ["Schule"], ["Michael Hoffman"], ["Helen Mirren", "James McAvoy", "Paul Giamatti"], "https://49.media.tumblr.com/910dd0be251f1768d118460bfdc696c7/tumblr_nzq1a3b6Wk1v2s5upo1_250.jpg"],
+["film", ["The Last Station", "Ein russischer Sommer"], "2009", ["2015 12 21"], 6, ["ger"], ["biography", "drama"], [], ["Schule"], ["Michael Hoffman"], ["Helen Mirren", "James McAvoy", "Paul Giamatti", "Christopher Plummer"], "https://49.media.tumblr.com/910dd0be251f1768d118460bfdc696c7/tumblr_nzq1a3b6Wk1v2s5upo1_250.jpg"],
 	        
 ["film", ["Dead Poets Society", "Der Club der toten Dichter"], "1989", ["2015 12 22", "2023 05 26"], 8, ["ger"], ["comedy", "drama"], ["bini", "syl", "je"], [], ["Peter Weir"], ["Robin Williams"], "https://40.media.tumblr.com/4ef53f4ffdb4ff8ce75ec0afd1850b93/tumblr_nzs3t3Nuux1v2s5upo1_250.jpg"],
 	        
@@ -2499,7 +2499,7 @@ var database = [
 
 ["film", ["Metal Lords"], "2022", ["2023 01 27"], 8, ["ger"], ["comedy", "music"], [], ["Netflix"], ["Peter Sollett"], ["Jaeden Martell", "Isis Hainsworth"], "https://64.media.tumblr.com/f49c52a439b48767af186094f7e466f0/7fcd52d2121c9b2e-27/s250x400/9210b432f16212f36cfba4186369a6491401ed57.jpg"],
 
-["film", ["Knives Out", "Knives Out: Mord ist Familiensache"], "2019", ["2023 01 27"], 9, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Chris Evans", "Ana de Armas", "Katherine Langford", "Jaeden Martell", "Riki Lindhome"], "https://64.media.tumblr.com/d2f6d59bdfcc045186007292e7e86315/3e2acbf1c4b693d4-87/s250x400/6d83b8ecf1729f74d4bffc6abec2996716928990.jpg"],
+["film", ["Knives Out", "Knives Out: Mord ist Familiensache"], "2019", ["2023 01 27"], 9, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Chris Evans", "Ana de Armas", "Katherine Langford", "Jaeden Martell", "Riki Lindhome", "Christopher Plummer"], "https://64.media.tumblr.com/d2f6d59bdfcc045186007292e7e86315/3e2acbf1c4b693d4-87/s250x400/6d83b8ecf1729f74d4bffc6abec2996716928990.jpg"],
 
 ["book", ["Die Wilden Hühner und das Glück der Erde"], "2005", [["2023 01 26", "2023 03 04"]], 7, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/432565b590929b69689205cd479b9c5c/a04add625a1dc6bd-91/s250x400/8e7bcd7bdb1225e169d3bb9c34ec2ccfd015ede0.jpg"],
 
@@ -2766,7 +2766,11 @@ var database = [
 
 ["film", ["Of Mice and Men", "Von Mäusen und Menschen"], "1992", ["2023 10 29"], 8, ["ger"], ["drama", "western"], ["bini", "syl"], ["bibliothek"], ["Gary Sinise"], ["Gary Sinise", "John Terry"], "https://64.media.tumblr.com/737fe944e99b4e51575b679c1c4880f1/5380813e916f97ac-b1/s250x400/893e1cce1a3f581c19a0924f75b8086c825d04aa.jpg"],
 
-["film", ["The Greatest Showman", "Greatest Showman"], "2017", ["2023 10 30"], 7, ["ger"], ["biography", "drama", "musical"], [], ["bibliothek"], ["Michael Gracey"], ["Hugh Jackman", "Michelle Williams", "Zac Efron", "Zendaya", "Rebecca Ferguson"], "https://64.media.tumblr.com/7231045286a4f8498f83e7bc7d55ba49/e1bfb7fa3ea2d562-cd/s250x400/581becbad3d15f3fe398e05545c345e8e2931e2f.jpg"]
+["film", ["The Greatest Showman", "Greatest Showman"], "2017", ["2023 10 30"], 7, ["ger"], ["biography", "drama", "musical"], [], ["bibliothek"], ["Michael Gracey"], ["Hugh Jackman", "Michelle Williams", "Zac Efron", "Zendaya", "Rebecca Ferguson"], "https://64.media.tumblr.com/7231045286a4f8498f83e7bc7d55ba49/e1bfb7fa3ea2d562-cd/s250x400/581becbad3d15f3fe398e05545c345e8e2931e2f.jpg"],
+
+["film", ["The Imaginarium of Doctor Parnassus"], "2009", ["2023 10 31"], 6, ["ger"], ["adventure", "comedy"], [], ["bibliothek"], ["Terry Gilliam"], ["Andrew Garfield", "Lily Cole", "Johnny Depp", "Jude Law", "Christopher Plummer"], "https://64.media.tumblr.com/4f298d272de1853574e266c6a4b34522/52c67f9b811f4bb4-ef/s250x400/a65b14b439a9c451044e5189651055d7c0fbdbe1.jpg"],
+
+["film", ["Detective Conan 26: Black Iron Submarine", "Detektiv Conan 26: Das schwarze U-Boot"], "2023", ["2023 10 31"], 7, ["ger"], ["anime", "action"], ["bini"], ["Conan", "Kino"], ["Yuzuru Tachikawa"], [], "https://64.media.tumblr.com/fad23462791a0a593a87217fa1994563/e8599ee2825bedf8-d2/s250x400/b7eefa1ae7d1d1fc6d0c625f7750ef8dd337e81c.jpg"]
 
 /*
 ,
