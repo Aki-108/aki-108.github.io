@@ -357,7 +357,7 @@ var database = [
 	        
 ["series", ["Kim Possible"], ["2002", "2007"], [["2016 10 22", "2016 11 06"]], 10, ["ger"], ["animation", "action", "comedy"], [], [], ["Mark McCorkle", "Bob Schooley"], [], "https://66.media.tumblr.com/6683ccbc9909e6c1a4fe409cb47c7b98/tumblr_ofm7qqD87l1v2s5upo1_250.jpg"],
 	        
-["series", ["Westworld"], ["2016", ""], [["2016 11 05", "2016 12 30", "S1"], ["2022 06 22", "2022 06 28", "S1"], ["2022 06 29", "2022 07 10", "S2"], ["2022 07 21", "2022 08 08", "S3"]], 6, ["eng", "ger"], ["drama", "mystery", "sci-fi"], [], ["ongoing", "bibliothek"], ["Lisa Joy", "Jonathan Nolan"], ["Ed Harris", "James Marsden", "Anthony Hopkins", "Rodrigo Santoro", "Talulah Riley", "Hiroyuki Sanada", "Zahn McClarnon", "Lena Waithe", "Ben Barnes", "Booboo Stewart", "Jeffrey Wright", "Luke Hemsworth", "Angela Sarafyan", "Aaron Paul", "Ariana DeBose", "Phoebe Tonkin", "Eddie Shin", "Leonardo Nam"], "https://66.media.tumblr.com/09f5995b48f9e6a1bccc4abf37de4f73/tumblr_og5z0kJktJ1v2s5upo1_250.jpg"],
+["series", ["Westworld"], ["2016", ""], [["2016 11 05", "2016 12 30", "S1"], ["2022 06 22", "2022 06 28", "S1"], ["2022 06 29", "2022 07 10", "S2"], ["2022 07 21", "2022 08 08", "S3"]], 6, ["eng", "ger"], ["drama", "mystery", "sci-fi"], [], ["ongoing", "bibliothek"], ["Lisa Joy", "Jonathan Nolan"], ["Ed Harris", "James Marsden", "Anthony Hopkins", "Rodrigo Santoro", "Talulah Riley", "Hiroyuki Sanada", "Zahn McClarnon", "Lena Waithe", "Ben Barnes", "Booboo Stewart", "Jeffrey Wright", "Luke Hemsworth", "Angela Sarafyan", "Aaron Paul", "Ariana DeBose", "Phoebe Tonkin", "Eddie Shin", "Leonardo Nam", "Thandiwe Newton"], "https://66.media.tumblr.com/09f5995b48f9e6a1bccc4abf37de4f73/tumblr_og5z0kJktJ1v2s5upo1_250.jpg"],
 /*S1: 10, S1: 7.4, S2: 6.9, S3: 5*/	        
 ["series", ["Limitless"], ["2015", "2016"], [["2017 01 04", "2017 03 19", "S1"], ["2019 01 04", "2019 01 09", "S1"]], 8, ["ger"], ["comedy", "crime", "sci-fi"], ["syl"], ["Netflix"], ["Craig Sweeny"], ["Bradley Cooper", "Lio Tipton", "Jake McDorman"], "https://68.media.tumblr.com/4fba47babc7bea678547165f35723ba2/tumblr_on22pnO7ao1v2s5upo1_250.jpg"],
 	        
@@ -850,7 +850,7 @@ var database = [
 	        
 ["film", ["Mission: Impossible III"], "2006", ["2016 10 22"], 7, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["J.J. Abrams"], ["Tom Cruise", "Philip Seymour Hoffman", "Simon Pegg", "Laurence Fishburne", "Maggie Q", "Aaron Paul"], "https://68.media.tumblr.com/41874302cbda630faef2db3242c8643e/tumblr_ofge46WvyA1v2s5upo1_250.jpg"],
 	        
-["film", ["Mission: Impossible II"], "2000", ["2016 10 22"], 5, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["John Woo"], ["Tom Cruise", "Ving Rhames", "Brendan Gleeson", "William Mapother", "Anthony Hopkins"], "https://68.media.tumblr.com/d45839929f432af8d837a550b10680cf/tumblr_ofg8xpnLBx1v2s5upo1_250.jpg"],
+["film", ["Mission: Impossible II"], "2000", ["2016 10 22"], 5, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["John Woo"], ["Tom Cruise", "Ving Rhames", "Brendan Gleeson", "William Mapother", "Anthony Hopkins", "Thandiwe Newton"], "https://68.media.tumblr.com/d45839929f432af8d837a550b10680cf/tumblr_ofg8xpnLBx1v2s5upo1_250.jpg"],
 	        
 ["film", ["Mission: Impossible"], "1996", ["2016 10 22"], 5, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["Brian De Palma"], ["Tom Cruise", "Jon Voight", "Jean Reno", "Ving Rhames"], "https://66.media.tumblr.com/91631d8d0dd4bc59b6becdc2106b1c13/tumblr_ofg39sMxJr1v2s5upo1_250.jpg"],
 	        
@@ -1080,7 +1080,7 @@ var database = [
 	        
 ["film", ["Ice Age: The Meltdown", "Ice Age 2 - Jetzt taut's"], "2006", ["2015 10 10"], 3, ["ger"], ["animation", "adventure"], ["bini"], [], ["Carlos Saldanha"], [], "https://66.media.tumblr.com/145d5770045c5a147c2a0b9f51776b7b/tumblr_ppxzlddnCE1v2s5upo1_250.jpg"],
 	        
-["film", ["How to Lose Friends & Alienate People", "New York für Anfänger"], "2008", ["2015 09 20"], 6, ["ger"], ["biography", "comedy"], [], [], ["Robert B. Weide"], ["Simon Pegg", "Megan Fox", "Kirsten Dunst", "Daniel Craig", "Ashley Madekwe"], "https://66.media.tumblr.com/e25c13ef11b7ba8ef8b3d3b787960c0a/tumblr_ppxz5xX3wp1v2s5upo1_250.jpg"],
+["film", ["How to Lose Friends & Alienate People", "New York für Anfänger"], "2008", ["2015 09 20"], 6, ["ger"], ["biography", "comedy"], [], [], ["Robert B. Weide"], ["Simon Pegg", "Megan Fox", "Kirsten Dunst", "Daniel Craig", "Ashley Madekwe", "Thandiwe Newton"], "https://66.media.tumblr.com/e25c13ef11b7ba8ef8b3d3b787960c0a/tumblr_ppxz5xX3wp1v2s5upo1_250.jpg"],
 	        
 ["film", ["Pain & Gain"], "2013", ["2015 09 21"], 4, ["ger"], ["action", "comedy"], ["bini"], [], ["Michael Bay"], ["Mark Wahlberg", "Dwayne Johnson", "Anthony Mackie", "Tony Shalhoub", "Ed Harris", "Ken Jeong", "Peter Stormare", "Rebel Wilson"], "https://66.media.tumblr.com/a8b015b73adfb7e1571797ac1e0ca38a/tumblr_ppxz7cPxSj1v2s5upo1_250.jpg"],
 	        
@@ -2776,7 +2776,17 @@ var database = [
 
 ["film", ["Locked In"], "2023", ["2023 11 04"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Nour Wazzi"], ["Famke Janssen"], "https://64.media.tumblr.com/af6f4b13f6156be29fe9716d3ee537cc/14012cd597387057-79/s250x400/2ef6141c25d7cad359122870d509ab4465918895.jpg"],
 
-["film", ["Wingwomen", "Diebinnen", "Voleuses"], "2023", ["2023 11 05"], 4, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Mélanie Laurent"], ["Mélanie Laurent"], "https://64.media.tumblr.com/8a7cdf745c4ef7816d5c096acff8ad23/0475a9098ce0b548-30/s250x400/c2c6c6857826443705dd05d88cb67d89f5aa9e29.jpg"]
+["film", ["Wingwomen", "Diebinnen", "Voleuses"], "2023", ["2023 11 05"], 4, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Mélanie Laurent"], ["Mélanie Laurent"], "https://64.media.tumblr.com/8a7cdf745c4ef7816d5c096acff8ad23/0475a9098ce0b548-30/s250x400/c2c6c6857826443705dd05d88cb67d89f5aa9e29.jpg"],
+
+["film", ["The Killer", "Der Killer"], "2023", ["2023 11 12"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["David Fincher"], ["Michael Fassbender", "Tilda Swinton"], "https://64.media.tumblr.com/ee16f70c0d886746a59af1dceebb3213/e56fe079d62fafe4-36/s250x400/0217065eb88d26929b02872b1bc2350a785cf5bc.jpg"],
+
+["film", ["Spy Kids"], "2001", ["2023 11 12"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Robert Rodriguez"], ["Carla Gugino", "Tony Shalhoub"], "https://64.media.tumblr.com/c6c12706a009a6ed8e74790d6b720a99/63b85f74ba0be278-79/s250x400/feb671e632c0ada28da3e3b6673e710b11c03fea.jpg"],
+
+["film", ["Das Leben danach"], "2017", ["2023 11 12"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Nicole Weegmann"], ["Jella Haase", "Martin Brambach"], "https://64.media.tumblr.com/4dcf5814a9e5090bc1739792033bfec2/9a6d3cc9e3a144fd-c8/s250x400/7e6b8335da55fc4ee43d99ffd670fa183ed32584.jpg"],
+
+["film", ["Reminiscence", "Reminiscence: Die Erinnerung stirbt nie"], "2021", ["2023 11 12"], 6, ["ger"], ["mystery", "romance"], [], ["Netflix"], ["Lisa Joy"], ["Hugh Jackman", "Rebecca Ferguson", "Cliff Curtis", "Angela Sarafyan", "Thandiwe Newton"], "https://64.media.tumblr.com/f64c88b789dad29224491c278a3f1a98/fde4ae23810cfba3-c7/s250x400/5bc94ecceca55a70accc8ef4f06a4d953e1ebd63.jpg"],
+
+["series", ["His Dark Materials"], ["2019", "2022"], [["2023 11 17", "", "S1"]], 0, ["ger"], ["adventure", "drama"], ["jessie"], ["watching"], ["Philip Pullman", "Jack Thorne"], ["Dafne Keen"], "https://64.media.tumblr.com/6f5272814abc2f38b3080af92968bca7/2e2f4a1d18bec381-ad/s250x400/56b59e138eaa49256c67483bbe8b73ec7aa9cbd7.jpg"]
 
 /*
 ,
