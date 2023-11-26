@@ -2794,7 +2794,7 @@ var database = [
 
 ["film", ["The Hunger Games: The Ballad of Songbirds & Snakes", "Die Tribute von Panem: The Ballad of Songbirds and Snakes"], "2023", ["2023 11 25"], 6, ["ger"], ["action", "adventure"], ["bini", "je"], ["Kino", "Hunger Games"], ["Francis Lawrence"], ["Fionnula Flanagan", "Flora Li Thiemann", "Jason Schwartzman"], "https://64.media.tumblr.com/779dd9713bb09d2b009655b9bf41d2b3/96683391f2f1cefe-10/s250x400/d9fe6af752dc825f36ad04c1f6b75415e055350f.jpg"],
 
-["series", ["Scott Pilgrim Takes Off", "Scott Pilgrim hebt ab"], "2023", [["2023 11 26", "", "S1"]], 0, ["ger"], ["animation", "action", "comedy"], [], ["Netflix", "watching"], ["BenDavid Grabinski", "Bryan Lee O'Malley"], [], "https://64.media.tumblr.com/1e39c212669001ee8f879a3ca2dc4d81/cdebcf44e0fe3f2f-83/s250x400/fd3aa4466f79ddbcc9ccf46e249bf95212d292a9.jpg"]
+["series", ["Scott Pilgrim Takes Off", "Scott Pilgrim hebt ab"], "2023", [["2023 11 26", "S1"]], 7, ["ger"], ["animation", "action", "comedy"], [], ["Netflix"], ["BenDavid Grabinski", "Bryan Lee O'Malley"], [], "https://64.media.tumblr.com/1e39c212669001ee8f879a3ca2dc4d81/cdebcf44e0fe3f2f-83/s250x400/fd3aa4466f79ddbcc9ccf46e249bf95212d292a9.jpg"]
 
 /*
 ,
