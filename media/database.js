@@ -2788,7 +2788,13 @@ var database = [
 
 ["series", ["His Dark Materials"], ["2019", "2022"], [["2023 11 17", "", "S1"]], 0, ["ger"], ["adventure", "drama"], ["jessie"], ["watching"], ["Philip Pullman", "Jack Thorne"], ["Dafne Keen"], "https://64.media.tumblr.com/6f5272814abc2f38b3080af92968bca7/2e2f4a1d18bec381-ad/s250x400/56b59e138eaa49256c67483bbe8b73ec7aa9cbd7.jpg"],
 
-["film", ["Cloud Atlas"], "2012", ["2023 11 19"], 4, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Tom Tykwer", "Lana Wachowski"], ["Tom Hanks", "Halle Berry", "Jim Broadbent", "Hugo Weaving", "Doona Bae", "Hugh Grant", "Martin Wuttke"], "https://64.media.tumblr.com/330046243c0b27ef07718474b6c40be3/920ba7c26833c836-e2/s250x400/2928400ecbbd583050226c6429349707652470c9.jpg"]
+["film", ["Cloud Atlas"], "2012", ["2023 11 19"], 4, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Tom Tykwer", "Lana Wachowski"], ["Tom Hanks", "Halle Berry", "Jim Broadbent", "Hugo Weaving", "Doona Bae", "Hugh Grant", "Martin Wuttke"], "https://64.media.tumblr.com/330046243c0b27ef07718474b6c40be3/920ba7c26833c836-e2/s250x400/2928400ecbbd583050226c6429349707652470c9.jpg"],
+
+["series", ["Toilet-Bound Hanako-kun", "Jibaku Shounen Hanako-kun", "Jibaku Shounen Hanako-kun"], "2020", [["2023 11 20", "", "S1"]], 0, ["ger"], ["anime", "comedy", "supernatural"], ["bini", "nico"], ["watching"], ["Iro Aida", "Leah Clark", "Yasuhiro Nakanishi"], [], "https://64.media.tumblr.com/b463e5aeaa179890387de41b69a5087a/463f7646be245d98-b6/s250x400/0814a3824ad0be74a35f44db60634930ebb6c742.jpg"],
+
+["film", ["The Hunger Games: The Ballad of Songbirds & Snakes", "Die Tribute von Panem: The Ballad of Songbirds and Snakes"], "2023", ["2023 11 25"], 6, ["ger"], ["action", "adventure"], ["bini", "je"], ["Kino", "Hunger Games"], ["Francis Lawrence"], ["Fionnula Flanagan", "Flora Li Thiemann", "Jason Schwartzman"], "https://64.media.tumblr.com/779dd9713bb09d2b009655b9bf41d2b3/96683391f2f1cefe-10/s250x400/d9fe6af752dc825f36ad04c1f6b75415e055350f.jpg"],
+
+["series", ["Scott Pilgrim Takes Off", "Scott Pilgrim hebt ab"], "2023", [["2023 11 26", "", "S1"]], 0, ["ger"], ["animation", "action", "comedy"], [], ["Netflix", "watching"], ["BenDavid Grabinski", "Bryan Lee O'Malley"], [], "https://64.media.tumblr.com/1e39c212669001ee8f879a3ca2dc4d81/cdebcf44e0fe3f2f-83/s250x400/fd3aa4466f79ddbcc9ccf46e249bf95212d292a9.jpg"]
 
 /*
 ,
