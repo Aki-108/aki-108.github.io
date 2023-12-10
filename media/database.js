@@ -2040,7 +2040,7 @@ var database = [
 
 ["film", ["Mixtape"], "2021", ["2021 12 09"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Valerie Weiss"], ["Gemma Brooke Allen", "Julie Bowen", "Nick Thune", "Jackson Rathbone"], "https://64.media.tumblr.com/42e8d611733928f37a32e519d41a2383/c511d9264cb095a2-a1/s250x400/57c5ae1beef2679110211c06869b52d4264d6cb7.jpg"],
 
-["series", ["Detective Conan", "Detektiv Conan", "Meitantei Conan"], ["1996", ""], [["2021 12 10", "2022 01 06", "E1-E20"], ["2022 01 10", "2022 02 09", "E21-E40"], ["2022 02 09", "2022 03 20", "E41-E60"], ["2022 03 20", "2022 05 05", "E61-E80"], ["2022 05 07", "2022 06 13", "E81-E100"], ["2022 06 14", "2022 06 24", "E101-E120"], ["2022 06 24", "2022 07 07", "E121-E140"], ["2022 07 19", "2022 08 15", "E141-E160"], ["2022 08 15", "2022 09 16", "E161-E180"], ["2022 09 24", "2022 10 15", "E181-E200"], ["2022 10 15", "2022 11 05", "E201-E222"], ["2022 11 08", "2022 11 25", "E434-E440"], ["2022 11 25", "2022 12 18", "E441-E460"], ["2022 12 27", "2023 02 04", "E461-E480"], ["2023 02 04", "2023 02 10", "E481-E483"], ["2023 03 25", "2023 05 15", "E223-E240"], ["2023 05 16", "2023 06 13", "E241-E260"], ["2023 06 13", "2023 07 13", "E261-E280"], ["2023 07 13", "2023 08 13", "E281-E300"], ["2023 08 13", "2023 09 10", "E301-E320"], ["2023 09 30", "2023 10 10", "E321-E340"], ["2023 10 10", "2023 11 13", "E341-E360"], ["2023 11 13", "", "E361-E380"]], 5, ["ger"], ["anime", "comedy", "crime"], ["bini"], ["Conan", "ongoing", "watching"], ["Gosho Aoyama"], [], "https://64.media.tumblr.com/73aadd9d6cbcf62315c5abd8cb70d059/2685f4921d799787-fd/s250x400/e77d85d7ee42456cc18b8c8c765cc4ef019dc953.jpg"],
+["series", ["Detective Conan", "Detektiv Conan", "Meitantei Conan"], ["1996", ""], [["2021 12 10", "2022 01 06", "E1-E20"], ["2022 01 10", "2022 02 09", "E21-E40"], ["2022 02 09", "2022 03 20", "E41-E60"], ["2022 03 20", "2022 05 05", "E61-E80"], ["2022 05 07", "2022 06 13", "E81-E100"], ["2022 06 14", "2022 06 24", "E101-E120"], ["2022 06 24", "2022 07 07", "E121-E140"], ["2022 07 19", "2022 08 15", "E141-E160"], ["2022 08 15", "2022 09 16", "E161-E180"], ["2022 09 24", "2022 10 15", "E181-E200"], ["2022 10 15", "2022 11 05", "E201-E222"], ["2022 11 08", "2022 11 25", "E434-E440"], ["2022 11 25", "2022 12 18", "E441-E460"], ["2022 12 27", "2023 02 04", "E461-E480"], ["2023 02 04", "2023 02 10", "E481-E483"], ["2023 03 25", "2023 05 15", "E223-E240"], ["2023 05 16", "2023 06 13", "E241-E260"], ["2023 06 13", "2023 07 13", "E261-E280"], ["2023 07 13", "2023 08 13", "E281-E300"], ["2023 08 13", "2023 09 10", "E301-E320"], ["2023 09 30", "2023 10 10", "E321-E340"], ["2023 10 10", "2023 11 13", "E341-E360"], ["2023 11 13", "2023 12 09", "E361-E380"], ["2023 12 09", "", "E381-E400"]], 5, ["ger"], ["anime", "comedy", "crime"], ["bini"], ["Conan", "ongoing", "watching"], ["Gosho Aoyama"], [], "https://64.media.tumblr.com/73aadd9d6cbcf62315c5abd8cb70d059/2685f4921d799787-fd/s250x400/e77d85d7ee42456cc18b8c8c765cc4ef019dc953.jpg"],
 /* S1: 5.64; S2: */
 
 ["film", ["Babyteeth", "Milla Meets Moses"], "2019", ["2021 12 10"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Shannon Murphy"], ["Eliza Scanlen", "Toby Wallace", "Essie Davis", "Ben Mendelsohn"], "https://64.media.tumblr.com/6246e2f37663cefdfb3b6208ce2bb5a9/9a2cc3822c29e24a-8d/s250x400/d76a734ed5a02b1263e66a688f943da4fc5835f3.jpg"],
@@ -2333,7 +2333,7 @@ var database = [
 
 ["film", ["Minority Report"], "2002", ["2022 08 01"], 6, ["ger"], ["action", "crime"], [], ["Netflix"], ["Steven Spielberg"], ["Tom Cruise", "Max von Sydow", "Jessica Capshaw", "Peter Stormare", "Tim Blake Nelson"], "https://64.media.tumblr.com/b58c461a00ff5953bbf6c1a916166d56/9e54af70e1d7e586-47/s250x400/ef455ce5678e330de5ad7a6d29cfdbf92c998597.jpg"],
 
-["film", ["The Italian Job", "The Italian Job - Jagd auf Millionen"], "2003", ["2022 08 01"], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["F. Gary Gray"], ["Mark Wahlberg", "Charlize Theron", "Donald Sutherland", "Edward Norton"], "https://64.media.tumblr.com/39836f80ba8b55cc13f6fb749390ec8c/54e6bac5fe283f50-ad/s250x400/5a68a3fb217fc1568f8325313ae9fbc81e8391b9.jpg"],
+["film", ["The Italian Job", "The Italian Job - Jagd auf Millionen"], "2003", ["2022 08 01"], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["F. Gary Gray"], ["Mark Wahlberg", "Charlize Theron", "Donald Sutherland", "Edward Norton", "Jason Statham"], "https://64.media.tumblr.com/39836f80ba8b55cc13f6fb749390ec8c/54e6bac5fe283f50-ad/s250x400/5a68a3fb217fc1568f8325313ae9fbc81e8391b9.jpg"],
 
 ["film", ["Turning Red", "Rot"], "2022", ["2022 08 01"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl"], ["Disney+"], ["Domee Shi"], [], "https://64.media.tumblr.com/455c642f339aaf38215ad334054d8c4b/454a4340d4d2d671-28/s250x400/b19aa66857ac32e59a77f5b47683dbaa22fc2286.jpg"],
 
@@ -2816,7 +2816,23 @@ var database = [
 
 ["film", ["Paradise"], "2023", ["2023 12 06"], 7, ["ger"], ["action", "sci-fi"], ["syl", "je"], ["Netflix"], ["Boris Kunz"], [], "https://64.media.tumblr.com/541e803a35bb377951b81d2f734eddb7/a163a022507352f7-07/s250x400/db89fe13590078fa181501d45f978303a77969ab.jpg"],
 
-["film", ["A Haunting in Venice"], "2023", ["2023 12 07"], 5, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh"], "https://64.media.tumblr.com/d6b3e8e7e10fad8415d00b0cddc28ff8/608f583f8045ee27-7c/s250x400/9b98d097c00a9182d4d64d846f2b3f652a3ae867.jpg"]
+["film", ["A Haunting in Venice"], "2023", ["2023 12 07"], 5, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh"], "https://64.media.tumblr.com/d6b3e8e7e10fad8415d00b0cddc28ff8/608f583f8045ee27-7c/s250x400/9b98d097c00a9182d4d64d846f2b3f652a3ae867.jpg"],
+
+["film", ["We Have a Ghost"], "2023", ["2023 12 08"], 7, ["ger"], ["adventure", "comedy"], ["je", "syl"], ["Netflix"], ["Christopher Landon"], ["David Harbour", "Anthony Mackie", "Tig Notaro"], "https://64.media.tumblr.com/c2c953087ffd7919ee94d6ea17dfe1d2/70ce5ba714f4c903-cd/s250x400/c32446a5e4bd1dae25f868768ec47cfb625b0518.jpg"],
+
+["film", ["Hubert und Staller - Eine schöne Bescherung"], "2018", [["2023 12 08", "2023 12 09"]], 5, ["ger"], ["comedy", "crime"], ["syl", "je"], ["Netflix"], ["Sebastian Sorger"], ["Christian Tramitz"], "https://64.media.tumblr.com/0c228774887f2e172824a6843cf514ae/52ba274431a12f42-bd/s250x400/f74ceeb33470f431ae21e09de1506e0a51e2cab4.jpg"],
+
+["film", ["Haunted Mansion", "Geistervilla"], "2023", ["2023 12 08"], 6, ["ger"], ["comedy", "drama"], ["je"], ["Netflix"], ["Justin Simien"], ["Owen Wilson", "Danny DeVito"], "https://64.media.tumblr.com/0e4cde94a631c650841e280867497d47/d43079bd6a875237-06/s250x400/b9918588dcc36b6d8f1a4f58c65743ee84321d66.jpg"],
+
+["film", ["The Lego Movie 2: The Second Part", "The Lego Movie 2"], "2019", ["2023 12 08"], 6, ["ger"], ["animation", "action"], ["bini", "je", "syl"], ["Netflix"], ["Mike Mitchell"], [], "https://64.media.tumblr.com/731826dd0727d9e3608903fb5efff483/54d6e5089bd05591-90/s250x400/955369ad23678d74f90f52679461d2c6e5bee2d6.jpg"],
+
+["film", ["Bumblebee"], "2018", ["2023 12 08"], 6, ["ger"], ["action", "adventure"], ["bini"], ["Netflix"], ["Travis Knight"], ["Hailee Steinfeld", "Jorge Lendeborg Jr.", "John Cena"], "https://64.media.tumblr.com/ce8444c96fab06a5bf31633fe8eb7a58/99d486fd2059c64e-6f/s250x400/e9fe6b66c92242a8bb24876e41b693a400555f76.jpg"],
+
+["film", ["Salt"], "2010", ["2023 12 09"], 7, ["ger"], ["action", "thriller"], ["bini", "syl"], ["Netflix"], ["Phillip Noyce"], ["Angelina Jolie", "Liev Schreiber", "Chiwetel Ejiofor", "August Diehl"], "https://64.media.tumblr.com/2b852132be6a8890890ac5f60e57c70b/8ef1c42b387c2598-e4/s250x400/7a835bd00c35da3cc4597aa68439b720465f8b8e.jpg"],
+
+["film", ["The Transporter"], "2002", ["2023 12 09"], 5, ["ger"], ["action", "crime"], ["bini"], ["Netflix"], ["Louis Leterrier", "Corey Yuen"], ["Jason Statham"], "https://64.media.tumblr.com/f2fbe77df38c0d3495c8a83d2ed8f0a9/86d586b5ef660b46-79/s250x400/8857598890cea29c32ca6aa64d9fa13479a08f18.jpg"],
+
+["film", ["Kabhi Alvida Naa Kehna", "Kabhi alvida naa kehna - Never Say Goodbye"], "2006", ["2023 10 12"], 0, ["hin"], ["drama", "romance", "bollywood"], ["bini"], ["Netflix"], ["Karan Johar"], ["Amitabh Bachchan", "Shah Rukh Khan", "Rani Mukerji"], "https://64.media.tumblr.com/05fa9c2f141c703f4a529d0349e8c505/0b4487ef147abeca-8c/s250x400/051b4e6074da5918dcfb4da037377a07b03e8081.jpg"]
 
 /*
 ,
