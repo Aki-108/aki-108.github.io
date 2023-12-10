@@ -764,7 +764,7 @@ var database = [
 	        
 ["film", ["2 Guns"], "2013", ["2017 08 06"], 6, ["ger"], ["action", "comedy"], [], [], ["Baltasar Kormákur"], ["Mark Wahlberg", "James Marsden"], "https://66.media.tumblr.com/ccbf8641297e401fa21e4b80f57c10f5/tumblr_pxrfvzPsqq1v2s5upo1_250.jpg"],
 	        
-["film", ["We're the Millers", "Wir sind die Millers"], "2013", ["2020 09 19"], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Rawson Marshall Thurber"], ["Jennifer Aniston", "Jason Sudeikis", "Emma Roberts", "Will Poulter", "Nick Offerman", "Kathryn Hahn", "Molly C. Quinn", "Luis Guzmán", "Matthew Willig", "Sam Richardson"], "https://64.media.tumblr.com/ee930350436633e134094138bb5b2c13/0b77504b8d09586d-14/s250x400/1c5f83b8477616f13f6f8ba2553e9ff659d4783b.jpg"],
+["film", ["We're the Millers", "Wir sind die Millers"], "2013", ["2020 09 19"], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Rawson Marshall Thurber"], ["Jennifer Aniston", "Jason Sudeikis", "Emma Roberts", "Will Poulter", "Nick Offerman", "Kathryn Hahn", "Molly C. Quinn", "Luis Guzmán", "Matthew Willig", "Sam Richardson", "Ed Helms"], "https://64.media.tumblr.com/ee930350436633e134094138bb5b2c13/0b77504b8d09586d-14/s250x400/1c5f83b8477616f13f6f8ba2553e9ff659d4783b.jpg"],
 	        
 ["film", ["The LEGO Movie"], "2014", ["2017 07 16", "2021 09 18"], 7, ["ger"], ["animation", "action", "comedy"], ["bini", "mai"], ["LEGO", "Netflix"], ["Christopher Miller", "Phil Lord"], [], "https://66.media.tumblr.com/8a4ec55d291de283e5130d1d06e00fb2/tumblr_pxnk9mcF8i1v2s5upo1_250.jpg"],
 	        
@@ -1112,7 +1112,7 @@ var database = [
 	        
 ["film", ["Kuch Kuch Hota Hai", "Kuch Kuch Hota Hai - Und ganz plötzlich ist es Liebe"], "1998", ["2015 10 23", ["2023 02 11", "2023 02 18"]], 6, ["ger", "hin"], ["comedy", "drama", "bollywood"], ["bini", "mai"], ["Netflix"], ["Karan Johar"], ["Shah Rukh Khan", "Anupam Kher", "Rani Mukerji"], "https://66.media.tumblr.com/5c85abbf91995378d4363a9bdbdec0d8/tumblr_pwko1ihh061v2s5upo1_250.jpg"],
 	        
-["film", ["Happy New Year", "Happy New Year - Herzensdiebe"], "2014", ["2015 10 25"], 4, ["ger"], ["action", "comedy", "bollywood", "music"], ["bini"], [], ["Farah Khan"], ["Shah Rukh Khan"], "https://66.media.tumblr.com/c1f84054992fbd681072778a2f35c657/tumblr_pwko56FXy31v2s5upo1_250.jpg"],
+["film", ["Happy New Year", "Happy New Year - Herzensdiebe"], "2014", ["2015 10 25", "2023 12 03"], 4, ["ger", "hin"], ["action", "comedy", "bollywood", "music"], ["bini"], ["Netflix"], ["Farah Khan"], ["Shah Rukh Khan"], "https://66.media.tumblr.com/c1f84054992fbd681072778a2f35c657/tumblr_pwko56FXy31v2s5upo1_250.jpg"],
 	        
 ["film", ["Signs", "Signs - Zeichen"], "2002", ["2015 10 28"], 1, ["ger"], ["drama", "mystery"], [], [], ["M. Night Shyamalan"], ["Abigail Breslin", "Joaquin Phoenix", "Cherry Jones"], "https://66.media.tumblr.com/9c14f12fbc6adb2065a42ee3855c7b51/tumblr_pwkoaywx8n1v2s5upo1_250.jpg"],
 	        
@@ -2794,7 +2794,13 @@ var database = [
 
 ["film", ["The Hunger Games: The Ballad of Songbirds & Snakes", "Die Tribute von Panem: The Ballad of Songbirds and Snakes"], "2023", ["2023 11 25"], 6, ["ger"], ["action", "adventure"], ["bini", "je"], ["Kino", "Hunger Games"], ["Francis Lawrence"], ["Fionnula Flanagan", "Flora Li Thiemann", "Jason Schwartzman"], "https://64.media.tumblr.com/779dd9713bb09d2b009655b9bf41d2b3/96683391f2f1cefe-10/s250x400/d9fe6af752dc825f36ad04c1f6b75415e055350f.jpg"],
 
-["series", ["Scott Pilgrim Takes Off", "Scott Pilgrim hebt ab"], "2023", [["2023 11 26", "S1"]], 7, ["ger"], ["animation", "action", "comedy"], [], ["Netflix"], ["BenDavid Grabinski", "Bryan Lee O'Malley"], [], "https://64.media.tumblr.com/1e39c212669001ee8f879a3ca2dc4d81/cdebcf44e0fe3f2f-83/s250x400/fd3aa4466f79ddbcc9ccf46e249bf95212d292a9.jpg"]
+["series", ["Scott Pilgrim Takes Off", "Scott Pilgrim hebt ab"], "2023", [["2023 11 26", "S1"]], 7, ["ger"], ["animation", "action", "comedy"], [], ["Netflix"], ["BenDavid Grabinski", "Bryan Lee O'Malley"], [], "https://64.media.tumblr.com/1e39c212669001ee8f879a3ca2dc4d81/cdebcf44e0fe3f2f-83/s250x400/fd3aa4466f79ddbcc9ccf46e249bf95212d292a9.jpg"],
+
+["audiobook", ["The Hobbit", "Der Hobbit"], "1937", [["2023 11 27", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["Middle Earth", "bibliothek", "watching"], ["J. R. R. Tolkien"], ["Gert Heidenreich"], "https://64.media.tumblr.com/929959ec765e7d578b0f96b6b8b052c3/e0f51c438a47316d-bb/s250x400/9d85cfb4a3b8f4b3278d648e7da067b5e9c2b776.jpg"],
+
+["film", ["Victoria"], "2015", ["2023 12 04"], 4, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Sebastian Schipper"], ["Frederick Lau", "Max Mauff", "Lena Klenke"], "https://64.media.tumblr.com/37973dd25843eca66662c4a25d96342f/1d8a691b85643fb1-be/s250x400/7cb2dfe4aee1c20e21ded92860dba9e95124db25.jpg"],
+
+["film", ["Family Switch"], "2023", ["2023 12 04"], 5, ["ger"], ["comedy", "family"], ["je"], ["Netflix"], ["McG"], ["Jennifer Garner", "Emma Myers", "Matthias Schweighöfer", "Ed Helms"], "https://64.media.tumblr.com/d027c7e4894bcc8385b4d508287302c8/b228ffbb642bb4b1-e5/s250x400/f45581db79bfaf4684f62cdc171335171954cf34.jpg"]
 
 /*
 ,
