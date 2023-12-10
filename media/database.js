@@ -2099,7 +2099,7 @@ var database = [
 
 ["book", ["Love, Stargirl"], "2007", [["2022 01 08", "2022 02 02"], ["2023 01 01", ""]], 9, ["eng"], ["young adult"], [], ["bby", "fav", "watching"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/b88bf55a159701d2594ed235c80d7f85/8914101fc7d1fd55-92/s250x400/1ec740cecb9c0912da50babb9d991f32d459a7cc.jpg"],
 
-["film", ["Red Notice"], "2021", ["2022 01 08"], 4, ["ger"], ["action", "comedy"], ["bini", "mai"], ["Netflix"], ["Rawson Marshall Thurber"], ["Dwayne Johnson", "Ryan Reynolds", "Ed Sheeran", "Ritu Arya"], "https://64.media.tumblr.com/853d7ca93d2d4254a8dc3fb24a451fb0/fe600e07dca487a5-8f/s250x400/42d55efe3b567cb1382b901e104fed157f18b1f9.jpg"],
+["film", ["Red Notice"], "2021", ["2022 01 08"], 4, ["ger"], ["action", "comedy"], ["bini", "mai"], ["Netflix"], ["Rawson Marshall Thurber"], ["Dwayne Johnson", "Ryan Reynolds", "Ed Sheeran", "Ritu Arya", "Gal Gadot"], "https://64.media.tumblr.com/853d7ca93d2d4254a8dc3fb24a451fb0/fe600e07dca487a5-8f/s250x400/42d55efe3b567cb1382b901e104fed157f18b1f9.jpg"],
 
 ["film", ["Ron's Gone Wrong", "Ron läuft schief"], "2021", ["2022 01 16"], 8, ["ger"], ["animation", "adventure"], ["bini", "syl"], ["Disney+"], ["Sarah Smith", "Jean-Philippe Vine", "Octavio E. Rodriguez"], [], "https://64.media.tumblr.com/349a673b0215b8cded23c8313391405a/51c2de9069466510-76/s250x400/df4bd9b063ed2b1e752e2a717eedb65411c2f3b1.jpg"],
 
@@ -2217,7 +2217,7 @@ var database = [
 
 ["book", ["Maniac Magee", "East End, West End und dazwischen Maniac Magee"], "1990", [["2022 05 01", "2022 05 15"]], 6, ["ger"], [], [], ["bibliothek"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/eba83b6d747fec37902bb193be553839/929dab40af472a01-98/s250x400/5ae720f5de4e6e5986b16bda63a78de08eb41a19.jpg"],
 
-["film", ["Death on the Nile", "Tod auf dem Nil"], "2022", ["2022 05 05"], 7, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Orlando Seale", "Kenneth Branagh", "Sophie Okonedo", "Russell Brand", "Tom Bateman", "Hayat Kamille", "Emma Mackey"], "https://64.media.tumblr.com/72633d92436cf4de74d217de6c0d4212/2dca79524f634bee-61/s250x400/8775fbd68a8bb15cf1f07008ca90720cb3b4f96c.jpg"],
+["film", ["Death on the Nile", "Tod auf dem Nil"], "2022", ["2022 05 05"], 7, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Orlando Seale", "Kenneth Branagh", "Sophie Okonedo", "Russell Brand", "Tom Bateman", "Hayat Kamille", "Emma Mackey", "Gal Gadot"], "https://64.media.tumblr.com/72633d92436cf4de74d217de6c0d4212/2dca79524f634bee-61/s250x400/8775fbd68a8bb15cf1f07008ca90720cb3b4f96c.jpg"],
 
 ["film", ["The Craft", "Der Hexenclub"], "1996", ["2022 05 08"], 8, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Andrew Fleming"], ["Robin Tunney"], "https://64.media.tumblr.com/3c030d96f34af7187abad628feffb7fb/152a7307000bcfca-da/s250x400/e87c53c238f2e91b4359a42428a5c35df9260498.jpg"],
 
@@ -2800,7 +2800,13 @@ var database = [
 
 ["film", ["Victoria"], "2015", ["2023 12 04"], 4, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Sebastian Schipper"], ["Frederick Lau", "Max Mauff", "Lena Klenke"], "https://64.media.tumblr.com/37973dd25843eca66662c4a25d96342f/1d8a691b85643fb1-be/s250x400/7cb2dfe4aee1c20e21ded92860dba9e95124db25.jpg"],
 
-["film", ["Family Switch"], "2023", ["2023 12 04"], 5, ["ger"], ["comedy", "family"], ["je"], ["Netflix"], ["McG"], ["Jennifer Garner", "Emma Myers", "Matthias Schweighöfer", "Ed Helms"], "https://64.media.tumblr.com/d027c7e4894bcc8385b4d508287302c8/b228ffbb642bb4b1-e5/s250x400/f45581db79bfaf4684f62cdc171335171954cf34.jpg"]
+["film", ["Family Switch"], "2023", ["2023 12 04"], 5, ["ger"], ["comedy", "family"], ["je"], ["Netflix"], ["McG"], ["Jennifer Garner", "Emma Myers", "Matthias Schweighöfer", "Ed Helms"], "https://64.media.tumblr.com/d027c7e4894bcc8385b4d508287302c8/b228ffbb642bb4b1-e5/s250x400/f45581db79bfaf4684f62cdc171335171954cf34.jpg"],
+
+["film", ["Heart of Stone"], "2023", ["2023 12 04"], 8, ["ger"], ["action", "crime"], ["je"], ["Netflix"], ["Tom Harper"], ["Gal Gadot"], "https://64.media.tumblr.com/a4e1429ffe66e2832311e458b3f7f27c/3a35cf8773813d9a-60/s250x400/3286689dee1e5fd98a5ee8201283776f609bed9c.jpg"],
+
+["film", ["The Rundown", "Welcome to the Jungle"], "2003", ["2023 12 05"], 6, ["ger"], ["action", "adventure"], ["je"], ["Netflix"], ["Peter Berg"], ["Dwayne Johnson", "Christopher Walken"], "https://64.media.tumblr.com/65ec2fbae146f6e591c85da185e3a4b1/55d49577b4ac54d7-ee/s250x400/13084d9d1357d73dad394e1589096e69373fee3b.jpg"],
+
+["film", ["The Mother"], "2023", ["2023 12 05"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Niki Caro"], ["Omari Hardwick"], "https://64.media.tumblr.com/b1f04bc25768fd9208ea9c4f1bb8bde2/b36bbf8c9d51d7aa-fc/s250x400/442a97012627c3e4f54891915f50b1854fd632c2.jpg"]
 
 /*
 ,
