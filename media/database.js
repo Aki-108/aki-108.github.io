@@ -2832,7 +2832,7 @@ var database = [
 
 ["film", ["The Transporter"], "2002", ["2023 12 09"], 5, ["ger"], ["action", "crime"], ["bini"], ["Netflix"], ["Louis Leterrier", "Corey Yuen"], ["Jason Statham"], "https://64.media.tumblr.com/f2fbe77df38c0d3495c8a83d2ed8f0a9/86d586b5ef660b46-79/s250x400/8857598890cea29c32ca6aa64d9fa13479a08f18.jpg"],
 
-["film", ["Kabhi Alvida Naa Kehna", "Kabhi alvida naa kehna - Never Say Goodbye"], "2006", ["2023 10 12"], 0, ["hin"], ["drama", "romance", "bollywood"], ["bini"], ["Netflix"], ["Karan Johar"], ["Amitabh Bachchan", "Shah Rukh Khan", "Rani Mukerji"], "https://64.media.tumblr.com/05fa9c2f141c703f4a529d0349e8c505/0b4487ef147abeca-8c/s250x400/051b4e6074da5918dcfb4da037377a07b03e8081.jpg"]
+["film", ["Kabhi Alvida Naa Kehna", "Kabhi alvida naa kehna - Never Say Goodbye"], "2006", ["2023 12 10"], 0, ["hin"], ["drama", "romance", "bollywood"], ["bini"], ["Netflix"], ["Karan Johar"], ["Amitabh Bachchan", "Shah Rukh Khan", "Rani Mukerji"], "https://64.media.tumblr.com/05fa9c2f141c703f4a529d0349e8c505/0b4487ef147abeca-8c/s250x400/051b4e6074da5918dcfb4da037377a07b03e8081.jpg"]
 
 /*
 ,
