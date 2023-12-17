@@ -2796,7 +2796,7 @@ var database = [
 
 ["series", ["Scott Pilgrim Takes Off", "Scott Pilgrim hebt ab"], "2023", [["2023 11 26", "S1"]], 7, ["ger"], ["animation", "action", "comedy"], [], ["Netflix"], ["BenDavid Grabinski", "Bryan Lee O'Malley"], [], "https://64.media.tumblr.com/1e39c212669001ee8f879a3ca2dc4d81/cdebcf44e0fe3f2f-83/s250x400/fd3aa4466f79ddbcc9ccf46e249bf95212d292a9.jpg"],
 
-["audiobook", ["The Hobbit", "Der Hobbit"], "1937", [["2023 11 27", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["Middle Earth", "bibliothek", "watching"], ["J. R. R. Tolkien"], ["Gert Heidenreich"], "https://64.media.tumblr.com/929959ec765e7d578b0f96b6b8b052c3/e0f51c438a47316d-bb/s250x400/9d85cfb4a3b8f4b3278d648e7da067b5e9c2b776.jpg"],
+["audiobook", ["The Hobbit", "Der Hobbit"], "1937", [["2023 11 27", "2023 12 17"]], 8, ["ger"], ["fantasy", "adventure"], [], ["Middle Earth", "bibliothek"], ["J. R. R. Tolkien"], ["Gert Heidenreich"], "https://64.media.tumblr.com/929959ec765e7d578b0f96b6b8b052c3/e0f51c438a47316d-bb/s250x400/9d85cfb4a3b8f4b3278d648e7da067b5e9c2b776.jpg"],
 
 ["film", ["Victoria"], "2015", ["2023 12 04"], 4, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Sebastian Schipper"], ["Frederick Lau", "Max Mauff", "Lena Klenke"], "https://64.media.tumblr.com/37973dd25843eca66662c4a25d96342f/1d8a691b85643fb1-be/s250x400/7cb2dfe4aee1c20e21ded92860dba9e95124db25.jpg"],
 
