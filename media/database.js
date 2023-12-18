@@ -398,7 +398,7 @@ var database = [
 	        
 ["series", ["Love, Death & Robots"], ["2019", "2021"], [["2019 04 06", "S1"], ["2021 05 26", "2021 06 09", "S2"], ["2022 08 16", "2022 08 20", "S3"]], 7, ["ger"], ["animation", "sci-fi"], [], ["Netflix"], ["Tim Miller"], [], "https://66.media.tumblr.com/5331b164c8cfac716c03ce7eca1d51dc/fe2409a39ecc2f2e-c4/s250x400/d65945fdda9dee05781d957d0a2bb6da467e4466.jpg"],
 	        
-["series", ["Hilda"], ["2018", "2020"], [["2019 08 21", "2019 08 27", "S1"], ["2020 08 30", "S1"], ["2020 12 15", "2021 01 04", "S2"]], 8, ["ger"], ["animation", "adventure"], ["bini", "jani", "sai"], ["Netflix"], ["Kurt Mueller", "Luke Pearson", "Stephanie Simpson"], [], "https://66.media.tumblr.com/3945796a427172ab48d56b4504101249/710bd787409c9bc9-2f/s250x400/8e66f0a422ba79d724f8c494c9b9a12321eb0b94.jpg"],
+["series", ["Hilda"], ["2018", "2023"], [["2019 08 21", "2019 08 27", "S1"], ["2020 08 30", "S1"], ["2020 12 15", "2021 01 04", "S2"], ["2023 12 18", "", "S3"]], 8, ["ger"], ["animation", "adventure"], ["bini", "jani", "sai"], ["Netflix", "watching"], ["Kurt Mueller", "Luke Pearson", "Stephanie Simpson"], [], "https://66.media.tumblr.com/3945796a427172ab48d56b4504101249/710bd787409c9bc9-2f/s250x400/8e66f0a422ba79d724f8c494c9b9a12321eb0b94.jpg"],
 	        
 ["series", ["Titans"], "2018", [["2019 09 14", "2019 09 17", "S1"]], 6, ["ger"], ["adventure", "action", "fantasy", "sci-fi"], [], ["Netflix"], ["Greg Berlanti", "Akiva Goldsman", "Geoff Johns"], ["Jeni Ross"], "https://66.media.tumblr.com/eec95a4a451c575fd05587f42f112134/744d9581cf761ac1-65/s250x400/6612ea5ab6e72fb662880f717ce5e680031c5a34.jpg"],
 	        
