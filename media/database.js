@@ -2790,7 +2790,7 @@ var database = [
 
 ["film", ["Cloud Atlas"], "2012", ["2023 11 19"], 4, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Tom Tykwer", "Lana Wachowski"], ["Tom Hanks", "Halle Berry", "Jim Broadbent", "Hugo Weaving", "Doona Bae", "Hugh Grant", "Martin Wuttke"], "https://64.media.tumblr.com/330046243c0b27ef07718474b6c40be3/920ba7c26833c836-e2/s250x400/2928400ecbbd583050226c6429349707652470c9.jpg"],
 
-["series", ["Toilet-Bound Hanako-kun", "Jibaku Shounen Hanako-kun", "Jibaku Shounen Hanako-kun"], "2020", [["2023 11 20", "", "S1"]], 0, ["ger"], ["anime", "comedy", "supernatural"], ["bini", "nico"], ["watching"], ["Iro Aida", "Leah Clark", "Yasuhiro Nakanishi"], [], "https://64.media.tumblr.com/b463e5aeaa179890387de41b69a5087a/463f7646be245d98-b6/s250x400/0814a3824ad0be74a35f44db60634930ebb6c742.jpg"],
+["series", ["Toilet-Bound Hanako-kun", "Jibaku Shounen Hanako-kun", "Jibaku Shounen Hanako-kun"], "2020", [["2023 11 20", "2023 12 18", "S1"]], 6, ["ger"], ["anime", "comedy", "supernatural"], ["bini", "nico"], [], ["Iro Aida", "Leah Clark", "Yasuhiro Nakanishi"], [], "https://64.media.tumblr.com/b463e5aeaa179890387de41b69a5087a/463f7646be245d98-b6/s250x400/0814a3824ad0be74a35f44db60634930ebb6c742.jpg"],
 
 ["film", ["The Hunger Games: The Ballad of Songbirds & Snakes", "Die Tribute von Panem: The Ballad of Songbirds and Snakes"], "2023", ["2023 11 25"], 6, ["ger"], ["action", "adventure"], ["bini", "je"], ["Kino", "Hunger Games"], ["Francis Lawrence"], ["Fionnula Flanagan", "Flora Li Thiemann", "Jason Schwartzman"], "https://64.media.tumblr.com/779dd9713bb09d2b009655b9bf41d2b3/96683391f2f1cefe-10/s250x400/d9fe6af752dc825f36ad04c1f6b75415e055350f.jpg"],
 
