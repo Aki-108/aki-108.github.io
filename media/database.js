@@ -2756,7 +2756,7 @@ var database = [
 
 ["film", ["Die Wilden Kerle 6 - Die Legende lebt"], "2016", ["2023 10 15"], 4, ["ger"], ["action", "adventure"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/aed131cd1b2b177f60f6b6b74b3a65dc/d8e3eb25910f6365-57/s250x400/c10a5f826aa901b4abb99f56f69ddffe2ad3db8c.jpg"],
 
-["series", ["Silent Witness"], ["1996", ""], [["2023 10 15", "S19E1-E2"]], 8, ["ger"], ["crime"], ["syl", "je"], [], ["Dudi Appleton"], [], "https://64.media.tumblr.com/6b47476c3e43b3ff19c1caa3a776a304/953b8944c7e523bd-7c/s250x400/e69eeda4277f48e48b8b19349eaa5cb9d6bc061d.jpg"],
+["series", ["Silent Witness"], ["1996", ""], [["2023 10 15", "S19E1 & E2"]], 8, ["ger"], ["crime"], ["syl", "je"], [], ["Dudi Appleton"], [], "https://64.media.tumblr.com/6b47476c3e43b3ff19c1caa3a776a304/953b8944c7e523bd-7c/s250x400/e69eeda4277f48e48b8b19349eaa5cb9d6bc061d.jpg"],
 
 ["audiobook", ["Vincent flattert ins Abenteuer"], "2022", ["2023 10 17"], 4, ["ger"], ["adventure"], [], ["bibliothek"], ["Sonja Kaiblinger"], ["Christian Rudolf"], "https://64.media.tumblr.com/a6d859ed3e31425871e82434359d5120/e0d9dfe95966bd56-5c/s250x400/61add0a9bb470d2c9c4ef189ceed2a11b2023fdb.jpg"],
 
