@@ -1684,7 +1684,7 @@ var database = [
 
 ["film", ["KanColle: The Movie", "Kantai Collection: KanColle Movie"], "2016", [["2020 12 31", "2021 01 03"]], 7, ["jap"], ["anime", "action"], [], ["Kantai Collection", "KanColle"], ["Keizô Kusakawa"], [], "https://64.media.tumblr.com/a447c9f6d8a7c8d7d0a2a0833c0d282e/b02d8f292f5b4614-e3/s250x400/02d83c1d81f532e207e2a240ad6951157f82212d.jpg"],
 
-["series", ["The Alienist", "Die Einkreisung"], ["2018", "2020"], [["2020 12 31", "2021 01 03", "S1"], ["2021 01 05", "2021 01 14", "S2"]], 8, ["ger"], ["crime", "drama"], [], ["Kreizler Series", "Netflix"], ["Hossein Amini", "Amy Berg", "Stuart Carolan"], ["Daniel Brühl", "Luke Evans", "Dakota Fanning", "Ted Levine", "Martin McCreadie", "Lara Pulver", "Bill Heck", "Brooke Carter"], "https://64.media.tumblr.com/71ab538cd41671bc3c008d7452b33420/d6035eae3c5d56bf-b7/s250x400/b3e91ecd7b08bee60651d960f8dde88599b41458.jpg"],
+["series", ["The Alienist", "Die Einkreisung"], ["2018", "2020"], [["2020 12 31", "2021 01 03", "S1"], ["2021 01 05", "2021 01 14", "S2"], ["2023 12 21", "", "S1"]], 8, ["ger"], ["crime", "drama"], [], ["Kreizler Series", "Netflix", "watching"], ["Hossein Amini", "Amy Berg", "Stuart Carolan"], ["Daniel Brühl", "Luke Evans", "Dakota Fanning", "Ted Levine", "Martin McCreadie", "Lara Pulver", "Bill Heck", "Brooke Carter"], "https://64.media.tumblr.com/71ab538cd41671bc3c008d7452b33420/d6035eae3c5d56bf-b7/s250x400/b3e91ecd7b08bee60651d960f8dde88599b41458.jpg"],
 
 ["film", ["(T)Raumschiff Surprise - Periode 1"], "2004", ["2020 12 31"], 6, ["ger"], ["comedy", "sci-fi"], ["bini", "syl", "je"], [], ["Michael Herbig"], ["Michael Herbig", "Rick Kavanian", "Christian Tramitz", "Anja Kling", "Til Schweiger", "Sky du Mont", "Christoph Maria Herbst"], "https://64.media.tumblr.com/1721a3c2cb768685026d6612f04cec82/6ea36aafa3c6e7ab-ec/s250x400/739b2425416b1467ca52a2be4cb52d42d4e5cdb2.jpg"],
 
@@ -2834,7 +2834,9 @@ var database = [
 
 ["film", ["Kabhi Alvida Naa Kehna", "Kabhi alvida naa kehna - Never Say Goodbye"], "2006", ["2023 12 10"], 0, ["hin"], ["drama", "romance", "bollywood"], ["bini"], ["Netflix"], ["Karan Johar"], ["Amitabh Bachchan", "Shah Rukh Khan", "Rani Mukerji"], "https://64.media.tumblr.com/05fa9c2f141c703f4a529d0349e8c505/0b4487ef147abeca-8c/s250x400/051b4e6074da5918dcfb4da037377a07b03e8081.jpg"],
 
-["film", ["Invisible Sue"], "2018", ["2023 12 19"], 6, ["ger"], ["adventure", "family"], [], ["bibliothek"], ["Markus Dietrich"], [], "https://64.media.tumblr.com/91f30315c3d0571ccf4bb68712d71d2b/7c7efe2b21663845-cf/s250x400/1f863364cc8768feed73433c256c8098ba104f57.jpg"]
+["film", ["Invisible Sue"], "2018", ["2023 12 19"], 6, ["ger"], ["adventure", "family"], [], ["bibliothek"], ["Markus Dietrich"], [], "https://64.media.tumblr.com/91f30315c3d0571ccf4bb68712d71d2b/7c7efe2b21663845-cf/s250x400/1f863364cc8768feed73433c256c8098ba104f57.jpg"],
+
+["film", ["Molly Moon and the Incredible Book of Hypnotism", "Molly Moon"], "2015", ["2023 12 21"], 5, ["ger"], ["adventure", "family"], [], ["bibliothek"], ["Christopher N. Rowley"], ["Raffey Cassidy", "Dominic Monaghan"], "https://64.media.tumblr.com/5859ddea36ad039a1f962f2f79068cfc/e68c3b0aed7aa6a2-d2/s250x400/31a54ccbc951ef70e5ddc3b17f51caae321ef21c.jpg"]
 
 /*
 ,
