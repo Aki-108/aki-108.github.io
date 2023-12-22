@@ -2836,7 +2836,11 @@ var database = [
 
 ["film", ["Invisible Sue"], "2018", ["2023 12 19"], 6, ["ger"], ["adventure", "family"], [], ["bibliothek"], ["Markus Dietrich"], [], "https://64.media.tumblr.com/91f30315c3d0571ccf4bb68712d71d2b/7c7efe2b21663845-cf/s250x400/1f863364cc8768feed73433c256c8098ba104f57.jpg"],
 
-["film", ["Molly Moon and the Incredible Book of Hypnotism", "Molly Moon"], "2015", ["2023 12 21"], 5, ["ger"], ["adventure", "family"], [], ["bibliothek"], ["Christopher N. Rowley"], ["Raffey Cassidy", "Dominic Monaghan"], "https://64.media.tumblr.com/5859ddea36ad039a1f962f2f79068cfc/e68c3b0aed7aa6a2-d2/s250x400/31a54ccbc951ef70e5ddc3b17f51caae321ef21c.jpg"]
+["film", ["Molly Moon and the Incredible Book of Hypnotism", "Molly Moon"], "2015", ["2023 12 21"], 5, ["ger"], ["adventure", "family"], [], ["bibliothek"], ["Christopher N. Rowley"], ["Raffey Cassidy", "Dominic Monaghan"], "https://64.media.tumblr.com/5859ddea36ad039a1f962f2f79068cfc/e68c3b0aed7aa6a2-d2/s250x400/31a54ccbc951ef70e5ddc3b17f51caae321ef21c.jpg"],
+
+["film", ["The Boy and the Heron", "Der Junge und der Reiher", "Kimitachi wa Dou Ikiru ka"], "2023", ["2023 12 21"], 7, ["ger"], ["anime", "adventure"], ["bini"], ["Kino", "Ghibli"], ["Hayao Miyazaki"], [], "https://64.media.tumblr.com/bd0136bea499cbc92aadd81a67f53793/88192662e93d0f81-4b/s250x400/20c12295c6ab3e80fc2bc0eb3c5c5b4487750676.jpg"],
+
+["film", ["Wild Witch", "Wildhexe", "Vildheks"], "2018", ["2023 12 22"], 4, ["ger"], ["adventure", "family"], [], ["bibliothek"], ["Kaspar Munk"], [], "https://64.media.tumblr.com/f2bdb327bf09a40275e8df4e76acb34d/57e7810e94e27be3-79/s250x400/1c3d7e5f33f0304a0e3335846bc855486f0b87f3.jpg"]
 
 /*
 ,
