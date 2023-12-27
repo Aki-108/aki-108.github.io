@@ -2844,7 +2844,11 @@ var database = [
 
 ["short", ["Shaun the Sheep: The Flight Before Christmas", "Shaun das Schaf - Es ist ein Schaf entsprungen"], "2021", ["2023 12 24"], 7, ["ger"], ["animation", "comedy"], ["syl"], [], ["Steve Cox"], [], "https://64.media.tumblr.com/6f81a153e05bbdb8b325a731c620b937/a90c1b8aec946033-a8/s250x400/1db5ec2aaa3b350f9c5df8b1fbb3275b0fb194e5.jpg"],
 
-["film", ["Barbie in the 12 Dancing Princesses", "Barbie in Die 12 tanzenden Prinzessinnen"], "2006", ["2023 12 25"], 5, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Greg Richardson"], [], "https://64.media.tumblr.com/78203152a9bdb6cba6d679433f6e2535/ec1abf96841f79a0-ca/s250x400/1be84e2163e510a6c7d62851abf46291a8f7576e.jpg"]
+["film", ["Barbie in the 12 Dancing Princesses", "Barbie in Die 12 tanzenden Prinzessinnen"], "2006", ["2023 12 25"], 5, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Greg Richardson"], [], "https://64.media.tumblr.com/78203152a9bdb6cba6d679433f6e2535/ec1abf96841f79a0-ca/s250x400/1be84e2163e510a6c7d62851abf46291a8f7576e.jpg"],
+
+["film", ["Anne of Green Gables", "Anne auf Green Gables"], "2016", ["2023 12 27"], 7, ["ger"], ["drama", "family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/741bd2efb6f4165f17c8e1f8178377b8/fa1f5baacdd17d51-0a/s250x400/8d3df864719794cea3da81b6a2ba848c5b64f018.jpg"],
+
+["series", ["Kleo"], "2022", [["2023 12 27", "", "S1"]], 0, ["ger"], ["action", "crime"], [], ["Netflix"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"]
 
 /*
 ,
