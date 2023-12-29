@@ -2850,7 +2850,11 @@ var database = [
 
 ["series", ["Kleo"], "2022", [["2023 12 27", "", "S1"]], 0, ["ger"], ["action", "crime"], [], ["Netflix", "watching"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
 
-["film", ["L.M. Montgomery's Anne of Green Gables: The Good Stars", "Anne auf Green Gables - Teil 2"], "2017", ["2023 12 28"], 6, ["ger"], ["family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/f456d80c9f445631f7c81332e4cac7bf/ad0bfc3b3c9de16b-b9/s250x400/9734f1cc7e57cf6b7abd640f4821d74e5694a691.jpg"]
+["film", ["L.M. Montgomery's Anne of Green Gables: The Good Stars", "Anne auf Green Gables - Teil 2"], "2017", ["2023 12 28"], 6, ["ger"], ["family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/f456d80c9f445631f7c81332e4cac7bf/ad0bfc3b3c9de16b-b9/s250x400/9734f1cc7e57cf6b7abd640f4821d74e5694a691.jpg"],
+
+["film", ["L.M. Montgomery's Anne of Green Gables: Fire & Dew", "Anne auf Green Gables - Teil 3"], "2017", ["2023 12 29"], 7, ["ger"], ["comedy", "family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/ce0ad5b2671e839f49df3437d4e69b14/39c2e1cd16861d61-0b/s250x400/102b49b359812a6cb1247482194b3a7c3600c848.jpg"],
+
+["series", ["Berlín"], "2023", [["2023 12 29", "", "S1"]], 0, ["ger"], ["action", "crime"], [], ["Netflix", "watching"], ["Esther Martínez Lobato", "Álex Pina", "David Barrocal"], ["Pedro Alonso", "Itziar Ituño"], "https://64.media.tumblr.com/92ddf93811becd152522203f64bee8ff/4a336de082ed302c-ae/s250x400/65552e6ec6f6aa419adcc2bc5a2b1290c2a08104.jpg"]
 
 /*
 ,
