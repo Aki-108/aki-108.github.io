@@ -2848,7 +2848,7 @@ var database = [
 
 ["film", ["Anne of Green Gables", "Anne auf Green Gables"], "2016", ["2023 12 27"], 7, ["ger"], ["drama", "family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/741bd2efb6f4165f17c8e1f8178377b8/fa1f5baacdd17d51-0a/s250x400/8d3df864719794cea3da81b6a2ba848c5b64f018.jpg"],
 
-["series", ["Kleo"], "2022", [["2023 12 27", "", "S1"]], 0, ["ger"], ["action", "crime"], [], ["Netflix", "watching"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
+["series", ["Kleo"], "2022", [["2023 12 27", "2023 12 29", "S1"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
 
 ["film", ["L.M. Montgomery's Anne of Green Gables: The Good Stars", "Anne auf Green Gables - Teil 2"], "2017", ["2023 12 28"], 6, ["ger"], ["family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/f456d80c9f445631f7c81332e4cac7bf/ad0bfc3b3c9de16b-b9/s250x400/9734f1cc7e57cf6b7abd640f4821d74e5694a691.jpg"],
 
