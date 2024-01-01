@@ -219,7 +219,7 @@ var database = [
 	        
 ["book", ["Ein Fall für dich und das Tiger-Team: An der Knochenküste"], "2008", [["2020 08 28", "2020 09 04"]], 6, ["ger"], [], [], [], ["Thomas Brezina"], [], "https://64.media.tumblr.com/17c27a9ef3c235c996169de20ec663a6/4afe09f262fa464e-5a/s250x400/41b6a7112d4d1d57302dd3a02af320fe7262360c.jpg"],
 	        
-["film", ["Pirates of the Caribbean: At World's End", "Pirates of the Caribbean - Am Ende der Welt"], "2007", ["2016 03 22", "2020 09 01", "2021 10 03"], 8, ["ger"], ["action", "adventure", "fantasy"], [], ["Fluch der Karibik", "DVD", "Disney+"], ["Gore Verbinski"], ["Johnny Depp", "Orlando Bloom", "Keira Knightley", "Bill Nighy", "Martin Klebba", "Marshall Manesh", "Michelle Lee", "Stellan Skarsgård", "Geoffrey Rush", "Jack Davenport", "Kevin McNally"], "https://64.media.tumblr.com/e28a26238a9e44437d65a27aa6f1dfa8/ad861de3fc9e6317-02/s250x400/30e11ca933e0e1d3e3b73cafc7a8d4f95ceda302.jpg"],
+["film", ["Pirates of the Caribbean: At World's End", "Pirates of the Caribbean - Am Ende der Welt"], "2007", ["2016 03 22", "2020 09 01", "2021 10 03", ["2023 01 01", ""]], 8, ["ger"], ["action", "adventure", "fantasy"], [], ["Fluch der Karibik", "DVD", "Disney+"], ["Gore Verbinski"], ["Johnny Depp", "Orlando Bloom", "Keira Knightley", "Bill Nighy", "Martin Klebba", "Marshall Manesh", "Michelle Lee", "Stellan Skarsgård", "Geoffrey Rush", "Jack Davenport", "Kevin McNally"], "https://64.media.tumblr.com/e28a26238a9e44437d65a27aa6f1dfa8/ad861de3fc9e6317-02/s250x400/30e11ca933e0e1d3e3b73cafc7a8d4f95ceda302.jpg"],
 	        
 ["series", ["Teenage Bounty Hunters"], "2020", [["2020 09 02", "2020 09 03", "S1"], ["2022 01 12", "2022 01 14", "S1"]], 7, ["ger"], ["comedy", "crime"], [], ["Netflix", "LGBT"], ["Kathleen Jordan"], ["Haroon Khan", "Eric Graise"], "https://64.media.tumblr.com/f2879b4e88027d2f63f435ddc839d51e/ced119bf04ce9ebd-8f/s250x400/2f89bd05f5171e617038649490aa3bb3dbfd5dc9.jpg"],
 	        
@@ -2267,7 +2267,7 @@ var database = [
 
 ["film", ["Ride the Cyclone"], "2019", ["2022 06 20", "2023 07 28"], 9, ["eng"], ["musical"], [], [], ["Jacob Richmond", "Brooke Maxwell"], [], "https://64.media.tumblr.com/6fdde99368c6607bb175488e92bd7c9e/b1393f70ec05ffdc-82/s250x400/3a080007052d45177826e1c64d03e2376e7d68bb.jpg"],
 
-["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", "2022 08 07", "C1.1-C6.3"], ["2022 09 20", "2022 11 06", "C6.4-C8.8"], ["2023 08 08", "2023 09 14", "C8.8-End"]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "ongoing"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
+["book", ["Children of Ruin", "Die Erben der Zeit"], "2019", [["2022 06 21", "2022 08 07", "C1.1-C6.3"], ["2022 09 20", "2022 11 06", "C6.4-C8.8"], ["2023 08 08", "2023 09 14", "C8.8-End"]], 0, ["ger"], ["sci-fi"], [], ["bibliothek"], ["Adrian Tchaikovsky"], [], "https://64.media.tumblr.com/2b1ee8a76c3973e12dd3f9cd72e915ab/e6e63613d34ff3fe-3d/s250x400/a24b1d059bd7f8f4f5cf4235184b4b3eb0af0df5.jpg"],
 
 ["film", ["Badhaai Do"], "2022", [["2022 06 25", "2022 07 01"]], 8, ["hin"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Harshavardhan Kulkarni"], [], "https://64.media.tumblr.com/19e098aca5d66b71f930e075026752cc/f9329bfd238d17a4-06/s250x400/929c766a8486a8cd4766a1759fab59ec27788188.jpg"],
 
