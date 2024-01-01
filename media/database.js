@@ -2854,7 +2854,9 @@ var database = [
 
 ["film", ["L.M. Montgomery's Anne of Green Gables: Fire & Dew", "Anne auf Green Gables - Teil 3"], "2017", ["2023 12 29"], 7, ["ger"], ["comedy", "family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/ce0ad5b2671e839f49df3437d4e69b14/39c2e1cd16861d61-0b/s250x400/102b49b359812a6cb1247482194b3a7c3600c848.jpg"],
 
-["series", ["Berlín", "Berlín", "Berlin"], "2023", [["2023 12 29", "2023 12 31", "S1"]], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Esther Martínez Lobato", "Álex Pina", "David Barrocal"], ["Pedro Alonso", "Itziar Ituño"], "https://64.media.tumblr.com/92ddf93811becd152522203f64bee8ff/4a336de082ed302c-ae/s250x400/65552e6ec6f6aa419adcc2bc5a2b1290c2a08104.jpg"]
+["series", ["Berlín", "Berlín", "Berlin"], "2023", [["2023 12 29", "2023 12 31", "S1"]], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Esther Martínez Lobato", "Álex Pina", "David Barrocal"], ["Pedro Alonso", "Itziar Ituño"], "https://64.media.tumblr.com/92ddf93811becd152522203f64bee8ff/4a336de082ed302c-ae/s250x400/65552e6ec6f6aa419adcc2bc5a2b1290c2a08104.jpg"],
+
+["film", ["tick, tick...BOOM!", "tick, tick... Boom!"], "2021", ["2024 01 01"], 4, ["ger"], ["biography", "comedy"], [], ["Netflix"], ["Lin-Manuel Miranda"], ["Andrew Garfield", "Alexandra Shipp", "Vanessa Hudgens"], "https://64.media.tumblr.com/29ced7117df786b46dff3ca55834b060/456bde344e404374-a7/s250x400/3df20e78055960afabb68265b5cf15a8193127f5.jpg"]
 
 /*
 ,
