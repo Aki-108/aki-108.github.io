@@ -219,7 +219,7 @@ var database = [
 	        
 ["book", ["Ein Fall für dich und das Tiger-Team: An der Knochenküste"], "2008", [["2020 08 28", "2020 09 04"]], 6, ["ger"], [], [], [], ["Thomas Brezina"], [], "https://64.media.tumblr.com/17c27a9ef3c235c996169de20ec663a6/4afe09f262fa464e-5a/s250x400/41b6a7112d4d1d57302dd3a02af320fe7262360c.jpg"],
 	        
-["film", ["Pirates of the Caribbean: At World's End", "Pirates of the Caribbean - Am Ende der Welt"], "2007", ["2016 03 22", "2020 09 01", "2021 10 03", ["2023 01 01", ""]], 8, ["ger"], ["action", "adventure", "fantasy"], [], ["Fluch der Karibik", "DVD", "Disney+"], ["Gore Verbinski"], ["Johnny Depp", "Orlando Bloom", "Keira Knightley", "Bill Nighy", "Martin Klebba", "Marshall Manesh", "Michelle Lee", "Stellan Skarsgård", "Geoffrey Rush", "Jack Davenport", "Kevin McNally"], "https://64.media.tumblr.com/e28a26238a9e44437d65a27aa6f1dfa8/ad861de3fc9e6317-02/s250x400/30e11ca933e0e1d3e3b73cafc7a8d4f95ceda302.jpg"],
+["film", ["Pirates of the Caribbean: At World's End", "Pirates of the Caribbean - Am Ende der Welt"], "2007", ["2016 03 22", "2020 09 01", "2021 10 03", ["2024 01 01", "2024 01 02"]], 8, ["ger"], ["action", "adventure", "fantasy"], [], ["Fluch der Karibik", "DVD", "Disney+"], ["Gore Verbinski"], ["Johnny Depp", "Orlando Bloom", "Keira Knightley", "Bill Nighy", "Martin Klebba", "Marshall Manesh", "Michelle Lee", "Stellan Skarsgård", "Geoffrey Rush", "Jack Davenport", "Kevin McNally"], "https://64.media.tumblr.com/e28a26238a9e44437d65a27aa6f1dfa8/ad861de3fc9e6317-02/s250x400/30e11ca933e0e1d3e3b73cafc7a8d4f95ceda302.jpg"],
 	        
 ["series", ["Teenage Bounty Hunters"], "2020", [["2020 09 02", "2020 09 03", "S1"], ["2022 01 12", "2022 01 14", "S1"]], 7, ["ger"], ["comedy", "crime"], [], ["Netflix", "LGBT"], ["Kathleen Jordan"], ["Haroon Khan", "Eric Graise"], "https://64.media.tumblr.com/f2879b4e88027d2f63f435ddc839d51e/ced119bf04ce9ebd-8f/s250x400/2f89bd05f5171e617038649490aa3bb3dbfd5dc9.jpg"],
 	        
@@ -2097,7 +2097,7 @@ var database = [
 
 ["film", ["Friendzone"], "2021", ["2022 01 08"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Charles Van Tieghem"], [], "https://64.media.tumblr.com/1a21a4d0767564112499f161fac6ed81/e537b0b1bd1b8426-ea/s250x400/22cab9c14e7fb6407cfc43946ceac125b35f23d3.jpg"],
 
-["book", ["Love, Stargirl"], "2007", [["2022 01 08", "2022 02 02"], ["2023 01 01", ""]], 9, ["eng"], ["young adult"], [], ["bby", "fav", "watching"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/b88bf55a159701d2594ed235c80d7f85/8914101fc7d1fd55-92/s250x400/1ec740cecb9c0912da50babb9d991f32d459a7cc.jpg"],
+["book", ["Love, Stargirl"], "2007", [["2022 01 08", "2022 02 02"], ["2023 01 01", "2024 01 02"]], 9, ["eng"], ["young adult"], [], ["bby", "fav"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/b88bf55a159701d2594ed235c80d7f85/8914101fc7d1fd55-92/s250x400/1ec740cecb9c0912da50babb9d991f32d459a7cc.jpg"],
 
 ["film", ["Red Notice"], "2021", ["2022 01 08"], 4, ["ger"], ["action", "comedy"], ["bini", "mai"], ["Netflix"], ["Rawson Marshall Thurber"], ["Dwayne Johnson", "Ryan Reynolds", "Ed Sheeran", "Ritu Arya", "Gal Gadot"], "https://64.media.tumblr.com/853d7ca93d2d4254a8dc3fb24a451fb0/fe600e07dca487a5-8f/s250x400/42d55efe3b567cb1382b901e104fed157f18b1f9.jpg"],
 
@@ -2856,7 +2856,9 @@ var database = [
 
 ["series", ["Berlín", "Berlín", "Berlin"], "2023", [["2023 12 29", "2023 12 31", "S1"]], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Esther Martínez Lobato", "Álex Pina", "David Barrocal"], ["Pedro Alonso", "Itziar Ituño"], "https://64.media.tumblr.com/92ddf93811becd152522203f64bee8ff/4a336de082ed302c-ae/s250x400/65552e6ec6f6aa419adcc2bc5a2b1290c2a08104.jpg"],
 
-["film", ["tick, tick...BOOM!", "tick, tick... Boom!"], "2021", ["2024 01 01"], 4, ["ger"], ["biography", "comedy"], [], ["Netflix"], ["Lin-Manuel Miranda"], ["Andrew Garfield", "Alexandra Shipp", "Vanessa Hudgens"], "https://64.media.tumblr.com/29ced7117df786b46dff3ca55834b060/456bde344e404374-a7/s250x400/3df20e78055960afabb68265b5cf15a8193127f5.jpg"]
+["film", ["tick, tick...BOOM!", "tick, tick... Boom!"], "2021", ["2024 01 01"], 4, ["ger"], ["biography", "comedy"], [], ["Netflix"], ["Lin-Manuel Miranda"], ["Andrew Garfield", "Alexandra Shipp", "Vanessa Hudgens"], "https://64.media.tumblr.com/29ced7117df786b46dff3ca55834b060/456bde344e404374-a7/s250x400/3df20e78055960afabb68265b5cf15a8193127f5.jpg"],
+
+["film", ["White Noise", "Weißes Rauschen"], "2022", ["2024 01 02"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Noah Baumbach"], ["Don Cheadle", "Adam Driver", "Greta Gerwig", "Raffey Cassidy"], "https://64.media.tumblr.com/916c77f9a2c34d4685b8a9bc09de8e14/c893acd7b3493dba-7d/s250x400/d68d629d27cf7104fc0970eec8f6bb86d1139159.jpg"]
 
 /*
 ,
