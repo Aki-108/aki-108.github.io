@@ -2339,7 +2339,7 @@ var database = [
 
 ["film", ["Freche Mädchen 2"], "2010", ["2022 08 02"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel", "Anke Engelke"], "https://64.media.tumblr.com/4426bcb3a3e341d055d9d7a72cf1d10b/286d77f0c07a7261-6a/s250x400/1afcf23b6b986b7865e97edac5f168faa8a5a888.jpg"],
 
-["film", ["Encanto"], "2021", ["2022 08 02", "2022 10 22"], 9, ["ger", "eng"], ["animation", "comedy"], [], ["Disney+"], ["Jared Bush", "Byron Howard", "Charise Castro Smith"], [], "https://64.media.tumblr.com/5f9c13c7445e01de7b382aaae6a31921/4495bb7c932a9f0b-36/s250x400/d129a608a68b4bda3d6ea00d784810ff186f3b04.jpg"],
+["film", ["Encanto"], "2021", ["2022 08 02", "2022 10 22", "2024 01 02"], 9, ["ger", "eng"], ["animation", "comedy"], ["bini"], ["Disney+"], ["Jared Bush", "Byron Howard", "Charise Castro Smith"], [], "https://64.media.tumblr.com/5f9c13c7445e01de7b382aaae6a31921/4495bb7c932a9f0b-36/s250x400/d129a608a68b4bda3d6ea00d784810ff186f3b04.jpg"],
 
 ["film", ["Weathering With You", "Weathering With You - Das Mädchen, das die Sonne berührte", "Tenki no ko"], "2019", ["2022 08 02"], 7, ["ger"], ["anime", "drama"], ["bini", "nico"], ["Netflix"], ["Makoto Shinkai"], [], "https://64.media.tumblr.com/e6e1e85e1f5cc156bc0d9aac743f2b5d/ebd7bb6941348b39-54/s250x400/0d4ad9cfafaaade7bddc118598a88c9dec880be2.jpg"],
 
