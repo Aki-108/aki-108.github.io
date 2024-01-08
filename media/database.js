@@ -2692,7 +2692,7 @@ var database = [
 
 ["audiobook", ["Alte Geheimnisse schlummern tief"], "2022", [["2023 08 08", "2023 08 12"]], 7, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/0ffba5543925242d49fcfcb47e2cb9ba/8549a79b444c2276-52/s250x400/9d15773c84e98341048f25e1c0c70f25ce15e4f7.jpg"],
 
-["book", ["La sinfonia del tempo breve", "Die Symphonie des Augenblicks", "La sinfonia del tempo breve"], "2009", [["2023 08 09", ""]], 0, ["ger"], [], [], ["watching"], ["Mattia Signorini"], [], "https://64.media.tumblr.com/280cf5ef995af36e96a7b6436eb4b8f0/3680562cf0945c26-f5/s400x600/5e3a0fb07f0a5c9e58cc475dd4822600e57f341c.jpg"],
+["book", ["La sinfonia del tempo breve", "Die Symphonie des Augenblicks", "La sinfonia del tempo breve"], "2009", [["2023 08 09", "2024 01 07", "E1-E21"]], 4, ["ger"], [], [], ["dropped"], ["Mattia Signorini"], [], "https://64.media.tumblr.com/280cf5ef995af36e96a7b6436eb4b8f0/3680562cf0945c26-f5/s400x600/5e3a0fb07f0a5c9e58cc475dd4822600e57f341c.jpg"],
 
 ["film", ["Nellys Abenteuer"], "2016", ["2023 08 12"], 6, ["ger"], ["adventure", "family"], [], ["bibliothek"], ["Dominik Wessely"], ["Flora Li Thiemann"], "https://64.media.tumblr.com/bef01a074ae8d530d9b2e9668eccf0e0/50980d2b1cb1b209-cf/s250x400/fbb4d58ac010b5dae2fb7e4a6557c39fdf9fc97a.jpg"],
 
@@ -2862,7 +2862,9 @@ var database = [
 
 ["film", ["Mudbound"], "2017", ["2024 01 04"], 7, ["ger"], ["drama", "war"], [], ["Netflix"], ["Dee Rees"], ["Carey Mulligan"], "https://64.media.tumblr.com/a280d79aba676214e7442695b07078bb/bf58dbc204c20552-11/s250x400/64158a5d12a61eb912bdea07f2c7850dd10172b5.jpg"],
 
-["series", ["Bodies"], "2023", [["2024 01 05", "", "S1"]], 0, ["ger"], ["crime", "drama"], [], ["Netflix", "watching"], ["Si Spencer", "Paul Tomalin"], [], "https://64.media.tumblr.com/58873ac18641b2fb44695740f58ef551/1f83ebb6dafa459c-a7/s250x400/be1c1a0faece211e6424f5d92edb9f73741385bd.jpg"]
+["series", ["Bodies"], "2023", [["2024 01 05", "", "S1"]], 0, ["ger"], ["crime", "drama"], [], ["Netflix", "watching"], ["Si Spencer", "Paul Tomalin"], [], "https://64.media.tumblr.com/58873ac18641b2fb44695740f58ef551/1f83ebb6dafa459c-a7/s250x400/be1c1a0faece211e6424f5d92edb9f73741385bd.jpg"],
+
+["book", ["A Beautifully Foolish Endeavor"], "2020", [["2024 01 08", ""]], 0, ["eng"], ["sci-fi"], [], ["watching"], ["Hank Green"], [], "https://64.media.tumblr.com/a6136f23c0182fd31c170d091160e1d4/af242479e138ebb5-b7/s250x400/0ae44314718913f10b6011d58c992904f8ed2bf1.jpg"]
 
 /*
 ,
