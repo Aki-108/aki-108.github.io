@@ -2862,7 +2862,7 @@ var database = [
 
 ["film", ["Mudbound"], "2017", ["2024 01 04"], 7, ["ger"], ["drama", "war"], [], ["Netflix"], ["Dee Rees"], ["Carey Mulligan"], "https://64.media.tumblr.com/a280d79aba676214e7442695b07078bb/bf58dbc204c20552-11/s250x400/64158a5d12a61eb912bdea07f2c7850dd10172b5.jpg"],
 
-["series", ["Bodies"], "2023", [["2024 01 05", "", "S1"]], 0, ["ger"], ["crime", "drama"], [], ["Netflix", "watching"], ["Si Spencer", "Paul Tomalin"], [], "https://64.media.tumblr.com/58873ac18641b2fb44695740f58ef551/1f83ebb6dafa459c-a7/s250x400/be1c1a0faece211e6424f5d92edb9f73741385bd.jpg"],
+["series", ["Bodies"], "2023", [["2024 01 05", "2024 01 13", "S1"]], 6, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Si Spencer", "Paul Tomalin"], [], "https://64.media.tumblr.com/58873ac18641b2fb44695740f58ef551/1f83ebb6dafa459c-a7/s250x400/be1c1a0faece211e6424f5d92edb9f73741385bd.jpg"],
 
 ["book", ["A Beautifully Foolish Endeavor"], "2020", [["2024 01 08", ""]], 0, ["eng"], ["sci-fi"], [], ["watching"], ["Hank Green"], [], "https://64.media.tumblr.com/a6136f23c0182fd31c170d091160e1d4/af242479e138ebb5-b7/s250x400/0ae44314718913f10b6011d58c992904f8ed2bf1.jpg"],
 
