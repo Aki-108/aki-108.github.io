@@ -406,7 +406,7 @@ var database = [
 	        
 ["series", ["The World's Most Extraordinary Homes", "Die außergewöhnlichsten Häuser der Welt"], ["2017", "2018"], [["2018 03 30", "S1E1"], ["2020 01 28", "S1E5"], ["2020 01 31", "2020 02 04", "S1E2-S1E4"], ["2020 02 04", "2020 02 19", "S2"]/*["2020 01 28", "2020 02 19", "S1 - S2"]*/], 6, ["ger"], ["documentary"], [], ["Netflix"], [], [], "https://66.media.tumblr.com/68660e690b214ad2c20f9f4ff67f52b5/385ad0cd815a120f-6c/s250x400/adadec0c15f43fe4afbc95ddc24dff5a207882c6.jpg"],
 	        
-["series", ["We Are the Wave", "Wir sind die Welle"], "2019", [["2020 07 03", "2020 07 07", "S1"]], 7, ["ger"], ["drama"], [], ["Netflix"], ["Jan Berger", "Dennis Gansel", "Peter Thorwarth"], ["Milena Tscharntke", "Ludwig Simon"], "https://66.media.tumblr.com/7a2c5a828658b59173ccc0a2a2483519/27a6e4cd0ec9f54a-5a/s250x400/6ee2c1e4e8abbd85940ca307701fd85d6c197978.jpg"],
+["series", ["We Are the Wave", "Wir sind die Welle"], "2019", [["2020 07 03", "2020 07 07", "S1"]], 7, ["ger"], ["drama"], [], ["Netflix"], ["Jan Berger", "Dennis Gansel", "Peter Thorwarth"], ["Milena Tscharntke", "Ludwig Simon", "Michelle Barthel"], "https://66.media.tumblr.com/7a2c5a828658b59173ccc0a2a2483519/27a6e4cd0ec9f54a-5a/s250x400/6ee2c1e4e8abbd85940ca307701fd85d6c197978.jpg"],
 	        
 ["series", ["Terrace House: Boys & Girls in the City", "Terrace House"], ["2015", "2016"], [["2019 10 13", "2019 12 24", "S1E1-S1E18"], ["2021 07 24", "2021 09 08", "S1E19-E46"]], 8, ["jap"], ["reality-tv"], ["bini"], ["Netflix"], ["Masato Maeda"], [], "https://64.media.tumblr.com/dc96a41efcde322ebdd67f4205a4866a/95c8f7faf9c9026e-88/s250x400/6132e1085b759b2b17ac7a2b99bd5cca09b1f3a9.jpg"],
 	        
@@ -2782,7 +2782,7 @@ var database = [
 
 ["film", ["Spy Kids"], "2001", ["2023 11 12"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Robert Rodriguez"], ["Carla Gugino", "Tony Shalhoub"], "https://64.media.tumblr.com/c6c12706a009a6ed8e74790d6b720a99/63b85f74ba0be278-79/s250x400/feb671e632c0ada28da3e3b6673e710b11c03fea.jpg"],
 
-["film", ["Das Leben danach"], "2017", ["2023 11 12"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Nicole Weegmann"], ["Jella Haase", "Martin Brambach"], "https://64.media.tumblr.com/4dcf5814a9e5090bc1739792033bfec2/9a6d3cc9e3a144fd-c8/s250x400/7e6b8335da55fc4ee43d99ffd670fa183ed32584.jpg"],
+["film", ["Das Leben danach"], "2017", ["2023 11 12"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Nicole Weegmann"], ["Jella Haase", "Martin Brambach", "Anna Drexler"], "https://64.media.tumblr.com/4dcf5814a9e5090bc1739792033bfec2/9a6d3cc9e3a144fd-c8/s250x400/7e6b8335da55fc4ee43d99ffd670fa183ed32584.jpg"],
 
 ["film", ["Reminiscence", "Reminiscence: Die Erinnerung stirbt nie"], "2021", ["2023 11 12"], 6, ["ger"], ["mystery", "romance"], [], ["Netflix"], ["Lisa Joy"], ["Hugh Jackman", "Rebecca Ferguson", "Cliff Curtis", "Angela Sarafyan", "Thandiwe Newton"], "https://64.media.tumblr.com/f64c88b789dad29224491c278a3f1a98/fde4ae23810cfba3-c7/s250x400/5bc94ecceca55a70accc8ef4f06a4d953e1ebd63.jpg"],
 
@@ -2848,7 +2848,7 @@ var database = [
 
 ["film", ["Anne of Green Gables", "Anne auf Green Gables"], "2016", ["2023 12 27"], 7, ["ger"], ["drama", "family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/741bd2efb6f4165f17c8e1f8178377b8/fa1f5baacdd17d51-0a/s250x400/8d3df864719794cea3da81b6a2ba848c5b64f018.jpg"],
 
-["series", ["Kleo"], "2022", [["2023 12 27", "2023 12 29", "S1"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
+["series", ["Kleo"], "2022", [["2023 12 27", "2023 12 29", "S1"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
 
 ["film", ["L.M. Montgomery's Anne of Green Gables: The Good Stars", "Anne auf Green Gables - Teil 2"], "2017", ["2023 12 28"], 6, ["ger"], ["family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/f456d80c9f445631f7c81332e4cac7bf/ad0bfc3b3c9de16b-b9/s250x400/9734f1cc7e57cf6b7abd640f4821d74e5694a691.jpg"],
 
@@ -2866,7 +2866,9 @@ var database = [
 
 ["book", ["A Beautifully Foolish Endeavor"], "2020", [["2024 01 08", ""]], 0, ["eng"], ["sci-fi"], [], ["watching"], ["Hank Green"], [], "https://64.media.tumblr.com/a6136f23c0182fd31c170d091160e1d4/af242479e138ebb5-b7/s250x400/0ae44314718913f10b6011d58c992904f8ed2bf1.jpg"],
 
-["series", ["Frieren: Beyond Journey's End", "Frieren - Nach dem Ende der Reise", "Sousou no Frieren"], "2023", [["2024 01 08", "", "S1"]], 0, ["ger"], ["anime", "adventure", "fantasy"], ["bini", "nico"], ["watching"], ["Tsukasa Abe", "Tomohiro Suzuki"], [], "https://64.media.tumblr.com/26357b76568d308665a10651d24595b8/d4726f88c54001b6-9a/s250x400/3753e1bff62b46171a8d43b57d3770b51338f48f.jpg"]
+["series", ["Frieren: Beyond Journey's End", "Frieren - Nach dem Ende der Reise", "Sousou no Frieren"], "2023", [["2024 01 08", "", "S1"]], 0, ["ger"], ["anime", "adventure", "fantasy"], ["bini", "nico"], ["watching"], ["Tsukasa Abe", "Tomohiro Suzuki"], [], "https://64.media.tumblr.com/26357b76568d308665a10651d24595b8/d4726f88c54001b6-9a/s250x400/3753e1bff62b46171a8d43b57d3770b51338f48f.jpg"],
+
+["film", ["Mein Ende. Dein Anfang."], "2019", ["2024 01 14"], 6, ["ger"], ["drama"], [], ["bibliothek"], ["Mariko Minoguchi"], ["Julius Feldmeier", "Michelle Barthel", "Anna Drexler"], "https://64.media.tumblr.com/2b4e8039a02c9adebd87489533cb2ef9/8e80cfe71c7be55a-e3/s250x400/f55d945cff8cde980a11a96f70421546a229aba3.jpg"]
 
 /*
 ,
