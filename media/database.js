@@ -460,7 +460,7 @@ var database = [
 	        
 ["film", ["The Hobbit: The Battle of the Five Armies", "Der Hobbit: Die Schlacht der fünf Heere"], "2014", ["2016 01 02", "2016 12 17", "2018 03 11", "2020 01 27", "2022 04 20"], 8, ["ger"], ["adventure", "fantasy"], [], ["Middle Earth", "Netflix"], ["Peter Jackson"], ["Ian McKellen", "Martin Freeman", "Orlando Bloom", "Evangeline Lilly", "Cate Blanchett", "Thomasin McKenzie", "Christopher Lee", "Richard Armitage", "Hugo Weaving"], "https://40.media.tumblr.com/237cae545a3d283f66e4e54339b8c59f/tumblr_o0cahcr4aK1v2s5upo1_250.jpg"],
 	        
-["film", ["Pirates of the Caribbean: Dead Men Tell No Tales", "Pirates of the Caribbean: Salazars Rache"], "2017", ["2017 06 04", "2021 10 08"], 7, ["ger"], ["action", "adventure"], ["syl"], ["Fluch der Karibik", "Kino", "Disney+"], ["Joachim Rønning", "Espen Sandberg"], ["Johnny Depp", "Geoffrey Rush", "Kaya Scodelario", "Martin Klebba", "Orlando Bloom", "Keira Knightley", "Kevin McNally", "Paul McCartney"], "https://68.media.tumblr.com/2fd84cd5e84c264842c089683fe913d0/tumblr_os7wkmjCQH1v2s5upo1_250.jpg"],
+["film", ["Pirates of the Caribbean: Dead Men Tell No Tales", "Pirates of the Caribbean: Salazars Rache"], "2017", ["2017 06 04", "2021 10 08", "2024 01 21"], 7, ["ger"], ["action", "adventure"], ["syl", "bini"], ["Fluch der Karibik", "Kino", "Disney+"], ["Joachim Rønning", "Espen Sandberg"], ["Johnny Depp", "Geoffrey Rush", "Kaya Scodelario", "Martin Klebba", "Orlando Bloom", "Keira Knightley", "Kevin McNally", "Paul McCartney"], "https://68.media.tumblr.com/2fd84cd5e84c264842c089683fe913d0/tumblr_os7wkmjCQH1v2s5upo1_250.jpg"],
 	        
 ["film", ["Fear and Loathing in Las Vegas", "Angst und Schrecken in Las Vegas"], "1998", ["2017 04 05"], 5, ["ger"], ["adventure", "comedy"], [], [], ["Terry Gilliam"], ["Johnny Depp", "Tobey Maguire", "Mark Harmon", "Christopher Meloni", "Christina Ricci"], "https://68.media.tumblr.com/683b4dbbaf0b150c1ea757c9d2481f9b/tumblr_oo36eerF4m1v2s5upo1_250.jpg"],
 	        
@@ -1170,11 +1170,11 @@ var database = [
 	        
 ["film", ["Captain America: The First Avenger"], "2011", ["2016 03 29"], 7, ["ger"], ["action", "adventure"], ["bini"], ["Marvel", "Avengers"], ["Joe Johnston"], ["Chris Evans", "Tommy Lee Jones", "Stanley Tucci", "Samuel L. Jackson", "Toby Jones", "David Bradley", "Stan Lee", "Richard Armitage", "Sebastian Stan", "Hugo Weaving"], "https://49.media.tumblr.com/d795348c9ba0e4483f05147201ef6b24/tumblr_o4ugvkeV8b1v2s5upo1_250.jpg"],
 	        
-["film", ["Captain America: The Winter Soldier", "The Return of the First Avenger"], "2014", ["2016 03 30"], 7, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Anthony Russo", "Joe Russo"], ["Chris Evans", "Samuel L. Jackson", "Scarlett Johansson", "Anthony Mackie", "Toby Jones", "Stan Lee", "Alan Dale", "Sebastian Stan"], "https://37.media.tumblr.com/7d801f011251aefaa3be6a9e224190ca/tumblr_o4v7w80vDb1v2s5upo1_250.jpg"],
+["film", ["Captain America: The Winter Soldier", "The Return of the First Avenger"], "2014", ["2016 03 30"], 7, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Anthony Russo", "Joe Russo"], ["Chris Evans", "Samuel L. Jackson", "Scarlett Johansson", "Anthony Mackie", "Toby Jones", "Stan Lee", "Alan Dale", "Sebastian Stan", "Cobie Smulders"], "https://37.media.tumblr.com/7d801f011251aefaa3be6a9e224190ca/tumblr_o4v7w80vDb1v2s5upo1_250.jpg"],
 	        
-["film", ["The Avengers"], "2012", ["2016 03 30"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel", "Avengers"], ["Joss Whedon"], ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Tom Hiddleston", "Clark Gregg", "Samuel L. Jackson", "Gwyneth Paltrow", "Stan Lee", "Stellan Skarsgård"], "https://40.media.tumblr.com/e839ece28b91eb39db84c65d6f91ce90/tumblr_o4vbcpBprV1v2s5upo1_250.jpg"],
+["film", ["The Avengers"], "2012", ["2016 03 30"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel", "Avengers"], ["Joss Whedon"], ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Tom Hiddleston", "Clark Gregg", "Samuel L. Jackson", "Gwyneth Paltrow", "Stan Lee", "Stellan Skarsgård", "Cobie Smulders"], "https://40.media.tumblr.com/e839ece28b91eb39db84c65d6f91ce90/tumblr_o4vbcpBprV1v2s5upo1_250.jpg"],
 	        
-["film", ["Avengers: Age of Ultron"], "2015", ["2016 03 30"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel", "Avengers"], ["Joss Whedon"], ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson", "Jeremy Renner", "Samuel L. Jackson", "Anthony Mackie", "Stan Lee", "Claudia Kim", "Josh Brolin", "Stellan Skarsgård"], "https://49.media.tumblr.com/79f9900b954e67779949aa03af22e694/tumblr_o4wt23eSX41v2s5upo1_250.jpg"],
+["film", ["Avengers: Age of Ultron"], "2015", ["2016 03 30"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel", "Avengers"], ["Joss Whedon"], ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson", "Jeremy Renner", "Samuel L. Jackson", "Anthony Mackie", "Stan Lee", "Claudia Kim", "Josh Brolin", "Stellan Skarsgård", "Cobie Smulders"], "https://49.media.tumblr.com/79f9900b954e67779949aa03af22e694/tumblr_o4wt23eSX41v2s5upo1_250.jpg"],
 	        
 ["film", ["Guardians of the Galaxy"], "2014", ["2016 05 09", "2016 10 16", "2017 12 26"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Marvel"], ["James Gunn"], ["Chris Pratt", "Zoe Saldana", "Bradley Cooper", "Karen Gillan", "Wyatt Oleff", "Stan Lee", "Josh Brolin", "Dave Bautista", "Djimon Hounsou"], "https://66.media.tumblr.com/5c4b5e161e5cf33b47ac14fab0f17a16/tumblr_o6xep3SJwt1v2s5upo1_250.jpg"],
 	        
@@ -1988,7 +1988,7 @@ var database = [
 
 ["film", ["Night Teeth"], "2021", ["2021 11 15"], 5, ["ger"], ["action", "crime"], [], ["Netflix"], ["Adam Randall"], ["Jorge Lendeborg Jr.", "Debby Ryan", "Lucy Fry", "Raúl Castillo", "Megan Fox", "Alexander Ludwig"], "https://64.media.tumblr.com/5e666bcbd33f7e70c10c9d06ca55d5e9/7756c53967b823ad-3d/s250x400/621aff22a48aaec2ce1b4b5844ee03fcb3fe421e.jpg"],
 
-["film", ["Ready Player One"], "2018", ["2021 11 17"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Steven Spielberg"], ["Tye Sheridan", "Olivia Cooke", "Simon Pegg", "Mark Rylance", "Lena Waithe", "T.J. Miller", "Ben Mendelsohn", "Hannah John-Kamen"], "https://64.media.tumblr.com/cdc111a0fe4bfe6d4fc494264ddf6aa7/52d2fac5692e3291-86/s250x400/51190389cd042238f8b0f1346c373075aad7bbfa.jpg"],
+["film", ["Ready Player One"], "2018", ["2021 11 17"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Steven Spielberg"], ["Tye Sheridan", "Olivia Cooke", "Simon Pegg", "Mark Rylance", "Lena Waithe", "T.J. Miller", "Ben Mendelsohn", "Hannah John-Kamen", "James Dryden"], "https://64.media.tumblr.com/cdc111a0fe4bfe6d4fc494264ddf6aa7/52d2fac5692e3291-86/s250x400/51190389cd042238f8b0f1346c373075aad7bbfa.jpg"],
 
 ["series", ["Explained"], ["2018", ""], [["2019 11 04", "2020 02 01", "S1&S2"]], 0, [], ["documentary"], [], ["Netflix", "ongoing"], ["Joe Posner", "Joss Fong"], [], "https://64.media.tumblr.com/974710ea9cce1c7f8752e13dbe70eea1/3259d75c5b06823b-b9/s250x400/ba2655c584f1b18661819cfd180a72df8e27b7d4.jpg"],
 
@@ -2453,7 +2453,7 @@ var database = [
 
 ["film", ["About a Girl"], "2014", ["2022 12 18"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Mark Monheim"], ["Heike Makatsch", "Katharina Spiering"], "https://64.media.tumblr.com/bd65711cc46879faa7d65b11ee6833b7/a79aa342df23862c-0e/s250x400/96658ce7ea5d9f97d795fca55a7fdf618b6ccb6d.jpg"],
 
-["film", ["Roald Dahl's Matilda the Musical", "Matilda - Das Musical"], "2022", ["2022 12 25"], 6, ["eng"], ["comedy", "musical"], [], ["Netflix"], ["Matthew Warchus"], [], "https://64.media.tumblr.com/a099fea054157faaa164449f636e8a64/2f7a2a30ed9c4047-9e/s250x400/07084a68c1b0ebdb5a8a1f6c936da80d155ec175.jpg"],
+["film", ["Roald Dahl's Matilda the Musical", "Matilda - Das Musical"], "2022", ["2022 12 25"], 6, ["eng"], ["comedy", "musical"], [], ["Netflix"], ["Matthew Warchus"], ["James Dryden"], "https://64.media.tumblr.com/a099fea054157faaa164449f636e8a64/2f7a2a30ed9c4047-9e/s250x400/07084a68c1b0ebdb5a8a1f6c936da80d155ec175.jpg"],
 
 ["film", ["Plan B"], "2021", ["2022 12 30"], 5, ["ger"], ["comedy"], [], ["Disney+"], ["Natalie Morales"], ["Timothy Granaderos", "Michael Provost", "Gus Birney"], "https://64.media.tumblr.com/a4332cf7ea21ef932644cd9d1ea64ffd/dd4341f0d64173dd-95/s250x400/656744220fee6626163e0c064d669318536f5fbf.jpg"],
 
@@ -2874,7 +2874,11 @@ var database = [
 
 ["film", ["Kidnapping Stella"], "2019", ["2024 01 20"], 5, ["ger"], ["crime"], [], ["Netflix"], ["Thomas Sieben"], ["Jella Haase", "Max von der Groeben"], "https://64.media.tumblr.com/918ddc7d222a0d050f67333c040abd84/9123d9983003fd76-a5/s250x400/c80885559255204565680338790a68eb883c418b.jpg"],
 
-["film", ["Happiness for Beginners", "Küssen und andere lebenswichtige Dinge"], "2023", ["2024 01 20"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Vicky Wight"], ["Ellie Kemper", "Gus Birney", "Alexander Koch"], "https://64.media.tumblr.com/b4371c952a5c2f180efe289eee31d649/40bb50e4ffde7c31-f5/s250x400/8b4204b242031d4b79e07479b35ae19643ebb6dd.jpg"]
+["film", ["Happiness for Beginners", "Küssen und andere lebenswichtige Dinge"], "2023", ["2024 01 20"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Vicky Wight"], ["Ellie Kemper", "Gus Birney", "Alexander Koch"], "https://64.media.tumblr.com/b4371c952a5c2f180efe289eee31d649/40bb50e4ffde7c31-f5/s250x400/8b4204b242031d4b79e07479b35ae19643ebb6dd.jpg"],
+
+["film", ["Jack Reacher: Never Go Back", "Jack Reacher: Kein Weg zurück"], "2016", ["2024 01 21"], 5, ["ger"], ["action", "crime"], [], ["Netflix"], ["Edward Zwick"], ["Tom Cruise", "Cobie Smulders"], "https://64.media.tumblr.com/fdb3398bea26f33d5c3a8886040460c8/86463bdf9b89fbf4-57/s250x400/8369d8bfcc9d8c0c259958f021853571d9cbd18d.jpg"],
+
+["film", ["The Dig", "Die Ausgrabung"], "2021", ["2021 01 21"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Simon Stone"], ["Ralph Fiennes", "Carey Mulligan", "James Dryden"], "https://64.media.tumblr.com/6151b871c9ec697731cdf32f2188521c/fabf64193e22321a-66/s250x400/5884a9f48e30026e8386698e2c9e4b45b1956ff5.jpg"]
 
 /*
 ,
