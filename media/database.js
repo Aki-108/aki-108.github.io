@@ -2878,7 +2878,13 @@ var database = [
 
 ["film", ["Jack Reacher: Never Go Back", "Jack Reacher: Kein Weg zurück"], "2016", ["2024 01 21"], 5, ["ger"], ["action", "crime"], [], ["Netflix"], ["Edward Zwick"], ["Tom Cruise", "Cobie Smulders"], "https://64.media.tumblr.com/fdb3398bea26f33d5c3a8886040460c8/86463bdf9b89fbf4-57/s250x400/8369d8bfcc9d8c0c259958f021853571d9cbd18d.jpg"],
 
-["film", ["The Dig", "Die Ausgrabung"], "2021", ["2021 01 21"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Simon Stone"], ["Ralph Fiennes", "Carey Mulligan", "James Dryden"], "https://64.media.tumblr.com/6151b871c9ec697731cdf32f2188521c/fabf64193e22321a-66/s250x400/5884a9f48e30026e8386698e2c9e4b45b1956ff5.jpg"]
+["film", ["The Dig", "Die Ausgrabung"], "2021", ["2021 01 21"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Simon Stone"], ["Ralph Fiennes", "Carey Mulligan", "James Dryden"], "https://64.media.tumblr.com/6151b871c9ec697731cdf32f2188521c/fabf64193e22321a-66/s250x400/5884a9f48e30026e8386698e2c9e4b45b1956ff5.jpg"],
+
+["audiobook", ["Percy Jackson & the Olympians: The Titan's Curse", "Percy Jackson: Der Fluch des Titanen"], "2007", [["2024 01 15", "2024 01 23"]], 6, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/c2d6226611b2d21cce48bd91a5bc9170/f9713576e23f60f5-e0/s250x400/f2bf31c329977c82c07e720d6f39393766bb737b.jpg"],
+
+["audiobook", ["Percy Jackson & the Olympians: The Battle of the Labyrinth", "Percy Jackson: Die Schlacht um das Labyrinth"], "2008", [["2024 01 23", "2024 01 25"]], 7, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/dd6fae0994798d38cad00453d2f96537/b6e2f3e7a1439530-fd/s250x400/66d72150081b7c397e453734a7eac8ba256ad123.jpg"],
+
+["audiobook", ["Percy Jackson & the Olympians: The Last Olympian", "Percy Jackson: Die letzte Göttin"], "2009", [["2024 01 26", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson", "watching"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/0be94de7858d99097d7f37e0ffb20538/e706619e7287e5af-6d/s250x400/a788cc17b78ae4703b88a8b91e8c935d76c07b13.jpg"]
 
 /*
 ,
