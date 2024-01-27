@@ -2886,7 +2886,7 @@ var database = [
 
 ["audiobook", ["Percy Jackson & the Olympians: The Last Olympian", "Percy Jackson: Die letzte Göttin"], "2009", [["2024 01 26", "2024 01 27"]], 6, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson", "bibliothek"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/0be94de7858d99097d7f37e0ffb20538/e706619e7287e5af-6d/s250x400/a788cc17b78ae4703b88a8b91e8c935d76c07b13.jpg"],
 
-["series", ["The Mopes"], "2021", [["2024 01 27", "", "S1"]], 0, ["ger"], ["comedy"], [], ["Netflix", "watching"], ["Ipek Zübert"], ["Jennifer Ulrich", "Matthias Matschke"], "https://64.media.tumblr.com/5ee0a84b6f2f9c0ef8bdd191ad66a42c/de543b73d6e9be66-22/s250x400/6c354f9fcff7c51c7a10e71595027ce14e7897b4.jpg"]
+["series", ["The Mopes"], "2021", [["2024 01 27", "S1"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Ipek Zübert"], ["Jennifer Ulrich", "Matthias Matschke"], "https://64.media.tumblr.com/5ee0a84b6f2f9c0ef8bdd191ad66a42c/de543b73d6e9be66-22/s250x400/6c354f9fcff7c51c7a10e71595027ce14e7897b4.jpg"]
 
 /*
 ,
