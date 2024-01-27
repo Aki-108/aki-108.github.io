@@ -1424,7 +1424,7 @@ var database = [
 	        
 ["film", ["Rise of the Planet of the Apes", "Planet der Affen: Prevolution"], "2011", ["2016 07 07"], 6, ["ger"], ["action", "drama"], [], ["Schule"], ["Rupert Wyatt"], ["James Franco", "John Lithgow", "Tom Felton"], "https://66.media.tumblr.com/aa56c2e79aed175254aaceab7be2be11/tumblr_o9yohyAAGo1v2s5upo1_250.jpg"],
 	        
-["film", ["The Book Thief", "Die Bücherdiebin"], "2013", ["2016 07 06", "2017 07 06"], 7, ["ger"], ["drama", "war"], [], ["Schule"], ["Brian Percival"], ["Heike Makatsch", "Geoffrey Rush", "Sebastian Hülk", "Carina Wiese", "Rainer Reiners"], "https://66.media.tumblr.com/41580d73f60910f1bd75dfb1f312f77e/tumblr_o9wl5j6aLu1v2s5upo1_250.jpg"],
+["film", ["The Book Thief", "Die Bücherdiebin"], "2013", ["2016 07 06", "2017 07 06"], 7, ["ger"], ["drama", "war"], [], ["Schule"], ["Brian Percival"], ["Heike Makatsch", "Geoffrey Rush", "Sebastian Hülk", "Carina Wiese", "Rainer Reiners", "Matthias Matschke"], "https://66.media.tumblr.com/41580d73f60910f1bd75dfb1f312f77e/tumblr_o9wl5j6aLu1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Gallows", "Gallows - Jede Schule hat ein Geheimnis"], "2015", ["2016 07 05"], 6, ["ger"], ["horror", "mystery"], [], ["Schule"], ["Travis Cluff", "Chris Lofing"], [], "https://66.media.tumblr.com/374675b1811304c46c9b4d3e7d31c8e8/tumblr_o9ulzkN3qm1v2s5upo1_250.jpg"],
 	        
@@ -1952,7 +1952,7 @@ var database = [
 
 ["film", ["Blue My Mind"], "2017", ["2021 10 28"], 5, ["ger"], ["drama", "fantasy"], [], [], ["Lisa Brühlmann"], ["Luna Wedler"], "https://64.media.tumblr.com/faf24001f1305cfb24b84d879e791a56/d68813486e58bad2-61/s250x400/2103f8a53c36148b007b16cbb1de7f1b3c492d12.jpg"],
 
-["film", ["The Wave", "Die Welle"], "2008", ["2021 11 01"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Dennis Gansel"], ["Jürgen Vogel", "Frederick Lau", "Max Riemelt", "Elyas M'Barek", "Jacob Matschenz", "Max Mauff", "Tim Oliver Schultz"], "https://64.media.tumblr.com/22e92cc08046c98c68f0e4778c1fc2a5/a37e1ae2a4afa3cb-5b/s250x400/8debab79dfb2f3b21f632e6feb3e68d1d69910f0.jpg"],
+["film", ["The Wave", "Die Welle"], "2008", ["2021 11 01"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Dennis Gansel"], ["Jürgen Vogel", "Frederick Lau", "Max Riemelt", "Elyas M'Barek", "Jacob Matschenz", "Max Mauff", "Tim Oliver Schultz", "Jennifer Ulrich"], "https://64.media.tumblr.com/22e92cc08046c98c68f0e4778c1fc2a5/a37e1ae2a4afa3cb-5b/s250x400/8debab79dfb2f3b21f632e6feb3e68d1d69910f0.jpg"],
 
 ["film", ["Die Wilden Hühner"], "2006", ["2021 11 03"], 5, ["ger"], ["adventure", "family"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Paula Romy", "Zsá Zsá Inci", "Benno Fürmann", "Nina Vorbrodt", "Axel Prahl", "Jette Hering"], "https://64.media.tumblr.com/6e75d756d4b66248126c6483b750c971/9f1cc2ad374d9fcc-31/s250x400/3afe75e6d09c1f49f6d9b97433d5d3be22011c7a.jpg"],
 
@@ -2880,11 +2880,13 @@ var database = [
 
 ["film", ["The Dig", "Die Ausgrabung"], "2021", ["2021 01 21"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Simon Stone"], ["Ralph Fiennes", "Carey Mulligan", "James Dryden"], "https://64.media.tumblr.com/6151b871c9ec697731cdf32f2188521c/fabf64193e22321a-66/s250x400/5884a9f48e30026e8386698e2c9e4b45b1956ff5.jpg"],
 
-["audiobook", ["Percy Jackson & the Olympians: The Titan's Curse", "Percy Jackson: Der Fluch des Titanen"], "2007", [["2024 01 15", "2024 01 23"]], 6, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/c2d6226611b2d21cce48bd91a5bc9170/f9713576e23f60f5-e0/s250x400/f2bf31c329977c82c07e720d6f39393766bb737b.jpg"],
+["audiobook", ["Percy Jackson & the Olympians: The Titan's Curse", "Percy Jackson: Der Fluch des Titanen"], "2007", [["2024 01 15", "2024 01 23"]], 6, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson", "bibliothek"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/c2d6226611b2d21cce48bd91a5bc9170/f9713576e23f60f5-e0/s250x400/f2bf31c329977c82c07e720d6f39393766bb737b.jpg"],
 
-["audiobook", ["Percy Jackson & the Olympians: The Battle of the Labyrinth", "Percy Jackson: Die Schlacht um das Labyrinth"], "2008", [["2024 01 23", "2024 01 25"]], 7, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/dd6fae0994798d38cad00453d2f96537/b6e2f3e7a1439530-fd/s250x400/66d72150081b7c397e453734a7eac8ba256ad123.jpg"],
+["audiobook", ["Percy Jackson & the Olympians: The Battle of the Labyrinth", "Percy Jackson: Die Schlacht um das Labyrinth"], "2008", [["2024 01 23", "2024 01 25"]], 7, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson", "bibliothek"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/dd6fae0994798d38cad00453d2f96537/b6e2f3e7a1439530-fd/s250x400/66d72150081b7c397e453734a7eac8ba256ad123.jpg"],
 
-["audiobook", ["Percy Jackson & the Olympians: The Last Olympian", "Percy Jackson: Die letzte Göttin"], "2009", [["2024 01 26", ""]], 0, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson", "watching"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/0be94de7858d99097d7f37e0ffb20538/e706619e7287e5af-6d/s250x400/a788cc17b78ae4703b88a8b91e8c935d76c07b13.jpg"]
+["audiobook", ["Percy Jackson & the Olympians: The Last Olympian", "Percy Jackson: Die letzte Göttin"], "2009", [["2024 01 26", "2024 01 27"]], 6, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson", "bibliothek"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/0be94de7858d99097d7f37e0ffb20538/e706619e7287e5af-6d/s250x400/a788cc17b78ae4703b88a8b91e8c935d76c07b13.jpg"],
+
+["series", ["The Mopes"], "2021", [["2024 01 27", "", "S1"]], 0, ["ger"], ["comedy"], [], ["Netflix", "watching"], ["Ipek Zübert"], ["Jennifer Ulrich", "Matthias Matschke"], "https://64.media.tumblr.com/5ee0a84b6f2f9c0ef8bdd191ad66a42c/de543b73d6e9be66-22/s250x400/6c354f9fcff7c51c7a10e71595027ce14e7897b4.jpg"]
 
 /*
 ,
