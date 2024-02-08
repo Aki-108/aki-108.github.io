@@ -476,7 +476,7 @@ var database = [
 	        
 ["film", ["Transcendence"], "2014", ["2017 01 27", "2020 06 13"], 7, ["ger"], ["action", "drama", "sci-fi"], [], ["Netflix"], ["Wally Pfister"], ["Johnny Depp", "Morgan Freeman", "Clifton Collins Jr.", "Xander Berkeley", "Rebecca Hall", "Kate Mara"], "https://68.media.tumblr.com/e20c6018d6932df10e90da04ffe4e8cd/tumblr_okjl5qW5Ou1v2s5upo1_250.jpg"],
 	        
-["film", ["The Lone Ranger", "Lone Ranger"], "2013", ["2016 05 18"], 7, ["ger"], ["action", "adventure"], [], ["Kino"], ["Gore Verbinski"], ["Johnny Depp", "Helena Bonham Carter", "Timothy V. Murphy", "Tom Wilkinson"], "https://66.media.tumblr.com/b72b7ac883c73df6095b029a50c90714/tumblr_o7dqnaXYUS1v2s5upo1_250.jpg"],
+["film", ["The Lone Ranger", "Lone Ranger"], "2013", ["2016 05 18"], 7, ["ger"], ["action", "adventure"], [], ["Kino"], ["Gore Verbinski"], ["Johnny Depp", "Helena Bonham Carter", "Timothy V. Murphy", "Tom Wilkinson", "Armie Hammer"], "https://66.media.tumblr.com/b72b7ac883c73df6095b029a50c90714/tumblr_o7dqnaXYUS1v2s5upo1_250.jpg"],
 	        
 ["film", ["Into the Woods"], "2014", ["2015 11 08"], 6, ["ger"], ["adventure", "comedy", "musical"], [], [], ["Rob Marshall"], ["Anna Kendrick", "James Corden", "Emily Blunt", "Meryl Streep", "Johnny Depp"], "https://66.media.tumblr.com/5fa624946c153eb5d4f26a51df4a3d23/tumblr_px6zzvV1dl1v2s5upo1_250.jpg"],
 	        
@@ -1922,7 +1922,7 @@ var database = [
 
 ["film", ["Girl Vs. Monster", "Monster gegen Mädchen"], "2012", ["2021 10 13"], 3, ["ger"], ["action", "adventure"], [], ["Disney+"], ["Stuart Gillard"], ["Kerris Dorsey", "Katherine McNamara"], "https://64.media.tumblr.com/828365488ca87e39c92eddad3f2e2ea8/e4c7a564522a99eb-b4/s250x400/68b65d22f6cf38891a10370f79555ef79189bc1c.jpg"],
 
-["film", ["The Social Network"], "2010", ["2021 10 15"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["David Fincher"], ["Jesse Eisenberg", "Rooney Mara", "Andrew Garfield", "Justin Timberlake"], "https://64.media.tumblr.com/f2942926279ca0345b51a11602fac10c/abd7b7b3dd87fdc0-09/s250x400/4aafffe5d822e81e377cc4a755b5c7102de5162f.jpg"],
+["film", ["The Social Network"], "2010", ["2021 10 15"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["David Fincher"], ["Jesse Eisenberg", "Rooney Mara", "Andrew Garfield", "Justin Timberlake", "Armie Hammer"], "https://64.media.tumblr.com/f2942926279ca0345b51a11602fac10c/abd7b7b3dd87fdc0-09/s250x400/4aafffe5d822e81e377cc4a755b5c7102de5162f.jpg"],
 
 ["book", ["Percy Jackson & The Olympians: The Titan's Curse", "Percy Jackson: Der Fluch des Titanen"], "2007", [["2021 10 15", "2021 11 27"]], 6, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson"], ["Rick Riordan"], [], "https://64.media.tumblr.com/087b28b545b84739e43335a2cf764cfd/4a9f9a0132912e2d-c4/s250x400/90fac8b0a6a847405174e8a6375258f163006de3.jpg"],
 
@@ -2034,7 +2034,7 @@ var database = [
 
 ["film", ["Hotel Transylvania 3: Summer Vacation", "Hotel Transsilvanien 3 - Ein Monster Urlaub"], "2018", ["2021 12 05"], 5, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Genndy Tartakovsky"], [], "https://64.media.tumblr.com/5edf2ccb3a5f51ad63d932c94854ce62/e694826ba4fd0a57-6a/s250x400/d0244eeda13eefaac464d3b2f2d68a46008477a8.jpg"],
 
-["series", ["Das Haus Anubis"], ["2009", "2012"], [["2021 12 06", "2022 03 13", "S1"], ["2023 08 06", "", "S2"]], 6, ["ger"], ["adventure", "drama"], ["bini", "nico"], ["Netflix", "watching"], ["Jeroen van der Zee", "Susanne Biesinger"], ["Gerda Böken"], "https://64.media.tumblr.com/b946c528a2016fa0ff60064345fb6a74/5dc3dc2dc2f1ca70-16/s250x400/83249957a03efbec5f394b25e19319acd34fa3a6.jpg"],
+["series", ["Das Haus Anubis"], ["2009", "2012"], [["2021 12 06", "2022 03 13", "S1"], ["2023 08 06", "2024 02 07", "S2"]], 6, ["ger"], ["adventure", "drama"], ["bini", "nico"], ["Netflix"], ["Jeroen van der Zee", "Susanne Biesinger"], ["Gerda Böken"], "https://64.media.tumblr.com/b946c528a2016fa0ff60064345fb6a74/5dc3dc2dc2f1ca70-16/s250x400/83249957a03efbec5f394b25e19319acd34fa3a6.jpg"],
 
 ["series", ["Ergo Proxy"], "2006", [["2021 12 07", "2022 01 18", "S1"]], 5, ["ger"], ["anime", "mystery", "sci-fi", "action"], ["bini", "nico"], [], ["Yusuke Asayama", "Yûko Kawabe", "Junichi Matsumoto"], [], "https://64.media.tumblr.com/8338120e29832eb7970a5ff97acc0a60/67886bed1b9248af-1e/s250x400/2e90ed293d12c209041394995c06528fc96655df.jpg"],
 
@@ -2217,7 +2217,7 @@ var database = [
 
 ["book", ["Maniac Magee", "East End, West End und dazwischen Maniac Magee"], "1990", [["2022 05 01", "2022 05 15"]], 6, ["ger"], [], [], ["bibliothek"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/eba83b6d747fec37902bb193be553839/929dab40af472a01-98/s250x400/5ae720f5de4e6e5986b16bda63a78de08eb41a19.jpg"],
 
-["film", ["Death on the Nile", "Tod auf dem Nil"], "2022", ["2022 05 05"], 7, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Orlando Seale", "Kenneth Branagh", "Sophie Okonedo", "Russell Brand", "Tom Bateman", "Hayat Kamille", "Emma Mackey", "Gal Gadot"], "https://64.media.tumblr.com/72633d92436cf4de74d217de6c0d4212/2dca79524f634bee-61/s250x400/8775fbd68a8bb15cf1f07008ca90720cb3b4f96c.jpg"],
+["film", ["Death on the Nile", "Tod auf dem Nil"], "2022", ["2022 05 05"], 7, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Orlando Seale", "Kenneth Branagh", "Sophie Okonedo", "Russell Brand", "Tom Bateman", "Hayat Kamille", "Emma Mackey", "Gal Gadot", "Armie Hammer"], "https://64.media.tumblr.com/72633d92436cf4de74d217de6c0d4212/2dca79524f634bee-61/s250x400/8775fbd68a8bb15cf1f07008ca90720cb3b4f96c.jpg"],
 
 ["film", ["The Craft", "Der Hexenclub"], "1996", ["2022 05 08"], 8, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Andrew Fleming"], ["Robin Tunney"], "https://64.media.tumblr.com/3c030d96f34af7187abad628feffb7fb/152a7307000bcfca-da/s250x400/e87c53c238f2e91b4359a42428a5c35df9260498.jpg"],
 
@@ -2682,7 +2682,7 @@ var database = [
 
 ["film", ["Barbie"], "2023", ["2023 08 05"], 8, ["ger"], ["comedy"], ["bini", "je"], ["Kino"], ["Greta Gerwig"], ["Margot Robbie", "Alexandra Shipp", "Emma Mackey", "Ana Cruz Kayne", "Ritu Arya", "Dua Lipa", "Ryan Gosling", "Simu Liu", "John Cena", "Michael Cera"], "https://64.media.tumblr.com/339c8e42e8a7ddb06cfa56f7e5f5c353/091dc4ddc628f1a0-1e/s250x400/a53dfe1a3edd09ae6f25ad67236202bce70eb8c0.jpg"],
 
-["comic", ["Homestuck"], ["2009", "2016"], [["2023 08 04", ""]], 0, ["eng"], ["comedy", "adventure"], [], ["watching", "bby"], ["Andrew Hussie"], [], "https://64.media.tumblr.com/dbd56fa57602de75232ea6dc5a9c723a/962912a1219620dc-47/s250x400/341485f84a612c759ae49a8ed3e7a3aa03f86330.pnj"],
+["comic", ["Homestuck"], ["2009", "2016"], [["2023 08 04", "2023 09 05", "Act1-Act2"], ["2023 09 05", "2023 10 16", "Act3"], ["2023 10 16", "2023 11 20", "Intermission"], ["2023 11 20", "2024 02 08", "Act4"], ["2024 02 08", "", "Act5"]], 0, ["eng"], ["comedy", "adventure"], [], ["watching", "bby"], ["Andrew Hussie"], [], "https://64.media.tumblr.com/dbd56fa57602de75232ea6dc5a9c723a/962912a1219620dc-47/s250x400/341485f84a612c759ae49a8ed3e7a3aa03f86330.pnj"],
 /* Act 2 finished 230905 */
 /* Act 3 finished 231016 */
 	
@@ -2886,7 +2886,9 @@ var database = [
 
 ["audiobook", ["Percy Jackson & the Olympians: The Last Olympian", "Percy Jackson: Die letzte Göttin"], "2009", [["2024 01 26", "2024 01 27"]], 6, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson", "bibliothek"], ["Rick Riordan"], ["Marius Claren"], "https://64.media.tumblr.com/0be94de7858d99097d7f37e0ffb20538/e706619e7287e5af-6d/s250x400/a788cc17b78ae4703b88a8b91e8c935d76c07b13.jpg"],
 
-["series", ["The Mopes"], "2021", [["2024 01 27", "S1"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Ipek Zübert"], ["Jennifer Ulrich", "Matthias Matschke"], "https://64.media.tumblr.com/5ee0a84b6f2f9c0ef8bdd191ad66a42c/de543b73d6e9be66-22/s250x400/6c354f9fcff7c51c7a10e71595027ce14e7897b4.jpg"]
+["series", ["The Mopes"], "2021", [["2024 01 27", "S1"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Ipek Zübert"], ["Jennifer Ulrich", "Matthias Matschke"], "https://64.media.tumblr.com/5ee0a84b6f2f9c0ef8bdd191ad66a42c/de543b73d6e9be66-22/s250x400/6c354f9fcff7c51c7a10e71595027ce14e7897b4.jpg"],
+
+["film", ["Rebecca"], "2020", ["2023 02 04"], 6, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Ben Wheatley"], ["Lily James", "Armie Hammer"], "https://64.media.tumblr.com/b1b1fc01de2925d6b38e43e114096db2/616ee3686bd63e5b-07/s250x400/480abf81120c6e195f7e244538d21f151d68de3e.jpg"]
 
 /*
 ,
