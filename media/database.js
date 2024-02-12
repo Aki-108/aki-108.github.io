@@ -2613,7 +2613,7 @@ var database = [
 
 ["audiobook", ["Gerade war der Himmel noch blau"], "2017", [["2023 05 02", "2023 05 10"]], 7, ["ger"], [], [], ["bibliothek"], ["Florian Illies"], ["Ulrich Noethen"], "https://64.media.tumblr.com/d543531beabd7144d6d3939395c96826/ebc9b1915ba7d171-b7/s400x600/30a124f1048cf49dcd91a907d100f2bb9a22717f.jpg"],
 
-["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"], ["2023 05 17", "2023 06 10", "S8"], ["2023 06 11", "2023 06 20", "S9"], ["2023 07 08", "2023 08 03", "S10"], ["2023 09 30", "2023 10 10", "S11"], ["2023 10 11", "2023 11 06", "S12"], ["2023 11 07", "2023 12 07", "S13"], ["2024 01 08", "", "S17"]], 6, ["ger"], ["crime", "family"], [], ["watching"], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
+["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"], ["2023 05 17", "2023 06 10", "S8"], ["2023 06 11", "2023 06 20", "S9"], ["2023 07 08", "2023 08 03", "S10"], ["2023 09 30", "2023 10 10", "S11"], ["2023 10 11", "2023 11 06", "S12"], ["2023 11 07", "2023 12 07", "S13"], ["2024 01 08", "2024 02 12", "S17"], ["2024 02 12", "", "S18"]], 6, ["ger"], ["crime", "family"], [], ["watching"], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
 /*S7: 5; S8: 6; S10: 6*/
 	
 ["film", ["Pom Poko", "Pom Poko", "Heisei tanuki gassen ponpoko"], "1994", ["2023 05 06"], 6, ["ger"], ["anime", "comedy"], ["bini", "mai"], ["Netflix"], ["Isao Takahata"], [], "https://64.media.tumblr.com/1beb8edfc26020a43aed81edc4e21332/dafcc2886aafff4c-bd/s250x400/77c4a5b5ad990b573aa847915d50a006325e049a.jpg"],
@@ -2888,7 +2888,9 @@ var database = [
 
 ["series", ["The Mopes"], "2021", [["2024 01 27", "S1"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Ipek Zübert"], ["Jennifer Ulrich", "Matthias Matschke"], "https://64.media.tumblr.com/5ee0a84b6f2f9c0ef8bdd191ad66a42c/de543b73d6e9be66-22/s250x400/6c354f9fcff7c51c7a10e71595027ce14e7897b4.jpg"],
 
-["film", ["Rebecca"], "2020", ["2023 02 04"], 6, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Ben Wheatley"], ["Lily James", "Armie Hammer"], "https://64.media.tumblr.com/b1b1fc01de2925d6b38e43e114096db2/616ee3686bd63e5b-07/s250x400/480abf81120c6e195f7e244538d21f151d68de3e.jpg"]
+["film", ["Rebecca"], "2020", ["2023 02 04"], 6, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Ben Wheatley"], ["Lily James", "Armie Hammer"], "https://64.media.tumblr.com/b1b1fc01de2925d6b38e43e114096db2/616ee3686bd63e5b-07/s250x400/480abf81120c6e195f7e244538d21f151d68de3e.jpg"],
+
+["audiobook", ["Ruby Red", "Rubinrot"], "2009", [["2024 02 12", ""]], 0, ["ger"], ["fantasy"], [], ["Ruby Red Trilogy", "watching"], ["Kerstin Gier"], ["Sascha Icks"], "https://64.media.tumblr.com/215e9df7a6cc5683ffbc2d58f3c67608/789a6cfdd37fe2bb-13/s250x400/1160e61cc52698c886547c6b949498c9b806f5fc.jpg"]
 
 /*
 ,
