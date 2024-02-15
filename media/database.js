@@ -2890,7 +2890,9 @@ var database = [
 
 ["film", ["Rebecca"], "2020", ["2023 02 04"], 6, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Ben Wheatley"], ["Lily James", "Armie Hammer"], "https://64.media.tumblr.com/b1b1fc01de2925d6b38e43e114096db2/616ee3686bd63e5b-07/s250x400/480abf81120c6e195f7e244538d21f151d68de3e.jpg"],
 
-["audiobook", ["Ruby Red", "Rubinrot"], "2009", [["2024 02 12", ""]], 0, ["ger"], ["fantasy"], [], ["Ruby Red Trilogy", "watching"], ["Kerstin Gier"], ["Sascha Icks"], "https://64.media.tumblr.com/215e9df7a6cc5683ffbc2d58f3c67608/789a6cfdd37fe2bb-13/s250x400/1160e61cc52698c886547c6b949498c9b806f5fc.jpg"]
+["film", ["Sofies verden", "Sofies Welt", "Sofies verden"], "1999", ["2024 02 10"], 7, ["ger"], ["drama", "history"], [], ["bibliothek"], ["Erik Gustavson"], [], "https://64.media.tumblr.com/b6c70734efed36a47858bb4fa359e030/1c4c0444e53827a0-48/s400x600/6d145a9a0196dfba96d9ae0ab6c48de61925af17.jpg"],
+
+["audiobook", ["Ruby Red", "Rubinrot"], "2009", [["2024 02 12", "2024 02 15"]], 6, ["ger"], ["fantasy"], [], ["Ruby Red Trilogy", "bibliothek"], ["Kerstin Gier"], ["Sascha Icks"], "https://64.media.tumblr.com/215e9df7a6cc5683ffbc2d58f3c67608/789a6cfdd37fe2bb-13/s250x400/1160e61cc52698c886547c6b949498c9b806f5fc.jpg"]
 
 /*
 ,
