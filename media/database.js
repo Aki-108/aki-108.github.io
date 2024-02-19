@@ -738,7 +738,7 @@ var database = [
 	        
 ["film", ["Cast Away", "Cast Away - Verschollen"], "2000", ["2017 12 28"], 7, ["ger"], ["adventure", "drama"], [], ["Netflix"], ["Robert Zemeckis"], ["Tom Hanks", "Elden Henson"], "https://66.media.tumblr.com/1a94ff2cb7f22a363b31500084c6d248/tumblr_pz09dafkFb1v2s5upo1_250.jpg"],
 	        
-["film", ["Baby Driver"], "2017", ["2017 12 28", "2019 09 06"], 8, ["ger"], ["action", "crime", "music"], ["bini", "syl"], ["Netflix"], ["Edgar Wright"], ["Ansel Elgort", "Jon Bernthal", "Jon Hamm", "Eiza González", "Lily James", "Jamie Foxx"], "https://66.media.tumblr.com/745cd51b615cd39f90313c39ce24b30f/tumblr_pz09brrS6Y1v2s5upo1_250.jpg"],
+["film", ["Baby Driver"], "2017", ["2017 12 28", "2019 09 06"], 8, ["ger"], ["action", "crime", "music"], ["bini", "syl"], ["Netflix"], ["Edgar Wright"], ["Ansel Elgort", "Jon Bernthal", "Jon Hamm", "Eiza González", "Lily James", "Jamie Foxx", "Kevin Spacey"], "https://66.media.tumblr.com/745cd51b615cd39f90313c39ce24b30f/tumblr_pz09brrS6Y1v2s5upo1_250.jpg"],
 	        
 ["film", ["Warm Bodies", "Warm Bodies - Zombies mit Herz"], "2013", ["2017 12 27"], 6, ["ger"], ["comedy", "horror"], [], [], ["Jonathan Levine"], ["Nicholas Hoult", "Teresa Palmer", "Analeigh Tipton", "Dave Franco", "Lio Tipton"], "https://66.media.tumblr.com/e633a766e57bab060096239984b503b4/tumblr_pz0978Xvhy1v2s5upo1_250.jpg"],
 	        
@@ -2896,7 +2896,9 @@ var database = [
 
 ["film", ["Instant Family", "Plötzlich Familie"], "2018", ["2024 02 17"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Sean Anders"], ["Mark Wahlberg", "Rose Byrne", "Isabela Merced", "Tig Notaro", "Joan Cusack"], "https://64.media.tumblr.com/24a17e2fd63a7e011ef16ab6786c7f25/bdbb84e03e13f198-95/s250x400/50250accd1b12e53f6eef5b8ece677ab00c298c4.jpg"],
 
-["film", ["Back to the Future", "Zurück in die Zukunft"], "1985", ["2024 02 17"], 7, ["ger"], ["adventure", "comedy","sci-fi"], [], ["Netflix"], ["Robert Zemeckis"], [], "https://64.media.tumblr.com/4d93097d61a834afad23b89a93d64ce6/5a3a88097d7e1872-14/s250x400/5a0b779509dc7af9504e7ef90764ac173e8ef3c9.jpg"]
+["film", ["Back to the Future", "Zurück in die Zukunft"], "1985", ["2024 02 17"], 7, ["ger"], ["adventure", "comedy","sci-fi"], [], ["Netflix"], ["Robert Zemeckis"], [], "https://64.media.tumblr.com/4d93097d61a834afad23b89a93d64ce6/5a3a88097d7e1872-14/s250x400/5a0b779509dc7af9504e7ef90764ac173e8ef3c9.jpg"],
+
+["film", ["The Men Who Stare at Goats", "Männer, die auf Ziegen starren"], "2009", ["2024 02 18"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Grant Heslov"], ["George Clooney", "Ewan McGregor", "Jeff Bridges", "Stephen Lang", "Kevin Spacey"], "https://64.media.tumblr.com/20568a2e03c21b295c01332a678fc375/af85ab19eb9c6625-26/s250x400/9a6fe6c9abd27d9d06bd43798fee078862ff000c.jpg"]
 
 /*
 ,
