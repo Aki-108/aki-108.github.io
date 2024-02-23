@@ -2016,7 +2016,7 @@ var database = [
 
 ["book", ["Aristocats"], "1992", [["2021 11 28", "2021 12 01"]], 5, ["ger"], [], [], [], [], [], "https://64.media.tumblr.com/d19a736fe2a000d32b2b67d3d29bf22d/872ce6cbcf86db29-a3/s400x600/22922e3d8786b8f416465b7010a45fc65f248ecb.jpg"],
 
-["series", ["Best Friends Whenever", "Best Friends - Zu jeder Zeit"], ["2015", "2016"], [["2021 11 29", "2021 12 16", "S1"], ["2021 12 21", "2022 01 02", "S2"]], 7, ["ger"], ["comedy", "family"], [], ["Disney+", "fav"], ["Jed Elinoff", "Scott Thomas"], ["Amiah Miller", "Rowan Blanchard", "Lauren Lindsey Donzis", "Ricky Garcia", "Gus Kamp", "Madison Hu"], "https://64.media.tumblr.com/d0b98f93c2c43a71ce50d3a3f23b5268/ce8aee5415160c83-13/s250x400/9f5b858dff619e1bc8a0955ca5f3ff2bb504743b.jpg"],
+["series", ["Best Friends Whenever", "Best Friends - Zu jeder Zeit"], ["2015", "2016"], [["2021 11 29", "2021 12 16", "S1"], ["2021 12 21", "2022 01 02", "S2"], ["2024 02 22", "", "S1"]], 7, ["ger", "eng"], ["comedy", "family"], [], ["Disney+", "fav", "watching"], ["Jed Elinoff", "Scott Thomas"], ["Amiah Miller", "Rowan Blanchard", "Lauren Lindsey Donzis", "Ricky Garcia", "Gus Kamp", "Madison Hu"], "https://64.media.tumblr.com/d0b98f93c2c43a71ce50d3a3f23b5268/ce8aee5415160c83-13/s250x400/9f5b858dff619e1bc8a0955ca5f3ff2bb504743b.jpg"],
 
 ["series", ["Dig Deeper - Das Verschwinden von Birgit Meier"], "2021", [["2021 11 30", "S1"], ["2021 12 29", "S1E2-S1E4"]], 7, ["ger"], ["documentary", "biography"], ["syl"], ["Netflix"], ["Nicolas Steiner"], [], "https://64.media.tumblr.com/3b91919efb858bcfcf591f9db7c22db9/38b29c14adc3282a-1e/s250x400/78ea2039298c0a08213cd981ca08a3e771419e7b.jpg"],
 
