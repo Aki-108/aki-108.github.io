@@ -486,7 +486,7 @@ var database = [
 	        
 ["film", ["Ant-Man"], "2015", ["2016 05 21", "2018 04 01"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl", "je"], ["Marvel"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Corey Stoll", "Anthony Mackie", "Judy Greer", "Michael Peña", "Chris Evans", "Joe Chrest", "Sebastian Stan"], "https://68.media.tumblr.com/b70bf1e59eaffd22e771eec8025d4215/tumblr_o7jla3gTae1v2s5upo1_250.jpg"],
 	        
-["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], [], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray", "Sarah Swire"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
+["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10", "2024 02 25"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], ["DVD"], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray", "Sarah Swire"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Golden Compass", "Der goldene Kompass"], "2007", ["2015 11 23", "2020 01 06"], 6, ["ger"], ["adventure", "family", "fantasy"], ["bini"], ["His Dark Materials"], ["Chris Weitz"], ["Nicole Kidman", "Daniel Craig", "Dakota Blue Richards", "Ian McKellen", "Eva Green", "Christopher Lee"], "https://66.media.tumblr.com/58e999a51e7baea5ccd8cb4d6b0a0054/tumblr_ppuwcejZDQ1v2s5upo1_250.jpg"],
 	        
@@ -2900,7 +2900,9 @@ var database = [
 
 ["film", ["The Men Who Stare at Goats", "Männer, die auf Ziegen starren"], "2009", ["2024 02 18"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Grant Heslov"], ["George Clooney", "Ewan McGregor", "Jeff Bridges", "Stephen Lang", "Kevin Spacey"], "https://64.media.tumblr.com/20568a2e03c21b295c01332a678fc375/af85ab19eb9c6625-26/s250x400/9a6fe6c9abd27d9d06bd43798fee078862ff000c.jpg"],
 
-["audiobook", ["Sapphire Blue", "Saphirblau"], "2010", [["2024 02 20", ""]], 0, ["ger"], ["fantasy"], [], ["Ruby Red Trilogy", "bibliothek", "watching"], ["Kerstin Gier"], ["Josefine Preuß"], "https://64.media.tumblr.com/9ca19a87c7d513a321f5a5698adf7d00/f6e9c260e1e220f2-fe/s250x400/993c31ef16e6ae66bb2c1ddd0704419c95a72e44.jpg"]
+["audiobook", ["Sapphire Blue", "Saphirblau"], "2010", [["2024 02 20", "2024 02 23"]], 6, ["ger"], ["fantasy"], [], ["Ruby Red Trilogy", "bibliothek"], ["Kerstin Gier"], ["Josefine Preuß"], "https://64.media.tumblr.com/9ca19a87c7d513a321f5a5698adf7d00/f6e9c260e1e220f2-fe/s250x400/993c31ef16e6ae66bb2c1ddd0704419c95a72e44.jpg"],
+
+["audiobook", ["Emerald Green", "Smaragdgrün"], "2010", [["2024 02 25", ""]], 0, ["ger"], ["fantasy"], [], ["Ruby Red Trilogy", "bibliothek", "watching"], ["Kerstin Gier"], ["Josefine Preuß"], "https://64.media.tumblr.com/22df180fcbf049350e9d09908a5f98e9/aa7ded5e85567561-e7/s250x400/9e4ac1df7f82c4653f2859bedd60df4a6bd67733.jpg"]
 
 /*
 ,
