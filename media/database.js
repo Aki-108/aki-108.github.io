@@ -2912,7 +2912,7 @@ var database = [
 
 ["audiobook", ["Meisterhafte Fälle von Sherlock Holmes & Dr. Watson"], "2008", [["2024 03 07", "Das Leere Haus"], ["2024 03 07", "Sherlock Holmes macht ein Experiment"], ["2024 03 07", "Der Mann mit der Hasenscharte"], ["2024 03 07", "Sherlock Holmes verfolgt eine Fährte"], ["2024 03 07", "Der griechische Dolmetscher"]], 6, ["ger"], ["crime"], [], ["Sherlock Holmes", "bibliothek"], ["Arthur Conan Doyle"], ["Klaus Behrendt", "Peter Pasetti"], "https://64.media.tumblr.com/240eaec337bc570e73621b6ba07d1eb3/1e747cd9d0c5ca22-0b/s250x400/99d1d508ab7f3caee58ff1647d78f1fa6c0d1d34.jpg"],
 
-["audiobook", ["Moon Over Soho", "Schwarzer Mond über Soho"], "2011", [["2024 03 08", ""]], 0, ["ger"], ["crime", "fantasy"], [], ["bibliothek", "watching"], ["Ben Aaronovitch"], ["Dietmar Wunder"], "https://64.media.tumblr.com/3c866f2bf2ee443464d8c66fa42936bc/073a614797a838f1-94/s400x600/003308d95489104825b95583f39903d70b96afee.jpg"]
+["audiobook", ["Moon Over Soho", "Schwarzer Mond über Soho"], "2011", [["2024 03 08", "2024 03 14"]], 8, ["ger"], ["crime", "fantasy"], [], ["bibliothek"], ["Ben Aaronovitch"], ["Dietmar Wunder"], "https://64.media.tumblr.com/3c866f2bf2ee443464d8c66fa42936bc/073a614797a838f1-94/s400x600/003308d95489104825b95583f39903d70b96afee.jpg"]
 
 /*
 ,
