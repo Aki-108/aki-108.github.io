@@ -932,7 +932,7 @@ var database = [
 	        
 ["film", ["The DUFF", "Duff: Hast du keine, bist du eine"], "2015", ["2016 05 13"], 8, ["ger"], ["comedy", "romance"], [], [], ["Ari Sandel"], ["Mae Whitman", "Robbie Amell", "Skyler Samuels", "Nick Eversman", "Ken Jeong", "Allison Janney", "Bella Thorne"], "https://66.media.tumblr.com/305931819a8c22125b3d42a306382f64/tumblr_o74issy9JA1v2s5upo1_250.jpg"],
 	        
-["film", ["Footloose"], "1984", ["2016 05 13"], 8, ["ger"], ["drama", "music"], [], [], ["Herbert Ross"], ["Kevin Bacon", "John Lithgow", "Sarah Jessica Parker"], "https://68.media.tumblr.com/7577b6ec5b2e40f7a1b060a897f5723c/tumblr_o73x2xlfc61v2s5upo1_250.jpg"],
+["film", ["Footloose"], "1984", ["2016 05 13", ["2024 03 17"]], 8, ["ger"], ["drama", "music"], [], ["Netflix"], ["Herbert Ross"], ["Kevin Bacon", "John Lithgow", "Sarah Jessica Parker"], "https://68.media.tumblr.com/7577b6ec5b2e40f7a1b060a897f5723c/tumblr_o73x2xlfc61v2s5upo1_250.jpg"],
 	        
 ["short", ["Ruin"], "2011", ["2016 05 12", "2017 08 06"], 5, [], ["animation"], ["nico", "sai", "jessie"], [], ["Wes Ball"], [], "https://66.media.tumblr.com/7f0c303dbf6f13683118f60ea10d8e2d/tumblr_o72wkpwjpa1v2s5upo1_250.jpg"],
 	        
@@ -1786,7 +1786,7 @@ var database = [
 
 ["film", ["Rocca verändert die Welt"], "2019", ["2021 04 22"], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Katja Benrath"], ["Luna Maxeiner", "Nevio Wendt"], "https://64.media.tumblr.com/a46c32e0b16a7dab2510315a652b06c5/92533c010400559b-2c/s250x400/904afe21149e7e960c4fb1eea68f7837b3c2f12e.jpg"],
 
-["film", ["Love and Monsters", "Monster Problems"], "2020", ["2021 04 24"], 5, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl"], ["Netflix"], ["Michael Matthews"], ["Dylan O'Brien", "Jessica Henwick"], "https://64.media.tumblr.com/1c691845a3a8d688cafdbfca3891c7dd/603967b5f0a6df28-ee/s250x400/a85b4d8d5840fe986a510bff0d969923257e4c89.jpg"],
+["film", ["Love and Monsters", "Monster Problems"], "2020", ["2021 04 24"], 5, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl"], ["Netflix"], ["Michael Matthews"], ["Dylan O'Brien", "Jessica Henwick", "Ariana Greenblatt"], "https://64.media.tumblr.com/1c691845a3a8d688cafdbfca3891c7dd/603967b5f0a6df28-ee/s250x400/a85b4d8d5840fe986a510bff0d969923257e4c89.jpg"],
 
 ["film", ["Replicas"], "2018", [["2021 04 26", "2021 04 27"]], 4, ["ger"], ["drama", "sci-fi"], [], ["Netflix"], ["Jeffrey Nachmanoff"], ["Keanu Reeves", "Alice Eve", "Thomas Middleditch", "John Ortiz", "Emjay Anthony", "Emily Alyn Lind"], "https://64.media.tumblr.com/218af55f7db8c470136c450cc66658a5/de5cd991bd68fc0e-b7/s250x400/bd44650d8a447c245e10f1a05582df48140c2bf5.jpg"],
 
@@ -2541,7 +2541,7 @@ var database = [
 
 ["film", ["The Circle"], "2017", ["2023 03 04"], 6, ["ger"], ["drama", "sci-fi"], [], ["Netflix"], ["James Ponsoldt"], ["Emma Watson", "Karen Gillan", "Tom Hanks", "Patton Oswalt", "Poorna Jagannathan", "Judy Reyes"], "https://64.media.tumblr.com/35b31298a69367010c00c5b8bf9ce8ea/6215319b73a48620-4f/s250x400/2f52fe2ca0efb3c9141cef2b00a340a579551ef0.jpg"],
 
-["film", ["Gunpowder Milkshake"], "2021", ["2023 03 04"], 8, ["eng"], ["action", "crime"], ["bini", "mai"], ["Netflix"], ["Navot Papushado"], ["Karen Gillan", "Freya Allan", "Paul Giamatti", "Carla Gugino", "Lena Headey"], "https://64.media.tumblr.com/7b5c9fef73a0fcc91a12373ad1e2926e/f4a027b8d5a8b7c9-9e/s250x400/df35dade3800254e90ccaf6de0e7f3f493b8aa6c.jpg"],
+["film", ["Gunpowder Milkshake"], "2021", ["2023 03 04"], 8, ["eng"], ["action", "crime"], ["bini", "mai"], ["Netflix"], ["Navot Papushado"], ["Karen Gillan", "Freya Allan", "Paul Giamatti", "Carla Gugino", "Lena Headey", "Chloe Coleman"], "https://64.media.tumblr.com/7b5c9fef73a0fcc91a12373ad1e2926e/f4a027b8d5a8b7c9-9e/s250x400/df35dade3800254e90ccaf6de0e7f3f493b8aa6c.jpg"],
 
 ["film", ["The Spectacular Now", "The Spectacular Now: Perfekt ist jetzt"], "2013", ["2023 03 05"], 5, ["eng"], ["drama", "romance"], [], ["Netflix"], ["James Ponsoldt"], ["Miles Teller", "Shailene Woodley", "Brie Larson", "Dayo Okeniyi", "Kyle Chandler", "Jennifer Jason Leigh", "Bob Odenkirk"], "https://64.media.tumblr.com/74e8e199645b773fb2473d3d1caef8a3/eae594adfaf8992e-74/s250x400/0b7b3a95616356e9ffd9d1424bd66e5c02120147.jpg"],
 
@@ -2680,7 +2680,7 @@ var database = [
 
 ["audiobook", ["Sein letztes Abendmahl"], "2022", [["2023 08 05", "2023 08 08"]], 8, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/f3c303d46b2678f903b062e6efaf7d7e/1e501dd28d1de6bc-4a/s250x400/d668761fabbc85477dfd09f6511d31f76ecf8942.jpg"],
 
-["film", ["Barbie"], "2023", ["2023 08 05"], 8, ["ger"], ["comedy"], ["bini", "je"], ["Kino"], ["Greta Gerwig"], ["Margot Robbie", "Alexandra Shipp", "Emma Mackey", "Ana Cruz Kayne", "Ritu Arya", "Dua Lipa", "Ryan Gosling", "Simu Liu", "John Cena", "Michael Cera"], "https://64.media.tumblr.com/339c8e42e8a7ddb06cfa56f7e5f5c353/091dc4ddc628f1a0-1e/s250x400/a53dfe1a3edd09ae6f25ad67236202bce70eb8c0.jpg"],
+["film", ["Barbie"], "2023", ["2023 08 05"], 8, ["ger"], ["comedy"], ["bini", "je"], ["Kino"], ["Greta Gerwig"], ["Margot Robbie", "Alexandra Shipp", "Emma Mackey", "Ana Cruz Kayne", "Ritu Arya", "Dua Lipa", "Ryan Gosling", "Simu Liu", "John Cena", "Michael Cera", "Ariana Greenblatt"], "https://64.media.tumblr.com/339c8e42e8a7ddb06cfa56f7e5f5c353/091dc4ddc628f1a0-1e/s250x400/a53dfe1a3edd09ae6f25ad67236202bce70eb8c0.jpg"],
 
 ["comic", ["Homestuck"], ["2009", "2016"], [["2023 08 04", "2023 09 05", "Act1-Act2"], ["2023 09 05", "2023 10 16", "Act3"], ["2023 10 16", "2023 11 20", "Intermission"], ["2023 11 20", "2024 02 08", "Act4"], ["2024 02 08", "", "Act5"]], 0, ["eng"], ["comedy", "adventure"], [], ["watching", "bby"], ["Andrew Hussie"], [], "https://64.media.tumblr.com/dbd56fa57602de75232ea6dc5a9c723a/962912a1219620dc-47/s250x400/341485f84a612c759ae49a8ed3e7a3aa03f86330.pnj"],
 /* Act 2 finished 230905 */
@@ -2762,7 +2762,7 @@ var database = [
 
 ["audiobook", ["Vincent und das Geisterlama"], "2022", ["2023 10 17"], 4, ["ger"], ["adventure"], [], ["bibliothek"], ["Sonja Kaiblinger"], ["Christian Rudolf"], "https://64.media.tumblr.com/e4916a2e4b5ede5e45732ba30e2ffc64/476d775c139e021c-5d/s250x400/b6b47552457d9ef113e951fccc9edfe237df2c4b.jpg"],
 
-["film", ["Avatar: The Way of Water"], "2022", [["2023 10 23", "2023 10 25"]], 8, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"], "https://64.media.tumblr.com/5d939c5d537f6c78a5358fb7c7b76ce9/3d9c444cb5301eec-20/s250x400/4da20fb477cb01c2057b5bf0a171466eca5ddc0b.jpg"],
+["film", ["Avatar: The Way of Water"], "2022", [["2023 10 23", "2023 10 25"]], 8, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Chloe Coleman"], "https://64.media.tumblr.com/5d939c5d537f6c78a5358fb7c7b76ce9/3d9c444cb5301eec-20/s250x400/4da20fb477cb01c2057b5bf0a171466eca5ddc0b.jpg"],
 
 ["film", ["Of Mice and Men", "Von Mäusen und Menschen"], "1992", ["2023 10 29"], 8, ["ger"], ["drama", "western"], ["bini", "syl"], ["bibliothek"], ["Gary Sinise"], ["Gary Sinise", "John Terry"], "https://64.media.tumblr.com/737fe944e99b4e51575b679c1c4880f1/5380813e916f97ac-b1/s250x400/893e1cce1a3f581c19a0924f75b8086c825d04aa.jpg"],
 
@@ -2916,7 +2916,9 @@ var database = [
 
 ["film", ["Never Rarely Sometimes Always", "Niemals selten manchmal immer"], "2020", ["2024 03 08"], 6, ["ger"], ["drama"], [], ["bibliothek"], ["Eliza Hittman"], ["Talia Ryder"], "https://64.media.tumblr.com/4c75ac15a0c98caf10013e51193dbbf1/3aac93300e405559-9e/s250x400/2f77229aac8f4124c605a126f5220256d318f899.jpg"],
 
-["film", ["Psalms of Planets Eureka Seven: Good Night, Sleep Tight, Young Lovers"], "2009", ["2024 03 10"], 5, ["ger"], ["anime", "action"], [], ["bibliothek"], ["Hironori Aoyagi", "Hiroshi Haraguchi", "Masaru Yasukawa"], [], "https://64.media.tumblr.com/74c89fa451a980c780a04c39947a6fa1/a15c05da0bb84b7d-4b/s250x400/2d51a9e0e49f9919aa50273bfe08697ee4b498d6.jpg"]
+["film", ["Psalms of Planets Eureka Seven: Good Night, Sleep Tight, Young Lovers"], "2009", ["2024 03 10"], 5, ["ger"], ["anime", "action"], [], ["bibliothek"], ["Hironori Aoyagi", "Hiroshi Haraguchi", "Masaru Yasukawa"], [], "https://64.media.tumblr.com/74c89fa451a980c780a04c39947a6fa1/a15c05da0bb84b7d-4b/s250x400/2d51a9e0e49f9919aa50273bfe08697ee4b498d6.jpg"],
+
+["film", ["65"], "2023", ["2024 03 16"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Scott Beck", "Bryan Woods"], ["Adam Driver", "Ariana Greenblatt", "Chloe Coleman"], "https://64.media.tumblr.com/0a3d74457b3c988d6a1832c30a25d71d/5c071f4256e9aaa8-d9/s250x400/6383729f4d4e7946992fd82dcf9cb47097e624a6.jpg"]
 
 /*
 ,
