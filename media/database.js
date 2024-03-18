@@ -1856,7 +1856,7 @@ var database = [
 
 ["film", ["Inferno"], "2016", [["2021 07 18", "2021 07 19"], "2023 04 22"], 6, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Netflix"], ["Ron Howard"], ["Tom Hanks", "Felicity Jones", "Omar Sy", "Irrfan Khan", "Ben Foster"], "https://64.media.tumblr.com/cf1cd3ca332f2a1e37e15b5a56a14d45/b97c74f4bcba63a8-d5/s250x400/6de6fb6b9d229eec1032e3835ea7fccf16be7381.jpg"],
 
-["series", ["Mushishi"], ["2005", "2006"], [["2021 07 20", "2021 07 27", "S1E17-S1E26"], ["2024 01 08", "", "S1"]], 7, ["jap"], ["anime", "drama"], ["bini", "nico"], ["Mushishi", "watching"], ["John Burgmeier", "Yuki Urushibara", "Mike McFarland"], [], "https://64.media.tumblr.com/57aa60c9b5700e3070d07ec1cad9b6eb/910be819886934da-9c/s250x400/765f70bf5c01ac59687416ee697f2de7f9bd925b.jpg"],
+["series", ["Mushishi"], ["2005", "2006"], [["2021 07 20", "2021 07 27", "S1E17-S1E26"], ["2024 01 08", "2024 03 18", "S1"]], 7, ["jap"], ["anime", "drama"], ["bini", "nico"], ["Mushishi"], ["John Burgmeier", "Yuki Urushibara", "Mike McFarland"], [], "https://64.media.tumblr.com/57aa60c9b5700e3070d07ec1cad9b6eb/910be819886934da-9c/s250x400/765f70bf5c01ac59687416ee697f2de7f9bd925b.jpg"],
 
 ["film", ["Woodstock '69/'89"], "1989", ["2021 07 24"], 5, ["ger"], ["documentary"], [], [], ["Uli Pfau"], [], "https://64.media.tumblr.com/45aa578c971f103efd7ef38bfc7d3515/a72c572e4240ac6d-5e/s250x400/f9fdc3b86bf85dc2dba6167762ca395e7a5968e0.jpg"],
 
