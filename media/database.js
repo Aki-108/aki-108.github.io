@@ -1324,7 +1324,7 @@ var database = [
 	        
 ["film", ["Jessica Darling's It List"], "2016", ["2017 12 22"], 6, ["eng"], ["family"], [], ["Netflix"], ["Ali Scher"], ["Emma Rayne Lyle", "Jacob Melton"], "https://66.media.tumblr.com/705d2c57406fdab72a2e4880385cf25d/tumblr_pyv16udwDi1v2s5upo1_250.jpg"],
 	        
-["film", ["One Night"], "2016", ["2017 12 09"], 6, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Minhal Baig"], ["Isabelle Fuhrman"], "https://66.media.tumblr.com/d6a901f32b26e881ea5f4acb09835a4b/tumblr_pyqyl3sLfF1v2s5upo1_250.jpg"],
+["film", ["One Night"], "2016", ["2017 12 09"], 6, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Minhal Baig"], ["Isabelle Fuhrman", "Kyle Allen"], "https://66.media.tumblr.com/d6a901f32b26e881ea5f4acb09835a4b/tumblr_pyqyl3sLfF1v2s5upo1_250.jpg"],
 	        
 ["film", ["Tramps"], "2016", ["2017 12 06"], 7, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Adam Leon"], ["Callum Turner", "Grace Van Patten"], "https://66.media.tumblr.com/6a3f92af483ba944d9507c89e204be3e/tumblr_pyqygl4GOI1v2s5upo1_250.jpg"],
 	        
@@ -2415,7 +2415,7 @@ var database = [
 
 ["film", ["Do Revenge"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Jennifer Kaytin Robinson"], ["Camila Mendes", "Maya Hawke", "Austin Abrams", "Alisha Boe", "Paris Berelc", "Sophie Turner", "Talia Ryder"], "https://64.media.tumblr.com/de614a637a4df381ed7f045087c2c4de/5b169a5927624bab-b0/s250x400/d44b1ee3845732d607f6050acf4eaab9028121fb.jpg"],
 
-["film", ["Rosaline"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Karen Maine"], ["Kaitlyn Dever", "Isabela Merced", "Minnie Driver"], "https://64.media.tumblr.com/65ff2e4c37b30140025b9a67c743d80e/d66b54865dd0ca32-cb/s250x400/e4214a5a0ad73efdcaec7daf94d3e5578cfbf560.jpg"],
+["film", ["Rosaline"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Karen Maine"], ["Kaitlyn Dever", "Isabela Merced", "Minnie Driver", "Kyle Allen"], "https://64.media.tumblr.com/65ff2e4c37b30140025b9a67c743d80e/d66b54865dd0ca32-cb/s250x400/e4214a5a0ad73efdcaec7daf94d3e5578cfbf560.jpg"],
 
 ["film", ["OMG: Oh My God!"], "2012", ["2022 10 23"], 7, ["hin"], ["comedy", "drama"], ["bini", "mai"], ["Netflix"], ["Umesh Shukla"], [], "https://64.media.tumblr.com/6c7ba0aa69300318c5c4422000992125/a32f24e90a5db3ce-e4/s250x400/a3543c8066037657a7d3ef2548a12619b4f129c4.jpg"],
 
@@ -2708,7 +2708,7 @@ var database = [
 
 ["audiobook", ["V is for Virgin"], "2020", [["2023 09 09", "2023 09 16"]], 6, ["ger"], ["young adult"], [], ["bibliothek"], ["Kelly Oram"], ["Corinna Dorenkamp"], "https://64.media.tumblr.com/f45758bce49e70614ef0900b33a49c9c/b592fedd3e42edfe-ba/s250x400/b28f20aed210908f9f861621608cc83d8138512d.jpg"],
 
-["book", ["Silber – Das dritte Buch der Träume"], "2015", [["2023 09 14", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Kerstin Gier"], [], "https://64.media.tumblr.com/415bbde9e69a3d43cebcf93262256bd5/e6cbce3d3e2f2456-c1/s250x400/d8b737a4569e3cf708a162c08521d5d5f21b98e6.jpg"],
+["book", ["Silber – Das dritte Buch der Träume"], "2015", [["2023 09 14", "2023 10 26", "P1-P54"]], 0, ["ger"], [], [], ["bibliothek", "dropped"], ["Kerstin Gier"], [], "https://64.media.tumblr.com/415bbde9e69a3d43cebcf93262256bd5/e6cbce3d3e2f2456-c1/s250x400/d8b737a4569e3cf708a162c08521d5d5f21b98e6.jpg"],
 
 ["film", ["Totally True Love", "Anne liebt Philipp", "Jørgen + Anne = sant"], "2011", ["2023 09 19"], 6, ["ger"], ["family", "mystery"], ["je"], ["bibliothek"], ["Anne Sewitsky"], [], "https://64.media.tumblr.com/61820e53d613f1792ca296698239f24a/13f730cc566dc31e-8a/s400x600/ddaf8b4a9d22692eedfbe9973d1d26580ef429b4.jpg"],
 
@@ -2792,7 +2792,7 @@ var database = [
 
 ["series", ["Toilet-Bound Hanako-kun", "Jibaku Shounen Hanako-kun", "Jibaku Shounen Hanako-kun"], "2020", [["2023 11 20", "2023 12 18", "S1"]], 6, ["ger"], ["anime", "comedy", "supernatural"], ["bini", "nico"], [], ["Iro Aida", "Leah Clark", "Yasuhiro Nakanishi"], [], "https://64.media.tumblr.com/b463e5aeaa179890387de41b69a5087a/463f7646be245d98-b6/s250x400/0814a3824ad0be74a35f44db60634930ebb6c742.jpg"],
 
-["film", ["The Hunger Games: The Ballad of Songbirds & Snakes", "Die Tribute von Panem: The Ballad of Songbirds and Snakes"], "2023", ["2023 11 25"], 6, ["ger"], ["action", "adventure"], ["bini", "je"], ["Kino", "Hunger Games"], ["Francis Lawrence"], ["Fionnula Flanagan", "Flora Li Thiemann", "Jason Schwartzman"], "https://64.media.tumblr.com/779dd9713bb09d2b009655b9bf41d2b3/96683391f2f1cefe-10/s250x400/d9fe6af752dc825f36ad04c1f6b75415e055350f.jpg"],
+["film", ["The Hunger Games: The Ballad of Songbirds & Snakes", "Die Tribute von Panem: The Ballad of Songbirds and Snakes"], "2023", ["2023 11 25"], 6, ["ger"], ["action", "adventure"], ["bini", "je"], ["Kino", "Hunger Games"], ["Francis Lawrence"], ["Fionnula Flanagan", "Flora Li Thiemann", "Jason Schwartzman", "Rachel Zegler", "Josh Andrés Rivera"], "https://64.media.tumblr.com/779dd9713bb09d2b009655b9bf41d2b3/96683391f2f1cefe-10/s250x400/d9fe6af752dc825f36ad04c1f6b75415e055350f.jpg"],
 
 ["series", ["Scott Pilgrim Takes Off", "Scott Pilgrim hebt ab"], "2023", [["2023 11 26", "S1"]], 7, ["ger"], ["animation", "action", "comedy"], [], ["Netflix"], ["BenDavid Grabinski", "Bryan Lee O'Malley"], [], "https://64.media.tumblr.com/1e39c212669001ee8f879a3ca2dc4d81/cdebcf44e0fe3f2f-83/s250x400/fd3aa4466f79ddbcc9ccf46e249bf95212d292a9.jpg"],
 
@@ -2800,7 +2800,7 @@ var database = [
 
 ["film", ["Victoria"], "2015", ["2023 12 04"], 4, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Sebastian Schipper"], ["Frederick Lau", "Max Mauff", "Lena Klenke"], "https://64.media.tumblr.com/37973dd25843eca66662c4a25d96342f/1d8a691b85643fb1-be/s250x400/7cb2dfe4aee1c20e21ded92860dba9e95124db25.jpg"],
 
-["film", ["Family Switch"], "2023", ["2023 12 04"], 5, ["ger"], ["comedy", "family"], ["je"], ["Netflix"], ["McG"], ["Jennifer Garner", "Emma Myers", "Matthias Schweighöfer", "Ed Helms"], "https://64.media.tumblr.com/d027c7e4894bcc8385b4d508287302c8/b228ffbb642bb4b1-e5/s250x400/f45581db79bfaf4684f62cdc171335171954cf34.jpg"],
+["film", ["Family Switch"], "2023", ["2023 12 04"], 5, ["ger"], ["comedy", "family"], ["je"], ["Netflix"], ["McG"], ["Jennifer Garner", "Emma Myers", "Matthias Schweighöfer", "Ed Helms", "Rita Moreno"], "https://64.media.tumblr.com/d027c7e4894bcc8385b4d508287302c8/b228ffbb642bb4b1-e5/s250x400/f45581db79bfaf4684f62cdc171335171954cf34.jpg"],
 
 ["film", ["Heart of Stone"], "2023", ["2023 12 04"], 8, ["ger"], ["action", "crime"], ["je"], ["Netflix"], ["Tom Harper"], ["Gal Gadot"], "https://64.media.tumblr.com/a4e1429ffe66e2832311e458b3f7f27c/3a35cf8773813d9a-60/s250x400/3286689dee1e5fd98a5ee8201283776f609bed9c.jpg"],
 
@@ -2816,7 +2816,7 @@ var database = [
 
 ["film", ["Paradise"], "2023", ["2023 12 06"], 7, ["ger"], ["action", "sci-fi"], ["syl", "je"], ["Netflix"], ["Boris Kunz"], [], "https://64.media.tumblr.com/541e803a35bb377951b81d2f734eddb7/a163a022507352f7-07/s250x400/db89fe13590078fa181501d45f978303a77969ab.jpg"],
 
-["film", ["A Haunting in Venice"], "2023", ["2023 12 07"], 5, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh"], "https://64.media.tumblr.com/d6b3e8e7e10fad8415d00b0cddc28ff8/608f583f8045ee27-7c/s250x400/9b98d097c00a9182d4d64d846f2b3f652a3ae867.jpg"],
+["film", ["A Haunting in Venice"], "2023", ["2023 12 07"], 5, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh", "Kyle Allen"], "https://64.media.tumblr.com/d6b3e8e7e10fad8415d00b0cddc28ff8/608f583f8045ee27-7c/s250x400/9b98d097c00a9182d4d64d846f2b3f652a3ae867.jpg"],
 
 ["film", ["We Have a Ghost"], "2023", ["2023 12 08"], 7, ["ger"], ["adventure", "comedy"], ["je", "syl"], ["Netflix"], ["Christopher Landon"], ["David Harbour", "Anthony Mackie", "Tig Notaro"], "https://64.media.tumblr.com/c2c953087ffd7919ee94d6ea17dfe1d2/70ce5ba714f4c903-cd/s250x400/c32446a5e4bd1dae25f868768ec47cfb625b0518.jpg"],
 
@@ -2874,7 +2874,7 @@ var database = [
 
 ["film", ["Kidnapping Stella"], "2019", ["2024 01 20"], 5, ["ger"], ["crime"], [], ["Netflix"], ["Thomas Sieben"], ["Jella Haase", "Max von der Groeben"], "https://64.media.tumblr.com/918ddc7d222a0d050f67333c040abd84/9123d9983003fd76-a5/s250x400/c80885559255204565680338790a68eb883c418b.jpg"],
 
-["film", ["Happiness for Beginners", "Küssen und andere lebenswichtige Dinge"], "2023", ["2024 01 20"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Vicky Wight"], ["Ellie Kemper", "Gus Birney", "Alexander Koch"], "https://64.media.tumblr.com/b4371c952a5c2f180efe289eee31d649/40bb50e4ffde7c31-f5/s250x400/8b4204b242031d4b79e07479b35ae19643ebb6dd.jpg"],
+["film", ["Happiness for Beginners", "Küssen und andere lebenswichtige Dinge"], "2023", ["2024 01 20"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Vicky Wight"], ["Ellie Kemper", "Gus Birney", "Alexander Koch", "Ben Cook"], "https://64.media.tumblr.com/b4371c952a5c2f180efe289eee31d649/40bb50e4ffde7c31-f5/s250x400/8b4204b242031d4b79e07479b35ae19643ebb6dd.jpg"],
 
 ["film", ["Jack Reacher: Never Go Back", "Jack Reacher: Kein Weg zurück"], "2016", ["2024 01 21"], 5, ["ger"], ["action", "crime"], [], ["Netflix"], ["Edward Zwick"], ["Tom Cruise", "Cobie Smulders"], "https://64.media.tumblr.com/fdb3398bea26f33d5c3a8886040460c8/86463bdf9b89fbf4-57/s250x400/8369d8bfcc9d8c0c259958f021853571d9cbd18d.jpg"],
 
@@ -2918,7 +2918,11 @@ var database = [
 
 ["film", ["Psalms of Planets Eureka Seven: Good Night, Sleep Tight, Young Lovers"], "2009", ["2024 03 10"], 5, ["ger"], ["anime", "action"], [], ["bibliothek"], ["Hironori Aoyagi", "Hiroshi Haraguchi", "Masaru Yasukawa"], [], "https://64.media.tumblr.com/74c89fa451a980c780a04c39947a6fa1/a15c05da0bb84b7d-4b/s250x400/2d51a9e0e49f9919aa50273bfe08697ee4b498d6.jpg"],
 
-["film", ["65"], "2023", ["2024 03 16"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Scott Beck", "Bryan Woods"], ["Adam Driver", "Ariana Greenblatt", "Chloe Coleman"], "https://64.media.tumblr.com/0a3d74457b3c988d6a1832c30a25d71d/5c071f4256e9aaa8-d9/s250x400/6383729f4d4e7946992fd82dcf9cb47097e624a6.jpg"]
+["film", ["65"], "2023", ["2024 03 16"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Scott Beck", "Bryan Woods"], ["Adam Driver", "Ariana Greenblatt", "Chloe Coleman"], "https://64.media.tumblr.com/0a3d74457b3c988d6a1832c30a25d71d/5c071f4256e9aaa8-d9/s250x400/6383729f4d4e7946992fd82dcf9cb47097e624a6.jpg"],
+
+["audiobook", ["Silber – Das dritte Buch der Träume"], "2015", [["2024 03 18", ""]], 0, ["ger"], [], ["Simona Pahl"], ["bibliothek", "watching"], ["Kerstin Gier"], [], "https://64.media.tumblr.com/415bbde9e69a3d43cebcf93262256bd5/e6cbce3d3e2f2456-c1/s250x400/d8b737a4569e3cf708a162c08521d5d5f21b98e6.jpg"],
+
+["film", ["West Side Story"], "2021", [["2024 03 19", "2024 03 20"]], 8, ["ger"], ["crime", "drama", "musical"], [], ["Disney+"], ["Steven Spielberg"], ["Ansel Elgort", "Rachel Zegler", "Ariana DeBose", "Rita Moreno", "Corey Stoll", "Josh Andrés Rivera", "Kyle Allen", "Ben Cook", "Talia Ryder"], "https://64.media.tumblr.com/aef063d33d9db62fd3e60aa84c4677e7/44477ead036eb916-2c/s250x400/3e270d84bbfca371473c14c90b568f36fa1911a1.jpg"]
 
 /*
 ,
