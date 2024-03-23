@@ -2904,7 +2904,7 @@ var database = [
 
 ["audiobook", ["Emerald Green", "Smaragdgrün"], "2010", [["2024 02 26", "2024 03 05"]], 7, ["ger"], ["fantasy"], [], ["Ruby Red Trilogy", "bibliothek"], ["Kerstin Gier"], ["Josefine Preuß"], "https://64.media.tumblr.com/22df180fcbf049350e9d09908a5f98e9/aa7ded5e85567561-e7/s250x400/9e4ac1df7f82c4653f2859bedd60df4a6bd67733.jpg"],
 
-["series", ["Avatar: The Last Airbender", "Avatar - Der Herr Der Elemente"], "2024", [["2024 02 28", "", "S1"]], 0, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Netflix", "watching"], ["Michael Dante DiMartino"], ["Kiawentiio", "Daniel Dae Kim", "Ken Leung", "Utkarsh Ambudkar", "Momona Tamada"], "https://64.media.tumblr.com/d109abc3dc3364373df3614dd2fe8f48/4398b8384ece5567-5c/s250x400/1e18a0dc4d05baa362b8436bd4358f5198a2a908.jpg"],
+["series", ["Avatar: The Last Airbender", "Avatar - Der Herr Der Elemente"], "2024", [["2024 02 28", "2024 03 20", "S1"]],5, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Netflix"], ["Michael Dante DiMartino"], ["Kiawentiio", "Daniel Dae Kim", "Ken Leung", "Utkarsh Ambudkar", "Momona Tamada"], "https://64.media.tumblr.com/d109abc3dc3364373df3614dd2fe8f48/4398b8384ece5567-5c/s250x400/1e18a0dc4d05baa362b8436bd4358f5198a2a908.jpg"],
 
 ["film", ["Das weiße Kaninchen"], "2016", ["2024 03 03"], 5, ["ger"], ["drama", "thirller"], [], ["bibliothek"], ["Florian Schwarz"], ["Louis Hofmann"], "https://64.media.tumblr.com/c388fb2097ebd79d4c036aa3c757f0c3/1fb42b9c3c5360a7-17/s250x400/55ddaaca4177eb08a4c5a450f8a3fb3d8d82e1ef.jpg"],
 
@@ -2922,7 +2922,11 @@ var database = [
 
 ["audiobook", ["Silber – Das dritte Buch der Träume"], "2015", [["2024 03 18", ""]], 0, ["ger"], [], ["Simona Pahl"], ["bibliothek", "watching"], ["Kerstin Gier"], [], "https://64.media.tumblr.com/415bbde9e69a3d43cebcf93262256bd5/e6cbce3d3e2f2456-c1/s250x400/d8b737a4569e3cf708a162c08521d5d5f21b98e6.jpg"],
 
-["film", ["West Side Story"], "2021", [["2024 03 19", "2024 03 20"]], 8, ["ger"], ["crime", "drama", "musical"], [], ["Disney+"], ["Steven Spielberg"], ["Ansel Elgort", "Rachel Zegler", "Ariana DeBose", "Rita Moreno", "Corey Stoll", "Josh Andrés Rivera", "Kyle Allen", "Ben Cook", "Talia Ryder"], "https://64.media.tumblr.com/aef063d33d9db62fd3e60aa84c4677e7/44477ead036eb916-2c/s250x400/3e270d84bbfca371473c14c90b568f36fa1911a1.jpg"]
+["film", ["West Side Story"], "2021", [["2024 03 19", "2024 03 20"]], 8, ["ger"], ["crime", "drama", "musical"], [], ["Disney+"], ["Steven Spielberg"], ["Ansel Elgort", "Rachel Zegler", "Ariana DeBose", "Rita Moreno", "Corey Stoll", "Josh Andrés Rivera", "Kyle Allen", "Ben Cook", "Talia Ryder"], "https://64.media.tumblr.com/aef063d33d9db62fd3e60aa84c4677e7/44477ead036eb916-2c/s250x400/3e270d84bbfca371473c14c90b568f36fa1911a1.jpg"],
+
+["series", ["20/20: Something's Coming: West Side Story"], "2021", ["2024 03 21"], 7, ["eng"], ["documentary"], [], ["Disney+"], ["Roone Arledge"], [], "https://64.media.tumblr.com/0f5ee3851922e73b69a3d9de6184c3dd/017d7328d6072d7b-c8/s250x400/89c1896f83d07da30c30bc4bee93bff3b51647d6.jpg"],
+
+["film", ["Angel Has Fallen"], "2019", ["2024 03 23"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Ric Roman Waugh"], ["Gerard Butler", "Morgan Freeman"], "https://64.media.tumblr.com/5eb5de4b4982c8ac6ad19908d595e608/3c5bf327cb68980d-82/s250x400/4da8843247ad0629513394aeb797330485184036.jpg"]
 
 /*
 ,
