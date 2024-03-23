@@ -365,7 +365,7 @@ var database = [
 	        
 ["series", ["Mind Field"], "2017", [["2017 07 21", "2017 07 22", "S1 - S2"], ["2019 10 09", "S3"]], 10, ["eng"], ["documentary"], [], [], ["Andy Wood", "Michael Stevens"], ["Michael Stevens", "Trin Miller"], "https://66.media.tumblr.com/ef8f3173576f3583f44f212977fe2b72/b890db991dd36500-46/s250x400/2c9befd9d5126d96102729603801f56d95f82feb.jpg"],
 	        
-["series", ["Stranger Things"], "2016", [["2017 09 30", "2017 10 01", "S1"], ["2017 10 28", "2017 10 29", "S2"], ["2019 07 05", "2019 07 09", "S3"]], 8, ["ger"], ["drama", "fantasy", "horror", "mystery", "thriller", "sci-fi"], ["bini"], ["Netflix"], ["Matt Duffer", "Ross Duffer"], ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Sean Astin", "Joe Chrest", "Jamie Campbell Bower", "Maya Hawke"], "https://66.media.tumblr.com/c8b627f6c4e359d3e447107df3fbf426/67ddec5eb9eb235d-ed/s250x400/d663062da2fa7916f4f53c57f65e0a4898097490.jpg"],
+["series", ["Stranger Things"], "2016", [["2017 09 30", "2017 10 01", "S1"], ["2017 10 28", "2017 10 29", "S2"], ["2019 07 05", "2019 07 09", "S3"]], 8, ["ger"], ["drama", "fantasy", "horror", "mystery", "thriller", "sci-fi"], ["bini"], ["Netflix"], ["Matt Duffer", "Ross Duffer"], ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Sean Astin", "Joe Chrest", "Jamie Campbell Bower", "Maya Hawke", "Charlie Heaton"], "https://66.media.tumblr.com/c8b627f6c4e359d3e447107df3fbf426/67ddec5eb9eb235d-ed/s250x400/d663062da2fa7916f4f53c57f65e0a4898097490.jpg"],
 	        
 ["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt", "Alisha Boe", "Timothy Granaderos", "Gary Sinise"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
 	        
@@ -2926,7 +2926,13 @@ var database = [
 
 ["series", ["20/20: Something's Coming: West Side Story"], "2021", ["2024 03 21"], 7, ["eng"], ["documentary"], [], ["Disney+"], ["Roone Arledge"], [], "https://64.media.tumblr.com/0f5ee3851922e73b69a3d9de6184c3dd/017d7328d6072d7b-c8/s250x400/89c1896f83d07da30c30bc4bee93bff3b51647d6.jpg"],
 
-["film", ["Angel Has Fallen"], "2019", ["2024 03 23"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Ric Roman Waugh"], ["Gerard Butler", "Morgan Freeman"], "https://64.media.tumblr.com/5eb5de4b4982c8ac6ad19908d595e608/3c5bf327cb68980d-82/s250x400/4da8843247ad0629513394aeb797330485184036.jpg"]
+["film", ["Angel Has Fallen"], "2019", ["2024 03 23"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Ric Roman Waugh"], ["Gerard Butler", "Morgan Freeman"], "https://64.media.tumblr.com/5eb5de4b4982c8ac6ad19908d595e608/3c5bf327cb68980d-82/s250x400/4da8843247ad0629513394aeb797330485184036.jpg"],
+
+["film", ["Systemsprenger"], "2019", ["2024 03 23"], 7, ["ger"], ["drama"], [], ["Netflix"], ["Nora Fingscheidt"], [], "https://64.media.tumblr.com/1177fc36581326d15f5510bb6aa22122/cc05deda7cdbb522-0e/s250x400/51643ee7147b8e13802bae5a8cc77627f812da0b.jpg"],
+
+["film", ["Poor Things"], "2023", ["2024 03 23"], 4, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Yorgos Lanthimos"], ["Emma Stone", "Willem Dafoe", "Mark Ruffalo"], "https://64.media.tumblr.com/647ac85232da94a3ddc5de4df6bf6558/722ae7227bb1e46d-05/s250x400/210b1edd18778635915689a11d8c40998616f7a7.jpg"],
+
+["film", ["The New Mutants", "New Mutants"], "2020", ["2024 03 23"], 8, ["ger"], ["action", "horror"], [], ["Disney+", "X-Men", "Marvel"], ["Josh Boone"], ["Maisie Williams", "Anya Taylor-Joy", "Charlie Heaton"], "https://64.media.tumblr.com/1ec2e99b5ef66ac22a960de91f7793f8/81ba365de68e839b-c9/s250x400/e238df6d18ded30c7ce1ad653a340a7279b7ebd1.jpg"]
 
 /*
 ,
