@@ -2940,7 +2940,11 @@ var database = [
 
 ["film", ["Red Eye"], "2005", ["2024 03 24"], 6, ["ger"], ["thriller"], [], ["Netflix"], ["Wes Craven"], ["Rachel McAdams", "Cillian Murphy"], "https://64.media.tumblr.com/a9f86e662cc120b7b2cc149bba52c35a/015c3e588f492af6-63/s250x400/5c33bad71a7f23054a7e265deeb845eb98acd7eb.jpg"],
 
-["film", ["Once Upon a Time in... Hollywood "], "2019", ["2024 03 24"], 0, ["ger"], ["comedy", "drama"], [], ["Netflix", "dropped"], ["Quentin Tarantino"], ["Leonardo DiCaprio", "Brad Pitt", "Margot Robbie", "Margaret Qualley", "Timothy Olyphant", "Dakota Fanning", "Victoria Pedretti", "Julia Butters"], "https://64.media.tumblr.com/0839285c9ee4e5bed555b76b976e749e/08a11ffa752c8836-b7/s250x400/3918563e60a5577b31f5297e28a43b02ba207b79.jpg"]
+["film", ["Once Upon a Time in... Hollywood "], "2019", ["2024 03 24"], 0, ["ger"], ["comedy", "drama"], [], ["Netflix", "dropped"], ["Quentin Tarantino"], ["Leonardo DiCaprio", "Brad Pitt", "Margot Robbie", "Margaret Qualley", "Timothy Olyphant", "Dakota Fanning", "Victoria Pedretti", "Julia Butters"], "https://64.media.tumblr.com/0839285c9ee4e5bed555b76b976e749e/08a11ffa752c8836-b7/s250x400/3918563e60a5577b31f5297e28a43b02ba207b79.jpg"],
+
+["film", ["The New Adventures of Pippi Longstocking", "Pippi Langstrumpfs neueste Streiche"], "1988", ["2024 03 24"], 6, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Ken Annakin"], [], "https://64.media.tumblr.com/1880804fb156295dc405d5a43a8e0d2d/d40282f55f781955-25/s250x400/93bf6ee88b47d519f7813e6ed8fdc16f69b157d4.jpg"],
+
+["series", ["One Piece"], "2023", [["2024 03 27", "", "S1"]], 0, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Netflix", "watching"], ["Lindsay Gelfand", "Tom Hyndman"], ["Emily Rudd"], "https://64.media.tumblr.com/2083187393e14599417910e3b7ead83e/13c6833d70ef5baa-57/s250x400/12e03aaa5c2fd2c936ecb3254e92767d6c570f1d.jpg"]
 
 /*
 ,
