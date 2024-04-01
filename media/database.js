@@ -2946,7 +2946,9 @@ var database = [
 
 ["series", ["One Piece"], "2023", [["2024 03 27", "", "S1"]], 0, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Netflix", "watching"], ["Lindsay Gelfand", "Tom Hyndman"], ["Emily Rudd"], "https://64.media.tumblr.com/2083187393e14599417910e3b7ead83e/13c6833d70ef5baa-57/s250x400/12e03aaa5c2fd2c936ecb3254e92767d6c570f1d.jpg"],
 
-["film", ["Missing"], "2023", ["2024 03 28"], 8, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Nicholas D. Johnson", "Will Merrick"], ["Ken Leung", "Megan Suri"], "https://64.media.tumblr.com/b689c8c977ecf300b958e8f906072195/19fe6e4ad2ee826c-88/s250x400/c9257deebff880590d84a9777b31be18155037ae.jpg"]
+["film", ["Missing"], "2023", ["2024 03 28"], 8, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Nicholas D. Johnson", "Will Merrick"], ["Ken Leung", "Megan Suri"], "https://64.media.tumblr.com/b689c8c977ecf300b958e8f906072195/19fe6e4ad2ee826c-88/s250x400/c9257deebff880590d84a9777b31be18155037ae.jpg"],
+
+["series", ["Pluto"], "2023", [["2024 04 01", "", "S1"]], 0, ["ger"], ["anime", "sci-fi"], ["bini", "nico"], ["Netflix", "watching"], ["Osamu Tezuka", "Naoki Urasawa"], [], "https://64.media.tumblr.com/7d36591a3744e898ed7d25f919a2e9a8/1114d8f74f952721-1c/s250x400/5efbb65f9eb4030a74f749a0f488be9325a419a6.jpg"]
 
 /*
 ,
