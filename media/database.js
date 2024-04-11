@@ -2948,7 +2948,11 @@ var database = [
 
 ["film", ["Missing"], "2023", ["2024 03 28"], 8, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Nicholas D. Johnson", "Will Merrick"], ["Ken Leung", "Megan Suri"], "https://64.media.tumblr.com/b689c8c977ecf300b958e8f906072195/19fe6e4ad2ee826c-88/s250x400/c9257deebff880590d84a9777b31be18155037ae.jpg"],
 
-["series", ["Pluto"], "2023", [["2024 04 01", "", "S1"]], 0, ["ger"], ["anime", "sci-fi"], ["bini", "nico"], ["Netflix", "watching"], ["Osamu Tezuka", "Naoki Urasawa"], [], "https://64.media.tumblr.com/7d36591a3744e898ed7d25f919a2e9a8/1114d8f74f952721-1c/s250x400/5efbb65f9eb4030a74f749a0f488be9325a419a6.jpg"]
+["series", ["Pluto"], "2023", [["2024 04 01", "", "S1"]], 0, ["ger"], ["anime", "sci-fi"], ["bini", "nico"], ["Netflix", "watching"], ["Osamu Tezuka", "Naoki Urasawa"], [], "https://64.media.tumblr.com/7d36591a3744e898ed7d25f919a2e9a8/1114d8f74f952721-1c/s250x400/5efbb65f9eb4030a74f749a0f488be9325a419a6.jpg"],
+
+["film", ["Lift"], "2024", ["2024 04 11"], 7, ["ger"], ["action", "comedy"], [], ["Netflix"], ["F. Gary Gray"], ["Kevin Hart", "Vincent D'Onofrio", "Úrsula Corberó", "Jean Reno", "Burn Gorman"], "https://64.media.tumblr.com/400f5ea66b6b5de4bbccbc9f5ca5f1ae/b28e92859524cd7c-54/s250x400/ca69d606bbf1c03ef85a2e619c0901703e07e97c.jpg"],
+
+["film", ["Are You There God? It's Me, Margaret.", "Bist du da, Gott? Ich bin's, Margaret"], "2023", ["2024 04 11"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Kelly Fremon Craig"], ["Rachel McAdams"], "https://64.media.tumblr.com/e59e3797fe0e5a947ec470c4ac6cf2dc/283dfb441da0dde5-6b/s250x400/88228dd51c64cd2673d9d7e1ebc072a8c14f4ab9.jpg"]
 
 /*
 ,
