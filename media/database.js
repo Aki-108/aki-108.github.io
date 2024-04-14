@@ -2662,7 +2662,7 @@ var database = [
 
 ["film", ["RRR (Rise Roar Revolt)", "RRR"], "2022", [["2023 07 08", "2023 07 15"]], 7, ["eng"], ["action", "drama"], ["bini", "mai"], ["Netflix"], ["S.S. Rajamouli"], ["Ray Stevenson", "Alison Doody"], "https://64.media.tumblr.com/85a55e0ffd218cf5fbf67a71bf209683/4dfbc9a2de55e03e-01/s250x400/c7eb0c80e411f48bcc97f0f486b83bdce4cf25ce.jpg"],
 
-["film", ["Indiana Jones and the Dial of Destiny", "Indiana Jones und das Rad des Schicksals"], "2023", ["2023 07 23"], 6, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Kino", "Indiana Jones"], ["James Mangold"], ["Harrison Ford", "Karen Allen", "Toby Jones"], "https://64.media.tumblr.com/142b7010169555f8e61a8aedf03ed6da/0753295efb7afeb2-31/s250x400/c5c12a91bc1ec41c46729063d9808cc5c4c3108d.jpg"],
+["film", ["Indiana Jones and the Dial of Destiny", "Indiana Jones und das Rad des Schicksals"], "2023", ["2023 07 23", "2024 04 13"], 6, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Kino", "Disney+", "Indiana Jones"], ["James Mangold"], ["Harrison Ford", "Karen Allen", "Toby Jones"], "https://64.media.tumblr.com/142b7010169555f8e61a8aedf03ed6da/0753295efb7afeb2-31/s250x400/c5c12a91bc1ec41c46729063d9808cc5c4c3108d.jpg"],
 
 ["film", ["Nimona"], "2023", ["2023 07 29"], 7, ["ger"], ["animation", "action"], [], ["Netflix"], ["Nick Bruno", "Troy Quane"], [], "https://64.media.tumblr.com/fd7ff063f40ba1ad9103ef4516ffe22a/1a74d43809c95864-40/s250x400/297aca1f1d2892be2a057e10eaccd0035cb9cb3e.jpg"],
 
