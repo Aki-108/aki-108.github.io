@@ -271,7 +271,7 @@ var database = [
 	        
 ["audiobook", ["Harry Potter and the Chamber of Secrets", "Harry Potter und die Kammer des Schreckens"], "1998", [["2020 04 14", "2020 04 16"]], 8, ["eng"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/e86674abc78e31b494c0eaa2e62cde5f/fa58b33070ccf734-3e/s250x400/f6c19f8c41fa2c37f5a15a6f09b53c7680524067.jpg"],
 	        
-["audiobook", ["Harry Potter and the Prisoner of Azkaban", "Harry Potter und der Gefangene von Askaban"], "1999", [["2020 04 16", "2020 04 20"], ["2024 04 18", ""]], 7, ["eng", "ger"], ["fantasy"], ["bini", "je"], ["Harry Potter", "bibliothek", "watching"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/78fbdc3412e763a17de094424ce355e7/9862fefdfb24969d-49/s250x400/6c0a3289da29b8ba63c7df54d9ea48d8e6ae6cd8.jpg"],
+["audiobook", ["Harry Potter and the Prisoner of Azkaban", "Harry Potter und der Gefangene von Askaban"], "1999", [["2020 04 16", "2020 04 20"], ["2024 04 18", "2024 04 21"]], 7, ["eng", "ger"], ["fantasy"], ["bini", "je"], ["Harry Potter", "bibliothek"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/78fbdc3412e763a17de094424ce355e7/9862fefdfb24969d-49/s250x400/6c0a3289da29b8ba63c7df54d9ea48d8e6ae6cd8.jpg"],
 	        
 ["audiobook", ["Harry Potter and the Goblet of Fire", "Harry Potter und der Feuerkelch"], "2000", [["2020 04 20", "2020 04 28"]], 8, ["eng"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/98513d3fa323b1e7173bc6cf0084c141/647f7d9154339e1c-35/s250x400/9443bafcfec3da25fb6ea229572e1153aa4de7a6.jpg"],
 	        
@@ -2906,7 +2906,7 @@ var database = [
 
 ["series", ["Avatar: The Last Airbender", "Avatar - Der Herr Der Elemente"], "2024", [["2024 02 28", "2024 03 20", "S1"]],5, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Netflix"], ["Michael Dante DiMartino"], ["Kiawentiio", "Daniel Dae Kim", "Ken Leung", "Utkarsh Ambudkar", "Momona Tamada"], "https://64.media.tumblr.com/d109abc3dc3364373df3614dd2fe8f48/4398b8384ece5567-5c/s250x400/1e18a0dc4d05baa362b8436bd4358f5198a2a908.jpg"],
 
-["film", ["Das weiße Kaninchen"], "2016", ["2024 03 03"], 5, ["ger"], ["drama", "thirller"], [], ["bibliothek"], ["Florian Schwarz"], ["Louis Hofmann"], "https://64.media.tumblr.com/c388fb2097ebd79d4c036aa3c757f0c3/1fb42b9c3c5360a7-17/s250x400/55ddaaca4177eb08a4c5a450f8a3fb3d8d82e1ef.jpg"],
+["film", ["Das weiße Kaninchen"], "2016", ["2024 03 03"], 5, ["ger"], ["drama", "thriller"], [], ["bibliothek"], ["Florian Schwarz"], ["Louis Hofmann"], "https://64.media.tumblr.com/c388fb2097ebd79d4c036aa3c757f0c3/1fb42b9c3c5360a7-17/s250x400/55ddaaca4177eb08a4c5a450f8a3fb3d8d82e1ef.jpg"],
 
 ["film", ["Coconut Hero"], "2015", ["2024 03 03"], 9, ["ger"], ["comedy", "drama"], [], ["bibliothek"], ["Florian Cossen"], [], "https://64.media.tumblr.com/504e1506af098c77ef5580d20060e8f9/1bb12607c14a8371-f3/s250x400/06921dc91118cb44fc40387325a9d0ef0593a29a.jpg"],
 
@@ -2952,7 +2952,9 @@ var database = [
 
 ["film", ["Lift"], "2024", ["2024 04 11"], 7, ["ger"], ["action", "comedy"], [], ["Netflix"], ["F. Gary Gray"], ["Kevin Hart", "Vincent D'Onofrio", "Úrsula Corberó", "Jean Reno", "Burn Gorman"], "https://64.media.tumblr.com/400f5ea66b6b5de4bbccbc9f5ca5f1ae/b28e92859524cd7c-54/s250x400/ca69d606bbf1c03ef85a2e619c0901703e07e97c.jpg"],
 
-["film", ["Are You There God? It's Me, Margaret.", "Bist du da, Gott? Ich bin's, Margaret"], "2023", ["2024 04 11"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Kelly Fremon Craig"], ["Rachel McAdams"], "https://64.media.tumblr.com/e59e3797fe0e5a947ec470c4ac6cf2dc/283dfb441da0dde5-6b/s250x400/88228dd51c64cd2673d9d7e1ebc072a8c14f4ab9.jpg"]
+["film", ["Are You There God? It's Me, Margaret.", "Bist du da, Gott? Ich bin's, Margaret"], "2023", ["2024 04 11"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Kelly Fremon Craig"], ["Rachel McAdams"], "https://64.media.tumblr.com/e59e3797fe0e5a947ec470c4ac6cf2dc/283dfb441da0dde5-6b/s250x400/88228dd51c64cd2673d9d7e1ebc072a8c14f4ab9.jpg"],
+
+["book", ["Pippa - Mein (ganzes) Leben steht Kopf"], "2016", [["2024 04 17", ""]], 0, ["ger"], ["slice of life"], [], ["bibliothek", "watching"], ["Barbara Tammes"], [], "https://64.media.tumblr.com/c50690b9c2d8ac03cfff2a92b45e31fa/38e4f79387270999-04/s250x400/b6a16dd6ac33673c4010e31bcd87f31528264d48.jpg"]
 
 /*
 ,
