@@ -267,11 +267,11 @@ var database = [
 	        
 ["audiobook", ["The Martian", "Der Marsianer"], "2011", [["2020 05 11", "2020 05 13"]], 8, ["ger"], ["sci-fi", "adventure", "drama"], [], [], ["Andy Weir"], [], "https://66.media.tumblr.com/c5cae2bb1ba141c4afb7597bd4d005c0/7bfe50ac60286d75-73/s250x400/f2a83950de8ab5804d8880081e016493c11adfae.jpg"],
 	        
-["audiobook", ["Harry Potter and the Philosopher's Stone", "Harry Potter und der Stein der Weisen"], "1997", [["2020 04 06", "2020 04 09"], ["2024 04 06", ""]], 6, ["eng", "ger"], ["fantasy"], [], ["Harry Potter", "bibliothek", "watching"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/64f165cb5e2e4c9d2e1bead3cfcd97a7/346e79630c860467-3b/s250x400/6eb5f3e57ef1e42074360b06f89021ce61c4d10c.jpg"],
+["audiobook", ["Harry Potter and the Philosopher's Stone", "Harry Potter und der Stein der Weisen"], "1997", [["2020 04 06", "2020 04 09"], ["2024 04 06", "2024 04 17"]], 6, ["eng", "ger"], ["fantasy"], ["bini", "je"], ["Harry Potter", "bibliothek"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/64f165cb5e2e4c9d2e1bead3cfcd97a7/346e79630c860467-3b/s250x400/6eb5f3e57ef1e42074360b06f89021ce61c4d10c.jpg"],
 	        
 ["audiobook", ["Harry Potter and the Chamber of Secrets", "Harry Potter und die Kammer des Schreckens"], "1998", [["2020 04 14", "2020 04 16"]], 8, ["eng"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/e86674abc78e31b494c0eaa2e62cde5f/fa58b33070ccf734-3e/s250x400/f6c19f8c41fa2c37f5a15a6f09b53c7680524067.jpg"],
 	        
-["audiobook", ["Harry Potter and the Prisoner of Azkaban", "Harry Potter und der Gefangene von Askaban"], "1999", [["2020 04 16", "2020 04 20"]], 7, ["eng"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/78fbdc3412e763a17de094424ce355e7/9862fefdfb24969d-49/s250x400/6c0a3289da29b8ba63c7df54d9ea48d8e6ae6cd8.jpg"],
+["audiobook", ["Harry Potter and the Prisoner of Azkaban", "Harry Potter und der Gefangene von Askaban"], "1999", [["2020 04 16", "2020 04 20"], ["2024 04 18", ""]], 7, ["eng", "ger"], ["fantasy"], ["bini", "je"], ["Harry Potter", "bibliothek", "watching"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/78fbdc3412e763a17de094424ce355e7/9862fefdfb24969d-49/s250x400/6c0a3289da29b8ba63c7df54d9ea48d8e6ae6cd8.jpg"],
 	        
 ["audiobook", ["Harry Potter and the Goblet of Fire", "Harry Potter und der Feuerkelch"], "2000", [["2020 04 20", "2020 04 28"]], 8, ["eng"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/98513d3fa323b1e7173bc6cf0084c141/647f7d9154339e1c-35/s250x400/9443bafcfec3da25fb6ea229572e1153aa4de7a6.jpg"],
 	        
@@ -2864,7 +2864,7 @@ var database = [
 
 ["series", ["Bodies"], "2023", [["2024 01 05", "2024 01 13", "S1"]], 6, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Si Spencer", "Paul Tomalin"], [], "https://64.media.tumblr.com/58873ac18641b2fb44695740f58ef551/1f83ebb6dafa459c-a7/s250x400/be1c1a0faece211e6424f5d92edb9f73741385bd.jpg"],
 
-["book", ["A Beautifully Foolish Endeavor"], "2020", [["2024 01 08", ""]], 0, ["eng"], ["sci-fi"], [], ["watching"], ["Hank Green"], [], "https://64.media.tumblr.com/a6136f23c0182fd31c170d091160e1d4/af242479e138ebb5-b7/s250x400/0ae44314718913f10b6011d58c992904f8ed2bf1.jpg"],
+["book", ["A Beautifully Foolish Endeavor"], "2020", [["2024 01 08", "2024 04 16"]], 9, ["eng"], ["sci-fi"], [], [], ["Hank Green"], [], "https://64.media.tumblr.com/a6136f23c0182fd31c170d091160e1d4/af242479e138ebb5-b7/s250x400/0ae44314718913f10b6011d58c992904f8ed2bf1.jpg"],
 
 ["series", ["Frieren: Beyond Journey's End", "Frieren - Nach dem Ende der Reise", "Sousou no Frieren"], "2023", [["2024 01 08", "", "S1"]], 0, ["ger"], ["anime", "adventure", "fantasy"], ["bini", "nico"], ["watching"], ["Tsukasa Abe", "Tomohiro Suzuki"], [], "https://64.media.tumblr.com/26357b76568d308665a10651d24595b8/d4726f88c54001b6-9a/s250x400/3753e1bff62b46171a8d43b57d3770b51338f48f.jpg"],
 
