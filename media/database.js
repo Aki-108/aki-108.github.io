@@ -2866,7 +2866,7 @@ var database = [
 
 ["book", ["A Beautifully Foolish Endeavor"], "2020", [["2024 01 08", "2024 04 16"]], 9, ["eng"], ["sci-fi"], [], [], ["Hank Green"], [], "https://64.media.tumblr.com/a6136f23c0182fd31c170d091160e1d4/af242479e138ebb5-b7/s250x400/0ae44314718913f10b6011d58c992904f8ed2bf1.jpg"],
 
-["series", ["Frieren: Beyond Journey's End", "Frieren - Nach dem Ende der Reise", "Sousou no Frieren"], "2023", [["2024 01 08", "", "S1"]], 0, ["ger"], ["anime", "adventure", "fantasy"], ["bini", "nico"], ["watching"], ["Tsukasa Abe", "Tomohiro Suzuki"], [], "https://64.media.tumblr.com/26357b76568d308665a10651d24595b8/d4726f88c54001b6-9a/s250x400/3753e1bff62b46171a8d43b57d3770b51338f48f.jpg"],
+["series", ["Frieren: Beyond Journey's End", "Frieren - Nach dem Ende der Reise", "Sousou no Frieren"], "2023", [["2024 01 08", "2024 04 23", "S1"]], 8, ["ger"], ["anime", "adventure", "fantasy"], ["bini", "nico"], [], ["Tsukasa Abe", "Tomohiro Suzuki"], [], "https://64.media.tumblr.com/26357b76568d308665a10651d24595b8/d4726f88c54001b6-9a/s250x400/3753e1bff62b46171a8d43b57d3770b51338f48f.jpg"],
 
 ["film", ["Mein Ende. Dein Anfang."], "2019", ["2024 01 14"], 6, ["ger"], ["drama"], [], ["bibliothek"], ["Mariko Minoguchi"], ["Julius Feldmeier", "Michelle Barthel", "Anna Drexler"], "https://64.media.tumblr.com/2b4e8039a02c9adebd87489533cb2ef9/8e80cfe71c7be55a-e3/s250x400/f55d945cff8cde980a11a96f70421546a229aba3.jpg"],
 
