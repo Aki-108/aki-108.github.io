@@ -2944,7 +2944,7 @@ var database = [
 
 ["film", ["The New Adventures of Pippi Longstocking", "Pippi Langstrumpfs neueste Streiche"], "1988", ["2024 03 24"], 6, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Ken Annakin"], [], "https://64.media.tumblr.com/1880804fb156295dc405d5a43a8e0d2d/d40282f55f781955-25/s250x400/93bf6ee88b47d519f7813e6ed8fdc16f69b157d4.jpg"],
 
-["series", ["One Piece"], "2023", [["2024 03 27", "", "S1"]], 0, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Netflix", "watching"], ["Lindsay Gelfand", "Tom Hyndman"], ["Emily Rudd"], "https://64.media.tumblr.com/2083187393e14599417910e3b7ead83e/13c6833d70ef5baa-57/s250x400/12e03aaa5c2fd2c936ecb3254e92767d6c570f1d.jpg"],
+["series", ["One Piece"], "2023", [["2024 03 27", "2024 04 24", "S1"]], 8, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Netflix"], ["Lindsay Gelfand", "Tom Hyndman"], ["Emily Rudd"], "https://64.media.tumblr.com/2083187393e14599417910e3b7ead83e/13c6833d70ef5baa-57/s250x400/12e03aaa5c2fd2c936ecb3254e92767d6c570f1d.jpg"],
 
 ["film", ["Missing"], "2023", ["2024 03 28"], 8, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Nicholas D. Johnson", "Will Merrick"], ["Ken Leung", "Megan Suri"], "https://64.media.tumblr.com/b689c8c977ecf300b958e8f906072195/19fe6e4ad2ee826c-88/s250x400/c9257deebff880590d84a9777b31be18155037ae.jpg"],
 
