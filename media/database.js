@@ -303,7 +303,7 @@ var database = [
 	        
 ["film", ["Mary and the Witch's Flower", "Mary und die Blume der Hexen"], "2017", ["2018 09 16", "2020 05 30"], 7, ["ger"], ["anime", "adventure", "fantasy", "magic"], ["jessie", "bini"], ["Kino"], ["Hiromasa Yonebayashi", "Giles New"], [], "https://66.media.tumblr.com/488bb63b833cdae503b4808199fb2793/056621b7d0317fd8-e3/s250x400/681e38786b8a993803ed50b8c2bd8ede83b50443.jpg"],
 	        
-["film", ["Incredibles 2", "Die Unglaublichen 2"], "2018", ["2018 10 03", "2021 12 12"], 9, ["ger"], ["animation", "action"], ["bini", "syl", "je"], ["Kino", "Disney+"], ["Brad Bird"], [], "https://66.media.tumblr.com/f53783d0216f90049e0d16e21bceb5c3/ab6fe84773d9f443-3e/s250x400/7dd8c0b91e691270c3ccfea386f1be575d81ad4e.jpg"],
+["film", ["Incredibles 2", "Die Unglaublichen 2"], "2018", ["2018 10 03", "2021 12 12", "2024 04 27"], 9, ["ger"], ["animation", "action"], ["bini", "syl", "je"], ["Kino", "Disney+"], ["Brad Bird"], [], "https://66.media.tumblr.com/f53783d0216f90049e0d16e21bceb5c3/ab6fe84773d9f443-3e/s250x400/7dd8c0b91e691270c3ccfea386f1be575d81ad4e.jpg"],
 	        
 ["film", ["Moana", "Vaiana - Das Paradies hat einen Haken"], "2016", ["2019 01 12"], 7, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Ron Clements", "John Musker", "Don Hall"], [], "https://66.media.tumblr.com/a02e2a8ed04dc229ec61995a4802d3e4/ba5b0a9895db30ce-bf/s250x400/054cbd04c4fa1743f964303f83ae279c0b546143.jpg"],
 	        
