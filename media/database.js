@@ -269,7 +269,7 @@ var database = [
 	        
 ["audiobook", ["Harry Potter and the Philosopher's Stone", "Harry Potter und der Stein der Weisen"], "1997", [["2020 04 06", "2020 04 09"], ["2024 04 06", "2024 04 17"]], 6, ["eng", "ger"], ["fantasy"], ["bini", "je"], ["Harry Potter", "bibliothek"], ["J. K. Rowling"], ["Rufus Beck"], "https://66.media.tumblr.com/64f165cb5e2e4c9d2e1bead3cfcd97a7/346e79630c860467-3b/s250x400/6eb5f3e57ef1e42074360b06f89021ce61c4d10c.jpg"],
 	        
-["audiobook", ["Harry Potter and the Chamber of Secrets", "Harry Potter und die Kammer des Schreckens"], "1998", [["2020 04 14", "2020 04 16"]], 8, ["eng"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], ["Rufus Beck"], "https://66.media.tumblr.com/e86674abc78e31b494c0eaa2e62cde5f/fa58b33070ccf734-3e/s250x400/f6c19f8c41fa2c37f5a15a6f09b53c7680524067.jpg"],
+["audiobook", ["Harry Potter and the Chamber of Secrets", "Harry Potter und die Kammer des Schreckens"], "1998", [["2020 04 14", "2020 04 16"], ["2024 04 19", ""]], 8, ["eng", "ger"], ["fantasy"], [], ["Harry Potter", "bibliothek", "watching"], ["J. K. Rowling"], ["Rufus Beck"], "https://66.media.tumblr.com/e86674abc78e31b494c0eaa2e62cde5f/fa58b33070ccf734-3e/s250x400/f6c19f8c41fa2c37f5a15a6f09b53c7680524067.jpg"],
 	        
 ["audiobook", ["Harry Potter and the Prisoner of Azkaban", "Harry Potter und der Gefangene von Askaban"], "1999", [["2020 04 16", "2020 04 20"], ["2024 04 18", "2024 04 21"]], 7, ["eng", "ger"], ["fantasy"], ["bini", "je"], ["Harry Potter", "bibliothek"], ["J. K. Rowling"], ["Rufus Beck"], "https://66.media.tumblr.com/78fbdc3412e763a17de094424ce355e7/9862fefdfb24969d-49/s250x400/6c0a3289da29b8ba63c7df54d9ea48d8e6ae6cd8.jpg"],
 	        
