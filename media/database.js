@@ -2954,9 +2954,11 @@ var database = [
 
 ["film", ["Are You There God? It's Me, Margaret.", "Bist du da, Gott? Ich bin's, Margaret"], "2023", ["2024 04 11"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Kelly Fremon Craig"], ["Rachel McAdams"], "https://64.media.tumblr.com/e59e3797fe0e5a947ec470c4ac6cf2dc/283dfb441da0dde5-6b/s250x400/88228dd51c64cd2673d9d7e1ebc072a8c14f4ab9.jpg"],
 
-["book", ["Pippa - Mein (ganzes) Leben steht Kopf"], "2016", [["2024 04 17", ""]], 0, ["ger"], ["slice of life"], [], ["bibliothek", "watching"], ["Barbara Tammes"], [], "https://64.media.tumblr.com/c50690b9c2d8ac03cfff2a92b45e31fa/38e4f79387270999-04/s250x400/b6a16dd6ac33673c4010e31bcd87f31528264d48.jpg"],
+["book", ["Pippa - Mein (ganzes) Leben steht Kopf"], "2016", [["2024 04 17", "2024 04 30"]], 7, ["ger"], ["slice of life"], [], ["bibliothek"], ["Barbara Tammes"], [], "https://64.media.tumblr.com/c50690b9c2d8ac03cfff2a92b45e31fa/38e4f79387270999-04/s250x400/b6a16dd6ac33673c4010e31bcd87f31528264d48.jpg"],
 
-["film", ["The Giver", "Hüter der Erinnerung - The Giver"], "2014", ["2024 04 23"], 8, ["ger"], ["drama", "romance"], [], ["bibliothek"], ["Phillip Noyce"], ["Jeff Bridges", "Meryl Streep", "Odeya Rush"], "https://64.media.tumblr.com/d66627d54ede43e7dd7892a4549d3cff/aaeab66a8bd4726e-6a/s250x400/44b6f335d35c8ad616f835046b3c98611a321587.jpg"]
+["film", ["The Giver", "Hüter der Erinnerung - The Giver"], "2014", ["2024 04 23"], 8, ["ger"], ["drama", "romance"], [], ["bibliothek"], ["Phillip Noyce"], ["Jeff Bridges", "Meryl Streep", "Odeya Rush"], "https://64.media.tumblr.com/d66627d54ede43e7dd7892a4549d3cff/aaeab66a8bd4726e-6a/s250x400/44b6f335d35c8ad616f835046b3c98611a321587.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Die blauen Pudel des Sir Theodore"], "2018", [["2024 04 30", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1432c3b1407eea110f41c3e7b1c8dcaa/fc046d1d6e3ae34b-fd/s250x400/e70ca62c09d1bf3ef73be4a04faef382f275cd48.jpg"]
 
 /*
 ,
