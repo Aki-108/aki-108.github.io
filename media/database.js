@@ -548,7 +548,7 @@ var database = [
 	        
 ["film", ["Nausicaä of the Valley of the Wind", "Nausicaä - Prinzessin aus dem Tal der Winde", "Kaze no tani no Naushika"], "1984", ["2015 11 28", "2016 04 22", "2017 01 25", "2018 03 28", "2019 02 22", "2021 05 15"], 10, ["ger", "eng"], ["anime", "adventure"], ["bini", "mai"], ["fav", "Ghibli", "Netflix"], ["Hayao Miyazaki"], [], "https://49.media.tumblr.com/88924fe72fd0946794f8eb060337d51f/tumblr_o650uy0P9B1v2s5upo1_250.jpg"],
 	        
-["film", ["The Breakfast Club", "Der Frühstücksclub"], "1985", ["2015 11 11", "2016 03 24", "2016 10 08", "2019 03 31", "2022 03 11"], 10, ["ger", "eng"], ["comedy", "drama"], ["bini", "nico", "sai", "syl"], ["Schule", "bby"], ["John Hughes"], ["Molly Ringwald", "Paul Gleason"], "https://40.media.tumblr.com/48d4ae2ab7ffb3b3fc7ac1af5bd5329e/tumblr_o4l8hmypvm1v2s5upo1_250.jpg"],
+["film", ["The Breakfast Club", "Der Frühstücksclub"], "1985", ["2015 11 11", "2016 03 24", "2016 10 08", "2019 03 31", "2022 03 11", "2024 05 01"], 10, ["ger", "eng"], ["comedy", "drama"], ["bini", "nico", "sai", "syl", "jessie"], ["Schule", "bby", "DVD"], ["John Hughes"], ["Molly Ringwald", "Paul Gleason"], "https://40.media.tumblr.com/48d4ae2ab7ffb3b3fc7ac1af5bd5329e/tumblr_o4l8hmypvm1v2s5upo1_250.jpg"],
 	        
 ["film", ["Inside Out", "Alles steht Kopf"], "2015", ["2015 11 01", "2016 06 03", "2017 04 13"], 9, ["ger"], ["animation", "adventure"], ["jani", "nico"], ["Kino"], ["Pete Docter", "Ronnie Del Carmen"], [], "https://66.media.tumblr.com/a840925f557f695bd1b80d95fa381fdd/tumblr_pwvsgw1Q9d1v2s5upo1_250.jpg"],
 	        
