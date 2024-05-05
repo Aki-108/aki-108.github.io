@@ -371,7 +371,7 @@ var database = [
 	        
 ["series", ["The Gay and Wondrous Life of Caleb Gallo"], "2016", [["2017 11 13", "S1"]], 9, ["eng"], ["comedy"], [], ["LGBT"], ["Brian Jordan Alvarez"], ["Stephanie Koenig"], "https://66.media.tumblr.com/97c1954bda4e7b0b57b0319e5e81122b/2f29f380c419c57b-6e/s250x400/699fdf7706dedfa3e63fc76ba474408ea3e3fd06.jpg"],
 	        
-["series", ["Sense8"], ["2015", "2018"], [["2017 11 22", "2017 12 06", "S1"], ["2021 12 08", "2018 01 08", "S2E1-E11"], ["2018 06 20", "S2E12"]], 10, ["ger"], ["drama", "mystery", "sci-fi"], [], ["Netflix", "LGBT"], ["J. Michael Straczynski", "Lana Wachowski", "Lilly Wachowski"], ["Doona Bae", "Jamie Clayton", "Tina Desai", "Tuppence Middleton", "Miguel Ángel Silvestre", "Brian J. Smith", "Naveen Andrews", "Lucas Jade Zumann", "Adam Shapiro", "Max Riemelt", "Daryl Hannah", "Max Mauff", "Martin Wuttke"], "https://66.media.tumblr.com/fe621b191d84e2bbe1aba5ebe2a07f66/09a111a49814a1f3-e9/s250x400/d3d1227dfa741e11309c553ea5b18b6c97ca4d8a.jpg"],
+["series", ["Sense8"], ["2015", "2018"], [["2017 11 22", "2017 12 06", "S1"], ["2021 12 08", "2018 01 08", "S2E1-E11"], ["2018 06 20", "S2E12"]], 10, ["ger"], ["drama", "mystery", "sci-fi"], [], ["Netflix", "LGBT"], ["J. Michael Straczynski", "Lana Wachowski", "Lilly Wachowski"], ["Doona Bae", "Jamie Clayton", "Tina Desai", "Tuppence Middleton", "Miguel Ángel Silvestre", "Brian J. Smith", "Naveen Andrews", "Lucas Jade Zumann", "Adam Shapiro", "Max Riemelt", "Daryl Hannah", "Max Mauff", "Martin Wuttke", "Rainer Reiners"], "https://66.media.tumblr.com/fe621b191d84e2bbe1aba5ebe2a07f66/09a111a49814a1f3-e9/s250x400/d3d1227dfa741e11309c553ea5b18b6c97ca4d8a.jpg"],
 	        
 ["series", ["Dark"], ["2017", "2020"], [["2017 12 22", "2018 01 14", "S1"], ["2019 08 02", "2019 08 19", "S2"]], 9, ["ger"], ["crime", "drama", "sci-fi"], ["bini", "syl"], ["Netflix", "dropped"], ["Baran bo Odar", "Jantje Friese"], ["Lisa Vicari", "Louis Hofmann", "Carina Wiese", "Jördis Triebel", "Oliver Masucci", "Moritz Jahn", "Katharina Spiering", "Lea van Acken"], "https://66.media.tumblr.com/531d646040cf4d9601928b8831aa7245/09369d9c4c925cd5-a5/s250x400/1a50d68dc6061c00c9275c2b1625fed0831e9d47.jpg"],
 	        
@@ -1098,7 +1098,7 @@ var database = [
 	        
 ["film", ["Kal Ho Naa Ho", "Indian Love Story - Kal Ho Naa Ho"], "2003", ["2015 10 13", "2021 12 30"], 7, ["ger"], ["comedy", "drama", "bollywood"], ["bini"], ["DVD"], ["Nikkhil Advani"], ["Shah Rukh Khan", "Sonali Bendre"], "https://66.media.tumblr.com/fa97aade2783dadd0e6f37e80ee9d2f7/tumblr_ppxzwbAISQ1v2s5upo1_250.jpg"],
 	        
-["film", ["The Taste of Apple Seeds", "Der Geschmack von Apfelkernen"], "2013", ["2015 10 16"], 5, ["ger"], ["drama"], [], [], ["Vivian Naefe"], ["Hannah Herzsprung"], "https://68.media.tumblr.com/e6ca21b973e84d36883546c9f0dc5c43/tumblr_oov2lnvYGR1v2s5upo1_250.jpg"],
+["film", ["The Taste of Apple Seeds", "Der Geschmack von Apfelkernen"], "2013", ["2015 10 16"], 5, ["ger"], ["drama"], [], [], ["Vivian Naefe"], ["Hannah Herzsprung", "Zoe Moore"], "https://68.media.tumblr.com/e6ca21b973e84d36883546c9f0dc5c43/tumblr_oov2lnvYGR1v2s5upo1_250.jpg"],
 	        
 ["film", ["Jonas"], "2011", ["2015 10 17"], 1, ["ger"], ["comedy"], [], [], ["Robert Wilde"], [], "https://66.media.tumblr.com/159854b4ad7473e81b684f0b61661b61/tumblr_pvnt77Yaa71v2s5upo1_250.jpg"],
 	        
@@ -1304,7 +1304,7 @@ var database = [
 	        
 ["film", ["Hush", "Still"], "2016", ["2018 06 26"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Mike Flanagan"], ["James Flanagan"], "https://66.media.tumblr.com/80e3a1b9fff0084cd34701f871adcd85/tumblr_pzpvznTPCq1v2s5upo1_250.jpg"],
 	        
-["film", ["Freche Mädchen"], "2008", ["2018 06 18"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Anke Engelke", "Anna Böttcher", "Christian Tramitz", "Wilson Gonzalez", "Gerda Böken", "Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel"], "https://66.media.tumblr.com/8faea0ec081e5bd5cf57b650c4ca294d/tumblr_pzktvjfw161v2s5upo1_250.jpg"],
+["film", ["Freche Mädchen"], "2008", ["2018 06 18"], 6, ["ger"], ["comedy", "drama"], [], ["Freche Mädchen", "Netflix"], ["Ute Wieland"], ["Anke Engelke", "Anna Böttcher", "Christian Tramitz", "Wilson Gonzalez", "Gerda Böken", "Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel"], "https://66.media.tumblr.com/8faea0ec081e5bd5cf57b650c4ca294d/tumblr_pzktvjfw161v2s5upo1_250.jpg"],
 	        
 ["film", ["Dude"], "2018", ["2018 05 16"], 6, ["ger"], ["comedy", "drama"], [], [], ["Olivia Milch"], ["Kathryn Prescott", "Awkwafina", "Alex Wolff", "Alexandra Shipp"], "https://66.media.tumblr.com/702308077be02f4b8fa5db3a9615e29d/tumblr_pzfebsZgCo1v2s5upo1_250.jpg"],
 	        
@@ -2231,7 +2231,7 @@ var database = [
 
 ["film", ["Barbie as the Princess and the Pauper", "Barbie als die Prinzessin und das Dorfmädchen"], "2004", ["2022 05 15"], 4, ["ger"], ["animation", "comedy"], ["bini"], ["Barbie"], ["William Lau"], [], "https://64.media.tumblr.com/00fab86fabab0c0afeceaf71b96a095e/367e3e1f7dbd1955-43/s250x400/8a7581a40b3d167fac12f7db960b1e0d43227347.jpg"],
 
-["series", ["Inventing Anna"], "2022", [["2022 05 16", "2022 06 10", "S1"]], 6, ["ger"], ["drama"], [], ["Netflix"], ["Carolyn Ingber", "Carolyn Ingber", "Nicholas Nardini"], ["Laverne Cox", "Caitlin FitzGerald"], "https://64.media.tumblr.com/cb01cf9b83dcf886eda4561f5cc72ec9/9ecbed59f65c1244-02/s250x400/7c85955cda88ca4d587136485d295a1859145dc5.jpg"],
+["series", ["Inventing Anna"], "2022", [["2022 05 16", "2022 06 10", "S1"]], 6, ["ger"], ["drama"], [], ["Netflix"], ["Carolyn Ingber", "Carolyn Ingber", "Nicholas Nardini"], ["Laverne Cox", "Caitlin FitzGerald", "Rainer Reiners"], "https://64.media.tumblr.com/cb01cf9b83dcf886eda4561f5cc72ec9/9ecbed59f65c1244-02/s250x400/7c85955cda88ca4d587136485d295a1859145dc5.jpg"],
 
 ["film", ["Freaks: You're One of Us", "Freaks - Du bist eine von uns"], "2020", ["2022 05 16"], 6, ["ger"], ["action", "drama"], [], ["Netflix"], ["Felix Binder"], ["Tim Oliver Schultz", "Wotan Wilke Möhring", "Daniel Zillmann"], "https://64.media.tumblr.com/11916506c255711cdc60b10c0381c229/2521ff8a2d6612d3-83/s250x400/4c89c54e4a13d0d94e864d2599f8f64f0787b26f.jpg"],
 
@@ -2337,7 +2337,7 @@ var database = [
 
 ["film", ["Turning Red", "Rot"], "2022", ["2022 08 01"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl"], ["Disney+"], ["Domee Shi"], [], "https://64.media.tumblr.com/455c642f339aaf38215ad334054d8c4b/454a4340d4d2d671-28/s250x400/b19aa66857ac32e59a77f5b47683dbaa22fc2286.jpg"],
 
-["film", ["Freche Mädchen 2"], "2010", ["2022 08 02"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Ute Wieland"], ["Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel", "Anke Engelke"], "https://64.media.tumblr.com/4426bcb3a3e341d055d9d7a72cf1d10b/286d77f0c07a7261-6a/s250x400/1afcf23b6b986b7865e97edac5f168faa8a5a888.jpg"],
+["film", ["Freche Mädchen 2"], "2010", ["2022 08 02"], 5, ["ger"], ["comedy", "drama"], [], ["Freche Mädchen", "Netflix"], ["Ute Wieland"], ["Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel", "Anke Engelke"], "https://64.media.tumblr.com/4426bcb3a3e341d055d9d7a72cf1d10b/286d77f0c07a7261-6a/s250x400/1afcf23b6b986b7865e97edac5f168faa8a5a888.jpg"],
 
 ["film", ["Encanto"], "2021", ["2022 08 02", "2022 10 22", "2024 01 02"], 9, ["ger", "eng"], ["animation", "comedy"], ["bini"], ["Disney+"], ["Jared Bush", "Byron Howard", "Charise Castro Smith"], [], "https://64.media.tumblr.com/5f9c13c7445e01de7b382aaae6a31921/4495bb7c932a9f0b-36/s250x400/d129a608a68b4bda3d6ea00d784810ff186f3b04.jpg"],
 
@@ -2527,7 +2527,7 @@ var database = [
 
 ["film", ["Barbie Mariposa and Her Butterfly Fairy Friends"], "2008", ["2023 02 18"], 4, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Conrad Helten"], [], "https://64.media.tumblr.com/971ef4d35f41dc6f075601cd772e74b7/1ba642a7315f0465-4f/s250x400/29c291eee5ca881c938b44379bde74f2be6eb97f.jpg"],
 
-["film", ["Suck Me Shakespeer", "Fack ju Göhte"], "2013", ["2023 02 18"], 8, ["ger"], ["comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Karoline Herfurth", "Katja Riemann", "Jana Pallaske", "Alwara Höfels", "Jella Haase", "Gizem Emre", "Lena Klenke", "Max von der Groeben"], "https://64.media.tumblr.com/7795bba0b0b61bc22748402c46c7bf04/aa6ac7c6aa7708d3-8c/s250x400/a986960e043a8b399dc0fb5a6dd0019bd1a208be.jpg"],
+["film", ["Suck Me Shakespeer", "Fack ju Göhte"], "2013", ["2023 02 18"], 8, ["ger"], ["comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Karoline Herfurth", "Katja Riemann", "Jana Pallaske", "Alwara Höfels", "Jella Haase", "Gizem Emre", "Lena Klenke", "Max von der Groeben", "Margarita Broich"], "https://64.media.tumblr.com/7795bba0b0b61bc22748402c46c7bf04/aa6ac7c6aa7708d3-8c/s250x400/a986960e043a8b399dc0fb5a6dd0019bd1a208be.jpg"],
 
 ["series", ["Bleach: Thousand Year Blood War", "Bleach: Thousand Year Blood War", "Bleach: Sennen Kessen-hen"], ["2023", ""], [["2023 02 22", "2023 03 29", "S1"]], 5, ["eng"], ["anime", "action"], ["bini", "nico"], ["Disney+", "ongoing"], ["Tite Kubo"], [], "https://64.media.tumblr.com/3197f63ea8fb194f83135447825f4c14/46149f0dc648c47e-7d/s250x400/e1910ca4cb8f2fb81631bacb1fdf22a37997a8fb.jpg"],
 
@@ -2848,7 +2848,7 @@ var database = [
 
 ["film", ["Anne of Green Gables", "Anne auf Green Gables"], "2016", ["2023 12 27"], 7, ["ger"], ["drama", "family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/741bd2efb6f4165f17c8e1f8178377b8/fa1f5baacdd17d51-0a/s250x400/8d3df864719794cea3da81b6a2ba848c5b64f018.jpg"],
 
-["series", ["Kleo"], "2022", [["2023 12 27", "2023 12 29", "S1"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
+["series", ["Kleo"], "2022", [["2023 12 27", "2023 12 29", "S1"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier", "Rainer Reiners"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
 
 ["film", ["L.M. Montgomery's Anne of Green Gables: The Good Stars", "Anne auf Green Gables - Teil 2"], "2017", ["2023 12 28"], 6, ["ger"], ["family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/f456d80c9f445631f7c81332e4cac7bf/ad0bfc3b3c9de16b-b9/s250x400/9734f1cc7e57cf6b7abd640f4821d74e5694a691.jpg"],
 
@@ -2958,7 +2958,11 @@ var database = [
 
 ["film", ["The Giver", "Hüter der Erinnerung - The Giver"], "2014", ["2024 04 23"], 8, ["ger"], ["drama", "romance"], [], ["bibliothek"], ["Phillip Noyce"], ["Jeff Bridges", "Meryl Streep", "Odeya Rush"], "https://64.media.tumblr.com/d66627d54ede43e7dd7892a4549d3cff/aaeab66a8bd4726e-6a/s250x400/44b6f335d35c8ad616f835046b3c98611a321587.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Die blauen Pudel des Sir Theodore"], "2018", [["2024 04 30", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1432c3b1407eea110f41c3e7b1c8dcaa/fc046d1d6e3ae34b-fd/s250x400/e70ca62c09d1bf3ef73be4a04faef382f275cd48.jpg"]
+["audiobook", ["Tee? Kaffee? Mord! - Die blauen Pudel des Sir Theodore"], "2018", [["2024 04 30", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1432c3b1407eea110f41c3e7b1c8dcaa/fc046d1d6e3ae34b-fd/s250x400/e70ca62c09d1bf3ef73be4a04faef382f275cd48.jpg"],
+
+["book", ["Herzkribbeln im Gepäck"], "2006", [["2024 05 01", ""]], 0, ["ger"], ["young adult"], [], ["Freche Mädchen", "bibliothek", "watching"], ["Sabine Both"], [], "https://64.media.tumblr.com/d28917f892e5292b41187851fe290d95/39afa25c259eb1d9-4e/s400x600/4323f4a4ae470588b1fddaa8cdbea0c63caae946.jpg"],
+
+["film", ["Max Minsky and Me", "Max Minsky und ich"], "2007", ["2024 05 05"], 7, ["ger"], ["comedy", "romance"], [], ["bibliothek"], ["Anna Justice"], ["Zoe Moore", "Jan Josef Liefers", "Carina Wiese", "Rainer Reiners", "Margarita Broich"], "https://64.media.tumblr.com/18051579d87e87700d3910fa11ee1d9b/7df0ae85120295aa-da/s250x400/8a4b324e5fd431c2ca8ab43abbc01d158719488e.jpg"]
 
 /*
 ,
