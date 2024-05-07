@@ -772,7 +772,7 @@ var database = [
 	        
 ["film", ["Mortdecai", "Mortdecai - Der Teilzeitgauner"], "2015", ["2017 06 02"], 6, ["ger"], ["action", "adventure"], ["syl"], [], ["David Koepp"], ["Johnny Depp", "Gwyneth Paltrow", "Jeff Goldblum"], "https://68.media.tumblr.com/e9fdb1b27e365a3858ba2d95fd157732/tumblr_os7wilOFWX1v2s5upo1_250.jpg"],
 	        
-["film", ["Shrek 2", "Shrek 2 - Der tollkühne Held kehrt zurück"], "2004", ["2017 05 01", "2018 09 17"], 7, ["ger"], ["animation", "adventure", "comedy"], [], ["Netflix", "Shrek"], ["Andrew Adamson", "Kelly Asbury", "Conrad Vernon"], [], "https://68.media.tumblr.com/e23642a17742f11ff60c8655c6ea5600/tumblr_oqu1cffUwd1v2s5upo1_250.jpg"],
+["film", ["Shrek 2", "Shrek 2 - Der tollkühne Held kehrt zurück"], "2004", ["2017 05 01", "2018 09 17", "2024 05 07"], 7, ["ger"], ["animation", "adventure", "comedy"], [], ["Netflix", "Shrek"], ["Andrew Adamson", "Kelly Asbury", "Conrad Vernon"], [], "https://68.media.tumblr.com/e23642a17742f11ff60c8655c6ea5600/tumblr_oqu1cffUwd1v2s5upo1_250.jpg"],
 	        
 ["film", ["Arrival"], "2016", ["2017 04 23"], 8, ["ger"], ["drama", "mystery", "sci-fi"], [], [], ["Denis Villeneuve"], ["Amy Adams", "Jeremy Renner"], "https://68.media.tumblr.com/d2d8214d708299c7122cd40bdc6c788c/tumblr_oovk0rrHb11v2s5upo1_250.jpg"],
 	        
@@ -816,7 +816,7 @@ var database = [
 	        
 ["film", ["Edge of Tomorrow", "Edge of Tomorrow - Live. Die. Repeat"], "2014", ["2017 01 10", "2021 12 17"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix"], ["Doug Liman"], ["Tom Cruise", "Emily Blunt", "Noah Taylor", "Hillary Clinton", "Lara Pulver"], "https://68.media.tumblr.com/9b746359461b357738288b49fe826bd4/tumblr_ojmer7q46Q1v2s5upo1_250.jpg"],
 	        
-["film", ["Shrek", "Shrek - Der tollkühne Held"], "2001", ["2017 01 02", "2018 09 17"], 6, ["ger"], ["animation", "adventure"], [], ["Netflix", "Shrek"], ["Andrew Adamson", "Vicky Jenson"], [], "https://68.media.tumblr.com/d606e296abec939adf2de3e1a897f8a9/tumblr_oj5w7jmq3Q1v2s5upo1_250.jpg"],
+["film", ["Shrek", "Shrek - Der tollkühne Held"], "2001", ["2017 01 02", "2018 09 17", "2024 05 07"], 7, ["ger"], ["animation", "adventure"], [], ["Netflix", "Shrek"], ["Andrew Adamson", "Vicky Jenson"], [], "https://68.media.tumblr.com/d606e296abec939adf2de3e1a897f8a9/tumblr_oj5w7jmq3Q1v2s5upo1_250.jpg"],
 	        
 ["film", ["Mr. Magorium's Wonder Emporium", "Mr. Magoriums Wunderladen"], "2007", ["2016 12 29"], 6, ["ger"], ["comedy", "family"], [], [], ["Zach Helm"], ["Dustin Hoffman", "Jason Bateman"], "https://68.media.tumblr.com/7cff0890eacf1cecdb6fc02b85df87f3/tumblr_oiyn496nsc1v2s5upo1_250.jpg"],
 	        
@@ -2199,7 +2199,7 @@ var database = [
 
 ["film", ["Suck Me Shakespeer 2", "Fack ju Göhte 2"], "2015", ["2022 04 16"], 7, ["ger"], ["comedy"], ["bini"], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Jella Haase", "Karoline Herfurth", "Katja Riemann", "Gizem Emre", "Jana Pallaske", "Alwara Höfels", "Max von der Groeben"], "https://64.media.tumblr.com/24bfc2000ddb0f5322d8f9d6fc81d329/a4ab170a940b97de-db/s250x400/85083d66274e9050a9af2027bcf8715558a114bd.jpg"],
 
-["film", ["The Peppercorns and the Curse of the Black King", "Die Pfefferkörner und der Fluch des schwarzen Königs"], "2017", ["2022 04 17"], 4, ["ger"], ["adventure", "comedy"], ["bini"], [], ["Christian Theede"], ["Anna Böttcher"], "https://64.media.tumblr.com/fb8771ae098d3d5955d29551e8e2592c/8ae29a96e4b801f9-45/s250x400/927a6f74d420e913e2ea955e41f144391db0ad75.jpg"],
+["film", ["The Peppercorns and the Curse of the Black King", "Die Pfefferkörner und der Fluch des schwarzen Königs"], "2017", ["2022 04 17"], 4, ["ger"], ["adventure", "comedy"], ["bini"], ["Die Pfefferkörner"], ["Christian Theede"], ["Anna Böttcher"], "https://64.media.tumblr.com/fb8771ae098d3d5955d29551e8e2592c/8ae29a96e4b801f9-45/s250x400/927a6f74d420e913e2ea955e41f144391db0ad75.jpg"],
 
 ["film", ["Pixel Perfect", "Der perfekte Rockstar"], "2004", ["2022 04 17"], 4, ["eng"], ["family", "sci-fi"], [], ["Disney+"], ["Mark A.Z. Dippé"], ["Brett Cullen", "Tania Gunadi"], "https://64.media.tumblr.com/e8869ae128277ac83f50e377d1dd7ff6/cc2d76ff04dd00db-87/s250x400/e5011576d620d1360f00cd040b4dcd84aa6d9cea.jpg"],
 
@@ -2451,7 +2451,7 @@ var database = [
 
 ["film", ["Slumberland", "Schlummerland"], "2022", ["2022 12 18"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Francis Lawrence"], ["Jason Momoa", "Kyle Chandler"], "https://64.media.tumblr.com/58299a55cf8ed36835024a3742ca1cd5/4cad4d54c91d6237-f7/s250x400/2acc5d66adb62bb5cbba2f40a5ad81c1d53ff7e1.jpg"],
 
-["film", ["About a Girl"], "2014", ["2022 12 18"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Mark Monheim"], ["Heike Makatsch", "Katharina Spiering"], "https://64.media.tumblr.com/bd65711cc46879faa7d65b11ee6833b7/a79aa342df23862c-0e/s250x400/96658ce7ea5d9f97d795fca55a7fdf618b6ccb6d.jpg"],
+["film", ["About a Girl"], "2014", ["2022 12 18"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Mark Monheim"], ["Heike Makatsch", "Katharina Spiering", "Jasna Fritzi Bauer"], "https://64.media.tumblr.com/bd65711cc46879faa7d65b11ee6833b7/a79aa342df23862c-0e/s250x400/96658ce7ea5d9f97d795fca55a7fdf618b6ccb6d.jpg"],
 
 ["film", ["Roald Dahl's Matilda the Musical", "Matilda - Das Musical"], "2022", ["2022 12 25"], 6, ["eng"], ["comedy", "musical"], [], ["Netflix"], ["Matthew Warchus"], ["James Dryden"], "https://64.media.tumblr.com/a099fea054157faaa164449f636e8a64/2f7a2a30ed9c4047-9e/s250x400/07084a68c1b0ebdb5a8a1f6c936da80d155ec175.jpg"],
 
@@ -2613,7 +2613,7 @@ var database = [
 
 ["audiobook", ["Gerade war der Himmel noch blau"], "2017", [["2023 05 02", "2023 05 10"]], 7, ["ger"], [], [], ["bibliothek"], ["Florian Illies"], ["Ulrich Noethen"], "https://64.media.tumblr.com/d543531beabd7144d6d3939395c96826/ebc9b1915ba7d171-b7/s400x600/30a124f1048cf49dcd91a907d100f2bb9a22717f.jpg"],
 
-["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"], ["2023 05 17", "2023 06 10", "S8"], ["2023 06 11", "2023 06 20", "S9"], ["2023 07 08", "2023 08 03", "S10"], ["2023 09 30", "2023 10 10", "S11"], ["2023 10 11", "2023 11 06", "S12"], ["2023 11 07", "2023 12 07", "S13"], ["2024 01 08", "2024 02 12", "S17"], ["2024 02 12", "2024 05 05", "S18"]], 6, ["ger"], ["crime", "family"], [], [], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
+["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"], ["2023 05 17", "2023 06 10", "S8"], ["2023 06 11", "2023 06 20", "S9"], ["2023 07 08", "2023 08 03", "S10"], ["2023 09 30", "2023 10 10", "S11"], ["2023 10 11", "2023 11 06", "S12"], ["2023 11 07", "2023 12 07", "S13"], ["2024 01 08", "2024 02 12", "S17"], ["2024 02 12", "2024 05 05", "S18"]], 6, ["ger"], ["crime", "family"], [], ["Die Pfefferkörner"], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
 /*S7: 5; S8: 6; S10: 6*/
 	
 ["film", ["Pom Poko", "Pom Poko", "Heisei tanuki gassen ponpoko"], "1994", ["2023 05 06"], 6, ["ger"], ["anime", "comedy"], ["bini", "mai"], ["Netflix"], ["Isao Takahata"], [], "https://64.media.tumblr.com/1beb8edfc26020a43aed81edc4e21332/dafcc2886aafff4c-bd/s250x400/77c4a5b5ad990b573aa847915d50a006325e049a.jpg"],
@@ -2848,7 +2848,7 @@ var database = [
 
 ["film", ["Anne of Green Gables", "Anne auf Green Gables"], "2016", ["2023 12 27"], 7, ["ger"], ["drama", "family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/741bd2efb6f4165f17c8e1f8178377b8/fa1f5baacdd17d51-0a/s250x400/8d3df864719794cea3da81b6a2ba848c5b64f018.jpg"],
 
-["series", ["Kleo"], "2022", [["2023 12 27", "2023 12 29", "S1"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier", "Rainer Reiners"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
+["series", ["Kleo"], "2022", [["2023 12 27", "2023 12 29", "S1"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier", "Rainer Reiners", "Vladimir Burlakov"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
 
 ["film", ["L.M. Montgomery's Anne of Green Gables: The Good Stars", "Anne auf Green Gables - Teil 2"], "2017", ["2023 12 28"], 6, ["ger"], ["family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/f456d80c9f445631f7c81332e4cac7bf/ad0bfc3b3c9de16b-b9/s250x400/9734f1cc7e57cf6b7abd640f4821d74e5694a691.jpg"],
 
@@ -2962,7 +2962,13 @@ var database = [
 
 ["book", ["Herzkribbeln im Gepäck"], "2006", [["2024 05 01", ""]], 0, ["ger"], ["young adult"], [], ["Freche Mädchen", "bibliothek", "watching"], ["Sabine Both"], [], "https://64.media.tumblr.com/d28917f892e5292b41187851fe290d95/39afa25c259eb1d9-4e/s400x600/4323f4a4ae470588b1fddaa8cdbea0c63caae946.jpg"],
 
-["film", ["Max Minsky and Me", "Max Minsky und ich"], "2007", ["2024 05 05"], 7, ["ger"], ["comedy", "romance"], [], ["bibliothek"], ["Anna Justice"], ["Zoe Moore", "Jan Josef Liefers", "Carina Wiese", "Rainer Reiners", "Margarita Broich"], "https://64.media.tumblr.com/18051579d87e87700d3910fa11ee1d9b/7df0ae85120295aa-da/s250x400/8a4b324e5fd431c2ca8ab43abbc01d158719488e.jpg"]
+["film", ["Max Minsky and Me", "Max Minsky und ich"], "2007", ["2024 05 05"], 7, ["ger"], ["comedy", "romance"], [], ["bibliothek"], ["Anna Justice"], ["Zoe Moore", "Jan Josef Liefers", "Carina Wiese", "Rainer Reiners", "Margarita Broich"], "https://64.media.tumblr.com/18051579d87e87700d3910fa11ee1d9b/7df0ae85120295aa-da/s250x400/8a4b324e5fd431c2ca8ab43abbc01d158719488e.jpg"],
+
+["film", ["Ocean Waves", "Flüstern des Meeres - Ocean Waves", "Umi ga kikoeru"], "1993", ["2024 05 05"], 5, ["ger"], ["anime", "drama", "romance"], [], ["Netflix", "Ghibli"], ["Tomomi Mochizuki"], [], "https://64.media.tumblr.com/ad5b902947af952aa8d203c9041981ad/153ff031f4119d3a-32/s250x400/f4512ed0fec45fd04295c91fbae1a9e0085a7484.jpg"],
+
+["film", ["Scherbenpark"], "2013", ["2024 05 07"], 5, ["ger"], ["drama"], [], ["bibliothek"], ["Bettina Blümner"], ["Jasna Fritzi Bauer", "Vladimir Burlakov"], "https://64.media.tumblr.com/98e0a76899350230e0517169f27ecd3c/528258440d557260-f7/s250x400/eacc87448cbceafa7e9cf5197ec93b6b02ea2597.jpg"],
+
+["series", ["Schloss Einstein & Die Pfefferkörner - Auf Gangsterjagd"], "2023", [["2024 05 07", "S1"]], 6, ["ger"], ["crime"], [], ["Die Pfefferkörner", "Schloss Einstein"], ["Markus Dietrich"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/56113b8d8214961c9f537317041d0c90/474bca8ac2ea3c38-02/s250x400/7a4244f9a4b8dd2e88cec29aab74a521568df85b.jpg"]
 
 /*
 ,
