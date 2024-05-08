@@ -2613,7 +2613,7 @@ var database = [
 
 ["audiobook", ["Gerade war der Himmel noch blau"], "2017", [["2023 05 02", "2023 05 10"]], 7, ["ger"], [], [], ["bibliothek"], ["Florian Illies"], ["Ulrich Noethen"], "https://64.media.tumblr.com/d543531beabd7144d6d3939395c96826/ebc9b1915ba7d171-b7/s400x600/30a124f1048cf49dcd91a907d100f2bb9a22717f.jpg"],
 
-["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"], ["2023 05 17", "2023 06 10", "S8"], ["2023 06 11", "2023 06 20", "S9"], ["2023 07 08", "2023 08 03", "S10"], ["2023 09 30", "2023 10 10", "S11"], ["2023 10 11", "2023 11 06", "S12"], ["2023 11 07", "2023 12 07", "S13"], ["2024 01 08", "2024 02 12", "S17"], ["2024 02 12", "2024 05 05", "S18"]], 6, ["ger"], ["crime", "family"], [], ["Die Pfefferkörner"], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
+["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"], ["2023 05 17", "2023 06 10", "S8"], ["2023 06 11", "2023 06 20", "S9"], ["2023 07 08", "2023 08 03", "S10"], ["2023 09 30", "2023 10 10", "S11"], ["2023 10 11", "2023 11 06", "S12"], ["2023 11 07", "2023 12 07", "S13"], ["2024 01 08", "2024 02 12", "S17"], ["2024 02 12", "2024 05 05", "S18"]], 6, ["ger"], ["crime", "family"], [], ["Die Pfefferkörner", "ongoing"], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
 /*S7: 5; S8: 6; S10: 6*/
 	
 ["film", ["Pom Poko", "Pom Poko", "Heisei tanuki gassen ponpoko"], "1994", ["2023 05 06"], 6, ["ger"], ["anime", "comedy"], ["bini", "mai"], ["Netflix"], ["Isao Takahata"], [], "https://64.media.tumblr.com/1beb8edfc26020a43aed81edc4e21332/dafcc2886aafff4c-bd/s250x400/77c4a5b5ad990b573aa847915d50a006325e049a.jpg"],
@@ -2968,7 +2968,9 @@ var database = [
 
 ["film", ["Scherbenpark"], "2013", ["2024 05 07"], 5, ["ger"], ["drama"], [], ["bibliothek"], ["Bettina Blümner"], ["Jasna Fritzi Bauer", "Vladimir Burlakov"], "https://64.media.tumblr.com/98e0a76899350230e0517169f27ecd3c/528258440d557260-f7/s250x400/eacc87448cbceafa7e9cf5197ec93b6b02ea2597.jpg"],
 
-["series", ["Schloss Einstein & Die Pfefferkörner - Auf Gangsterjagd"], "2023", [["2024 05 07", "S1"]], 6, ["ger"], ["crime"], [], ["Die Pfefferkörner", "Schloss Einstein"], ["Markus Dietrich"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/56113b8d8214961c9f537317041d0c90/474bca8ac2ea3c38-02/s250x400/7a4244f9a4b8dd2e88cec29aab74a521568df85b.jpg"]
+["series", ["Schloss Einstein & Die Pfefferkörner - Auf Gangsterjagd"], "2023", [["2024 05 07", "S1"]], 6, ["ger"], ["crime"], [], ["Die Pfefferkörner", "Schloss Einstein"], ["Markus Dietrich"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/56113b8d8214961c9f537317041d0c90/474bca8ac2ea3c38-02/s250x400/7a4244f9a4b8dd2e88cec29aab74a521568df85b.jpg"],
+
+["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "", "S24"]], 0, ["ger"], ["family"], [], ["ongoing", "watching"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"]
 
 /*
 ,
