@@ -448,9 +448,9 @@ var database = [
 	        
 ["film", ["Lord of the Rings: The Fellowship of the Ring", "Der Herr der Ringe: Die Gefährten"], "2001", ["2015 12 06", "2016 12 17", ["2022 05 23", "2022 05 25", "Special Extended Edition"]], 7, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Elijah Wood", "Christopher Lee", "Hugo Weaving"], "https://49.media.tumblr.com/9eba6052112edcedbcd28bf485170ed2/tumblr_o0cggdNfkK1v2s5upo1_250.jpg"],
 	        
-["film", ["The Lord of the Rings: The Two Towers", "Der Herr der Ringe: Die zwei Türme"], "2002", ["2016 01 04", "2016 12 17", ["2022 06 03", "2022 06 06", "Special Extended Edition"]], 7, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Sean Bean", "Christopher Lee", "Hugo Weaving"], "https://40.media.tumblr.com/0c4330abd747db58db95ace6790a689d/tumblr_o0g28sodpV1v2s5upo1_250.jpg"],
+["film", ["The Lord of the Rings: The Two Towers", "Der Herr der Ringe: Die zwei Türme"], "2002", ["2016 01 04", "2016 12 17", ["2022 06 03", "2022 06 06", "Special Extended Edition"]], 7, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Sean Bean", "Christopher Lee", "Hugo Weaving", "David Wenham"], "https://40.media.tumblr.com/0c4330abd747db58db95ace6790a689d/tumblr_o0g28sodpV1v2s5upo1_250.jpg"],
 	        
-["film", ["The Lord of the Rings: The Return of the King", "Der Herr der Ringe: Die Rückkehr des Königs"], "2003", ["2016 02 13", "2016 12 18", ["2022 06 08", "2022 06 10", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Christopher Lee", "Hugo Weaving"], "https://49.media.tumblr.com/e79056db9dd93cc65ac09ee280ed973c/tumblr_o2j5yuqU8n1v2s5upo1_250.jpg"],
+["film", ["The Lord of the Rings: The Return of the King", "Der Herr der Ringe: Die Rückkehr des Königs"], "2003", ["2016 02 13", "2016 12 18", ["2022 06 08", "2022 06 10", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Christopher Lee", "Hugo Weaving", "David Wenham"], "https://49.media.tumblr.com/e79056db9dd93cc65ac09ee280ed973c/tumblr_o2j5yuqU8n1v2s5upo1_250.jpg"],
 	        
 ["film", ["Elizabethtown"], "2005", ["2015 08 25"], 8, ["ger"], ["comedy", "drama"], [], [], ["Cameron Crowe"], ["Orlando Bloom", "Kirsten Dunst", "Alec Baldwin", "Judy Greer", "Paul Schneider"], "https://49.media.tumblr.com/04848757c806d3f770ff9451e851dc3a/tumblr_o0dvucxTZA1v2s5upo1_250.jpg"],
 	        
@@ -460,7 +460,7 @@ var database = [
 	        
 ["film", ["The Hobbit: The Battle of the Five Armies", "Der Hobbit: Die Schlacht der fünf Heere"], "2014", ["2016 01 02", "2016 12 17", "2018 03 11", "2020 01 27", "2022 04 20"], 8, ["ger"], ["adventure", "fantasy"], [], ["Middle Earth", "Netflix"], ["Peter Jackson"], ["Ian McKellen", "Martin Freeman", "Orlando Bloom", "Evangeline Lilly", "Cate Blanchett", "Thomasin McKenzie", "Christopher Lee", "Richard Armitage", "Hugo Weaving"], "https://40.media.tumblr.com/237cae545a3d283f66e4e54339b8c59f/tumblr_o0cahcr4aK1v2s5upo1_250.jpg"],
 	        
-["film", ["Pirates of the Caribbean: Dead Men Tell No Tales", "Pirates of the Caribbean: Salazars Rache"], "2017", ["2017 06 04", "2021 10 08", "2024 01 21"], 7, ["ger"], ["action", "adventure"], ["syl", "bini"], ["Fluch der Karibik", "Kino", "Disney+"], ["Joachim Rønning", "Espen Sandberg"], ["Johnny Depp", "Geoffrey Rush", "Kaya Scodelario", "Martin Klebba", "Orlando Bloom", "Keira Knightley", "Kevin McNally", "Paul McCartney"], "https://68.media.tumblr.com/2fd84cd5e84c264842c089683fe913d0/tumblr_os7wkmjCQH1v2s5upo1_250.jpg"],
+["film", ["Pirates of the Caribbean: Dead Men Tell No Tales", "Pirates of the Caribbean: Salazars Rache"], "2017", ["2017 06 04", "2021 10 08", "2024 01 21"], 7, ["ger"], ["action", "adventure"], ["syl", "bini"], ["Fluch der Karibik", "Kino", "Disney+"], ["Joachim Rønning", "Espen Sandberg"], ["Johnny Depp", "Geoffrey Rush", "Kaya Scodelario", "Martin Klebba", "Orlando Bloom", "Keira Knightley", "Kevin McNally", "Paul McCartney", "David Wenham"], "https://68.media.tumblr.com/2fd84cd5e84c264842c089683fe913d0/tumblr_os7wkmjCQH1v2s5upo1_250.jpg"],
 	        
 ["film", ["Fear and Loathing in Las Vegas", "Angst und Schrecken in Las Vegas"], "1998", ["2017 04 05"], 5, ["ger"], ["adventure", "comedy"], [], [], ["Terry Gilliam"], ["Johnny Depp", "Tobey Maguire", "Mark Harmon", "Christopher Meloni", "Christina Ricci"], "https://68.media.tumblr.com/683b4dbbaf0b150c1ea757c9d2481f9b/tumblr_oo36eerF4m1v2s5upo1_250.jpg"],
 	        
@@ -850,7 +850,7 @@ var database = [
 	        
 ["film", ["Mission: Impossible III"], "2006", ["2016 10 22"], 7, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["J.J. Abrams"], ["Tom Cruise", "Philip Seymour Hoffman", "Simon Pegg", "Laurence Fishburne", "Maggie Q", "Aaron Paul"], "https://68.media.tumblr.com/41874302cbda630faef2db3242c8643e/tumblr_ofge46WvyA1v2s5upo1_250.jpg"],
 	        
-["film", ["Mission: Impossible II"], "2000", ["2016 10 22"], 5, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["John Woo"], ["Tom Cruise", "Ving Rhames", "Brendan Gleeson", "William Mapother", "Anthony Hopkins", "Thandiwe Newton"], "https://68.media.tumblr.com/d45839929f432af8d837a550b10680cf/tumblr_ofg8xpnLBx1v2s5upo1_250.jpg"],
+["film", ["Mission: Impossible II"], "2000", ["2016 10 22"], 5, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["John Woo"], ["Tom Cruise", "Ving Rhames", "Brendan Gleeson", "William Mapother", "Anthony Hopkins", "Thandiwe Newton", "Richard Roxburgh"], "https://68.media.tumblr.com/d45839929f432af8d837a550b10680cf/tumblr_ofg8xpnLBx1v2s5upo1_250.jpg"],
 	        
 ["film", ["Mission: Impossible"], "1996", ["2016 10 22"], 5, ["ger"], ["action", "adventure"], [], ["Mission Impossible"], ["Brian De Palma"], ["Tom Cruise", "Jon Voight", "Jean Reno", "Ving Rhames"], "https://66.media.tumblr.com/91631d8d0dd4bc59b6becdc2106b1c13/tumblr_ofg39sMxJr1v2s5upo1_250.jpg"],
 	        
@@ -1978,7 +1978,7 @@ var database = [
 
 ["film", ["Liz and the Blue Bird", "Liz und der Blaue Vogel", "Rizu to aoi tori"], "2018", ["2021 11 10"], 5, ["jap"], ["anime", "drama"], ["bini", "jani", "nico"], ["Hibike!"], ["Naoko Yamada"], [], "https://64.media.tumblr.com/108aaa460cb0ca0d8d0a650be92a88cc/c62da6da440dde8f-66/s250x400/b2fafefc1263049a0fd4c9d890a115455e408753.jpg"],
 
-["film", ["The League of Extraordinary Gentlemen", "Die Liga der außergewöhnlichen Gentlemen"], "2003", ["2021 11 11"], 5, ["ger"], ["action", "adventure"], [], ["Disney+"], ["Stephen Norrington"], ["Sean Connery", "Shane West", "Tony Curran"], "https://64.media.tumblr.com/d628e719a79ef05f4af08a0238cb7e83/0c12f857e12405fc-97/s250x400/2fd835e77ea9239742c0c65c1adf33d0971bbf7a.jpg"],
+["film", ["The League of Extraordinary Gentlemen", "Die Liga der außergewöhnlichen Gentlemen"], "2003", ["2021 11 11"], 5, ["ger"], ["action", "adventure"], [], ["Disney+"], ["Stephen Norrington"], ["Sean Connery", "Shane West", "Tony Curran", "Richard Roxburgh"], "https://64.media.tumblr.com/d628e719a79ef05f4af08a0238cb7e83/0c12f857e12405fc-97/s250x400/2fd835e77ea9239742c0c65c1adf33d0971bbf7a.jpg"],
 
 ["film", ["Shiny_Flakes: The Teenage Drug Lord"], "2021", ["2021 11 12"], 8, ["ger"], ["documentary", "biography"], [], ["Netflix"], ["Eva Müller", "Michael Schmitt"], [], "https://64.media.tumblr.com/d9be6a5ddefc755782275f90d21e448f/65a86788ec91dc3d-c0/s250x400/59f761f879781d81b7a47e50bfee1978a21c3092.jpg"],
 
@@ -2766,7 +2766,7 @@ var database = [
 
 ["film", ["Of Mice and Men", "Von Mäusen und Menschen"], "1992", ["2023 10 29"], 8, ["ger"], ["drama", "western"], ["bini", "syl"], ["bibliothek"], ["Gary Sinise"], ["Gary Sinise", "John Terry"], "https://64.media.tumblr.com/737fe944e99b4e51575b679c1c4880f1/5380813e916f97ac-b1/s250x400/893e1cce1a3f581c19a0924f75b8086c825d04aa.jpg"],
 
-["film", ["The Greatest Showman", "Greatest Showman"], "2017", ["2023 10 30"], 7, ["ger"], ["biography", "drama", "musical"], [], ["bibliothek"], ["Michael Gracey"], ["Hugh Jackman", "Michelle Williams", "Zac Efron", "Zendaya", "Rebecca Ferguson"], "https://64.media.tumblr.com/7231045286a4f8498f83e7bc7d55ba49/e1bfb7fa3ea2d562-cd/s250x400/581becbad3d15f3fe398e05545c345e8e2931e2f.jpg"],
+["film", ["The Greatest Showman", "Greatest Showman"], "2017", ["2023 10 30"], 7, ["ger"], ["biography", "drama", "musical"], [], ["bibliothek"], ["Michael Gracey"], ["Hugh Jackman", "Michelle Williams", "Zac Efron", "Zendaya", "Rebecca Ferguson", "Shuler Hensley"], "https://64.media.tumblr.com/7231045286a4f8498f83e7bc7d55ba49/e1bfb7fa3ea2d562-cd/s250x400/581becbad3d15f3fe398e05545c345e8e2931e2f.jpg"],
 
 ["film", ["The Imaginarium of Doctor Parnassus"], "2009", ["2023 10 31"], 6, ["ger"], ["adventure", "comedy"], [], ["bibliothek"], ["Terry Gilliam"], ["Andrew Garfield", "Lily Cole", "Johnny Depp", "Jude Law", "Christopher Plummer"], "https://64.media.tumblr.com/4f298d272de1853574e266c6a4b34522/52c67f9b811f4bb4-ef/s250x400/a65b14b439a9c451044e5189651055d7c0fbdbe1.jpg"],
 
@@ -2970,7 +2970,11 @@ var database = [
 
 ["series", ["Schloss Einstein & Die Pfefferkörner - Auf Gangsterjagd"], "2023", [["2024 05 07", "S1"]], 6, ["ger"], ["crime"], [], ["Die Pfefferkörner", "Schloss Einstein"], ["Markus Dietrich"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/56113b8d8214961c9f537317041d0c90/474bca8ac2ea3c38-02/s250x400/7a4244f9a4b8dd2e88cec29aab74a521568df85b.jpg"],
 
-["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "", "S24"]], 0, ["ger"], ["family"], [], ["ongoing", "watching"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"]
+["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "", "S24"]], 0, ["ger"], ["family"], [], ["ongoing", "watching"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"],
+
+["film", ["Van Helsing"], "2004", ["2024 05 08"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Stephen Sommers"], ["Hugh Jackman", "Richard Roxburgh", "David Wenham", "Shuler Hensley"], "https://64.media.tumblr.com/2c936bbcdf5ced09e27429f09877dd3e/3a8245902f4f1a52-6b/s250x400/00fb259c37f5fbf0f450fa56af5f8ccbcf6adce6.jpg"],
+
+["film", ["Uncharted"], "2022", ["2024 05 08"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Ruben Fleischer"], ["Tom Holland", "Mark Wahlberg"], "https://64.media.tumblr.com/8567c6ec213296787a8137fdc8f751c4/390f5784347396d0-4f/s250x400/635727218d0afcca613ecb617404c37b9e2c80dd.jpg"]
 
 /*
 ,
