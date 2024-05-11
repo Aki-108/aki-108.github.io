@@ -2958,7 +2958,7 @@ var database = [
 
 ["film", ["The Giver", "Hüter der Erinnerung - The Giver"], "2014", ["2024 04 23"], 8, ["ger"], ["drama", "romance"], [], ["bibliothek"], ["Phillip Noyce"], ["Jeff Bridges", "Meryl Streep", "Odeya Rush"], "https://64.media.tumblr.com/d66627d54ede43e7dd7892a4549d3cff/aaeab66a8bd4726e-6a/s250x400/44b6f335d35c8ad616f835046b3c98611a321587.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Die blauen Pudel des Sir Theodore"], "2018", [["2024 04 30", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1432c3b1407eea110f41c3e7b1c8dcaa/fc046d1d6e3ae34b-fd/s250x400/e70ca62c09d1bf3ef73be4a04faef382f275cd48.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! - Die blauen Pudel des Sir Theodore"], "2018", [["2024 04 30", "2024 05 03"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1432c3b1407eea110f41c3e7b1c8dcaa/fc046d1d6e3ae34b-fd/s250x400/e70ca62c09d1bf3ef73be4a04faef382f275cd48.jpg"],
 
 ["book", ["Herzkribbeln im Gepäck"], "2006", [["2024 05 01", ""]], 0, ["ger"], ["young adult"], [], ["Freche Mädchen", "bibliothek", "watching"], ["Sabine Both"], [], "https://64.media.tumblr.com/d28917f892e5292b41187851fe290d95/39afa25c259eb1d9-4e/s400x600/4323f4a4ae470588b1fddaa8cdbea0c63caae946.jpg"],
 
