@@ -2485,7 +2485,7 @@ var database = [
 
 ["audiobook", ["Der Tote am Fluss"], "2020", [["2023 01 16", "2023 01 18"]], 6, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/86f251f21af8ae700eaba30f63e4f731/3fde18ee8c557f8a-0b/s250x400/544b9b82e3051cd1b793da85bae4989dbf0cce71.jpg"],
 
-["series", ["The Baby-Sitters Club", "Der Babysitter-Club"], ["2020", "2021"], [["2023 01 22", "2023 01 25", "S1"], ["2023 01 26", "2023 01 29", "S2"]], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Lisha Brooks"], ["Momona Tamada"], "https://64.media.tumblr.com/977064f8f1e52b790729b0d925f87905/b53de1b33d6ed04f-41/s250x400/6a5ce88b78e25c7b441993f7ac47d693513476b9.jpg"],
+["series", ["The Baby-Sitters Club", "Der Babysitter-Club"], ["2020", "2021"], [["2023 01 22", "2023 01 25", "S1"], ["2023 01 26", "2023 01 29", "S2"]], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Lisha Brooks"], ["Momona Tamada", "Sophia Reid-Gantzert"], "https://64.media.tumblr.com/977064f8f1e52b790729b0d925f87905/b53de1b33d6ed04f-41/s250x400/6a5ce88b78e25c7b441993f7ac47d693513476b9.jpg"],
 
 ["series", ["Wednesday"], ["2022", ""], [["2023 01 22", "2023 02 12", "S1"]], 7, ["ger"], ["comedy", "crime"], ["bini", "nico"], ["Netflix", "ongoing"], ["Charles Addams", "Alfred Gough"], ["Jenna Ortega", "Emma Myers", "Christina Ricci", "Riki Lindhome"], "https://64.media.tumblr.com/2c0de27e286ef85f7feefbadbde28f78/d5c60e11e8a10e79-68/s250x400/f4f3b3b474bddc4148370fb9ebabd4b6c2f9c9b2.jpg"],
 
@@ -2976,7 +2976,9 @@ var database = [
 
 ["film", ["Uncharted"], "2022", ["2024 05 08"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Ruben Fleischer"], ["Tom Holland", "Mark Wahlberg"], "https://64.media.tumblr.com/8567c6ec213296787a8137fdc8f751c4/390f5784347396d0-4f/s250x400/635727218d0afcca613ecb617404c37b9e2c80dd.jpg"],
 
-["film", ["Bullet Train"], "2022", ["2024 05 13"], 7, ["ger"], ["action", "comedy"], ["bini", "nico"], ["Netflix"], ["David Leitch"], ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson", "Brian Tyree Henry", "Hiroyuki Sanada", "Michael Shannon", "Sandra Bullock", "Logan Lerman", "Zazie Beetz"], "https://64.media.tumblr.com/a74c3ec091b171144ac50562a9a2dcf1/4eb56170934a59bb-26/s250x400/3bf99e978c552b9fb061e293e980a39133f94b0b.jpg"]
+["film", ["Bullet Train"], "2022", ["2024 05 13"], 7, ["ger"], ["action", "comedy"], ["bini", "nico"], ["Netflix"], ["David Leitch"], ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson", "Brian Tyree Henry", "Hiroyuki Sanada", "Michael Shannon", "Sandra Bullock", "Logan Lerman", "Zazie Beetz"], "https://64.media.tumblr.com/a74c3ec091b171144ac50562a9a2dcf1/4eb56170934a59bb-26/s250x400/3bf99e978c552b9fb061e293e980a39133f94b0b.jpg"],
+
+["series", ["Death and Other Details"], "2024", [["2024 05 15", "", "S1"]], 0, ["ger"], ["crime", "drama"], ["bini", "nico"], ["Disney+", "watching"], ["Heidi Cole McAdams", "Mike Weiss"], ["Sophia Reid-Gantzert"], "https://64.media.tumblr.com/f42c6a6687a689902e06988d662a6cbb/9a36b150a966f6ac-c6/s250x400/4cedc0d13ce57b922a9586393c932b967f614dfb.jpg"]
 
 /*
 ,
