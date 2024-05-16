@@ -351,7 +351,7 @@ var database = [
 	        
 ["film", ["The Walk"], "2015", ["2017 10 26"], 7, ["ger"], ["adventure", "biography"], [], ["Netflix"], ["Robert Zemeckis"], ["Joseph Gordon-Levitt", "Ben Kingsley", "Charlotte Le Bon"], "https://66.media.tumblr.com/764d97b4a28744ce992be1ba95d22d9a/tumblr_py7vpvHz8R1v2s5upo1_250.jpg"],
 	        
-["film", ["The Perks of Being a Wallflower", "Vielleicht lieber morgen"], "2012", ["2017 11 22"], 9, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Stephen Chbosky"], ["Johnny Simmons", "Emma Watson", "Joan Cusack", "Kate Walsh", "Logan Lerman", "Mae Whitman", "Paul Rudd", "Nina Dobrev"], "https://66.media.tumblr.com/993796638f9b7c93316a8a993ca05ccf/tumblr_pyefmgAgvd1v2s5upo1_250.jpg"],
+["film", ["The Perks of Being a Wallflower", "Vielleicht lieber morgen"], "2012", ["2017 11 22"], 9, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Stephen Chbosky"], ["Johnny Simmons", "Emma Watson", "Joan Cusack", "Kate Walsh", "Logan Lerman", "Mae Whitman", "Paul Rudd", "Nina Dobrev", "Logan Lerman"], "https://66.media.tumblr.com/993796638f9b7c93316a8a993ca05ccf/tumblr_pyefmgAgvd1v2s5upo1_250.jpg"],
 	        
 ["series", ["The Weekenders", "Disneys Wochenend-Kids"], ["2000", "2004"], ["2015 05 27", "2016 10 20"], 9, ["ger"], ["animation", "comedy"], [], [], ["Doug Langdale"], [], "https://66.media.tumblr.com/1e12113b066f40e5123afb60d500a3a5/tumblr_of327bfUJf1v2s5upo1_r2_250.jpg"],
 	        
@@ -420,9 +420,9 @@ var database = [
 	        
 ["short", ["Friend Like Me"], "2016", ["2016 04 05"], 6, ["eng"], ["comedy"], [], [], ["Sammy Paul"], ["Bertie Gilbert"], "https://40.media.tumblr.com/b68fa01942abe81fdff8d88987444fb7/tumblr_o5d0416srT1v2s5upo1_250.jpg"],
 	        
-["film", ["Kick-Ass"], "2010", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], ["bini"], [], ["Matthew Vaughn"], ["Christopher Mintz-Plasse", "Chloë Grace Moretz", "Evan Peters", "Xander Berkeley", "Omari Hardwick"], "https://40.media.tumblr.com/50091ac45e1d0d7d73fee6abb55a0020/tumblr_o5mvk0MA5b1v2s5upo1_250.jpg"],
+["film", ["Kick-Ass"], "2010", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], ["bini"], [], ["Matthew Vaughn"], ["Christopher Mintz-Plasse", "Chloë Grace Moretz", "Evan Peters", "Xander Berkeley", "Omari Hardwick", "Aaron Taylor-Johnson"], "https://40.media.tumblr.com/50091ac45e1d0d7d73fee6abb55a0020/tumblr_o5mvk0MA5b1v2s5upo1_250.jpg"],
 	        
-["film", ["Kick-Ass 2"], "2013", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], [], [], ["Jeff Wadlow"], ["Chloë Grace Moretz", "John Leguizamo", "Jim Carrey", "Ella Purnell", "Iain Glen"], "https://40.media.tumblr.com/4bbb2e53f36fc274d645007c32b45568/tumblr_o5mwb2cDB91v2s5upo1_250.jpg"],
+["film", ["Kick-Ass 2"], "2013", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], [], [], ["Jeff Wadlow"], ["Chloë Grace Moretz", "John Leguizamo", "Jim Carrey", "Ella Purnell", "Iain Glen", "Aaron Taylor-Johnson"], "https://40.media.tumblr.com/4bbb2e53f36fc274d645007c32b45568/tumblr_o5mwb2cDB91v2s5upo1_250.jpg"],
 	        
 ["film", ["Brain on Fire", "Feuer im Kopf"], "2016", ["2018 07 23"], 7, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Gerard Barrett"], ["Chloë Grace Moretz", "Thomas Mann", "Richard Armitage"], "https://66.media.tumblr.com/a289242ec9258da8d7bae2d525f96a5d/2376b81d083bf343-08/s250x400/9b3af989b942eb390622492f92bbab1850daae4f.jpg"],
 	        
@@ -596,7 +596,7 @@ var database = [
 	        
 ["film", ["Wild", "Der große Trip - Wild"], "2014", ["2015 10 07", "2016 06 04"], 10, ["ger"], ["biography", "drama"], [], ["fav"], ["Jean-Marc Vallée"], ["Reese Witherspoon", "Laura Dern", "Nick Eversman"], "https://66.media.tumblr.com/7b8d0edfa836f6cf0366bfaea15da033/tumblr_ppxzhwNov81v2s5upo1_250.jpg"],
 	        
-["film", ["Stuck in Love.", "Love Stories - Erste Lieben, zweite Chancen"], "2012", ["2015 10 12"], 10, ["ger"], ["comedy", "drama", "romance"], [], [], ["Josh Boone"], ["Jennifer Connelly", "Lily Collins", "Nat Wolff", "Logan Lerman", "Liana Liberato"], "https://66.media.tumblr.com/d771c3ef8d3f38f954628e082f9cf66a/tumblr_ppxznwHOLZ1v2s5upo1_250.jpg"],
+["film", ["Stuck in Love.", "Love Stories - Erste Lieben, zweite Chancen"], "2012", ["2015 10 12"], 10, ["ger"], ["comedy", "drama", "romance"], [], [], ["Josh Boone"], ["Jennifer Connelly", "Lily Collins", "Nat Wolff", "Logan Lerman", "Liana Liberato", "Logan Lerman"], "https://66.media.tumblr.com/d771c3ef8d3f38f954628e082f9cf66a/tumblr_ppxznwHOLZ1v2s5upo1_250.jpg"],
 	        
 ["film", ["To the Bone"], "2017", ["2018 05 27"], 7, ["ger"], ["drama"], [], ["Netflix"], ["Marti Noxon"], ["Lily Collins", "Liana Liberato", "Kathryn Prescott", "Alex Sharp", "Ciara Bravo", "Ziah Colon"], "https://66.media.tumblr.com/13c6660c42ed48eefa171e8a4cb7e4e0/tumblr_pzkte3xLEG1v2s5upo1_250.jpg"],
 	        
@@ -940,7 +940,7 @@ var database = [
 	        
 ["film", ["The Chronicles of Narnia: Prince Caspian", "Die Chroniken von Narnia - Prinz Kaspian von Narnia"], "2008", ["2016 05 07", "2021 12 21"], 6, ["ger"], ["action", "adventure"], [], ["Narnia", "Disney+"], ["Andrew Adamson"], ["Ben Barnes", "Georgie Henley", "Skandar Keynes", "William Moseley", "Anna Popplewell", "Peter Dinklage", "Tilda Swinton", "Pierfrancesco Favino"], "https://66.media.tumblr.com/977c1e07e988c3c871f04ba658a40489/tumblr_o6tmgrkwqY1v2s5upo1_250.jpg"],
 	        
-["film", ["Godzilla"], "2014", ["2016 04 30", "2017 11 01"], 7, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Godzilla", "Netflix"], ["Gareth Edwards"], ["Ken Watanabe", "Bryan Cranston", "Sally Hawkins", "David Strathairn"], "https://68.media.tumblr.com/b9aa36ed56992b0c873cf485152a891b/tumblr_o6tletji011v2s5upo1_250.jpg"],
+["film", ["Godzilla"], "2014", ["2016 04 30", "2017 11 01"], 7, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Godzilla", "Netflix"], ["Gareth Edwards"], ["Ken Watanabe", "Bryan Cranston", "Sally Hawkins", "David Strathairn", "Aaron Taylor-Johnson"], "https://68.media.tumblr.com/b9aa36ed56992b0c873cf485152a891b/tumblr_o6tletji011v2s5upo1_250.jpg"],
 	        
 ["film", ["Fight Club"], "1999", ["2016 04 28", "2016 09 17", "2023 07 22"], 9, ["ger"], ["drama"], [], ["Disney+"], ["David Fincher"], ["Edward Norton", "Brad Pitt", "Helena Bonham Carter"], "https://66.media.tumblr.com/96175385d3dd724e655069a52b115138/tumblr_o6tkxx0u6w1v2s5upo1_250.jpg"],
 	        
@@ -960,7 +960,7 @@ var database = [
 	        
 ["film", ["Total Recall"], "2012", ["2016 03 22"], 6, ["ger"], ["action", "adventure"], [], [], ["Len Wiseman"], ["Bryan Cranston", "Bill Nighy", "John Cho"], "https://40.media.tumblr.com/5af192a4a523870818ea6faa1bacf210/tumblr_o4fxwjs8gh1v2s5upo1_250.jpg"],
 	        
-["film", ["The Number 23", "Nummer 23"], "2007", ["2016 03 21"], 6, ["ger"], ["crime", "mystery"], [], [], ["Joel Schumacher"], ["Jim Carrey", "Logan Lerman", "Lynn Collins", "Mark Pellegrino", "Corey Stoll"], "https://49.media.tumblr.com/3c7321cbaff0b315fcdf8a6bd07e24de/tumblr_o4eoq9puyk1v2s5upo1_250.jpg"],
+["film", ["The Number 23", "Nummer 23"], "2007", ["2016 03 21"], 6, ["ger"], ["crime", "mystery"], [], [], ["Joel Schumacher"], ["Jim Carrey", "Logan Lerman", "Lynn Collins", "Mark Pellegrino", "Corey Stoll", "Logan Lerman"], "https://49.media.tumblr.com/3c7321cbaff0b315fcdf8a6bd07e24de/tumblr_o4eoq9puyk1v2s5upo1_250.jpg"],
 	        
 ["film", ["Flipped", "Verliebt und ausgeflippt"], "2010", ["2016 03 10"], 9, ["ger"], ["comedy", "drama"], [], [], ["Rob Reiner"], ["Madeline Carroll", "Callan McAuliffe"], "https://37.media.tumblr.com/3c2e7263a22d1ba38cd090ee41cd97bb/tumblr_o3u9u0Glug1v2s5upo1_250.jpg"],
 	        
@@ -1064,7 +1064,7 @@ var database = [
 	        
 ["film", ["Mysterious Skin", "Mysterious Skin - Unter die Haut"], "2004", ["2015 09 03"], 6, ["ger"], ["drama"], [], ["LGBT"], ["Gregg Araki"], ["Joseph Gordon-Levitt", "Michelle Trachtenberg"], "https://40.media.tumblr.com/1340c2434d09e867bc754da506827cff/tumblr_o0p3pd3sxX1v2s5upo1_250.jpg"],
 	        
-["film", ["Premium Rush"], "2012", ["2016 01 03"], 6, ["ger"], ["action"], [], [], ["David Koepp"], ["Joseph Gordon-Levitt", "Aasif Mandvi"], "https://49.media.tumblr.com/9c9c47850b8f913d1a118d22c6c47dd0/tumblr_o0e0ylPes51v2s5upo1_250.jpg"],
+["film", ["Premium Rush"], "2012", ["2016 01 03"], 6, ["ger"], ["action"], [], [], ["David Koepp"], ["Joseph Gordon-Levitt", "Aasif Mandvi", "Michael Shannon"], "https://49.media.tumblr.com/9c9c47850b8f913d1a118d22c6c47dd0/tumblr_o0e0ylPes51v2s5upo1_250.jpg"],
 	        
 ["film", ["Looper"], "2012", ["2016 01 07"], 9, ["ger"], ["action", "drama", "sci-fi"], ["bini"], [], ["Rian Johnson"], ["Joseph Gordon-Levitt", "Bruce Willis", "Emily Blunt", "Paul Dano", "Jeff Daniels"], "https://40.media.tumblr.com/16bcaeee0c0977a6b21a3b8b0ece8512/tumblr_o0n7utSozh1v2s5upo1_250.jpg"],
 	        
@@ -1116,7 +1116,7 @@ var database = [
 	        
 ["film", ["Signs", "Signs - Zeichen"], "2002", ["2015 10 28"], 1, ["ger"], ["drama", "mystery"], [], [], ["M. Night Shyamalan"], ["Abigail Breslin", "Joaquin Phoenix", "Cherry Jones"], "https://66.media.tumblr.com/9c14f12fbc6adb2065a42ee3855c7b51/tumblr_pwkoaywx8n1v2s5upo1_250.jpg"],
 	        
-["film", ["The Illusionist", "The Illusionist - Nichts ist wie es scheint"], "2006", ["2015 10 29"], 7, ["ger"], ["drama", "fantasy"], [], [], ["Neil Burger"], ["Edward Norton", "Paul Giamatti"], "https://66.media.tumblr.com/a49e9f17f896342ec02e98b44587a3b3/tumblr_pwopp8zpV21v2s5upo1_250.jpg"],
+["film", ["The Illusionist", "The Illusionist - Nichts ist wie es scheint"], "2006", ["2015 10 29"], 7, ["ger"], ["drama", "fantasy"], [], [], ["Neil Burger"], ["Edward Norton", "Paul Giamatti", "Aaron Taylor-Johnson"], "https://66.media.tumblr.com/a49e9f17f896342ec02e98b44587a3b3/tumblr_pwopp8zpV21v2s5upo1_250.jpg"],
 	        
 ["film", ["The Sorcerer's Apprentice", "Duell der Magier"], "2010", ["2015 10 30"], 8, ["ger"], ["action", "adventure", "supernatural"], ["bini"], [], ["Jon Turteltaub"], ["Nicolas Cage", "Jake Cherry"], "https://66.media.tumblr.com/997c05a47135e5e70482c6d39aff2387/tumblr_pwoptpHPND1v2s5upo1_250.jpg"],
 	        
@@ -1170,11 +1170,11 @@ var database = [
 	        
 ["film", ["Captain America: The First Avenger"], "2011", ["2016 03 29"], 7, ["ger"], ["action", "adventure"], ["bini"], ["Marvel", "Avengers"], ["Joe Johnston"], ["Chris Evans", "Tommy Lee Jones", "Stanley Tucci", "Samuel L. Jackson", "Toby Jones", "David Bradley", "Stan Lee", "Richard Armitage", "Sebastian Stan", "Hugo Weaving"], "https://49.media.tumblr.com/d795348c9ba0e4483f05147201ef6b24/tumblr_o4ugvkeV8b1v2s5upo1_250.jpg"],
 	        
-["film", ["Captain America: The Winter Soldier", "The Return of the First Avenger"], "2014", ["2016 03 30"], 7, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Anthony Russo", "Joe Russo"], ["Chris Evans", "Samuel L. Jackson", "Scarlett Johansson", "Anthony Mackie", "Toby Jones", "Stan Lee", "Alan Dale", "Sebastian Stan", "Cobie Smulders"], "https://37.media.tumblr.com/7d801f011251aefaa3be6a9e224190ca/tumblr_o4v7w80vDb1v2s5upo1_250.jpg"],
+["film", ["Captain America: The Winter Soldier", "The Return of the First Avenger"], "2014", ["2016 03 30"], 7, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Anthony Russo", "Joe Russo"], ["Chris Evans", "Samuel L. Jackson", "Scarlett Johansson", "Anthony Mackie", "Toby Jones", "Stan Lee", "Alan Dale", "Sebastian Stan", "Cobie Smulders", "Aaron Taylor-Johnson"], "https://37.media.tumblr.com/7d801f011251aefaa3be6a9e224190ca/tumblr_o4v7w80vDb1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Avengers"], "2012", ["2016 03 30"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel", "Avengers"], ["Joss Whedon"], ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Tom Hiddleston", "Clark Gregg", "Samuel L. Jackson", "Gwyneth Paltrow", "Stan Lee", "Stellan Skarsgård", "Cobie Smulders"], "https://40.media.tumblr.com/e839ece28b91eb39db84c65d6f91ce90/tumblr_o4vbcpBprV1v2s5upo1_250.jpg"],
 	        
-["film", ["Avengers: Age of Ultron"], "2015", ["2016 03 30"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel", "Avengers"], ["Joss Whedon"], ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson", "Jeremy Renner", "Samuel L. Jackson", "Anthony Mackie", "Stan Lee", "Claudia Kim", "Josh Brolin", "Stellan Skarsgård", "Cobie Smulders"], "https://49.media.tumblr.com/79f9900b954e67779949aa03af22e694/tumblr_o4wt23eSX41v2s5upo1_250.jpg"],
+["film", ["Avengers: Age of Ultron"], "2015", ["2016 03 30"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel", "Avengers"], ["Joss Whedon"], ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson", "Jeremy Renner", "Samuel L. Jackson", "Anthony Mackie", "Stan Lee", "Claudia Kim", "Josh Brolin", "Stellan Skarsgård", "Cobie Smulders", "Aaron Taylor-Johnson"], "https://49.media.tumblr.com/79f9900b954e67779949aa03af22e694/tumblr_o4wt23eSX41v2s5upo1_250.jpg"],
 	        
 ["film", ["Guardians of the Galaxy"], "2014", ["2016 05 09", "2016 10 16", "2017 12 26"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Marvel"], ["James Gunn"], ["Chris Pratt", "Zoe Saldana", "Bradley Cooper", "Karen Gillan", "Wyatt Oleff", "Stan Lee", "Josh Brolin", "Dave Bautista", "Djimon Hounsou"], "https://66.media.tumblr.com/5c4b5e161e5cf33b47ac14fab0f17a16/tumblr_o6xep3SJwt1v2s5upo1_250.jpg"],
 	        
@@ -1350,7 +1350,7 @@ var database = [
 	        
 ["short", ["Your Old Man"], "2016", ["2017 04 10"], 8, ["eng"], ["comedy"], [], [], ["Tim Hautekiet"], [], "https://68.media.tumblr.com/8cf42f2b2f364940319fb2b5da635fe9/tumblr_ooakohySDI1v2s5upo1_250.jpg"],
 	        
-["film", ["Vanilla Sky"], "2001", ["2017 04 04"], 5, ["ger"], ["fantasy", "mystery"], [], [], ["Cameron Crowe"], ["Tom Cruise", "Cameron Diaz", "Noah Taylor", "Timothy Spall", "Tilda Swinton", "Johnny Galecki", "Ken Leung", "Conan O'Brien", "Penélope Cruz"], "https://68.media.tumblr.com/059128a6d2421cf302c6a7293db49992/tumblr_oo357ab8GS1v2s5upo1_250.jpg"],
+["film", ["Vanilla Sky"], "2001", ["2017 04 04"], 5, ["ger"], ["fantasy", "mystery"], [], [], ["Cameron Crowe"], ["Tom Cruise", "Cameron Diaz", "Noah Taylor", "Timothy Spall", "Tilda Swinton", "Johnny Galecki", "Ken Leung", "Conan O'Brien", "Penélope Cruz", "Michael Shannon"], "https://68.media.tumblr.com/059128a6d2421cf302c6a7293db49992/tumblr_oo357ab8GS1v2s5upo1_250.jpg"],
 	        
 ["film", ["Moms' Night Out", "Mom's Night Out"], "2014", ["2017 02 02"], 5, ["ger"], ["comedy"], [], [], ["Andrew Erwin", "Jon Erwin"], ["Sean Astin"], "https://68.media.tumblr.com/75f3cfff878cc9e176ba26d614f39740/tumblr_okvbyxTTE51v2s5upo1_250.jpg"],
 	        
@@ -2347,7 +2347,7 @@ var database = [
 
 ["film", ["The Gray Man"], "2022", ["2022 08 03"], 7, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Anthony Russo", "Joe Russo"], ["Ryan Gosling", "Chris Evans", "Jessica Henwick", "Ana de Armas", "Julia Butters"], "https://64.media.tumblr.com/fec6763ab3a8ce4a5296f538b2f4154f/2d214e5956d59396-b0/s250x400/07eb72e38047117024cce961ce8bbf039e578cdf.jpg"],
 
-["film", ["The King's Man"], "2021", [["2022 08 03", "2022 08 05"]], 6, ["ger"], ["action", "adventure"], ["syl"], ["Disney+"], ["Matthew Vaughn"], ["Djimon Hounsou", "Daniel Brühl", "Stanley Tucci", "Ralph Fiennes", "Matthew Goode", "Charles Dance"], "https://64.media.tumblr.com/9dd0fbf74035e880b51f58b8d5b5428d/fd12193843615954-21/s250x400/26ae7e753d9455b229230273372a1740f9923a7b.jpg"],
+["film", ["The King's Man"], "2021", [["2022 08 03", "2022 08 05"]], 6, ["ger"], ["action", "adventure"], ["syl"], ["Disney+"], ["Matthew Vaughn"], ["Djimon Hounsou", "Daniel Brühl", "Stanley Tucci", "Ralph Fiennes", "Matthew Goode", "Charles Dance", "Aaron Taylor-Johnson"], "https://64.media.tumblr.com/9dd0fbf74035e880b51f58b8d5b5428d/fd12193843615954-21/s250x400/26ae7e753d9455b229230273372a1740f9923a7b.jpg"],
 
 ["audiobook", ["The Scarecrow of Oz", "Die Vogelscheuche von Oz"], "1915", [["2022 08 03", "2022 09 01"]], 4, ["eng"], [], [], ["Oz", "LibriVox"], ["L. Frank Baum"], ["Abigail & Adam Flach", "Robert Flach", "Allyson Hester", "Jamie Wilking", "Kirsten Ferreri", "Chip Joel", "Ezwa", "Claire Goget", "Henry Frigon", "Hugh McGuire", "Stephanie König", "Mark F. Smith", "Kevin McAsh", "Ken Crooker", "Laura Brodrick", "Ada Kerman", "Michael Yard", "Lizzie Driver", "Saul", "Jason Isbell", "Susie G.", "Talia Fishman"], "https://64.media.tumblr.com/ac1c974bedc91e497a918afb6d0aaf28/c73d498d6958fd33-44/s250x400/0b7dbc3a7a93d0b2663af514fcce5e0b796516be.jpg"],
 
@@ -2381,7 +2381,7 @@ var database = [
 
 ["book", ["Turtles All the Way Down", "Schlaft gut, ihr fiesen Gedanken"], "2017", [["2022 08 31", "2022 09 19"]], 7, ["eng"], ["young adult"], [], ["bibliothek"], ["John Green"], [], "https://64.media.tumblr.com/33269ba2a869370b54d6a36d35e767ad/af483c7bc4b54628-95/s250x400/c05977355374b3322ce8ceafb44737fec1f9d288.jpg"],
 
-["film", ["Groundhog Day", "Und täglich grüßt das Murmeltier"], "1993", ["2022 08 31"], 6, ["ger"], ["comedy", "drama"], [], ["bibliothek"], ["Harold Ramis"], ["Bill Murray", "Andie MacDowell"], "https://64.media.tumblr.com/9a33c52b57f56e23e3f51f4a640686f8/24687f4f0ba96df9-b0/s250x400/5bd4b55279d11ae79f31491b66e3e19d1e4d4769.jpg"],
+["film", ["Groundhog Day", "Und täglich grüßt das Murmeltier"], "1993", ["2022 08 31"], 6, ["ger"], ["comedy", "drama"], [], ["bibliothek"], ["Harold Ramis"], ["Bill Murray", "Andie MacDowell", "Michael Shannon"], "https://64.media.tumblr.com/9a33c52b57f56e23e3f51f4a640686f8/24687f4f0ba96df9-b0/s250x400/5bd4b55279d11ae79f31491b66e3e19d1e4d4769.jpg"],
 
 ["audiobook", ["Dead Men Tell Tales"], "1939", [["2022 09 02", "2022 09 12"]], 6, ["eng"], [], [], ["LibriVox"], ["Harry Rimmer"], ["Maria Agustina Von", "josephineking", "roselbex", "Owlivia", "Ryan Lohner", "BrandonB", "KHand", "MichelleKinge"], "https://64.media.tumblr.com/cd060d321a7738d9b0f8d103c1ee637b/104fb591d360372b-5c/s400x600/1400b273498cfd6725f6694b8eb596b83c402d39.jpg"],
 
@@ -2499,7 +2499,7 @@ var database = [
 
 ["film", ["Metal Lords"], "2022", ["2023 01 27"], 8, ["ger"], ["comedy", "music"], [], ["Netflix"], ["Peter Sollett"], ["Jaeden Martell", "Isis Hainsworth"], "https://64.media.tumblr.com/f49c52a439b48767af186094f7e466f0/7fcd52d2121c9b2e-27/s250x400/9210b432f16212f36cfba4186369a6491401ed57.jpg"],
 
-["film", ["Knives Out", "Knives Out: Mord ist Familiensache"], "2019", ["2023 01 27", "2023 12 07"], 9, ["ger"], ["comedy", "crime"], ["bini", "syl", "je"], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Chris Evans", "Ana de Armas", "Katherine Langford", "Jaeden Martell", "Riki Lindhome", "Christopher Plummer"], "https://64.media.tumblr.com/d2f6d59bdfcc045186007292e7e86315/3e2acbf1c4b693d4-87/s250x400/6d83b8ecf1729f74d4bffc6abec2996716928990.jpg"],
+["film", ["Knives Out", "Knives Out: Mord ist Familiensache"], "2019", ["2023 01 27", "2023 12 07"], 9, ["ger"], ["comedy", "crime"], ["bini", "syl", "je"], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Chris Evans", "Ana de Armas", "Katherine Langford", "Jaeden Martell", "Riki Lindhome", "Christopher Plummer", "Michael Shannon"], "https://64.media.tumblr.com/d2f6d59bdfcc045186007292e7e86315/3e2acbf1c4b693d4-87/s250x400/6d83b8ecf1729f74d4bffc6abec2996716928990.jpg"],
 
 ["book", ["Die Wilden Hühner und das Glück der Erde"], "2005", [["2023 01 26", "2023 03 04"]], 7, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/432565b590929b69689205cd479b9c5c/a04add625a1dc6bd-91/s250x400/8e7bcd7bdb1225e169d3bb9c34ec2ccfd015ede0.jpg"],
 
@@ -2970,11 +2970,13 @@ var database = [
 
 ["series", ["Schloss Einstein & Die Pfefferkörner - Auf Gangsterjagd"], "2023", [["2024 05 07", "S1"]], 6, ["ger"], ["crime"], [], ["Die Pfefferkörner", "Schloss Einstein"], ["Markus Dietrich"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/56113b8d8214961c9f537317041d0c90/474bca8ac2ea3c38-02/s250x400/7a4244f9a4b8dd2e88cec29aab74a521568df85b.jpg"],
 
-["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "2024 05 15", "S24"]], 7, ["ger"], ["family"], [], ["ongoing", "watching", "Schloss Einstein"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"],
+["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "2024 05 15", "S24"], ["2024 05 16", "", "S25"]], 7, ["ger"], ["family"], [], ["ongoing", "watching", "Schloss Einstein"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"],
 
 ["film", ["Van Helsing"], "2004", ["2024 05 08"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Stephen Sommers"], ["Hugh Jackman", "Richard Roxburgh", "David Wenham", "Shuler Hensley"], "https://64.media.tumblr.com/2c936bbcdf5ced09e27429f09877dd3e/3a8245902f4f1a52-6b/s250x400/00fb259c37f5fbf0f450fa56af5f8ccbcf6adce6.jpg"],
 
-["film", ["Uncharted"], "2022", ["2024 05 08"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Ruben Fleischer"], ["Tom Holland", "Mark Wahlberg"], "https://64.media.tumblr.com/8567c6ec213296787a8137fdc8f751c4/390f5784347396d0-4f/s250x400/635727218d0afcca613ecb617404c37b9e2c80dd.jpg"]
+["film", ["Uncharted"], "2022", ["2024 05 08"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Ruben Fleischer"], ["Tom Holland", "Mark Wahlberg"], "https://64.media.tumblr.com/8567c6ec213296787a8137fdc8f751c4/390f5784347396d0-4f/s250x400/635727218d0afcca613ecb617404c37b9e2c80dd.jpg"],
+
+["film", ["Bullet Train"], "2022", ["2024 05 13"], 7, ["ger"], ["action", "comedy"], ["bini", "nico"], ["Netflix"], ["David Leitch"], ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson", "Brian Tyree Henry", "Hiroyuki Sanada", "Michael Shannon", "Sandra Bullock", "Logan Lerman", "Zazie Beetz"], "https://64.media.tumblr.com/a74c3ec091b171144ac50562a9a2dcf1/4eb56170934a59bb-26/s250x400/3bf99e978c552b9fb061e293e980a39133f94b0b.jpg"]
 
 /*
 ,
