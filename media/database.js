@@ -2978,7 +2978,11 @@ var database = [
 
 ["film", ["Bullet Train"], "2022", ["2024 05 13"], 7, ["ger"], ["action", "comedy"], ["bini", "nico"], ["Netflix"], ["David Leitch"], ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson", "Brian Tyree Henry", "Hiroyuki Sanada", "Michael Shannon", "Sandra Bullock", "Logan Lerman", "Zazie Beetz"], "https://64.media.tumblr.com/a74c3ec091b171144ac50562a9a2dcf1/4eb56170934a59bb-26/s250x400/3bf99e978c552b9fb061e293e980a39133f94b0b.jpg"],
 
-["series", ["Death and Other Details"], "2024", [["2024 05 15", "", "S1"]], 0, ["ger"], ["crime", "drama"], ["bini", "nico"], ["Disney+", "watching"], ["Heidi Cole McAdams", "Mike Weiss"], ["Sophia Reid-Gantzert"], "https://64.media.tumblr.com/f42c6a6687a689902e06988d662a6cbb/9a36b150a966f6ac-c6/s250x400/4cedc0d13ce57b922a9586393c932b967f614dfb.jpg"]
+["series", ["Death and Other Details"], "2024", [["2024 05 15", "", "S1"]], 0, ["ger"], ["crime", "drama"], ["bini", "nico"], ["Disney+", "watching"], ["Heidi Cole McAdams", "Mike Weiss"], ["Sophia Reid-Gantzert"], "https://64.media.tumblr.com/f42c6a6687a689902e06988d662a6cbb/9a36b150a966f6ac-c6/s250x400/4cedc0d13ce57b922a9586393c932b967f614dfb.jpg"],
+
+["film", ["Godzilla x Kong: The New Empire"], "2024", ["2024 05 18"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Kino", "Godzilla"], ["Adam Wingard"], ["Rebecca Hall", "Brian Tyree Henry"], "https://64.media.tumblr.com/0aa4c008b0ab846075a2ec42fb44e30c/46e48c04275f215f-09/s250x400/5260178649df89769e638cd06ef371ca29039ffd.jpg"],
+
+["film", ["Summer Rebels", "Sommer-Rebellen"], "2020", [["2024 05 18", "2024 05 19"]], 5, ["ger"], ["family"], ["bini", "syl"], ["bibliothek"], ["Martina Sakova"], [], "https://64.media.tumblr.com/f4a17f489207a1c3d246eba0489d6397/21f88e7192a9f977-53/s250x400/0579154ce4bfb29fd9996fbc0cf9199100535cde.jpg"]
 
 /*
 ,
