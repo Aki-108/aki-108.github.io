@@ -1408,7 +1408,7 @@ var database = [
 	        
 ["film", ["Ballet Shoes"], "2007", ["2016 08 01"], 7, ["ger"], ["drama", "family"], [], [], ["Sandra Goldbacher"], ["Emma Watson", "Richard Griffiths", "Lucy Boynton"], "https://66.media.tumblr.com/17ef638bc1cbb1b06f2225b8b443c707/tumblr_ob9xdm3HXS1v2s5upo1_250.jpg"],
 	        
-["film", ["Goosebumps", "Gänsehaut"], "2015", ["2016 08 01"], 7, ["ger"], ["adventure", "comedy"], [], [], ["Rob Letterman"], ["Jack Black", "Dylan Minnette", "Odeya Rush", "Halston Sage", "Ella Wahlestedt"], "https://66.media.tumblr.com/950658e4f27fe37c0ea0b9d043f43cd3/tumblr_ob8tv872gs1v2s5upo1_250.jpg"],
+["film", ["Goosebumps", "Gänsehaut"], "2015", ["2016 08 01", "2024 05 25"], 6, ["ger"], ["adventure", "comedy"], [], [], ["Rob Letterman"], ["Jack Black", "Dylan Minnette", "Odeya Rush", "Halston Sage", "Ella Wahlestedt"], "https://66.media.tumblr.com/950658e4f27fe37c0ea0b9d043f43cd3/tumblr_ob8tv872gs1v2s5upo1_250.jpg"],
 	        
 ["film", ["Esther", "Die Bibel - Esther"], "1999", ["2016 07 27"], 5, ["eng"], ["biography", "drama"], [], [], ["Raffaele Mertes"], [], "https://66.media.tumblr.com/507e1e2b919157a0f78da9765e82b233/tumblr_oaze55JB9l1v2s5upo1_250.jpg"],
 	        
@@ -2982,7 +2982,11 @@ var database = [
 
 ["film", ["Godzilla x Kong: The New Empire"], "2024", ["2024 05 18"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Kino", "Godzilla"], ["Adam Wingard"], ["Rebecca Hall", "Brian Tyree Henry"], "https://64.media.tumblr.com/0aa4c008b0ab846075a2ec42fb44e30c/46e48c04275f215f-09/s250x400/5260178649df89769e638cd06ef371ca29039ffd.jpg"],
 
-["film", ["Summer Rebels", "Sommer-Rebellen"], "2020", [["2024 05 18", "2024 05 19"]], 5, ["ger"], ["family"], ["bini", "syl"], ["bibliothek"], ["Martina Sakova"], [], "https://64.media.tumblr.com/f4a17f489207a1c3d246eba0489d6397/21f88e7192a9f977-53/s250x400/0579154ce4bfb29fd9996fbc0cf9199100535cde.jpg"]
+["film", ["Summer Rebels", "Sommer-Rebellen"], "2020", [["2024 05 18", "2024 05 19"]], 5, ["ger"], ["family"], ["bini", "syl"], ["bibliothek"], ["Martina Sakova"], [], "https://64.media.tumblr.com/f4a17f489207a1c3d246eba0489d6397/21f88e7192a9f977-53/s250x400/0579154ce4bfb29fd9996fbc0cf9199100535cde.jpg"],
+
+["film", ["Disturbia", "Disturbia - Auch Killer haben Nachbarn"], "2007", ["2024 05 25"], 7, ["ger"], ["thriller", "crime", "drama"], [], ["Netflix"], ["D.J. Caruso"], ["Shia LaBeouf", "Carrie-Anne Moss"], "https://64.media.tumblr.com/c4bc473a599590c1d4f053a78d1af8ee/0ee0eb5926f8712a-9c/s250x400/9ced9602fef46d3bd4dadb24180b4687e9b1a326.jpg"],
+
+["film", ["Belle", "Belle", "Ryuu to Sobakasu no Hime"], "2021", ["2024 05 25"], 6, ["ger"], ["anime", "adventure", "drama"], ["bini", "syl"], ["bibliothek"], ["Mamoru Hosoda"], [], "https://64.media.tumblr.com/9a91a44df60625bc343dc8cab4101a62/dba0d0be43ce1d2f-10/s250x400/8b9bbab22777aeab2d3f3d1b12c402a784d18390.jpg"]
 
 /*
 ,
