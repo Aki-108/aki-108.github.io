@@ -466,7 +466,7 @@ var database = [
 	        
 ["film", ["Chocolat", "Chocolat... ein kleiner Biss genügt"], "2000", ["2018 10 01"], 7, ["ger"], ["drama", "romance"], [], [], ["Lasse Hallström"], ["Peter Stormare", "Johnny Depp"], "https://66.media.tumblr.com/64481288d6a83c431ad88edf2f0b26e3/6768264a0bfb34cb-55/s250x400/f3c99d3c802b8ad08ab4bdafba49f9c6202a04af.jpg"],
 	        
-["film", ["Secret Window", "Das geheime Fenster"], "2004", ["2016 03 25", "2017 06 27"], 8, ["ger"], ["drama", "mystery", "thriller"], [], [], ["David Koepp"], ["Johnny Depp"], "https://40.media.tumblr.com/e699e44bdff276b33e491e321d24b7c1/tumblr_o4lrviw58Y1v2s5upo1_250.jpg"],
+["film", ["Secret Window", "Das geheime Fenster"], "2004", ["2016 03 25", "2017 06 27"], 8, ["ger"], ["drama", "mystery", "thriller"], [], [], ["David Koepp"], ["Johnny Depp", "Maria Bello"], "https://40.media.tumblr.com/e699e44bdff276b33e491e321d24b7c1/tumblr_o4lrviw58Y1v2s5upo1_250.jpg"],
 	        
 ["film", ["Charlie and the Chocolate Factory", "Charlie und die Schokoladenfabrik"], "2005", ["2016 07 19", "2016 12 30", "2019 10 21", "2021 01 25"], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Tim Burton"], ["Johnny Depp", "Helena Bonham Carter", "Christopher Lee", "Freddie Highmore", "AnnaSophia Robb", "Missi Pyle", "Richard Griffiths"], "https://66.media.tumblr.com/d634714520bf786d7b4b71f4527de9d8/tumblr_oakuocubQO1v2s5upo1_250.jpg"],
 	        
@@ -662,7 +662,7 @@ var database = [
 	        
 ["film", ["Heavy Trip", "Heavy Trip", "Hevi reissu"], "2018", ["2020 05 31"], 6, ["ger"], ["comedy", "music"], ["syl", "je"], ["DVD"], ["Juuso Laatio", "Jukka Vidgren"], [], "https://66.media.tumblr.com/74693cbef6632708b889a9ab760da36a/ac02361d3d84cb1e-de/s250x400/432934756fe38c1ae41986f3f2a6cba3cab8cc3c.jpg"],
 	        
-["film", ["Every Day", "Letztendlich sind wir dem Universum egal"], "2018", ["2020 05 22"], 4, ["ger"], ["drama", "fantasy"], ["syl"], ["LGBT"], ["Michael Sucsy"], ["Angourie Rice", "Jeni Ross", "Lucas Jade Zumann", "Justice Smith"], "https://66.media.tumblr.com/0bfa9c19b7cb0ba0cf0511afa1e77f8d/e34dee8f5dc329bf-28/s250x400/7e39471427e2c327ebc5be055f02656bf5f8dd01.jpg"],
+["film", ["Every Day", "Letztendlich sind wir dem Universum egal"], "2018", ["2020 05 22"], 4, ["ger"], ["drama", "fantasy"], ["syl"], ["LGBT"], ["Michael Sucsy"], ["Angourie Rice", "Jeni Ross", "Lucas Jade Zumann", "Justice Smith", "Maria Bello"], "https://66.media.tumblr.com/0bfa9c19b7cb0ba0cf0511afa1e77f8d/e34dee8f5dc329bf-28/s250x400/7e39471427e2c327ebc5be055f02656bf5f8dd01.jpg"],
 	        
 ["film", ["To All the Boys: P.S. I Still Love You", "To All the Boys I've Loved Before 2"], "2020", ["2020 05 08"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Michael Fimognari"], ["Lana Condor", "Noah Centineo", "Jordan Fisher", "Anna Cathcart", "Ross Butler", "Holland Taylor", "Emilija Baranac", "Momona Tamada"], "https://66.media.tumblr.com/9e25c39bb7f9e1657a62ad3154442813/df0cf4bb7c0fe088-ce/s250x400/201f0cb2903604f92144b379d20a2fcd5142fdd1.jpg"],
 	        
@@ -1046,7 +1046,7 @@ var database = [
 	        
 ["film", ["X-Men Origins: Wolverine"], "2009", ["2016 03 03"], 7, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel"], ["Gavin Hood"], ["Hugh Jackman", "Liev Schreiber", "Will.i.am", "Lynn Collins", "Dominic Monaghan", "Ryan Reynolds", "Patrick Stewart", "Kevin Durand"], "https://40.media.tumblr.com/b5468276ef5005807899a1a2ad4445be/tumblr_o3hezvpYLa1v2s5upo1_250.jpg"],
 	        
-["film", ["X: First Class", "X-Men: Erste Entscheidung"], "2011", ["2016 03 04", "2017 07 22"], 8, ["ger"], ["action", "adventure", "supernatural"], ["nico", "sai"], ["X-Men", "Marvel"], ["Matthew Vaughn"], ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Nicholas Hoult", "Hugh Jackman",  "Tony Curran"], "https://37.media.tumblr.com/015833008c28c8bfb1fd9866f74c1ab7/tumblr_o3jcz7QiOQ1v2s5upo1_250.jpg"],
+["film", ["X: First Class", "X-Men: Erste Entscheidung"], "2011", ["2016 03 04", "2017 07 22", "2024 05 31"], 8, ["ger"], ["action", "adventure", "supernatural"], ["nico", "sai"], ["X-Men", "Marvel", "Disney+"], ["Matthew Vaughn"], ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Nicholas Hoult", "Hugh Jackman",  "Tony Curran"], "https://37.media.tumblr.com/015833008c28c8bfb1fd9866f74c1ab7/tumblr_o3jcz7QiOQ1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Wolverine", "Wolverine: Weg des Kriegers"], "2013", ["2016 03 05", "2017 07 18"], 8, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel"], ["James Mangold"], ["Hugh Jackman", "Ian McKellen", "Patrick Stewart", "Hiroyuki Sanada", "Famke Janssen"], "https://49.media.tumblr.com/264f3a962c02c1111dfc98b562fa3f54/tumblr_o3mabcUxiF1v2s5upo1_250.jpg"],
 	        
@@ -1874,7 +1874,7 @@ var database = [
 
 ["series", ["Bonding"], ["2018", "2021"], [["2021 09 02", "S1E1-E2"]], 3, ["ger"], ["comedy", "drama"], [], ["Netflix", "dropped"], ["Rightor Doyle", "Rightor Doyle", "Nana Mensah"], ["Zoe Levin", "Brendan Scannell"], "https://64.media.tumblr.com/18c8b1dce9ebf0738fe3cf018eccfbd9/10cce270cc72396d-08/s250x400/c3de1fa9e268a7c847f0af4416c3261d706ccd60.jpg"],
 
-["film", ["The Water Man"], "2020", ["2021 09 02"], 6, ["ger"], ["adventure", "drama"], [], ["Netflix"], ["David Oyelowo"], ["Amiah Miller", "Lonnie Chavis", "Amiah Miller"], "https://64.media.tumblr.com/9c2920a48ef1bc8b8d2340b31d717ba5/6c55f388ce7bbef4-06/s250x400/f0dd6b5e4cb3964c5ef285e5fba891a96098dba3.jpg"],
+["film", ["The Water Man"], "2020", ["2021 09 02"], 6, ["ger"], ["adventure", "drama"], [], ["Netflix"], ["David Oyelowo"], ["Amiah Miller", "Lonnie Chavis", "Amiah Miller", "Maria Bello"], "https://64.media.tumblr.com/9c2920a48ef1bc8b8d2340b31d717ba5/6c55f388ce7bbef4-06/s250x400/f0dd6b5e4cb3964c5ef285e5fba891a96098dba3.jpg"],
 
 ["film", ["King Arthur: Legend of the Sword"], "2017", ["2021 09 06"], 8, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Guy Ritchie"], ["Charlie Hunnam", "Astrid Bergès-Frisbey", "Jude Law", "Djimon Hounsou", "Aidan Gillen", "Poppy Delevingne", "Millie Brady", "Katie McGrath", "Hermione Corfield", "Lucy Chappell"], "https://64.media.tumblr.com/4a897481c8358d9c1e24117a5ccac00e/b1499228b5e33a25-eb/s250x400/d4ff3c4222a6c01e50c24c7f0bee5a7440b62037.jpg"],
 
@@ -2960,7 +2960,7 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! - Die blauen Pudel des Sir Theodore"], "2018", [["2024 04 30", "2024 05 03"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1432c3b1407eea110f41c3e7b1c8dcaa/fc046d1d6e3ae34b-fd/s250x400/e70ca62c09d1bf3ef73be4a04faef382f275cd48.jpg"],
 
-["book", ["Herzkribbeln im Gepäck"], "2006", [["2024 05 01", ""]], 0, ["ger"], ["young adult"], [], ["Freche Mädchen", "bibliothek", "watching"], ["Sabine Both"], [], "https://64.media.tumblr.com/d28917f892e5292b41187851fe290d95/39afa25c259eb1d9-4e/s400x600/4323f4a4ae470588b1fddaa8cdbea0c63caae946.jpg"],
+["book", ["Herzkribbeln im Gepäck"], "2006", [["2024 05 01", "2024 05 27"]], 7, ["ger"], ["young adult"], [], ["Freche Mädchen", "bibliothek"], ["Sabine Both"], [], "https://64.media.tumblr.com/d28917f892e5292b41187851fe290d95/39afa25c259eb1d9-4e/s400x600/4323f4a4ae470588b1fddaa8cdbea0c63caae946.jpg"],
 
 ["film", ["Max Minsky and Me", "Max Minsky und ich"], "2007", ["2024 05 05"], 7, ["ger"], ["comedy", "romance"], [], ["bibliothek"], ["Anna Justice"], ["Zoe Moore", "Jan Josef Liefers", "Carina Wiese", "Rainer Reiners", "Margarita Broich"], "https://64.media.tumblr.com/18051579d87e87700d3910fa11ee1d9b/7df0ae85120295aa-da/s250x400/8a4b324e5fd431c2ca8ab43abbc01d158719488e.jpg"],
 
@@ -2984,9 +2984,13 @@ var database = [
 
 ["film", ["Summer Rebels", "Sommer-Rebellen"], "2020", [["2024 05 18", "2024 05 19"]], 5, ["ger"], ["family"], ["bini", "syl"], ["bibliothek"], ["Martina Sakova"], [], "https://64.media.tumblr.com/f4a17f489207a1c3d246eba0489d6397/21f88e7192a9f977-53/s250x400/0579154ce4bfb29fd9996fbc0cf9199100535cde.jpg"],
 
+["film", ["Giant Little Ones"], "2018", ["2024 05 20"], 7, ["ger"], ["drama"], [], ["bibliothek"], ["Keith Behrman"], ["Maria Bello", "Kyle MacLachlan"], "https://64.media.tumblr.com/b44887bb95e9bd7091f49bddfbad42f1/c725874f856ffb69-09/s250x400/a118364c3f441add298f223d00b47131aeb3d611.jpg"],
+
 ["film", ["Disturbia", "Disturbia - Auch Killer haben Nachbarn"], "2007", ["2024 05 25"], 7, ["ger"], ["thriller", "crime", "drama"], [], ["Netflix"], ["D.J. Caruso"], ["Shia LaBeouf", "Carrie-Anne Moss"], "https://64.media.tumblr.com/c4bc473a599590c1d4f053a78d1af8ee/0ee0eb5926f8712a-9c/s250x400/9ced9602fef46d3bd4dadb24180b4687e9b1a326.jpg"],
 
-["film", ["Belle", "Belle", "Ryuu to Sobakasu no Hime"], "2021", ["2024 05 25"], 6, ["ger"], ["anime", "adventure", "drama"], ["bini", "syl"], ["bibliothek"], ["Mamoru Hosoda"], [], "https://64.media.tumblr.com/9a91a44df60625bc343dc8cab4101a62/dba0d0be43ce1d2f-10/s250x400/8b9bbab22777aeab2d3f3d1b12c402a784d18390.jpg"]
+["film", ["Belle", "Belle", "Ryuu to Sobakasu no Hime"], "2021", ["2024 05 25"], 6, ["ger"], ["anime", "adventure", "drama"], ["bini", "syl"], ["bibliothek"], ["Mamoru Hosoda"], [], "https://64.media.tumblr.com/9a91a44df60625bc343dc8cab4101a62/dba0d0be43ce1d2f-10/s250x400/8b9bbab22777aeab2d3f3d1b12c402a784d18390.jpg"],
+
+["series", ["Chainsaw Man"], "2022", [["2024 05 27", "", "S1"]], 0, ["ger"], ["anime", "action"], ["bini", "nico"], ["watching"], ["Tatsuki Fujimoto", "Hiroshi Seko"], [], "https://64.media.tumblr.com/60176d45cfd946620b6f2936b39cc62d/89d3c8d64cdec204-4b/s250x400/bdc3ef23221cb7e2fd4d139876aa708f10c3426b.jpg"]
 
 /*
 ,
