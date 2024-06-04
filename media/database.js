@@ -1038,7 +1038,7 @@ var database = [
 	        
 ["film", ["Indiana Jones and the Temple of Doom", "Indiana Jones und der Tempel des Todes"], "1984", ["2015 11 10"], 5, ["ger"], ["action", "adventure"], ["bini"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Ke Huy Quan"], "https://66.media.tumblr.com/20b2adb7329022b1b43f3eee1a3342f9/tumblr_px706pD5dM1v2s5upo1_250.jpg"],
 	        
-["film", ["X-Men"], "2000", ["2016 02 21", "2017 07 22"], 7, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel"], ["Bryan Singer"], ["Hugh Jackman", "Patrick Stewart", "Ian McKellen", "James Marsden", "Halle Berry", "Stan Lee", "Anna Paquin", "Famke Janssen"], "https://49.media.tumblr.com/36b6998db751be2c82f725d09c720e84/tumblr_o2ygwyADor1v2s5upo1_250.jpg"],
+["film", ["X-Men"], "2000", ["2016 02 21", "2017 07 22", "2024 06 04"], 7, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel", "Disney+"], ["Bryan Singer"], ["Hugh Jackman", "Patrick Stewart", "Ian McKellen", "James Marsden", "Halle Berry", "Stan Lee", "Anna Paquin", "Famke Janssen"], "https://49.media.tumblr.com/36b6998db751be2c82f725d09c720e84/tumblr_o2ygwyADor1v2s5upo1_250.jpg"],
 	        
 ["film", ["X2", "X-Men 2"], "2003", ["2016 02 27", "2017 07 22"], 8, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel"], ["Bryan Singer"], ["Patrick Stewart", "Hugh Jackman", "Ian McKellen", "Halle Berry", "James Marsden", "Anna Paquin", "Kelly Hu", "Shauna Kain", "Famke Janssen"], "https://40.media.tumblr.com/b8ef727ee3a072eaa1a9823f144c1f09/tumblr_o395j9bRxr1v2s5upo1_250.jpg"],
 	        
@@ -2990,7 +2990,9 @@ var database = [
 
 ["film", ["Belle", "Belle", "Ryuu to Sobakasu no Hime"], "2021", ["2024 05 25"], 6, ["ger"], ["anime", "adventure", "drama"], ["bini", "syl"], ["bibliothek"], ["Mamoru Hosoda"], [], "https://64.media.tumblr.com/9a91a44df60625bc343dc8cab4101a62/dba0d0be43ce1d2f-10/s250x400/8b9bbab22777aeab2d3f3d1b12c402a784d18390.jpg"],
 
-["series", ["Chainsaw Man"], "2022", [["2024 05 27", "", "S1"]], 0, ["ger"], ["anime", "action"], ["bini", "nico"], ["watching"], ["Tatsuki Fujimoto", "Hiroshi Seko"], [], "https://64.media.tumblr.com/60176d45cfd946620b6f2936b39cc62d/89d3c8d64cdec204-4b/s250x400/bdc3ef23221cb7e2fd4d139876aa708f10c3426b.jpg"]
+["series", ["Chainsaw Man"], "2022", [["2024 05 27", "", "S1"]], 0, ["ger"], ["anime", "action"], ["bini", "nico"], ["watching"], ["Tatsuki Fujimoto", "Hiroshi Seko"], [], "https://64.media.tumblr.com/60176d45cfd946620b6f2936b39cc62d/89d3c8d64cdec204-4b/s250x400/bdc3ef23221cb7e2fd4d139876aa708f10c3426b.jpg"],
+
+["book", ["Magic Girls: Der verhängnisvolle Fluch"], "2008", [["2024 06 03", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Marliese Arold"], [], "https://64.media.tumblr.com/9ac8d12e98b444108f79786cc470f18b/16df4ee59047e1ec-a9/s250x400/3f1c304b4d7ad8e32d33ab55cc6378b1388069bf.jpg"]
 
 /*
 ,
