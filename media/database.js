@@ -1042,7 +1042,7 @@ var database = [
 	        
 ["film", ["X2", "X-Men 2"], "2003", ["2016 02 27", "2017 07 22", "2024 06 08"], 8, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel", "Disney+"], ["Bryan Singer"], ["Patrick Stewart", "Hugh Jackman", "Ian McKellen", "Halle Berry", "James Marsden", "Anna Paquin", "Kelly Hu", "Shauna Kain", "Famke Janssen"], "https://40.media.tumblr.com/b8ef727ee3a072eaa1a9823f144c1f09/tumblr_o395j9bRxr1v2s5upo1_250.jpg"],
 	        
-["film", ["X-Men: The Last Stand", "X-Men: Der letzte Widerstand"], "2006", ["2016 02 28"], 8, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel"], ["Brett Ratner"], ["Hugh Jackman", "Halle Berry", "Ian McKellen", "Patrick Stewart", "James Marsden", "Elliot Page", "Stan Lee", "Ken Leung", "Anna Paquin", "Shauna Kain", "Vinnie Jones", "Famke Janssen"], "https://40.media.tumblr.com/ba8f0dcf563bf457159cb1b1e6b4e914/tumblr_o39hglQYA21v2s5upo1_250.jpg"],
+["film", ["X-Men: The Last Stand", "X-Men: Der letzte Widerstand"], "2006", ["2016 02 28", "2024 06 14"], 8, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel", "Disney+"], ["Brett Ratner"], ["Hugh Jackman", "Halle Berry", "Ian McKellen", "Patrick Stewart", "James Marsden", "Elliot Page", "Stan Lee", "Ken Leung", "Anna Paquin", "Shauna Kain", "Vinnie Jones", "Famke Janssen"], "https://40.media.tumblr.com/ba8f0dcf563bf457159cb1b1e6b4e914/tumblr_o39hglQYA21v2s5upo1_250.jpg"],
 	        
 ["film", ["X-Men Origins: Wolverine"], "2009", ["2016 03 03", "2024 06 01"], 7, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel", "Disney+"], ["Gavin Hood"], ["Hugh Jackman", "Liev Schreiber", "Will.i.am", "Lynn Collins", "Dominic Monaghan", "Ryan Reynolds", "Patrick Stewart", "Kevin Durand"], "https://40.media.tumblr.com/b5468276ef5005807899a1a2ad4445be/tumblr_o3hezvpYLa1v2s5upo1_250.jpg"],
 	        
@@ -2978,7 +2978,7 @@ var database = [
 
 ["film", ["Bullet Train"], "2022", ["2024 05 13"], 7, ["ger"], ["action", "comedy"], ["bini", "nico"], ["Netflix"], ["David Leitch"], ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson", "Brian Tyree Henry", "Hiroyuki Sanada", "Michael Shannon", "Sandra Bullock", "Logan Lerman", "Zazie Beetz"], "https://64.media.tumblr.com/a74c3ec091b171144ac50562a9a2dcf1/4eb56170934a59bb-26/s250x400/3bf99e978c552b9fb061e293e980a39133f94b0b.jpg"],
 
-["series", ["Death and Other Details"], "2024", [["2024 05 15", "", "S1"]], 0, ["ger"], ["crime", "drama"], ["bini", "nico"], ["Disney+", "watching"], ["Heidi Cole McAdams", "Mike Weiss"], ["Sophia Reid-Gantzert"], "https://64.media.tumblr.com/f42c6a6687a689902e06988d662a6cbb/9a36b150a966f6ac-c6/s250x400/4cedc0d13ce57b922a9586393c932b967f614dfb.jpg"],
+["series", ["Death and Other Details"], "2024", [["2024 05 15", "2024 06 12", "S1"]], 6, ["ger"], ["crime", "drama"], ["bini", "nico"], ["Disney+"], ["Heidi Cole McAdams", "Mike Weiss"], ["Sophia Reid-Gantzert"], "https://64.media.tumblr.com/f42c6a6687a689902e06988d662a6cbb/9a36b150a966f6ac-c6/s250x400/4cedc0d13ce57b922a9586393c932b967f614dfb.jpg"],
 
 ["film", ["Godzilla x Kong: The New Empire"], "2024", ["2024 05 18"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Kino", "Godzilla"], ["Adam Wingard"], ["Rebecca Hall", "Brian Tyree Henry"], "https://64.media.tumblr.com/0aa4c008b0ab846075a2ec42fb44e30c/46e48c04275f215f-09/s250x400/5260178649df89769e638cd06ef371ca29039ffd.jpg"],
 
