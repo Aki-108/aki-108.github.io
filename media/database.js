@@ -273,7 +273,7 @@ var database = [
 	        
 ["audiobook", ["Harry Potter and the Prisoner of Azkaban", "Harry Potter und der Gefangene von Askaban"], "1999", [["2020 04 16", "2020 04 20"], ["2024 04 18", "2024 04 21"]], 7, ["eng", "ger"], ["fantasy"], ["bini", "je"], ["Harry Potter", "bibliothek"], ["J. K. Rowling"], ["Rufus Beck"], "https://66.media.tumblr.com/78fbdc3412e763a17de094424ce355e7/9862fefdfb24969d-49/s250x400/6c0a3289da29b8ba63c7df54d9ea48d8e6ae6cd8.jpg"],
 	        
-["audiobook", ["Harry Potter and the Goblet of Fire", "Harry Potter und der Feuerkelch"], "2000", [["2020 04 20", "2020 04 28"], ["2024 05 22", ""]], 8, ["eng", "ger"], ["fantasy"], [], ["Harry Potter", "bibliothek", "watching"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/98513d3fa323b1e7173bc6cf0084c141/647f7d9154339e1c-35/s250x400/9443bafcfec3da25fb6ea229572e1153aa4de7a6.jpg"],
+["audiobook", ["Harry Potter and the Goblet of Fire", "Harry Potter und der Feuerkelch"], "2000", [["2020 04 20", "2020 04 28"], ["2024 05 22", "2024 06 20"]], 8, ["eng", "ger"], ["fantasy"], [], ["Harry Potter", "bibliothek"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/98513d3fa323b1e7173bc6cf0084c141/647f7d9154339e1c-35/s250x400/9443bafcfec3da25fb6ea229572e1153aa4de7a6.jpg"],
 	        
 ["audiobook", ["Harry Potter and the Order of the Phoenix", "Harry Potter und der Orden des Phönix"], "2003", [["2020 04 28", "2020 05 15"]], 7, ["ger"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/b7a65bfb1d5dc1f44303c244a35ea738/67abaad83c1f411b-15/s250x400/30116d554837ac504bc72be30ea922ce5f2423fd.jpg"],
 	        
@@ -367,7 +367,7 @@ var database = [
 	        
 ["series", ["Stranger Things"], "2016", [["2017 09 30", "2017 10 01", "S1"], ["2017 10 28", "2017 10 29", "S2"], ["2019 07 05", "2019 07 09", "S3"]], 8, ["ger"], ["drama", "fantasy", "horror", "mystery", "thriller", "sci-fi"], ["bini"], ["Netflix"], ["Matt Duffer", "Ross Duffer"], ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Sean Astin", "Joe Chrest", "Jamie Campbell Bower", "Maya Hawke", "Charlie Heaton"], "https://66.media.tumblr.com/c8b627f6c4e359d3e447107df3fbf426/67ddec5eb9eb235d-ed/s250x400/d663062da2fa7916f4f53c57f65e0a4898097490.jpg"],
 	        
-["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt", "Alisha Boe", "Timothy Granaderos", "Gary Sinise", "Megan Suri"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
+["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt", "Alisha Boe", "Timothy Granaderos", "Gary Sinise", "Megan Suri", "Allison Miller"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
 	        
 ["series", ["The Gay and Wondrous Life of Caleb Gallo"], "2016", [["2017 11 13", "S1"]], 9, ["eng"], ["comedy"], [], ["LGBT"], ["Brian Jordan Alvarez"], ["Stephanie Koenig"], "https://66.media.tumblr.com/97c1954bda4e7b0b57b0319e5e81122b/2f29f380c419c57b-6e/s250x400/699fdf7706dedfa3e63fc76ba474408ea3e3fd06.jpg"],
 	        
@@ -528,7 +528,7 @@ var database = [
 	        
 ["film", ["The Old Guard"], "2020", ["2020 07 27"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Gina Prince-Bythewood"], ["Chiwetel Ejiofor", "Harry Melling", "Matthias Schoenaerts", "Orlando Seale", "Charlize Theron"], "https://64.media.tumblr.com/89ad420fc18f829fdc232cc078a87e4f/6a3b04b9ffb46ba4-e0/s250x400/e002ec38f2252118eb151df79eadaf794c231b0d.jpg"],
 	        
-["film", ["17 Again", "17 Again - Back to High School"], "2009", ["2020 07 25"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Burr Steers"], ["Zac Efron", "Matthew Perry", "Michelle Trachtenberg", "Michelle Trachtenberg"], "https://64.media.tumblr.com/0d4b4127a01f8d85f22ea9e8504476cf/e253c3091319ef95-91/s250x400/c0c7bc733244a81b173fadde533e8288b7974113.jpg"],
+["film", ["17 Again", "17 Again - Back to High School"], "2009", ["2020 07 25"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Burr Steers"], ["Zac Efron", "Matthew Perry", "Michelle Trachtenberg", "Michelle Trachtenberg", "Allison Miller"], "https://64.media.tumblr.com/0d4b4127a01f8d85f22ea9e8504476cf/e253c3091319ef95-91/s250x400/c0c7bc733244a81b173fadde533e8288b7974113.jpg"],
 	        
 ["film", ["Catch Me If You Can"], "2002", ["2020 07 21", "2021 10 09"], 8, ["ger"], ["biography", "crime"], [], ["Netflix"], ["Steven Spielberg"], ["Leonardo DiCaprio", "Tom Hanks", "Christopher Walken", "Amy Adams", "Jennifer Garner", "Ellen Pompeo", "Elizabeth Banks"], "https://64.media.tumblr.com/93357d4f48df3e0b2b0dfc95e82bcbcc/ff023cbce9ed2f16-8c/s250x400/7b7873def851e0fb4c04653412b4cdaab1303f9e.jpg"],
 	        
@@ -620,7 +620,7 @@ var database = [
 	        
 ["film", ["Pretty in Pink"], "1986", ["2017 02 04"], 6, ["ger"], ["comedy", "drama"], [], [], ["Howard Deutch"], ["Molly Ringwald", "Jon Cryer"], "https://68.media.tumblr.com/536a8daae8af15bd330e30d2f20b2a1c/tumblr_okvc3qB3zY1v2s5upo1_250.jpg"],
 	        
-["film", ["Avatar", "Avatar - Aufbruch nach Pandora"], "2009", ["2017 02 13", "2018 07 14"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], [], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Michelle Rodriguez", "Giovanni Ribisi"], "https://68.media.tumblr.com/b624a80e83ee671903da746329d4eea1/tumblr_olj7dc7cje1v2s5upo1_250.jpg"],
+["film", ["Avatar", "Avatar - Aufbruch nach Pandora"], "2009", ["2017 02 13", "2018 07 14"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], [], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Michelle Rodriguez", "Giovanni Ribisi", "Stephen Lang"], "https://68.media.tumblr.com/b624a80e83ee671903da746329d4eea1/tumblr_olj7dc7cje1v2s5upo1_250.jpg"],
 	        
 ["film", ["Logan", "Logan: The Wolverine"], "2017", ["2017 03 02", "2020 03 02", "2023 12 07"], 8, ["ger"], ["action", "drama", "supernatural"], ["nico"], ["Kino", "X-Men", "Marvel", "Disney+"], ["James Mangold"], ["Hugh Jackman", "Patrick Stewart", "Dafne Keen", "Stephen Merchant", "Boyd Holbrook"], "https://68.media.tumblr.com/42f0e6d37b2f98c78afda5b69edaf6d5/tumblr_om8zfwTnMX1v2s5upo1_250.jpg"],
 	        
@@ -2441,7 +2441,7 @@ var database = [
 
 ["audiobook", ["Unsterblich Mein"], "2019", [["2022 11 18", "2022 11 28"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/9d727d06c597a9572f6915f84c2760d6/cda6196b0d95f6f9-32/s250x400/2ae71a9cbd2d15811ef226f2ea8af8ecf1b7f55b.jpg"],
 
-["film", ["Mortal Engines", "Mortal Engines - Krieg der Städte"], "2018", [["2022 11 26", "2022 12 03"]], 6, ["ger"], ["action", "adventure"], ["bini"], [], ["Christian Rivers"], ["Robert Sheehan", "Hugo Weaving"], "https://64.media.tumblr.com/09242d299b0506d4bb67fa2bc81bd748/476b2d1b4df2db9d-67/s250x400/3e90af52bdaf491ead81bfd98b4099f60097eec0.jpg"],
+["film", ["Mortal Engines", "Mortal Engines - Krieg der Städte"], "2018", [["2022 11 26", "2022 12 03"]], 6, ["ger"], ["action", "adventure"], ["bini"], [], ["Christian Rivers"], ["Robert Sheehan", "Hugo Weaving", "Stephen Lang"], "https://64.media.tumblr.com/09242d299b0506d4bb67fa2bc81bd748/476b2d1b4df2db9d-67/s250x400/3e90af52bdaf491ead81bfd98b4099f60097eec0.jpg"],
 
 ["audiobook", ["Unendlich Dein"], "2019", [["2022 11 29", "2022 12 08"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/e1f8944a297283a791928752ba440569/9bff45cf22f5b48f-c9/s250x400/b28a8e2836c05cb37d6cf9feed862628df3677b8.jpg"],
 
@@ -2762,7 +2762,7 @@ var database = [
 
 ["audiobook", ["Vincent und das Geisterlama"], "2022", ["2023 10 17"], 4, ["ger"], ["adventure"], [], ["bibliothek"], ["Sonja Kaiblinger"], ["Christian Rudolf"], "https://64.media.tumblr.com/e4916a2e4b5ede5e45732ba30e2ffc64/476d775c139e021c-5d/s250x400/b6b47552457d9ef113e951fccc9edfe237df2c4b.jpg"],
 
-["film", ["Avatar: The Way of Water"], "2022", [["2023 10 23", "2023 10 25"]], 8, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Chloe Coleman"], "https://64.media.tumblr.com/5d939c5d537f6c78a5358fb7c7b76ce9/3d9c444cb5301eec-20/s250x400/4da20fb477cb01c2057b5bf0a171466eca5ddc0b.jpg"],
+["film", ["Avatar: The Way of Water"], "2022", [["2023 10 23", "2023 10 25"]], 8, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Chloe Coleman", "Stephen Lang"], "https://64.media.tumblr.com/5d939c5d537f6c78a5358fb7c7b76ce9/3d9c444cb5301eec-20/s250x400/4da20fb477cb01c2057b5bf0a171466eca5ddc0b.jpg"],
 
 ["film", ["Of Mice and Men", "Von Mäusen und Menschen"], "1992", ["2023 10 29"], 8, ["ger"], ["drama", "western"], ["bini", "syl"], ["bibliothek"], ["Gary Sinise"], ["Gary Sinise", "John Terry"], "https://64.media.tumblr.com/737fe944e99b4e51575b679c1c4880f1/5380813e916f97ac-b1/s250x400/893e1cce1a3f581c19a0924f75b8086c825d04aa.jpg"],
 
@@ -2996,7 +2996,9 @@ var database = [
 
 ["series", ["Hunter x Hunter"], "2011", [["2024 06 10", "", "S1"]], 0, ["ger"], ["action", "adventure", "fantasy", "anime"], ["bini", "nico"], ["watching"], ["Yoshihiro Togashi"], [], "https://64.media.tumblr.com/2ebb120d0bf3301ebc691be3aa002630/967c42b346f32be8-8e/s250x400/84d2436706e5260e3a3c2c283d5faae26027c2e2.jpg"],
 
-["film", ["No Hard Feelings"], "2023", ["2024 06 15"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Gene Stupnitsky"], ["Jennifer Lawrence"], "https://64.media.tumblr.com/a83b8ad45ed44ca4828a0c707bac5015/f2ba6cdbe212cac2-40/s250x400/483f42f1c3304a1d0b789a558985554fd4ab4084.jpg"]
+["film", ["No Hard Feelings"], "2023", ["2024 06 15"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Gene Stupnitsky"], ["Jennifer Lawrence"], "https://64.media.tumblr.com/a83b8ad45ed44ca4828a0c707bac5015/f2ba6cdbe212cac2-40/s250x400/483f42f1c3304a1d0b789a558985554fd4ab4084.jpg"],
+
+["series", ["Terra Nova"], "2011", [["2024 06 19", "", "S1"]], 0, ["ger"], ["adventure", "drama"], ["bini", "nico"], ["Disney+", "watching"], ["Craig Silverstein"], ["Allison Miller", "Stephen Lang"], "https://64.media.tumblr.com/07862da583cbd914a73c554731d7afd9/c677d3003418b395-68/s250x400/bd056c90308660a96e0a49ffccafcdaa0b1cf1de.jpg"]
 
 /*
 ,
