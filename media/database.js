@@ -2808,7 +2808,7 @@ var database = [
 
 ["film", ["The Mother"], "2023", ["2023 12 05"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Niki Caro"], ["Omari Hardwick"], "https://64.media.tumblr.com/b1f04bc25768fd9208ea9c4f1bb8bde2/b36bbf8c9d51d7aa-fc/s250x400/442a97012627c3e4f54891915f50b1854fd632c2.jpg"],
 
-["film", ["Dark Phoenix", "X-Men: Dark Phoenix"], "2019", ["2023 12 05"], 8, ["ger"], ["action", "adventure"], [], ["Disney+", "X-Men", "Marvel"], ["Simon Kinberg"], ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Nicholas Hoult", "Tye Sheridan", "Alexandra Shipp", "Evan Peters", "Jessica Chastain", "Sophie Turner"], "https://64.media.tumblr.com/6ef85a6240eb3dff554d8a47f6d03f17/8a80fbe94d900a5f-32/s250x400/a4f35d707b39724889b8a98bb8cf8d72423f4234.jpg"],
+["film", ["Dark Phoenix", "X-Men: Dark Phoenix"], "2019", ["2023 12 05", "2024 06 23"], 8, ["ger"], ["action", "adventure"], [], ["Disney+", "X-Men", "Marvel"], ["Simon Kinberg"], ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Nicholas Hoult", "Tye Sheridan", "Alexandra Shipp", "Evan Peters", "Jessica Chastain", "Sophie Turner"], "https://64.media.tumblr.com/6ef85a6240eb3dff554d8a47f6d03f17/8a80fbe94d900a5f-32/s250x400/a4f35d707b39724889b8a98bb8cf8d72423f4234.jpg"],
 
 ["film", ["Mission: Impossible - Fallout"], "2018", ["2023 12 06"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Christopher McQuarrie"], ["Tom Cruise", "Henry Cavill", "Ving Rhames", "Simon Pegg", "Rebecca Ferguson", "Vanessa Kirby", "Angela Bassett"], "https://64.media.tumblr.com/0277077663f088898f1db47d5b5aa496/ee9ddbe48c674792-ba/s250x400/99f981327d53a871ee76ac0cd14fb98041fbf199.jpg"],
 
