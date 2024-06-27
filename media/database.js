@@ -2992,7 +2992,7 @@ var database = [
 
 ["series", ["Chainsaw Man"], "2022", [["2024 05 27", "2024 06 05", "S1"]], 8, ["ger"], ["anime", "action"], ["bini", "nico"], [], ["Tatsuki Fujimoto", "Hiroshi Seko"], [], "https://64.media.tumblr.com/60176d45cfd946620b6f2936b39cc62d/89d3c8d64cdec204-4b/s250x400/bdc3ef23221cb7e2fd4d139876aa708f10c3426b.jpg"],
 
-["book", ["Magic Girls: Der verhängnisvolle Fluch"], "2008", [["2024 06 03", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Marliese Arold"], [], "https://64.media.tumblr.com/9ac8d12e98b444108f79786cc470f18b/16df4ee59047e1ec-a9/s250x400/3f1c304b4d7ad8e32d33ab55cc6378b1388069bf.jpg"],
+["book", ["Magic Girls: Der verhängnisvolle Fluch"], "2008", [["2024 06 03", "2024 06 26", "C1-C3"]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "dropped", "ongoing"], ["Marliese Arold"], [], "https://64.media.tumblr.com/9ac8d12e98b444108f79786cc470f18b/16df4ee59047e1ec-a9/s250x400/3f1c304b4d7ad8e32d33ab55cc6378b1388069bf.jpg"],
 
 ["series", ["Hunter x Hunter"], "2011", [["2024 06 10", "", "S1"]], 0, ["ger"], ["action", "adventure", "fantasy", "anime"], ["bini", "nico"], ["watching"], ["Yoshihiro Togashi"], [], "https://64.media.tumblr.com/2ebb120d0bf3301ebc691be3aa002630/967c42b346f32be8-8e/s250x400/84d2436706e5260e3a3c2c283d5faae26027c2e2.jpg"],
 
