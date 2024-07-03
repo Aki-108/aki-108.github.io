@@ -3000,7 +3000,11 @@ var database = [
 
 ["series", ["Terra Nova"], "2011", [["2024 06 19", "", "S1"]], 0, ["ger"], ["adventure", "drama"], ["bini", "nico"], ["Disney+", "watching"], ["Craig Silverstein"], ["Allison Miller", "Stephen Lang"], "https://64.media.tumblr.com/07862da583cbd914a73c554731d7afd9/c677d3003418b395-68/s250x400/bd056c90308660a96e0a49ffccafcdaa0b1cf1de.jpg"],
 
-["series", ["Geek Girl"], "2024", [["2024 06 29", "2024 06 30", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Georgie Armour", "Sarah Morgan", "Zoë Rocha"], ["Hebe Beardsall"], "https://64.media.tumblr.com/5e151ffc9bd79f5789c9a69cceb6eb57/4684056fc2e1138f-df/s250x400/85809bc01a32d16e46e50dd20a290a134fe0b50d.jpg"]
+["series", ["Geek Girl"], "2024", [["2024 06 29", "2024 06 30", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Georgie Armour", "Sarah Morgan", "Zoë Rocha"], ["Hebe Beardsall"], "https://64.media.tumblr.com/5e151ffc9bd79f5789c9a69cceb6eb57/4684056fc2e1138f-df/s250x400/85809bc01a32d16e46e50dd20a290a134fe0b50d.jpg"],
+
+["series", ["3 Body Problem"], "2024", [["2024 07 02", "", "S1"]], 0, ["ger"], ["adventure", "drama"], [], ["Netflix", "watching"], ["David Benioff", "Cixin Liu"], [], "https://64.media.tumblr.com/8f210ed62f967471de06d8e95c120a63/e3c3dec8ba53e611-c2/s250x400/0a684990f7675fd2d2a16ff8fb9500d108e811b5.jpg"],
+
+["book", ["Holes", "Löcher - Die Geheimnisse von Green Lake"], "1998", [["2024 07 02", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Louis Sachar"], [], "https://64.media.tumblr.com/d079879d96719918fcc8e73ac850a3ed/35b01111b956299e-8c/s250x400/2b1bb383851e142b4341890b7a4f9af03c3fa7ea.jpg"]
 
 /*
 ,
