@@ -3004,7 +3004,13 @@ var database = [
 
 ["series", ["3 Body Problem"], "2024", [["2024 07 02", "", "S1"]], 0, ["ger"], ["adventure", "drama"], [], ["Netflix", "watching"], ["David Benioff", "Cixin Liu"], [], "https://64.media.tumblr.com/8f210ed62f967471de06d8e95c120a63/e3c3dec8ba53e611-c2/s250x400/0a684990f7675fd2d2a16ff8fb9500d108e811b5.jpg"],
 
-["book", ["Holes", "Löcher - Die Geheimnisse von Green Lake"], "1998", [["2024 07 02", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Louis Sachar"], [], "https://64.media.tumblr.com/d079879d96719918fcc8e73ac850a3ed/35b01111b956299e-8c/s250x400/2b1bb383851e142b4341890b7a4f9af03c3fa7ea.jpg"]
+["book", ["Holes", "Löcher - Die Geheimnisse von Green Lake"], "1998", [["2024 07 02", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Louis Sachar"], [], "https://64.media.tumblr.com/d079879d96719918fcc8e73ac850a3ed/35b01111b956299e-8c/s250x400/2b1bb383851e142b4341890b7a4f9af03c3fa7ea.jpg"],
+
+["film", ["Wreck-It Ralph", "Ralph reichts"], "2012", [["2024 07 06", "2024 07 07"]], 7, ["ger"], ["animation", "adventure"], ["bini", "syl", "je"], ["Disney+"], ["Rich Moore"], [], "https://64.media.tumblr.com/13d2c772b689524002c861f2a3d134a1/a7f6d04350bbe794-42/s250x400/b605276cc61c5db98b280484b2ef0e4e4ce99cc5.jpg"],
+
+["film", ["Moneyball", "Die Kunst zu gewinnen - Moneyball"], "2011", ["2024 07 07"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Bennett Miller"], ["Brad Pitt", "Jonah Hill", "Philip Seymour Hoffman", "Robin Wright", "Chris Pratt"], "https://64.media.tumblr.com/42e13c2e0463ff4ce64cf9daaa940a18/af464dbafe5fd055-fc/s250x400/738cbe7f2b9a350518eb34389d8844a33df23b09.jpg"],
+
+["film", ["Ralph Breaks the Internet", "Chaos im Netz"], "2018", ["2024 07 07"], 6, ["ger"], ["animation", "adventure"], ["bini", "je"], ["Disney+"], ["Phil Johnston", "Rich Moore"], [], "https://64.media.tumblr.com/947f5093a5308cda858f70c625ced116/0c9a4fbb9656708c-6b/s250x400/655a30467d81c7e3ac837c87a640874d9e7bd47d.jpg"]
 
 /*
 ,
