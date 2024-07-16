@@ -3010,7 +3010,9 @@ var database = [
 
 ["film", ["Moneyball", "Die Kunst zu gewinnen - Moneyball"], "2011", ["2024 07 07"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Bennett Miller"], ["Brad Pitt", "Jonah Hill", "Philip Seymour Hoffman", "Robin Wright", "Chris Pratt"], "https://64.media.tumblr.com/42e13c2e0463ff4ce64cf9daaa940a18/af464dbafe5fd055-fc/s250x400/738cbe7f2b9a350518eb34389d8844a33df23b09.jpg"],
 
-["film", ["Ralph Breaks the Internet", "Chaos im Netz"], "2018", ["2024 07 07"], 6, ["ger"], ["animation", "adventure"], ["bini", "je"], ["Disney+"], ["Phil Johnston", "Rich Moore"], [], "https://64.media.tumblr.com/947f5093a5308cda858f70c625ced116/0c9a4fbb9656708c-6b/s250x400/655a30467d81c7e3ac837c87a640874d9e7bd47d.jpg"]
+["film", ["Ralph Breaks the Internet", "Chaos im Netz"], "2018", ["2024 07 07"], 6, ["ger"], ["animation", "adventure"], ["bini", "je"], ["Disney+"], ["Phil Johnston", "Rich Moore"], [], "https://64.media.tumblr.com/947f5093a5308cda858f70c625ced116/0c9a4fbb9656708c-6b/s250x400/655a30467d81c7e3ac837c87a640874d9e7bd47d.jpg"],
+
+["film", ["A Family Affair"], "2024", ["2024 07 13"], 4, ["ger"], ["comedy", "drama"], ["syl"], ["Netflix"], ["Richard LaGravenese"], ["Nicole Kidman", "Zac Efron", "Joey King", "Liza Koshy"], "https://64.media.tumblr.com/e97d66061616c3c3ab37696e88e89777/4a8e322820a077f8-92/s250x400/677621e145c2279fb100fa08e75977763f525530.jpg"]
 
 /*
 ,
