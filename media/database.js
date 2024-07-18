@@ -600,7 +600,7 @@ var database = [
 	        
 ["film", ["To the Bone"], "2017", ["2018 05 27"], 7, ["ger"], ["drama"], [], ["Netflix"], ["Marti Noxon"], ["Lily Collins", "Liana Liberato", "Kathryn Prescott", "Alex Sharp", "Ciara Bravo", "Ziah Colon"], "https://66.media.tumblr.com/13c6660c42ed48eefa171e8a4cb7e4e0/tumblr_pzkte3xLEG1v2s5upo1_250.jpg"],
 	        
-["film", ["Dear Eleanor"], "2016", ["2016 07 23"], 7, ["ger"], ["comedy", "drama", "history"], [], [], ["Kevin Connolly"], ["Liana Liberato", "Isabelle Fuhrman", "Joel Courtney"], "https://66.media.tumblr.com/94aa99a8ea17c76654947f69eb3b3ecf/tumblr_oarexdQ1XY1v2s5upo1_250.jpg"],
+["film", ["Dear Eleanor"], "2016", ["2016 07 23"], 7, ["ger"], ["comedy", "drama", "history"], [], [], ["Kevin Connolly"], ["Liana Liberato", "Isabelle Fuhrman", "Joel Courtney", "Luke Wilson"], "https://66.media.tumblr.com/94aa99a8ea17c76654947f69eb3b3ecf/tumblr_oarexdQ1XY1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Kissing Booth"], "2018", ["2018 06 20"], 7, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Vince Marcello"], ["Joey King", "Joel Courtney", "Jacob Elordi", "Molly Ringwald"], "https://66.media.tumblr.com/c125317b2cb407a22928e269ac80703f/tumblr_pzpvueGPeX1v2s5upo1_250.jpg"],
 	        
@@ -868,7 +868,7 @@ var database = [
 	        
 ["film", ["Hounddog"], "2007", ["2016 09 21"], 7, ["ger"], ["drama", "music"], [], [], ["Deborah Kampmeier"], ["Dakota Fanning", "Isabelle Fuhrman", "Robin Wright"], "https://68.media.tumblr.com/12126caa72ffce453ab734560bbc2a65/tumblr_odz6joyjlK1v2s5upo1_250.jpg"],
 	        
-["film", ["The Royal Tenenbaums", "Die Royal Tenenbaums"], "2001", ["2016 09 14"], 8, ["ger"], ["comedy", "drama"], [], [], ["Wes Anderson"], ["Anjelica Huston", "Ben Stiller", "Gwyneth Paltrow", "Owen Wilson", "Bill Murray", "Alec Baldwin"], "https://66.media.tumblr.com/84d4ea019f8ee088f8074a6832d5ee0a/tumblr_odi6ykVqks1v2s5upo1_250.jpg"],
+["film", ["The Royal Tenenbaums", "Die Royal Tenenbaums"], "2001", ["2016 09 14"], 8, ["ger"], ["comedy", "drama"], [], [], ["Wes Anderson"], ["Anjelica Huston", "Ben Stiller", "Gwyneth Paltrow", "Owen Wilson", "Bill Murray", "Alec Baldwin", "Luke Wilson"], "https://66.media.tumblr.com/84d4ea019f8ee088f8074a6832d5ee0a/tumblr_odi6ykVqks1v2s5upo1_250.jpg"],
 	        
 ["film", ["Mothers and Daughters", "Mütter & Töchter"], "2016", ["2016 09 12"], 1, ["ger"], ["drama"], [], [], ["Paul Duddridge", "Nigel Levy"], ["Luke Mitchell", "Christina Ricci"], "https://68.media.tumblr.com/e00a28ba032e45c5e0e259da42653b1e/tumblr_odeh2z2o191v2s5upo1_250.jpg"],
 	        
@@ -1914,7 +1914,7 @@ var database = [
 
 ["film", ["Pacific Rim: Uprising", "Pacific Rim 2: Uprising"], "2018", [["2021 10 04", "1st Half"], ["2021 10 11", "2nd Half"]], 6, ["ger"], ["action", "adventure"], ["bini"], [], ["Steven S. DeKnight"], ["John Boyega", "Scott Eastwood", "Burn Gorman", "Charlie Day", "Tian Jing", "Karan Brar", "Karan Brar"], "https://64.media.tumblr.com/e12b9539d43524c32ecff8cae3f70bd2/7d2d2c172a7742b7-ff/s250x400/f79b7d8599b216e339013c2df41db4d2e09b2520.jpg"],
 
-["film", ["Zombieland: Double Tap", "Zombieland 2: Doppelt hält besser"], "2019", ["2021 10 10"], 8, ["ger"], ["action", "comedy"], ["nico", "vin", "jenny"], ["Netflix"], ["Ruben Fleischer"], ["Woody Harrelson", "Jesse Eisenberg", "Emma Stone", "Abigail Breslin", "Zoey Deutch", "Avan Jogia", "Bill Murray", "Thomas Middleditch"], "https://64.media.tumblr.com/d811256ab5245cfe2ff6f1e15a81c67c/692ced2a74c2d010-53/s250x400/5ae6499d5b5f3ce457d6e4b1c2f0aa6c8775f982.jpg"],
+["film", ["Zombieland: Double Tap", "Zombieland 2: Doppelt hält besser"], "2019", ["2021 10 10"], 8, ["ger"], ["action", "comedy"], ["nico", "vin", "jenny"], ["Netflix"], ["Ruben Fleischer"], ["Woody Harrelson", "Jesse Eisenberg", "Emma Stone", "Abigail Breslin", "Zoey Deutch", "Avan Jogia", "Bill Murray", "Thomas Middleditch", "Luke Wilson"], "https://64.media.tumblr.com/d811256ab5245cfe2ff6f1e15a81c67c/692ced2a74c2d010-53/s250x400/5ae6499d5b5f3ce457d6e4b1c2f0aa6c8775f982.jpg"],
 
 ["film", ["Beyond the Boundary: I'll Be Here - Future", "Beyond the Boundary: I'll Be Here - Future", "Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen"], "2015", ["2021 10 12"], 4, ["jap"], ["anime", "action"], ["bini", "nico"], [], ["Taichi Ishidate"], [], "https://64.media.tumblr.com/deef995a5f3ee3df1c8fb8e727361244/438efb94a46e8aed-f4/s250x400/48284bc86850737f3aefc728ace17714e3760d8c.jpg"],
 
@@ -2445,7 +2445,7 @@ var database = [
 
 ["audiobook", ["Unendlich Dein"], "2019", [["2022 11 29", "2022 12 08"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/e1f8944a297283a791928752ba440569/9bff45cf22f5b48f-c9/s250x400/b28a8e2836c05cb37d6cf9feed862628df3677b8.jpg"],
 
-["audiobook", ["All the bright places", "All die verdammt perfekten Tage"], "2015", [["2022 12 08", "2022 12 15"]], 9, ["ger"], ["drama"], [], ["bibliothek"], ["Jennifer Niven"], ["Patrick Mölleken", "Annina Braunmiller-Jest"], "https://64.media.tumblr.com/4809dd69d67423d65449c16f654c8c0b/110579d9c0ed5fcb-d2/s250x400/cf09d1fbc2214c51d25ec532e837a623b055bb10.jpg"],
+["audiobook", ["All the bright places", "All die verdammt perfekten Tage"], "2015", [["2022 12 08", "2022 12 15"]], 9, ["ger"], ["drama"], [], ["bibliothek"], ["Jennifer Niven"], ["Patrick Mölleken", "Annina Braunmiller-Jest", "Luke Wilson"], "https://64.media.tumblr.com/4809dd69d67423d65449c16f654c8c0b/110579d9c0ed5fcb-d2/s250x400/cf09d1fbc2214c51d25ec532e837a623b055bb10.jpg"],
 
 ["book", ["Für dich soll's tausend Tode regnen"], "2016", [["2022 12 14", "2023 01 25"]], 6, ["ger"], [], [], ["bibliothek"], ["Anna Pfeffer"], [], "https://64.media.tumblr.com/794c5fdf8ce28291d1bd85c65763782f/e392b7f52d948027-66/s250x400/6e0bf3dadc197bb803aff39209b282cb6859de6a.jpg"],
 
@@ -3012,7 +3012,9 @@ var database = [
 
 ["film", ["Ralph Breaks the Internet", "Chaos im Netz"], "2018", ["2024 07 07"], 6, ["ger"], ["animation", "adventure"], ["bini", "je"], ["Disney+"], ["Phil Johnston", "Rich Moore"], [], "https://64.media.tumblr.com/947f5093a5308cda858f70c625ced116/0c9a4fbb9656708c-6b/s250x400/655a30467d81c7e3ac837c87a640874d9e7bd47d.jpg"],
 
-["film", ["A Family Affair"], "2024", ["2024 07 13"], 4, ["ger"], ["comedy", "drama"], ["syl"], ["Netflix"], ["Richard LaGravenese"], ["Nicole Kidman", "Zac Efron", "Joey King", "Liza Koshy"], "https://64.media.tumblr.com/e97d66061616c3c3ab37696e88e89777/4a8e322820a077f8-92/s250x400/677621e145c2279fb100fa08e75977763f525530.jpg"]
+["film", ["A Family Affair"], "2024", ["2024 07 13"], 4, ["ger"], ["comedy", "drama"], ["syl"], ["Netflix"], ["Richard LaGravenese"], ["Nicole Kidman", "Zac Efron", "Joey King", "Liza Koshy"], "https://64.media.tumblr.com/e97d66061616c3c3ab37696e88e89777/4a8e322820a077f8-92/s250x400/677621e145c2279fb100fa08e75977763f525530.jpg"],
+
+["film", ["Around the World in 80 Days", "In 80 Tagen um die Welt"], "2004", ["2024 07 18"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Frank Coraci"], ["Jackie Chan", "Jim Broadbent", "Adam Godley", "Arnold Schwarzenegger", "Owen Wilson", "Luke Wilson"], "https://64.media.tumblr.com/d3de327d6de8db7b152ec22edec3cfcb/f62a0533776a1542-3c/s250x400/63b1820b79390e95ff64c435428494223ed4907e.jpg"]
 
 /*
 ,
