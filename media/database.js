@@ -1698,7 +1698,7 @@ var database = [
 
 ["film", ["Seven Years in Tibet", "Sieben Jahre in Tibet"], "1997", ["2021 01 15"], 6, ["ger"], ["adventure", "biography", "war", "history"], [], ["Netflix"], ["Jean-Jacques Annaud"], ["Brad Pitt", "David Thewlis", "BD Wong"], "https://64.media.tumblr.com/cc17db779107d0f352635dd66cbb836c/de3f13db62a0d239-4f/s250x400/33cfa36fb11efec9467dd78071eb8a6f5f1dada0.jpg"],
 
-["series", ["Lupin"], "2021", [["2021 01 15", "S1"], ["2021 06 11", "2021 06 15", "S2"], ["2023 10 10", "2023 10 11", "S3"]], 8, ["ger"], ["action", "crime"], [], ["Netflix", "ongoing"], ["George Kay", "François Uzan", "Florent Meyer"], ["Omar Sy"], "https://64.media.tumblr.com/13329024a3f2db9b2cd874c63b0cb1c1/355aa3eb0ea4d2e7-b2/s250x400/2c7e5cfd6c3a5f1eea65d50f0b04404e8ad66338.jpg"],
+["series", ["Lupin"], ["2021", ""], [["2021 01 15", "S1"], ["2021 06 11", "2021 06 15", "S2"], ["2023 10 10", "2023 10 11", "S3"]], 8, ["ger"], ["action", "crime"], [], ["Netflix", "ongoing"], ["George Kay", "François Uzan", "Florent Meyer"], ["Omar Sy"], "https://64.media.tumblr.com/13329024a3f2db9b2cd874c63b0cb1c1/355aa3eb0ea4d2e7-b2/s250x400/2c7e5cfd6c3a5f1eea65d50f0b04404e8ad66338.jpg"],
 
 ["film", ["Ni no Kuni"], "2019", ["2021 01 15"], 5, ["ger"], ["anime", "action"], [], ["Netflix"], ["Yoshiyuki Momose"], [], "https://64.media.tumblr.com/9c6cac0c01db052e626942361741ed45/22ad2c7cc4e364ae-b2/s250x400/9f0da76df04a1f30c108bc5928f5b4e99e6349ba.jpg"],
 
@@ -2257,7 +2257,7 @@ var database = [
 
 ["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon", "Miles Teller", "Andie MacDowell"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"],
 
-["series", ["First Kill"], ["2022", ""], [["2022 06 15", "2022 06 23", "S1"]], 5, ["ger"], ["drama", "horror"], [], ["ongoing", "Netflix", "LGBT"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"],
+["series", ["First Kill"], ["2022"], [["2022 06 15", "2022 06 23", "S1"]], 5, ["ger"], ["drama", "horror"], [], ["Netflix", "LGBT"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"],
 
 ["film", ["Ant-Man and the Wasp"], "2018", ["2022 06 16"], 7, ["ger"], ["action", "adventure"], ["je"], ["Marvel", "Disney+"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Michael Peña", "Judy Greer", "Hannah John-Kamen", "Michelle Pfeiffer", "Randall Park", "Laurence Fishburne", "Stan Lee"], "https://64.media.tumblr.com/0b69fefa02c51b1c5e6d23b49db39851/dc3ce41b0c2b7478-df/s250x400/4a664e8059eddaeaeb20ec3bf08d2ef6848d99d8.jpg"],
 
@@ -2275,7 +2275,7 @@ var database = [
 
 ["series", ["Encouragement of Climb", "Encouragement of Climb", "Yama no Susume"], ["2013", "2018"], [["2022 06 28", "S1"], ["2022 06 28", "Special"]], 7, ["jap"], ["anime", "adventure"], ["bini", "nico"], ["ongoing"], ["Kazuyuki Fudeyasu", "Yûsuke Yamamoto"], [], "https://64.media.tumblr.com/4b6363e01817e76056f937d9096e7de8/edfa00da095d3fae-fb/s250x400/3ae875cfc0895dec1f00ade6ab41f93a7cac14dd.jpg"],
 
-["series", ["Daily Lives of High School Boys", "Daily Lives of High School Boys", "Danshi Koukousei no Nichijou"], ["2012", ""], [["2022 06 28", "2022 07 12", "S1"]], 8, ["jap"], ["anime", "comedy"], ["bini", "nico"], ["ongoing"], ["Shinji Takamatsu", "Yasunobu Yamauchi"], [], "https://64.media.tumblr.com/26d49f29a8035bc04fdf773a00cd1ab8/6aff97a1f7ecee60-c2/s250x400/34ae2095612fe15bff444eb3cdf112c8f748a6e9.jpg"],
+["series", ["Daily Lives of High School Boys", "Daily Lives of High School Boys", "Danshi Koukousei no Nichijou"], ["2012"], [["2022 06 28", "2022 07 12", "S1"]], 8, ["jap"], ["anime", "comedy"], ["bini", "nico"], [], ["Shinji Takamatsu", "Yasunobu Yamauchi"], [], "https://64.media.tumblr.com/26d49f29a8035bc04fdf773a00cd1ab8/6aff97a1f7ecee60-c2/s250x400/34ae2095612fe15bff444eb3cdf112c8f748a6e9.jpg"],
 
 ["series", ["Patema Inverted: Beginning of the Day", "Patema Inverted: Beginning of the Day", "Sakasama no Patema: Beginning of the Day"], "2012", [["2022 06 29", "S1"]], 6, ["jap"], ["anime", "sci-fi"], ["bini", "nico"], [], ["Yasuhiro Yoshiura"], [], "https://64.media.tumblr.com/d95f87eb5a5138a7315d2aca3973974b/d0486813ffd5d781-af/s250x400/1751b6f4a282489119769f26e2f800fc1576b012.jpg"],
 
@@ -2848,7 +2848,7 @@ var database = [
 
 ["film", ["Anne of Green Gables", "Anne auf Green Gables"], "2016", ["2023 12 27"], 7, ["ger"], ["drama", "family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/741bd2efb6f4165f17c8e1f8178377b8/fa1f5baacdd17d51-0a/s250x400/8d3df864719794cea3da81b6a2ba848c5b64f018.jpg"],
 
-["series", ["Kleo"], "2022", [["2023 12 27", "2023 12 29", "S1"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier", "Rainer Reiners", "Vladimir Burlakov"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
+["series", ["Kleo"], "2022", [["2023 12 27", "2023 12 29", "S1"]], 8, ["ger"], ["action", "crime"], [], ["Netflix", "ongoing"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier", "Rainer Reiners", "Vladimir Burlakov"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
 
 ["film", ["L.M. Montgomery's Anne of Green Gables: The Good Stars", "Anne auf Green Gables - Teil 2"], "2017", ["2023 12 28"], 6, ["ger"], ["family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/f456d80c9f445631f7c81332e4cac7bf/ad0bfc3b3c9de16b-b9/s250x400/9734f1cc7e57cf6b7abd640f4821d74e5694a691.jpg"],
 
@@ -3014,7 +3014,9 @@ var database = [
 
 ["film", ["A Family Affair"], "2024", ["2024 07 13"], 4, ["ger"], ["comedy", "drama"], ["syl"], ["Netflix"], ["Richard LaGravenese"], ["Nicole Kidman", "Zac Efron", "Joey King", "Liza Koshy"], "https://64.media.tumblr.com/e97d66061616c3c3ab37696e88e89777/4a8e322820a077f8-92/s250x400/677621e145c2279fb100fa08e75977763f525530.jpg"],
 
-["film", ["Around the World in 80 Days", "In 80 Tagen um die Welt"], "2004", ["2024 07 18"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Frank Coraci"], ["Jackie Chan", "Jim Broadbent", "Adam Godley", "Arnold Schwarzenegger", "Owen Wilson", "Luke Wilson"], "https://64.media.tumblr.com/d3de327d6de8db7b152ec22edec3cfcb/f62a0533776a1542-3c/s250x400/63b1820b79390e95ff64c435428494223ed4907e.jpg"]
+["film", ["Around the World in 80 Days", "In 80 Tagen um die Welt"], "2004", ["2024 07 18"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Frank Coraci"], ["Jackie Chan", "Jim Broadbent", "Adam Godley", "Arnold Schwarzenegger", "Owen Wilson", "Luke Wilson"], "https://64.media.tumblr.com/d3de327d6de8db7b152ec22edec3cfcb/f62a0533776a1542-3c/s250x400/63b1820b79390e95ff64c435428494223ed4907e.jpg"],
+
+["film", ["Mr. Car and the Knights Templar", "Herr Spaßmobil und die Tempelritter", "Pan Samochodzik i templariusze"], "2023", ["2024 07 19"], 6, ["ger"], ["adventure"], [], ["Netflix"], ["Antoni Nykowski"], [], "https://64.media.tumblr.com/6a0c8ba2507c98e77ded4a35de3b84db/0514c43ed1e27da3-45/s250x400/e62b4c6a075d8247a89d3b6f916826b828309a6b.jpg"]
 
 /*
 ,
