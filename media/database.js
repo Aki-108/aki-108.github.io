@@ -1286,7 +1286,7 @@ var database = [
 	        
 ["film", ["Rachel, Jack and Ashley Too"], "2019", ["2019 06 08"], 7, ["ger"], ["drama", "sci-fi"], [], ["Black Mirror", "Netflix"], ["Anne Sewitsky"], ["Miley Cyrus", "Angourie Rice"], "https://66.media.tumblr.com/78d54d2c85af58f64694a071c70762a8/5092cb42d5fa2c4a-e8/s250x400/5b3f74aa43ce285d726ad0bcbe49ca759363947b.jpg"],
 	        
-["film", ["Brave", "Merida - Legende der Highlands"], "2012", ["2019 02 04"], 0, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Mark Andrews", "Brenda Chapman", "Steve Purcell"], [], "https://66.media.tumblr.com/727f235707969cd043cf44d2caaddc41/e7d4e1a7d35df1b3-3a/s250x400/aa20386ab6ee4dd5e75d606030abdd93b6d896ce.jpg"],
+["film", ["Brave", "Merida - Legende der Highlands"], "2012", ["2019 02 04", "2024 07 27"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl", "je"], ["Netflix"], ["Mark Andrews", "Brenda Chapman", "Steve Purcell"], [], "https://66.media.tumblr.com/727f235707969cd043cf44d2caaddc41/e7d4e1a7d35df1b3-3a/s250x400/aa20386ab6ee4dd5e75d606030abdd93b6d896ce.jpg"],
 	        
 ["film", ["Manitou's Shoe", "Der Schuh des Manitu"], "2001", ["2018 12 31"], 0, ["ger"], ["comedy", "western"], ["bini", "je", "syl"], [], ["Michael Herbig"], ["Michael Herbig", "Christian Tramitz", "Sky du Mont", "Anke Engelke"], "https://66.media.tumblr.com/899949bcc615eb9887a21c1c933e72a9/0e254a87d252aa9e-18/s250x400/f204eb29a54bed604c4ff8d377f866b3cb8f72a7.jpg"],
 	        
