@@ -2848,7 +2848,7 @@ var database = [
 
 ["film", ["Anne of Green Gables", "Anne auf Green Gables"], "2016", ["2023 12 27"], 7, ["ger"], ["drama", "family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/741bd2efb6f4165f17c8e1f8178377b8/fa1f5baacdd17d51-0a/s250x400/8d3df864719794cea3da81b6a2ba848c5b64f018.jpg"],
 
-["series", ["Kleo"], "2022", [["2023 12 27", "2023 12 29", "S1"]], 8, ["ger"], ["action", "crime"], [], ["Netflix", "ongoing"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier", "Rainer Reiners", "Vladimir Burlakov"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
+["series", ["Kleo"], ["2022", "2024"], [["2023 12 27", "2023 12 29", "S1"], ["2024 07 28", "", "S2"]], 8, ["ger"], ["action", "crime"], [], ["Netflix", "watching"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier", "Rainer Reiners", "Vladimir Burlakov"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
 
 ["film", ["L.M. Montgomery's Anne of Green Gables: The Good Stars", "Anne auf Green Gables - Teil 2"], "2017", ["2023 12 28"], 6, ["ger"], ["family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/f456d80c9f445631f7c81332e4cac7bf/ad0bfc3b3c9de16b-b9/s250x400/9734f1cc7e57cf6b7abd640f4821d74e5694a691.jpg"],
 
@@ -3002,7 +3002,7 @@ var database = [
 
 ["series", ["Geek Girl"], "2024", [["2024 06 29", "2024 06 30", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Georgie Armour", "Sarah Morgan", "Zoë Rocha"], ["Hebe Beardsall"], "https://64.media.tumblr.com/5e151ffc9bd79f5789c9a69cceb6eb57/4684056fc2e1138f-df/s250x400/85809bc01a32d16e46e50dd20a290a134fe0b50d.jpg"],
 
-["series", ["3 Body Problem"], "2024", [["2024 07 02", "", "S1"]], 0, ["ger"], ["adventure", "drama"], [], ["Netflix", "watching"], ["David Benioff", "Cixin Liu"], [], "https://64.media.tumblr.com/8f210ed62f967471de06d8e95c120a63/e3c3dec8ba53e611-c2/s250x400/0a684990f7675fd2d2a16ff8fb9500d108e811b5.jpg"],
+["series", ["3 Body Problem"], "2024", [["2024 07 02", "2024 07 25", "S1"]], 6, ["ger"], ["adventure", "drama"], [], ["Netflix", "ongoing"], ["David Benioff", "Cixin Liu"], [], "https://64.media.tumblr.com/8f210ed62f967471de06d8e95c120a63/e3c3dec8ba53e611-c2/s250x400/0a684990f7675fd2d2a16ff8fb9500d108e811b5.jpg"],
 
 ["book", ["Holes", "Löcher - Die Geheimnisse von Green Lake"], "1998", [["2024 07 02", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Louis Sachar"], [], "https://64.media.tumblr.com/d079879d96719918fcc8e73ac850a3ed/35b01111b956299e-8c/s250x400/2b1bb383851e142b4341890b7a4f9af03c3fa7ea.jpg"],
 
@@ -3017,7 +3017,7 @@ var database = [
 ["film", ["Around the World in 80 Days", "In 80 Tagen um die Welt"], "2004", ["2024 07 18"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Frank Coraci"], ["Jackie Chan", "Jim Broadbent", "Adam Godley", "Arnold Schwarzenegger", "Owen Wilson", "Luke Wilson"], "https://64.media.tumblr.com/d3de327d6de8db7b152ec22edec3cfcb/f62a0533776a1542-3c/s250x400/63b1820b79390e95ff64c435428494223ed4907e.jpg"],
 
 ["film", ["Mr. Car and the Knights Templar", "Herr Spaßmobil und die Tempelritter", "Pan Samochodzik i templariusze"], "2023", ["2024 07 19"], 6, ["ger"], ["adventure"], [], ["Netflix"], ["Antoni Nykowski"], [], "https://64.media.tumblr.com/6a0c8ba2507c98e77ded4a35de3b84db/0514c43ed1e27da3-45/s250x400/e62b4c6a075d8247a89d3b6f916826b828309a6b.jpg"]
-
+	
 /*
 ,
 
