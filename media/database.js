@@ -2848,7 +2848,7 @@ var database = [
 
 ["film", ["Anne of Green Gables", "Anne auf Green Gables"], "2016", ["2023 12 27"], 7, ["ger"], ["drama", "family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/741bd2efb6f4165f17c8e1f8178377b8/fa1f5baacdd17d51-0a/s250x400/8d3df864719794cea3da81b6a2ba848c5b64f018.jpg"],
 
-["series", ["Kleo"], ["2022", "2024"], [["2023 12 27", "2023 12 29", "S1"], ["2024 07 28", "", "S2"]], 8, ["ger"], ["action", "crime"], [], ["Netflix", "watching"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier", "Rainer Reiners", "Vladimir Burlakov"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
+["series", ["Kleo"], ["2022", "2024"], [["2023 12 27", "2023 12 29", "S1"], ["2024 07 28", "2024 08 08", "S2"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Hanno Hackfort", "Bob Konrad"], ["Jella Haase", "Julius Feldmeier", "Rainer Reiners", "Vladimir Burlakov"], "https://64.media.tumblr.com/988a0b596a57ed53d8eea42eac099528/bcef51c3a87cafdf-0c/s250x400/6dec8cb4e3e3c42dc28a559cb71897577e7dd857.jpg"],
 
 ["film", ["L.M. Montgomery's Anne of Green Gables: The Good Stars", "Anne auf Green Gables - Teil 2"], "2017", ["2023 12 28"], 6, ["ger"], ["family"], [], ["Anne", "bibliothek"], ["John Kent Harrison"], [], "https://64.media.tumblr.com/f456d80c9f445631f7c81332e4cac7bf/ad0bfc3b3c9de16b-b9/s250x400/9734f1cc7e57cf6b7abd640f4821d74e5694a691.jpg"],
 
@@ -2954,7 +2954,7 @@ var database = [
 
 ["film", ["Are You There God? It's Me, Margaret.", "Bist du da, Gott? Ich bin's, Margaret"], "2023", ["2024 04 11"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Kelly Fremon Craig"], ["Rachel McAdams"], "https://64.media.tumblr.com/e59e3797fe0e5a947ec470c4ac6cf2dc/283dfb441da0dde5-6b/s250x400/88228dd51c64cd2673d9d7e1ebc072a8c14f4ab9.jpg"],
 
-["book", ["Pippa - Mein (ganzes) Leben steht Kopf"], "2016", [["2024 04 17", "2024 04 30"]], 7, ["ger"], ["slice of life"], [], ["bibliothek"], ["Barbara Tammes"], [], "https://64.media.tumblr.com/c50690b9c2d8ac03cfff2a92b45e31fa/38e4f79387270999-04/s250x400/b6a16dd6ac33673c4010e31bcd87f31528264d48.jpg"],
+["book", ["Pippa - Mein (ganzes) Leben steht Kopf"], "2016", [["2024 04 17", "2024 04 30"]], 7, ["ger"], ["slice of life"], [], ["bibliothek", "ongoing"], ["Barbara Tammes"], [], "https://64.media.tumblr.com/c50690b9c2d8ac03cfff2a92b45e31fa/38e4f79387270999-04/s250x400/b6a16dd6ac33673c4010e31bcd87f31528264d48.jpg"],
 
 ["film", ["The Giver", "Hüter der Erinnerung - The Giver"], "2014", ["2024 04 23"], 8, ["ger"], ["drama", "romance"], [], ["bibliothek"], ["Phillip Noyce"], ["Jeff Bridges", "Meryl Streep", "Odeya Rush"], "https://64.media.tumblr.com/d66627d54ede43e7dd7892a4549d3cff/aaeab66a8bd4726e-6a/s250x400/44b6f335d35c8ad616f835046b3c98611a321587.jpg"],
 
