@@ -277,7 +277,7 @@ var database = [
 	        
 ["audiobook", ["Harry Potter and the Order of the Phoenix", "Harry Potter und der Orden des Phönix"], "2003", [["2020 04 28", "2020 05 15"], ["2024 06 24", "2024 08 06"]], 8, ["ger"], ["fantasy"], [], ["Harry Potter", "bibliothek"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/b7a65bfb1d5dc1f44303c244a35ea738/67abaad83c1f411b-15/s250x400/30116d554837ac504bc72be30ea922ce5f2423fd.jpg"],
 	        
-["audiobook", ["Harry Potter and the Half-Blood Prince", "Harry Potter und der Halbblutprinz"], "2005", [["2020 05 15", "2020 05 27"]], 6, ["ger"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/7c88e1423dbcad32c0138ec5e5ea4213/4c8bf75d1a62570c-6f/s250x400/f6efb9f2a2500cfece817aad5d4416c016ae3809.jpg"],
+["audiobook", ["Harry Potter and the Half-Blood Prince", "Harry Potter und der Halbblutprinz"], "2005", [["2020 05 15", "2020 05 27"], ["2024 08 12", ""]], 6, ["ger"], ["fantasy"], [], ["Harry Potter", "watching"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/7c88e1423dbcad32c0138ec5e5ea4213/4c8bf75d1a62570c-6f/s250x400/f6efb9f2a2500cfece817aad5d4416c016ae3809.jpg"],
 	        
 ["audiobook", ["Harry Potter and the Deathly Hallows", "Harry Potter und die Heiligtümer des Todes"], "2007", [["2020 05 27", "2020 06 08"]], 8, ["eng"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/d4bd058969e0a06d883977fa863b3f4a/cd592c8a6bab77fb-94/s250x400/c3eeefce6afd279a5943cb589771aaf4cc2acdda.jpg"],
 	        
@@ -2998,7 +2998,7 @@ var database = [
 
 ["film", ["No Hard Feelings"], "2023", ["2024 06 15"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Gene Stupnitsky"], ["Jennifer Lawrence"], "https://64.media.tumblr.com/a83b8ad45ed44ca4828a0c707bac5015/f2ba6cdbe212cac2-40/s250x400/483f42f1c3304a1d0b789a558985554fd4ab4084.jpg"],
 
-["series", ["Terra Nova"], "2011", [["2024 06 19", "", "S1"]], 0, ["ger"], ["adventure", "drama"], ["bini", "nico"], ["Disney+", "watching"], ["Craig Silverstein"], ["Allison Miller", "Stephen Lang"], "https://64.media.tumblr.com/07862da583cbd914a73c554731d7afd9/c677d3003418b395-68/s250x400/bd056c90308660a96e0a49ffccafcdaa0b1cf1de.jpg"],
+["series", ["Terra Nova"], "2011", [["2024 06 19", "2024 08 07", "S1"]], 5, ["ger"], ["adventure", "drama"], ["bini", "nico"], ["Disney+"], ["Craig Silverstein"], ["Allison Miller", "Stephen Lang"], "https://64.media.tumblr.com/07862da583cbd914a73c554731d7afd9/c677d3003418b395-68/s250x400/bd056c90308660a96e0a49ffccafcdaa0b1cf1de.jpg"],
 
 ["series", ["Geek Girl"], "2024", [["2024 06 29", "2024 06 30", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Georgie Armour", "Sarah Morgan", "Zoë Rocha"], ["Hebe Beardsall"], "https://64.media.tumblr.com/5e151ffc9bd79f5789c9a69cceb6eb57/4684056fc2e1138f-df/s250x400/85809bc01a32d16e46e50dd20a290a134fe0b50d.jpg"],
 
