@@ -3018,7 +3018,9 @@ var database = [
 
 ["film", ["Mr. Car and the Knights Templar", "Herr Spaßmobil und die Tempelritter", "Pan Samochodzik i templariusze"], "2023", ["2024 07 19"], 6, ["ger"], ["adventure"], [], ["Netflix"], ["Antoni Nykowski"], [], "https://64.media.tumblr.com/6a0c8ba2507c98e77ded4a35de3b84db/0514c43ed1e27da3-45/s250x400/e62b4c6a075d8247a89d3b6f916826b828309a6b.jpg"],
 
-["short", ["Jack-Jack Attack"], "2005", ["2024 08 05"], 6, ["ger"], ["animation"], ["syl", "je"], ["Incredibles", "Disney+"], ["Brad Bird"], [], "https://64.media.tumblr.com/791c9402bdae5d6f1d4a23b4eda2ff6d/ef203cf5364a84ee-1e/s250x400/59d9087927e34c9e975fd00310d41f467a886629.jpg"]
+["short", ["Jack-Jack Attack"], "2005", ["2024 08 05"], 6, ["ger"], ["animation"], ["syl", "je"], ["Incredibles", "Disney+"], ["Brad Bird"], [], "https://64.media.tumblr.com/791c9402bdae5d6f1d4a23b4eda2ff6d/ef203cf5364a84ee-1e/s250x400/59d9087927e34c9e975fd00310d41f467a886629.jpg"],
+
+["book", ["Me Being Me is Exactly as Insane as You Being You", "Dass ich ich bin, ist genauso verrückt wie Tatsache, dass du du bist"], "2015", [["2024 08 14", ""]], 0, ["ger"], ["young adult"], [], ["bibliothek", "watching"], ["Todd Hasak-Lowy"], [], "https://64.media.tumblr.com/4a113070caa2f243a1025c75a1456ee0/a03f06fec6628f3c-22/s250x400/a8944fe60bf7998609cb5efd3714f431c51d6724.jpg"]
 
 /*
 ,
