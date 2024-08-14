@@ -3004,7 +3004,7 @@ var database = [
 
 ["series", ["3 Body Problem"], "2024", [["2024 07 02", "2024 07 25", "S1"]], 6, ["ger"], ["adventure", "drama"], [], ["Netflix", "ongoing"], ["David Benioff", "Cixin Liu"], [], "https://64.media.tumblr.com/8f210ed62f967471de06d8e95c120a63/e3c3dec8ba53e611-c2/s250x400/0a684990f7675fd2d2a16ff8fb9500d108e811b5.jpg"],
 
-["book", ["Holes", "Löcher - Die Geheimnisse von Green Lake"], "1998", [["2024 07 02", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Louis Sachar"], [], "https://64.media.tumblr.com/d079879d96719918fcc8e73ac850a3ed/35b01111b956299e-8c/s250x400/2b1bb383851e142b4341890b7a4f9af03c3fa7ea.jpg"],
+["book", ["Holes", "Löcher - Die Geheimnisse von Green Lake"], "1998", [["2024 07 02", "2024 08 13"]], 9, ["ger"], ["adventure"], [], ["bibliothek"], ["Louis Sachar"], [], "https://64.media.tumblr.com/d079879d96719918fcc8e73ac850a3ed/35b01111b956299e-8c/s250x400/2b1bb383851e142b4341890b7a4f9af03c3fa7ea.jpg"],
 
 ["film", ["Wreck-It Ralph", "Ralph reichts"], "2012", [["2024 07 06", "2024 07 07"]], 7, ["ger"], ["animation", "adventure"], ["bini", "syl", "je"], ["Disney+"], ["Rich Moore"], [], "https://64.media.tumblr.com/13d2c772b689524002c861f2a3d134a1/a7f6d04350bbe794-42/s250x400/b605276cc61c5db98b280484b2ef0e4e4ce99cc5.jpg"],
 
