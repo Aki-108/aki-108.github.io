@@ -1300,7 +1300,7 @@ var database = [
 	        
 ["film", ["Scary Movie"], "2000", ["2018 07 30"], 4, ["ger"], ["comedy"], ["bini", "nico"], ["Netflix"], ["Keenen Ivory Wayans"], ["Carmen Electra", "Anna Faris"], "https://66.media.tumblr.com/8f00a5b43934233c812fb5925d2cd8cf/e0f715bbea917071-ab/s250x400/a2cb6d0ae31256ace13fa5dcd02b96c9bc3ae413.jpg"],
 	        
-["film", ["Extinction"], "2018", ["2018 07 30"], 7, ["ger"], ["action", "drama"], ["nico", "bini"], ["Netflix"], ["Ben Young"], ["Michael Peña", "Lizzy Caplan", "Amelia Crouch"], "https://66.media.tumblr.com/e1a775a0b08d385d677e03b0309360a9/e02e042615a1c3c1-79/s250x400/45322cb0d200a9a51e4202de1a62a9082a45fec5.jpg"],
+["film", ["Extinction"], "2018", ["2018 07 30"], 7, ["ger"], ["action", "drama"], ["nico", "bini"], ["Netflix"], ["Ben Young"], ["Michael Peña", "Lizzy Caplan", "Amelia Crouch", "Mike Colter"], "https://66.media.tumblr.com/e1a775a0b08d385d677e03b0309360a9/e02e042615a1c3c1-79/s250x400/45322cb0d200a9a51e4202de1a62a9082a45fec5.jpg"],
 	        
 ["film", ["Hush", "Still"], "2016", ["2018 06 26"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Mike Flanagan"], ["James Flanagan"], "https://66.media.tumblr.com/80e3a1b9fff0084cd34701f871adcd85/tumblr_pzpvznTPCq1v2s5upo1_250.jpg"],
 	        
@@ -2487,7 +2487,7 @@ var database = [
 
 ["series", ["The Baby-Sitters Club", "Der Babysitter-Club"], ["2020", "2021"], [["2023 01 22", "2023 01 25", "S1"], ["2023 01 26", "2023 01 29", "S2"]], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Lisha Brooks"], ["Momona Tamada", "Sophia Reid-Gantzert"], "https://64.media.tumblr.com/977064f8f1e52b790729b0d925f87905/b53de1b33d6ed04f-41/s250x400/6a5ce88b78e25c7b441993f7ac47d693513476b9.jpg"],
 
-["series", ["Wednesday"], ["2022", ""], [["2023 01 22", "2023 02 12", "S1"]], 7, ["ger"], ["comedy", "crime"], ["bini", "nico"], ["Netflix", "ongoing"], ["Charles Addams", "Alfred Gough"], ["Jenna Ortega", "Emma Myers", "Christina Ricci", "Riki Lindhome"], "https://64.media.tumblr.com/2c0de27e286ef85f7feefbadbde28f78/d5c60e11e8a10e79-68/s250x400/f4f3b3b474bddc4148370fb9ebabd4b6c2f9c9b2.jpg"],
+["series", ["Wednesday"], ["2022", ""], [["2023 01 22", "2023 02 12", "S1"]], 7, ["ger"], ["comedy", "crime"], ["bini", "nico"], ["Netflix", "ongoing", "bby"], ["Charles Addams", "Alfred Gough"], ["Jenna Ortega", "Emma Myers", "Christina Ricci", "Riki Lindhome"], "https://64.media.tumblr.com/2c0de27e286ef85f7feefbadbde28f78/d5c60e11e8a10e79-68/s250x400/f4f3b3b474bddc4148370fb9ebabd4b6c2f9c9b2.jpg"],
 
 ["audiobook", ["Eine rätselhafte Beichte"], "2020", [["2023 01 18", "2023 01 23"]], 6, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/4dd1ca534d34b802eebb01f11bfe934e/6cd97adf43d18f43-4d/s250x400/e7ee5fdfe6f986bd032f00c675dbe2e366f4695c.jpg"],
 
@@ -2828,7 +2828,7 @@ var database = [
 
 ["film", ["Bumblebee"], "2018", ["2023 12 08"], 6, ["ger"], ["action", "adventure"], ["bini"], ["Netflix"], ["Travis Knight"], ["Hailee Steinfeld", "Jorge Lendeborg Jr.", "John Cena", "Angela Bassett"], "https://64.media.tumblr.com/ce8444c96fab06a5bf31633fe8eb7a58/99d486fd2059c64e-6f/s250x400/e9fe6b66c92242a8bb24876e41b693a400555f76.jpg"],
 
-["film", ["Salt"], "2010", ["2023 12 09"], 7, ["ger"], ["action", "thriller"], ["bini", "syl"], ["Netflix"], ["Phillip Noyce"], ["Angelina Jolie", "Liev Schreiber", "Chiwetel Ejiofor", "August Diehl"], "https://64.media.tumblr.com/2b852132be6a8890890ac5f60e57c70b/8ef1c42b387c2598-e4/s250x400/7a835bd00c35da3cc4597aa68439b720465f8b8e.jpg"],
+["film", ["Salt"], "2010", ["2023 12 09"], 7, ["ger"], ["action", "thriller"], ["bini", "syl"], ["Netflix"], ["Phillip Noyce"], ["Angelina Jolie", "Liev Schreiber", "Chiwetel Ejiofor", "August Diehl", "Mike Colter"], "https://64.media.tumblr.com/2b852132be6a8890890ac5f60e57c70b/8ef1c42b387c2598-e4/s250x400/7a835bd00c35da3cc4597aa68439b720465f8b8e.jpg"],
 
 ["film", ["The Transporter"], "2002", ["2023 12 09"], 5, ["ger"], ["action", "crime"], ["bini"], ["Netflix"], ["Louis Leterrier", "Corey Yuen"], ["Jason Statham"], "https://64.media.tumblr.com/f2fbe77df38c0d3495c8a83d2ed8f0a9/86d586b5ef660b46-79/s250x400/8857598890cea29c32ca6aa64d9fa13479a08f18.jpg"],
 
@@ -3020,7 +3020,9 @@ var database = [
 
 ["short", ["Jack-Jack Attack"], "2005", ["2024 08 05"], 6, ["ger"], ["animation"], ["syl", "je"], ["Incredibles", "Disney+"], ["Brad Bird"], [], "https://64.media.tumblr.com/791c9402bdae5d6f1d4a23b4eda2ff6d/ef203cf5364a84ee-1e/s250x400/59d9087927e34c9e975fd00310d41f467a886629.jpg"],
 
-["book", ["Me Being Me is Exactly as Insane as You Being You", "Dass ich ich bin, ist genauso verrückt wie Tatsache, dass du du bist"], "2015", [["2024 08 14", ""]], 0, ["ger"], ["young adult"], [], ["bibliothek", "watching"], ["Todd Hasak-Lowy"], [], "https://64.media.tumblr.com/4a113070caa2f243a1025c75a1456ee0/a03f06fec6628f3c-22/s250x400/a8944fe60bf7998609cb5efd3714f431c51d6724.jpg"]
+["book", ["Me Being Me is Exactly as Insane as You Being You", "Dass ich ich bin, ist genauso verrückt wie Tatsache, dass du du bist"], "2015", [["2024 08 14", ""]], 0, ["ger"], ["young adult"], [], ["bibliothek", "watching"], ["Todd Hasak-Lowy"], [], "https://64.media.tumblr.com/4a113070caa2f243a1025c75a1456ee0/a03f06fec6628f3c-22/s250x400/a8944fe60bf7998609cb5efd3714f431c51d6724.jpg"],
+
+["film", ["The Union"], "2024", ["2024 08 17"], 7, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Julian Farino"], ["Mark Wahlberg", "Halle Berry", "J.K. Simmons", "Jackie Earle Haley", "Mike Colter"], "https://64.media.tumblr.com/77706f6b5c8c2446b01f0294dc379edd/f7ff7d8e776b53c7-38/s250x400/675f157d33a5715bce9c198bf7a61380a9b2e981.jpg"]
 
 /*
 ,
