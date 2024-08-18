@@ -2920,7 +2920,7 @@ var database = [
 
 ["film", ["65"], "2023", ["2024 03 16"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Scott Beck", "Bryan Woods"], ["Adam Driver", "Ariana Greenblatt", "Chloe Coleman"], "https://64.media.tumblr.com/0a3d74457b3c988d6a1832c30a25d71d/5c071f4256e9aaa8-d9/s250x400/6383729f4d4e7946992fd82dcf9cb47097e624a6.jpg"],
 
-["audiobook", ["Silber – Das dritte Buch der Träume"], "2015", [["2024 03 18", "2024 04 03"]], 7, ["ger"], [], ["Simona Pahl"], ["bibliothek"], ["Kerstin Gier"], [], "https://64.media.tumblr.com/415bbde9e69a3d43cebcf93262256bd5/e6cbce3d3e2f2456-c1/s250x400/d8b737a4569e3cf708a162c08521d5d5f21b98e6.jpg"],
+["audiobook", ["Silber – Das dritte Buch der Träume"], "2015", [["2024 03 18", "2024 04 03"]], 7, ["ger"], [], [], ["bibliothek"], ["Kerstin Gier"], ["Simona Pahl"], "https://64.media.tumblr.com/415bbde9e69a3d43cebcf93262256bd5/e6cbce3d3e2f2456-c1/s250x400/d8b737a4569e3cf708a162c08521d5d5f21b98e6.jpg"],
 
 ["film", ["West Side Story"], "2021", [["2024 03 19", "2024 03 20"]], 8, ["ger"], ["crime", "drama", "musical"], [], ["Disney+"], ["Steven Spielberg"], ["Ansel Elgort", "Rachel Zegler", "Ariana DeBose", "Rita Moreno", "Corey Stoll", "Josh Andrés Rivera", "Kyle Allen", "Ben Cook", "Talia Ryder"], "https://64.media.tumblr.com/aef063d33d9db62fd3e60aa84c4677e7/44477ead036eb916-2c/s250x400/3e270d84bbfca371473c14c90b568f36fa1911a1.jpg"],
 
@@ -2970,7 +2970,7 @@ var database = [
 
 ["series", ["Schloss Einstein & Die Pfefferkörner - Auf Gangsterjagd"], "2023", [["2024 05 07", "S1"]], 6, ["ger"], ["crime"], [], ["Die Pfefferkörner", "Schloss Einstein"], ["Markus Dietrich"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/56113b8d8214961c9f537317041d0c90/474bca8ac2ea3c38-02/s250x400/7a4244f9a4b8dd2e88cec29aab74a521568df85b.jpg"],
 
-["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "2024 05 15", "S24"], ["2024 05 16", "2024 05 22", "S25"], ["2024 05 23", "2024 06 05", "S26"], ["2024 06 06", "2024 06 16", "S27"], ["2024 06 17", "2024 7 09", "S1"], ["2024 07 09", "", "S11"]], 8, ["ger"], ["family"], [], ["ongoing", "watching", "Schloss Einstein"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"],
+["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "2024 05 15", "S24"], ["2024 05 16", "2024 05 22", "S25"], ["2024 05 23", "2024 06 05", "S26"], ["2024 06 06", "2024 06 16", "S27"], ["2024 06 17", "2024 7 09", "S1"], ["2024 07 09", "", "S11"]], 8, ["ger"], ["family"], [], ["ongoing", "watching", "Schloss Einstein", "bby"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"],
 
 ["film", ["Van Helsing"], "2004", ["2024 05 08"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Stephen Sommers"], ["Hugh Jackman", "Richard Roxburgh", "David Wenham", "Shuler Hensley"], "https://64.media.tumblr.com/2c936bbcdf5ced09e27429f09877dd3e/3a8245902f4f1a52-6b/s250x400/00fb259c37f5fbf0f450fa56af5f8ccbcf6adce6.jpg"],
 
