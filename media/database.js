@@ -3022,7 +3022,9 @@ var database = [
 
 ["book", ["Me Being Me is Exactly as Insane as You Being You", "Dass ich ich bin, ist genauso verrückt wie Tatsache, dass du du bist"], "2015", [["2024 08 14", ""]], 0, ["ger"], ["young adult"], [], ["bibliothek", "watching"], ["Todd Hasak-Lowy"], [], "https://64.media.tumblr.com/4a113070caa2f243a1025c75a1456ee0/a03f06fec6628f3c-22/s250x400/a8944fe60bf7998609cb5efd3714f431c51d6724.jpg"],
 
-["film", ["The Union"], "2024", ["2024 08 17"], 7, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Julian Farino"], ["Mark Wahlberg", "Halle Berry", "J.K. Simmons", "Jackie Earle Haley", "Mike Colter"], "https://64.media.tumblr.com/77706f6b5c8c2446b01f0294dc379edd/f7ff7d8e776b53c7-38/s250x400/675f157d33a5715bce9c198bf7a61380a9b2e981.jpg"]
+["film", ["The Union"], "2024", ["2024 08 17"], 7, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Julian Farino"], ["Mark Wahlberg", "Halle Berry", "J.K. Simmons", "Jackie Earle Haley", "Mike Colter"], "https://64.media.tumblr.com/77706f6b5c8c2446b01f0294dc379edd/f7ff7d8e776b53c7-38/s250x400/675f157d33a5715bce9c198bf7a61380a9b2e981.jpg"],
+
+["film", ["Detective Conan 27: The Million Dollar Pentagram", "Detektiv Conan 27: Das 1-Million-Dollar-Pentagramm", "Meitantei Conan Movie 27: 100-man Dollar no Michishirube"], "2024", ["2024 08 27"], 7, ["ger"], ["anime", "crime"], ["bini", "jessie"], ["Conan", "Kino"], ["Chika Nagaoka"], [], "https://64.media.tumblr.com/3bf03bc7406f59bacde15a9565f479d4/e138159427200a8e-a9/s250x400/6c9e9c75bb78fd5eaac7bddd1ff2d852aacf2aec.jpg"]
 
 /*
 ,
