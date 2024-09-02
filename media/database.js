@@ -277,7 +277,7 @@ var database = [
 	        
 ["audiobook", ["Harry Potter and the Order of the Phoenix", "Harry Potter und der Orden des Phönix"], "2003", [["2020 04 28", "2020 05 15"], ["2024 06 24", "2024 08 06"]], 8, ["ger"], ["fantasy"], [], ["Harry Potter", "bibliothek"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/b7a65bfb1d5dc1f44303c244a35ea738/67abaad83c1f411b-15/s250x400/30116d554837ac504bc72be30ea922ce5f2423fd.jpg"],
 	        
-["audiobook", ["Harry Potter and the Half-Blood Prince", "Harry Potter und der Halbblutprinz"], "2005", [["2020 05 15", "2020 05 27"], ["2024 08 12", ""]], 6, ["ger"], ["fantasy"], [], ["Harry Potter", "watching"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/7c88e1423dbcad32c0138ec5e5ea4213/4c8bf75d1a62570c-6f/s250x400/f6efb9f2a2500cfece817aad5d4416c016ae3809.jpg"],
+["audiobook", ["Harry Potter and the Half-Blood Prince", "Harry Potter und der Halbblutprinz"], "2005", [["2020 05 15", "2020 05 27"], ["2024 08 12", "2024 09 02"]], 8, ["ger"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/7c88e1423dbcad32c0138ec5e5ea4213/4c8bf75d1a62570c-6f/s250x400/f6efb9f2a2500cfece817aad5d4416c016ae3809.jpg"],
 	        
 ["audiobook", ["Harry Potter and the Deathly Hallows", "Harry Potter und die Heiligtümer des Todes"], "2007", [["2020 05 27", "2020 06 08"]], 8, ["eng"], ["fantasy"], [], ["Harry Potter"], ["J. K. Rowling"], [], "https://66.media.tumblr.com/d4bd058969e0a06d883977fa863b3f4a/cd592c8a6bab77fb-94/s250x400/c3eeefce6afd279a5943cb589771aaf4cc2acdda.jpg"],
 	        
