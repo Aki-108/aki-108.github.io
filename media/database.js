@@ -410,7 +410,7 @@ var database = [
 	        
 ["series", ["Terrace House: Boys & Girls in the City", "Terrace House"], ["2015", "2016"], [["2019 10 13", "2019 12 24", "S1E1-S1E18"], ["2021 07 24", "2021 09 08", "S1E19-E46"]], 8, ["jap"], ["reality-tv"], ["bini"], ["Netflix"], ["Masato Maeda"], [], "https://64.media.tumblr.com/dc96a41efcde322ebdd67f4205a4866a/95c8f7faf9c9026e-88/s250x400/6132e1085b759b2b17ac7a2b99bd5cca09b1f3a9.jpg"],
 	        
-["series", ["The Umbrella Academy"], "2019", [["2020 08 05", "2020 08 15", "S1"], ["2020 10 17", "2020 10 30", "S2"], ["2022 06 22", "2022 07 01", "S3"], ["2024 08 17", "", "S4"]], 6, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix", "watching", "LGBT"], ["Steve Blackman", "Jeremy Slater"], ["Elliot Page", "Kate Walsh", "Adam Godley", "Robert Sheehan", "Ritu Arya", "Ashley Madekwe"], "https://64.media.tumblr.com/b5ed5269616d02fb18efc291045bedd5/36d8ed15d27df2ff-1a/s250x400/4bcce2e2fd2493e604208f974ac75822129df3e6.jpg"],
+["series", ["The Umbrella Academy"], "2019", [["2020 08 05", "2020 08 15", "S1"], ["2020 10 17", "2020 10 30", "S2"], ["2022 06 22", "2022 07 01", "S3"], ["2024 08 17", "2024 09 04", "S4"]], 6, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix", "LGBT"], ["Steve Blackman", "Jeremy Slater"], ["Elliot Page", "Kate Walsh", "Adam Godley", "Robert Sheehan", "Ritu Arya", "Ashley Madekwe"], "https://64.media.tumblr.com/b5ed5269616d02fb18efc291045bedd5/36d8ed15d27df2ff-1a/s250x400/4bcce2e2fd2493e604208f974ac75822129df3e6.jpg"],
 	        
 ["film", ["Princess Mononoke"], "1997", ["2015 08 22", "2016 06 19", "2019 01 25", "2022 03 05", "2024 03 26"], 9, ["ger", "jap"], ["anime", "adventure", "fantasy"], ["bini", "mai"], ["Ghibli", "fav", "bby", "Netflix", "Kino"], ["Hayao Miyazaki"], [], "https://40.media.tumblr.com/b65d33b18937b9e0d46918deaf9afad4/tumblr_o0du7hYEVy1v2s5upo1_250.jpg"],
 	        
@@ -3026,7 +3026,17 @@ var database = [
 
 ["film", ["Once Upon a Crime", "Es War Einmal Ein Verbrechen", "Akazukin, tabi no tochû de shitai to deau."], "2023", ["2024 08 18"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Yûichi Fukuda"], [], "https://64.media.tumblr.com/aa153290b3b62dfd0749b40e3bea411b/1a6975a8ada53ede-ab/s250x400/666f3fcd9c2a29ca83ae85a96e67ec84cfe2fc6b.jpg"],
 
-["film", ["Detective Conan 27: The Million Dollar Pentagram", "Detektiv Conan 27: Das 1-Million-Dollar-Pentagramm", "Meitantei Conan Movie 27: 100-man Dollar no Michishirube"], "2024", ["2024 08 27"], 7, ["ger"], ["anime", "crime"], ["bini", "jessie"], ["Conan", "Kino"], ["Chika Nagaoka"], [], "https://64.media.tumblr.com/3bf03bc7406f59bacde15a9565f479d4/e138159427200a8e-a9/s250x400/6c9e9c75bb78fd5eaac7bddd1ff2d852aacf2aec.jpg"]
+["film", ["Detective Conan 27: The Million Dollar Pentagram", "Detektiv Conan 27: Das 1-Million-Dollar-Pentagramm", "Meitantei Conan Movie 27: 100-man Dollar no Michishirube"], "2024", ["2024 08 27"], 7, ["ger"], ["anime", "crime"], ["bini", "jessie"], ["Conan", "Kino"], ["Chika Nagaoka"], [], "https://64.media.tumblr.com/3bf03bc7406f59bacde15a9565f479d4/e138159427200a8e-a9/s250x400/6c9e9c75bb78fd5eaac7bddd1ff2d852aacf2aec.jpg"],
+
+["film", ["The Imaginary", "Der Imaginäre", "Yaneura no Rajâ"], "2023", ["2024 09 02"], 6, ["ger"], ["anime", "adventure"], ["bini", "nico"], ["Netflix"], ["creator"], [], "https://64.media.tumblr.com/8604e759dc7159c194713106ba955d18/534b953ad3af1f81-41/s250x400/7916e1fda4be8c7cbd949a3d8a5243d09ff0837e.jpg"],
+
+["audiobook", ["Sherlock is Back: Mord im Kloster"], "2023", [["2024 09 03", "2024 09 04"]], 7, ["ger"], ["crime"], [], ["bibliothek"], ["Beatrice Ferolli"], ["Gerry Hungbauer"], "https://64.media.tumblr.com/62e94564bc65ebb2cc1580a52297513c/e1eed50e3d54de72-51/s250x400/5978c60f18f5382f328891a4bc721c6278cd5378.jpg"],
+
+["audiobook", ["Sherlock is Back: Mord an Bord"], "2023", ["2024 09 04"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Beatrice Ferolli"], ["Gerry Hungbauer"], "https://64.media.tumblr.com/844a5f95c1a2b78004d882cd8052931f/58065e0f1430c74d-3f/s250x400/790a18415d915fb4a1d425292a683a8376a0c9d3.jpg"],
+
+["audiobook", ["Sherlock is Back: Mord im Atelier"], "2023", ["2024 09 05"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Beatrice Ferolli"], ["Gerry Hungbauer"], "https://64.media.tumblr.com/728895511021fe71bab32de2b8a21beb/b84ba4bd37034f05-e6/s250x400/906f3334b99bbb45f95170256cf43124f6db9813.jpg"],
+
+["audiobook", ["Sherlock is Back: Mord im Tivoli"], "2024", ["2024 09 05"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Beatrice Ferolli"], ["Gerry Hungbauer"], "https://64.media.tumblr.com/ca69f6d6d4bd82f5946feff084087d80/5ab4e583776e46c8-6e/s250x400/77bc89e0e1341f20b698655ef1ed055520fbccfa.jpg"]
 
 /*
 ,
