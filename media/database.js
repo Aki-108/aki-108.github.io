@@ -261,7 +261,7 @@ var database = [
 	        
 ["film", ["Now You See Me 2", "Die Unfassbaren 2"], "2016", ["2020 07 22"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Jon M. Chu"], ["Jesse Eisenberg", "Mark Ruffalo", "Woody Harrelson", "Dave Franco", "Daniel Radcliffe", "Lizzy Caplan", "Michael Caine", "Morgan Freeman", "Isla Fisher", "Jay Chou"], "https://64.media.tumblr.com/ee5451844e81b6cc0fb69e364ac75ab9/a63e0ea7c891ea49-d7/s250x400/0910a3c45b5ebd6630a04281f5ab6364ecccec5e.jpg"],
 	        
-["film", ["The Martian", "Der Marsianer: Rettet Mark Watney"], "2015", ["2016 07 07", "2019 10 21", "2020 05 17"], 8, ["ger"], ["adventure", "drama", "sci-fi"], [], ["Netflix", "Schule"], ["Ridley Scott"], ["Matt Damon", "Kristen Wiig", "Jeff Daniels", "Sean Bean", "Chiwetel Ejiofor", "Donald Glover", "Jessica Chastain", "Michael Peña", "Mackenzie Davis", "Sebastian Stan"], "https://66.media.tumblr.com/1df268dfeaac539844517e25e5c83fc7/tumblr_o9ydqujhi01v2s5upo1_250.jpg"],
+["film", ["The Martian", "Der Marsianer: Rettet Mark Watney"], "2015", ["2016 07 07", "2019 10 21", "2020 05 17"], 8, ["ger"], ["adventure", "drama", "sci-fi"], [], ["Netflix", "Schule"], ["Ridley Scott"], ["Matt Damon", "Kristen Wiig", "Jeff Daniels", "Sean Bean", "Chiwetel Ejiofor", "Donald Glover", "Jessica Chastain", "Michael Peña", "Mackenzie Davis", "Sebastian Stan", "Benedict Wong"], "https://66.media.tumblr.com/1df268dfeaac539844517e25e5c83fc7/tumblr_o9ydqujhi01v2s5upo1_250.jpg"],
 	        
 ["film", ["Sing Street"], "2016", ["2016 06 28", "2016 10 24", "2018 05 04", "2022 02 19"], 9, ["ger"], ["comedy", "drama", "music"], ["syl", "je", "bini"], ["Kino", "DVD"], ["John Carney"], ["Lucy Boynton", "Aidan Gillen"], "https://68.media.tumblr.com/1327081731d4fd04cb8616747d4b355e/tumblr_o9hsr5EvO21v2s5upo1_250.jpg"],
 	        
@@ -422,7 +422,7 @@ var database = [
 	        
 ["film", ["Kick-Ass"], "2010", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], ["bini"], [], ["Matthew Vaughn"], ["Christopher Mintz-Plasse", "Chloë Grace Moretz", "Evan Peters", "Xander Berkeley", "Omari Hardwick", "Aaron Taylor-Johnson"], "https://40.media.tumblr.com/50091ac45e1d0d7d73fee6abb55a0020/tumblr_o5mvk0MA5b1v2s5upo1_250.jpg"],
 	        
-["film", ["Kick-Ass 2"], "2013", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], [], [], ["Jeff Wadlow"], ["Chloë Grace Moretz", "John Leguizamo", "Jim Carrey", "Ella Purnell", "Iain Glen", "Aaron Taylor-Johnson"], "https://40.media.tumblr.com/4bbb2e53f36fc274d645007c32b45568/tumblr_o5mwb2cDB91v2s5upo1_250.jpg"],
+["film", ["Kick-Ass 2"], "2013", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], [], [], ["Jeff Wadlow"], ["Chloë Grace Moretz", "John Leguizamo", "Jim Carrey", "Ella Purnell", "Iain Glen", "Aaron Taylor-Johnson", "Benedict Wong"], "https://40.media.tumblr.com/4bbb2e53f36fc274d645007c32b45568/tumblr_o5mwb2cDB91v2s5upo1_250.jpg"],
 	        
 ["film", ["Brain on Fire", "Feuer im Kopf"], "2016", ["2018 07 23"], 7, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Gerard Barrett"], ["Chloë Grace Moretz", "Thomas Mann", "Richard Armitage"], "https://66.media.tumblr.com/a289242ec9258da8d7bae2d525f96a5d/2376b81d083bf343-08/s250x400/9b3af989b942eb390622492f92bbab1850daae4f.jpg"],
 	        
@@ -840,7 +840,7 @@ var database = [
 	        
 ["film", ["Lost in Translation", "Lost in Translation: Zwischen den Welten"], "2003", ["2016 11 25"], 9, ["ger"], ["comedy", "drama"], [], [], ["Sofia Coppola"], ["Scarlett Johansson", "Bill Murray", "Giovanni Ribisi", "Anna Faris"], "https://66.media.tumblr.com/090b03507e69fdb40e0c2bbf8b5b5d0f/tumblr_oh80i6KYvM1v2s5upo1_250.jpg"],
 	        
-["film", ["Bibi Blocksberg and the Secret of the Blue Owls", "Bibi Blocksberg und das Geheimnis der blauen Eulen"], "2004", ["2016 11 10", "2018 03 10", "2022 07 14"], 7, ["ger"], ["family", "fantasy"], ["bini"], ["Bibi Blocksberg", "Disney+"], ["Franziska Buch"], ["Sidonie von Krosigk", "Frederick Lau", "Katja Riemann"], "https://68.media.tumblr.com/a0de0fa678d6e81a7567b271f3e67b31/tumblr_ogjsiuLQPR1v2s5upo1_250.jpg"],
+["film", ["Bibi Blocksberg and the Secret of the Blue Owls", "Bibi Blocksberg und das Geheimnis der blauen Eulen"], "2004", ["2016 11 10", "2018 03 10", "2022 07 14"], 7, ["ger"], ["family", "fantasy"], ["bini"], ["Bibi Blocksberg", "Disney+"], ["Franziska Buch"], ["Sidonie von Krosigk", "Frederick Lau", "Katja Riemann", "Ulrich Noethen"], "https://68.media.tumblr.com/a0de0fa678d6e81a7567b271f3e67b31/tumblr_ogjsiuLQPR1v2s5upo1_250.jpg"],
 	        
 ["film", ["Kim Possible: So the Drama", "Kim Possible - Der Film: Invasion der Roboter"], "2005", ["2016 11 03", "2023 05 14"], 7, ["ger"], ["animation", "action"], ["bini", "nico"], ["Disney+"], ["Steve Loter"], [], "https://68.media.tumblr.com/e388d46edd65dc4d4a03f6f017c69e6f/tumblr_og4nw3DkbE1v2s5upo1_250.jpg"],
 	        
@@ -1304,11 +1304,11 @@ var database = [
 	        
 ["film", ["Hush", "Still"], "2016", ["2018 06 26"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Mike Flanagan"], ["James Flanagan"], "https://66.media.tumblr.com/80e3a1b9fff0084cd34701f871adcd85/tumblr_pzpvznTPCq1v2s5upo1_250.jpg"],
 	        
-["film", ["Freche Mädchen"], "2008", ["2018 06 18"], 6, ["ger"], ["comedy", "drama"], [], ["Freche Mädchen", "Netflix"], ["Ute Wieland"], ["Anke Engelke", "Anna Böttcher", "Christian Tramitz", "Wilson Gonzalez", "Gerda Böken", "Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel"], "https://66.media.tumblr.com/8faea0ec081e5bd5cf57b650c4ca294d/tumblr_pzktvjfw161v2s5upo1_250.jpg"],
+["film", ["Freche Mädchen"], "2008", ["2018 06 18"], 6, ["ger"], ["comedy", "drama"], [], ["Freche Mädchen", "Netflix"], ["Ute Wieland"], ["Anke Engelke", "Anna Böttcher", "Christian Tramitz", "Wilson Gonzalez", "Gerda Böken", "Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel", "Piet Klocke"], "https://66.media.tumblr.com/8faea0ec081e5bd5cf57b650c4ca294d/tumblr_pzktvjfw161v2s5upo1_250.jpg"],
 	        
 ["film", ["Dude"], "2018", ["2018 05 16"], 6, ["ger"], ["comedy", "drama"], [], [], ["Olivia Milch"], ["Kathryn Prescott", "Awkwafina", "Alex Wolff", "Alexandra Shipp"], "https://66.media.tumblr.com/702308077be02f4b8fa5db3a9615e29d/tumblr_pzfebsZgCo1v2s5upo1_250.jpg"],
 	        
-["film", ["Bibi Blocksberg"], "2002", ["2018 03 10"], 5, ["ger"], ["comedy", "family"], ["bini"], ["Bibi Blocksberg"], ["Hermine Huntgeburth"], ["Sidonie von Krosigk", "Katja Riemann"], "https://66.media.tumblr.com/ce02de8e989f7fec97130e504c9fed6b/tumblr_pzdf4jmvOy1v2s5upo1_250.jpg"],
+["film", ["Bibi Blocksberg"], "2002", ["2018 03 10"], 5, ["ger"], ["comedy", "family"], ["bini"], ["Bibi Blocksberg"], ["Hermine Huntgeburth"], ["Sidonie von Krosigk", "Katja Riemann", "Ulrich Noethen"], "https://66.media.tumblr.com/ce02de8e989f7fec97130e504c9fed6b/tumblr_pzdf4jmvOy1v2s5upo1_250.jpg"],
 	        
 ["film", ["Expedition Happiness"], "2017", ["2018 03 07"], 6, ["ger"], ["documentary"], [], ["Netflix"], ["Felix Starck"], [], "https://66.media.tumblr.com/4dfaca1c577a75909bad003c4eba4eee/tumblr_pz9f25Jwgu1v2s5upo1_250.jpg"],
 	        
@@ -1954,7 +1954,7 @@ var database = [
 
 ["film", ["The Wave", "Die Welle"], "2008", ["2021 11 01"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Dennis Gansel"], ["Jürgen Vogel", "Frederick Lau", "Max Riemelt", "Elyas M'Barek", "Jacob Matschenz", "Max Mauff", "Tim Oliver Schultz", "Jennifer Ulrich"], "https://64.media.tumblr.com/22e92cc08046c98c68f0e4778c1fc2a5/a37e1ae2a4afa3cb-5b/s250x400/8debab79dfb2f3b21f632e6feb3e68d1d69910f0.jpg"],
 
-["film", ["Die Wilden Hühner"], "2006", ["2021 11 03"], 5, ["ger"], ["adventure", "family"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Paula Romy", "Zsá Zsá Inci", "Benno Fürmann", "Nina Vorbrodt", "Axel Prahl", "Jette Hering"], "https://64.media.tumblr.com/6e75d756d4b66248126c6483b750c971/9f1cc2ad374d9fcc-31/s250x400/3afe75e6d09c1f49f6d9b97433d5d3be22011c7a.jpg"],
+["film", ["Die Wilden Hühner"], "2006", ["2021 11 03"], 5, ["ger"], ["adventure", "family"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Paula Romy", "Zsá Zsá Inci", "Benno Fürmann", "Nina Vorbrodt", "Axel Prahl", "Jette Hering", "Piet Klocke"], "https://64.media.tumblr.com/6e75d756d4b66248126c6483b750c971/9f1cc2ad374d9fcc-31/s250x400/3afe75e6d09c1f49f6d9b97433d5d3be22011c7a.jpg"],
 
 ["film", ["Die Wilden Hühner und die Liebe"], "2007", ["2021 11 04"], 6, ["ger"], ["comedy", "family"], [], ["Netflix", "LGBT", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Paula Romy", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Thomas Kretschmann", "Benno Fürmann", "Axel Prahl"], "https://64.media.tumblr.com/1a2776dae54457bcf515edc7356d6768/876998922951938e-05/s250x400/e54e96ceee013d17dbd42f0e1742f718c5b2eb60.jpg"],
 
@@ -2051,7 +2051,7 @@ var database = [
 
 ["film", ["Still Out of My League", "Immer noch nicht meine Liga", "Ancora più bello"], "2021", ["2021 12 13"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Claudio Norza"], [], "https://64.media.tumblr.com/0aa4fd98b10748ee7420b2cb7c03dabf/0d0459a80a742b13-37/s250x400/b5f621cc550b2a06337fe547f4ae4fed226ba472.jpg"],
 
-["film", ["Shang-Chi and the Legend of the Ten Rings"], "2021", ["2021 12 14"], 6, ["ger"], ["action", "adventure"], [], ["Disney+", "Marvel"], ["Destin Daniel Cretton"], ["Awkwafina", "Ben Kingsley", "Zach Cherry", "Simu Liu"], "https://64.media.tumblr.com/76929d1573351d3bc442d047e4e6c34b/a5f8ee358500fc51-a2/s250x400/ea97225150bea7e032cbdbe5a571a20fd0a8fd7f.jpg"],
+["film", ["Shang-Chi and the Legend of the Ten Rings"], "2021", ["2021 12 14"], 6, ["ger"], ["action", "adventure"], [], ["Disney+", "Marvel"], ["Destin Daniel Cretton"], ["Awkwafina", "Ben Kingsley", "Zach Cherry", "Simu Liu", "Benedict Wong"], "https://64.media.tumblr.com/76929d1573351d3bc442d047e4e6c34b/a5f8ee358500fc51-a2/s250x400/ea97225150bea7e032cbdbe5a571a20fd0a8fd7f.jpg"],
 
 ["film", ["Escape to Witch Mountain", "Die Flucht zum Hexenberg"], "1975", ["2021 12 15"], 4, ["ger"], ["adventure", "family"], [], ["Disney+"], ["John Hough"], ["Kim Richards", "Ike Eisenmann"], "https://64.media.tumblr.com/202b050f90d61bf528f7fad447e42483/ebdbb3f0bbc76cd0-ba/s250x400/e1e35daf84c7cd0857734f680e3ae36e9357ec64.jpg"],
 
@@ -2966,7 +2966,7 @@ var database = [
 
 ["film", ["Ocean Waves", "Flüstern des Meeres - Ocean Waves", "Umi ga kikoeru"], "1993", ["2024 05 05"], 5, ["ger"], ["anime", "drama", "romance"], [], ["Netflix", "Ghibli"], ["Tomomi Mochizuki"], [], "https://64.media.tumblr.com/ad5b902947af952aa8d203c9041981ad/153ff031f4119d3a-32/s250x400/f4512ed0fec45fd04295c91fbae1a9e0085a7484.jpg"],
 
-["film", ["Scherbenpark"], "2013", ["2024 05 07"], 5, ["ger"], ["drama"], [], ["bibliothek"], ["Bettina Blümner"], ["Jasna Fritzi Bauer", "Vladimir Burlakov"], "https://64.media.tumblr.com/98e0a76899350230e0517169f27ecd3c/528258440d557260-f7/s250x400/eacc87448cbceafa7e9cf5197ec93b6b02ea2597.jpg"],
+["film", ["Broken Glass Park", "Scherbenpark"], "2013", ["2024 05 07"], 5, ["ger"], ["drama"], [], ["bibliothek"], ["Bettina Blümner"], ["Jasna Fritzi Bauer", "Vladimir Burlakov", "Ulrich Noethen"], "https://64.media.tumblr.com/98e0a76899350230e0517169f27ecd3c/528258440d557260-f7/s250x400/eacc87448cbceafa7e9cf5197ec93b6b02ea2597.jpg"],
 
 ["series", ["Schloss Einstein & Die Pfefferkörner - Auf Gangsterjagd"], "2023", [["2024 05 07", "S1"]], 6, ["ger"], ["crime"], [], ["Die Pfefferkörner", "Schloss Einstein"], ["Markus Dietrich"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/56113b8d8214961c9f537317041d0c90/474bca8ac2ea3c38-02/s250x400/7a4244f9a4b8dd2e88cec29aab74a521568df85b.jpg"],
 
@@ -3002,7 +3002,7 @@ var database = [
 
 ["series", ["Geek Girl"], "2024", [["2024 06 29", "2024 06 30", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Georgie Armour", "Sarah Morgan", "Zoë Rocha"], ["Hebe Beardsall"], "https://64.media.tumblr.com/5e151ffc9bd79f5789c9a69cceb6eb57/4684056fc2e1138f-df/s250x400/85809bc01a32d16e46e50dd20a290a134fe0b50d.jpg"],
 
-["series", ["3 Body Problem"], "2024", [["2024 07 02", "2024 07 25", "S1"]], 6, ["ger"], ["adventure", "drama"], [], ["Netflix", "ongoing"], ["David Benioff", "Cixin Liu"], [], "https://64.media.tumblr.com/8f210ed62f967471de06d8e95c120a63/e3c3dec8ba53e611-c2/s250x400/0a684990f7675fd2d2a16ff8fb9500d108e811b5.jpg"],
+["series", ["3 Body Problem"], "2024", [["2024 07 02", "2024 07 25", "S1"]], 6, ["ger"], ["adventure", "drama"], [], ["Netflix", "ongoing"], ["David Benioff", "Cixin Liu"], ["Benedict Wong"], "https://64.media.tumblr.com/8f210ed62f967471de06d8e95c120a63/e3c3dec8ba53e611-c2/s250x400/0a684990f7675fd2d2a16ff8fb9500d108e811b5.jpg"],
 
 ["book", ["Holes", "Löcher - Die Geheimnisse von Green Lake"], "1998", [["2024 07 02", "2024 08 13"]], 9, ["ger"], ["adventure"], [], ["bibliothek"], ["Louis Sachar"], [], "https://64.media.tumblr.com/d079879d96719918fcc8e73ac850a3ed/35b01111b956299e-8c/s250x400/2b1bb383851e142b4341890b7a4f9af03c3fa7ea.jpg"],
 
@@ -3036,7 +3036,13 @@ var database = [
 
 ["audiobook", ["Sherlock is Back: Mord im Atelier"], "2023", ["2024 09 05"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Beatrice Ferolli"], ["Gerry Hungbauer"], "https://64.media.tumblr.com/728895511021fe71bab32de2b8a21beb/b84ba4bd37034f05-e6/s250x400/906f3334b99bbb45f95170256cf43124f6db9813.jpg"],
 
-["audiobook", ["Sherlock is Back: Mord im Tivoli"], "2024", ["2024 09 05"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Beatrice Ferolli"], ["Gerry Hungbauer"], "https://64.media.tumblr.com/ca69f6d6d4bd82f5946feff084087d80/5ab4e583776e46c8-6e/s250x400/77bc89e0e1341f20b698655ef1ed055520fbccfa.jpg"]
+["audiobook", ["Sherlock is Back: Mord im Tivoli"], "2024", ["2024 09 05"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Beatrice Ferolli"], ["Gerry Hungbauer"], "https://64.media.tumblr.com/ca69f6d6d4bd82f5946feff084087d80/5ab4e583776e46c8-6e/s250x400/77bc89e0e1341f20b698655ef1ed055520fbccfa.jpg"],
+
+["film", ["Gemini Man"], "2019", ["2024 09 07"], 6, ["ger"], ["action", "sci-fi"], [], ["Netflix"], ["Ang Lee"], ["Will Smith", "Mary Elizabeth Winstead", "Benedict Wong"], "https://64.media.tumblr.com/af1cab766da15dd70b570dec18c3caaa/12b7ca23dd5e914d-b2/s250x400/c864b79da63f55a4b0f3436b17ab497c70246ab8.jpg"],
+
+["film", ["The Flying Classroom", "Das fliegende Klassenzimmer"], "2003", ["2024 09 07"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Tomy Wigand"], ["Ulrich Noethen", "Piet Klocke", "Frederick Lau", "Anja Kling"], "https://64.media.tumblr.com/9a0b45d129b6d4675931dda69b936b16/5f9768fe76264f61-d6/s250x400/707cdf266b6c3fb797bc7804925ae28c06a6e00c.jpg"],
+
+["film", ["Don't Look Up"], "2021", ["2024 09 07"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Adam McKay"], ["Leonardo DiCaprio", "Jennifer Lawrence", "Meryl Streep", "Cate Blanchett", "Jonah Hill", "Mark Rylance", "Timothée Chalamet", "Ron Perlman", "Ariana Grande"], "https://64.media.tumblr.com/460c0020f152a3c88a093e6af994b5db/dc3cf228b314e7b1-e5/s250x400/134b5660eb0f4912c9cd167d04675fa2e8821ef8.jpg"]
 
 /*
 ,
