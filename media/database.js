@@ -2006,7 +2006,7 @@ var database = [
 
 ["film", ["Neighbors 2: Sorority Rising", "Bad Neighbors 2"], "2016", ["2021 11 22"], 4, ["ger"], ["comedy"], ["bini", "syl", "je"], ["Netflix"], ["Nicholas Stoller"], ["Seth Rogen", "Zac Efron", "Rose Byrne", "Chloë Grace Moretz", "Dave Franco", "Christopher Mintz-Plasse", "Awkwafina", "Selena Gomez", "Lisa Kudrow", "Ike Barinholtz", "Kiersey Clemons", "Beanie Feldstein", "Hannibal Buress", "Ciara Bravo", "Sam Richardson"], "https://64.media.tumblr.com/34ba2fe2a94b9e3f3539d451ce8a8cae/2145e1481d31850f-0d/s250x400/a17a441fdabd7f64e4157119ec7b7eebabead837.jpg"],
 
-["series", ["The Bureau of Magical Things", "Club der magischen Dinge"], ["2018", ""], [["2021 11 23", "2021 11 29", "S1E1-S1E9"]], 4, ["ger"], ["family", "fantasy"], [], ["Netflix", "ongoing", "dropped"], ["Chris Anastassiades", "Sam Carroll", "Li-Kim Chuah"], ["Melanie Zanetti"], "https://64.media.tumblr.com/4b05f6c8415c3e4f6553c6deb9d1c204/c9f6af84a4caba57-4c/s250x400/effba562875e2b3763f10c6190aa8c2853c8db9b.jpg"],
+["series", ["The Bureau of Magical Things", "Club der magischen Dinge"], ["2018", ""], [["2021 11 23", "2021 11 29", "S1E1-S1E9"]], 4, ["ger"], ["family", "fantasy"], [], ["Netflix", "ongoing", "dropped"], ["Chris Anastassiades", "Sam Carroll", "Li-Kim Chuah"], ["Melanie Zanetti", "Joey Vieira"], "https://64.media.tumblr.com/4b05f6c8415c3e4f6553c6deb9d1c204/c9f6af84a4caba57-4c/s250x400/effba562875e2b3763f10c6190aa8c2853c8db9b.jpg"],
 
 ["film", ["After Earth"], "2013", ["2021 11 23"], 4, ["ger"], ["action", "adventure"], ["je"], [], ["M. Night Shyamalan"], ["Will Smith", "Isabelle Fuhrman", "Sophie Okonedo"], "https://64.media.tumblr.com/2a89004eaebf8f4c05b4e951b336d12a/66be50de3b41f76b-04/s250x400/f04b5bb1e27b5b3cfe97f5b58f92d7706e1b2b44.jpg"],
 
@@ -2359,7 +2359,7 @@ var database = [
 
 ["series", ["Heirs of the Night", "Die Erben der Nacht"], ["2019", ""], [["2022 08 08", "2022 08 24", "S1"]], 4, ["ger"], ["fantasy", "horror"], [], ["Disney+", "ongoing"], ["Diederik Van Rooijen"], [], "https://64.media.tumblr.com/105150de39114a96c29cbcb3851954c0/7765bfae6eb4a1ec-e1/s250x400/c0fbd6047dbb2dbdb92bb423b52ba31279c6b144.jpg"],
 
-["film", ["Middle School: The Worst Years of My Life", "School Survival: Die schlimmsten Jahre meines Lebens"], "2016", ["2022 08 09"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Steve Carr"], ["Griffin Gluck", "Lauren Graham"], "https://64.media.tumblr.com/0ecfefef94c12761e116eb6b73016acf/3d46f6f3e23949b5-26/s250x400/c104eb3cebe152faa199f9072e253f0e30c9ac60.jpg"],
+["film", ["Middle School: The Worst Years of My Life", "School Survival: Die schlimmsten Jahre meines Lebens"], "2016", ["2022 08 09"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Steve Carr"], ["Griffin Gluck", "Lauren Graham", "Isabela Merced"], "https://64.media.tumblr.com/0ecfefef94c12761e116eb6b73016acf/3d46f6f3e23949b5-26/s250x400/c104eb3cebe152faa199f9072e253f0e30c9ac60.jpg"],
 
 ["film", ["The Village", "The Village - Das Dorf"], "2004", ["2022 08 11", "2022 10 23"], 8, ["ger"], ["drama", "mystery", "thriller", "horror"], ["bini", "je"], ["Disney+"], ["M. Night Shyamalan"], ["Bryce Dallas Howard", "Joaquin Phoenix", "Adrien Brody", "Sigourney Weaver", "Brendan Gleeson", "Cherry Jones", "Judy Greer", "Fran Kranz", "Jesse Eisenberg"], "https://64.media.tumblr.com/347c473c43beb5b269fc3db0f8141a85/b1a5697de1a28afe-9d/s250x400/7934131e68cac8d38c565322925e1a266075f434.jpg"],
 
@@ -2537,7 +2537,7 @@ var database = [
 
 ["film", ["Rainbow"], "2022", ["2023 02 26"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Paco León"], [], "https://64.media.tumblr.com/d61c5d3bdeb321978c1fe8b4b7511003/8ad7c51e301e4d19-ec/s250x400/1886095dda37c79100713c199a464ec004a844e7.jpg"],
 
-["film", ["Spiderhead", "Der Spinnenkopf"], "2022", ["2023 02 28"], 6, ["ger"], ["sci-fi"], [], ["Netflix"], ["Joseph Kosinski"], ["Chris Hemsworth", "Miles Teller"], "https://64.media.tumblr.com/2cdc01a722f7dc021ea8cd8771e3e265/fcb39a7f5517ced8-9e/s250x400/270f5ed916819d63be8677d2f89dcf3e2dd4d61c.jpg"],
+["film", ["Spiderhead", "Der Spinnenkopf"], "2022", ["2023 02 28"], 6, ["ger"], ["sci-fi"], [], ["Netflix"], ["Joseph Kosinski"], ["Chris Hemsworth", "Miles Teller", "Joey Vieira"], "https://64.media.tumblr.com/2cdc01a722f7dc021ea8cd8771e3e265/fcb39a7f5517ced8-9e/s250x400/270f5ed916819d63be8677d2f89dcf3e2dd4d61c.jpg"],
 
 ["film", ["The Circle"], "2017", ["2023 03 04"], 6, ["ger"], ["drama", "sci-fi"], [], ["Netflix"], ["James Ponsoldt"], ["Emma Watson", "Karen Gillan", "Tom Hanks", "Patton Oswalt", "Poorna Jagannathan", "Judy Reyes"], "https://64.media.tumblr.com/35b31298a69367010c00c5b8bf9ce8ea/6215319b73a48620-4f/s250x400/2f52fe2ca0efb3c9141cef2b00a340a579551ef0.jpg"],
 
@@ -3042,7 +3042,9 @@ var database = [
 
 ["film", ["The Flying Classroom", "Das fliegende Klassenzimmer"], "2003", ["2024 09 07"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Tomy Wigand"], ["Ulrich Noethen", "Piet Klocke", "Frederick Lau", "Anja Kling"], "https://64.media.tumblr.com/9a0b45d129b6d4675931dda69b936b16/5f9768fe76264f61-d6/s250x400/707cdf266b6c3fb797bc7804925ae28c06a6e00c.jpg"],
 
-["film", ["Don't Look Up"], "2021", ["2024 09 07"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Adam McKay"], ["Leonardo DiCaprio", "Jennifer Lawrence", "Meryl Streep", "Cate Blanchett", "Jonah Hill", "Mark Rylance", "Timothée Chalamet", "Ron Perlman", "Ariana Grande"], "https://64.media.tumblr.com/460c0020f152a3c88a093e6af994b5db/dc3cf228b314e7b1-e5/s250x400/134b5660eb0f4912c9cd167d04675fa2e8821ef8.jpg"]
+["film", ["Don't Look Up"], "2021", ["2024 09 07"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Adam McKay"], ["Leonardo DiCaprio", "Jennifer Lawrence", "Meryl Streep", "Cate Blanchett", "Jonah Hill", "Mark Rylance", "Timothée Chalamet", "Ron Perlman", "Ariana Grande"], "https://64.media.tumblr.com/460c0020f152a3c88a093e6af994b5db/dc3cf228b314e7b1-e5/s250x400/134b5660eb0f4912c9cd167d04675fa2e8821ef8.jpg"],
+
+["film", ["Dora and the Lost City of Gold", "Dora und die goldene Stadt"], "2019", ["2024 09 15"], 8, ["ger"], ["comedy", "adventure", "action"], ["bini", "je", "syl"], ["Netflix"], ["James Bobin"], ["Eva Longoria", "Michael Peña", "Isabela Merced", "Joey Vieira"], "https://64.media.tumblr.com/00cd2cd2705d701ab78b7772f7f4efb0/0e217fd441f93650-3e/s250x400/54f0e82c288cc49369f3e045f4ac158db97900a4.jpg"]
 
 /*
 ,
