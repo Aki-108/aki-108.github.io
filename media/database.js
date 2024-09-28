@@ -3050,7 +3050,9 @@ var database = [
 
 ["film", ["Inheritance", "Die Erbschaft", "Spadek"], "2024", ["2024 09 25"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Sylwester Jakimow"], [], "https://64.media.tumblr.com/d1fe83947761ef840c93f42cb95de844/07c9ec5e6052beb9-89/s250x400/34674daefeb88ccf470b06e77406d13baa0a8dea.jpg"],
 
-["film", ["American Psycho"], "2000", ["2024 09 26"], 7, ["eng"], ["crime", "drama"], [], ["Netflix"], ["Mary Harron"], ["Christian Bale", "Bill Sage", "Reese Witherspoon", "Matt Ross", "Jared Leto", "Willem Dafoe"], "https://64.media.tumblr.com/277e99b5733b415ba4dee77654f69ee5/b63713f1bf141b9e-63/s250x400/eaf2089a88e8fb850973b5548f4b84aa40732e88.jpg"]
+["film", ["American Psycho"], "2000", ["2024 09 26"], 7, ["eng"], ["crime", "drama"], [], ["Netflix"], ["Mary Harron"], ["Christian Bale", "Bill Sage", "Reese Witherspoon", "Matt Ross", "Jared Leto", "Willem Dafoe"], "https://64.media.tumblr.com/277e99b5733b415ba4dee77654f69ee5/b63713f1bf141b9e-63/s250x400/eaf2089a88e8fb850973b5548f4b84aa40732e88.jpg"],
+
+["series", ["Lonelygirl15"], ["2006", "2016"], [["2024 09 28", "", "S1"]], 0, ["eng"], ["drama"], [], ["watching"], ["Miles Beckett", "Greg Goodfried", "Mesh Flinders"], ["Yousef Abu-Taleb", "Jackson Davis", "Jessica Rose"], "https://64.media.tumblr.com/2e477de722bb5ab70464ce332e8f7173/be12f6f64b20a6b3-b1/s250x400/8dcb298fbeb9adb22930675f45eface1609a2aed.jpg"]
 
 /*
 ,
