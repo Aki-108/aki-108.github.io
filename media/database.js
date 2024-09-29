@@ -3054,7 +3054,7 @@ var database = [
 
 ["series", ["Lonelygirl15"], ["2006", "2016"], [["2024 09 28", "", "S1"]], 0, ["eng"], ["drama"], [], ["YouTube", "watching"], ["Miles Beckett", "Greg Goodfried", "Mesh Flinders"], ["Yousef Abu-Taleb", "Jackson Davis", "Jessica Rose"], "https://64.media.tumblr.com/2e477de722bb5ab70464ce332e8f7173/be12f6f64b20a6b3-b1/s250x400/8dcb298fbeb9adb22930675f45eface1609a2aed.jpg"],
 
-["series", ["A Good Girl's Guide to Murder"], "2024", [["2024 09 28", "", "S1"]], 0, ["ger"], ["drama", "mystery"], [], ["ZDF Neo", "watching"], ["Poppy Cogan", "Holly Jackson"], ["Emma Myers"], "https://64.media.tumblr.com/7d75c4452547184b4ac9c8287ad79531/c4d95847e9946dcd-76/s250x400/9ab8557c8d62cecfd05eea4913e70b07c9604ebb.jpg"]
+["series", ["A Good Girl's Guide to Murder"], "2024", [["2024 09 28", "2024 09 29", "S1"]], 8, ["ger"], ["drama", "mystery"], [], ["ZDF Neo"], ["Poppy Cogan", "Holly Jackson"], ["Emma Myers"], "https://64.media.tumblr.com/7d75c4452547184b4ac9c8287ad79531/c4d95847e9946dcd-76/s250x400/9ab8557c8d62cecfd05eea4913e70b07c9604ebb.jpg"]
 
 /*
 ,
