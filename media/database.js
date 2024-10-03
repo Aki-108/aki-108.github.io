@@ -245,7 +245,7 @@ var database = [
 	        
 ["film", ["Jurassic Park III"], "2001", ["2016 01 15"], 6, ["ger"], ["action", "adventure", "supernatural", "sci-fi"], ["bini"], ["Jurassic Park"], ["Joe Johnston"], ["Sam Neill", "Laura Dern"], "https://40.media.tumblr.com/44108748425d63232777ca718af0bafb/tumblr_o11raddsIz1v2s5upo1_250.jpg"],
 	        
-["film", ["A Girl Walks Home Alone at Night"], "2014", ["2016 01 16", "2016 01 23", "2016 10 20", "2018 02 16", "2020 04 13"], 9, ["eng", "ger"], ["drama", "horror"], ["bini"], ["fav", "bby"], ["Ana Lily Amirpour"], ["Sheila Vand", "Marshall Manesh"], "https://49.media.tumblr.com/7dd4f5f52754e21efb1093fb15dcbd34/tumblr_o11rky2LQA1v2s5upo1_250.jpg"],
+["film", ["A Girl Walks Home Alone at Night"], "2014", ["2016 01 16", "2016 01 23", "2016 10 20", "2018 02 16", "2020 04 13", "2024 10 03"], 9, ["eng", "ger"], ["drama", "horror"], ["bini"], ["fav", "bby", "DVD"], ["Ana Lily Amirpour"], ["Sheila Vand", "Marshall Manesh"], "https://49.media.tumblr.com/7dd4f5f52754e21efb1093fb15dcbd34/tumblr_o11rky2LQA1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Fall"], "2006", ["2016 01 05"], 4, ["ger"], ["adventure", "drama"], [], [], ["Tarsem Singh"], [], "https://40.media.tumblr.com/0965f1cf108f29eb077042e443f17795/tumblr_o0jgx6WCAA1v2s5upo1_250.jpg"],
 	        
@@ -900,7 +900,7 @@ var database = [
 	        
 ["film", ["Let's Be Evil"], "2016", ["2016 08 13", "2017 10 10"], 6, ["eng"], ["horror", "sci-fi"], [], ["Netflix"], ["Martin Owen"], ["Elizabeth Morris"], "https://68.media.tumblr.com/df71a78d4180d65f56e29ad0a425a190/tumblr_obuqhe5Amh1v2s5upo1_250.jpg"],
 	        
-["film", ["Mr. & Mrs. Smith"], "2005", ["2016 07 27"], 7, ["ger"], ["action", "comedy"], [], [], ["Doug Liman"], ["Brad Pitt", "Angelina Jolie", "Vince Vaughn"], "https://66.media.tumblr.com/a23237a0b2b955cfc19d98af96c4069f/tumblr_oazr45ZLBo1v2s5upo1_250.jpg"],
+["film", ["Mr. & Mrs. Smith"], "2005", ["2016 07 27"], 7, ["ger"], ["action", "comedy"], [], [], ["Doug Liman"], ["Brad Pitt", "Angelina Jolie", "Vince Vaughn", "Adam Brody"], "https://66.media.tumblr.com/a23237a0b2b955cfc19d98af96c4069f/tumblr_oazr45ZLBo1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Revenant", "The Revenant - Der Rückkehrer"], "2015", ["2016 07 26"], 6, ["ger"], ["action", "adventure", "history"], [], [], ["Alejandro G. Iñárritu"], ["Leonardo DiCaprio", "Tom Hardy", "Domhnall Gleeson", "Will Poulter"], "https://68.media.tumblr.com/cbe5b2e2db515627e52b5ec2de329592/tumblr_oazdwtn3HW1v2s5upo1_250.jpg"],
 	        
@@ -2668,7 +2668,7 @@ var database = [
 
 ["film", ["What a Girl Wants", "Was Mädchen wollen"], "2003", ["2023 07 29"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Dennie Gordon"], ["Kelly Preston", "Colin Firth"], "https://64.media.tumblr.com/21dca32f273be0c5a107b1d0e37152df/c8dd3e609a6531f6-a0/s250x400/7efce46a03da146b562d6ec7f2c398135b159d37.jpg"],
 
-["film", ["Scream"], "2022", ["2023 07 29"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Matt Bettinelli-Olpin", "Tyler Gillett"], ["Jenna Ortega", "Dylan Minnette"], "https://64.media.tumblr.com/cefe0dca7ad4397a4e05c963a0ddae3d/095472feee2154cc-aa/s250x400/f1e3254d1a368eb9662c5546ac6f05a077d0ab29.jpg"],
+["film", ["Scream"], "2022", ["2023 07 29"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Matt Bettinelli-Olpin", "Tyler Gillett"], ["Jenna Ortega", "Dylan Minnette", "Adam Brody"], "https://64.media.tumblr.com/cefe0dca7ad4397a4e05c963a0ddae3d/095472feee2154cc-aa/s250x400/f1e3254d1a368eb9662c5546ac6f05a077d0ab29.jpg"],
 
 ["film", ["Scary Movie 5"], "2013", ["2023 07 30"], 5, ["ger"], ["comedy"], [], ["Netflix"], ["Malcolm D. Lee", "David Zucker"], ["Ashley Tisdale", "Ava Kolker", "Snoop Dogg", "Terry Crews", "Charlie Sheen", "Lindsay Lohan", "Jerry O'Connell", "Usher", "Kate Walsh", "Mike Tyson"], "https://64.media.tumblr.com/e44667ff70f8e6b70b2ad45a03fbc7a8/005926ac54b353e7-a2/s250x400/98b5c85adb17cac0ff3c821066ac07fbe11e735c.jpg"],
 
@@ -3056,7 +3056,11 @@ var database = [
 
 ["series", ["A Good Girl's Guide to Murder"], "2024", [["2024 09 28", "2024 09 29", "S1"]], 8, ["ger"], ["drama", "mystery"], [], ["ZDF Neo"], ["Poppy Cogan", "Holly Jackson"], ["Emma Myers"], "https://64.media.tumblr.com/7d75c4452547184b4ac9c8287ad79531/c4d95847e9946dcd-76/s250x400/9ab8557c8d62cecfd05eea4913e70b07c9604ebb.jpg"],
 
-["series", ["Hannah Montana"], ["2006", "2011"], [["2024 10 02", "", "S1"]], 0, ["ger"], ["comedy", "family"], ["bini", "nico"], ["Disney+", "watching"], ["Richard Correll", "Barry O'Brien"], ["Miley Cyrus"], "https://64.media.tumblr.com/c46019b41a1a54ad294cca84744d6fbc/49fc4c8f78992291-03/s250x400/ebe9f8358e51c5853adafa367e115a61cb7a2dd8.jpg"]
+["series", ["Hannah Montana"], ["2006", "2011"], [["2024 10 02", "", "S1"]], 0, ["ger"], ["comedy", "family"], ["bini", "nico"], ["Disney+", "watching"], ["Richard Correll", "Barry O'Brien"], ["Miley Cyrus"], "https://64.media.tumblr.com/c46019b41a1a54ad294cca84744d6fbc/49fc4c8f78992291-03/s250x400/ebe9f8358e51c5853adafa367e115a61cb7a2dd8.jpg"],
+
+["film", ["22 Bullets", "22 Kugeln", "L'immortel"], "2010", ["2024 10 03"], 7, ["ger"], ["action", "crime"], [], ["ARD"], ["Richard Berry"], ["Jean Reno", "Kad Merad"], "https://64.media.tumblr.com/b30f6047940fdea7e7d0d0b0d38bb2d3/5abbbace362a1b0a-0c/s250x400/d4b4d6b0242cde7cc49ef9030b7f9350fc4ed1a0.jpg"],
+
+["film", ["Jennifer's Body", "Jennifer's Body - Jungs nach ihrem Geschmack"], "2009", ["2024 10 03"], 6, ["ger"], ["comedy", "horror"], [], ["Disney+"], ["Karyn Kusama"], ["Megan Fox", "Amanda Seyfried", "Johnny Simmons", "Chris Pratt", "J.K. Simmons", "Adam Brody"], "https://64.media.tumblr.com/f307c7ce59ddf26ca2693d613a3362b5/550ab21e8de35495-72/s250x400/52e486bb6fe23ab7568b82303966049759289161.jpg"]
 
 /*
 ,
