@@ -1970,7 +1970,7 @@ var database = [
 
 ["film", ["Conni & Co."], "2016", ["2021 11 05"], 3, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Franziska Buch"], ["Emma Schweiger", "Til Schweiger", "Max Mauff", "Nadine Wrietz"], "https://64.media.tumblr.com/54ea5a9a1ce3236a4e84541e3ff7498a/5e4b2f207aa87cbc-e4/s250x400/c5edaf2f552dede1b1e1251e37db8471d9e9ffe4.jpg"],
 
-["film", ["Army of Thieves"], "2021", ["2021 11 06"], 6, ["ger"], ["action", "comedy"], ["bini", "jessie"], ["Netflix"], ["Matthias Schweighöfer"], ["Matthias Schweighöfer", "Nathalie Emmanuel", "Hiroyuki Sanada"], "https://64.media.tumblr.com/13a07fc99d936afdef7f512288731c68/8dba1370be4c13d3-69/s250x400/f94e7907bd342a2902ed0d42c1259d640f18c797.jpg"],
+["film", ["Army of Thieves"], "2021", ["2021 11 06"], 6, ["ger"], ["action", "comedy"], ["bini", "jessie"], ["Netflix"], ["Matthias Schweighöfer"], ["Matthias Schweighöfer", "Nathalie Emmanuel", "Hiroyuki Sanada", "Ruby O. Fee"], "https://64.media.tumblr.com/13a07fc99d936afdef7f512288731c68/8dba1370be4c13d3-69/s250x400/f94e7907bd342a2902ed0d42c1259d640f18c797.jpg"],
 
 ["film", ["Eine wie keiner"], "2008", ["2021 11 08"], 2, ["ger"], ["comedy"], [], [], ["Marco Petry"], ["Josefine Preuß", "Axel Stein"], "https://64.media.tumblr.com/8ec7d8dc7f81240fd87143478a35dc09/6af48899ffd709e3-46/s250x400/5d5da0868b774b78d27e69bc3f8fbbf8325a5c4b.jpg"],
 
@@ -2065,7 +2065,7 @@ var database = [
 
 ["film", ["Fünf Freunde 4"], "2015", ["2021 12 27"], 6, ["ger"], ["adventure", "crime"], ["bini"], ["Netflix"], ["Mike Marzuk"], ["Samuel Finzi", "Murali Perumal"], "https://64.media.tumblr.com/a614d4951d251548934559d30c1f71c6/8636fb79387519d7-9c/s250x400/18c23d92f873147ce800e46a0db77ef07b2f99a3.jpg"],
 
-["film", ["Verrückt nach Fixi"], "2016", ["2021 12 27"], 4, ["ger"], ["comedy", "fantasy"], [], ["Netflix"], ["Mike Marzuk"], ["Lisa Tomaschewsky"], "https://64.media.tumblr.com/d2c72b8d2d624ceee2cd8b76ffa743bd/4cd0a1cd3b2657ec-17/s250x400/e8b3b1f40e2b95498493c695f6127f5e462dac4b.jpg"],
+["film", ["Verrückt nach Fixi"], "2016", ["2021 12 27"], 4, ["ger"], ["comedy", "fantasy"], [], ["Netflix"], ["Mike Marzuk"], ["Lisa Tomaschewsky", "Ruby O. Fee"], "https://64.media.tumblr.com/d2c72b8d2d624ceee2cd8b76ffa743bd/4cd0a1cd3b2657ec-17/s250x400/e8b3b1f40e2b95498493c695f6127f5e462dac4b.jpg"],
 
 ["film", ["Live Free or Die Hard", "Stirb langsam 4.0"], "2007", ["2021 12 28"], 8, ["ger"], ["action", "thriller"], ["bini", "je"], ["Disney+"], ["Len Wiseman"], ["Bruce Willis", "Timothy Olyphant", "Cliff Curtis", "Mary Elizabeth Winstead", "Zeljko Ivanek", "Bill Clinton", "John F. Kennedy", "Maggie Q", "Jake McDorman"], "https://64.media.tumblr.com/f9e2d0030430ba09fa9539972138a74d/2b89145ff4fe77bf-c5/s250x400/4a9898658b3f81df4207c3d1f16fd07e93a92d9b.jpg"],
 
@@ -2814,7 +2814,7 @@ var database = [
 
 ["film", ["The Sleepover"], "2020", ["2023 12 06"], 4, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Trish Sie"], [], "https://64.media.tumblr.com/9d5ab7bb26623cadf439e19b81711b62/3e9f77b3a0c67813-ca/s250x400/ac853c2ca4c0aad921f6a91675b5ad58e28b325f.jpg"],
 
-["film", ["Paradise"], "2023", ["2023 12 06"], 7, ["ger"], ["action", "sci-fi"], ["syl", "je"], ["Netflix"], ["Boris Kunz"], [], "https://64.media.tumblr.com/541e803a35bb377951b81d2f734eddb7/a163a022507352f7-07/s250x400/db89fe13590078fa181501d45f978303a77969ab.jpg"],
+["film", ["Paradise"], "2023", ["2023 12 06"], 7, ["ger"], ["action", "sci-fi"], ["syl", "je"], ["Netflix"], ["Boris Kunz"], ["Lisa-Marie Koroll"], "https://64.media.tumblr.com/541e803a35bb377951b81d2f734eddb7/a163a022507352f7-07/s250x400/db89fe13590078fa181501d45f978303a77969ab.jpg"],
 
 ["film", ["A Haunting in Venice"], "2023", ["2023 12 07"], 5, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh", "Kyle Allen"], "https://64.media.tumblr.com/d6b3e8e7e10fad8415d00b0cddc28ff8/608f583f8045ee27-7c/s250x400/9b98d097c00a9182d4d64d846f2b3f652a3ae867.jpg"],
 
@@ -3066,7 +3066,15 @@ var database = [
 
 ["film", ["Emil und die Detektive"], "2001", ["2024 10 03"], 7, ["ger"], ["family", "adventure"], [], ["Netflix"], ["Franziska Buch"], ["Jürgen Vogel", "Florian Lukas", "Rufus Beck"], "https://64.media.tumblr.com/5bfaabb682398800648cacc3758cf58b/d64ba1fafccdb409-9e/s250x400/3b354a48f347e14498568bae335e2da6b302d487.jpg"],
 
-["series", ["Reverse Trivia"], "2024", [["2024 10 04", "", "S1"]], 0, ["eng"], ["comedy", "game-show"], [], ["watching", "YouTube"], ["The Technical Difficulties"], ["Tom Scott", "Chris Joel", "Gary Brannan", "Matt Gray"], "https://64.media.tumblr.com/fb7bb98aa1c602d483c19000e3bc30b3/eaf56454b7b74a97-06/s250x400/947ab95bf93c48a2fd61a16e9bf2d499047689db.jpg"]
+["series", ["Reverse Trivia"], "2024", [["2024 10 04", "", "S1"]], 0, ["eng"], ["comedy", "game-show"], [], ["watching", "YouTube"], ["The Technical Difficulties"], ["Tom Scott", "Chris Joel", "Gary Brannan", "Matt Gray"], "https://64.media.tumblr.com/fb7bb98aa1c602d483c19000e3bc30b3/eaf56454b7b74a97-06/s250x400/947ab95bf93c48a2fd61a16e9bf2d499047689db.jpg"],
+
+["film", ["Bibi & Tina"], "2014", ["2024 10 04"], 5, ["ger"], ["family"], [], ["Disney+"], ["Detlev Buck"], ["Charly Hübner", "Max von der Groeben", "Lisa-Marie Koroll", "Ruby O. Fee"], "https://64.media.tumblr.com/2a87d9df4c3a175bf5352eee1f32f0c3/7ecbf69164d14eb3-52/s250x400/051c9ae0270c4e58a52187b499974d89f54038f4.jpg"],
+
+["film", ["Bibi & Tina: voll verhext!"], "2014", ["2024 10 04"], 5, ["ger"], ["family"], [], ["Disney+"], ["Detlev Buck"], ["Lisa-Marie Koroll", "Max von der Groeben", "Ruby O. Fee", "Matthias Schweighöfer"], "https://64.media.tumblr.com/7db44f4b1d5e4a24e6271ad917d1e4aa/31fc6e49ce63ecfc-cc/s250x400/0076aff9daf0dc885c2388245cb797fad6f9d324.jpg"],
+
+["film", ["Bibi & Tina: Mädchen gegen Jungs"], "2016", ["2024 10 04"], 5, ["ger"], ["family"], [], ["Disney+"], ["Detlev Buck"], ["Lisa-Marie Koroll", "Charly Hübner", "Max von der Groeben", "Philipp Laude"], "https://64.media.tumblr.com/678874cce54cdf07760afd6c48605b2c/39623fc7a582f4d5-c6/s250x400/c4f4d6d1240f38388a12ca50c20deb40a72fa5ce.jpg"],
+
+["film", ["Inside Out 2", "Alles steht Kopf 2"], "2024", ["2024 10 04"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl", "je"], ["Disney+"], ["Kelsey Mann"], [], "https://64.media.tumblr.com/8398b0eb12e0554da3ccb26c9f8a412c/4ba102a2f5e06bd8-93/s250x400/11bf92a84cb470fa68553e3a2ed5126260fca1b8.jpg"]
 
 /*
 ,
