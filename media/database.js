@@ -516,7 +516,7 @@ var database = [
 	        
 ["film", ["The Wolf of Wall Street"], "2013", ["2020 08 15", "2022 10 21"], 4, ["ger"], ["biography", "crime"], [], ["Netflix"], ["Martin Scorsese"], ["Leonardo DiCaprio", "Jonah Hill", "Matthew McConaughey", "Kyle Chandler", "Cristin Milioti", "Margot Robbie", "Thomas Middleditch"], "https://64.media.tumblr.com/54310010e9b3fedc33a567b3b4daffd5/4c0160ebbd8aee76-64/s250x400/3e43425a185a9cf709f2db7c42335c8fc2eb9d1d.jpg"],
 	        
-["film", ["Emma", "Jane Austens Emma"], "1996", ["2020 08 09"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Douglas McGrath"], ["Gwyneth Paltrow", "Ewan McGregor"], "https://64.media.tumblr.com/f7aabbfb3b3224f5a7a3d3337c14ffee/102d17d08a5983ba-de/s250x400/af5a2953ad7c0682cb8c26770124879c57d515fe.jpg"],
+["film", ["Emma", "Jane Austens Emma"], "1996", ["2020 08 09"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Douglas McGrath"], ["Gwyneth Paltrow", "Ewan McGregor", "Toni Collette"], "https://64.media.tumblr.com/f7aabbfb3b3224f5a7a3d3337c14ffee/102d17d08a5983ba-de/s250x400/af5a2953ad7c0682cb8c26770124879c57d515fe.jpg"],
 	        
 ["film", ["The Devil Wears Prada", "Der Teufel trägt Prada"], "2006", ["2020 08 06"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["David Frankel"], ["Meryl Streep", "Anne Hathaway", "Emily Blunt", "Stanley Tucci", "Heidi Klum", "Rebecca Mader", "Alexander Blaise", "Tracie Thoms"], "https://64.media.tumblr.com/c5a17e909446962af1897d7f79496706/1d5d0f2d0ae4153e-29/s250x400/e27cec18309f3b2ded894f104412cb724dca0fb1.jpg"],
 	        
@@ -1080,7 +1080,7 @@ var database = [
 	        
 ["film", ["Ice Age: The Meltdown", "Ice Age 2 - Jetzt taut's"], "2006", ["2015 10 10"], 3, ["ger"], ["animation", "adventure"], ["bini"], [], ["Carlos Saldanha"], [], "https://66.media.tumblr.com/145d5770045c5a147c2a0b9f51776b7b/tumblr_ppxzlddnCE1v2s5upo1_250.jpg"],
 	        
-["film", ["How to Lose Friends & Alienate People", "New York für Anfänger"], "2008", ["2015 09 20"], 6, ["ger"], ["biography", "comedy"], [], [], ["Robert B. Weide"], ["Simon Pegg", "Megan Fox", "Kirsten Dunst", "Daniel Craig", "Ashley Madekwe", "Thandiwe Newton"], "https://66.media.tumblr.com/e25c13ef11b7ba8ef8b3d3b787960c0a/tumblr_ppxz5xX3wp1v2s5upo1_250.jpg"],
+["film", ["How to Lose Friends & Alienate People", "New York für Anfänger"], "2008", ["2015 09 20"], 6, ["ger"], ["biography", "comedy"], [], [], ["Robert B. Weide"], ["Simon Pegg", "Megan Fox", "Kirsten Dunst", "Daniel Craig", "Ashley Madekwe", "Thandiwe Newton", "Toni Collette"], "https://66.media.tumblr.com/e25c13ef11b7ba8ef8b3d3b787960c0a/tumblr_ppxz5xX3wp1v2s5upo1_250.jpg"],
 	        
 ["film", ["Pain & Gain"], "2013", ["2015 09 21"], 4, ["ger"], ["action", "comedy"], ["bini"], [], ["Michael Bay"], ["Mark Wahlberg", "Dwayne Johnson", "Anthony Mackie", "Tony Shalhoub", "Ed Harris", "Ken Jeong", "Peter Stormare", "Rebel Wilson"], "https://66.media.tumblr.com/a8b015b73adfb7e1571797ac1e0ca38a/tumblr_ppxz7cPxSj1v2s5upo1_250.jpg"],
 	        
@@ -2345,7 +2345,7 @@ var database = [
 
 ["film", ["Fantastic Four"], "2015", ["2022 08 03"], 0, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Josh Trank", "Stephen E. Rivkin"], ["Miles Teller", "Michael B. Jordan", "Kate Mara", "Jamie Bell", "Tim Blake Nelson", "Rhonda Johnson Dents"], "https://64.media.tumblr.com/2f2f2c9ea8280921bc601d2548272953/4dcf1b234a9ba9c8-9d/s250x400/25cde492210a031331ef9907d74f89188f2b2eb1.jpg"],
 
-["film", ["The Gray Man"], "2022", ["2022 08 03"], 7, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Anthony Russo", "Joe Russo"], ["Ryan Gosling", "Chris Evans", "Jessica Henwick", "Ana de Armas", "Julia Butters"], "https://64.media.tumblr.com/fec6763ab3a8ce4a5296f538b2f4154f/2d214e5956d59396-b0/s250x400/07eb72e38047117024cce961ce8bbf039e578cdf.jpg"],
+["film", ["The Gray Man"], "2022", ["2022 08 03"], 7, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Anthony Russo", "Joe Russo"], ["Ryan Gosling", "Chris Evans", "Jessica Henwick", "Ana de Armas", "Julia Butters", "Regé-Jean Page"], "https://64.media.tumblr.com/fec6763ab3a8ce4a5296f538b2f4154f/2d214e5956d59396-b0/s250x400/07eb72e38047117024cce961ce8bbf039e578cdf.jpg"],
 
 ["film", ["The King's Man"], "2021", [["2022 08 03", "2022 08 05"]], 6, ["ger"], ["action", "adventure"], ["syl"], ["Disney+"], ["Matthew Vaughn"], ["Djimon Hounsou", "Daniel Brühl", "Stanley Tucci", "Ralph Fiennes", "Matthew Goode", "Charles Dance", "Aaron Taylor-Johnson"], "https://64.media.tumblr.com/9dd0fbf74035e880b51f58b8d5b5428d/fd12193843615954-21/s250x400/26ae7e753d9455b229230273372a1740f9923a7b.jpg"],
 
@@ -2441,7 +2441,7 @@ var database = [
 
 ["audiobook", ["Unsterblich Mein"], "2019", [["2022 11 18", "2022 11 28"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/9d727d06c597a9572f6915f84c2760d6/cda6196b0d95f6f9-32/s250x400/2ae71a9cbd2d15811ef226f2ea8af8ecf1b7f55b.jpg"],
 
-["film", ["Mortal Engines", "Mortal Engines - Krieg der Städte"], "2018", [["2022 11 26", "2022 12 03"]], 6, ["ger"], ["action", "adventure"], ["bini"], [], ["Christian Rivers"], ["Robert Sheehan", "Hugo Weaving", "Stephen Lang"], "https://64.media.tumblr.com/09242d299b0506d4bb67fa2bc81bd748/476b2d1b4df2db9d-67/s250x400/3e90af52bdaf491ead81bfd98b4099f60097eec0.jpg"],
+["film", ["Mortal Engines", "Mortal Engines - Krieg der Städte"], "2018", [["2022 11 26", "2022 12 03"]], 6, ["ger"], ["action", "adventure"], ["bini"], [], ["Christian Rivers"], ["Robert Sheehan", "Hugo Weaving", "Stephen Lang", "Regé-Jean Page"], "https://64.media.tumblr.com/09242d299b0506d4bb67fa2bc81bd748/476b2d1b4df2db9d-67/s250x400/3e90af52bdaf491ead81bfd98b4099f60097eec0.jpg"],
 
 ["audiobook", ["Unendlich Dein"], "2019", [["2022 11 29", "2022 12 08"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/e1f8944a297283a791928752ba440569/9bff45cf22f5b48f-c9/s250x400/b28a8e2836c05cb37d6cf9feed862628df3677b8.jpg"],
 
@@ -2499,7 +2499,7 @@ var database = [
 
 ["film", ["Metal Lords"], "2022", ["2023 01 27"], 8, ["ger"], ["comedy", "music"], [], ["Netflix"], ["Peter Sollett"], ["Jaeden Martell", "Isis Hainsworth"], "https://64.media.tumblr.com/f49c52a439b48767af186094f7e466f0/7fcd52d2121c9b2e-27/s250x400/9210b432f16212f36cfba4186369a6491401ed57.jpg"],
 
-["film", ["Knives Out", "Knives Out: Mord ist Familiensache"], "2019", ["2023 01 27", "2023 12 07"], 9, ["ger"], ["comedy", "crime"], ["bini", "syl", "je"], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Chris Evans", "Ana de Armas", "Katherine Langford", "Jaeden Martell", "Riki Lindhome", "Christopher Plummer", "Michael Shannon"], "https://64.media.tumblr.com/d2f6d59bdfcc045186007292e7e86315/3e2acbf1c4b693d4-87/s250x400/6d83b8ecf1729f74d4bffc6abec2996716928990.jpg"],
+["film", ["Knives Out", "Knives Out: Mord ist Familiensache"], "2019", ["2023 01 27", "2023 12 07"], 9, ["ger"], ["comedy", "crime"], ["bini", "syl", "je"], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Chris Evans", "Ana de Armas", "Katherine Langford", "Jaeden Martell", "Riki Lindhome", "Christopher Plummer", "Michael Shannon", "Toni Collette"], "https://64.media.tumblr.com/d2f6d59bdfcc045186007292e7e86315/3e2acbf1c4b693d4-87/s250x400/6d83b8ecf1729f74d4bffc6abec2996716928990.jpg"],
 
 ["book", ["Die Wilden Hühner und das Glück der Erde"], "2005", [["2023 01 26", "2023 03 04"]], 7, ["ger"], [], [], ["Die Wilden Hühner", "bibliothek"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/432565b590929b69689205cd479b9c5c/a04add625a1dc6bd-91/s250x400/8e7bcd7bdb1225e169d3bb9c34ec2ccfd015ede0.jpg"],
 
@@ -2509,7 +2509,7 @@ var database = [
 
 ["series", ["Bizaardvark"], ["2016", "2019"], [["2023 02 08", "2023 02 22", "S1"]], 4, ["ger"], ["comedy", "family"], [], ["Disney+", "ongoing"], ["Josh Lehrman", "Kyle Stegina"], ["Olivia Rodrigo", "Madison Hu"], "https://64.media.tumblr.com/bd816340925118439769e6df6af8397e/723e45e7373120a3-e9/s250x400/0340c2fd74c338c70df32f85781a35acb27e4fd0.jpg"],
 
-["film", ["I'm Thinking of Ending Things"], "2020", ["2023 02 10"], 5, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Charlie Kaufman"], ["Jesse Plemons", "David Thewlis", "Hadley Robinson", "Gus Birney"], "https://64.media.tumblr.com/fd8bb502ba097f2d2da43b0fafbb7672/c224734a55112ad3-09/s250x400/6489c037486ae1cba686fb5ebebbe26a52021325.jpg"],
+["film", ["I'm Thinking of Ending Things"], "2020", ["2023 02 10"], 5, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Charlie Kaufman"], ["Jesse Plemons", "David Thewlis", "Hadley Robinson", "Gus Birney", "Toni Collette"], "https://64.media.tumblr.com/fd8bb502ba097f2d2da43b0fafbb7672/c224734a55112ad3-09/s250x400/6489c037486ae1cba686fb5ebebbe26a52021325.jpg"],
 
 ["film", ["Far from the Madding Crowd", "Am grünen Rand der Welt"], "2015", ["2023 02 11"], 7, ["ger"], ["drama", "romance"], [], ["Disney+"], ["Thomas Vinterberg"], ["Carey Mulligan", "Matthias Schoenaerts", "Tilly Vosburgh", "Tom Sturridge", "Juno Temple", "Jessica Barden"], "https://64.media.tumblr.com/72131a35d67743ce1a06cf5fb77c3a03/2e0f287709c1677c-69/s250x400/0f7f53186d2922616741c7be2ed0a47eb1d3b1e6.jpg"],
 
@@ -3074,7 +3074,11 @@ var database = [
 
 ["film", ["Bibi & Tina: Mädchen gegen Jungs"], "2016", ["2024 10 04"], 5, ["ger"], ["family"], [], ["Disney+"], ["Detlev Buck"], ["Lisa-Marie Koroll", "Charly Hübner", "Max von der Groeben", "Philipp Laude"], "https://64.media.tumblr.com/678874cce54cdf07760afd6c48605b2c/39623fc7a582f4d5-c6/s250x400/c4f4d6d1240f38388a12ca50c20deb40a72fa5ce.jpg"],
 
-["film", ["Inside Out 2", "Alles steht Kopf 2"], "2024", ["2024 10 04"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl", "je"], ["Disney+"], ["Kelsey Mann"], [], "https://64.media.tumblr.com/8398b0eb12e0554da3ccb26c9f8a412c/4ba102a2f5e06bd8-93/s250x400/11bf92a84cb470fa68553e3a2ed5126260fca1b8.jpg"]
+["film", ["Inside Out 2", "Alles steht Kopf 2"], "2024", ["2024 10 04"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl", "je"], ["Disney+"], ["Kelsey Mann"], [], "https://64.media.tumblr.com/8398b0eb12e0554da3ccb26c9f8a412c/4ba102a2f5e06bd8-93/s250x400/11bf92a84cb470fa68553e3a2ed5126260fca1b8.jpg"],
+
+["film", ["Nightmare Alley"], "2021", ["2024 10 05"], 5, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Guillermo del Toro"], ["Bradley Cooper", "Cate Blanchett", "Willem Dafoe", "Rooney Mara", "Ron Perlman", "David Strathairn", "Toni Collette"], "https://64.media.tumblr.com/52f041538abc36fbf400b03b75783bcf/7a18565ac03abc2b-9c/s250x400/be2e0a25a1c28e6888d413ef2bd25c38e5cd0359.jpg"],
+
+["film", ["Dungeons & Dragons: Honor Among Thieves", "Dungeons & Dragons: Ehre unter Dieben"], "2023", ["2024 10 05"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Netflix"], ["John Francis Daley", "Jonathan Goldstein"], ["Michelle Rodriguez", "Justice Smith", "Sophia Lillis", "Hugh Grant", "Chloe Coleman", "Bradley Cooper", "Regé-Jean Page"], "https://64.media.tumblr.com/a970bf8a0dbca4b21cabaccf4b1fcfc8/9cfbae3815cc07a7-10/s250x400/9c240145d154edf22ff956acd95125dfc3d48e42.jpg"]
 
 /*
 ,
