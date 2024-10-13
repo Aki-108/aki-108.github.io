@@ -1472,7 +1472,7 @@ var database = [
 	        
 ["film", ["Election"], "1999", ["2015 09 16"], 5, ["ger"], ["comedy", "drama"], [], [], ["Alexander Payne"], ["Reese Witherspoon"], "https://68.media.tumblr.com/fa1e69953d869a5150eedd91475ba5cb/tumblr_oov15yd3271v2s5upo1_250.jpg"],
 	        
-["film", ["Ocean's Eleven"], "2001", ["2016 02 04"], 7, ["ger"], ["crime", "thriller"], [], ["Ocean's"], ["Steven Soderbergh"], ["George Clooney", "Bernie Mac", "Brad Pitt", "Matt Damon", "Julia Roberts", "Don Cheadle"], "https://49.media.tumblr.com/1811709df5b6221319bdcada72df6b3a/tumblr_o21hgqinxh1v2s5upo1_250.jpg"],
+["film", ["Ocean's Eleven"], "2001", ["2016 02 04", "2024 10 13"], 7, ["ger"], ["crime", "thriller"], [], ["Ocean's", "Netflix"], ["Steven Soderbergh"], ["George Clooney", "Bernie Mac", "Brad Pitt", "Matt Damon", "Julia Roberts", "Don Cheadle"], "https://49.media.tumblr.com/1811709df5b6221319bdcada72df6b3a/tumblr_o21hgqinxh1v2s5upo1_250.jpg"],
 	        
 ["film", ["Ocean's Twelve"], "2004", ["2016 02 04"], 7, ["ger"], ["crime", "thriller"], [], ["Ocean's"], ["Steven Soderbergh"], ["Brad Pitt", "George Clooney", "Julia Roberts", "Bernie Mac", "Don Cheadle", "Jared Harris", "Matt Damon", "Bruce Willis", "Cherry Jones"], "https://40.media.tumblr.com/2531d637ad743bbba5177ba59889c334/tumblr_o21hjmuplI1v2s5upo1_250.jpg"],
 	        
@@ -2093,7 +2093,7 @@ var database = [
 
 ["film", ["Hilda and the Mountain King", "Hilda und der Bergkönig"], "2021", ["2022 01 06"], 7, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Andy Coyle"], [], "https://64.media.tumblr.com/299b02775621d028149c693d1fa73aaa/48e2ee9fed822400-bf/s250x400/26ae45c86e0b527a178422334b3c4035e01dcc98.jpg"],
 
-["series", ["Girl Meets World", "Das Leben und Riley"], ["2014", "2017"], [["2022 01 08", "2022 01 12", "S1"], ["2022 01 13", "2022 01 28", "S2"], ["2022 01 29", "2022 02 10", "S3"], ["2023 08 21", "2023 09 29", "S1"]], 8, ["ger"], ["comedy", "drama"], [], ["Disney+", "fav"], ["Michael Jacobs", "April Kelly", "Ava Kolker"], ["Rowan Blanchard", "Sabrina Carpenter", "M.C. Gainey", "Ricky Garcia", "Jane Lynch", "Debby Ryan", "Tania Gunadi", "Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris"], "https://64.media.tumblr.com/36187f43acff0bc60164f66ed977e142/e1a8385b51505f2c-13/s250x400/97af5d53aa9a8fbddf77597f0af622893b1a1fd2.jpg"], /* S1: 5.4; S2: 6.3; S3: 6.4 */
+["series", ["Girl Meets World", "Das Leben und Riley"], ["2014", "2017"], [["2022 01 08", "2022 01 12", "S1"], ["2022 01 13", "2022 01 28", "S2"], ["2022 01 29", "2022 02 10", "S3"], ["2023 08 21", "2023 09 29", "S1"]], 8, ["ger"], ["comedy", "drama"], [], ["Disney+", "fav"], ["Michael Jacobs", "April Kelly", "Ava Kolker"], ["Rowan Blanchard", "Sabrina Carpenter", "M.C. Gainey", "Ricky Garcia", "Jane Lynch", "Debby Ryan", "Tania Gunadi", "Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris", "Ceci Balagot"], "https://64.media.tumblr.com/36187f43acff0bc60164f66ed977e142/e1a8385b51505f2c-13/s250x400/97af5d53aa9a8fbddf77597f0af622893b1a1fd2.jpg"], /* S1: 5.4; S2: 6.3; S3: 6.4 */
 
 ["film", ["Friendzone"], "2021", ["2022 01 08"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Charles Van Tieghem"], [], "https://64.media.tumblr.com/1a21a4d0767564112499f161fac6ed81/e537b0b1bd1b8426-ea/s250x400/22cab9c14e7fb6407cfc43946ceac125b35f23d3.jpg"],
 
@@ -2373,7 +2373,7 @@ var database = [
 
 ["film", ["Z-O-M-B-I-E-S 2", "Zombies 2"], "2020", ["2022 08 25", "2024 09 01"], 6, ["ger"], ["family", "musical"], ["bini", "je", "syl"], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/a282988f451a9f32e7216d8b8dcca5bc/5ec189f6287eb689-bc/s250x400/753c6e890b96968a184ec67db5fd407a8d202525.jpg"],
 
-["film", ["Z-O-M-B-I-E-S 3", "Zombies 3"], "2022", ["2022 08 25", "2024 09 01"], 7, ["ger"], ["family", "musical"], ["bini", "je", "syl"], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly"], "https://64.media.tumblr.com/89536d3a15adcc5b2049c2ce136f70da/a766474ff10672b0-0a/s250x400/10e1f65145ee97eb63158d33a58140c897055b06.jpg"],
+["film", ["Z-O-M-B-I-E-S 3", "Zombies 3"], "2022", ["2022 08 25", "2024 09 01"], 7, ["ger"], ["family", "musical"], ["bini", "je", "syl"], ["Disney+"], ["Paul Hoen"], ["Milo Manheim", "Meg Donnelly", "Matt Cornett"], "https://64.media.tumblr.com/89536d3a15adcc5b2049c2ce136f70da/a766474ff10672b0-0a/s250x400/10e1f65145ee97eb63158d33a58140c897055b06.jpg"],
 
 ["film", ["Anna and the Apocalypse", "Anna und die Apokalypse"], "2017", ["2022 08 30"], 6, ["ger"], ["comedy", "horror", "musical"], [], ["Netflix"], ["John McPhail"], ["Sarah Swire"], "https://64.media.tumblr.com/7d1d0276848a82ee59621c5795c52a89/805def8d50859b11-05/s250x400/29b9c434c9e67c079f8a927a060157eec00b469e.jpg"],
 
@@ -2742,7 +2742,7 @@ var database = [
 
 ["film", ["Die Wilden Kerle 2"], "2005", ["2023 10 10"], 5, ["ger"], ["family", "comedy"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/6ef10808a66d51aad79d6ed094e63ff3/11b51b4ed8433275-72/s400x600/000c109c4846da53850886d739ff3ccbc0104225.jpg"],
 
-["film", ["The School for Good and Evil"], "2022", ["2023 10 10"], 7, ["ger"], ["action", "comedy"], ["je"], ["Netflix"], ["Paul Feig"], ["Kit Young", "Sophia Anne Caruso", "Cate Blanchett"], "https://64.media.tumblr.com/1d14a63f5cad36093000b5ce82b50a2d/efcbb970819c5032-0c/s250x400/25e6c6eb9cbce573931dccf938d202a3f5193da9.jpg"],
+["film", ["The School for Good and Evil"], "2022", ["2023 10 10"], 7, ["ger"], ["action", "comedy"], ["je"], ["Netflix"], ["Paul Feig"], ["Kit Young", "Sophia Anne Caruso", "Cate Blanchett", "Sofia Wylie"], "https://64.media.tumblr.com/1d14a63f5cad36093000b5ce82b50a2d/efcbb970819c5032-0c/s250x400/25e6c6eb9cbce573931dccf938d202a3f5193da9.jpg"],
 
 ["film", ["Die Wilden Kerle 3"], "2006", ["2023 10 11"], 4, ["ger"], ["comedy", "family"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/b2b9f7f142df4ef19424a41bd2c63e51/5540475b8f8545ca-7b/s250x400/4686beb76ea65c22d1f2bc05bb443808d79f598f.jpg"],
 
@@ -3086,7 +3086,17 @@ var database = [
 
 ["film", ["First Daughter", "Ein Date mit Hindernissen"], "2004", ["2024 10 06"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Forest Whitaker"], ["Justine Wachsberger"], "https://64.media.tumblr.com/9b63715861115852aec81b3434738603/ddccf5886aafe3fb-2c/s250x400/f4471169938f91eca71a6c5ffce73c85a00e37f0.jpg"],
 
-["film", ["The Mummy", "Die Mumie"], "2017", ["2024 10 06"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Alex Kurtzman"], ["Tom Cruise", "Jake Johnson", "Annabelle Wallis", "Sofia Boutella"], "https://64.media.tumblr.com/fc4c921657d02c114f2de0320683ddf2/ae12e8cbf49f0d73-f3/s250x400/786f5782d10be85b92c519ac9b104f1d17cd217b.jpg"]
+["film", ["The Mummy", "Die Mumie"], "2017", ["2024 10 06"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Alex Kurtzman"], ["Tom Cruise", "Jake Johnson", "Annabelle Wallis", "Sofia Boutella"], "https://64.media.tumblr.com/fc4c921657d02c114f2de0320683ddf2/ae12e8cbf49f0d73-f3/s250x400/786f5782d10be85b92c519ac9b104f1d17cd217b.jpg"],
+
+["series", ["High School Musical: The Musical - The Series", "High School Musical: Das Musical: Die Serie"], ["2019", "2023"], [["2024 10 07", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching"], ["Peter Barsocchini", "Tim Federle"], ["Sofia Wylie", "Matt Cornett", "Olivia Rodrigo"], "https://64.media.tumblr.com/082db2f6eb24b5e932aed97c1eadd513/401c2fa87e9034bd-37/s400x600/148c02ca935ac246ea759fac60e16bfaff07139a.jpg"],
+
+["film", ["Teen Beach Movie"], "2013", ["2024 10 12"], 6, ["ger"], ["comedy", "family"], [], ["Disney+"], ["Jeffrey Hornaday"], ["Ross Lynch", "Maia Mitchell"], "https://64.media.tumblr.com/7f318643bb0d7c6eaa3147c4ae1e67c4/17b6ae25f311b960-b6/s250x400/492670db4ed77c343665ed0d204254d0f90a3bc4.jpg"],
+
+["film", ["Monster High", "Monster High: Der Film"], "2022", ["2024 10 13"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Todd Holland"], ["Miia Harris", "Ceci Balagot"], "https://64.media.tumblr.com/f5b737b8b0a1b54a2ea20af1751cbfc9/f056992fe4b2dce3-8d/s250x400/da964b8294c0e800a11aeb6d78ccd248d169c284.jpg"],
+
+["film", ["Monster High 2"], "2023", ["2024 10 13"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Todd Holland"], ["Miia Harris", "Ceci Balagot"], "https://64.media.tumblr.com/c4b98f92d101bf9ec081d1b1892175f4/c074b87c7bbda25c-e0/s250x400/2f071f9868d351cb3204e48ea539c4e9e2333eb0.jpg"],
+
+["film", ["Kleks Academy", "Die Akademie des Meisters Klex", "Akademia pana Kleksa"], "2023", ["2024 10 13"], 7, ["ger"], ["fantasy"], [], ["Netflix"], ["Maciej Kawulski"], [], "https://64.media.tumblr.com/c38fa003ec300e3081a56cbc8cd00adf/46a0dc7171f6c43b-00/s250x400/d9d24fd134f11885baa94ee4ae6a8b6c8290d71d.jpg"]
 
 /*
 ,
