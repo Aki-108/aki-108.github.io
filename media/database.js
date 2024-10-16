@@ -3088,7 +3088,7 @@ var database = [
 
 ["film", ["The Mummy", "Die Mumie"], "2017", ["2024 10 06"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Alex Kurtzman"], ["Tom Cruise", "Jake Johnson", "Annabelle Wallis", "Sofia Boutella"], "https://64.media.tumblr.com/fc4c921657d02c114f2de0320683ddf2/ae12e8cbf49f0d73-f3/s250x400/786f5782d10be85b92c519ac9b104f1d17cd217b.jpg"],
 
-["series", ["High School Musical: The Musical - The Series", "High School Musical: Das Musical: Die Serie"], ["2019", "2023"], [["2024 10 07", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Disney+", "watching"], ["Peter Barsocchini", "Tim Federle"], ["Sofia Wylie", "Matt Cornett", "Olivia Rodrigo"], "https://64.media.tumblr.com/082db2f6eb24b5e932aed97c1eadd513/401c2fa87e9034bd-37/s400x600/148c02ca935ac246ea759fac60e16bfaff07139a.jpg"],
+["series", ["High School Musical: The Musical - The Series", "High School Musical: Das Musical: Die Serie"], ["2019", "2023"], [["2024 10 07", "2024 10 16", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing"], ["Peter Barsocchini", "Tim Federle"], ["Sofia Wylie", "Matt Cornett", "Olivia Rodrigo"], "https://64.media.tumblr.com/082db2f6eb24b5e932aed97c1eadd513/401c2fa87e9034bd-37/s400x600/148c02ca935ac246ea759fac60e16bfaff07139a.jpg"],
 
 ["film", ["Teen Beach Movie"], "2013", ["2024 10 12"], 6, ["ger"], ["comedy", "family"], [], ["Disney+"], ["Jeffrey Hornaday"], ["Ross Lynch", "Maia Mitchell"], "https://64.media.tumblr.com/7f318643bb0d7c6eaa3147c4ae1e67c4/17b6ae25f311b960-b6/s250x400/492670db4ed77c343665ed0d204254d0f90a3bc4.jpg"],
 
