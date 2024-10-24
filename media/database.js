@@ -195,7 +195,7 @@ var database = [
 	        
 ["audiobook", ["Day by Day Armageddon: Beyond Exile", "Tagebuch der Apokalypse 2"], "2010", [["2019 06 03", "2019 06 12"]], 6, ["ger"], [], [], [], ["J. L. Bourne"], [], "https://66.media.tumblr.com/8c494e7feff7b46b1d6e9338dad01ed2/2377c8de205f15cd-41/s250x400/470f9a24ffe69b42f910ec1be58d44626717a165.jpg"],
 	        
-["audiobook", ["The Golden Compass", "Der Goldene Kompass"], "1995", [["2019 10 01", "2019 11 05"], ["2024 10 21", ""]], 8, ["ger"], [], [], ["His Dark Materials"], ["Philip Pullman"], [], "https://66.media.tumblr.com/b432a7f45cbb58a2a70a69b5f5426046/2dc3929cff47cfff-ca/s250x400/2f6a6fb41c2c2417285a733182cb4f1243b8256f.jpg"],
+["audiobook", ["The Golden Compass", "Der Goldene Kompass"], "1995", [["2019 10 01", "2019 11 05"], ["2024 10 20", ""]], 8, ["ger"], [], [], ["His Dark Materials"], ["Philip Pullman"], [], "https://66.media.tumblr.com/b432a7f45cbb58a2a70a69b5f5426046/2dc3929cff47cfff-ca/s250x400/2f6a6fb41c2c2417285a733182cb4f1243b8256f.jpg"],
 	        
 ["audiobook", ["The Subtle Knife", "Das Magische Messer"], "1997", [["2019 11 06", "2019 11 19"]], 9, ["eng"], [], [], ["His Dark Materials"], ["Philip Pullman"], [], "https://66.media.tumblr.com/0020d596377879b7a5f41ec561061bdf/17eb0eecfeb04300-8c/s250x400/7b328cd64feecab2b4bb061f3d2399e052b7b18a.jpg"],
 	        
@@ -3066,7 +3066,7 @@ var database = [
 
 ["film", ["Emil und die Detektive"], "2001", ["2024 10 03"], 7, ["ger"], ["family", "adventure"], [], ["Netflix"], ["Franziska Buch"], ["Jürgen Vogel", "Florian Lukas", "Rufus Beck"], "https://64.media.tumblr.com/5bfaabb682398800648cacc3758cf58b/d64ba1fafccdb409-9e/s250x400/3b354a48f347e14498568bae335e2da6b302d487.jpg"],
 
-["series", ["Reverse Trivia"], "2024", [["2024 10 04", "", "S1"]], 0, ["eng"], ["comedy", "game-show"], [], ["watching", "YouTube"], ["The Technical Difficulties"], ["Tom Scott", "Chris Joel", "Gary Brannan", "Matt Gray"], "https://64.media.tumblr.com/fb7bb98aa1c602d483c19000e3bc30b3/eaf56454b7b74a97-06/s250x400/947ab95bf93c48a2fd61a16e9bf2d499047689db.jpg"],
+["series", ["Reverse Trivia"], "2024", [["2024 10 04", "2024 10 24", "S1"]], 7, ["eng"], ["comedy", "game-show"], [], ["YouTube"], ["The Technical Difficulties"], ["Tom Scott", "Chris Joel", "Gary Brannan", "Matt Gray"], "https://64.media.tumblr.com/fb7bb98aa1c602d483c19000e3bc30b3/eaf56454b7b74a97-06/s250x400/947ab95bf93c48a2fd61a16e9bf2d499047689db.jpg"],
 
 ["film", ["Bibi & Tina"], "2014", ["2024 10 04"], 5, ["ger"], ["family"], [], ["Disney+"], ["Detlev Buck"], ["Charly Hübner", "Max von der Groeben", "Lisa-Marie Koroll", "Ruby O. Fee"], "https://64.media.tumblr.com/2a87d9df4c3a175bf5352eee1f32f0c3/7ecbf69164d14eb3-52/s250x400/051c9ae0270c4e58a52187b499974d89f54038f4.jpg"],
 
