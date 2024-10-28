@@ -195,7 +195,7 @@ var database = [
 	        
 ["audiobook", ["Day by Day Armageddon: Beyond Exile", "Tagebuch der Apokalypse 2"], "2010", [["2019 06 03", "2019 06 12"]], 6, ["ger"], [], [], [], ["J. L. Bourne"], [], "https://66.media.tumblr.com/8c494e7feff7b46b1d6e9338dad01ed2/2377c8de205f15cd-41/s250x400/470f9a24ffe69b42f910ec1be58d44626717a165.jpg"],
 	        
-["audiobook", ["The Golden Compass", "Der Goldene Kompass"], "1995", [["2019 10 01", "2019 11 05"], ["2024 10 20", ""]], 8, ["ger"], [], [], ["His Dark Materials"], ["Philip Pullman"], [], "https://66.media.tumblr.com/b432a7f45cbb58a2a70a69b5f5426046/2dc3929cff47cfff-ca/s250x400/2f6a6fb41c2c2417285a733182cb4f1243b8256f.jpg"],
+["audiobook", ["The Golden Compass", "Der Goldene Kompass"], "1995", [["2019 10 01", "2019 11 05"], ["2024 10 20", "2024 10 27"]], 8, ["ger"], [], [], ["His Dark Materials", "bibliothek"], ["Philip Pullman"], ["Rufus Beck"], "https://66.media.tumblr.com/b432a7f45cbb58a2a70a69b5f5426046/2dc3929cff47cfff-ca/s250x400/2f6a6fb41c2c2417285a733182cb4f1243b8256f.jpg"],
 	        
 ["audiobook", ["The Subtle Knife", "Das Magische Messer"], "1997", [["2019 11 06", "2019 11 19"]], 9, ["eng"], [], [], ["His Dark Materials"], ["Philip Pullman"], [], "https://66.media.tumblr.com/0020d596377879b7a5f41ec561061bdf/17eb0eecfeb04300-8c/s250x400/7b328cd64feecab2b4bb061f3d2399e052b7b18a.jpg"],
 	        
@@ -1514,7 +1514,7 @@ var database = [
 	        
 ["film", ["Die Feuerzangenbowle"], "1944", ["2017 12 20"], 6, ["ger"], ["comedy"], [], ["Schule"], ["Helmut Weiss"], [], "https://66.media.tumblr.com/8e29c18b3a25115f7dc328df1f731112/tumblr_pyv14dONDH1v2s5upo1_250.jpg"],
 
-["film", ["Suicide Squad"], "2016", ["2018 07 15"], 6, ["ger"], ["action", "adventure", "sci-fi"], ["nico"], ["Netflix"], ["David Ayer"], ["Will Smith", "Cara Delevingne", "Margot Robbie", "David Harbour", "Scott Eastwood", "Ike Barinholtz", "Jai Courtney", "Jared Leto"], "https://66.media.tumblr.com/421f26e9ea5188dec595e2d4ab38c04c/12e861d9046b93f6-91/s250x400/ab3f7a4448815f4d76dbd2774d3c573fba07bd4a.jpg"],
+["film", ["Suicide Squad"], "2016", ["2018 07 15"], 6, ["ger"], ["action", "adventure", "sci-fi"], ["nico"], ["Netflix"], ["David Ayer"], ["Will Smith", "Cara Delevingne", "Margot Robbie", "David Harbour", "Scott Eastwood", "Ike Barinholtz", "Jai Courtney", "Jared Leto", "Ben Affleck"], "https://66.media.tumblr.com/421f26e9ea5188dec595e2d4ab38c04c/12e861d9046b93f6-91/s250x400/ab3f7a4448815f4d76dbd2774d3c573fba07bd4a.jpg"],
 
 ["film", ["The Chronicles of Narnia: The Voyage of the Dawn Treader", "Die Chroniken von Narnia - Die Reise auf der Morgenröte"], "2010", ["2019 04 06", "2021 12 22"], 7, ["ger"], ["adventure", "family"], [], ["Narnia", "Netflix", "Disney+"], ["Michael Apted"], ["Georgie Henley", "Skandar Keynes", "Ben Barnes", "Will Poulter", "Tilda Swinton", "Anna Popplewell"], "https://66.media.tumblr.com/24f7268b3298dbf4c4ae1a9122a2f3dd/0256992eb45e03c8-21/s250x400/bbb6924c2653086ef668b58fdb3f53e157a57de1.jpg"],
 
@@ -2702,7 +2702,7 @@ var database = [
 
 ["film", ["Queen of Niendorf", "Königin von Niendorf"], "2017", ["2023 08 26"], 7, ["ger"], ["family"], [], ["bibliothek"], ["Joya Thome"], [], "https://64.media.tumblr.com/c904abfa9427f6f7e1a13140efe2fd89/dd124705e623c908-9c/s250x400/e7b5590b13cfc43a8a06ce3bdcef20df52cc5067.jpg"],
 
-["film", ["Good Will Hunting", "Good Will Hunting: Der gute Will Hunting"], "1997", ["2023 09 02"], 9, ["eng"], ["drama", "romance"], ["bini", "mai"], ["Netflix"], ["Gus Van Sant"], ["Matt Damon", "Stellan Skarsgård", "Minnie Driver", "Robin Williams"], "https://64.media.tumblr.com/001a30349ff3fbf59832105848e9b8ed/5af3bb044b132d0f-7d/s250x400/62b78d0c1e763a47fec18abd1e6324b3b24c51b2.jpg"],
+["film", ["Good Will Hunting", "Good Will Hunting: Der gute Will Hunting"], "1997", ["2023 09 02"], 9, ["eng"], ["drama", "romance"], ["bini", "mai"], ["Netflix"], ["Gus Van Sant"], ["Matt Damon", "Stellan Skarsgård", "Minnie Driver", "Robin Williams", "Ben Affleck"], "https://64.media.tumblr.com/001a30349ff3fbf59832105848e9b8ed/5af3bb044b132d0f-7d/s250x400/62b78d0c1e763a47fec18abd1e6324b3b24c51b2.jpg"],
 
 ["series", ["Die drei !!!"], "2023", [["2023 09 07", "2023 09 17", "S1"]], 8, ["ger"], ["crime"], [], ["Disney+"], ["Sina Flammang", "Doris Laske"], [], "https://64.media.tumblr.com/93ceeb11676971f09183ffc8566249b7/cc72d70a7e8c3a83-68/s250x400/9b3e23942e363fc9a2560d955aabd31c7be3f04b.jpg"],
 
@@ -3082,7 +3082,7 @@ var database = [
 
 ["film", ["Black Swan"], "2010", ["2024 10 06"], 4, ["ger"], ["drama", "thriller"], [], ["Disney+"], ["Darren Aronofsky"], ["Natalie Portman", "Mila Kunis", "Winona Ryder"], "https://64.media.tumblr.com/700a91a5971aeaa25bb74eafc51ddd96/9e6696cf53ce3fa9-f5/s250x400/804b27301d5d5ba8816bf35c382545055711e9fa.jpg"],
 
-["film", ["Buffy the Vampire Slayer", "Buffy, der Vampirkiller"], "1992", ["2024 10 06"], 6, ["ger"], ["action", "comedy"], [], ["Disney+"], ["Fran Rubel Kuzui"], [], "https://64.media.tumblr.com/8ae3a277bdfcbfdbabe67caac3adb57a/9ead710d66ac2d18-42/s250x400/f219009464535723fb0fcc692f0dab2b5e8412c9.jpg"],
+["film", ["Buffy the Vampire Slayer", "Buffy, der Vampirkiller"], "1992", ["2024 10 06"], 6, ["ger"], ["action", "comedy"], [], ["Disney+"], ["Fran Rubel Kuzui"], ["Ben Affleck"], "https://64.media.tumblr.com/8ae3a277bdfcbfdbabe67caac3adb57a/9ead710d66ac2d18-42/s250x400/f219009464535723fb0fcc692f0dab2b5e8412c9.jpg"],
 
 ["film", ["First Daughter", "Ein Date mit Hindernissen"], "2004", ["2024 10 06"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Forest Whitaker"], ["Justine Wachsberger"], "https://64.media.tumblr.com/9b63715861115852aec81b3434738603/ddccf5886aafe3fb-2c/s250x400/f4471169938f91eca71a6c5ffce73c85a00e37f0.jpg"],
 
@@ -3102,7 +3102,11 @@ var database = [
 
 ["film", ["Django Unchained"], "2012", ["2024 10 26"], 8, ["eng"], ["comedy", "drama"], [], ["Netflix"], ["Quentin Tarantino"], ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio", "Samuel L. Jackson", "Kerry Washington", "Walton Goggins"], "https://64.media.tumblr.com/b7509d13ac0d99d0702f60b70d14ffcf/6ea472469b8ad7c0-72/s250x400/438ee8a8cac977ac193f6db0095795a32c0b3967.jpg"],
 
-["film", ["Pride & Prejudice", "Stolz & Vorurteil"], "2005", ["2024 10 26"], 7, ["ger"], ["drama", "romance"], ["syl"], ["ARD"], ["Joe Wright"], ["Keira Knightley", "Talulah Riley", "Rosamund Pike", "Jena Malone", "Carey Mulligan", "Donald Sutherland", "Kelly Reilly", "Tom Hollander", "Judi Dench"], "https://64.media.tumblr.com/a05608e0fdc3f160146b435bcb6f3e90/e2c632d164f42af6-a2/s250x400/8ae0f69d34d56984a2faa919d078474d77d6f1f5.jpg"]
+["film", ["Pride & Prejudice", "Stolz & Vorurteil"], "2005", ["2024 10 26"], 7, ["ger"], ["drama", "romance"], ["syl"], ["ARD"], ["Joe Wright"], ["Keira Knightley", "Talulah Riley", "Rosamund Pike", "Jena Malone", "Carey Mulligan", "Donald Sutherland", "Kelly Reilly", "Tom Hollander", "Judi Dench"], "https://64.media.tumblr.com/a05608e0fdc3f160146b435bcb6f3e90/e2c632d164f42af6-a2/s250x400/8ae0f69d34d56984a2faa919d078474d77d6f1f5.jpg"],
+
+["film", ["I Care a Lot"], "2020", ["2024 10 27"], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["J Blakeson"], ["Rosamund Pike", "Peter Dinklage", "Eiza González"], "https://64.media.tumblr.com/78f9cdc82205544c07c0dab487e8941e/d59ae1302879a762-17/s250x400/3627f234055c6687a25cac1821205dc754ee1ab0.jpg"],
+
+["film", ["The Accountant"], "2016", ["2024 10 27"], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Gavin O'Connor"], ["Ben Affleck", "Anna Kendrick", "J.K. Simmons", "Jon Bernthal", "John Lithgow"], "https://64.media.tumblr.com/db02f9e89938a59540dbab089790d3fa/75f22dce5d6436d3-da/s250x400/7f7325edafa65137e228dd9f209473f3530eb022.jpg"]
 
 /*
 ,
