@@ -197,7 +197,7 @@ var database = [
 	        
 ["audiobook", ["The Golden Compass", "Der Goldene Kompass"], "1995", [["2019 10 01", "2019 11 05"], ["2024 10 20", "2024 10 27"]], 8, ["ger"], [], [], ["His Dark Materials", "bibliothek"], ["Philip Pullman"], ["Rufus Beck"], "https://66.media.tumblr.com/b432a7f45cbb58a2a70a69b5f5426046/2dc3929cff47cfff-ca/s250x400/2f6a6fb41c2c2417285a733182cb4f1243b8256f.jpg"],
 	        
-["audiobook", ["The Subtle Knife", "Das Magische Messer"], "1997", [["2019 11 06", "2019 11 19"]], 9, ["eng"], [], [], ["His Dark Materials"], ["Philip Pullman"], [], "https://66.media.tumblr.com/0020d596377879b7a5f41ec561061bdf/17eb0eecfeb04300-8c/s250x400/7b328cd64feecab2b4bb061f3d2399e052b7b18a.jpg"],
+["audiobook", ["The Subtle Knife", "Das Magische Messer"], "1997", [["2019 11 06", "2019 11 19"], ["2024 10 29", ""]], 9, ["eng", "ger"], [], [], ["His Dark Materials", "bibliothek", "watching"], ["Philip Pullman"], ["Rufus Beck"], "https://66.media.tumblr.com/0020d596377879b7a5f41ec561061bdf/17eb0eecfeb04300-8c/s250x400/7b328cd64feecab2b4bb061f3d2399e052b7b18a.jpg"],
 	        
 ["audiobook", ["The Amber Spyglass", "Das Bernstein-Teleskop"], "2000", [["2019 11 20", "2020 01 02"]], 8, ["ger"], [], [], ["His Dark Materials"], ["Philip Pullman"], [], "https://66.media.tumblr.com/4db7b730ee17b939fc06d3281cd3ef98/31ac6656dc2ceebe-c0/s250x400/aa24d9a6d8bd5a824c315de9ec241451b0dcf0c4.jpg"],
 	        
