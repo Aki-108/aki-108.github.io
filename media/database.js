@@ -373,7 +373,7 @@ var database = [
 	        
 ["series", ["Sense8"], ["2015", "2018"], [["2017 11 22", "2017 12 06", "S1"], ["2021 12 08", "2018 01 08", "S2E1-E11"], ["2018 06 20", "S2E12"]], 10, ["ger"], ["drama", "mystery", "sci-fi"], [], ["Netflix", "LGBT"], ["J. Michael Straczynski", "Lana Wachowski", "Lilly Wachowski"], ["Doona Bae", "Jamie Clayton", "Tina Desai", "Tuppence Middleton", "Miguel Ángel Silvestre", "Brian J. Smith", "Naveen Andrews", "Lucas Jade Zumann", "Adam Shapiro", "Max Riemelt", "Daryl Hannah", "Max Mauff", "Martin Wuttke", "Rainer Reiners"], "https://66.media.tumblr.com/fe621b191d84e2bbe1aba5ebe2a07f66/09a111a49814a1f3-e9/s250x400/d3d1227dfa741e11309c553ea5b18b6c97ca4d8a.jpg"],
 	        
-["series", ["Dark"], ["2017", "2020"], [["2017 12 22", "2018 01 14", "S1"], ["2019 08 02", "2019 08 19", "S2"]], 9, ["ger"], ["crime", "drama", "sci-fi"], ["bini", "syl"], ["Netflix", "dropped"], ["Baran bo Odar", "Jantje Friese"], ["Lisa Vicari", "Louis Hofmann", "Carina Wiese", "Jördis Triebel", "Oliver Masucci", "Moritz Jahn", "Katharina Spiering", "Lea van Acken"], "https://66.media.tumblr.com/531d646040cf4d9601928b8831aa7245/09369d9c4c925cd5-a5/s250x400/1a50d68dc6061c00c9275c2b1625fed0831e9d47.jpg"],
+["series", ["Dark"], ["2017", "2020"], [["2017 12 22", "2018 01 14", "S1"], ["2019 08 02", "2019 08 19", "S2"]], 9, ["ger"], ["crime", "drama", "sci-fi"], ["bini", "syl"], ["Netflix", "dropped"], ["Baran bo Odar", "Jantje Friese"], ["Lisa Vicari", "Louis Hofmann", "Carina Wiese", "Jördis Triebel", "Oliver Masucci", "Moritz Jahn", "Katharina Spiering", "Lea van Acken", "Julika Jenkins"], "https://66.media.tumblr.com/531d646040cf4d9601928b8831aa7245/09369d9c4c925cd5-a5/s250x400/1a50d68dc6061c00c9275c2b1625fed0831e9d47.jpg"],
 	        
 ["series", ["Atypical"], ["2017", "2021"], [["2017 12 29", "2018 01 01", "S1"], ["2018 09 07", "2018 09 08", "S2"], ["2019 11 01", "2019 11 16", "S3"], ["2020 07 09", "2020 07 16", "S1"], ["2020 07 16", "2020 07 18", "S2"], ["2020 07 18", "2020 07 20", "S3"], ["2021 07 16", "2021 07 28", "S4"]], 8, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Robia Rashid"], ["Keir Gilchrist", "Jennifer Jason Leigh", "Brigette Lundy-Paine", "Michael Rapaport", "Nik Dodani", "Amy Okuda", "Sara Gilbert", "Raúl Castillo", "Megan Suri"], "https://66.media.tumblr.com/061499d98f1a404ceb3cb290ec08e58c/bdaa33086c3fdc3d-e2/s250x400/57c82fdf9d317f70486282f02a4c7da7925edf67.jpg"],
 	        
@@ -452,7 +452,7 @@ var database = [
 	        
 ["film", ["The Lord of the Rings: The Return of the King", "Der Herr der Ringe: Die Rückkehr des Königs"], "2003", ["2016 02 13", "2016 12 18", ["2022 06 08", "2022 06 10", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], [], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Christopher Lee", "Hugo Weaving", "David Wenham"], "https://49.media.tumblr.com/e79056db9dd93cc65ac09ee280ed973c/tumblr_o2j5yuqU8n1v2s5upo1_250.jpg"],
 	        
-["film", ["Elizabethtown"], "2005", ["2015 08 25"], 8, ["ger"], ["comedy", "drama"], [], [], ["Cameron Crowe"], ["Orlando Bloom", "Kirsten Dunst", "Alec Baldwin", "Judy Greer", "Paul Schneider"], "https://49.media.tumblr.com/04848757c806d3f770ff9451e851dc3a/tumblr_o0dvucxTZA1v2s5upo1_250.jpg"],
+["film", ["Elizabethtown"], "2005", ["2015 08 25", "2024 11 01"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Cameron Crowe"], ["Orlando Bloom", "Kirsten Dunst", "Alec Baldwin", "Judy Greer", "Paul Schneider"], "https://49.media.tumblr.com/04848757c806d3f770ff9451e851dc3a/tumblr_o0dvucxTZA1v2s5upo1_250.jpg"],
 	        
 ["film", ["Kingdom of Heaven", "Königreich der Himmel"], "2005", ["2015 12 28"], 9, ["ger"], ["action", "adventure", "war", "history"], [], [], ["Ridley Scott"], ["David Thewlis", "Orlando Bloom", "Eva Green", "Jeremy Irons", "Iain Glen"], "https://49.media.tumblr.com/3be01f4735a5d74e5c36ef0349fd379e/tumblr_o036jydUC71v2s5upo1_250.jpg"],
 	        
@@ -646,7 +646,7 @@ var database = [
 	        
 ["film", ["To All the Boys I've Loved Before"], "2018", ["2018 09 19"], 7, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Susan Johnson"], ["Lana Condor", "Noah Centineo", "Anna Cathcart", "Andrew Bachelor", "Madeleine Arthur", "Emilija Baranac"], "https://66.media.tumblr.com/ecfc3cf7c712bc3d71788d01747bd9f2/c49d9445953e0db3-a1/s250x400/6dae5add106f53bac18a8f32c26b296fad92d964.jpg"],
 	        
-["film", ["Candy Jar"], "2018", ["2018 10 19", "2019 10 02", "2020 12 14", "2021 09 04", "2024 03 24"], 10, ["ger"], ["comedy"], ["mai", "bini"], ["fav", "Netflix"], ["Ben Shelton"], ["Jacob Latimore", "Sami Gayle", "Ariana Guerra"], "https://66.media.tumblr.com/066c667345c10ff88cb86d7616fe701c/ae892af51cbc7500-47/s250x400/183cd2e5c8c1d5bc9986c8aba9b95be73f7038dd.jpg"],
+["film", ["Candy Jar"], "2018", ["2018 10 19", "2019 10 02", "2020 12 14", "2021 09 04", "2024 03 24"], 10, ["ger"], ["comedy"], ["mai", "bini"], ["fav", "Netflix"], ["Ben Shelton"], ["Jacob Latimore", "Sami Gayle", "Ariana Guerra", "Antonia Gentry"], "https://66.media.tumblr.com/066c667345c10ff88cb86d7616fe701c/ae892af51cbc7500-47/s250x400/183cd2e5c8c1d5bc9986c8aba9b95be73f7038dd.jpg"],
 	        
 ["film", ["Pippi Longstocking", "Pippi Langstrumpf", "Pippi Långstrump"], "1969", ["2018 12 26"], 6, ["ger"], ["adventure", "comedy"], ["bini"], ["Pippi"], ["Olle Hellbom"], ["Inger Nilsson", "Maria Persson", "Pär Sundberg"], "https://66.media.tumblr.com/c09ac61ff3510f4e06c0b83b5d8f5da4/2eb32da8fb15f7e4-6e/s250x400/6bd28405ca7fadace0552b2547b12a878035bce0.jpg"],
 	        
@@ -3106,7 +3106,11 @@ var database = [
 
 ["film", ["I Care a Lot"], "2020", ["2024 10 27"], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["J Blakeson"], ["Rosamund Pike", "Peter Dinklage", "Eiza González"], "https://64.media.tumblr.com/78f9cdc82205544c07c0dab487e8941e/d59ae1302879a762-17/s250x400/3627f234055c6687a25cac1821205dc754ee1ab0.jpg"],
 
-["film", ["The Accountant"], "2016", ["2024 10 27"], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Gavin O'Connor"], ["Ben Affleck", "Anna Kendrick", "J.K. Simmons", "Jon Bernthal", "John Lithgow"], "https://64.media.tumblr.com/db02f9e89938a59540dbab089790d3fa/75f22dce5d6436d3-da/s250x400/7f7325edafa65137e228dd9f209473f3530eb022.jpg"]
+["film", ["The Accountant"], "2016", ["2024 10 27"], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Gavin O'Connor"], ["Ben Affleck", "Anna Kendrick", "J.K. Simmons", "Jon Bernthal", "John Lithgow"], "https://64.media.tumblr.com/db02f9e89938a59540dbab089790d3fa/75f22dce5d6436d3-da/s250x400/7f7325edafa65137e228dd9f209473f3530eb022.jpg"],
+
+["series", ["Liebes Kind"], "2023", [["2024 10 31", "S1"]], 8, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Romy Hausmann", "Isabel Kleefeld", "Julian Pörksen"], ["Julika Jenkins"], "https://64.media.tumblr.com/23112a191cb6a7f6c20bc594176ff457/d90a376da1fac91a-47/s250x400/ef99f1ba5fd421ad7a24a5b11d56a932926fe52e.jpg"],
+
+["film", ["Time Cut"], "2024", ["2024 11 01"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Hannah Macpherson"], ["Antonia Gentry", "Griffin Gluck"], "https://64.media.tumblr.com/f45f7c132e982a7b16dc71a1b98c9f4d/c446a7209dc5b2bf-15/s400x600/9d4d57dbb56cb4500e63d647abc0bb0ee12ee561.jpg"]
 
 /*
 ,
