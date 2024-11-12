@@ -3020,7 +3020,7 @@ var database = [
 
 ["short", ["Jack-Jack Attack"], "2005", ["2024 08 05"], 6, ["ger"], ["animation"], ["syl", "je"], ["Incredibles", "Disney+"], ["Brad Bird"], [], "https://64.media.tumblr.com/791c9402bdae5d6f1d4a23b4eda2ff6d/ef203cf5364a84ee-1e/s250x400/59d9087927e34c9e975fd00310d41f467a886629.jpg"],
 
-["book", ["Me Being Me is Exactly as Insane as You Being You", "Dass ich ich bin, ist genauso verrückt wie Tatsache, dass du du bist"], "2015", [["2024 08 14", "2024 10 15", "P1-P361]], 5, ["ger"], ["young adult"], [], ["bibliothek", "dropped"], ["Todd Hasak-Lowy"], [], "https://64.media.tumblr.com/4a113070caa2f243a1025c75a1456ee0/a03f06fec6628f3c-22/s250x400/a8944fe60bf7998609cb5efd3714f431c51d6724.jpg"],
+["book", ["Me Being Me is Exactly as Insane as You Being You", "Dass ich ich bin, ist genauso verrückt wie Tatsache, dass du du bist"], "2015", [["2024 08 14", "2024 10 15", "P1-P361"]], 5, ["ger"], ["young adult"], [], ["bibliothek", "dropped"], ["Todd Hasak-Lowy"], [], "https://64.media.tumblr.com/4a113070caa2f243a1025c75a1456ee0/a03f06fec6628f3c-22/s250x400/a8944fe60bf7998609cb5efd3714f431c51d6724.jpg"],
 
 ["film", ["The Union"], "2024", ["2024 08 17"], 7, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Julian Farino"], ["Mark Wahlberg", "Halle Berry", "J.K. Simmons", "Jackie Earle Haley", "Mike Colter"], "https://64.media.tumblr.com/77706f6b5c8c2446b01f0294dc379edd/f7ff7d8e776b53c7-38/s250x400/675f157d33a5715bce9c198bf7a61380a9b2e981.jpg"],
 
