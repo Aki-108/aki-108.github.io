@@ -3020,7 +3020,7 @@ var database = [
 
 ["short", ["Jack-Jack Attack"], "2005", ["2024 08 05"], 6, ["ger"], ["animation"], ["syl", "je"], ["Incredibles", "Disney+"], ["Brad Bird"], [], "https://64.media.tumblr.com/791c9402bdae5d6f1d4a23b4eda2ff6d/ef203cf5364a84ee-1e/s250x400/59d9087927e34c9e975fd00310d41f467a886629.jpg"],
 
-["book", ["Me Being Me is Exactly as Insane as You Being You", "Dass ich ich bin, ist genauso verrückt wie Tatsache, dass du du bist"], "2015", [["2024 08 14", ""]], 0, ["ger"], ["young adult"], [], ["bibliothek", "watching"], ["Todd Hasak-Lowy"], [], "https://64.media.tumblr.com/4a113070caa2f243a1025c75a1456ee0/a03f06fec6628f3c-22/s250x400/a8944fe60bf7998609cb5efd3714f431c51d6724.jpg"],
+["book", ["Me Being Me is Exactly as Insane as You Being You", "Dass ich ich bin, ist genauso verrückt wie Tatsache, dass du du bist"], "2015", [["2024 08 14", "2024 10 15", "P1-P361]], 5, ["ger"], ["young adult"], [], ["bibliothek", "dropped"], ["Todd Hasak-Lowy"], [], "https://64.media.tumblr.com/4a113070caa2f243a1025c75a1456ee0/a03f06fec6628f3c-22/s250x400/a8944fe60bf7998609cb5efd3714f431c51d6724.jpg"],
 
 ["film", ["The Union"], "2024", ["2024 08 17"], 7, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Julian Farino"], ["Mark Wahlberg", "Halle Berry", "J.K. Simmons", "Jackie Earle Haley", "Mike Colter"], "https://64.media.tumblr.com/77706f6b5c8c2446b01f0294dc379edd/f7ff7d8e776b53c7-38/s250x400/675f157d33a5715bce9c198bf7a61380a9b2e981.jpg"],
 
@@ -3120,7 +3120,9 @@ var database = [
 
 ["film", ["The Bourne Legacy", "Das Bourne Vermächtnis"], "2012", ["2024 11 03"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Tony Gilroy"], ["Jeremy Renner", "Edward Norton", "Corey Stoll", "Zeljko Ivanek", "Oscar Isaac"], "https://64.media.tumblr.com/b632de50530f2daccef44df6a93e0dcb/8f2dfd2c0d3c757d-d0/s250x400/90c04d4c642220b656ca44caee1f9ea3d07d3e39.jpg"],
 
-["film", ["Jason Bourne"], "2016", ["2024 11 03"], 7, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Paul Greengrass"], ["Matt Damon", "Tommy Lee Jones", "Alicia Vikander", "Julia Stiles"], "https://64.media.tumblr.com/51e95f3f46419d7ffeb2c197364a1cc5/88a54e25bce44e4d-c1/s250x400/47c0a68dfd0370495defa21437dce726d8d0f311.jpg"]
+["film", ["Jason Bourne"], "2016", ["2024 11 03"], 7, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Paul Greengrass"], ["Matt Damon", "Tommy Lee Jones", "Alicia Vikander", "Julia Stiles"], "https://64.media.tumblr.com/51e95f3f46419d7ffeb2c197364a1cc5/88a54e25bce44e4d-c1/s250x400/47c0a68dfd0370495defa21437dce726d8d0f311.jpg"],
+
+["book", ["A Good Girl's Guide to Murder"], "2019", [["2024 11 04", ""]], 0, ["ger"], ["young adult", "mystery", "crime"], [], ["watching"], ["Holly Jackson"], [], "https://64.media.tumblr.com/ec0dde7a22c7b898b411b3dd74cfe596/329c65c9699d5ad3-13/s250x400/4cf05d2e2ee57c7768aa36b152ca1eb34b91a93a.jpg"]
 
 	/*
 ,
