@@ -1938,7 +1938,7 @@ var database = [
 
 ["film", ["Camp Rock"], "2008", ["2021 10 20"], 5, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Matthew Diamond"], ["Demi Lovato", "Joe Jonas", "Meaghan Martin", "Maria Canals-Barrera", "Alyson Stoner", "Kevin Jonas", "Nick Jonas"], "https://64.media.tumblr.com/fc7b950dd460e3ac2e51511186439ecc/faf580e125dbe03a-69/s250x400/991e2cf3e2fc739eef66f3f8e1f516c3bb8c98ad.jpg"],
 
-["film", ["Stargirl", "Stargirl: Anders ist völlig normal"], "2020", ["2021 10 21", "2021 11 08", "2022 01 15", "2022 12 03"], 9, ["ger", "eng"], ["comedy", "drama"], [], ["Disney+", "fav", "bby"], ["Julia Hart"], ["Grace VanderWaal", "Graham Verchere", "Darby Stanchfield", "Karan Brar", "Giancarlo Esposito", "Karan Brar"], "https://64.media.tumblr.com/74147c192aabad90a6e15779f039e151/ffb0278dc58df436-39/s250x400/adcb85b2fbba58b564bcd84b131bf57b23f08e38.jpg"],
+["film", ["Stargirl", "Stargirl: Anders ist völlig normal"], "2020", ["2021 10 21", "2021 11 08", "2022 01 15", "2022 12 03", "2024 11 17"], 9, ["ger", "eng"], ["comedy", "drama"], [], ["Disney+", "fav", "bby"], ["Julia Hart"], ["Grace VanderWaal", "Graham Verchere", "Darby Stanchfield", "Karan Brar", "Giancarlo Esposito", "Karan Brar"], "https://64.media.tumblr.com/74147c192aabad90a6e15779f039e151/ffb0278dc58df436-39/s250x400/adcb85b2fbba58b564bcd84b131bf57b23f08e38.jpg"],
 
 ["film", ["The Parent Trap", "Ein Zwilling kommt selten allein"], "1998", ["2021 10 22"], 4, ["ger"], ["adventure", "comedy"], [], ["Disney+"], ["Nancy Meyers"], ["Lindsay Lohan"], "https://64.media.tumblr.com/f01b241132a4d209bea62ac34fc6db7b/7cb9a6047fbc9973-d4/s250x400/067ce115ab1983ea2cd270ef9fa876da40a0c694.jpg"],
 
