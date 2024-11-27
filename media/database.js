@@ -3056,7 +3056,7 @@ var database = [
 
 ["series", ["A Good Girl's Guide to Murder"], "2024", [["2024 09 28", "2024 09 29", "S1"]], 8, ["ger"], ["drama", "mystery"], [], ["ZDF Neo"], ["Poppy Cogan", "Holly Jackson"], ["Emma Myers"], "https://64.media.tumblr.com/7d75c4452547184b4ac9c8287ad79531/c4d95847e9946dcd-76/s250x400/9ab8557c8d62cecfd05eea4913e70b07c9604ebb.jpg"],
 
-["series", ["Hannah Montana"], ["2006", "2011"], [["2024 10 02", "", "S1"]], 0, ["ger"], ["comedy", "family"], ["bini", "nico"], ["Disney+", "watching"], ["Richard Correll", "Barry O'Brien"], ["Miley Cyrus"], "https://64.media.tumblr.com/c46019b41a1a54ad294cca84744d6fbc/49fc4c8f78992291-03/s250x400/ebe9f8358e51c5853adafa367e115a61cb7a2dd8.jpg"],
+["series", ["Hannah Montana"], ["2006", "2011"], [["2024 10 02", "2024 11 27", "S1"]], 4, ["ger"], ["comedy", "family"], ["bini", "nico"], ["Disney+"], ["Richard Correll", "Barry O'Brien"], ["Miley Cyrus"], "https://64.media.tumblr.com/c46019b41a1a54ad294cca84744d6fbc/49fc4c8f78992291-03/s250x400/ebe9f8358e51c5853adafa367e115a61cb7a2dd8.jpg"],
 
 ["film", ["22 Bullets", "22 Kugeln", "L'immortel"], "2010", ["2024 10 03"], 7, ["ger"], ["action", "crime"], [], ["ARD"], ["Richard Berry"], ["Jean Reno", "Kad Merad"], "https://64.media.tumblr.com/b30f6047940fdea7e7d0d0b0d38bb2d3/5abbbace362a1b0a-0c/s250x400/d4b4d6b0242cde7cc49ef9030b7f9350fc4ed1a0.jpg"],
 
