@@ -2994,7 +2994,7 @@ var database = [
 
 ["book", ["Magic Girls: Der verhängnisvolle Fluch"], "2008", [["2024 06 03", "2024 06 26", "C1-C3"]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "dropped", "ongoing"], ["Marliese Arold"], [], "https://64.media.tumblr.com/9ac8d12e98b444108f79786cc470f18b/16df4ee59047e1ec-a9/s250x400/3f1c304b4d7ad8e32d33ab55cc6378b1388069bf.jpg"],
 
-["series", ["Hunter x Hunter"], "2011", [["2024 06 10", "", "S1"]], 0, ["ger"], ["action", "adventure", "fantasy", "anime"], ["bini", "nico"], ["watching"], ["Yoshihiro Togashi"], [], "https://64.media.tumblr.com/2ebb120d0bf3301ebc691be3aa002630/967c42b346f32be8-8e/s250x400/84d2436706e5260e3a3c2c283d5faae26027c2e2.jpg"],
+["series", ["Hunter x Hunter"], "2011", [["2024 06 10", "2024 12 02", "S1-S3"]], 0, ["ger"], ["action", "adventure", "fantasy", "anime"], ["bini", "nico"], [], ["Yoshihiro Togashi"], [], "https://64.media.tumblr.com/2ebb120d0bf3301ebc691be3aa002630/967c42b346f32be8-8e/s250x400/84d2436706e5260e3a3c2c283d5faae26027c2e2.jpg"],
 
 ["film", ["No Hard Feelings"], "2023", ["2024 06 15"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Gene Stupnitsky"], ["Jennifer Lawrence"], "https://64.media.tumblr.com/a83b8ad45ed44ca4828a0c707bac5015/f2ba6cdbe212cac2-40/s250x400/483f42f1c3304a1d0b789a558985554fd4ab4084.jpg"],
 
