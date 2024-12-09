@@ -1572,7 +1572,7 @@ var database = [
 
 ["series", ["Urawa no Usagi-chan"], "2015", [["2015 05 30", "2015 07 12", "S1"]], 6, ["jap"], ["anime"], [], [], ["Mitsuyuki Ishibashi"], [], "https://64.media.tumblr.com/138523f7dcac0bff42e51167e93c64b3/5c3f7950b1d65006-07/s250x400/28adc52e874231d80b4d390d2490bac48e4bffc7.jpg"],
 
-["series", ["Hibike! Euphonium"], ["2015", "2016"], [["2015 04 07", "2015 07 20", "S1"], ["2021 09 15", "2021 10 13", "S1"], ["2021 10 13", "Special"], ["2021 10 13", "2021 11 03", "S2"]], 5, ["jap"], ["anime", "comedy", "music"], ["bini", "jani", "nico"], ["Hibike!"], ["Jukki Hanada", "Ayano Takeda"], [], "https://64.media.tumblr.com/26f7c0fdd8d665f681708799f91d7d63/eaecc5d8fff6b344-2b/s250x400/6ab13912d0b5885e9c1feef226500204ed638220.jpg"],/*S1: 6, S2: 4*/
+["series", ["Hibike! Euphonium"], ["2015", "2016"], [["2015 04 07", "2015 07 20", "S1"], ["2021 09 15", "2021 10 13", "S1"], ["2021 10 13", "Special"], ["2021 10 13", "2021 11 03", "S2"], ["2024 12 09", "", "S3"]], 5, ["jap"], ["anime", "comedy", "music"], ["bini", "jani", "nico"], ["Hibike!", "watching"], ["Jukki Hanada", "Ayano Takeda"], [], "https://64.media.tumblr.com/26f7c0fdd8d665f681708799f91d7d63/eaecc5d8fff6b344-2b/s250x400/6ab13912d0b5885e9c1feef226500204ed638220.jpg"],/*S1: 6, S2: 4*/
 
 ["series", ["Kabaneri of the Iron Fortress", "Kabaneri of the Iron Fortress", "Kotetsujo no Kabaneri"], "2016", [["2016 04 10", "2017 02 03", "S1"]], 8, ["jap"], ["anime", "action"], [], [], ["Tetsurô Araki", "Hiroyuki Tanaka", "Hironori Aoyagi"], [], "https://64.media.tumblr.com/48ed858b3e8721211736ec06ac2e0dd5/99dcf775ae6fe13e-12/s250x400/3c556ee7e8021028154bb4fc65a40c76eeefe381.jpg"],
 
@@ -3132,7 +3132,11 @@ var database = [
 
 ["film", ["Moonshot", "Liftoff - Mit dir zum Mars"], "2022", ["2024 11 23"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Christopher Winterbauer"], ["Zach Braff", "Emily Rudd", "Cole Sprouse"], "https://64.media.tumblr.com/36883c67dfdbe7a0abf2a2b820a8805b/0e614a67411150c8-39/s250x400/90f675c9bfc23635ae66c17604e0ef23e9bd3b76.jpg"],
 
-["film", ["Twelve Monkeys", "12 Monkeys"], "1995", ["2024 11 30"], 7, ["ger"], ["mystery", "sci-fi"], [], ["RTL+"], ["Terry Gilliam"], ["Bruce Willis", "Brad Pitt", "Christopher Meloni"], "https://64.media.tumblr.com/c580a03095b0e2e8f532f934934dd607/2ce0b55b491f69a6-0d/s250x400/014a165268df127faa71349212297768bd879e47.jpg"]
+["film", ["Twelve Monkeys", "12 Monkeys"], "1995", ["2024 11 30"], 7, ["ger"], ["mystery", "sci-fi"], [], ["RTL+"], ["Terry Gilliam"], ["Bruce Willis", "Brad Pitt", "Christopher Meloni"], "https://64.media.tumblr.com/c580a03095b0e2e8f532f934934dd607/2ce0b55b491f69a6-0d/s250x400/014a165268df127faa71349212297768bd879e47.jpg"],
+
+["series", ["Phineas and Ferb", "Phineas und Ferb"], ["2007", "2024"], [["2024 12 04", "", "S1"]], 0, ["ger"], ["animation", "comedy"], ["bini", "nico"], ["watching", "Disney+"], ["Jeff 'Swampy' Marsh"], [], "https://64.media.tumblr.com/93c1bf121ce15f170731bf700fab1c05/fd60583ad87c43eb-bd/s250x400/a8be584bc8c05357642dff9cfc4786ff189ac345.jpg"],
+
+["film", ["The Mitchells vs the Machines", "Die Mitchells gegen die Maschinen"], "2021", ["2024 12 07"], 9, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Michael Rianda", "Jeff Rowe"], [], "https://64.media.tumblr.com/459c36130be4fca6f00126e95da53406/810d4e5326d6c9dd-81/s250x400/de05a8faafcf915b39e837f936fb8caa196b5e13.jpg"]
 
 	/*
 ,
