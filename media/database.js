@@ -199,7 +199,7 @@ var database = [
 	        
 ["audiobook", ["The Subtle Knife", "Das Magische Messer"], "1997", [["2019 11 06", "2019 11 19"], ["2024 10 29", "2024 11 08"]], 9, ["eng", "ger"], [], [], ["His Dark Materials", "bibliothek"], ["Philip Pullman"], ["Rufus Beck"], "https://66.media.tumblr.com/0020d596377879b7a5f41ec561061bdf/17eb0eecfeb04300-8c/s250x400/7b328cd64feecab2b4bb061f3d2399e052b7b18a.jpg"],
 	        
-["audiobook", ["The Amber Spyglass", "Das Bernstein-Teleskop"], "2000", [["2019 11 20", "2020 01 02"], ["2024 11 11", ""]], 8, ["ger"], [], [], ["His Dark Materials", "bibliothek", "watching"], ["Philip Pullman"], ["Rufus Beck"], "https://66.media.tumblr.com/4db7b730ee17b939fc06d3281cd3ef98/31ac6656dc2ceebe-c0/s250x400/aa24d9a6d8bd5a824c315de9ec241451b0dcf0c4.jpg"],
+["audiobook", ["The Amber Spyglass", "Das Bernstein-Teleskop"], "2000", [["2019 11 20", "2020 01 02"], ["2024 11 11", "2024 12 09"]], 8, ["ger"], [], [], ["His Dark Materials", "bibliothek"], ["Philip Pullman"], ["Rufus Beck"], "https://66.media.tumblr.com/4db7b730ee17b939fc06d3281cd3ef98/31ac6656dc2ceebe-c0/s250x400/aa24d9a6d8bd5a824c315de9ec241451b0dcf0c4.jpg"],
 	        
 ["audiobook", ["Stardust", "Sternwanderer"], "1997", [["2020 01 02", "2020 01 10"]], 8, ["ger"], ["fantasy"], [], [], ["Neil Gaiman"], [], "https://66.media.tumblr.com/89ea26539e874d0fd7e3b4ba1d751126/d084428b0567585c-f0/s250x400/1c9ed2eb813acd63c2f6ebd7ebbdb324552c3700.jpg"],
 	        
