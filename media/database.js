@@ -365,7 +365,7 @@ var database = [
 	        
 ["series", ["Mind Field"], "2017", [["2017 07 21", "2017 07 22", "S1 - S2"], ["2019 10 09", "S3"]], 10, ["eng"], ["documentary"], [], [], ["Andy Wood", "Michael Stevens"], ["Michael Stevens", "Trin Miller"], "https://66.media.tumblr.com/ef8f3173576f3583f44f212977fe2b72/b890db991dd36500-46/s250x400/2c9befd9d5126d96102729603801f56d95f82feb.jpg"],
 	        
-["series", ["Stranger Things"], "2016", [["2017 09 30", "2017 10 01", "S1"], ["2017 10 28", "2017 10 29", "S2"], ["2019 07 05", "2019 07 09", "S3"]], 8, ["ger"], ["drama", "fantasy", "horror", "mystery", "thriller", "sci-fi"], ["bini"], ["Netflix"], ["Matt Duffer", "Ross Duffer"], ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Sean Astin", "Joe Chrest", "Jamie Campbell Bower", "Maya Hawke", "Charlie Heaton"], "https://66.media.tumblr.com/c8b627f6c4e359d3e447107df3fbf426/67ddec5eb9eb235d-ed/s250x400/d663062da2fa7916f4f53c57f65e0a4898097490.jpg"],
+["series", ["Stranger Things"], "2016", [["2017 09 30", "2017 10 01", "S1"], ["2017 10 28", "2017 10 29", "S2"], ["2019 07 05", "2019 07 09", "S3"]], 8, ["ger"], ["drama", "fantasy", "horror", "mystery", "thriller", "sci-fi"], ["bini"], ["Netflix"], ["Matt Duffer", "Ross Duffer"], ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Sean Astin", "Joe Chrest", "Jamie Campbell Bower", "Maya Hawke", "Charlie Heaton", "Natalia Dyer"], "https://66.media.tumblr.com/c8b627f6c4e359d3e447107df3fbf426/67ddec5eb9eb235d-ed/s250x400/d663062da2fa7916f4f53c57f65e0a4898097490.jpg"],
 	        
 ["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt", "Alisha Boe", "Timothy Granaderos", "Gary Sinise", "Megan Suri", "Allison Miller"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
 	        
@@ -1952,13 +1952,13 @@ var database = [
 
 ["film", ["Blue My Mind"], "2017", ["2021 10 28"], 5, ["ger"], ["drama", "fantasy"], [], [], ["Lisa Brühlmann"], ["Luna Wedler"], "https://64.media.tumblr.com/faf24001f1305cfb24b84d879e791a56/d68813486e58bad2-61/s250x400/2103f8a53c36148b007b16cbb1de7f1b3c492d12.jpg"],
 
-["film", ["The Wave", "Die Welle"], "2008", ["2021 11 01"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Dennis Gansel"], ["Jürgen Vogel", "Frederick Lau", "Max Riemelt", "Elyas M'Barek", "Jacob Matschenz", "Max Mauff", "Tim Oliver Schultz", "Jennifer Ulrich"], "https://64.media.tumblr.com/22e92cc08046c98c68f0e4778c1fc2a5/a37e1ae2a4afa3cb-5b/s250x400/8debab79dfb2f3b21f632e6feb3e68d1d69910f0.jpg"],
+["film", ["The Wave", "Die Welle"], "2008", ["2021 11 01"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Dennis Gansel"], ["Jürgen Vogel", "Frederick Lau", "Max Riemelt", "Elyas M'Barek", "Jacob Matschenz", "Max Mauff", "Tim Oliver Schultz", "Jennifer Ulrich", "Lennard Bertzbach"], "https://64.media.tumblr.com/22e92cc08046c98c68f0e4778c1fc2a5/a37e1ae2a4afa3cb-5b/s250x400/8debab79dfb2f3b21f632e6feb3e68d1d69910f0.jpg"],
 
 ["film", ["Die Wilden Hühner"], "2006", ["2021 11 03"], 5, ["ger"], ["adventure", "family"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Paula Romy", "Zsá Zsá Inci", "Benno Fürmann", "Nina Vorbrodt", "Axel Prahl", "Jette Hering", "Piet Klocke"], "https://64.media.tumblr.com/6e75d756d4b66248126c6483b750c971/9f1cc2ad374d9fcc-31/s250x400/3afe75e6d09c1f49f6d9b97433d5d3be22011c7a.jpg"],
 
 ["film", ["Die Wilden Hühner und die Liebe"], "2007", ["2021 11 04"], 6, ["ger"], ["comedy", "family"], [], ["Netflix", "LGBT", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Paula Romy", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Thomas Kretschmann", "Benno Fürmann", "Axel Prahl"], "https://64.media.tumblr.com/1a2776dae54457bcf515edc7356d6768/876998922951938e-05/s250x400/e54e96ceee013d17dbd42f0e1742f718c5b2eb60.jpg"],
 
-["film", ["Die Wilden Hühner und das Leben"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Benno Fürmann", "Wotan Wilke Möhring", "Milena Tscharntke", "Sonja Gerhardt"], "https://64.media.tumblr.com/87deeb29e6606958a1eb6aea58fb3efc/913287753b1fadec-9b/s250x400/f4ed62e7adbe64210f03f3db21987ae8c57fc06d.jpg"],
+["film", ["Die Wilden Hühner und das Leben"], "2008", ["2021 11 05"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Benno Fürmann", "Wotan Wilke Möhring", "Milena Tscharntke", "Sonja Gerhardt", "Paula Schramm"], "https://64.media.tumblr.com/87deeb29e6606958a1eb6aea58fb3efc/913287753b1fadec-9b/s250x400/f4ed62e7adbe64210f03f3db21987ae8c57fc06d.jpg"],
 
 ["film", ["Die Vorstadtkrokodile"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Christian Ditter"], ["Smudo", "Jacob Matschenz", "Axel Stein"], "https://64.media.tumblr.com/4bdcf49349ca6a11d3660c9b9b50c3d9/1df5e4c42048e73b-43/s250x400/1c6fa4d31eec11353b8c02fd623d9e8607f1bb98.jpg"],
 
@@ -2740,7 +2740,7 @@ var database = [
 
 ["film", ["Die Wilden Kerle: Alles ist gut, solange du wild bist!"], "2003", ["2023 10 09"], 5, ["ger"], ["family"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries", "Rufus Beck"], "https://64.media.tumblr.com/22572c7b8f344487e885fa2de912b413/7cb33ba879c25a00-8c/s250x400/3e322022270464516f92d8a75264561613da9a53.jpg"],
 
-["film", ["Die Wilden Kerle 2"], "2005", ["2023 10 10"], 5, ["ger"], ["family", "comedy"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/6ef10808a66d51aad79d6ed094e63ff3/11b51b4ed8433275-72/s400x600/000c109c4846da53850886d739ff3ccbc0104225.jpg"],
+["film", ["Die Wilden Kerle 2"], "2005", ["2023 10 10"], 5, ["ger"], ["family", "comedy"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries", "Lennard Bertzbach"], "https://64.media.tumblr.com/6ef10808a66d51aad79d6ed094e63ff3/11b51b4ed8433275-72/s400x600/000c109c4846da53850886d739ff3ccbc0104225.jpg"],
 
 ["film", ["The School for Good and Evil"], "2022", ["2023 10 10"], 7, ["ger"], ["action", "comedy"], ["je"], ["Netflix"], ["Paul Feig"], ["Kit Young", "Sophia Anne Caruso", "Cate Blanchett", "Sofia Wylie", "Kerry Washington", "Rob Delaney"], "https://64.media.tumblr.com/1d14a63f5cad36093000b5ce82b50a2d/efcbb970819c5032-0c/s250x400/25e6c6eb9cbce573931dccf938d202a3f5193da9.jpg"],
 
@@ -2752,7 +2752,7 @@ var database = [
 
 ["film", ["Die Wilden Kerle 4"], "2007", ["2023 10 12"], 4, ["ger"], ["comedy", "family"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/f9139dc689d8ef7477cdd27cb0351dd7/2a78d46dad8ab572-b8/s250x400/fb6c156b45df7232799cb9e780c1541a24aee112.jpg"],
 
-["film", ["Die Wilden Kerle 5"], "2008", ["2023 10 13"], 5, ["ger"], ["comedy", "family"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries"], "https://64.media.tumblr.com/d6f25d88544554fdad112f4e13a01a42/fc1c9a6241260659-b9/s250x400/41d9b4b6ae3391a26d6d9c860bdba0dafa607548.jpg"],
+["film", ["Die Wilden Kerle 5"], "2008", ["2023 10 13"], 5, ["ger"], ["comedy", "family"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries", "Paula Schramm"], "https://64.media.tumblr.com/d6f25d88544554fdad112f4e13a01a42/fc1c9a6241260659-b9/s250x400/41d9b4b6ae3391a26d6d9c860bdba0dafa607548.jpg"],
 
 ["film", ["Die Wilden Kerle 6 - Die Legende lebt"], "2016", ["2023 10 15"], 4, ["ger"], ["action", "adventure"], [], ["Disney+", "Die Wilden Kerle"], ["Joachim Masannek"], ["Jimi Blue Ochsenknecht", "Sarah Kim Gries", "Rufus Beck"], "https://64.media.tumblr.com/aed131cd1b2b177f60f6b6b74b3a65dc/d8e3eb25910f6365-57/s250x400/c10a5f826aa901b4abb99f56f69ddffe2ad3db8c.jpg"],
 
@@ -3146,7 +3146,13 @@ var database = [
 
 ["film", ["The 355"], "2022", ["2024 12 21"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Simon Kinberg"], ["Jessica Chastain", "Penélope Cruz", "Bingbing Fan", "Diane Kruger", "Sebastian Stan", "Edgar Ramírez", "Sylvester Groth"], "https://64.media.tumblr.com/4af34c6b49d28a83d05224710fd77aaf/4c62f575e5f6a6a4-db/s250x400/05a76cc40f7f1667766e5bd8c26ba4bf1f47571a.jpg"],
 
-["film", ["Deadpool & Wolverine"], "2024", ["2024 12 24"], 6, ["ger"], ["action", "adventure"], [], ["X-Men", "Marvel", "Disney+"], ["Shawn Levy"], ["Ryan Reynolds", "Hugh Jackman", "Dafne Keen", "Matthew Macfadyen", "Morena Baccarin", "Rob Delaney", "Jennifer Garner", "Channing Tatum", "Chris Evans", "Henry Cavill", "Aaron Stanford", "Karan Soni", "Brianna Hildebrand"], "https://64.media.tumblr.com/a4d52608dc91e5bbc614fa1886e47c91/9fdf2bee962ddc72-0b/s250x400/d10cb7878ed8825f48fb5a4ff0da914336afbbd8.jpg"]
+["film", ["Deadpool & Wolverine"], "2024", ["2024 12 24"], 6, ["ger"], ["action", "adventure"], [], ["X-Men", "Marvel", "Disney+"], ["Shawn Levy"], ["Ryan Reynolds", "Hugh Jackman", "Dafne Keen", "Matthew Macfadyen", "Morena Baccarin", "Rob Delaney", "Jennifer Garner", "Channing Tatum", "Chris Evans", "Henry Cavill", "Aaron Stanford", "Karan Soni", "Brianna Hildebrand"], "https://64.media.tumblr.com/a4d52608dc91e5bbc614fa1886e47c91/9fdf2bee962ddc72-0b/s250x400/d10cb7878ed8825f48fb5a4ff0da914336afbbd8.jpg"],
+
+["film", ["The Dead Don't Die"], "2019", ["2024 12 25"], 4, ["ger"], ["comedy", "horror"], [], ["Netflix"], ["Jim Jarmusch"], ["Bill Murray", "Adam Driver", "Steve Buscemi", "Caleb Landry Jones", "Tilda Swinton", "Selena Gomez"], "https://64.media.tumblr.com/f0fc5871b7c59d810479bef0e6a83837/c4689a38e010e27d-46/s250x400/5d733c0fd5e45a55ed85d8a9e5d2d1cef8565fc5.jpg"],
+
+["film", ["French for Beginners", "Französisch für Anfänger"], "2006", ["2024 12 28"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Christian Ditter"], ["Paula Schramm", "Lennard Bertzbach", "Christian Tramitz"], "https://64.media.tumblr.com/547cfea3b1b6ca7cb59f25a43bb5fa20/c3f1f0cef8d3b89d-36/s250x400/5deb5ec44438bd6cfafd29c88671603ba8dd20f7.jpg"],
+
+["film", ["Things Heard & Seen"], "2021", ["2024 12 28"], 7, ["ger"], ["drama", "horror"], [], ["Netflix"], ["Shari Springer Berman", "Robert Pulcini"], ["Amanda Seyfried", "Natalia Dyer"], "https://64.media.tumblr.com/65a691f1743ab8255b2343667fcd5778/1ff98f429d18bc2b-b5/s250x400/9ba49afb5eff6e95ef9dc6ad83282425dc998d0a.jpg"]
 
 	/*
 ,
