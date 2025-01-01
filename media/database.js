@@ -662,7 +662,7 @@ var database = [
 	        
 ["film", ["Heavy Trip", "Heavy Trip", "Hevi reissu"], "2018", ["2020 05 31"], 6, ["ger"], ["comedy", "music"], ["syl", "je"], ["DVD"], ["Juuso Laatio", "Jukka Vidgren"], [], "https://66.media.tumblr.com/74693cbef6632708b889a9ab760da36a/ac02361d3d84cb1e-de/s250x400/432934756fe38c1ae41986f3f2a6cba3cab8cc3c.jpg"],
 	        
-["film", ["Every Day", "Letztendlich sind wir dem Universum egal"], "2018", ["2020 05 22"], 4, ["ger"], ["drama", "fantasy"], ["syl"], ["LGBT"], ["Michael Sucsy"], ["Angourie Rice", "Jeni Ross", "Lucas Jade Zumann", "Justice Smith", "Maria Bello"], "https://66.media.tumblr.com/0bfa9c19b7cb0ba0cf0511afa1e77f8d/e34dee8f5dc329bf-28/s250x400/7e39471427e2c327ebc5be055f02656bf5f8dd01.jpg"],
+["film", ["Every Day", "Letztendlich sind wir dem Universum egal"], "2018", ["2020 05 22"], 4, ["ger"], ["drama", "fantasy"], ["syl"], ["LGBT"], ["Michael Sucsy"], ["Angourie Rice", "Jeni Ross", "Lucas Jade Zumann", "Justice Smith", "Maria Bello", "Jacob Batalon"], "https://66.media.tumblr.com/0bfa9c19b7cb0ba0cf0511afa1e77f8d/e34dee8f5dc329bf-28/s250x400/7e39471427e2c327ebc5be055f02656bf5f8dd01.jpg"],
 	        
 ["film", ["To All the Boys: P.S. I Still Love You", "To All the Boys I've Loved Before 2"], "2020", ["2020 05 08"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Michael Fimognari"], ["Lana Condor", "Noah Centineo", "Jordan Fisher", "Anna Cathcart", "Ross Butler", "Holland Taylor", "Emilija Baranac", "Momona Tamada"], "https://66.media.tumblr.com/9e25c39bb7f9e1657a62ad3154442813/df0cf4bb7c0fe088-ce/s250x400/201f0cb2903604f92144b379d20a2fcd5142fdd1.jpg"],
 	        
@@ -928,7 +928,7 @@ var database = [
 	        
 ["film", ["Return to Nim's Island", "Die Rückkehr zur Insel der Abenteuer"], "2013", ["2016 05 29"], 4, ["ger"], ["adventure", "family"], [], [], ["Brendan Maher"], ["Bindi Irwin", "Toby Wallace"], "https://66.media.tumblr.com/a3915284b36d4cb24840fb33f52e5627/tumblr_o7y03q9Hm11v2s5upo1_250.jpg"],
 	        
-["film", ["Very Good Girls", "Very Good Girls - Die Liebe eines Sommers"], "2013", ["2016 05 19"], 7, ["ger"], ["drama", "romance"], [], [], ["Naomi Foner"], ["Dakota Fanning", "Elizabeth Olsen", "Peter Sarsgaard", "Boyd Holbrook"], "https://68.media.tumblr.com/3ef793e9ef1bd966c5f227a3f682a51c/tumblr_o7ha22aUeu1v2s5upo1_250.jpg"],
+["film", ["Very Good Girls", "Very Good Girls - Die Liebe eines Sommers"], "2013", ["2016 05 19"], 7, ["ger"], ["drama", "romance"], [], [], ["Naomi Foner"], ["Dakota Fanning", "Elizabeth Olsen", "Peter Sarsgaard", "Boyd Holbrook", "Kiernan Shipka"], "https://68.media.tumblr.com/3ef793e9ef1bd966c5f227a3f682a51c/tumblr_o7ha22aUeu1v2s5upo1_250.jpg"],
 	        
 ["film", ["The DUFF", "Duff: Hast du keine, bist du eine"], "2015", ["2016 05 13"], 8, ["ger"], ["comedy", "romance"], [], [], ["Ari Sandel"], ["Mae Whitman", "Robbie Amell", "Skyler Samuels", "Nick Eversman", "Ken Jeong", "Allison Janney", "Bella Thorne"], "https://66.media.tumblr.com/305931819a8c22125b3d42a306382f64/tumblr_o74issy9JA1v2s5upo1_250.jpg"],
 	        
@@ -1742,7 +1742,7 @@ var database = [
 
 ["film", ["The Breadwinner", "Der Brotverdiener"], "2017", ["2021 03 13"], 6, ["ger"], ["animation", "drama", "war"], [], ["Netflix"], ["Nora Twomey"], [], "https://64.media.tumblr.com/5094ab30126775a21e12825e12798ebe/f441f2a27202ba95-65/s250x400/902b158b3180a19484c19e30e20af50b8743dbdc.jpg"],
 
-["series", ["Locke & Key"], ["2020", "2022"], [["2021 03 14", "2021 03 28", "S1"], ["2021 11 01", "2021 11 19", "S2"], ["2022 08 07", "2022 08 16", "S1"], ["2022 08 21", "2022 09 11", "S2"], ["2022 09 11", "2022 09 26", "S3"], ["2024 12 29", "2024 12 31", "S1"], ["2025 01 01", "", "S2"]], 7, ["ger"], ["drama", "fantasy"], ["bini", "nico"], ["Netflix", "watching"], ["Meredith Averill", "Meredith Averill", "Aron Eli Coleite"], ["Darby Stanchfield", "Connor Jessup", "Emilia Jones", "Jackson Robert Scott", "Petrice Jones", "Bill Heck", "Griffin Gluck", "Kevin Durand", "Eric Graise"], "https://64.media.tumblr.com/fca4ec9110efd06d277632a31ce7d5c3/9fd830e62f280f00-ef/s250x400/08f87b1c54d5994aa1516aff3a2327da36ce6ddc.jpg"],/*S1: 6, S1: 6.8*/
+["series", ["Locke & Key"], ["2020", "2022"], [["2021 03 14", "2021 03 28", "S1"], ["2021 11 01", "2021 11 19", "S2"], ["2022 08 07", "2022 08 16", "S1"], ["2022 08 21", "2022 09 11", "S2"], ["2022 09 11", "2022 09 26", "S3"], ["2024 12 29", "2024 12 31", "S1"], ["2025 01 01", "", "S2"]], 7, ["ger"], ["drama", "fantasy"], ["bini", "nico"], ["Netflix", "watching"], ["Meredith Averill", "Meredith Averill", "Aron Eli Coleite"], ["Darby Stanchfield", "Connor Jessup", "Emilia Jones", "Jackson Robert Scott", "Petrice Jones", "Bill Heck", "Griffin Gluck", "Kevin Durand", "Eric Graise", "Hallea Jones"], "https://64.media.tumblr.com/fca4ec9110efd06d277632a31ce7d5c3/9fd830e62f280f00-ef/s250x400/08f87b1c54d5994aa1516aff3a2327da36ce6ddc.jpg"],/*S1: 6, S1: 6.8*/
 
 ["series", ["The Houseboat", "Das Hausboot"], "2021", [["2021 03 13", "2021 03 21", "S1"]], 5, ["ger"], ["documentary"], ["syl", "je", "bini"], ["Netflix"], [""], [], "https://64.media.tumblr.com/b3878fa50fd2d7d4286af2dd96bdfd06/5eb4e8a877f50e3f-08/s250x400/8fdcc5005f169eb2a6602ac6634f174a37c672b5.jpg"],
 
@@ -2950,7 +2950,7 @@ var database = [
 
 ["series", ["Pluto"], "2023", [["2024 04 01", "2024 04 29", "S1"]], 0, ["ger"], ["anime", "sci-fi"], ["bini", "nico"], ["Netflix"], ["Osamu Tezuka", "Naoki Urasawa"], [], "https://64.media.tumblr.com/7d36591a3744e898ed7d25f919a2e9a8/1114d8f74f952721-1c/s250x400/5efbb65f9eb4030a74f749a0f488be9325a419a6.jpg"],
 
-["film", ["Lift"], "2024", ["2024 04 11"], 7, ["ger"], ["action", "comedy"], [], ["Netflix"], ["F. Gary Gray"], ["Kevin Hart", "Vincent D'Onofrio", "Úrsula Corberó", "Jean Reno", "Burn Gorman"], "https://64.media.tumblr.com/400f5ea66b6b5de4bbccbc9f5ca5f1ae/b28e92859524cd7c-54/s250x400/ca69d606bbf1c03ef85a2e619c0901703e07e97c.jpg"],
+["film", ["Lift"], "2024", ["2024 04 11"], 7, ["ger"], ["action", "comedy"], [], ["Netflix"], ["F. Gary Gray"], ["Kevin Hart", "Vincent D'Onofrio", "Úrsula Corberó", "Jean Reno", "Burn Gorman", "Jacob Batalon"], "https://64.media.tumblr.com/400f5ea66b6b5de4bbccbc9f5ca5f1ae/b28e92859524cd7c-54/s250x400/ca69d606bbf1c03ef85a2e619c0901703e07e97c.jpg"],
 
 ["film", ["Are You There God? It's Me, Margaret.", "Bist du da, Gott? Ich bin's, Margaret"], "2023", ["2024 04 11"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Kelly Fremon Craig"], ["Rachel McAdams"], "https://64.media.tumblr.com/e59e3797fe0e5a947ec470c4ac6cf2dc/283dfb441da0dde5-6b/s250x400/88228dd51c64cd2673d9d7e1ebc072a8c14f4ab9.jpg"],
 
@@ -3152,7 +3152,15 @@ var database = [
 
 ["film", ["French for Beginners", "Französisch für Anfänger"], "2006", ["2024 12 28"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Christian Ditter"], ["Paula Schramm", "Lennard Bertzbach", "Christian Tramitz"], "https://64.media.tumblr.com/547cfea3b1b6ca7cb59f25a43bb5fa20/c3f1f0cef8d3b89d-36/s250x400/5deb5ec44438bd6cfafd29c88671603ba8dd20f7.jpg"],
 
-["film", ["Things Heard & Seen"], "2021", ["2024 12 28"], 7, ["ger"], ["drama", "horror"], [], ["Netflix"], ["Shari Springer Berman", "Robert Pulcini"], ["Amanda Seyfried", "Natalia Dyer"], "https://64.media.tumblr.com/65a691f1743ab8255b2343667fcd5778/1ff98f429d18bc2b-b5/s250x400/9ba49afb5eff6e95ef9dc6ad83282425dc998d0a.jpg"]
+["film", ["Things Heard & Seen"], "2021", ["2024 12 28"], 7, ["ger"], ["drama", "horror"], [], ["Netflix"], ["Shari Springer Berman", "Robert Pulcini"], ["Amanda Seyfried", "Natalia Dyer"], "https://64.media.tumblr.com/65a691f1743ab8255b2343667fcd5778/1ff98f429d18bc2b-b5/s250x400/9ba49afb5eff6e95ef9dc6ad83282425dc998d0a.jpg"],
+
+["film", ["Let It Snow", "Tage wie diese"], "2019", ["2024 12 28"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Luke Snellin"], ["Isabela Merced", "Odeya Rush", "Kiernan Shipka", "Jacob Batalon", "Joan Cusack", "Anna Akana", "Hallea Jones"], "https://64.media.tumblr.com/1bb909a92b2fd0cacc639c3644d338ae/9fb52f72717a4a80-f9/s250x400/17731fdcfe068535c598f1a6acd1d8385d46fe94.jpg"],
+
+["film", ["The Girl Next Door"], "2004", ["2024 12 29"], 6, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Luke Greenfield"], ["Timothy Olyphant", "Paul Dano"], "https://64.media.tumblr.com/d2ec0cea6975502942e23d1951ec6831/927084092d27b23e-68/s250x400/597a40fc2622f53a61591fba2fc81d8298c25718.jpg"],
+
+["film", ["Vampires Suck", "Beilight - Biss zum Abendbrot"], "2010", ["2024 12 29"], 4, ["ger"], ["comedy"], [], ["Disney+"], ["Jason Friedberg", "Aaron Seltzer"], ["Ken Jeong"], "https://64.media.tumblr.com/60a13561c4a5429edee63ed1e6b26045/23c1db162dedacee-ba/s250x400/04bf4f25c6dedaecfbea0d1ade58ce28ed3546b2.jpg"],
+
+["film", ["The Ridiculous 6", "Die lächerlichen Sechs"], "2015", ["2024 12 29"], 4, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Frank Coraci"], ["Adam Sandler", "Terry Crews", "Jorge Garcia", "Luke Wilson", "Steve Zahn", "Steve Buscemi"], "https://64.media.tumblr.com/e8f926141c5747bde0762cee50fa4651/025bb81d695ced04-2c/s250x400/5d02f29ee4f85915b66a12c4bd1a0665c5d65814.jpg"]
 
 	/*
 ,
