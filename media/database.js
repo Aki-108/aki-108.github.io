@@ -910,7 +910,7 @@ var database = [
 	        
 ["film", ["The F Word", "The F-Word"], "2013", ["2016 07 08"], 8, ["ger"], ["comedy", "romance"], [], [], ["Michael Dowse"], ["Daniel Radcliffe", "Zoe Kazan", "Adam Driver"], "https://66.media.tumblr.com/6c70884519cc03202838cf0fed9d21a7/tumblr_oa05ixc5DB1v2s5upo1_250.jpg"],
 	        
-["film", ["Zootopia", "Zoomania"], "2016", ["2016 06 29"], 6, ["ger"], ["animation", "adventure"], [], [], ["Byron Howard", "Rich Moore", "Jared Bush"], [], "https://68.media.tumblr.com/c1e7ff1ec44d0ec8b1da5cf4033ad427/tumblr_o9llty3OxE1v2s5upo1_250.jpg"],
+["film", ["Zootopia", "Zoomania"], "2016", ["2016 06 29", "2025 01 03"], 6, ["ger"], ["animation", "adventure"], [], ["Disney+"], ["Byron Howard", "Rich Moore", "Jared Bush"], [], "https://68.media.tumblr.com/c1e7ff1ec44d0ec8b1da5cf4033ad427/tumblr_o9llty3OxE1v2s5upo1_250.jpg"],
 	        
 ["film", ["Orphan", "Orphan - Das Waisenkind"], "2009", ["2016 06 20", "2016 07 02", "2016 07 10", "2016 12 05", "2021 12 28"], 7, ["ger"], ["horror", "mystery"], ["bini"], ["bby", "DVD"], ["Jaume Collet-Serra"], ["Peter Sarsgaard", "Isabelle Fuhrman", "CCH Pounder", "Vera Farmiga"], "https://66.media.tumblr.com/77030656f845b49936c308b742d82dac/tumblr_o92y034WXY1v2s5upo1_250.jpg"], /*erstbewertung: 10*/
 	        
