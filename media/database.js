@@ -331,7 +331,7 @@ var database = [
 	        
 ["film", ["Nerve"], "2016", ["2017 01 23"], 6, ["ger"], ["adventure", "crime"], [], [], ["Henry Joost", "Ariel Schulman"], ["Emma Roberts", "Dave Franco", "Samira Wiley", "Casey Neistat", "Miles Heizer"], "https://68.media.tumblr.com/df54a4ed23cbe1738a7c346bfa8e4782/tumblr_okc8orMOiT1v2s5upo1_250.jpg"],
 	        
-["film", ["Jurassic World"], "2015", ["2017 01 24", "2019 04 27"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Jurassic Park"], ["Colin Trevorrow"], ["Chris Pratt", "Vincent D'Onofrio", "Jake Johnson", "Omar Sy", "Judy Greer", "BD Wong", "Nick Robinson", "Irrfan Khan", "Katie McGrath", "Bryce Dallas Howard", "Lauren Lapkus"], "https://68.media.tumblr.com/192dd7ebda074ade64f0bc5b5aceb29e/tumblr_okjlsiKiZK1v2s5upo1_250.jpg"],
+["film", ["Jurassic World"], "2015", ["2017 01 24", "2019 04 27", "2025 01 19"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl", "je"], ["Jurassic Park", "Netflix"], ["Colin Trevorrow"], ["Chris Pratt", "Vincent D'Onofrio", "Jake Johnson", "Omar Sy", "Judy Greer", "BD Wong", "Nick Robinson", "Irrfan Khan", "Katie McGrath", "Bryce Dallas Howard", "Lauren Lapkus"], "https://68.media.tumblr.com/192dd7ebda074ade64f0bc5b5aceb29e/tumblr_okjlsiKiZK1v2s5upo1_250.jpg"],
 	        
 ["film", ["Once"], "2007", ["2017 01 30", "2022 08 19"], 8, ["ger"], ["drama", "music", "romance"], ["syl"], ["DVD"], ["John Carney"], [], "https://68.media.tumblr.com/1ceaa86559b1a5833900a857847214f0/tumblr_oklwsdRnuh1v2s5upo1_250.jpg"],
 	        
@@ -894,9 +894,9 @@ var database = [
 	        
 ["film", ["A Clockwork Orange", "Uhrwerk Orange"], "1971", ["2016 08 19"], 8, ["ger"], ["crime", "drama"], [], [], ["Stanley Kubrick"], ["Malcolm McDowell"], "https://68.media.tumblr.com/d9549beb63328ea8e846d6cfcc129c14/tumblr_oc5wqv0JLZ1v2s5upo1_250.jpg"],
 	        
-["film", ["Addams Family Values", "Die Addams Family in verrückter Tradition"], "1993", ["2016 08 19", "2017 04 16"], 9, ["ger"], ["comedy", "fantasy"], [], ["bby"], ["Barry Sonnenfeld"], ["Anjelica Huston", "Joan Cusack", "Christina Ricci", "Tony Shalhoub", "Carel Struycken"], "https://66.media.tumblr.com/f2118bddeb6e01d3b3c0c656cab3f1d9/tumblr_oc5whsPtHQ1v2s5upo1_250.jpg"],
+["film", ["Addams Family Values", "Die Addams Family in verrückter Tradition"], "1993", ["2016 08 19", "2017 04 16"], 9, ["ger"], ["comedy", "fantasy"], [], ["bby"], ["Barry Sonnenfeld"], ["Anjelica Huston", "Joan Cusack", "Christina Ricci", "Tony Shalhoub", "Carel Struycken", "Christopher Lloyd"], "https://66.media.tumblr.com/f2118bddeb6e01d3b3c0c656cab3f1d9/tumblr_oc5whsPtHQ1v2s5upo1_250.jpg"],
 	        
-["film", ["The Addams Family", "Die Addams Family"], "1991", ["2016 08 17"], 7, ["ger"], ["comedy", "fantasy"], [], ["bby"], ["Barry Sonnenfeld"], ["Anjelica Huston", "Christina Ricci", "Carel Struycken"], "https://66.media.tumblr.com/05eeacc2b74df121d74ae629e382d374/tumblr_oc2jdzhNpG1v2s5upo1_250.jpg"],
+["film", ["The Addams Family", "Die Addams Family"], "1991", ["2016 08 17"], 7, ["ger"], ["comedy", "fantasy"], [], ["bby"], ["Barry Sonnenfeld"], ["Anjelica Huston", "Christina Ricci", "Carel Struycken", "Christopher Lloyd"], "https://66.media.tumblr.com/05eeacc2b74df121d74ae629e382d374/tumblr_oc2jdzhNpG1v2s5upo1_250.jpg"],
 	        
 ["film", ["Let's Be Evil"], "2016", ["2016 08 13", "2017 10 10"], 6, ["eng"], ["horror", "sci-fi"], [], ["Netflix"], ["Martin Owen"], ["Elizabeth Morris"], "https://68.media.tumblr.com/df71a78d4180d65f56e29ad0a425a190/tumblr_obuqhe5Amh1v2s5upo1_250.jpg"],
 	        
@@ -1336,7 +1336,7 @@ var database = [
 	        
 ["film", ["Shaun the Sheep Movie", "Shaun das Schaf - Der Film"], "2015", ["2017 08 20"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl"], [], ["Mark Burton", "Richard Starzak"], [], "https://66.media.tumblr.com/59ef436b9c93433054b57aab12e159e0/tumblr_pxrg3l15zf1v2s5upo1_250.jpg"],
 	        
-["film", ["A Million Ways to Die in the West", "A Million Ways To Die In The West"], "2014", ["2017 07 18"], 2, ["ger"], ["comedy", "western"], [], ["dropped"], ["Seth MacFarlane"], ["Amanda Seyfried", "Giovanni Ribisi", "Neil Patrick Harris", "John Michael Higgins", "Ryan Reynolds", "Mae Whitman", "Ewan McGregor", "Charlize Theron"], "https://66.media.tumblr.com/e97c0bb242864440c2466af33b4b86f5/tumblr_pxnkbvYJJy1v2s5upo1_250.jpg"],
+["film", ["A Million Ways to Die in the West", "A Million Ways To Die In The West"], "2014", ["2017 07 18"], 2, ["ger"], ["comedy", "western"], [], ["dropped"], ["Seth MacFarlane"], ["Amanda Seyfried", "Giovanni Ribisi", "Neil Patrick Harris", "John Michael Higgins", "Ryan Reynolds", "Mae Whitman", "Ewan McGregor", "Charlize Theron", "Christopher Lloyd"], "https://66.media.tumblr.com/e97c0bb242864440c2466af33b4b86f5/tumblr_pxnkbvYJJy1v2s5upo1_250.jpg"],
 	        
 ["film", ["Central Intelligence"], "2016", ["2017 07 06"], 5, ["ger"], ["action", "comedy"], [], ["Schule"], ["Rawson Marshall Thurber"], ["Dwayne Johnson", "Kevin Hart", "Jason Bateman", "Aaron Paul"], "https://66.media.tumblr.com/9f093ced17b179c56ab64b0e590886ae/tumblr_ppuvxgQHe01v2s5upo1_250.jpg"],
 	        
@@ -1514,7 +1514,7 @@ var database = [
 	        
 ["film", ["Die Feuerzangenbowle"], "1944", ["2017 12 20"], 6, ["ger"], ["comedy"], [], ["Schule"], ["Helmut Weiss"], [], "https://66.media.tumblr.com/8e29c18b3a25115f7dc328df1f731112/tumblr_pyv14dONDH1v2s5upo1_250.jpg"],
 
-["film", ["Suicide Squad"], "2016", ["2018 07 15"], 6, ["ger"], ["action", "adventure", "sci-fi"], ["nico"], ["Netflix"], ["David Ayer"], ["Will Smith", "Cara Delevingne", "Margot Robbie", "David Harbour", "Scott Eastwood", "Ike Barinholtz", "Jai Courtney", "Jared Leto", "Ben Affleck"], "https://66.media.tumblr.com/421f26e9ea5188dec595e2d4ab38c04c/12e861d9046b93f6-91/s250x400/ab3f7a4448815f4d76dbd2774d3c573fba07bd4a.jpg"],
+["film", ["Suicide Squad"], "2016", ["2018 07 15"], 6, ["ger"], ["action", "adventure", "sci-fi"], ["nico"], ["Netflix"], ["David Ayer"], ["Will Smith", "Cara Delevingne", "Margot Robbie", "David Harbour", "Scott Eastwood", "Ike Barinholtz", "Jai Courtney", "Jared Leto", "Ben Affleck", "Viola Davis"], "https://66.media.tumblr.com/421f26e9ea5188dec595e2d4ab38c04c/12e861d9046b93f6-91/s250x400/ab3f7a4448815f4d76dbd2774d3c573fba07bd4a.jpg"],
 
 ["film", ["The Chronicles of Narnia: The Voyage of the Dawn Treader", "Die Chroniken von Narnia - Die Reise auf der Morgenröte"], "2010", ["2019 04 06", "2021 12 22"], 7, ["ger"], ["adventure", "family"], [], ["Narnia", "Netflix", "Disney+"], ["Michael Apted"], ["Georgie Henley", "Skandar Keynes", "Ben Barnes", "Will Poulter", "Tilda Swinton", "Anna Popplewell"], "https://66.media.tumblr.com/24f7268b3298dbf4c4ae1a9122a2f3dd/0256992eb45e03c8-21/s250x400/bbb6924c2653086ef668b58fdb3f53e157a57de1.jpg"],
 
@@ -2792,7 +2792,7 @@ var database = [
 
 ["series", ["Toilet-Bound Hanako-kun", "Jibaku Shounen Hanako-kun", "Jibaku Shounen Hanako-kun"], "2020", [["2023 11 20", "2023 12 18", "S1"]], 6, ["ger"], ["anime", "comedy", "supernatural"], ["bini", "nico"], [], ["Iro Aida", "Leah Clark", "Yasuhiro Nakanishi"], [], "https://64.media.tumblr.com/b463e5aeaa179890387de41b69a5087a/463f7646be245d98-b6/s250x400/0814a3824ad0be74a35f44db60634930ebb6c742.jpg"],
 
-["film", ["The Hunger Games: The Ballad of Songbirds & Snakes", "Die Tribute von Panem: The Ballad of Songbirds and Snakes"], "2023", ["2023 11 25"], 6, ["ger"], ["action", "adventure"], ["bini", "je"], ["Kino", "Hunger Games"], ["Francis Lawrence"], ["Fionnula Flanagan", "Flora Li Thiemann", "Jason Schwartzman", "Rachel Zegler", "Josh Andrés Rivera"], "https://64.media.tumblr.com/779dd9713bb09d2b009655b9bf41d2b3/96683391f2f1cefe-10/s250x400/d9fe6af752dc825f36ad04c1f6b75415e055350f.jpg"],
+["film", ["The Hunger Games: The Ballad of Songbirds & Snakes", "Die Tribute von Panem: The Ballad of Songbirds and Snakes"], "2023", ["2023 11 25"], 6, ["ger"], ["action", "adventure"], ["bini", "je"], ["Kino", "Hunger Games"], ["Francis Lawrence"], ["Fionnula Flanagan", "Flora Li Thiemann", "Jason Schwartzman", "Rachel Zegler", "Josh Andrés Rivera", "Viola Davis"], "https://64.media.tumblr.com/779dd9713bb09d2b009655b9bf41d2b3/96683391f2f1cefe-10/s250x400/d9fe6af752dc825f36ad04c1f6b75415e055350f.jpg"],
 
 ["series", ["Scott Pilgrim Takes Off", "Scott Pilgrim hebt ab"], "2023", [["2023 11 26", "S1"]], 7, ["ger"], ["animation", "action", "comedy"], [], ["Netflix"], ["BenDavid Grabinski", "Bryan Lee O'Malley"], [], "https://64.media.tumblr.com/1e39c212669001ee8f879a3ca2dc4d81/cdebcf44e0fe3f2f-83/s250x400/fd3aa4466f79ddbcc9ccf46e249bf95212d292a9.jpg"],
 
@@ -2896,7 +2896,7 @@ var database = [
 
 ["film", ["Instant Family", "Plötzlich Familie"], "2018", ["2024 02 17"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Sean Anders"], ["Mark Wahlberg", "Rose Byrne", "Isabela Merced", "Tig Notaro", "Joan Cusack"], "https://64.media.tumblr.com/24a17e2fd63a7e011ef16ab6786c7f25/bdbb84e03e13f198-95/s250x400/50250accd1b12e53f6eef5b8ece677ab00c298c4.jpg"],
 
-["film", ["Back to the Future", "Zurück in die Zukunft"], "1985", ["2024 02 17"], 7, ["ger"], ["adventure", "comedy","sci-fi"], [], ["Netflix"], ["Robert Zemeckis"], [], "https://64.media.tumblr.com/4d93097d61a834afad23b89a93d64ce6/5a3a88097d7e1872-14/s250x400/5a0b779509dc7af9504e7ef90764ac173e8ef3c9.jpg"],
+["film", ["Back to the Future", "Zurück in die Zukunft"], "1985", ["2024 02 17"], 7, ["ger"], ["adventure", "comedy","sci-fi"], [], ["Netflix"], ["Robert Zemeckis"], ["Michael J. Fox"], "https://64.media.tumblr.com/4d93097d61a834afad23b89a93d64ce6/5a3a88097d7e1872-14/s250x400/5a0b779509dc7af9504e7ef90764ac173e8ef3c9.jpg"],
 
 ["film", ["The Men Who Stare at Goats", "Männer, die auf Ziegen starren"], "2009", ["2024 02 18"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Grant Heslov"], ["George Clooney", "Ewan McGregor", "Jeff Bridges", "Stephen Lang", "Kevin Spacey"], "https://64.media.tumblr.com/20568a2e03c21b295c01332a678fc375/af85ab19eb9c6625-26/s250x400/9a6fe6c9abd27d9d06bd43798fee078862ff000c.jpg"],
 
@@ -2986,7 +2986,7 @@ var database = [
 
 ["film", ["Giant Little Ones"], "2018", ["2024 05 20"], 7, ["ger"], ["drama"], [], ["bibliothek"], ["Keith Behrman"], ["Maria Bello", "Kyle MacLachlan"], "https://64.media.tumblr.com/b44887bb95e9bd7091f49bddfbad42f1/c725874f856ffb69-09/s250x400/a118364c3f441add298f223d00b47131aeb3d611.jpg"],
 
-["film", ["Disturbia", "Disturbia - Auch Killer haben Nachbarn"], "2007", ["2024 05 25"], 7, ["ger"], ["thriller", "crime", "drama"], [], ["Netflix"], ["D.J. Caruso"], ["Shia LaBeouf", "Carrie-Anne Moss"], "https://64.media.tumblr.com/c4bc473a599590c1d4f053a78d1af8ee/0ee0eb5926f8712a-9c/s250x400/9ced9602fef46d3bd4dadb24180b4687e9b1a326.jpg"],
+["film", ["Disturbia", "Disturbia - Auch Killer haben Nachbarn"], "2007", ["2024 05 25"], 7, ["ger"], ["thriller", "crime", "drama"], [], ["Netflix"], ["D.J. Caruso"], ["Shia LaBeouf", "Carrie-Anne Moss", "Viola Davis"], "https://64.media.tumblr.com/c4bc473a599590c1d4f053a78d1af8ee/0ee0eb5926f8712a-9c/s250x400/9ced9602fef46d3bd4dadb24180b4687e9b1a326.jpg"],
 
 ["film", ["Belle", "Belle", "Ryuu to Sobakasu no Hime"], "2021", ["2024 05 25"], 6, ["ger"], ["anime", "adventure", "drama"], ["bini", "syl"], ["bibliothek"], ["Mamoru Hosoda"], [], "https://64.media.tumblr.com/9a91a44df60625bc343dc8cab4101a62/dba0d0be43ce1d2f-10/s250x400/8b9bbab22777aeab2d3f3d1b12c402a784d18390.jpg"],
 
@@ -3114,7 +3114,7 @@ var database = [
 
 ["film", ["Don't Move"], "2024", ["2024 11 01"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Brian Netto", "Adam Schindler"], ["Finn Wittrock"], "https://64.media.tumblr.com/7dc2786a0207bf44d3c37dca4d125ceb/e7e851c1fcc67950-74/s250x400/9bb11d68c6bab9f290c91fab9b04548c9cf60faf.jpg"],
 
-["film", ["Law Abiding Citizen", "Gesetz der Rache"], "2009", ["2024 11 01"], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["F. Gary Gray"], ["Jamie Foxx", "Gerard Butler", "Bruce McGill"], "https://64.media.tumblr.com/bbca779c849259678a255dc841763b5f/a1e2822c655d7716-a2/s250x400/1ff9ba38251889fce9e9416de65f1628a1433440.jpg"],
+["film", ["Law Abiding Citizen", "Gesetz der Rache"], "2009", ["2024 11 01"], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["F. Gary Gray"], ["Jamie Foxx", "Gerard Butler", "Bruce McGill", "Viola Davis"], "https://64.media.tumblr.com/bbca779c849259678a255dc841763b5f/a1e2822c655d7716-a2/s250x400/1ff9ba38251889fce9e9416de65f1628a1433440.jpg"],
 
 ["film", ["The Mummy Returns", "Die Mumie kehrt zurück"], "2001", ["2024 11 02"], 4, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Stephen Sommers"], ["Rachel Weisz", "Dwayne Johnson"], "https://64.media.tumblr.com/08653cea0a6df5c09cb450e418ee25ab/1314383fcd329d69-94/s250x400/b4738d57b3937bb73687c84a1af358ac7ca61540.jpg"],
 
@@ -3122,7 +3122,7 @@ var database = [
 
 ["film", ["Jason Bourne"], "2016", ["2024 11 03"], 7, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Paul Greengrass"], ["Matt Damon", "Tommy Lee Jones", "Alicia Vikander", "Julia Stiles"], "https://64.media.tumblr.com/51e95f3f46419d7ffeb2c197364a1cc5/88a54e25bce44e4d-c1/s250x400/47c0a68dfd0370495defa21437dce726d8d0f311.jpg"],
 
-["book", ["A Good Girl's Guide to Murder"], "2019", [["2024 11 04", ""]], 0, ["ger"], ["young adult", "mystery", "crime"], [], ["watching"], ["Holly Jackson"], [], "https://64.media.tumblr.com/ec0dde7a22c7b898b411b3dd74cfe596/329c65c9699d5ad3-13/s250x400/4cf05d2e2ee57c7768aa36b152ca1eb34b91a93a.jpg"],
+["book", ["A Good Girl's Guide to Murder"], "2019", [["2024 11 04", "2025 01 16"]], 9, ["ger"], ["young adult", "mystery", "crime"], [], [], ["Holly Jackson"], [], "https://64.media.tumblr.com/ec0dde7a22c7b898b411b3dd74cfe596/329c65c9699d5ad3-13/s250x400/4cf05d2e2ee57c7768aa36b152ca1eb34b91a93a.jpg"],
 
 ["film", ["Get Out"], "2017", ["2024 11 17"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Jordan Peele"], ["Catherine Keener", "Bradley Whitford", "Caleb Landry Jones"], "https://64.media.tumblr.com/163c577b8f984aa8b3ffccbd3e0ba9cc/f4c5d13b668e2728-a3/s250x400/c414af70bd155da53569cd4f6c660f01a3570d15.jpg"],
 
@@ -3170,7 +3170,13 @@ var database = [
 
 ["series", ["Wolf's Rain"], "2003", [["2025 01 06", "", "S1"]], 0, ["ger"], ["anime", "action", "adventure"], ["bini", "nico"], ["watching"], ["Keiko Nobumoto"], [], "https://64.media.tumblr.com/0a7f11326d452744917bddbcbe46f777/ad2a5f7143649322-03/s250x400/53c9f2408b6718323f4483f0259b8043788e9e73.jpg"],
 
-["audiobook", ["La Belle Sauvage", "Über den wilden Fluss"], "2017", [["2025 01 10", ""]], 0, ["ger"], ["fantasy"], [], ["His Dark Materials", "bibliothek", "watching"], ["Philip Pullman"], ["Rufus Beck"], "https://64.media.tumblr.com/6cb1de79337448588335ce9d25734f30/7bc6546ace134a8c-48/s250x400/851436fb33ae4970db2e17f7bdc66b33cb82ba0f.jpg"]
+["audiobook", ["La Belle Sauvage", "Über den wilden Fluss"], "2017", [["2025 01 10", ""]], 0, ["ger"], ["fantasy"], [], ["His Dark Materials", "bibliothek", "watching"], ["Philip Pullman"], ["Rufus Beck"], "https://64.media.tumblr.com/6cb1de79337448588335ce9d25734f30/7bc6546ace134a8c-48/s250x400/851436fb33ae4970db2e17f7bdc66b33cb82ba0f.jpg"],
+
+["series", ["What We Do in the Shadows"], ["2019", "2024"], [["2025 01 18", "S1E1"]], 0, ["ger"], ["comedy", "fantasy"], [], ["Disney+", "dropped"], ["Wally Baram", "Jake Bender"], [], "https://64.media.tumblr.com/1fe3ed92eb7d080d149f6d4c356a5ab2/554ab2818f9722c1-1f/s250x400/89dd670b291035ae55bbfab0269cd138f02dfd83.jpg"],
+
+["film", ["Knight and Day"], "2010", ["2025 01 18"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["James Mangold"], ["Tom Cruise", "Cameron Diaz", "Peter Sarsgaard", "Paul Dano", "Viola Davis"], "https://64.media.tumblr.com/41db4e116aa818abfe82fa3f778a1715/ffc71892f3e1dfa3-00/s250x400/8d68d56ad1b1456a011ccc136f61867827f0d95a.jpg"],
+
+["film", ["Back to the Future Part II", "Zurück in die Zukunft II"], "1989", ["2025 01 18"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Robert Zemeckis"], ["Michael J. Fox"], "https://64.media.tumblr.com/7209747b9f7d9f5bee64a2ca4ea1a88f/922dc6ddbc0bc84a-3e/s250x400/cbb9aa1962b9d8cb5cefecb52e313ee71df837a0.jpg"]
 
 	/*
 ,
