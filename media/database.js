@@ -3170,13 +3170,15 @@ var database = [
 
 ["series", ["Wolf's Rain"], "2003", [["2025 01 06", "", "S1"]], 0, ["ger"], ["anime", "action", "adventure"], ["bini", "nico"], ["watching"], ["Keiko Nobumoto"], [], "https://64.media.tumblr.com/0a7f11326d452744917bddbcbe46f777/ad2a5f7143649322-03/s250x400/53c9f2408b6718323f4483f0259b8043788e9e73.jpg"],
 
-["audiobook", ["La Belle Sauvage", "Über den wilden Fluss"], "2017", [["2025 01 10", ""]], 0, ["ger"], ["fantasy"], [], ["His Dark Materials", "bibliothek", "watching"], ["Philip Pullman"], ["Rufus Beck"], "https://64.media.tumblr.com/6cb1de79337448588335ce9d25734f30/7bc6546ace134a8c-48/s250x400/851436fb33ae4970db2e17f7bdc66b33cb82ba0f.jpg"],
+["audiobook", ["La Belle Sauvage", "Über den wilden Fluss"], "2017", [["2025 01 10", "2025 01 24"]], 7, ["ger"], ["fantasy"], [], ["His Dark Materials", "bibliothek"], ["Philip Pullman"], ["Rufus Beck"], "https://64.media.tumblr.com/6cb1de79337448588335ce9d25734f30/7bc6546ace134a8c-48/s250x400/851436fb33ae4970db2e17f7bdc66b33cb82ba0f.jpg"],
 
 ["series", ["What We Do in the Shadows"], ["2019", "2024"], [["2025 01 18", "S1E1"]], 0, ["ger"], ["comedy", "fantasy"], [], ["Disney+", "dropped"], ["Wally Baram", "Jake Bender"], [], "https://64.media.tumblr.com/1fe3ed92eb7d080d149f6d4c356a5ab2/554ab2818f9722c1-1f/s250x400/89dd670b291035ae55bbfab0269cd138f02dfd83.jpg"],
 
 ["film", ["Knight and Day"], "2010", ["2025 01 18"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["James Mangold"], ["Tom Cruise", "Cameron Diaz", "Peter Sarsgaard", "Paul Dano", "Viola Davis"], "https://64.media.tumblr.com/41db4e116aa818abfe82fa3f778a1715/ffc71892f3e1dfa3-00/s250x400/8d68d56ad1b1456a011ccc136f61867827f0d95a.jpg"],
 
-["film", ["Back to the Future Part II", "Zurück in die Zukunft II"], "1989", ["2025 01 18"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Robert Zemeckis"], ["Michael J. Fox"], "https://64.media.tumblr.com/7209747b9f7d9f5bee64a2ca4ea1a88f/922dc6ddbc0bc84a-3e/s250x400/cbb9aa1962b9d8cb5cefecb52e313ee71df837a0.jpg"]
+["film", ["Back to the Future Part II", "Zurück in die Zukunft II"], "1989", ["2025 01 18"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Robert Zemeckis"], ["Michael J. Fox"], "https://64.media.tumblr.com/7209747b9f7d9f5bee64a2ca4ea1a88f/922dc6ddbc0bc84a-3e/s250x400/cbb9aa1962b9d8cb5cefecb52e313ee71df837a0.jpg"],
+
+["book", ["Green Witch"], "2019", [["2025 01 21", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Andrea Russo"], [], "https://64.media.tumblr.com/13a7ad4710693b247a8563e459926350/d26a3fa02c8d10e4-67/s250x400/9cf500615e55e0fc5e4103b9c595e33bbb27eca0.jpg"]
 
 	/*
 ,
