@@ -1096,7 +1096,7 @@ var database = [
 	        
 ["film", ["Léon", "Léon: Der Profi"], "1994", ["2015 10 05", "2017 06 10"], 9, ["ger"], ["action", "crime"], ["bini"], [], ["Luc Besson"], ["Jean Reno", "Gary Oldman", "Natalie Portman"], "https://66.media.tumblr.com/4eb8c96f9dd91511df0c0b42d6020087/tumblr_o7n7anEJJv1v2s5upo1_250.jpg"],
 	        
-["film", ["Kal Ho Naa Ho", "Indian Love Story - Kal Ho Naa Ho"], "2003", ["2015 10 13", "2021 12 30"], 7, ["ger"], ["comedy", "drama", "bollywood"], ["bini"], ["DVD"], ["Nikkhil Advani"], ["Shah Rukh Khan", "Sonali Bendre"], "https://66.media.tumblr.com/fa97aade2783dadd0e6f37e80ee9d2f7/tumblr_ppxzwbAISQ1v2s5upo1_250.jpg"],
+["film", ["Kal Ho Naa Ho", "Indian Love Story - Kal Ho Naa Ho"], "2003", ["2015 10 13", "2021 12 30", "2025 01 26"], 7, ["ger"], ["comedy", "drama", "bollywood"], ["bini"], ["DVD"], ["Nikkhil Advani"], ["Shah Rukh Khan", "Sonali Bendre"], "https://66.media.tumblr.com/fa97aade2783dadd0e6f37e80ee9d2f7/tumblr_ppxzwbAISQ1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Taste of Apple Seeds", "Der Geschmack von Apfelkernen"], "2013", ["2015 10 16"], 5, ["ger"], ["drama"], [], [], ["Vivian Naefe"], ["Hannah Herzsprung", "Zoe Moore"], "https://68.media.tumblr.com/e6ca21b973e84d36883546c9f0dc5c43/tumblr_oov2lnvYGR1v2s5upo1_250.jpg"],
 	        
