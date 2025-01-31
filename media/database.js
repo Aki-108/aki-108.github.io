@@ -351,7 +351,7 @@ var database = [
 	        
 ["film", ["The Walk"], "2015", ["2017 10 26"], 7, ["ger"], ["adventure", "biography"], [], ["Netflix"], ["Robert Zemeckis"], ["Joseph Gordon-Levitt", "Ben Kingsley", "Charlotte Le Bon"], "https://66.media.tumblr.com/764d97b4a28744ce992be1ba95d22d9a/tumblr_py7vpvHz8R1v2s5upo1_250.jpg"],
 	        
-["film", ["The Perks of Being a Wallflower", "Vielleicht lieber morgen"], "2012", ["2017 11 22"], 9, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Stephen Chbosky"], ["Johnny Simmons", "Emma Watson", "Joan Cusack", "Kate Walsh", "Logan Lerman", "Mae Whitman", "Paul Rudd", "Nina Dobrev", "Logan Lerman"], "https://66.media.tumblr.com/993796638f9b7c93316a8a993ca05ccf/tumblr_pyefmgAgvd1v2s5upo1_250.jpg"],
+["film", ["The Perks of Being a Wallflower", "Vielleicht lieber morgen"], "2012", ["2017 11 22"], 9, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Stephen Chbosky"], ["Johnny Simmons", "Emma Watson", "Joan Cusack", "Kate Walsh", "Logan Lerman", "Mae Whitman", "Paul Rudd", "Nina Dobrev", "Logan Lerman", "Melanie Lynskey"], "https://66.media.tumblr.com/993796638f9b7c93316a8a993ca05ccf/tumblr_pyefmgAgvd1v2s5upo1_250.jpg"],
 	        
 ["series", ["The Weekenders", "Disneys Wochenend-Kids"], ["2000", "2004"], ["2015 05 27", "2016 10 20"], 9, ["ger"], ["animation", "comedy"], [], [], ["Doug Langdale"], [], "https://66.media.tumblr.com/1e12113b066f40e5123afb60d500a3a5/tumblr_of327bfUJf1v2s5upo1_r2_250.jpg"],
 	        
@@ -377,7 +377,7 @@ var database = [
 	        
 ["series", ["Atypical"], ["2017", "2021"], [["2017 12 29", "2018 01 01", "S1"], ["2018 09 07", "2018 09 08", "S2"], ["2019 11 01", "2019 11 16", "S3"], ["2020 07 09", "2020 07 16", "S1"], ["2020 07 16", "2020 07 18", "S2"], ["2020 07 18", "2020 07 20", "S3"], ["2021 07 16", "2021 07 28", "S4"]], 8, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Robia Rashid"], ["Keir Gilchrist", "Jennifer Jason Leigh", "Brigette Lundy-Paine", "Michael Rapaport", "Nik Dodani", "Amy Okuda", "Sara Gilbert", "Raúl Castillo", "Megan Suri"], "https://66.media.tumblr.com/061499d98f1a404ceb3cb290ec08e58c/bdaa33086c3fdc3d-e2/s250x400/57c82fdf9d317f70486282f02a4c7da7925edf67.jpg"],
 	        
-["series", ["Girlboss"], "2017", [["2018 01 10", "2018 01 21", "S1"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Kay Cannon"], ["Johnny Simmons", "Dean Norris", "Britt Robertson"], "https://66.media.tumblr.com/aa0af156b2442fa58f69815b03f895be/c571ce21637e84b9-a2/s250x400/361be4d6838b0b47071a95bef200427e26fe9b20.jpg"],
+["series", ["Girlboss"], "2017", [["2018 01 10", "2018 01 21", "S1"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Kay Cannon"], ["Johnny Simmons", "Dean Norris", "Britt Robertson", "Melanie Lynskey"], "https://66.media.tumblr.com/aa0af156b2442fa58f69815b03f895be/c571ce21637e84b9-a2/s250x400/361be4d6838b0b47071a95bef200427e26fe9b20.jpg"],
 	        
 ["series", ["Money Heist", "Haus des Geldes", "La Casa de Papel"], ["2017", "2021"], [/*["2018 02 09", "2018 02 10", "S1 - S2"]*/["2018 02 09", "2018 02 10", "S1"], ["2018 04 11", "2018 04 15", "S2"], ["2019 07 22", "2019 07 26", "S3"], ["2020 05 22", "2020 05 23", "S4"], ["2021 09 06", "2021 09 11", "S5E1-E5"], ["2021 12 09", "2021 12 28", "S5E6-S5E10"]], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["Álex Pina"], ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño", "Pedro Alonso", "Miguel Herrán", "Jaime Lorente", "Esther Acebo", "Enrique Arce", "Darko Peric", "Alba Flores", "Rodrigo De la Serna", "Miguel Ángel Silvestre"], "https://66.media.tumblr.com/2ce7367fd5753cc03b95df9b7775419e/8bb4ebe063f69423-c4/s250x400/72bdf60d06590238da922be712cf24058c903ffb.jpg"],
 	        
@@ -748,7 +748,7 @@ var database = [
 	        
 ["film", ["Monster House"], "2006", ["2017 10 31"], 6, ["ger"], ["animation", "comedy", "horror"], ["bini", "nico", "sai", "jessie"], ["Netflix"], ["Gil Kenan"], [], "https://66.media.tumblr.com/6f0da5aa05bce6187230f6823c99f351/tumblr_py7vrzOlss1v2s5upo1_250.jpg"],
 	        
-["film", ["Kingsman: The Golden Circle"], "2017", ["2017 10 25"], 8, ["ger"], ["action", "adventure"], ["je", "syl"], ["Kino"], ["Matthew Vaughn"], ["Taron Egerton", "Mark Strong", "Hanna Alström", "Julianne Moore", "Colin Firth", "Elton John", "Halle Berry", "Edward Holcroft", "Bruce Greenwood", "Poppy Delevingne", "Channing Tatum"], "https://66.media.tumblr.com/74ee32181531a812107b28237f3e32f9/tumblr_py7vo3upAv1v2s5upo1_250.jpg"],
+["film", ["Kingsman: The Golden Circle"], "2017", ["2017 10 25"], 8, ["ger"], ["action", "adventure"], ["je", "syl"], ["Kino"], ["Matthew Vaughn"], ["Taron Egerton", "Mark Strong", "Hanna Alström", "Julianne Moore", "Colin Firth", "Elton John", "Halle Berry", "Edward Holcroft", "Bruce Greenwood", "Poppy Delevingne", "Channing Tatum", "Pedro Pascal"], "https://66.media.tumblr.com/74ee32181531a812107b28237f3e32f9/tumblr_py7vo3upAv1v2s5upo1_250.jpg"],
 	        
 ["film", ["Memento"], "2000", ["2017 10 21"], 8, ["ger"], ["mystery", "thriller"], [], ["Netflix"], ["Christopher Nolan"], ["Carrie-Anne Moss"], "https://66.media.tumblr.com/43a64523f24563f2c5a27733e605d7a7/tumblr_pxxeihgpJj1v2s5upo1_250.jpg"],
 	        
@@ -1272,7 +1272,7 @@ var database = [
 	        
 ["film", ["Laggies", "Grow Up!? - Erwachsen werd' ich später"], "2014", ["2016 05 28"], 7, ["ger"], ["comedy", "drama"], [], [], ["Lynn Shelton"], ["Keira Knightley", "Jeff Garlin", "Chloë Grace Moretz", "Sam Rockwell", "Kaitlyn Dever", "Ellie Kemper"], "https://68.media.tumblr.com/029332ab558404bc2721c93c84d88730/tumblr_o7wh4hPXdb1v2s5upo1_250.jpg"],
 	        
-["film", ["Goodbye to All That", "Suddenly Single"], "2014", ["2016 06 19"], 3, ["ger"], ["comedy", "drama"], [], [], ["Angus MacLachlan"], ["Paul Schneider"], "https://68.media.tumblr.com/2b52387fb84ce6f9e1e0ab7b2f54910b/tumblr_o90ykbAJXr1v2s5upo1_250.jpg"],
+["film", ["Goodbye to All That", "Suddenly Single"], "2014", ["2016 06 19"], 3, ["ger"], ["comedy", "drama"], [], [], ["Angus MacLachlan"], ["Paul Schneider", "Melanie Lynskey"], "https://68.media.tumblr.com/2b52387fb84ce6f9e1e0ab7b2f54910b/tumblr_o90ykbAJXr1v2s5upo1_250.jpg"],
 	        
 ["film", ["I'm Off Then", "Ich bin dann mal weg"], "2015", ["2016 06 29"], 7, ["ger"], ["comedy"], [], [], ["Julia von Heinz"], ["Katharina Thalbach", "Annette Frier"], "https://68.media.tumblr.com/9b18cf3ed6bb1b7708cb6660243b2bbc/tumblr_o9jsra3R5u1v2s5upo1_250.jpg"],
 	        
@@ -1960,7 +1960,7 @@ var database = [
 
 ["film", ["Die Wilden Hühner und das Leben"], "2008", ["2021 11 05"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Benno Fürmann", "Wotan Wilke Möhring", "Milena Tscharntke", "Sonja Gerhardt", "Paula Schramm"], "https://64.media.tumblr.com/87deeb29e6606958a1eb6aea58fb3efc/913287753b1fadec-9b/s250x400/f4ed62e7adbe64210f03f3db21987ae8c57fc06d.jpg"],
 
-["film", ["Die Vorstadtkrokodile"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Christian Ditter"], ["Smudo", "Jacob Matschenz", "Axel Stein"], "https://64.media.tumblr.com/4bdcf49349ca6a11d3660c9b9b50c3d9/1df5e4c42048e73b-43/s250x400/1c6fa4d31eec11353b8c02fd623d9e8607f1bb98.jpg"],
+["film", ["Die Vorstadtkrokodile"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Christian Ditter"], ["Smudo", "Jacob Matschenz", "Axel Stein", "Nick Romeo Reimann", "Fabian Halbig", "Leonie Tepe", "Manuel Steitz", "David Hürten", "Javidan Imani", "Robin Walter", "Nicolas Schinseck"], "https://64.media.tumblr.com/4bdcf49349ca6a11d3660c9b9b50c3d9/1df5e4c42048e73b-43/s250x400/1c6fa4d31eec11353b8c02fd623d9e8607f1bb98.jpg"],
 
 ["film", ["Vorstadtkrokodile 2"], "2010", ["2021 11 05"], 5, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Christian Ditter"], ["Smudo"], "https://64.media.tumblr.com/dec3751db50fd50f9e0c1349611a67f8/b665287f830b9556-d4/s250x400/ebd8fb57f83b7d44dc8b66256bede5f27122a7c6.jpg"],
 
@@ -2786,7 +2786,7 @@ var database = [
 
 ["film", ["Reminiscence", "Reminiscence: Die Erinnerung stirbt nie"], "2021", ["2023 11 12"], 6, ["ger"], ["mystery", "romance"], [], ["Netflix"], ["Lisa Joy"], ["Hugh Jackman", "Rebecca Ferguson", "Cliff Curtis", "Angela Sarafyan", "Thandiwe Newton"], "https://64.media.tumblr.com/f64c88b789dad29224491c278a3f1a98/fde4ae23810cfba3-c7/s250x400/5bc94ecceca55a70accc8ef4f06a4d953e1ebd63.jpg"],
 
-["series", ["His Dark Materials"], ["2019", "2022"], [["2023 11 17", "2024 01 19", "S1"], ["2024 01 19", "2024 03 15", "S2"], ["2024 04 06", "2024 05 10", "S3"]], 10, ["ger"], ["adventure", "drama"], ["jessie", "sai"], [], ["Philip Pullman", "Jack Thorne"], ["Dafne Keen", "Lin-Manuel Miranda"], "https://64.media.tumblr.com/6f5272814abc2f38b3080af92968bca7/2e2f4a1d18bec381-ad/s250x400/56b59e138eaa49256c67483bbe8b73ec7aa9cbd7.jpg"],
+["series", ["His Dark Materials"], ["2019", "2022"], [["2023 11 17", "2024 01 19", "S1"], ["2024 01 19", "2024 03 15", "S2"], ["2024 04 06", "2024 05 10", "S3"]], 10, ["ger"], ["adventure", "drama"], ["jessie", "sai"], [], ["Philip Pullman", "Jack Thorne"], ["Dafne Keen", "Lin-Manuel Miranda", "Bella Ramsey"], "https://64.media.tumblr.com/6f5272814abc2f38b3080af92968bca7/2e2f4a1d18bec381-ad/s250x400/56b59e138eaa49256c67483bbe8b73ec7aa9cbd7.jpg"],
 
 ["film", ["Cloud Atlas"], "2012", ["2023 11 19"], 4, ["ger"], ["drama", "mystery"], [], ["Netflix"], ["Tom Tykwer", "Lana Wachowski"], ["Tom Hanks", "Halle Berry", "Jim Broadbent", "Hugo Weaving", "Doona Bae", "Hugh Grant", "Martin Wuttke", "Ben Whishaw"], "https://64.media.tumblr.com/330046243c0b27ef07718474b6c40be3/920ba7c26833c836-e2/s250x400/2928400ecbbd583050226c6429349707652470c9.jpg"],
 
@@ -3042,7 +3042,7 @@ var database = [
 
 ["film", ["The Flying Classroom", "Das fliegende Klassenzimmer"], "2003", ["2024 09 07"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Tomy Wigand"], ["Ulrich Noethen", "Piet Klocke", "Frederick Lau", "Anja Kling"], "https://64.media.tumblr.com/9a0b45d129b6d4675931dda69b936b16/5f9768fe76264f61-d6/s250x400/707cdf266b6c3fb797bc7804925ae28c06a6e00c.jpg"],
 
-["film", ["Don't Look Up"], "2021", ["2024 09 07"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Adam McKay"], ["Leonardo DiCaprio", "Jennifer Lawrence", "Meryl Streep", "Cate Blanchett", "Jonah Hill", "Mark Rylance", "Timothée Chalamet", "Ron Perlman", "Ariana Grande"], "https://64.media.tumblr.com/460c0020f152a3c88a093e6af994b5db/dc3cf228b314e7b1-e5/s250x400/134b5660eb0f4912c9cd167d04675fa2e8821ef8.jpg"],
+["film", ["Don't Look Up"], "2021", ["2024 09 07"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Adam McKay"], ["Leonardo DiCaprio", "Jennifer Lawrence", "Meryl Streep", "Cate Blanchett", "Jonah Hill", "Mark Rylance", "Timothée Chalamet", "Ron Perlman", "Ariana Grande", "Melanie Lynskey"], "https://64.media.tumblr.com/460c0020f152a3c88a093e6af994b5db/dc3cf228b314e7b1-e5/s250x400/134b5660eb0f4912c9cd167d04675fa2e8821ef8.jpg"],
 
 ["film", ["Dora and the Lost City of Gold", "Dora und die goldene Stadt"], "2019", ["2024 09 15"], 8, ["ger"], ["comedy", "adventure", "action"], ["bini", "je", "syl"], ["Netflix"], ["James Bobin"], ["Eva Longoria", "Michael Peña", "Isabela Merced", "Joey Vieira"], "https://64.media.tumblr.com/00cd2cd2705d701ab78b7772f7f4efb0/0e217fd441f93650-3e/s250x400/54f0e82c288cc49369f3e045f4ac158db97900a4.jpg"],
 
@@ -3180,7 +3180,13 @@ var database = [
 
 ["book", ["Green Witch"], "2019", [["2025 01 21", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Andrea Russo"], [], "https://64.media.tumblr.com/13a7ad4710693b247a8563e459926350/d26a3fa02c8d10e4-67/s250x400/9cf500615e55e0fc5e4103b9c595e33bbb27eca0.jpg"],
 
-["audiobook", ["Pünktchen und Anton"], "1931", ["2025 01 27"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Erich Kästner"], ["Erich Kästner", "Rudolf Siege", "Karin Hardt", "Antje Hagen", "Ruth Scheerbarth", "Helena Elcka", "Irene Marwitz", "Thomas Rosengarten", "Robert Rathke", "Josef Meinertzhagen", "Rainer Baudisch", "Hans Schäffer", "Herbert Schimkat"], "https://64.media.tumblr.com/a9ec1259222de5458250af4bec635873/bb9c8685aedff6ac-2c/s250x400/96fed9c507de912a482a61986872d3dc42821ac3.jpg"]
+["audiobook", ["Pünktchen und Anton"], "1931", ["2025 01 27"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Erich Kästner"], ["Erich Kästner", "Rudolf Siege", "Karin Hardt", "Antje Hagen", "Ruth Scheerbarth", "Helena Elcka", "Irene Marwitz", "Thomas Rosengarten", "Robert Rathke", "Josef Meinertzhagen", "Rainer Baudisch", "Hans Schäffer", "Herbert Schimkat"], "https://64.media.tumblr.com/a9ec1259222de5458250af4bec635873/bb9c8685aedff6ac-2c/s250x400/96fed9c507de912a482a61986872d3dc42821ac3.jpg"],
+
+["audiobook", ["Moby-Dick; or, The Whale", "Moby-Dick; oder: Der Wal"], "1851", [["2025 01 28", "2025 01 30"]], 6, ["ger"], [], [], ["bibliothek"], ["Herman Melville"], ["Christian Brückner"], "https://64.media.tumblr.com/5d8eda35d19a0259fe658329117757df/10d4cf8f6d9b0780-5c/s250x400/70a72c91d3e3a0a907ebf1633ca8536a14dd1887.jpg"],
+	
+["audiobook", ["Die Vorstadtkrokodile"], "2009", [["2025 01 31", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Max von der Grün"], ["Nick Romeo Reimann", "Fabian Halbig", "Leonie Tepe", "Manuel Steitz", "David Hürten", "Javidan Imani", "Robin Walter", "Nicolas Schinseck"], "https://64.media.tumblr.com/f590fba6d87e39cbb85b6ef064f0bb35/5a5c66db30d0935d-c4/s250x400/72a2b5a2d7d26897af4d6d99995ed4a332ca8061.jpg"],
+
+["series", ["The Last of Us"], ["2023", ""], [["2025 01 31", "", "S1"]], 0, ["ger"], ["action", "adventure"], [], ["bibliothek", "watching", "ongoing"], ["Craig Mazin", "Neil Druckmann"], ["Pedro Pascal", "Bella Ramsey", "Kaitlyn Dever", "Melanie Lynskey"], "https://64.media.tumblr.com/8217358c0a25cd07ccbadb49ac17acff/3a073dc704b2642b-76/s250x400/2b3181ea5a40b355187444900a29029399aabd9d.jpg"]
 
 	/*
 ,
