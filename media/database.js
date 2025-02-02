@@ -526,7 +526,7 @@ var database = [
 	        
 ["film", ["Emma.", "Emma"], "2020", ["2020 07 27"], 6, ["ger"], ["comedy", "drama"], ["syl"], ["Kino"], ["Autumn de Wilde"], ["Anya Taylor-Joy", "Bill Nighy", "Tanya Reynolds", "Callum Turner", "Isis Hainsworth"], "https://64.media.tumblr.com/b0483e91677af92641a1d11663da2aef/ae5c907a9b320a83-7e/s250x400/4b3012c6be8d4118ec14688c5096aa081b3eebc0.jpg"],
 	        
-["film", ["The Old Guard"], "2020", ["2020 07 27"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Gina Prince-Bythewood"], ["Chiwetel Ejiofor", "Harry Melling", "Matthias Schoenaerts", "Orlando Seale", "Charlize Theron"], "https://64.media.tumblr.com/89ad420fc18f829fdc232cc078a87e4f/6a3b04b9ffb46ba4-e0/s250x400/e002ec38f2252118eb151df79eadaf794c231b0d.jpg"],
+["film", ["The Old Guard"], "2020", ["2020 07 27", "2025 02 02"], 7, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Netflix"], ["Gina Prince-Bythewood"], ["Chiwetel Ejiofor", "Harry Melling", "Matthias Schoenaerts", "Orlando Seale", "Charlize Theron"], "https://64.media.tumblr.com/89ad420fc18f829fdc232cc078a87e4f/6a3b04b9ffb46ba4-e0/s250x400/e002ec38f2252118eb151df79eadaf794c231b0d.jpg"],
 	        
 ["film", ["17 Again", "17 Again - Back to High School"], "2009", ["2020 07 25"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Burr Steers"], ["Zac Efron", "Matthew Perry", "Michelle Trachtenberg", "Michelle Trachtenberg", "Allison Miller"], "https://64.media.tumblr.com/0d4b4127a01f8d85f22ea9e8504476cf/e253c3091319ef95-91/s250x400/c0c7bc733244a81b173fadde533e8288b7974113.jpg"],
 	        
@@ -2519,7 +2519,7 @@ var database = [
 
 ["film", ["Anna"], "2019", ["2023 02 12"], 6, ["ger"], ["action"], [], ["Netflix"], ["Luc Besson"], ["Sasha Luss", "Luke Evans", "Cillian Murphy"], "https://64.media.tumblr.com/efb03aa08974b6ffcedc57e45e925de5/08a27c0b18a0101c-c2/s250x400/4039f426b13f9db327b357ffd38643afb4303528.jpg"],
 
-["film", ["Die Drei ??? - Erbe des Drachen"], "2023", ["2023 02 12"], 6, ["ger"], ["adventure", "family"], ["bini", "syl", "je"], ["Kino", "Die drei ???"], ["Tim Dünschede"], ["Gedeon Burkhard", "Florian Lukas", "Jördis Triebel", "Nevio Wendt"], "https://64.media.tumblr.com/5969b85eae3e6a9595db20cffd59992d/4dc2c025a2d9f5e9-c3/s250x400/e84750a16b1594ba2b46af757afcda2daec632ed.jpg"],
+["film", ["Die Drei ??? - Erbe des Drachen"], "2023", ["2023 02 12"], 6, ["ger"], ["adventure", "family"], ["bini", "syl", "je"], ["Kino", "Die drei ???"], ["Tim Dünschede"], ["Gedeon Burkhard", "Florian Lukas", "Jördis Triebel", "Nevio Wendt", "Levi Brandl", "Julius Weckauf"], "https://64.media.tumblr.com/5969b85eae3e6a9595db20cffd59992d/4dc2c025a2d9f5e9-c3/s250x400/e84750a16b1594ba2b46af757afcda2daec632ed.jpg"],
 
 ["series", ["Extraordinary"], ["2023", ""], [["2023 02 18", "S1"]], 7, ["ger"], ["comedy", "fantasy"], [], ["Disney+"], ["Emma Moran"], [], "https://64.media.tumblr.com/ef8c670c289e53fd3e9be48d62061457/c7133c0b2e95cfc8-7a/s250x400/6d8017359b3a3f6d22040c33c646a759acffbd65.jpg"],
 
@@ -3186,7 +3186,9 @@ var database = [
 	
 ["audiobook", ["Die Vorstadtkrokodile"], "2009", [["2025 01 31", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Max von der Grün"], ["Nick Romeo Reimann", "Fabian Halbig", "Leonie Tepe", "Manuel Steitz", "David Hürten", "Javidan Imani", "Robin Walter", "Nicolas Schinseck"], "https://64.media.tumblr.com/f590fba6d87e39cbb85b6ef064f0bb35/5a5c66db30d0935d-c4/s250x400/72a2b5a2d7d26897af4d6d99995ed4a332ca8061.jpg"],
 
-["series", ["The Last of Us"], ["2023", ""], [["2025 01 31", "", "S1"]], 0, ["ger"], ["action", "adventure"], [], ["bibliothek", "watching", "ongoing"], ["Craig Mazin", "Neil Druckmann"], ["Pedro Pascal", "Bella Ramsey", "Kaitlyn Dever", "Melanie Lynskey"], "https://64.media.tumblr.com/8217358c0a25cd07ccbadb49ac17acff/3a073dc704b2642b-76/s250x400/2b3181ea5a40b355187444900a29029399aabd9d.jpg"]
+["series", ["The Last of Us"], ["2023", ""], [["2025 01 31", "", "S1"]], 0, ["ger"], ["action", "adventure"], [], ["bibliothek", "watching", "ongoing"], ["Craig Mazin", "Neil Druckmann"], ["Pedro Pascal", "Bella Ramsey", "Kaitlyn Dever", "Melanie Lynskey"], "https://64.media.tumblr.com/8217358c0a25cd07ccbadb49ac17acff/3a073dc704b2642b-76/s250x400/2b3181ea5a40b355187444900a29029399aabd9d.jpg"],
+
+["film", ["Die drei ??? und der Karpatenhund"], "2025", ["2025 02 02"], 8, ["ger"], ["crime"], ["bini", "syl"], ["Kino", "Die drei ???"], ["Tim Dünschede"], ["Levi Brandl", "Florian Lukas", "Jördis Triebel", "Julius Weckauf", "Nevio Wendt"], "https://64.media.tumblr.com/1e2dfb887763c70964dd97064a6315ad/c862ddeb90da901b-f6/s250x400/711def37c87f8646762dd503c20872099ef18c1f.jpg"]
 
 	/*
 ,
