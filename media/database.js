@@ -3168,7 +3168,7 @@ var database = [
 
 ["series", ["Black Doves"], "2024", [["2025 01 05", "S1"]], 7, ["ger"], ["action", "drama"], [], ["Netflix"], ["Joe Barton"], ["Keira Knightley", "Ben Whishaw", "Antonia Campbell-Hughes"], "https://64.media.tumblr.com/bde580f58664a67c41136fdf7274a2f5/fe64a2af2ed27750-06/s250x400/ff0be944150e3de9dfb44fb8703963aa5f2c9d96.jpg"],
 
-["series", ["Wolf's Rain"], "2003", [["2025 01 06", "", "S1"]], 0, ["ger"], ["anime", "action", "adventure"], ["bini", "nico"], ["watching"], ["Keiko Nobumoto"], [], "https://64.media.tumblr.com/0a7f11326d452744917bddbcbe46f777/ad2a5f7143649322-03/s250x400/53c9f2408b6718323f4483f0259b8043788e9e73.jpg"],
+["series", ["Wolf's Rain"], "2003", [["2025 01 06", "2025 02 03", "S1"], ["2025 02 03", "OVA"]], 5, ["ger"], ["anime", "action", "adventure"], ["bini", "nico"], [], ["Keiko Nobumoto"], [], "https://64.media.tumblr.com/0a7f11326d452744917bddbcbe46f777/ad2a5f7143649322-03/s250x400/53c9f2408b6718323f4483f0259b8043788e9e73.jpg"],
 
 ["audiobook", ["La Belle Sauvage", "Über den wilden Fluss"], "2017", [["2025 01 10", "2025 01 24"]], 7, ["ger"], ["fantasy"], [], ["His Dark Materials", "bibliothek"], ["Philip Pullman"], ["Rufus Beck"], "https://64.media.tumblr.com/6cb1de79337448588335ce9d25734f30/7bc6546ace134a8c-48/s250x400/851436fb33ae4970db2e17f7bdc66b33cb82ba0f.jpg"],
 
