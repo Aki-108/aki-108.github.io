@@ -3186,7 +3186,7 @@ var database = [
 	
 ["audiobook", ["Die Vorstadtkrokodile"], "2009", [["2025 01 31", "2025 02 03"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Max von der Grün"], ["Nick Romeo Reimann", "Fabian Halbig", "Leonie Tepe", "Manuel Steitz", "David Hürten", "Javidan Imani", "Robin Walter", "Nicolas Schinseck"], "https://64.media.tumblr.com/f590fba6d87e39cbb85b6ef064f0bb35/5a5c66db30d0935d-c4/s250x400/72a2b5a2d7d26897af4d6d99995ed4a332ca8061.jpg"],
 
-["series", ["The Last of Us"], ["2023", ""], [["2025 01 31", "", "S1"]], 0, ["ger"], ["action", "adventure"], [], ["bibliothek", "watching", "ongoing"], ["Craig Mazin", "Neil Druckmann"], ["Pedro Pascal", "Bella Ramsey", "Kaitlyn Dever", "Melanie Lynskey"], "https://64.media.tumblr.com/8217358c0a25cd07ccbadb49ac17acff/3a073dc704b2642b-76/s250x400/2b3181ea5a40b355187444900a29029399aabd9d.jpg"],
+["series", ["The Last of Us"], ["2023", ""], [["2025 01 31", "2025 02 08", "S1"]], 10, ["ger"], ["action", "adventure"], [], ["bibliothek", "ongoing"], ["Craig Mazin", "Neil Druckmann"], ["Pedro Pascal", "Bella Ramsey", "Kaitlyn Dever", "Melanie Lynskey"], "https://64.media.tumblr.com/8217358c0a25cd07ccbadb49ac17acff/3a073dc704b2642b-76/s250x400/2b3181ea5a40b355187444900a29029399aabd9d.jpg"],
 
 ["film", ["Die drei ??? und der Karpatenhund"], "2025", ["2025 02 02"], 8, ["ger"], ["crime"], ["bini", "syl"], ["Kino", "Die drei ???"], ["Tim Dünschede"], ["Levi Brandl", "Florian Lukas", "Jördis Triebel", "Julius Weckauf", "Nevio Wendt"], "https://64.media.tumblr.com/1e2dfb887763c70964dd97064a6315ad/c862ddeb90da901b-f6/s250x400/711def37c87f8646762dd503c20872099ef18c1f.jpg"],
 
