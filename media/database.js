@@ -1784,7 +1784,7 @@ var database = [
 
 ["film", ["Year One", "Year One - Aller Anfang ist schwer"], "2009", ["2021 04 21"], 4, ["ger"], ["comedy"], ["bini", "syl", "je"], [], ["Harold Ramis"], ["Jack Black", "Michael Cera", "Oliver Platt", "David Cross", "Christopher Mintz-Plasse", "Vinnie Jones", "Juno Temple", "Olivia Wilde", "June Diane Raphael", "Xander Berkeley", "Matthew Willig", "Rhoda Griffis", "Marshall Manesh", "Paul Rudd"], "https://64.media.tumblr.com/acb888d0a637486983e8c77a91b86f8d/914d704920c46a2b-3f/s250x400/c27db0e1e0bdc9b389e4ffd8e18eb093b706193f.jpg"],
 
-["film", ["Rocca verändert die Welt"], "2019", ["2021 04 22"], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Katja Benrath"], ["Luna Maxeiner", "Nevio Wendt"], "https://64.media.tumblr.com/a46c32e0b16a7dab2510315a652b06c5/92533c010400559b-2c/s250x400/904afe21149e7e960c4fb1eea68f7837b3c2f12e.jpg"],
+["film", ["Rocca Changes the World", "Rocca verändert die Welt"], "2019", ["2021 04 22"], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Katja Benrath"], ["Luna Maxeiner", "Nevio Wendt", "Caspar Fischer-Ortmann"], "https://64.media.tumblr.com/a46c32e0b16a7dab2510315a652b06c5/92533c010400559b-2c/s250x400/904afe21149e7e960c4fb1eea68f7837b3c2f12e.jpg"],
 
 ["film", ["Love and Monsters", "Monster Problems"], "2020", ["2021 04 24"], 5, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl"], ["Netflix"], ["Michael Matthews"], ["Dylan O'Brien", "Jessica Henwick", "Ariana Greenblatt"], "https://64.media.tumblr.com/1c691845a3a8d688cafdbfca3891c7dd/603967b5f0a6df28-ee/s250x400/a85b4d8d5840fe986a510bff0d969923257e4c89.jpg"],
 
@@ -2199,7 +2199,7 @@ var database = [
 
 ["film", ["Suck Me Shakespeer 2", "Fack ju Göhte 2"], "2015", ["2022 04 16"], 7, ["ger"], ["comedy"], ["bini"], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Jella Haase", "Karoline Herfurth", "Katja Riemann", "Gizem Emre", "Jana Pallaske", "Alwara Höfels", "Max von der Groeben"], "https://64.media.tumblr.com/24bfc2000ddb0f5322d8f9d6fc81d329/a4ab170a940b97de-db/s250x400/85083d66274e9050a9af2027bcf8715558a114bd.jpg"],
 
-["film", ["The Peppercorns and the Curse of the Black King", "Die Pfefferkörner und der Fluch des schwarzen Königs"], "2017", ["2022 04 17", "2025 02 01"], 5, ["ger"], ["adventure", "comedy"], ["bini"], ["Die Pfefferkörner", "Disney+"], ["Christian Theede"], ["Anna Böttcher"], "https://64.media.tumblr.com/fb8771ae098d3d5955d29551e8e2592c/8ae29a96e4b801f9-45/s250x400/927a6f74d420e913e2ea955e41f144391db0ad75.jpg"],
+["film", ["The Peppercorns and the Curse of the Black King", "Die Pfefferkörner und der Fluch des schwarzen Königs"], "2017", ["2022 04 17", "2025 02 01"], 5, ["ger"], ["adventure", "comedy"], ["bini"], ["Die Pfefferkörner", "Disney+"], ["Christian Theede"], ["Anna Böttcher", "Emilia Flint"], "https://64.media.tumblr.com/fb8771ae098d3d5955d29551e8e2592c/8ae29a96e4b801f9-45/s250x400/927a6f74d420e913e2ea955e41f144391db0ad75.jpg"],
 
 ["film", ["Pixel Perfect", "Der perfekte Rockstar"], "2004", ["2022 04 17"], 4, ["eng"], ["family", "sci-fi"], [], ["Disney+"], ["Mark A.Z. Dippé"], ["Brett Cullen", "Tania Gunadi"], "https://64.media.tumblr.com/e8869ae128277ac83f50e377d1dd7ff6/cc2d76ff04dd00db-87/s250x400/e5011576d620d1360f00cd040b4dcd84aa6d9cea.jpg"],
 
@@ -2613,7 +2613,7 @@ var database = [
 
 ["audiobook", ["Gerade war der Himmel noch blau"], "2017", [["2023 05 02", "2023 05 10"]], 7, ["ger"], [], [], ["bibliothek"], ["Florian Illies"], ["Ulrich Noethen"], "https://64.media.tumblr.com/d543531beabd7144d6d3939395c96826/ebc9b1915ba7d171-b7/s400x600/30a124f1048cf49dcd91a907d100f2bb9a22717f.jpg"],
 
-["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"], ["2023 05 17", "2023 06 10", "S8"], ["2023 06 11", "2023 06 20", "S9"], ["2023 07 08", "2023 08 03", "S10"], ["2023 09 30", "2023 10 10", "S11"], ["2023 10 11", "2023 11 06", "S12"], ["2023 11 07", "2023 12 07", "S13"], ["2024 01 08", "2024 02 12", "S17"], ["2024 02 12", "2024 05 05", "S18"], ["2024 09 24", "2024 10 02", "S19"], ["2024 10 17", "2024 11 30", "S20"], ["2025 01 06", "", "S14"]], 6, ["ger"], ["crime", "family"], [], ["Die Pfefferkörner", "KiKa", "watching"], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
+["series", ["Die Pfefferkörner"], ["1999", ""], [["2023 05 03", "2023 05 07", "S7"], ["2023 05 17", "2023 06 10", "S8"], ["2023 06 11", "2023 06 20", "S9"], ["2023 07 08", "2023 08 03", "S10"], ["2023 09 30", "2023 10 10", "S11"], ["2023 10 11", "2023 11 06", "S12"], ["2023 11 07", "2023 12 07", "S13"], ["2024 01 08", "2024 02 12", "S17"], ["2024 02 12", "2024 05 05", "S18"], ["2024 09 24", "2024 10 02", "S19"], ["2024 10 17", "2024 11 30", "S20"], ["2025 01 06", "", "S14"]], 6, ["ger"], ["crime", "family"], [], ["Die Pfefferkörner", "KiKa", "watching"], ["Silja Clemens"], ["Moritz Jahn", "Nina Kaiser", "Katharina Spiering", "Steffen Groth", "Luna Winter", "Kleon Sylvester", "Cihan Can", "Emilia Flint", "Caspar Fischer-Ortmann"], "https://64.media.tumblr.com/2439c1cb2ff4ad2a5176fcdbc925f255/e02f970f9ab8e581-b1/s250x400/9776c3bae049c4d3620da4343ed12d85b5859dec.jpg"],
 /*S7: 5; S8: 6; S10: 6; S19: 7*/
 	
 ["film", ["Pom Poko", "Pom Poko", "Heisei tanuki gassen ponpoko"], "1994", ["2023 05 06"], 6, ["ger"], ["anime", "comedy"], ["bini", "mai"], ["Netflix"], ["Isao Takahata"], [], "https://64.media.tumblr.com/1beb8edfc26020a43aed81edc4e21332/dafcc2886aafff4c-bd/s250x400/77c4a5b5ad990b573aa847915d50a006325e049a.jpg"],
@@ -2726,7 +2726,7 @@ var database = [
 
 ["short", ["From A to Q"], "2021", ["2023 10 02"], 4, ["eng"], [], [], [], ["Emmalie El Fadli"], [], "https://64.media.tumblr.com/a4fd4756b43486977476a10badd53b95/d62775a19eb496a8-59/s250x400/56488016d37e981ec2d9a945524ef2e4a76f695f.jpg"],
 
-["film", ["My Extraordinary Summer with Tess", "Meine wunderbar seltsame Woche mit Tess", "Mijn bijzonder rare week met Tess"], "2019", ["2023 10 02"], 8, ["ger"], ["comedy", "drama"], [], ["bibliothek"], ["Steven Wouterlood"], ["Josephine Arendsen"], "https://64.media.tumblr.com/9f7e6d17289d56215274b40d1e5b3bda/59bdfb580a18fd2f-74/s250x400/0f0c561fc50736cc2a314bb55f027090ab062109.jpg"],
+["film", ["My Extraordinary Summer with Tess", "Meine wunderbar seltsame Woche mit Tess", "Mijn bijzonder rare week met Tess"], "2019", ["2023 10 02", "2025 02 09"], 8, ["ger"], ["comedy", "drama"], [], ["bibliothek", "ARD"], ["Steven Wouterlood"], ["Josephine Arendsen"], "https://64.media.tumblr.com/9f7e6d17289d56215274b40d1e5b3bda/59bdfb580a18fd2f-74/s250x400/0f0c561fc50736cc2a314bb55f027090ab062109.jpg"],
 
 ["film", ["My Best Friend Anne Frank", "Meine Beste Freundin Anne Frank", "Mijn beste vriendin Anne Frank"], "2021", ["2023 10 03"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Ben Sombogaart"], ["Josephine Arendsen"], "https://64.media.tumblr.com/c2c2002cc9b91fb7dbe9773aa5fd6cc2/95f0ccfcef5f2f30-d1/s250x400/7f5307aa5c80c39a3cc1b2853599ae63b346e4ea.jpg"],
 
@@ -3190,7 +3190,11 @@ var database = [
 
 ["film", ["Die drei ??? und der Karpatenhund"], "2025", ["2025 02 02"], 8, ["ger"], ["crime"], ["bini", "syl"], ["Kino", "Die drei ???"], ["Tim Dünschede"], ["Levi Brandl", "Florian Lukas", "Jördis Triebel", "Julius Weckauf", "Nevio Wendt"], "https://64.media.tumblr.com/1e2dfb887763c70964dd97064a6315ad/c862ddeb90da901b-f6/s250x400/711def37c87f8646762dd503c20872099ef18c1f.jpg"],
 
-["audiobook", ["Inkheart", "Tintenherz"], "2003", [["2025 02 04", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Cornelia Funke"], ["Rainer Strecker"], "https://64.media.tumblr.com/a3b2ff88a48c00365f003256ff437def/b4818661536e2086-c2/s250x400/938b11d949b19fb8d30dcc9272cfa1fadc8041df.jpg"]
+["audiobook", ["Inkheart", "Tintenherz"], "2003", [["2025 02 04", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Cornelia Funke"], ["Rainer Strecker"], "https://64.media.tumblr.com/a3b2ff88a48c00365f003256ff437def/b4818661536e2086-c2/s250x400/938b11d949b19fb8d30dcc9272cfa1fadc8041df.jpg"],
+
+["film", ["Die Pfefferkörner und der Schatz der Tiefsee"], "2020", ["2025 02 08"], 5, ["ger"], ["crime", "adventure"], ["bini", "syl", "je"], ["Die Pfefferkörner", "bibliothek"], ["Christian Theede"], ["Emilia Flint", "Caspar Fischer-Ortmann", "Max Riemelt", "Sonja Gerhardt", "Anna Böttcher"], "https://64.media.tumblr.com/c36f8ef0230f514cc9f27822b00a933a/83d693ea218b5212-4b/s250x400/e8db0b2b21b388f6ea0f00c4b64e71130787ac03.jpg"],
+
+["film", ["Loverboy", "Ich gehöre ihm"], "2017", ["2025 02 09"], 4, ["ger"], ["drama"], [], ["ARD"], ["Thomas Durchschlag"], [], "https://64.media.tumblr.com/8649b31fe847b888ecf516f855de30b8/570a23f065a2444e-c8/s250x400/2c5793170a15a962da165b261a935ac9b385c3b0.jpg"]
 
 	/*
 ,
