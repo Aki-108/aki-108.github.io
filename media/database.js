@@ -420,7 +420,7 @@ var database = [
 	        
 ["short", ["Friend Like Me"], "2016", ["2016 04 05"], 6, ["eng"], ["comedy"], [], [], ["Sammy Paul"], ["Bertie Gilbert"], "https://40.media.tumblr.com/b68fa01942abe81fdff8d88987444fb7/tumblr_o5d0416srT1v2s5upo1_250.jpg"],
 	        
-["film", ["Kick-Ass"], "2010", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], ["bini"], [], ["Matthew Vaughn"], ["Christopher Mintz-Plasse", "Chloë Grace Moretz", "Evan Peters", "Xander Berkeley", "Omari Hardwick", "Aaron Taylor-Johnson"], "https://40.media.tumblr.com/50091ac45e1d0d7d73fee6abb55a0020/tumblr_o5mvk0MA5b1v2s5upo1_250.jpg"],
+["film", ["Kick-Ass"], "2010", ["2016 04 14", "2025 02 12"], 7, ["ger"], ["action", "comedy"], ["bini"], ["DVD"], ["Matthew Vaughn"], ["Christopher Mintz-Plasse", "Chloë Grace Moretz", "Evan Peters", "Xander Berkeley", "Omari Hardwick", "Aaron Taylor-Johnson"], "https://40.media.tumblr.com/50091ac45e1d0d7d73fee6abb55a0020/tumblr_o5mvk0MA5b1v2s5upo1_250.jpg"],
 	        
 ["film", ["Kick-Ass 2"], "2013", ["2016 04 14"], 7, ["ger"], ["action", "comedy"], [], [], ["Jeff Wadlow"], ["Chloë Grace Moretz", "John Leguizamo", "Jim Carrey", "Ella Purnell", "Iain Glen", "Aaron Taylor-Johnson", "Benedict Wong"], "https://40.media.tumblr.com/4bbb2e53f36fc274d645007c32b45568/tumblr_o5mwb2cDB91v2s5upo1_250.jpg"],
 	        
@@ -3194,7 +3194,11 @@ var database = [
 
 ["film", ["Die Pfefferkörner und der Schatz der Tiefsee"], "2020", ["2025 02 08"], 5, ["ger"], ["crime", "adventure"], ["bini", "syl", "je"], ["Die Pfefferkörner", "bibliothek"], ["Christian Theede"], ["Emilia Flint", "Caspar Fischer-Ortmann", "Max Riemelt", "Sonja Gerhardt", "Anna Böttcher"], "https://64.media.tumblr.com/c36f8ef0230f514cc9f27822b00a933a/83d693ea218b5212-4b/s250x400/e8db0b2b21b388f6ea0f00c4b64e71130787ac03.jpg"],
 
-["film", ["Loverboy", "Ich gehöre ihm"], "2017", ["2025 02 09"], 4, ["ger"], ["drama"], [], ["ARD"], ["Thomas Durchschlag"], [], "https://64.media.tumblr.com/8649b31fe847b888ecf516f855de30b8/570a23f065a2444e-c8/s250x400/2c5793170a15a962da165b261a935ac9b385c3b0.jpg"]
+["film", ["Loverboy", "Ich gehöre ihm"], "2017", ["2025 02 09"], 4, ["ger"], ["drama"], [], ["ARD"], ["Thomas Durchschlag"], [], "https://64.media.tumblr.com/8649b31fe847b888ecf516f855de30b8/570a23f065a2444e-c8/s250x400/2c5793170a15a962da165b261a935ac9b385c3b0.jpg"],
+
+["series", ["The Law According to Lidia Poët", "Das Gesetz nach Lidia Poët", "La legge di Lidia Poët"], ["2023", ""], [["2025 02 09", "", "S1"]], 0, ["ger"], ["biography", "crime"], [], ["watching", "ongoing", "Netflix"], ["Guido Iuculano", "Davide Orsini"], ["Matilda De Angelis"], "https://64.media.tumblr.com/f57abb58fcd964588e1856fdaa122cc4/d8ea9da9e48cb668-07/s250x400/a15a4136d6409a0a98e97156f773987013b57c7d.jpg"],
+
+["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", ""], [["2025 02 10", "", "S1"]], 0, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], ["watching", "ongoing"], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"]
 
 	/*
 ,
