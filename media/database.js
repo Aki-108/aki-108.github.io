@@ -3190,7 +3190,7 @@ var database = [
 
 ["film", ["Die drei ??? und der Karpatenhund"], "2025", ["2025 02 02"], 8, ["ger"], ["crime"], ["bini", "syl"], ["Kino", "Die drei ???"], ["Tim Dünschede"], ["Levi Brandl", "Florian Lukas", "Jördis Triebel", "Julius Weckauf", "Nevio Wendt"], "https://64.media.tumblr.com/1e2dfb887763c70964dd97064a6315ad/c862ddeb90da901b-f6/s250x400/711def37c87f8646762dd503c20872099ef18c1f.jpg"],
 
-["audiobook", ["Inkheart", "Tintenherz"], "2003", [["2025 02 04", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Cornelia Funke"], ["Rainer Strecker"], "https://64.media.tumblr.com/a3b2ff88a48c00365f003256ff437def/b4818661536e2086-c2/s250x400/938b11d949b19fb8d30dcc9272cfa1fadc8041df.jpg"],
+["audiobook", ["Inkheart", "Tintenherz"], "2003", [["2025 02 04", "2025 02 18"]], 7, ["ger"], ["fantasy"], [], ["bibliothek", "ongoing"], ["Cornelia Funke"], ["Rainer Strecker"], "https://64.media.tumblr.com/a3b2ff88a48c00365f003256ff437def/b4818661536e2086-c2/s250x400/938b11d949b19fb8d30dcc9272cfa1fadc8041df.jpg"],
 
 ["film", ["Die Pfefferkörner und der Schatz der Tiefsee"], "2020", ["2025 02 08"], 5, ["ger"], ["crime", "adventure"], ["bini", "syl", "je"], ["Die Pfefferkörner", "bibliothek"], ["Christian Theede"], ["Emilia Flint", "Caspar Fischer-Ortmann", "Max Riemelt", "Sonja Gerhardt", "Anna Böttcher"], "https://64.media.tumblr.com/c36f8ef0230f514cc9f27822b00a933a/83d693ea218b5212-4b/s250x400/e8db0b2b21b388f6ea0f00c4b64e71130787ac03.jpg"],
 
