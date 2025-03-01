@@ -1922,7 +1922,7 @@ var database = [
 
 ["film", ["Girl Vs. Monster", "Monster gegen Mädchen"], "2012", ["2021 10 13"], 3, ["ger"], ["action", "adventure"], [], ["Disney+"], ["Stuart Gillard"], ["Kerris Dorsey", "Katherine McNamara"], "https://64.media.tumblr.com/828365488ca87e39c92eddad3f2e2ea8/e4c7a564522a99eb-b4/s250x400/68b65d22f6cf38891a10370f79555ef79189bc1c.jpg"],
 
-["film", ["The Social Network"], "2010", ["2021 10 15"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["David Fincher"], ["Jesse Eisenberg", "Rooney Mara", "Andrew Garfield", "Justin Timberlake", "Armie Hammer", "Caleb Landry Jones"], "https://64.media.tumblr.com/f2942926279ca0345b51a11602fac10c/abd7b7b3dd87fdc0-09/s250x400/4aafffe5d822e81e377cc4a755b5c7102de5162f.jpg"],
+["film", ["The Social Network"], "2010", ["2021 10 15"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["David Fincher"], ["Jesse Eisenberg", "Rooney Mara", "Andrew Garfield", "Justin Timberlake", "Armie Hammer", "Caleb Landry Jones", "Dakota Johnson"], "https://64.media.tumblr.com/f2942926279ca0345b51a11602fac10c/abd7b7b3dd87fdc0-09/s250x400/4aafffe5d822e81e377cc4a755b5c7102de5162f.jpg"],
 
 ["book", ["Percy Jackson & The Olympians: The Titan's Curse", "Percy Jackson: Der Fluch des Titanen"], "2007", [["2021 10 15", "2021 11 27"]], 6, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson"], ["Rick Riordan"], [], "https://64.media.tumblr.com/087b28b545b84739e43335a2cf764cfd/4a9f9a0132912e2d-c4/s250x400/90fac8b0a6a847405174e8a6375258f163006de3.jpg"],
 
@@ -2802,7 +2802,7 @@ var database = [
 
 ["film", ["Family Switch"], "2023", ["2023 12 04"], 5, ["ger"], ["comedy", "family"], ["je"], ["Netflix"], ["McG"], ["Jennifer Garner", "Emma Myers", "Matthias Schweighöfer", "Ed Helms", "Rita Moreno"], "https://64.media.tumblr.com/d027c7e4894bcc8385b4d508287302c8/b228ffbb642bb4b1-e5/s250x400/f45581db79bfaf4684f62cdc171335171954cf34.jpg"],
 
-["film", ["Heart of Stone"], "2023", ["2023 12 04"], 8, ["ger"], ["action", "crime"], ["je"], ["Netflix"], ["Tom Harper"], ["Gal Gadot", "Glenn Close"], "https://64.media.tumblr.com/a4e1429ffe66e2832311e458b3f7f27c/3a35cf8773813d9a-60/s250x400/3286689dee1e5fd98a5ee8201283776f609bed9c.jpg"],
+["film", ["Heart of Stone"], "2023", ["2023 12 04"], 8, ["ger"], ["action", "crime"], ["je"], ["Netflix"], ["Tom Harper"], ["Gal Gadot", "Glenn Close", "Jamie Dornan"], "https://64.media.tumblr.com/a4e1429ffe66e2832311e458b3f7f27c/3a35cf8773813d9a-60/s250x400/3286689dee1e5fd98a5ee8201283776f609bed9c.jpg"],
 
 ["film", ["The Rundown", "Welcome to the Jungle"], "2003", ["2023 12 05"], 6, ["ger"], ["action", "adventure"], ["je"], ["Netflix"], ["Peter Berg"], ["Dwayne Johnson", "Christopher Walken"], "https://64.media.tumblr.com/65ec2fbae146f6e591c85da185e3a4b1/55d49577b4ac54d7-ee/s250x400/13084d9d1357d73dad394e1589096e69373fee3b.jpg"],
 
@@ -2816,7 +2816,7 @@ var database = [
 
 ["film", ["Paradise"], "2023", ["2023 12 06"], 7, ["ger"], ["action", "sci-fi"], ["syl", "je"], ["Netflix"], ["Boris Kunz"], ["Lisa-Marie Koroll"], "https://64.media.tumblr.com/541e803a35bb377951b81d2f734eddb7/a163a022507352f7-07/s250x400/db89fe13590078fa181501d45f978303a77969ab.jpg"],
 
-["film", ["A Haunting in Venice"], "2023", ["2023 12 07"], 5, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh", "Kyle Allen", "Kelly Reilly"], "https://64.media.tumblr.com/d6b3e8e7e10fad8415d00b0cddc28ff8/608f583f8045ee27-7c/s250x400/9b98d097c00a9182d4d64d846f2b3f652a3ae867.jpg"],
+["film", ["A Haunting in Venice"], "2023", ["2023 12 07"], 5, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Kenneth Branagh"], ["Kenneth Branagh", "Kyle Allen", "Kelly Reilly", "Jamie Dornan"], "https://64.media.tumblr.com/d6b3e8e7e10fad8415d00b0cddc28ff8/608f583f8045ee27-7c/s250x400/9b98d097c00a9182d4d64d846f2b3f652a3ae867.jpg"],
 
 ["film", ["We Have a Ghost"], "2023", ["2023 12 08"], 7, ["ger"], ["adventure", "comedy"], ["je", "syl"], ["Netflix"], ["Christopher Landon"], ["David Harbour", "Anthony Mackie", "Tig Notaro"], "https://64.media.tumblr.com/c2c953087ffd7919ee94d6ea17dfe1d2/70ce5ba714f4c903-cd/s250x400/c32446a5e4bd1dae25f868768ec47cfb625b0518.jpg"],
 
@@ -2970,7 +2970,7 @@ var database = [
 
 ["series", ["Schloss Einstein & Die Pfefferkörner - Auf Gangsterjagd"], "2023", [["2024 05 07", "S1"]], 6, ["ger"], ["crime"], [], ["Die Pfefferkörner", "Schloss Einstein"], ["Markus Dietrich"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/56113b8d8214961c9f537317041d0c90/474bca8ac2ea3c38-02/s250x400/7a4244f9a4b8dd2e88cec29aab74a521568df85b.jpg"],
 
-["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "2024 05 15", "S24"], ["2024 05 16", "2024 05 22", "S25"], ["2024 05 23", "2024 06 05", "S26"], ["2024 06 06", "2024 06 16", "S27"], ["2024 06 17", "2024 7 09", "S1"], ["2024 07 09", "2024 08 20", "S11"], ["2024 10 15", "2025 01 31", "S12"], ["2025 01 31", "", "S13"]], 8, ["ger"], ["family"], [], ["watching", "Schloss Einstein", "bby", "KiKa", "YouTube", "ongoing"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"],
+["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "2024 05 15", "S24"], ["2024 05 16", "2024 05 22", "S25"], ["2024 05 23", "2024 06 05", "S26"], ["2024 06 06", "2024 06 16", "S27"], ["2024 06 17", "2024 7 09", "S1"], ["2024 07 09", "2024 08 20", "S11"], ["2024 10 15", "2025 01 31", "S12"], ["2025 01 31", "", "S13"], ["2025 02 28", "", "S28"]], 8, ["ger"], ["family"], [], ["watching", "Schloss Einstein", "bby", "KiKa", "YouTube", "ongoing"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"],
 
 ["film", ["Van Helsing"], "2004", ["2024 05 08"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Stephen Sommers"], ["Hugh Jackman", "Richard Roxburgh", "David Wenham", "Shuler Hensley"], "https://64.media.tumblr.com/2c936bbcdf5ced09e27429f09877dd3e/3a8245902f4f1a52-6b/s250x400/00fb259c37f5fbf0f450fa56af5f8ccbcf6adce6.jpg"],
 
@@ -3208,7 +3208,13 @@ var database = [
 
 ["film", ["Back in Action"], "2025", ["2025 02 23"], 6, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Seth Gordon"], ["Jamie Foxx", "Cameron Diaz", "Kyle Chandler", "Glenn Close", "Andrew Scott"], "https://64.media.tumblr.com/96150d39db49eb486b722ca75e3047e6/a183aa428849deae-2b/s250x400/05ac3d2d418824700cc8f74b8ecc0697cb07895c.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Zum Ersten, zum Zweiten... und tot"], "2019", [["2025 02 24", "2025 02 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/4f9d06f2055089c7f3099d10a962473e/058e3e3a279ac24b-e8/s250x400/e9061850643f8083802fd467965a91cb8497388b.jpg"]
+["audiobook", ["Tee? Kaffee? Mord! - Zum Ersten, zum Zweiten... und tot"], "2019", [["2025 02 24", "2025 02 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/4f9d06f2055089c7f3099d10a962473e/058e3e3a279ac24b-e8/s250x400/e9061850643f8083802fd467965a91cb8497388b.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Tod eines Schneemanns"], "2018", [["2025 02 26", "2025 02 27"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/34502fba7cfbd64d2ef7768ab09ce1a4/7d507f4cdf16489f-be/s250x400/befc81336438034f60705ebd7191ad40c33b39b7.jpg"],
+
+["audiobook", ["Tom Sawyer - 1. Teil"], "pub year", [["2025 02 27", "2025 02 28"]], 5, ["ger"], ["adventure"], [], ["bibliothek"], ["Mark Twain"], ["Carolin Conrad"], "image"],
+
+["film", ["Fifty Shades of Grey", "Fifty Shades Of Grey"], "2015", ["2025 02 28"], 5, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Sam Taylor-Johnson"], ["Dakota Johnson", "Jamie Dornan"], "https://64.media.tumblr.com/67e443a7b06947c92351b9d3498646cf/f7ad902cb5feaa7a-9c/s250x400/e2c7689df3a25419cd141be62024e80f4e9f2231.jpg"]
 
 	/*
 ,
