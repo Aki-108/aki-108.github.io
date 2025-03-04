@@ -3178,7 +3178,7 @@ var database = [
 
 ["film", ["Back to the Future Part II", "Zurück in die Zukunft II"], "1989", ["2025 01 18"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Robert Zemeckis"], ["Michael J. Fox"], "https://64.media.tumblr.com/7209747b9f7d9f5bee64a2ca4ea1a88f/922dc6ddbc0bc84a-3e/s250x400/cbb9aa1962b9d8cb5cefecb52e313ee71df837a0.jpg"],
 
-["book", ["Green Witch"], "2019", [["2025 01 21", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Andrea Russo"], [], "https://64.media.tumblr.com/13a7ad4710693b247a8563e459926350/d26a3fa02c8d10e4-67/s250x400/9cf500615e55e0fc5e4103b9c595e33bbb27eca0.jpg"],
+["book", ["Green Witch"], "2019", [["2025 01 21", "2025 03 02", "C1-C13"]], 5, ["ger"], ["fantasy"], [], ["bibliothek", "dropped"], ["Andrea Russo"], [], "https://64.media.tumblr.com/13a7ad4710693b247a8563e459926350/d26a3fa02c8d10e4-67/s250x400/9cf500615e55e0fc5e4103b9c595e33bbb27eca0.jpg"],
 
 ["audiobook", ["Pünktchen und Anton"], "1931", ["2025 01 27"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Erich Kästner"], ["Erich Kästner", "Rudolf Siege", "Karin Hardt", "Antje Hagen", "Ruth Scheerbarth", "Helena Elcka", "Irene Marwitz", "Thomas Rosengarten", "Robert Rathke", "Josef Meinertzhagen", "Rainer Baudisch", "Hans Schäffer", "Herbert Schimkat"], "https://64.media.tumblr.com/a9ec1259222de5458250af4bec635873/bb9c8685aedff6ac-2c/s250x400/96fed9c507de912a482a61986872d3dc42821ac3.jpg"],
 
@@ -3222,7 +3222,9 @@ var database = [
 
 ["film", ["Sweet Girl"], "2021", ["2025 03 02"], 5, ["ger"], ["action", "drama"], [], ["Netflix"], ["Brian Andrew Mendoza"], ["Jason Momoa", "Isabela Merced", "Manuel Garcia-Rulfo", "Adria Arjona", "Justin Bartha"], "https://64.media.tumblr.com/d2110d10717ec28ef3fffc961a7ca439/ba570711bd0c85bd-f2/s250x400/3aee8693e61efb8a8054ae8483adecf2fe420b37.jpg"],
 
-["film", ["Türkisch für Anfänger"], "2012", ["2025 03 02"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Josefine Preuß", "Elyas M'Barek", "Anna Stieblich", "Adnan Maral", "Nick Romeo Reimann", "Frederick Lau", "Sonja Gerhardt", "Katja Riemann"], "https://64.media.tumblr.com/bca54855071f34edde4c9b5b00485c81/b93573783236fa2f-50/s250x400/9ac1d60ea9e6f035e307eeeb345bc8e1bfeb27c4.jpg"]
+["film", ["Türkisch für Anfänger"], "2012", ["2025 03 02"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Josefine Preuß", "Elyas M'Barek", "Anna Stieblich", "Adnan Maral", "Nick Romeo Reimann", "Frederick Lau", "Sonja Gerhardt", "Katja Riemann"], "https://64.media.tumblr.com/bca54855071f34edde4c9b5b00485c81/b93573783236fa2f-50/s250x400/9ac1d60ea9e6f035e307eeeb345bc8e1bfeb27c4.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Die letzten Worte des Ian O'Shelley"], "2018", [["2025 02 28", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/257607aa511c09be40d9391129b7a9f4/f4e9a9f8150a31d0-46/s250x400/c4b44a351736be5befa0f554ad1199ba8644be6c.jpg"]
 
 	/*
 ,
