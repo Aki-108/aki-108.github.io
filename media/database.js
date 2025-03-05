@@ -3224,7 +3224,11 @@ var database = [
 
 ["film", ["Türkisch für Anfänger"], "2012", ["2025 03 02"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Josefine Preuß", "Elyas M'Barek", "Anna Stieblich", "Adnan Maral", "Nick Romeo Reimann", "Frederick Lau", "Sonja Gerhardt", "Katja Riemann"], "https://64.media.tumblr.com/bca54855071f34edde4c9b5b00485c81/b93573783236fa2f-50/s250x400/9ac1d60ea9e6f035e307eeeb345bc8e1bfeb27c4.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Die letzten Worte des Ian O'Shelley"], "2018", [["2025 02 28", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/257607aa511c09be40d9391129b7a9f4/f4e9a9f8150a31d0-46/s250x400/c4b44a351736be5befa0f554ad1199ba8644be6c.jpg"]
+["audiobook", ["Tee? Kaffee? Mord! - Die letzten Worte des Ian O'Shelley"], "2018", [["2025 02 28", "2025 03 05"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/257607aa511c09be40d9391129b7a9f4/f4e9a9f8150a31d0-46/s250x400/c4b44a351736be5befa0f554ad1199ba8644be6c.jpg"],
+
+["book", ["Tales of Terror from the Black Ship", "Schauergeschichten vom schwarzen Schiff"], "2008", [["2025 03 04", ""]], 0, ["ger"], ["horror"], [], ["bibliothek", "watching"], ["Chris Priestley"], [], "https://64.media.tumblr.com/fa859e64764c0f1343a31249cc7f5386/a02614ca2418716c-82/s250x400/6ad6ea6c3d40af160ffd1d53c48ddd9cc73772b8.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Der Besuch des lächelnden Belgiers"], "2018", [["2025 03 05", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/3498cea82e2d35f23d936f577cd6b954/ea3f41666789afe3-fd/s250x400/68d8341948aa4526626f70ea823a5d4858592011.jpg"]
 
 	/*
 ,
