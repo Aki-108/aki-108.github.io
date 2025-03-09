@@ -225,7 +225,7 @@ var database = [
 	        
 ["film", ["What Happened to Monday", "What Happened to Monday?"], "2017", ["2020 09 05"], 7, ["ger"], ["action", "adventure"], ["syl"], ["Netflix"], ["Tommy Wirkola"], ["Noomi Rapace", "Willem Dafoe", "Marwan Kenzari", "Glenn Close"], "https://64.media.tumblr.com/de05eee06fdc8769637827199fb24ed2/9d69a5cc9bdb41e7-62/s250x400/c6e9fb7e5eaa5d0b2a16460e5022e3e826863392.jpg"],
 	        
-["series", ["Lost"], ["2004", "2010"], [["2017 08 08", "2017 10 01", "S1-S6"], ["2019 02 15", "2019 07 01", "S1-S6"], ["2021 12 22", "2022 01 07", "S1"], ["2022 01 07", "2022 02 25", "S2"], ["2022 02 25", "2022 04 15", "S3"], ["2022 05 06", "2022 05 15", "S4"], ["2022 05 17", "2022 05 31", "S5"], ["2022 05 31", "2022 06 21", "S6"], ["2023 09 25", "2023 10 13", "S1 Audio"], ["2023 10 13", "2023 11 04", "S2 Audio"], ["2023 11 05", "2024 01 10", "S3 Audio"]], 10, ["ger"], ["adventure", "drama"], ["bini"], ["DVD", "fav"], ["J.J. Abrams", "Jeffrey Lieber", "Damon Lindelof"], ["Jorge Garcia", "Josh Holloway", "Yunjin Kim", "Evangeline Lilly", "Terry O'Quinn", "Naveen Andrews", "Matthew Fox", "Daniel Dae Kim", "Emilie de Ravin", "Michael Emerson", "Henry Ian Cusick", "Dominic Monaghan", "Elizabeth Mitchell", "Ken Leung", "Nestor Carbonell", "Maggie Grace", "Jeremy Davies", "Ian Somerhalder", "Michelle Rodriguez", "Cynthia Watros", "Rebecca Mader", "Sam Anderson", "Tania Raymonde", "John Terry", "Alan Dale", "William Mapother", "Kevin Durand", "Rodrigo Santoro", "Mark Pellegrino", "Jeff Fahey", "Andrea Gabriel", "Andrew Divoff", "Titus Welliver", "Fionnula Flanagan", "Kevin Tighe", "Samm Levine", "Hiroyuki Sanada", "Kevin Durand", "Julie Bowen", "François Chau", "M.C. Gainey", "Shaun Toub", "Brett Cullen", "Kim Dickens"], "https://68.media.tumblr.com/b5d291cc94cf3d575bdce3c73ab8b82a/tumblr_odg5nyKL9D1v2s5upo1_250.jpg"],
+["series", ["Lost"], ["2004", "2010"], [["2017 08 08", "2017 10 01", "S1-S6"], ["2019 02 15", "2019 07 01", "S1-S6"], ["2021 12 22", "2022 01 07", "S1"], ["2022 01 07", "2022 02 25", "S2"], ["2022 02 25", "2022 04 15", "S3"], ["2022 05 06", "2022 05 15", "S4"], ["2022 05 17", "2022 05 31", "S5"], ["2022 05 31", "2022 06 21", "S6"], ["2023 09 25", "2023 10 13", "S1 Audio"], ["2023 10 13", "2023 11 04", "S2 Audio"], ["2023 11 05", "2024 01 10", "S3 Audio"]], 10, ["ger"], ["adventure", "drama"], ["bini"], ["DVD", "fav"], ["J.J. Abrams", "Jeffrey Lieber", "Damon Lindelof"], ["Jorge Garcia", "Josh Holloway", "Yunjin Kim", "Evangeline Lilly", "Terry O'Quinn", "Naveen Andrews", "Matthew Fox", "Daniel Dae Kim", "Emilie de Ravin", "Michael Emerson", "Henry Ian Cusick", "Dominic Monaghan", "Elizabeth Mitchell", "Ken Leung", "Nestor Carbonell", "Maggie Grace", "Jeremy Davies", "Ian Somerhalder", "Michelle Rodriguez", "Cynthia Watros", "Rebecca Mader", "Sam Anderson", "Tania Raymonde", "John Terry", "Alan Dale", "William Mapother", "Kevin Durand", "Rodrigo Santoro", "Mark Pellegrino", "Jeff Fahey", "Andrea Gabriel", "Andrew Divoff", "Titus Welliver", "Fionnula Flanagan", "Kevin Tighe", "Samm Levine", "Hiroyuki Sanada", "Kevin Durand", "Julie Bowen", "François Chau", "M.C. Gainey", "Shaun Toub", "Brett Cullen", "Kim Dickens", "Lance Reddick"], "https://68.media.tumblr.com/b5d291cc94cf3d575bdce3c73ab8b82a/tumblr_odg5nyKL9D1v2s5upo1_250.jpg"],
 	        
 ["series", ["Avatar: The Last Airbender", "Avatar - Der Herr der Elemente"], ["2005", "2008"], [["2018 05 29", "2018 06 15", "S1-S3"], /*["2019 08 04", "2019 08 13", "S1-S3"]*/["2019 08 04", "2019 08 06", "S1"], ["2019 08 07", "2019 08 08", "S2"], ["2019 08 08", "2019 08 13", "S3"]], 10, ["ger"], ["animation", "action"], [], ["Netflix"], ["Michael Dante DiMartino", "Bryan Konietzko"], [], "https://66.media.tumblr.com/3de0da47230c294434b12590e405d438/tumblr_odg6dwq4Ib1v2s5upo1_250.jpg"],
 	        
@@ -1254,7 +1254,7 @@ var database = [
 	        
 ["film", ["What Dreams May Come", "Hinter dem Horizont - Das Ende ist nur der Anfang"], "1998", ["2016 01 30"], 6, ["ger"], ["drama", "fantasy"], [], [], ["Vincent Ward"], ["Robin Williams", "Max von Sydow"], "https://40.media.tumblr.com/e216e013520b6116ad8b4d36c6f0023d/tumblr_o1rvcqKgiv1v2s5upo1_250.jpg"],
 	        
-["film", ["Atonement", "Abbitte"], "2007", ["2016 02 10"], 6, ["ger"], ["drama", "mystery", "war"], [], [], ["Joe Wright"], ["Saoirse Ronan", "James McAvoy", "Keira Knightley", "Benedict Cumberbatch", "Tilly Vosburgh", "Juno Temple"], "https://40.media.tumblr.com/2deb07b8a05805b2e8926115fdcf600b/tumblr_o2hfskemJP1v2s5upo1_250.jpg"],
+["film", ["Atonement", "Abbitte"], "2007", ["2016 02 10"], 6, ["ger"], ["drama", "mystery", "war"], [], [], ["Joe Wright"], ["Saoirse Ronan", "James McAvoy", "Keira Knightley", "Benedict Cumberbatch", "Tilly Vosburgh", "Juno Temple", "Alfie Allen"], "https://40.media.tumblr.com/2deb07b8a05805b2e8926115fdcf600b/tumblr_o2hfskemJP1v2s5upo1_250.jpg"],
 	        
 ["film", ["My Sister's Keeper", "Beim Leben meiner Schwester"], "2009", ["2016 04 19"], 6, ["ger"], ["drama", "family"], [], [], ["Nick Cassavetes"], ["Abigail Breslin", "Cameron Diaz", "Alec Baldwin", "Joan Cusack"], "https://40.media.tumblr.com/fd594d0c2034d9c88c0e13b0c14ad765/tumblr_o5w8qh6D1r1v2s5upo1_250.jpg"],
 	        
@@ -1841,7 +1841,7 @@ var database = [
 
 ["film", ["The House with a Clock in Its Walls", "Das Haus der geheimnisvollen Uhren"], "2018", ["2021 07 03"], 5, ["ger"], ["comedy", "family"], ["syl"], [], ["Eli Roth"], ["Jack Black", "Cate Blanchett", "Owen Vaccaro", "Kyle MacLachlan"], "https://64.media.tumblr.com/41b834b77924d9865a09d973c529aa23/996820e9b7974f95-db/s250x400/ae6511d52b5e423407da95bfd8a4a622769f1eb0.jpg"],
 
-["film", ["Godzilla vs. Kong"], "2021", ["2021 07 04"], 8, ["ger"], ["action", "sci-fi"], ["bini", "je"], ["Godzilla", "Kino"], ["Adam Wingard"], ["Alexander Skarsgård", "Rebecca Hall", "Brian Tyree Henry", "Shun Oguri", "Eiza González", "Julian Dennison", "Kyle Chandler"], "https://64.media.tumblr.com/77865d8e8b89d62d056cb65881d641a2/269e3a7ef8cd2e81-43/s250x400/15267931c7956b9e99b8b3b09e17975ae2fa9d4b.jpg"],
+["film", ["Godzilla vs. Kong"], "2021", ["2021 07 04"], 8, ["ger"], ["action", "sci-fi"], ["bini", "je"], ["Godzilla", "Kino"], ["Adam Wingard"], ["Alexander Skarsgård", "Rebecca Hall", "Brian Tyree Henry", "Shun Oguri", "Eiza González", "Julian Dennison", "Kyle Chandler", "Lance Reddick"], "https://64.media.tumblr.com/77865d8e8b89d62d056cb65881d641a2/269e3a7ef8cd2e81-43/s250x400/15267931c7956b9e99b8b3b09e17975ae2fa9d4b.jpg"],
 
 ["series", ["Amish: World's Squarest Teenagers"], "2010", [["2021 07 07", "S1"]], 6, ["eng"], ["documentary"], [], [], [], [], "https://64.media.tumblr.com/9866c3741b4be8364511d8efdaff416f/b1804fae23edbf41-04/s250x400/b30778b482a03f7963c7265106399ea32e31cda9.jpg"],
 
@@ -1986,7 +1986,7 @@ var database = [
 
 ["film", ["Kate"], "2021", ["2021 11 13"], 7, ["ger"], ["action", "adventure"], ["bini", "mai"], ["Netflix"], ["Cedric Nicolas-Troyan"], ["Mary Elizabeth Winstead", "Woody Harrelson", "Tadanobu Asano", "Gemma Brooke Allen"], "https://64.media.tumblr.com/80dc2c5c7a50647e6e6014b58256a3f9/0a6595ac5d88289c-9a/s250x400/5a9e88440e538ed00b2e939827412044f585fb7e.jpg"],
 
-["film", ["Night Teeth"], "2021", ["2021 11 15"], 5, ["ger"], ["action", "crime"], [], ["Netflix"], ["Adam Randall"], ["Jorge Lendeborg Jr.", "Debby Ryan", "Lucy Fry", "Raúl Castillo", "Megan Fox", "Alexander Ludwig"], "https://64.media.tumblr.com/5e666bcbd33f7e70c10c9d06ca55d5e9/7756c53967b823ad-3d/s250x400/621aff22a48aaec2ce1b4b5844ee03fcb3fe421e.jpg"],
+["film", ["Night Teeth"], "2021", ["2021 11 15"], 5, ["ger"], ["action", "crime"], [], ["Netflix"], ["Adam Randall"], ["Jorge Lendeborg Jr.", "Debby Ryan", "Lucy Fry", "Raúl Castillo", "Megan Fox", "Alexander Ludwig", "Alfie Allen"], "https://64.media.tumblr.com/5e666bcbd33f7e70c10c9d06ca55d5e9/7756c53967b823ad-3d/s250x400/621aff22a48aaec2ce1b4b5844ee03fcb3fe421e.jpg"],
 
 ["film", ["Ready Player One"], "2018", ["2021 11 17"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Steven Spielberg"], ["Tye Sheridan", "Olivia Cooke", "Simon Pegg", "Mark Rylance", "Lena Waithe", "T.J. Miller", "Ben Mendelsohn", "Hannah John-Kamen", "James Dryden"], "https://64.media.tumblr.com/cdc111a0fe4bfe6d4fc494264ddf6aa7/52d2fac5692e3291-86/s250x400/51190389cd042238f8b0f1346c373075aad7bbfa.jpg"],
 
@@ -2926,7 +2926,7 @@ var database = [
 
 ["series", ["20/20: Something's Coming: West Side Story"], "2021", ["2024 03 21"], 7, ["eng"], ["documentary"], [], ["Disney+"], ["Roone Arledge"], [], "https://64.media.tumblr.com/0f5ee3851922e73b69a3d9de6184c3dd/017d7328d6072d7b-c8/s250x400/89c1896f83d07da30c30bc4bee93bff3b51647d6.jpg"],
 
-["film", ["Angel Has Fallen"], "2019", ["2024 03 23"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Ric Roman Waugh"], ["Gerard Butler", "Morgan Freeman"], "https://64.media.tumblr.com/5eb5de4b4982c8ac6ad19908d595e608/3c5bf327cb68980d-82/s250x400/4da8843247ad0629513394aeb797330485184036.jpg"],
+["film", ["Angel Has Fallen"], "2019", ["2024 03 23"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Ric Roman Waugh"], ["Gerard Butler", "Morgan Freeman", "Lance Reddick"], "https://64.media.tumblr.com/5eb5de4b4982c8ac6ad19908d595e608/3c5bf327cb68980d-82/s250x400/4da8843247ad0629513394aeb797330485184036.jpg"],
 
 ["film", ["Systemsprenger"], "2019", ["2024 03 23"], 7, ["ger"], ["drama"], [], ["Netflix"], ["Nora Fingscheidt"], [], "https://64.media.tumblr.com/1177fc36581326d15f5510bb6aa22122/cc05deda7cdbb522-0e/s250x400/51643ee7147b8e13802bae5a8cc77627f812da0b.jpg"],
 
@@ -3196,7 +3196,7 @@ var database = [
 
 ["film", ["Loverboy", "Ich gehöre ihm"], "2017", ["2025 02 09"], 4, ["ger"], ["drama"], [], ["ARD"], ["Thomas Durchschlag"], [], "https://64.media.tumblr.com/8649b31fe847b888ecf516f855de30b8/570a23f065a2444e-c8/s250x400/2c5793170a15a962da165b261a935ac9b385c3b0.jpg"],
 
-["series", ["The Law According to Lidia Poët", "Das Gesetz nach Lidia Poët", "La legge di Lidia Poët"], ["2023", ""], [["2025 02 09", "", "S1"]], 0, ["ger"], ["biography", "crime"], [], ["watching", "ongoing", "Netflix"], ["Guido Iuculano", "Davide Orsini"], ["Matilda De Angelis"], "https://64.media.tumblr.com/f57abb58fcd964588e1856fdaa122cc4/d8ea9da9e48cb668-07/s250x400/a15a4136d6409a0a98e97156f773987013b57c7d.jpg"],
+["series", ["The Law According to Lidia Poët", "Das Gesetz nach Lidia Poët", "La legge di Lidia Poët"], ["2023", ""], [["2025 02 09", "2025 03 07", "S1"]], 5, ["ger"], ["biography", "crime"], [], ["ongoing", "Netflix"], ["Guido Iuculano", "Davide Orsini"], ["Matilda De Angelis"], "https://64.media.tumblr.com/f57abb58fcd964588e1856fdaa122cc4/d8ea9da9e48cb668-07/s250x400/a15a4136d6409a0a98e97156f773987013b57c7d.jpg"],
 
 ["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", ""], [["2025 02 10", "", "S1"]], 0, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], ["watching", "ongoing"], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"],
 
@@ -3228,7 +3228,11 @@ var database = [
 
 ["book", ["Tales of Terror from the Black Ship", "Schauergeschichten vom schwarzen Schiff"], "2008", [["2025 03 04", ""]], 0, ["ger"], ["horror"], [], ["bibliothek", "watching"], ["Chris Priestley"], [], "https://64.media.tumblr.com/fa859e64764c0f1343a31249cc7f5386/a02614ca2418716c-82/s250x400/6ad6ea6c3d40af160ffd1d53c48ddd9cc73772b8.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Der Besuch des lächelnden Belgiers"], "2018", [["2025 03 05", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/3498cea82e2d35f23d936f577cd6b954/ea3f41666789afe3-fd/s250x400/68d8341948aa4526626f70ea823a5d4858592011.jpg"]
+["audiobook", ["Tee? Kaffee? Mord! - Der Besuch des lächelnden Belgiers"], "2018", [["2025 03 05", "2025 03 06"]], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/3498cea82e2d35f23d936f577cd6b954/ea3f41666789afe3-fd/s250x400/68d8341948aa4526626f70ea823a5d4858592011.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Der Club der Giftmischer"], "2018", [["2025 03 07", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/2a5e7179b71c17fcdaa770f96794bf01/7a566eb5e86f89f8-ee/s250x400/08207fe4772e0ecb4ad23c29f0f9187f68d6ea08.jpg"],
+
+["film", ["John Wick"], "2014", ["2025 03 08"], 8, ["ger"], ["action"], ["bini", "je"], ["Netflix"], ["Chad Stahelski"], ["Keanu Reeves", "Michael Nyqvist", "Willem Dafoe", "John Leguizamo", "Alfie Allen", "Lance Reddick"], "https://64.media.tumblr.com/378c2e34313423679911b1580cc13e66/0031a0a4b39324be-a8/s250x400/c03469fb2f14ed9f1bc4e7da8ceccb11f543f98b.jpg"]
 
 	/*
 ,
