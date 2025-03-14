@@ -3198,7 +3198,7 @@ var database = [
 
 ["series", ["The Law According to Lidia Poët", "Das Gesetz nach Lidia Poët", "La legge di Lidia Poët"], ["2023", ""], [["2025 02 09", "2025 03 07", "S1"]], 5, ["ger"], ["biography", "crime"], [], ["ongoing", "Netflix"], ["Guido Iuculano", "Davide Orsini"], ["Matilda De Angelis"], "https://64.media.tumblr.com/f57abb58fcd964588e1856fdaa122cc4/d8ea9da9e48cb668-07/s250x400/a15a4136d6409a0a98e97156f773987013b57c7d.jpg"],
 
-["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", ""], [["2025 02 10", "", "S1"]], 0, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], ["watching", "ongoing"], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"],
+["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", "2021"], [["2025 02 10", "2025 03 10", "S1"], ["2025 03 10", "", "S2"]], 7, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], ["watching"], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"],
 
 ["audiobook", ["Treasure Island", "Die Schatzinsel"], "1883", [["2025 02 19", "2025 02 21"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Robert Louis Stevenson"], ["Bodo Primus"], "https://64.media.tumblr.com/b0ecb87c4c09315e0a21db532cec691f/665f27a9df41486f-09/s250x400/5468a6ae758c9a13644532a7aa51cf853149eb4b.jpg"],
 
@@ -3230,9 +3230,13 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! - Der Besuch des lächelnden Belgiers"], "2018", [["2025 03 05", "2025 03 06"]], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/3498cea82e2d35f23d936f577cd6b954/ea3f41666789afe3-fd/s250x400/68d8341948aa4526626f70ea823a5d4858592011.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Der Club der Giftmischer"], "2018", [["2025 03 07", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/2a5e7179b71c17fcdaa770f96794bf01/7a566eb5e86f89f8-ee/s250x400/08207fe4772e0ecb4ad23c29f0f9187f68d6ea08.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! - Der Club der Giftmischer"], "2018", [["2025 03 07", "2025 03 10"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/2a5e7179b71c17fcdaa770f96794bf01/7a566eb5e86f89f8-ee/s250x400/08207fe4772e0ecb4ad23c29f0f9187f68d6ea08.jpg"],
 
-["film", ["John Wick"], "2014", ["2025 03 08"], 8, ["ger"], ["action"], ["bini", "je"], ["Netflix"], ["Chad Stahelski"], ["Keanu Reeves", "Michael Nyqvist", "Willem Dafoe", "John Leguizamo", "Alfie Allen", "Lance Reddick"], "https://64.media.tumblr.com/378c2e34313423679911b1580cc13e66/0031a0a4b39324be-a8/s250x400/c03469fb2f14ed9f1bc4e7da8ceccb11f543f98b.jpg"]
+["film", ["John Wick"], "2014", ["2025 03 08"], 8, ["ger"], ["action"], ["bini", "je"], ["Netflix"], ["Chad Stahelski"], ["Keanu Reeves", "Michael Nyqvist", "Willem Dafoe", "John Leguizamo", "Alfie Allen", "Lance Reddick"], "https://64.media.tumblr.com/378c2e34313423679911b1580cc13e66/0031a0a4b39324be-a8/s250x400/c03469fb2f14ed9f1bc4e7da8ceccb11f543f98b.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Arsen und Käsekuchen"], "2018", [["2025 03 10", "2025 03 14"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/0eec69a75660d54866f0abc4a16f6a5a/e6108546ad0a9125-ad/s250x400/932303cd7a0049fbc5bb474fc2be42ddd7e0875b.jpg"],
+
+["book", ["Wolf"], "2023", [["2025 03 13", ""]], 0, ["ger"], [], [], ["watching", "bibliothek"], ["Saša Stanišić"], [], "https://64.media.tumblr.com/5d4fc0a72968aaa18cf1fbc1049945fb/3816ed6d3cd93232-83/s250x400/f00a094445a2c2806eb697072e035b9c5d3b6417.jpg"]
 
 	/*
 ,
