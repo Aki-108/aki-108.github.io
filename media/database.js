@@ -3244,7 +3244,7 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! - Ein Mörder steht im Walde"], "2019", [["2025 03 17", "2025 03 20"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/4b3a4b105bf6fd0b407586af32079b97/dc6b0154a23b795f-2d/s250x400/6a1b986e621eeefef218a1674b6fb0ae173d1beb.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Der doppelte Monet"], "2017", [["2025 03 21", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/deec6cf6d253a6b239f5bcde43089fe1/c06359c256cd62c4-76/s250x400/9c9727ab69c84f001681cfa5c8e5c320ad88dc1e.jpg"]
+["audiobook", ["Tee? Kaffee? Mord! - Der doppelte Monet"], "2017", [["2025 03 21", "2025 03 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/deec6cf6d253a6b239f5bcde43089fe1/c06359c256cd62c4-76/s250x400/9c9727ab69c84f001681cfa5c8e5c320ad88dc1e.jpg"]
 
 	/*
 ,
