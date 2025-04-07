@@ -1156,7 +1156,7 @@ var database = [
 	        
 ["film", ["Transformers: Age of Extinction", "Transformers 4: Ära des Untergangs"], "2014", ["2016 03 31", "2019 02 20"], 6, ["ger"], ["action", "adventure"], ["bini"], ["Transformers"], ["Michael Bay"], ["Mark Wahlberg", "Stanley Tucci", "Titus Welliver", "John Goodman", "Sophia Myles", "T.J. Miller", "Nicola Peltz"], "https://40.media.tumblr.com/8afe89c1f124be181009b615b0da3b8d/tumblr_o4x4hbXTS61v2s5upo1_250.jpg"],
 	        
-["film", ["Iron Man"], "2008", ["2016 03 27", "2017 02 01", "2021 12 03"], 9, ["ger"], ["action", "adventure", "sci-fi"], ["je"], ["Marvel", "Avengers", "Netflix"], ["Jon Favreau"], ["Robert Downey Jr.", "Jeff Bridges", "Gwyneth Paltrow", "Stan Lee", "Samuel L. Jackson", "Shaun Toub", "Leslie Bibb"], "https://49.media.tumblr.com/5017d31b1dd6842686512928527710a3/tumblr_o4rininmoe1v2s5upo1_250.jpg"],
+["film", ["Iron Man"], "2008", ["2016 03 27", "2017 02 01", "2021 12 03", "2025 03 31"], 9, ["ger"], ["action", "adventure", "sci-fi"], ["je"], ["Marvel", "Avengers", "Netflix"], ["Jon Favreau"], ["Robert Downey Jr.", "Jeff Bridges", "Gwyneth Paltrow", "Stan Lee", "Samuel L. Jackson", "Shaun Toub", "Leslie Bibb"], "https://49.media.tumblr.com/5017d31b1dd6842686512928527710a3/tumblr_o4rininmoe1v2s5upo1_250.jpg"],
 	        
 ["film", ["Iron Man 2"], "2010", ["2016 03 28", "2017 02 22", "2021 12 06"], 9, ["ger"], ["action", "adventure"], ["je"], ["Marvel", "Avengers", "Netflix"], ["Jon Favreau"], ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Scarlett Johansson", "Sam Rockwell", "Samuel L. Jackson", "Clark Gregg", "Stan Lee", "Kate Mara", "Leslie Bibb"], "https://40.media.tumblr.com/7260c61ced9afbc0d92a70dc7bd21281/tumblr_o4rip3fHdH1v2s5upo1_250.jpg"],
 	        
@@ -1484,7 +1484,7 @@ var database = [
 	        
 ["film", ["Sherlock Holmes"], "2009", ["2016 05 29", "2016 10 19", "2017 07 20", "2018 03 07", "2021 05 07", ["2022 10 14", "2022 10 15"]], 9, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Sherlock Holmes", "fav", "Netflix"], ["Guy Ritchie"], ["Robert Downey Jr.", "Rachel McAdams", "Mark Strong", "Jude Law", "Eddie Marsan", "Kelly Reilly"], "https://66.media.tumblr.com/3b03ca044ab3248a0e4b4292ff22e9a7/tumblr_o7zwr8yEKB1v2s5upo1_250.jpg"],
 	        
-["film", ["Sherlock Holmes: A Game of Shadows", "Sherlock Holmes - Spiel im Schatten"], "2011", ["2016 05 30", "2018 07 26", "2019 09 18", ["2022 10 28", "2022 10 29"]], 9, ["ger", "eng"], ["action", "adventure"], ["bini", "syl", "je"], ["Sherlock Holmes", "Netflix", "fav"], ["Guy Ritchie"], ["Robert Downey Jr.", "Jude Law", "Noomi Rapace", "Rachel McAdams", "Jared Harris", "Stephen Fry", "Eddie Marsan", "Kelly Reilly", "Paul Anderson"], "https://68.media.tumblr.com/a6f4f97c4a99d895cf50feb151c7623c/tumblr_o81o7cc2WL1v2s5upo1_250.jpg"],
+["film", ["Sherlock Holmes: A Game of Shadows", "Sherlock Holmes - Spiel im Schatten"], "2011", ["2016 05 30", "2018 07 26", "2019 09 18", ["2022 10 28", "2022 10 29"], "2025 04 02"], 9, ["ger", "eng"], ["action", "adventure"], ["bini", "syl", "je"], ["Sherlock Holmes", "Netflix", "fav"], ["Guy Ritchie"], ["Robert Downey Jr.", "Jude Law", "Noomi Rapace", "Rachel McAdams", "Jared Harris", "Stephen Fry", "Eddie Marsan", "Kelly Reilly", "Paul Anderson"], "https://68.media.tumblr.com/a6f4f97c4a99d895cf50feb151c7623c/tumblr_o81o7cc2WL1v2s5upo1_250.jpg"],
 	        
 ["film", ["Isi & Ossi"], "2020", ["2020 10 12", "2021 02 27", "2025 01 14"], 8, ["ger"], ["comedy", "romance"], ["bini", "mai"], ["Netflix"], ["Oliver Kienle"], ["Lisa Vicari"], "https://64.media.tumblr.com/0185fee186caed73f134c23cd9c0691f/0d23c573ff9d8992-aa/s250x400/19becf5a1ae3e47aeb60c082833b927057e4f9d2.jpg"],
 	        
@@ -3244,7 +3244,17 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! - Ein Mörder steht im Walde"], "2019", [["2025 03 17", "2025 03 20"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/4b3a4b105bf6fd0b407586af32079b97/dc6b0154a23b795f-2d/s250x400/6a1b986e621eeefef218a1674b6fb0ae173d1beb.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Der doppelte Monet"], "2017", [["2025 03 21", "2025 03 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/deec6cf6d253a6b239f5bcde43089fe1/c06359c256cd62c4-76/s250x400/9c9727ab69c84f001681cfa5c8e5c320ad88dc1e.jpg"]
+["audiobook", ["Tee? Kaffee? Mord! - Der doppelte Monet"], "2017", [["2025 03 21", "2025 03 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/deec6cf6d253a6b239f5bcde43089fe1/c06359c256cd62c4-76/s250x400/9c9727ab69c84f001681cfa5c8e5c320ad88dc1e.jpg"],
+
+["audiobook", ["Life as We Knew It", "Die Welt, wie wir sie kannten"], "2006", [["2025 03 28", "2025 03 29"]], 8, ["ger"], ["sci-fi"], ["bini", "syl", "je"], ["bibliothek"], ["Susan Beth Pfeffer"], ["Stefanie Stappenbeck"], "https://64.media.tumblr.com/075d1df87826ef0b52985e8b7fd6e68f/ed8f12322d502c57-9e/s250x400/2ac72f30460697962cd0b11eca9415df4545c964.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Die kleinen Leute von Pittlewood"], "2020", [["2025 03 29", "2025 04 02"]], 6, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/525e7e782c0722c6ee95c90eb4356093/4fc4666c87207463-18/s250x400/8c7cb87cad10a6be57f4c40eccc8e733a05f7f52.jpg"],
+
+["book", ["Nineteen Eighty-Four", "1984"], "1949", [["2025 03 30", ""]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["George Orwell"], [], "https://64.media.tumblr.com/b4945c23148b15504254a9ecdddbbbff/9a0198e73d5ff68c-c0/s400x600/17f7c45d169be099d048f33d0a06fdf02de86fd6.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Der Besuch der reichen Dame"], "2020", [["2025 04 03", "2025 04 05"]], 6, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/e5996c0c75f8b41a9e0d3f2bdcfa891d/28d06f8569093601-0d/s250x400/a99aa98a50c3d14e96896a0247e21a0a23fc904f.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Ein Doppelgänger zuviel"], "2020", ["2025 04 06"], 6, ["ger"], ["crime"], ["je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/a3ba489cb188a75ef8fc812b21ea1dd7/2ac9b597dc42cc85-5c/s250x400/b0b4a863b740e6db0df543b20afc5d20358c01e4.jpg"]
 
 	/*
 ,
