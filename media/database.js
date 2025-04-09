@@ -3254,7 +3254,9 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! - Der Besuch der reichen Dame"], "2020", [["2025 04 03", "2025 04 05"]], 6, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/e5996c0c75f8b41a9e0d3f2bdcfa891d/28d06f8569093601-0d/s250x400/a99aa98a50c3d14e96896a0247e21a0a23fc904f.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Ein Doppelgänger zuviel"], "2020", ["2025 04 06"], 6, ["ger"], ["crime"], ["je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/a3ba489cb188a75ef8fc812b21ea1dd7/2ac9b597dc42cc85-5c/s250x400/b0b4a863b740e6db0df543b20afc5d20358c01e4.jpg"]
+["audiobook", ["Tee? Kaffee? Mord! - Ein Doppelgänger zuviel"], "2020", ["2025 04 06"], 6, ["ger"], ["crime"], ["je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/a3ba489cb188a75ef8fc812b21ea1dd7/2ac9b597dc42cc85-5c/s250x400/b0b4a863b740e6db0df543b20afc5d20358c01e4.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Das Geheimnis des toten Anwalts"], "2020", [["2025 04 08", "2025 04 09"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/7af7ed507dadc95281b7ced1e9b05e82/cd20d009d153fdf1-55/s250x400/47b6428fa3ff83e8654e1a2603bc3dd8cca45b11.jpg"]
 
 	/*
 ,
