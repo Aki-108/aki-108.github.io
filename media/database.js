@@ -1922,7 +1922,7 @@ var database = [
 
 ["film", ["Girl Vs. Monster", "Monster gegen Mädchen"], "2012", ["2021 10 13"], 3, ["ger"], ["action", "adventure"], [], ["Disney+"], ["Stuart Gillard"], ["Kerris Dorsey", "Katherine McNamara"], "https://64.media.tumblr.com/828365488ca87e39c92eddad3f2e2ea8/e4c7a564522a99eb-b4/s250x400/68b65d22f6cf38891a10370f79555ef79189bc1c.jpg"],
 
-["film", ["The Social Network"], "2010", ["2021 10 15"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["David Fincher"], ["Jesse Eisenberg", "Rooney Mara", "Andrew Garfield", "Justin Timberlake", "Armie Hammer", "Caleb Landry Jones", "Dakota Johnson"], "https://64.media.tumblr.com/f2942926279ca0345b51a11602fac10c/abd7b7b3dd87fdc0-09/s250x400/4aafffe5d822e81e377cc4a755b5c7102de5162f.jpg"],
+["film", ["The Social Network"], "2010", ["2021 10 15", "2025 04 12"], 6, ["ger"], ["biography", "drama"], [], ["Netflix"], ["David Fincher"], ["Jesse Eisenberg", "Rooney Mara", "Andrew Garfield", "Justin Timberlake", "Armie Hammer", "Caleb Landry Jones", "Dakota Johnson", "Wallace Langham"], "https://64.media.tumblr.com/f2942926279ca0345b51a11602fac10c/abd7b7b3dd87fdc0-09/s250x400/4aafffe5d822e81e377cc4a755b5c7102de5162f.jpg"],
 
 ["book", ["Percy Jackson & The Olympians: The Titan's Curse", "Percy Jackson: Der Fluch des Titanen"], "2007", [["2021 10 15", "2021 11 27"]], 6, ["ger"], ["fantasy", "adventure"], [], ["Percy Jackson"], ["Rick Riordan"], [], "https://64.media.tumblr.com/087b28b545b84739e43335a2cf764cfd/4a9f9a0132912e2d-c4/s250x400/90fac8b0a6a847405174e8a6375258f163006de3.jpg"],
 
