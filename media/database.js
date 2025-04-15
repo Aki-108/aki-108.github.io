@@ -3256,7 +3256,13 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! - Ein Doppelgänger zuviel"], "2020", ["2025 04 06"], 6, ["ger"], ["crime"], ["je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/a3ba489cb188a75ef8fc812b21ea1dd7/2ac9b597dc42cc85-5c/s250x400/b0b4a863b740e6db0df543b20afc5d20358c01e4.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Das Geheimnis des toten Anwalts"], "2020", [["2025 04 08", "2025 04 09"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/7af7ed507dadc95281b7ced1e9b05e82/cd20d009d153fdf1-55/s250x400/47b6428fa3ff83e8654e1a2603bc3dd8cca45b11.jpg"]
+["audiobook", ["Tee? Kaffee? Mord! - Das Geheimnis des toten Anwalts"], "2020", [["2025 04 08", "2025 04 09"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/7af7ed507dadc95281b7ced1e9b05e82/cd20d009d153fdf1-55/s250x400/47b6428fa3ff83e8654e1a2603bc3dd8cca45b11.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Sister Sallys letztes Halleluja"], "2021", [["2025 04 10", "2025 04 11"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/e503bc8ddb12747361747fd6e04747c2/8d347ece0769a6f1-0e/s250x400/93bb850e8e64846f0db2ad0f32169cee7c3e71a7.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Mord mit spitzer Feder"], "2021", [["2025 04 14", "2025 04 15"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/fc339d1bdb9e4a315cbabf7b8dbfa69c/933d02b91cc8f9db-9d/s250x400/b5e9c1c3a5e8baab03c37637ac591b0945ff50c2.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Der Puppenmörder von Hunter's Grove"], "2021", [["2025 04 16", ""]], 6, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/2e2445947d8cc60d4570edd4cded339c/a66d9f9811d7dbc6-13/s250x400/176c2e81344afcfe9e59a0b3b64445c7d83ae447.jpg"]
 
 	/*
 ,
