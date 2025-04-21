@@ -2682,7 +2682,7 @@ var database = [
 
 ["film", ["Barbie"], "2023", ["2023 08 05"], 8, ["ger"], ["comedy"], ["bini", "je"], ["Kino"], ["Greta Gerwig"], ["Margot Robbie", "Alexandra Shipp", "Emma Mackey", "Ana Cruz Kayne", "Ritu Arya", "Dua Lipa", "Ryan Gosling", "Simu Liu", "John Cena", "Michael Cera", "Ariana Greenblatt"], "https://64.media.tumblr.com/339c8e42e8a7ddb06cfa56f7e5f5c353/091dc4ddc628f1a0-1e/s250x400/a53dfe1a3edd09ae6f25ad67236202bce70eb8c0.jpg"],
 
-["comic", ["Homestuck"], ["2009", "2016"], [["2023 08 04", "2023 09 05", "Act1-Act2"], ["2023 09 05", "2023 10 16", "Act3"], ["2023 10 16", "2023 11 20", "Intermission"], ["2023 11 20", "2024 02 08", "Act4"], ["2024 02 08", "", "Act5"]], 0, ["eng"], ["comedy", "adventure"], [], ["watching", "bby"], ["Andrew Hussie"], [], "https://64.media.tumblr.com/dbd56fa57602de75232ea6dc5a9c723a/962912a1219620dc-47/s250x400/341485f84a612c759ae49a8ed3e7a3aa03f86330.pnj"],
+["comic", ["Homestuck"], ["2009", "2016"], [["2023 08 04", "2023 09 05", "Act1-Act2"], ["2023 09 05", "2023 10 16", "Act3"], ["2023 10 16", "2023 11 20", "Intermission"], ["2023 11 20", "2024 02 08", "Act4"], ["2024 02 08", "2025 02 28", "Act5-P2203"]], 0, ["eng"], ["comedy", "adventure"], [], ["ongoing", "bby"], ["Andrew Hussie"], [], "https://64.media.tumblr.com/dbd56fa57602de75232ea6dc5a9c723a/962912a1219620dc-47/s250x400/341485f84a612c759ae49a8ed3e7a3aa03f86330.pnj"],
 /* Act 2 finished 230905 */
 /* Act 3 finished 231016 */
 	
@@ -3198,7 +3198,7 @@ var database = [
 
 ["series", ["The Law According to Lidia Poët", "Das Gesetz nach Lidia Poët", "La legge di Lidia Poët"], ["2023", ""], [["2025 02 09", "2025 03 07", "S1"]], 5, ["ger"], ["biography", "crime"], [], ["ongoing", "Netflix"], ["Guido Iuculano", "Davide Orsini"], ["Matilda De Angelis"], "https://64.media.tumblr.com/f57abb58fcd964588e1856fdaa122cc4/d8ea9da9e48cb668-07/s250x400/a15a4136d6409a0a98e97156f773987013b57c7d.jpg"],
 
-["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", "2021"], [["2025 02 10", "2025 03 10", "S1"], ["2025 03 10", "", "S2"]], 7, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], ["watching"], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"],
+["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", "2021"], [["2025 02 10", "2025 03 10", "S1"], ["2025 03 10", "2025 04 07", "S2"], ["2025 04 07", "", "S2.2"]], 7, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], ["watching"], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"],
 
 ["audiobook", ["Treasure Island", "Die Schatzinsel"], "1883", [["2025 02 19", "2025 02 21"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Robert Louis Stevenson"], ["Bodo Primus"], "https://64.media.tumblr.com/b0ecb87c4c09315e0a21db532cec691f/665f27a9df41486f-09/s250x400/5468a6ae758c9a13644532a7aa51cf853149eb4b.jpg"],
 
@@ -3270,7 +3270,7 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! - Mord mit spitzer Feder"], "2021", [["2025 04 14", "2025 04 15"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/fc339d1bdb9e4a315cbabf7b8dbfa69c/933d02b91cc8f9db-9d/s250x400/b5e9c1c3a5e8baab03c37637ac591b0945ff50c2.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Der Puppenmörder von Hunter's Grove"], "2021", [["2025 04 16", ""]], 6, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/2e2445947d8cc60d4570edd4cded339c/a66d9f9811d7dbc6-13/s250x400/176c2e81344afcfe9e59a0b3b64445c7d83ae447.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! - Der Puppenmörder von Hunter's Grove"], "2021", [["2025 04 16", "2025 04 18"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/2e2445947d8cc60d4570edd4cded339c/a66d9f9811d7dbc6-13/s250x400/176c2e81344afcfe9e59a0b3b64445c7d83ae447.jpg"],
 
 ["film", ["Delicious"], "2025", ["2025 04 18"], 4, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Nele Mueller-Stöfen"], ["Fahri Yardim", "Naila Schuberth", "Johann von Bülow"], "https://64.media.tumblr.com/16d9728595f76a25b2029d9672fed47f/1525488a88ca0993-fc/s250x400/1301c515ea4a631ad09d9f36309a081e3387a460.jpg"],
 
