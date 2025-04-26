@@ -2385,7 +2385,7 @@ var database = [
 
 ["audiobook", ["Dead Men Tell Tales"], "1939", [["2022 09 02", "2022 09 12"]], 6, ["eng"], [], [], ["LibriVox"], ["Harry Rimmer"], ["Maria Agustina Von", "josephineking", "roselbex", "Owlivia", "Ryan Lohner", "BrandonB", "KHand", "MichelleKinge"], "https://64.media.tumblr.com/cd060d321a7738d9b0f8d103c1ee637b/104fb591d360372b-5c/s400x600/1400b273498cfd6725f6694b8eb596b83c402d39.jpg"],
 
-["film", ["13: The Musical", "13: Das Musical"], "2022", ["2022 09 04"], 6, ["ger"], ["comedy", "drama", "musical"], [], ["Netflix"], ["Tamra Davis"], ["Josh Peck", "Khiyla Aynne"], "https://64.media.tumblr.com/8da84e2fee987a2597a77e797d7de365/98050ca1aac85501-89/s250x400/962eeed633a54075b7a75d06e3d5ead87a1ce500.jpg"],
+["film", ["13: The Musical", "13: Das Musical"], "2022", ["2022 09 04", "2025 04 26"], 6, ["ger"], ["comedy", "drama", "musical"], [], ["Netflix"], ["Tamra Davis"], ["Josh Peck", "Khiyla Aynne"], "https://64.media.tumblr.com/8da84e2fee987a2597a77e797d7de365/98050ca1aac85501-89/s250x400/962eeed633a54075b7a75d06e3d5ead87a1ce500.jpg"],
 
 ["series", ["Spare Me, Great Lord!", "Da Wang Rao Ming", "Da Wang Rao Ming"], ["2021", ""], [["2022 09 06", "2022 09 26", "S1"]], 3, ["man"], ["action", "adventure", "animation"], ["bini", "nico"], ["ongoing"], [], [], "https://64.media.tumblr.com/366d6014357ba05e1fc750ba15ffcd02/497b2ccbfbf6dc4e-f0/s250x400/15219bc858f14cfc63f12e88e89f32f5f23d9503.jpg"],
 
@@ -3198,7 +3198,7 @@ var database = [
 
 ["series", ["The Law According to Lidia Poët", "Das Gesetz nach Lidia Poët", "La legge di Lidia Poët"], ["2023", ""], [["2025 02 09", "2025 03 07", "S1"]], 5, ["ger"], ["biography", "crime"], [], ["ongoing", "Netflix"], ["Guido Iuculano", "Davide Orsini"], ["Matilda De Angelis"], "https://64.media.tumblr.com/f57abb58fcd964588e1856fdaa122cc4/d8ea9da9e48cb668-07/s250x400/a15a4136d6409a0a98e97156f773987013b57c7d.jpg"],
 
-["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", "2021"], [["2025 02 10", "2025 03 10", "S1"], ["2025 03 10", "2025 04 07", "S2"], ["2025 04 07", "", "S2.2"]], 7, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], ["watching"], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"],
+["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", "2021"], [["2025 02 10", "2025 03 10", "S1"], ["2025 03 10", "2025 04 07", "S2"], ["2025 04 07", "2025 04 21", "S2.2"]], 7, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], ["watching"], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"],
 
 ["audiobook", ["Treasure Island", "Die Schatzinsel"], "1883", [["2025 02 19", "2025 02 21"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Robert Louis Stevenson"], ["Bodo Primus"], "https://64.media.tumblr.com/b0ecb87c4c09315e0a21db532cec691f/665f27a9df41486f-09/s250x400/5468a6ae758c9a13644532a7aa51cf853149eb4b.jpg"],
 
