@@ -3198,7 +3198,7 @@ var database = [
 
 ["series", ["The Law According to Lidia Poët", "Das Gesetz nach Lidia Poët", "La legge di Lidia Poët"], ["2023", ""], [["2025 02 09", "2025 03 07", "S1"]], 5, ["ger"], ["biography", "crime"], [], ["ongoing", "Netflix"], ["Guido Iuculano", "Davide Orsini"], ["Matilda De Angelis"], "https://64.media.tumblr.com/f57abb58fcd964588e1856fdaa122cc4/d8ea9da9e48cb668-07/s250x400/a15a4136d6409a0a98e97156f773987013b57c7d.jpg"],
 
-["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", "2021"], [["2025 02 10", "2025 03 10", "S1"], ["2025 03 10", "2025 04 07", "S2"], ["2025 04 07", "2025 04 21", "S2.2"]], 7, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], ["watching"], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"],
+["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", "2021"], [["2025 02 10", "2025 03 10", "S1"], ["2025 03 10", "2025 04 07", "S2"], ["2025 04 07", "2025 04 21", "S2.2"], ["2025 04 28", "", "S3"]], 7, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], ["watching"], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"],
 
 ["audiobook", ["Treasure Island", "Die Schatzinsel"], "1883", [["2025 02 19", "2025 02 21"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Robert Louis Stevenson"], ["Bodo Primus"], "https://64.media.tumblr.com/b0ecb87c4c09315e0a21db532cec691f/665f27a9df41486f-09/s250x400/5468a6ae758c9a13644532a7aa51cf853149eb4b.jpg"],
 
@@ -3226,7 +3226,7 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! - Die letzten Worte des Ian O'Shelley"], "2018", [["2025 02 28", "2025 03 05"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/257607aa511c09be40d9391129b7a9f4/f4e9a9f8150a31d0-46/s250x400/c4b44a351736be5befa0f554ad1199ba8644be6c.jpg"],
 
-["book", ["Tales of Terror from the Black Ship", "Schauergeschichten vom schwarzen Schiff"], "2008", [["2025 03 04", ""]], 0, ["ger"], ["horror"], [], ["bibliothek", "watching"], ["Chris Priestley"], [], "https://64.media.tumblr.com/fa859e64764c0f1343a31249cc7f5386/a02614ca2418716c-82/s250x400/6ad6ea6c3d40af160ffd1d53c48ddd9cc73772b8.jpg"],
+["book", ["Tales of Terror from the Black Ship", "Schauergeschichten vom schwarzen Schiff"], "2008", [["2025 03 04", "2025 04 28"]], 9, ["ger"], ["horror"], [], ["bibliothek"], ["Chris Priestley"], [], "https://64.media.tumblr.com/fa859e64764c0f1343a31249cc7f5386/a02614ca2418716c-82/s250x400/6ad6ea6c3d40af160ffd1d53c48ddd9cc73772b8.jpg"],
 
 ["audiobook", ["Tee? Kaffee? Mord! - Der Besuch des lächelnden Belgiers"], "2018", [["2025 03 05", "2025 03 06"]], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/3498cea82e2d35f23d936f577cd6b954/ea3f41666789afe3-fd/s250x400/68d8341948aa4526626f70ea823a5d4858592011.jpg"],
 
