@@ -3254,7 +3254,7 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! - Die kleinen Leute von Pittlewood"], "2020", [["2025 03 29", "2025 04 02"]], 6, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/525e7e782c0722c6ee95c90eb4356093/4fc4666c87207463-18/s250x400/8c7cb87cad10a6be57f4c40eccc8e733a05f7f52.jpg"],
 
-["book", ["Nineteen Eighty-Four", "1984"], "1949", [["2025 03 30", ""]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["George Orwell"], [], "https://64.media.tumblr.com/b4945c23148b15504254a9ecdddbbbff/9a0198e73d5ff68c-c0/s400x600/17f7c45d169be099d048f33d0a06fdf02de86fd6.jpg"],
+["book", ["Nineteen Eighty-Four", "1984"], "1949", [["2025 03 30", "2025 05 13", "P1-27"]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "ongoing"], ["George Orwell"], [], "https://64.media.tumblr.com/b4945c23148b15504254a9ecdddbbbff/9a0198e73d5ff68c-c0/s400x600/17f7c45d169be099d048f33d0a06fdf02de86fd6.jpg"],
 
 ["audiobook", ["Tee? Kaffee? Mord! - Der Besuch der reichen Dame"], "2020", [["2025 04 03", "2025 04 05"]], 6, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/e5996c0c75f8b41a9e0d3f2bdcfa891d/28d06f8569093601-0d/s250x400/a99aa98a50c3d14e96896a0247e21a0a23fc904f.jpg"],
 
