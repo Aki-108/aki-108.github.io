@@ -3134,7 +3134,7 @@ var database = [
 
 ["film", ["Twelve Monkeys", "12 Monkeys"], "1995", ["2024 11 30"], 7, ["ger"], ["mystery", "sci-fi"], [], ["RTL+"], ["Terry Gilliam"], ["Bruce Willis", "Brad Pitt", "Christopher Meloni"], "https://64.media.tumblr.com/c580a03095b0e2e8f532f934934dd607/2ce0b55b491f69a6-0d/s250x400/014a165268df127faa71349212297768bd879e47.jpg"],
 
-["series", ["Phineas and Ferb", "Phineas und Ferb"], ["2007", "2024"], [["2024 12 04", "", "S1"]], 0, ["ger"], ["animation", "comedy"], ["bini", "nico"], ["watching", "Disney+"], ["Jeff 'Swampy' Marsh"], [], "https://64.media.tumblr.com/93c1bf121ce15f170731bf700fab1c05/fd60583ad87c43eb-bd/s250x400/a8be584bc8c05357642dff9cfc4786ff189ac345.jpg"],
+["series", ["Phineas and Ferb", "Phineas und Ferb"], ["2007", "2024"], [["2024 12 04", "2025 05 07", "S1-S2"], ["2025 05 14", "", "S3"]], 0, ["ger"], ["animation", "comedy"], ["bini", "nico"], ["watching", "Disney+"], ["Jeff 'Swampy' Marsh"], [], "https://64.media.tumblr.com/93c1bf121ce15f170731bf700fab1c05/fd60583ad87c43eb-bd/s250x400/a8be584bc8c05357642dff9cfc4786ff189ac345.jpg"],
 
 ["film", ["The Mitchells vs the Machines", "Die Mitchells gegen die Maschinen"], "2021", ["2024 12 07"], 9, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Michael Rianda", "Jeff Rowe"], [], "https://64.media.tumblr.com/459c36130be4fca6f00126e95da53406/810d4e5326d6c9dd-81/s250x400/de05a8faafcf915b39e837f936fb8caa196b5e13.jpg"],
 
@@ -3284,7 +3284,9 @@ var database = [
 
 ["film", ["Alice in Wonderland", "Alice im Wunderland"], "2010", ["2025 04 19"], 6, ["ger"], ["adventure", "family"], [], ["Disney+"], ["Tim Burton"], ["Johnny Depp", "Mia Wasikowska", "Helena Bonham Carter", "Anne Hathaway", "Marton Csokas", "Geraldine James"], "https://64.media.tumblr.com/27592edf43f6ef9ee1fabaa1384e4b37/6fb08ea71fb0dc90-93/s250x400/1714fc23ea279411cec88ffe9ef37cd93d9cb4b7.jpg"],
 
-["film", ["Alice Through the Looking Glass", "Alice im Wunderland: Hinter den Spiegeln"], "2016", ["2025 04 19"], 5, ["ger"], ["adventure", "family"], [], ["Disney+"], ["James Bobin"], ["Johnny Depp", "Mia Wasikowska", "Helena Bonham Carter", "Anne Hathaway", "Geraldine James", "Sacha Baron Cohen"], "https://64.media.tumblr.com/70889bb4491aef1b7274e337a6c51ad3/c11b75fb4865e434-4d/s250x400/9690121d273a6288055049dc613ef7250a792de2.jpg"]
+["film", ["Alice Through the Looking Glass", "Alice im Wunderland: Hinter den Spiegeln"], "2016", ["2025 04 19"], 5, ["ger"], ["adventure", "family"], [], ["Disney+"], ["James Bobin"], ["Johnny Depp", "Mia Wasikowska", "Helena Bonham Carter", "Anne Hathaway", "Geraldine James", "Sacha Baron Cohen"], "https://64.media.tumblr.com/70889bb4491aef1b7274e337a6c51ad3/c11b75fb4865e434-4d/s250x400/9690121d273a6288055049dc613ef7250a792de2.jpg"],
+
+["film", ["Legally Blonde: The Musical"], "2007", ["2025 05 04"], 8, ["eng"], ["musical"], [], [], ["Beth McCarthy-Miller", "Jerry Mitchell"], [], "https://64.media.tumblr.com/1beb158e6d4550ba1ce5e2d51200edc8/f031205510f83aaa-8b/s250x400/6d7ebeb94788cb32462de1ccc4b86fcc50f682fd.jpg"]
 
 	/*
 ,
