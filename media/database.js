@@ -932,7 +932,7 @@ var database = [
 	        
 ["film", ["The DUFF", "Duff: Hast du keine, bist du eine"], "2015", ["2016 05 13"], 8, ["ger"], ["comedy", "romance"], [], [], ["Ari Sandel"], ["Mae Whitman", "Robbie Amell", "Skyler Samuels", "Nick Eversman", "Ken Jeong", "Allison Janney", "Bella Thorne"], "https://66.media.tumblr.com/305931819a8c22125b3d42a306382f64/tumblr_o74issy9JA1v2s5upo1_250.jpg"],
 	        
-["film", ["Footloose"], "1984", ["2016 05 13", ["2024 03 17"]], 8, ["ger"], ["drama", "music"], [], ["Netflix"], ["Herbert Ross"], ["Kevin Bacon", "John Lithgow", "Sarah Jessica Parker"], "https://68.media.tumblr.com/7577b6ec5b2e40f7a1b060a897f5723c/tumblr_o73x2xlfc61v2s5upo1_250.jpg"],
+["film", ["Footloose"], "1984", ["2016 05 13", "2024 03 17", "2025 05 17"], 8, ["ger"], ["drama", "music"], ["bini", "syl"], ["Netflix"], ["Herbert Ross"], ["Kevin Bacon", "John Lithgow", "Sarah Jessica Parker"], "https://68.media.tumblr.com/7577b6ec5b2e40f7a1b060a897f5723c/tumblr_o73x2xlfc61v2s5upo1_250.jpg"],
 	        
 ["short", ["Ruin"], "2011", ["2016 05 12", "2017 08 06"], 5, [], ["animation"], ["nico", "sai", "jessie"], [], ["Wes Ball"], [], "https://66.media.tumblr.com/7f0c303dbf6f13683118f60ea10d8e2d/tumblr_o72wkpwjpa1v2s5upo1_250.jpg"],
 	        
