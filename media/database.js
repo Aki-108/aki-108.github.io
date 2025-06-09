@@ -2271,7 +2271,7 @@ var database = [
 
 ["film", ["Badhaai Do"], "2022", [["2022 06 25", "2022 07 01"]], 8, ["hin"], ["comedy", "crime"], ["bini", "mai"], ["Netflix"], ["Harshavardhan Kulkarni"], [], "https://64.media.tumblr.com/19e098aca5d66b71f930e075026752cc/f9329bfd238d17a4-06/s250x400/929c766a8486a8cd4766a1759fab59ec27788188.jpg"],
 
-["film", ["Jurassic World Dominion", "Jurassic World: Ein neues Zeitalter"], "2022", ["2022 06 27"], 7, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Jurassic Park", "Kino"], ["Colin Trevorrow"], ["Chris Pratt", "Bryce Dallas Howard", "Laura Dern", "Sam Neill", "Jeff Goldblum", "Isabella Sermon", "BD Wong", "Omar Sy", "Justice Smith"], "https://64.media.tumblr.com/a17b5b0f69d8aa483647f331cf9579db/b2e654facb5ceb76-c2/s250x400/62605a9f58fd3a8df44e7aec99ad1b6b97124c3f.jpg"],
+["film", ["Jurassic World Dominion", "Jurassic World: Ein neues Zeitalter"], "2022", ["2022 06 27", ["2025 06 09"]], 7, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Jurassic Park", "Kino"], ["Colin Trevorrow"], ["Chris Pratt", "Bryce Dallas Howard", "Laura Dern", "Sam Neill", "Jeff Goldblum", "Isabella Sermon", "BD Wong", "Omar Sy", "Justice Smith"], "https://64.media.tumblr.com/a17b5b0f69d8aa483647f331cf9579db/b2e654facb5ceb76-c2/s250x400/62605a9f58fd3a8df44e7aec99ad1b6b97124c3f.jpg"],
 
 ["series", ["Encouragement of Climb", "Encouragement of Climb", "Yama no Susume"], ["2013", "2018"], [["2022 06 28", "S1"], ["2022 06 28", "Special"]], 7, ["jap"], ["anime", "adventure"], ["bini", "nico"], ["ongoing"], ["Kazuyuki Fudeyasu", "Yûsuke Yamamoto"], [], "https://64.media.tumblr.com/4b6363e01817e76056f937d9096e7de8/edfa00da095d3fae-fb/s250x400/3ae875cfc0895dec1f00ade6ab41f93a7cac14dd.jpg"],
 
@@ -3288,7 +3288,9 @@ var database = [
 
 ["film", ["Legally Blonde: The Musical"], "2007", ["2025 05 04"], 8, ["eng"], ["musical"], [], [], ["Beth McCarthy-Miller", "Jerry Mitchell"], [], "https://64.media.tumblr.com/1beb158e6d4550ba1ce5e2d51200edc8/f031205510f83aaa-8b/s250x400/6d7ebeb94788cb32462de1ccc4b86fcc50f682fd.jpg"],
 
-["film", ["The Guilty"], "2021", ["2025 05 18"], 5, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Antoine Fuqua"], ["Jake Gyllenhaal", "Adrian Martinez"], "https://64.media.tumblr.com/e5039777388edb12a5b254f8c494e375/fc921a4e6b2ed4ce-6e/s250x400/72bdee73885ac34844ecbf79fd62bb50e20b48da.jpg"]
+["film", ["The Guilty"], "2021", ["2025 05 18"], 5, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Antoine Fuqua"], ["Jake Gyllenhaal", "Adrian Martinez"], "https://64.media.tumblr.com/e5039777388edb12a5b254f8c494e375/fc921a4e6b2ed4ce-6e/s250x400/72bdee73885ac34844ecbf79fd62bb50e20b48da.jpg"],
+
+["film", ["Delicious in Dungeon", "Delicious in Dungeon", "Dungeon Meshi"], "2024", [["2025 06 09", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "fantasy"], ["bini", "nico"], ["Netflix", "watching"], ["Nanami Higuchi", "Kui Ryôko", "Yu Sato"], [], "https://64.media.tumblr.com/ebd09515132b29d667e82ee1ef5a4197/ed0ecdeecb534ce9-db/s250x400/78844942c6502ea1217d4241acb98095f7538ab8.jpg"]
 
 	/*
 ,
