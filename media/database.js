@@ -3290,7 +3290,9 @@ var database = [
 
 ["film", ["The Guilty"], "2021", ["2025 05 18"], 5, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Antoine Fuqua"], ["Jake Gyllenhaal", "Adrian Martinez"], "https://64.media.tumblr.com/e5039777388edb12a5b254f8c494e375/fc921a4e6b2ed4ce-6e/s250x400/72bdee73885ac34844ecbf79fd62bb50e20b48da.jpg"],
 
-["film", ["Delicious in Dungeon", "Delicious in Dungeon", "Dungeon Meshi"], "2024", [["2025 06 09", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "fantasy"], ["bini", "nico"], ["Netflix", "watching"], ["Nanami Higuchi", "Kui Ryôko", "Yu Sato"], [], "https://64.media.tumblr.com/ebd09515132b29d667e82ee1ef5a4197/ed0ecdeecb534ce9-db/s250x400/78844942c6502ea1217d4241acb98095f7538ab8.jpg"]
+["film", ["Delicious in Dungeon", "Delicious in Dungeon", "Dungeon Meshi"], "2024", [["2025 06 09", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "fantasy"], ["bini", "nico"], ["Netflix", "watching"], ["Nanami Higuchi", "Kui Ryôko", "Yu Sato"], [], "https://64.media.tumblr.com/ebd09515132b29d667e82ee1ef5a4197/ed0ecdeecb534ce9-db/s250x400/78844942c6502ea1217d4241acb98095f7538ab8.jpg"],
+
+["audiobook", ["Die Dämonenfängerin"], "2011", [["2025 06 11", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Jana Oliver"], ["Luise Helm"], "https://64.media.tumblr.com/1fc5ae178fc08331a47c62ee1d65d732/4af9de16153ebf52-72/s250x400/3ba2114ecd4833f72a5b597c720dc8cbbac04a82.jpg"]
 
 	/*
 ,
