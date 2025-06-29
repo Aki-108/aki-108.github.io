@@ -281,7 +281,7 @@ var database = [
 	        
 ["audiobook", ["Harry Potter and the Deathly Hallows", "Harry Potter und die Heiligtümer des Todes"], "2007", [["2020 05 27", "2020 06 08"], ["2024 09 11", "2024 10 19"]], 9, ["eng", "ger"], ["fantasy"], [], ["Harry Potter", "bibliothek"], ["J. K. Rowling"], ["Rufus Beck"], "https://66.media.tumblr.com/d4bd058969e0a06d883977fa863b3f4a/cd592c8a6bab77fb-94/s250x400/c3eeefce6afd279a5943cb589771aaf4cc2acdda.jpg"],
 	        
-["film", ["Harry Potter and the Philosopher's Stone", "Harry Potter und der Stein der Weisen"], "2001", ["2015 08 28", "2017 08 02", "2020 04 05", "2024 03 29"], 6, ["ger", "eng"], ["adventure", "family", "fantasy"], ["bini"], ["Harry Potter", "Netflix"], ["Chris Columbus"], ["Robbie Coltrane", "Daniel Radcliffe", "Fiona Shaw", "Harry Melling", "Bonnie Wright", "Rupert Grint", "Emma Watson", "Matthew Lewis", "Tom Felton", "David Bradley", "Richard Griffiths", "Alan Rickman"], "https://40.media.tumblr.com/af5141e46638c0b31f53e4f799903f74/tumblr_o0owmoz4Al1v2s5upo1_250.jpg"],
+["film", ["Harry Potter and the Philosopher's Stone", "Harry Potter und der Stein der Weisen"], "2001", ["2015 08 28", "2017 08 02", "2020 04 05", "2024 03 29"], 6, ["ger", "eng"], ["adventure", "family", "fantasy"], ["bini"], ["Harry Potter", "Netflix"], ["Chris Columbus"], ["Robbie Coltrane", "Daniel Radcliffe", "Fiona Shaw", "Harry Melling", "Bonnie Wright", "Rupert Grint", "Emma Watson", "Matthew Lewis", "Tom Felton", "David Bradley", "Richard Griffiths", "Alan Rickman", "John Hurt"], "https://40.media.tumblr.com/af5141e46638c0b31f53e4f799903f74/tumblr_o0owmoz4Al1v2s5upo1_250.jpg"],
 	        
 ["film", ["Harry Potter and the Chamber of Secrets", "Harry Potter und die Kammer des Schreckens"], "2002", ["2015 09 11", "2017 08 04", "2020 04 10", "2024 03 29"], 8, ["ger", "eng"], ["adventure", "family", "fantasy"], [], ["Harry Potter", "Netflix"], ["Chris Columbus"], ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Fiona Shaw", "Harry Melling", "Toby Jones", "Bonnie Wright", "Tom Felton", "Matthew Lewis", "David Bradley", "Richard Griffiths", "Alan Rickman"], "https://49.media.tumblr.com/5e740d07e42297613a9195a341579b76/tumblr_o0sv2mr1Jk1v2s5upo1_250.jpg"],
 	        
@@ -293,9 +293,9 @@ var database = [
 	        
 ["film", ["Harry Potter and the Half-Blood Prince", "Harry Potter und der Halbblutprinz"], "2009", ["2015 10 21", "2020 05 16", "2024 03 31"], 7, ["ger", "eng"], ["action", "adventure", "fantasy"], ["bini"], ["Harry Potter", "Netflix"], ["David Yates"], ["Daniel Radcliffe", "Bonnie Wright", "Rupert Grint", "Emma Watson", "Helena Bonham Carter", "Tom Felton", "David Bradley", "Matthew Lewis", "Evanna Lynch", "Timothy Spall", "David Thewlis", "Jim Broadbent", "Anna Shaffer", "Alan Rickman", "Helen McCrory"], "https://66.media.tumblr.com/0d1ae9d827f91b1c56e4ce9aa3e56463/tumblr_pwf7x3nXGP1v2s5upo1_250.jpg"],
 	        
-["film", ["Harry Potter and the Deathly Hallows: Part 1", "Harry Potter und die Heiligtümer des Todes - Teil 1"], "2010", ["2015 10 22", "2020 06 21", "2024 03 31"], 8, ["ger", "eng"], ["adventure", "family", "fantasy"], ["bini"], ["Harry Potter", "Netflix"], ["David Yates"], ["Bill Nighy", "Emma Watson", "Harry Melling", "Daniel Radcliffe", "Bonnie Wright", "Rupert Grint", "Fiona Shaw", "Helena Bonham Carter", "Tom Felton", "Evanna Lynch", "Matthew Lewis", "Timothy Spall", "David Thewlis", "Domhnall Gleeson", "Ciarán Hinds", "Anna Shaffer", "Jamie Campbell Bower", "Alan Rickman", "Ralph Fiennes", "Hebe Beardsall", "Helen McCrory"], "https://66.media.tumblr.com/0d3ca130fc2bb52f85b0fbb124e53a08/tumblr_pwf7zg59X81v2s5upo1_250.jpg"],
+["film", ["Harry Potter and the Deathly Hallows: Part 1", "Harry Potter und die Heiligtümer des Todes - Teil 1"], "2010", ["2015 10 22", "2020 06 21", "2024 03 31"], 8, ["ger", "eng"], ["adventure", "family", "fantasy"], ["bini"], ["Harry Potter", "Netflix"], ["David Yates"], ["Bill Nighy", "Emma Watson", "Harry Melling", "Daniel Radcliffe", "Bonnie Wright", "Rupert Grint", "Fiona Shaw", "Helena Bonham Carter", "Tom Felton", "Evanna Lynch", "Matthew Lewis", "Timothy Spall", "David Thewlis", "Domhnall Gleeson", "Ciarán Hinds", "Anna Shaffer", "Jamie Campbell Bower", "Alan Rickman", "Ralph Fiennes", "Hebe Beardsall", "Helen McCrory", "John Hurt"], "https://66.media.tumblr.com/0d3ca130fc2bb52f85b0fbb124e53a08/tumblr_pwf7zg59X81v2s5upo1_250.jpg"],
 	        
-["film", ["Harry Potter and the Deathly Hallows: Part 2", "Harry Potter und die Heiligtümer des Todes - Teil 2"], "2011", ["2015 10 27", "2020 06 22", "2024 04 01"], 8, ["ger", "eng"], ["adventure", "drama", "fantasy"], ["bini"], ["Harry Potter", "Netflix"], ["David Yates"], ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Evanna Lynch", "Helena Bonham Carter", "Tom Felton", "Matthew Lewis", "Bonnie Wright", "David Bradley", "Timothy Spall", "David Thewlis", "Richard Griffiths", "Domhnall Gleeson", "Jim Broadbent", "Bertie Gilbert", "Anna Shaffer", "Alan Rickman", "Ralph Fiennes", "Hebe Beardsall", "Helen McCrory"], "https://66.media.tumblr.com/65fb7bf305be439f86267538404cf805/tumblr_pwko808afN1v2s5upo1_250.jpg"],
+["film", ["Harry Potter and the Deathly Hallows: Part 2", "Harry Potter und die Heiligtümer des Todes - Teil 2"], "2011", ["2015 10 27", "2020 06 22", "2024 04 01"], 8, ["ger", "eng"], ["adventure", "drama", "fantasy"], ["bini"], ["Harry Potter", "Netflix"], ["David Yates"], ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Evanna Lynch", "Helena Bonham Carter", "Tom Felton", "Matthew Lewis", "Bonnie Wright", "David Bradley", "Timothy Spall", "David Thewlis", "Richard Griffiths", "Domhnall Gleeson", "Jim Broadbent", "Bertie Gilbert", "Anna Shaffer", "Alan Rickman", "Ralph Fiennes", "Hebe Beardsall", "Helen McCrory", "John Hurt"], "https://66.media.tumblr.com/65fb7bf305be439f86267538404cf805/tumblr_pwko808afN1v2s5upo1_250.jpg"],
 	        
 ["film", ["Up", "Oben"], "2009", ["2018 09 02"], 6, ["ger"], ["animation", "adventure"], ["syl"], [], ["Pete Docter", "Bob Peterson"], [], "https://66.media.tumblr.com/b9a91f5e56a47e9548d83ba23197594e/a4d1b298889a6619-5c/s250x400/3ca8114b46862cafb0c42443333f7f9fb0b5965f.jpg"],
 	        
@@ -802,7 +802,7 @@ var database = [
 	        
 ["film", ["District 9"], "2009", ["2017 04 03"], 7, ["ger"], ["action", "sci-fi"], [], [], ["Neill Blomkamp"], [], "https://68.media.tumblr.com/1364359ae7d145a5abb85f1bd9574e7d/tumblr_oo34xuBkeg1v2s5upo1_250.jpg"],
 	        
-["film", ["Spaceballs"], "1987", ["2017 02 25"], 7, ["ger"], ["adventure", "comedy"], ["jani", "bini", "jessie", "lilly", "linh", "sai"], [], ["Mel Brooks"], ["Rick Moranis", "Bill Pullman"], "https://68.media.tumblr.com/4d4a93287ef19a56c6c3da621835cd86/tumblr_om8zwca8MR1v2s5upo1_250.jpg"],
+["film", ["Spaceballs"], "1987", ["2017 02 25"], 7, ["ger"], ["adventure", "comedy"], ["jani", "bini", "jessie", "lilly", "linh", "sai"], [], ["Mel Brooks"], ["Rick Moranis", "Bill Pullman", "John Hurt"], "https://68.media.tumblr.com/4d4a93287ef19a56c6c3da621835cd86/tumblr_om8zwca8MR1v2s5upo1_250.jpg"],
 	        
 ["film", ["Westworld"], "1973", ["2017 02 15"], 5, ["ger"], ["action", "sci-fi", "western"], [], [], ["Michael Crichton"], [], "https://68.media.tumblr.com/755e731a8e09ad3f8407ed69925d548e/tumblr_olj7gwzEU61v2s5upo1_250.jpg"],
 	        
@@ -980,7 +980,7 @@ var database = [
 	        
 ["film", ["The Garden of Words"], "2013", ["2016 03 30"], 7, ["jap"], ["anime", "drama"], ["bini"], [], ["Makoto Shinkai"], [], "https://40.media.tumblr.com/785c031bb41f3d37bb25f602aebcaf43/tumblr_o4velsP8Nw1v2s5upo1_250.jpg"],
 	        
-["film", ["Indiana Jones and the Kingdom of the Crystal Skull", "Indiana Jones und das Königreich des Kristallschädels"], "2008", ["2016 03 21", "2017 11 01", "2023 07 21", "2024 12 31"], 8, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Indiana Jones", "Netflix", "DVD"], ["Steven Spielberg"], ["Harrison Ford", "Cate Blanchett", "Shia LaBeouf", "Andrew Divoff", "Alan Dale", "Neil Flynn", "Karen Allen"], "https://40.media.tumblr.com/7ac811363dde5fb36742145ff5a077c0/tumblr_o4eot320G31v2s5upo1_250.jpg"],
+["film", ["Indiana Jones and the Kingdom of the Crystal Skull", "Indiana Jones und das Königreich des Kristallschädels"], "2008", ["2016 03 21", "2017 11 01", "2023 07 21", "2024 12 31"], 8, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Indiana Jones", "Netflix", "DVD"], ["Steven Spielberg"], ["Harrison Ford", "Cate Blanchett", "Shia LaBeouf", "Andrew Divoff", "Alan Dale", "Neil Flynn", "Karen Allen", "John Hurt"], "https://40.media.tumblr.com/7ac811363dde5fb36742145ff5a077c0/tumblr_o4eot320G31v2s5upo1_250.jpg"],
 	        
 ["film", ["Indiana Jones and the Last Crusade", "Indiana Jones und der letzte Kreuzzug"], "1989", ["2016 02 13", "2023 07 08"], 7, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Sean Connery", "Alison Doody"], "https://49.media.tumblr.com/46dcb49054fe63c9596e759f92207ef9/tumblr_o2j6kc2glH1v2s5upo1_250.jpg"],
 	        
@@ -1258,7 +1258,7 @@ var database = [
 	        
 ["film", ["My Sister's Keeper", "Beim Leben meiner Schwester"], "2009", ["2016 04 19"], 6, ["ger"], ["drama", "family"], [], [], ["Nick Cassavetes"], ["Abigail Breslin", "Cameron Diaz", "Alec Baldwin", "Joan Cusack"], "https://40.media.tumblr.com/fd594d0c2034d9c88c0e13b0c14ad765/tumblr_o5w8qh6D1r1v2s5upo1_250.jpg"],
 	        
-["film", ["Outlander"], "2008", ["2016 05 15"], 7, ["ger"], ["action", "adventure"], [], [], ["Howard McCain"], ["Jim Caviezel", "Ron Perlman", "Sophia Myles"], "https://68.media.tumblr.com/8826e1d24b95fb98cb5858ea2286bbda/tumblr_o77ygqP46X1v2s5upo1_250.jpg"],
+["film", ["Outlander"], "2008", ["2016 05 15"], 7, ["ger"], ["action", "adventure"], [], [], ["Howard McCain"], ["Jim Caviezel", "Ron Perlman", "Sophia Myles", "John Hurt"], "https://68.media.tumblr.com/8826e1d24b95fb98cb5858ea2286bbda/tumblr_o77ygqP46X1v2s5upo1_250.jpg"],
 	        
 ["film", ["Resident Evil"], "2002", ["2016 05 17"], 8, ["ger"], ["action", "horror"], [], ["Resident Evil"], ["Paul W.S. Anderson"], ["Milla Jovovich", "Michelle Rodriguez", "Heike Makatsch"], "https://68.media.tumblr.com/30a629ad38171e2f1328a705820e7a59/tumblr_o7ha4kM0VN1v2s5upo1_250.jpg"],
 	        
@@ -1720,7 +1720,7 @@ var database = [
 
 ["film", ["Eighth Grade"], "2018", ["2021 02 05"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Bo Burnham"], ["Jake Ryan", "Imani Lewis"], "https://64.media.tumblr.com/bf3e142a4d848a56aaab6996908a2411/d29826633fcbea74-16/s250x400/33a141e154e645351a2167ee589a53adf3d53177.jpg"],
 
-["series", ["Snowpiercer"], "2020", [["2021 02 05", "2021 02 08", "S1"], ["2021 02 13", "2021 04 02", "S2"]], 5, ["ger"], ["action", "drama", "sci-fi"], [], ["Netflix", "ongoing"], ["Josh Friedman", "Graeme Manson"], ["Sheila Vand", "Annalise Basso", "Miranda Edwards", "Sean Bean", "Timothy V. Murphy", "Madeleine Arthur", "Jennifer Connelly", "Rowan Blanchard", "Shaun Toub", "Kurt Ostlund"], "https://64.media.tumblr.com/3477ca09fd2b3bb5d18fea7d51fa0d40/e3297eb57edd7e85-c9/s250x400/9c46b73e0945e344c59d0fda6ff444734c3b0982.jpg"],
+["series", ["Snowpiercer"], "2020", [["2021 02 05", "2021 02 08", "S1"], ["2021 02 13", "2021 04 02", "S2"]], 5, ["ger"], ["action", "drama", "sci-fi"], [], ["Netflix", "ongoing"], ["Josh Friedman", "Graeme Manson"], ["Sheila Vand", "Annalise Basso", "Miranda Edwards", "Sean Bean", "Timothy V. Murphy", "Madeleine Arthur", "Jennifer Connelly", "Rowan Blanchard", "Shaun Toub", "Kurt Ostlund", "John Hurt"], "https://64.media.tumblr.com/3477ca09fd2b3bb5d18fea7d51fa0d40/e3297eb57edd7e85-c9/s250x400/9c46b73e0945e344c59d0fda6ff444734c3b0982.jpg"],
 
 ["film", ["How to Lose a Guy in 10 Days", "Wie werde ich ihn los in 10 Tagen"], "2003", ["2021 02 18"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Donald Petrie"], ["Kate Hudson", "Matthew McConaughey", "Kathryn Hahn"], "https://64.media.tumblr.com/a9ed55c0a0882f0b421242460cb48778/158e9caf790b9ed9-0a/s250x400/119393a1d9f45f43c1566316500391d7b7ee51cf.jpg"],
 
@@ -3054,7 +3054,7 @@ var database = [
 
 ["series", ["Lonelygirl15"], ["2006", "2016"], [["2024 09 28", "2024 10 27", "S1E1-S1E180"]], 0, ["eng"], ["drama"], [], ["YouTube"], ["Miles Beckett", "Greg Goodfried", "Mesh Flinders"], ["Yousef Abu-Taleb", "Jackson Davis", "Jessica Rose"], "https://64.media.tumblr.com/2e477de722bb5ab70464ce332e8f7173/be12f6f64b20a6b3-b1/s250x400/8dcb298fbeb9adb22930675f45eface1609a2aed.jpg"],
 
-["series", ["A Good Girl's Guide to Murder"], "2024", [["2024 09 28", "2024 09 29", "S1"], ["2025 06 29", "", "S1"]], 8, ["ger"], ["drama", "mystery"], [], ["ZDF Neo", "watching"], ["Poppy Cogan", "Holly Jackson"], ["Emma Myers"], "https://64.media.tumblr.com/7d75c4452547184b4ac9c8287ad79531/c4d95847e9946dcd-76/s250x400/9ab8557c8d62cecfd05eea4913e70b07c9604ebb.jpg"],
+["series", ["A Good Girl's Guide to Murder"], "2024", [["2024 09 28", "2024 09 29", "S1"], ["2025 06 29", "S1"]], 8, ["ger"], ["drama", "mystery"], [], ["ZDF Neo"], ["Poppy Cogan", "Holly Jackson"], ["Emma Myers"], "https://64.media.tumblr.com/7d75c4452547184b4ac9c8287ad79531/c4d95847e9946dcd-76/s250x400/9ab8557c8d62cecfd05eea4913e70b07c9604ebb.jpg"],
 
 ["series", ["Hannah Montana"], ["2006", "2011"], [["2024 10 02", "2024 11 27", "S1"]], 4, ["ger"], ["comedy", "family"], ["bini", "nico"], ["Disney+"], ["Richard Correll", "Barry O'Brien"], ["Miley Cyrus"], "https://64.media.tumblr.com/c46019b41a1a54ad294cca84744d6fbc/49fc4c8f78992291-03/s250x400/ebe9f8358e51c5853adafa367e115a61cb7a2dd8.jpg"],
 
@@ -3292,7 +3292,9 @@ var database = [
 
 ["film", ["Delicious in Dungeon", "Delicious in Dungeon", "Dungeon Meshi"], "2024", [["2025 06 09", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "fantasy"], ["bini", "nico"], ["Netflix", "watching"], ["Nanami Higuchi", "Kui Ryôko", "Yu Sato"], [], "https://64.media.tumblr.com/ebd09515132b29d667e82ee1ef5a4197/ed0ecdeecb534ce9-db/s250x400/78844942c6502ea1217d4241acb98095f7538ab8.jpg"],
 
-["audiobook", ["Die Dämonenfängerin"], "2011", [["2025 06 11", "2025 06 16"]], 5, ["ger"], ["fantasy"], [], ["bibliothek"], ["Jana Oliver"], ["Luise Helm"], "https://64.media.tumblr.com/1fc5ae178fc08331a47c62ee1d65d732/4af9de16153ebf52-72/s250x400/3ba2114ecd4833f72a5b597c720dc8cbbac04a82.jpg"]
+["audiobook", ["Die Dämonenfängerin"], "2011", [["2025 06 11", "2025 06 16"]], 5, ["ger"], ["fantasy"], [], ["bibliothek"], ["Jana Oliver"], ["Luise Helm"], "https://64.media.tumblr.com/1fc5ae178fc08331a47c62ee1d65d732/4af9de16153ebf52-72/s250x400/3ba2114ecd4833f72a5b597c720dc8cbbac04a82.jpg"],
+
+["film", ["1984"], "1984", ["2025 06 22"], 3, ["ger"], [], [], ["bibliothek"], ["Michael Radford"], ["John Hurt"], "https://64.media.tumblr.com/cb7ea73a94bd5df65539ae7e824055be/04c3d81568f6fd59-d5/s250x400/544625e865bf83312ed7bd4b1b4f14b5a6957f97.jpg"]
 
 	/*
 ,
