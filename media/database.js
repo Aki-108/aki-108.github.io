@@ -3204,7 +3204,7 @@ var database = [
 
 ["audiobook", ["Tatort Erde: Auf der Flucht durch Tokio"], "2007", ["2025 02 21"], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Alexandra Fischer-Hunold"], ["Peter Veit", "Stefanie Müller"], "https://64.media.tumblr.com/5c5b38d5c448d46b7d2da1be00297603/af91fa1c095e0e0a-39/s250x400/ce489924a0314c55c5589323e2875c535e32ad2a.jpg"],
 
-["series", ["Peaky Blinders", "Peaky Blinders - Gangs of Birmingham"], ["2013", "2022"], [["2025 02 23", "2025 02 25", "S1"], ["2025 02 26", "2025 03 09", "S2"], ["2025 03 16", "", "S3"]], 7, ["ger"], ["crime", "drama"], [], ["bibliothek", "ongoing", "watching"], ["Steven Knight"], ["Cillian Murphy", "Paul Anderson", "Helen McCrory", "Annabelle Wallis", "Tom Hardy"], "https://64.media.tumblr.com/3a3d7fe5f19600d59b03e3c31be485bb/50ddfa8ed31d52de-36/s250x400/00c28eec4a0c2c3c0f6b740cb3aa1c816c399e72.jpg"],
+["series", ["Peaky Blinders", "Peaky Blinders - Gangs of Birmingham"], ["2013", "2022"], [["2025 02 23", "2025 02 25", "S1"], ["2025 02 26", "2025 03 09", "S2"], ["2025 03 16", "2025 07 02", "S3"]], 7, ["ger"], ["crime", "drama"], [], ["bibliothek", "ongoing"], ["Steven Knight"], ["Cillian Murphy", "Paul Anderson", "Helen McCrory", "Annabelle Wallis", "Tom Hardy"], "https://64.media.tumblr.com/3a3d7fe5f19600d59b03e3c31be485bb/50ddfa8ed31d52de-36/s250x400/00c28eec4a0c2c3c0f6b740cb3aa1c816c399e72.jpg"],
 
 ["film", ["Back in Action"], "2025", ["2025 02 23"], 6, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Seth Gordon"], ["Jamie Foxx", "Cameron Diaz", "Kyle Chandler", "Glenn Close", "Andrew Scott"], "https://64.media.tumblr.com/96150d39db49eb486b722ca75e3047e6/a183aa428849deae-2b/s250x400/05ac3d2d418824700cc8f74b8ecc0697cb07895c.jpg"],
 
