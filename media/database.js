@@ -554,7 +554,7 @@ var database = [
 	        
 ["film", ["Three Wishes for Cinderella", "Drei Haselnüsse für Aschenbrödel", "Tri orísky pro Popelku"], "1973", ["2015 12 24", "2016 12 24", "2017 12 24", "2017 12 25", "2018 12 24", "2019 12 24", "2020 12 24", "2021 12 24", "2022 12 24", "2023 12 24", "2024 12 24"], 6, ["ger"], ["drama"], ["bini", "syl", "je"], ["Netflix"], ["Václav Vorlícek"], [], "https://49.media.tumblr.com/423c432c7706d2941a0e314cb118b444/tumblr_nzvr95nGyQ1v2s5upo1_250.jpg"],
 	        
-["film", ["The Truman Show", "Die Truman Show"], "1998", ["2015 10 29", "2018 02 02", "2018 02 23", "2019 07 15"], 8, ["eng", "ger"], ["comedy", "drama"], ["bini"], ["Schule", "Netflix"], ["Peter Weir"], ["Jim Carrey", "Laura Linney", "Natascha McElhone", "Holland Taylor", "Ed Harris"], "https://66.media.tumblr.com/7d347849969f5725f06f51dd2e26a13f/tumblr_pwoovrE4HJ1v2s5upo1_250.jpg"],
+["film", ["The Truman Show", "Die Truman Show"], "1998", ["2015 10 29", "2018 02 02", "2018 02 23", "2019 07 15", "2025 07 04"], 8, ["eng", "ger"], ["comedy", "drama"], ["bini"], ["Schule", "Netflix"], ["Peter Weir"], ["Jim Carrey", "Laura Linney", "Natascha McElhone", "Holland Taylor", "Ed Harris"], "https://66.media.tumblr.com/7d347849969f5725f06f51dd2e26a13f/tumblr_pwoovrE4HJ1v2s5upo1_250.jpg"],
 	        
 ["film", ["Attack the Block"], "2011", ["2015 09 13", "2016 08 05", "2017 08 01"], 9, ["ger"], ["action", "adventure", "supernatural"], ["jenny", "sai", "nico", "bini"], [], ["Joe Cornish"], ["Jodie Whittaker", "Nick Frost", "John Boyega"], "https://66.media.tumblr.com/fb54890b2b79db8103192263b20c50ee/tumblr_of8pvlIKlk1v2s5upo1_250.jpg"],
 	        
@@ -3294,7 +3294,11 @@ var database = [
 
 ["audiobook", ["Die Dämonenfängerin"], "2011", [["2025 06 11", "2025 06 16"]], 5, ["ger"], ["fantasy"], [], ["bibliothek"], ["Jana Oliver"], ["Luise Helm"], "https://64.media.tumblr.com/1fc5ae178fc08331a47c62ee1d65d732/4af9de16153ebf52-72/s250x400/3ba2114ecd4833f72a5b597c720dc8cbbac04a82.jpg"],
 
-["film", ["1984"], "1984", ["2025 06 22"], 3, ["ger"], [], [], ["bibliothek"], ["Michael Radford"], ["John Hurt"], "https://64.media.tumblr.com/cb7ea73a94bd5df65539ae7e824055be/04c3d81568f6fd59-d5/s250x400/544625e865bf83312ed7bd4b1b4f14b5a6957f97.jpg"]
+["film", ["1984"], "1984", ["2025 06 22"], 3, ["ger"], [], [], ["bibliothek"], ["Michael Radford"], ["John Hurt"], "https://64.media.tumblr.com/cb7ea73a94bd5df65539ae7e824055be/04c3d81568f6fd59-d5/s250x400/544625e865bf83312ed7bd4b1b4f14b5a6957f97.jpg"],
+
+["film", ["The Amazing Spider-Man 2"], "2014", ["2025 06 29"], 6, ["ger"], ["action", "adventure"], [], ["Marvel", "Netflix"], ["Marc Webb"], ["Andrew Garfield", "Emma Stone", "Jamie Foxx", "Dane DeHaan", "Felicity Jones", "Paul Giamatti", "Adrian Martinez", "Stan Lee"], "https://64.media.tumblr.com/4fa1df4c3c837492283b16cd8e80605f/cc5ed1dba2e2d45c-f3/s250x400/6a068a7817bd6ebcf9f7c7110df621d77b3819ce.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Ein Grab für drei"], "2022", [["2025 07 01", "2025 07 04"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1cecdc7a2ba040009ab0808f7e9aecc2/64a035a1e32982c5-c8/s250x400/5375c3c245db02774076b5751003eecae281c123.jpg"]
 
 	/*
 ,
