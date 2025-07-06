@@ -3290,7 +3290,7 @@ var database = [
 
 ["film", ["The Guilty"], "2021", ["2025 05 18"], 5, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Antoine Fuqua"], ["Jake Gyllenhaal", "Adrian Martinez"], "https://64.media.tumblr.com/e5039777388edb12a5b254f8c494e375/fc921a4e6b2ed4ce-6e/s250x400/72bdee73885ac34844ecbf79fd62bb50e20b48da.jpg"],
 
-["film", ["Delicious in Dungeon", "Delicious in Dungeon", "Dungeon Meshi"], "2024", [["2025 06 09", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "fantasy"], ["bini", "nico"], ["Netflix", "watching"], ["Nanami Higuchi", "Kui Ryôko", "Yu Sato"], [], "https://64.media.tumblr.com/ebd09515132b29d667e82ee1ef5a4197/ed0ecdeecb534ce9-db/s250x400/78844942c6502ea1217d4241acb98095f7538ab8.jpg"],
+["series", ["Delicious in Dungeon", "Delicious in Dungeon", "Dungeon Meshi"], "2024", [["2025 06 09", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "fantasy"], ["bini", "nico"], ["Netflix", "watching"], ["Nanami Higuchi", "Kui Ryôko", "Yu Sato"], [], "https://64.media.tumblr.com/ebd09515132b29d667e82ee1ef5a4197/ed0ecdeecb534ce9-db/s250x400/78844942c6502ea1217d4241acb98095f7538ab8.jpg"],
 
 ["audiobook", ["Die Dämonenfängerin"], "2011", [["2025 06 11", "2025 06 16"]], 5, ["ger"], ["fantasy"], [], ["bibliothek"], ["Jana Oliver"], ["Luise Helm"], "https://64.media.tumblr.com/1fc5ae178fc08331a47c62ee1d65d732/4af9de16153ebf52-72/s250x400/3ba2114ecd4833f72a5b597c720dc8cbbac04a82.jpg"],
 
@@ -3298,7 +3298,11 @@ var database = [
 
 ["film", ["The Amazing Spider-Man 2"], "2014", ["2025 06 29"], 6, ["ger"], ["action", "adventure"], [], ["Marvel", "Netflix"], ["Marc Webb"], ["Andrew Garfield", "Emma Stone", "Jamie Foxx", "Dane DeHaan", "Felicity Jones", "Paul Giamatti", "Adrian Martinez", "Stan Lee"], "https://64.media.tumblr.com/4fa1df4c3c837492283b16cd8e80605f/cc5ed1dba2e2d45c-f3/s250x400/6a068a7817bd6ebcf9f7c7110df621d77b3819ce.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Ein Grab für drei"], "2022", [["2025 07 01", "2025 07 04"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1cecdc7a2ba040009ab0808f7e9aecc2/64a035a1e32982c5-c8/s250x400/5375c3c245db02774076b5751003eecae281c123.jpg"]
+["audiobook", ["Tee? Kaffee? Mord! - Ein Grab für drei"], "2022", [["2025 07 01", "2025 07 04"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1cecdc7a2ba040009ab0808f7e9aecc2/64a035a1e32982c5-c8/s250x400/5375c3c245db02774076b5751003eecae281c123.jpg"],
+
+["film", ["Sniper: Assassin's End"], "2020", ["2025 07 05"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Kaare Andrews"], [], "https://64.media.tumblr.com/400a86ccf1c0522cd27c546ceee7f09b/9f93d35c6f7181ff-60/s250x400/8c25afed987bbb1bb996e7e378dbd3565714e89b.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Louise in Gefahr"], "2023", ["2025 07 05"], 6, ["ger"], ["crime"], ["bini", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/ef11ad5d9ae04041be5accb10091acdc/bfaa2f19ffdbcee0-cd/s250x400/8db56a04ba1265b73dcebc7cba390df0305d5190.jpg"]
 
 	/*
 ,
