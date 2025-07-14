@@ -3302,7 +3302,15 @@ var database = [
 
 ["film", ["Sniper: Assassin's End"], "2020", ["2025 07 05"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Kaare Andrews"], [], "https://64.media.tumblr.com/400a86ccf1c0522cd27c546ceee7f09b/9f93d35c6f7181ff-60/s250x400/8c25afed987bbb1bb996e7e378dbd3565714e89b.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Louise in Gefahr"], "2023", ["2025 07 05"], 6, ["ger"], ["crime"], ["bini", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/ef11ad5d9ae04041be5accb10091acdc/bfaa2f19ffdbcee0-cd/s250x400/8db56a04ba1265b73dcebc7cba390df0305d5190.jpg"]
+["audiobook", ["Tee? Kaffee? Mord! - Louise in Gefahr"], "2022", ["2025 07 05"], 6, ["ger"], ["crime"], ["bini", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/ef11ad5d9ae04041be5accb10091acdc/bfaa2f19ffdbcee0-cd/s250x400/8db56a04ba1265b73dcebc7cba390df0305d5190.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Die fünf Portraits des toten Doktors"], "2020", ["2025 07 07"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/fa86452f7c7a7ba2b3228e676422bb50/1b2c4858a591d7bf-1b/s250x400/b72a3733f27060049d737f0852ff235d8f0b565e.jpg"],
+
+["audiobook", ["Julie Jewels - Perlenschein und Wahrheitszauber"], "2018", [["2025 07 11", "2025 07 13"]], 4, ["ger"], ["young adult"], ["bini", "je"], ["bibliothek"], ["Marion Meister"], ["Nana Spier"], "https://64.media.tumblr.com/0740e815fc1f25c8e3ff6cf4178cb730/9b897db4b1195b3d-2f/s250x400/e071610651a63f6c757b0a493f50ef2a4e3fd578.jpg"],
+
+["film", ["O'Dessa"], "2025", ["2025 07 12"], 5, ["ger"], ["drama", "music", "musical"], [], ["Netflix"], ["Geremy Jasper"], ["Sadie Sink"], "https://64.media.tumblr.com/17e4a56283ac1b8c7d2bac60b619c460/899d05df0a3213e4-16/s250x400/ec407c026637bdf2f843bc576f86800677b18be2.jpg"],
+
+["audiobook", ["Julie Jewels - Silberglanz und Liebesbann"], "2018", [["2025 07 13", ""]], 4, ["ger"], ["young adult"], ["bini", "je"], ["bibliothek", "watching"], ["Marion Meister"], ["Nana Spier"], "https://64.media.tumblr.com/0151064f8660f3caacdfd0b6499a7f4d/08e33b5f53ef1cef-17/s250x400/971cfb200e21e25136a7050bb221b89b99885ff9.jpg"]
 
 	/*
 ,
