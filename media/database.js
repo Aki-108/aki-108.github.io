@@ -3310,7 +3310,7 @@ var database = [
 
 ["film", ["O'Dessa"], "2025", ["2025 07 12"], 5, ["ger"], ["drama", "music", "musical"], [], ["Netflix"], ["Geremy Jasper"], ["Sadie Sink"], "https://64.media.tumblr.com/17e4a56283ac1b8c7d2bac60b619c460/899d05df0a3213e4-16/s250x400/ec407c026637bdf2f843bc576f86800677b18be2.jpg"],
 
-["audiobook", ["Julie Jewels - Silberglanz und Liebesbann"], "2018", [["2025 07 13", ""]], 4, ["ger"], ["young adult"], ["bini", "je"], ["bibliothek", "watching"], ["Marion Meister"], ["Nana Spier"], "https://64.media.tumblr.com/0151064f8660f3caacdfd0b6499a7f4d/08e33b5f53ef1cef-17/s250x400/971cfb200e21e25136a7050bb221b89b99885ff9.jpg"]
+["audiobook", ["Julie Jewels - Silberglanz und Liebesbann"], "2018", [["2025 07 13", "2025 07 17"]], 4, ["ger"], ["young adult"], ["bini", "je"], ["bibliothek"], ["Marion Meister"], ["Nana Spier"], "https://64.media.tumblr.com/0151064f8660f3caacdfd0b6499a7f4d/08e33b5f53ef1cef-17/s250x400/971cfb200e21e25136a7050bb221b89b99885ff9.jpg"]
 
 	/*
 ,
