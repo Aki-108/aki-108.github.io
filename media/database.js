@@ -460,7 +460,7 @@ var database = [
 	        
 ["film", ["The Hobbit: The Battle of the Five Armies", "Der Hobbit: Die Schlacht der fünf Heere"], "2014", ["2016 01 02", "2016 12 17", "2018 03 11", "2020 01 27", "2022 04 20", "2025 05 30"], 8, ["ger"], ["adventure", "fantasy"], ["bini", "nico", "jessie"], ["Middle Earth", "Netflix"], ["Peter Jackson"], ["Ian McKellen", "Martin Freeman", "Orlando Bloom", "Evangeline Lilly", "Cate Blanchett", "Thomasin McKenzie", "Christopher Lee", "Richard Armitage", "Hugo Weaving"], "https://40.media.tumblr.com/237cae545a3d283f66e4e54339b8c59f/tumblr_o0cahcr4aK1v2s5upo1_250.jpg"],
 	        
-["film", ["Pirates of the Caribbean: Dead Men Tell No Tales", "Pirates of the Caribbean: Salazars Rache"], "2017", ["2017 06 04", "2021 10 08", "2024 01 21"], 7, ["ger"], ["action", "adventure"], ["syl", "bini"], ["Fluch der Karibik", "Kino", "Disney+"], ["Joachim Rønning", "Espen Sandberg"], ["Johnny Depp", "Geoffrey Rush", "Kaya Scodelario", "Martin Klebba", "Orlando Bloom", "Keira Knightley", "Kevin McNally", "Paul McCartney", "David Wenham"], "https://68.media.tumblr.com/2fd84cd5e84c264842c089683fe913d0/tumblr_os7wkmjCQH1v2s5upo1_250.jpg"],
+["film", ["Pirates of the Caribbean: Dead Men Tell No Tales", "Pirates of the Caribbean: Salazars Rache"], "2017", ["2017 06 04", "2021 10 08", "2024 01 21"], 7, ["ger"], ["action", "adventure"], ["syl", "bini"], ["Fluch der Karibik", "Kino", "Disney+"], ["Joachim Rønning", "Espen Sandberg"], ["Johnny Depp", "Geoffrey Rush", "Kaya Scodelario", "Martin Klebba", "Orlando Bloom", "Keira Knightley", "Kevin McNally", "Paul McCartney", "David Wenham", "Stephen Graham"], "https://68.media.tumblr.com/2fd84cd5e84c264842c089683fe913d0/tumblr_os7wkmjCQH1v2s5upo1_250.jpg"],
 	        
 ["film", ["Fear and Loathing in Las Vegas", "Angst und Schrecken in Las Vegas"], "1998", ["2017 04 05"], 5, ["ger"], ["adventure", "comedy"], [], [], ["Terry Gilliam"], ["Johnny Depp", "Tobey Maguire", "Mark Harmon", "Christopher Meloni", "Christina Ricci"], "https://68.media.tumblr.com/683b4dbbaf0b150c1ea757c9d2481f9b/tumblr_oo36eerF4m1v2s5upo1_250.jpg"],
 	        
@@ -470,7 +470,7 @@ var database = [
 	        
 ["film", ["Charlie and the Chocolate Factory", "Charlie und die Schokoladenfabrik"], "2005", ["2016 07 19", "2016 12 30", "2019 10 21", "2021 01 25"], 7, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Tim Burton"], ["Johnny Depp", "Helena Bonham Carter", "Christopher Lee", "Freddie Highmore", "AnnaSophia Robb", "Missi Pyle", "Richard Griffiths"], "https://66.media.tumblr.com/d634714520bf786d7b4b71f4527de9d8/tumblr_oakuocubQO1v2s5upo1_250.jpg"],
 	        
-["film", ["Pirates of the Caribbean: On Stranger Tides", "Pirates of the Caribbean - Fremde Gezeiten"], "2011", ["2016 03 23", ["2021 10 06", "2021 10 07"], "2024 01 07"], 8, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Fluch der Karibik", "Disney+"], ["Rob Marshall"], ["Johnny Depp", "Geoffrey Rush", "Judi Dench", "Richard Griffiths", "Gemma Ward", "Astrid Bergès-Frisbey", "Kevin McNally", "Sam Claflin", "Emilia Jones", "Penélope Cruz"], "https://49.media.tumblr.com/2220dcaf321ba3de02635574eaf4925c/tumblr_o4jewhpfkM1v2s5upo1_250.jpg"],
+["film", ["Pirates of the Caribbean: On Stranger Tides", "Pirates of the Caribbean - Fremde Gezeiten"], "2011", ["2016 03 23", ["2021 10 06", "2021 10 07"], "2024 01 07"], 8, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Fluch der Karibik", "Disney+"], ["Rob Marshall"], ["Johnny Depp", "Geoffrey Rush", "Judi Dench", "Richard Griffiths", "Gemma Ward", "Astrid Bergès-Frisbey", "Kevin McNally", "Sam Claflin", "Emilia Jones", "Penélope Cruz", "Stephen Graham"], "https://49.media.tumblr.com/2220dcaf321ba3de02635574eaf4925c/tumblr_o4jewhpfkM1v2s5upo1_250.jpg"],
 	        
 ["film", ["Dark Shadows"], "2012", ["2016 10 19", "2017 10 31", "2023 08 19"], 7, ["ger"], ["comedy", "fantasy"], ["bini", "nico", "sai"], ["Netflix"], ["Tim Burton"], ["Johnny Depp", "Michelle Pfeiffer", "Helena Bonham Carter", "Eva Green", "Chloë Grace Moretz", "Hannah Murray", "Christopher Lee", "Jackie Earle Haley", "Bella Heathcote"], "https://66.media.tumblr.com/72d7e1d695f1143db14cbb78f9caf1c0/tumblr_ofc9wvl12p1v2s5upo1_250.jpg"],
 	        
@@ -2087,7 +2087,7 @@ var database = [
 
 ["film", ["Maquia: When the Promised Flower Blooms", "Maquia: When the Promised Flower Blooms", "Sayonara no asa ni yakusoku no hana o kazarô"], "2018", ["2022 01 02"], 5, ["ger"], ["anime", "adventure"], ["bini"], ["Netflix"], ["Mari Okada"], [], "https://64.media.tumblr.com/2962e57c513b76a1ed35d06059b0b378/76f871cfb77dfdbc-84/s250x400/f4be21a71b8852e9f57c0043e817782e1f5362f7.jpg"],
 
-["film", ["Spin", "Spin - Finde deinen Beat"], "2021", ["2022 01 03"], 5, ["ger"], ["comedy", "family"], [], ["Disney+"], ["Manjari Makijany"], ["Anna Cathcart", "Kyana Teresa", "Avantika", "Kerri Medders"], "https://64.media.tumblr.com/eb69da1a8b6e39e2418307a4406969c9/808eed6eee0a39c3-fa/s250x400/f79104a9d11973b28331a0a446e503c8f2e4f6df.jpg"],
+["film", ["Spin", "Spin - Finde deinen Beat"], "2021", ["2022 01 03"], 5, ["ger"], ["comedy", "family"], [], ["Disney+"], ["Manjari Makijany"], ["Anna Cathcart", "Kyana Teresa", "Avantika", "Kerri Medders", "Aryan Simhadri"], "https://64.media.tumblr.com/eb69da1a8b6e39e2418307a4406969c9/808eed6eee0a39c3-fa/s250x400/f79104a9d11973b28331a0a446e503c8f2e4f6df.jpg"],
 
 ["series", ["No Good Nick", "Nick für ungut"], "2019", [["2022 01 04", "2022 01 07", "S1E1-S1E3"]], 4, ["ger"], ["comedy", "drama"], [], ["Netflix", "dropped"], ["Keetgi Kogan", "Keetgi Kogan", "Emily Schmidt"], ["Lauren Lindsey Donzis", "Sean Astin", "François Chau", "Gus Kamp"], "https://64.media.tumblr.com/702c8ba0508db32d16fb8e70bdbf956c/fb2b74a7c574e552-b2/s250x400/bacb9c440a0f416f6ff586fa6c0e615dc15bd3a1.jpg"],
 
@@ -2355,7 +2355,7 @@ var database = [
 
 ["film", ["Bruder vor Luder"], "2015", ["2022 08 04"], 4, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Tomas Erhart", "Heiko Lochmann", "Roman Lochmann"], ["Axel Stein"], "https://64.media.tumblr.com/d8ccda001bad8de850e5cc3efb3f5829/e486b33a47553893-8c/s250x400/1f73464ca8823f5683b2cf2a05b00584f7b7b75d.jpg"],
 
-["film", ["The Adam Project"], "2022", ["2022 08 05"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Shawn Levy"], ["Ryan Reynolds", "Mark Ruffalo", "Jennifer Garner", "Zoe Saldana", "Catherine Keener"], "https://64.media.tumblr.com/2ed029bf80258de07c6f966ab364cdc5/cac206cfe81fb7d2-9a/s250x400/65881d61670bfcd23165c2c2b4989a0b0af02169.jpg"],
+["film", ["The Adam Project"], "2022", ["2022 08 05"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Shawn Levy"], ["Ryan Reynolds", "Mark Ruffalo", "Jennifer Garner", "Zoe Saldana", "Catherine Keener", "Walker Scobell"], "https://64.media.tumblr.com/2ed029bf80258de07c6f966ab364cdc5/cac206cfe81fb7d2-9a/s250x400/65881d61670bfcd23165c2c2b4989a0b0af02169.jpg"],
 
 ["series", ["Heirs of the Night", "Die Erben der Nacht"], ["2019", ""], [["2022 08 08", "2022 08 24", "S1"]], 4, ["ger"], ["fantasy", "horror"], [], ["Disney+", "ongoing"], ["Diederik Van Rooijen"], [], "https://64.media.tumblr.com/105150de39114a96c29cbcb3851954c0/7765bfae6eb4a1ec-e1/s250x400/c0fbd6047dbb2dbdb92bb423b52ba31279c6b144.jpg"],
 
@@ -2453,7 +2453,7 @@ var database = [
 
 ["film", ["About a Girl"], "2014", ["2022 12 18"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Mark Monheim"], ["Heike Makatsch", "Katharina Spiering", "Jasna Fritzi Bauer"], "https://64.media.tumblr.com/bd65711cc46879faa7d65b11ee6833b7/a79aa342df23862c-0e/s250x400/96658ce7ea5d9f97d795fca55a7fdf618b6ccb6d.jpg"],
 
-["film", ["Roald Dahl's Matilda the Musical", "Matilda - Das Musical"], "2022", ["2022 12 25"], 6, ["eng"], ["comedy", "musical"], [], ["Netflix"], ["Matthew Warchus"], ["James Dryden"], "https://64.media.tumblr.com/a099fea054157faaa164449f636e8a64/2f7a2a30ed9c4047-9e/s250x400/07084a68c1b0ebdb5a8a1f6c936da80d155ec175.jpg"],
+["film", ["Roald Dahl's Matilda the Musical", "Matilda - Das Musical"], "2022", ["2022 12 25"], 6, ["eng"], ["comedy", "musical"], [], ["Netflix"], ["Matthew Warchus"], ["James Dryden", "Stephen Graham"], "https://64.media.tumblr.com/a099fea054157faaa164449f636e8a64/2f7a2a30ed9c4047-9e/s250x400/07084a68c1b0ebdb5a8a1f6c936da80d155ec175.jpg"],
 
 ["film", ["Plan B"], "2021", ["2022 12 30"], 5, ["ger"], ["comedy"], [], ["Disney+"], ["Natalie Morales"], ["Timothy Granaderos", "Michael Provost", "Gus Birney"], "https://64.media.tumblr.com/a4332cf7ea21ef932644cd9d1ea64ffd/dd4341f0d64173dd-95/s250x400/656744220fee6626163e0c064d669318536f5fbf.jpg"],
 
@@ -2862,7 +2862,7 @@ var database = [
 
 ["film", ["Mudbound"], "2017", ["2024 01 04"], 7, ["ger"], ["drama", "war"], [], ["Netflix"], ["Dee Rees"], ["Carey Mulligan"], "https://64.media.tumblr.com/a280d79aba676214e7442695b07078bb/bf58dbc204c20552-11/s250x400/64158a5d12a61eb912bdea07f2c7850dd10172b5.jpg"],
 
-["series", ["Bodies"], "2023", [["2024 01 05", "2024 01 13", "S1"]], 6, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Si Spencer", "Paul Tomalin"], [], "https://64.media.tumblr.com/58873ac18641b2fb44695740f58ef551/1f83ebb6dafa459c-a7/s250x400/be1c1a0faece211e6424f5d92edb9f73741385bd.jpg"],
+["series", ["Bodies"], "2023", [["2024 01 05", "2024 01 13", "S1"]], 6, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Si Spencer", "Paul Tomalin"], ["Stephen Graham"], "https://64.media.tumblr.com/58873ac18641b2fb44695740f58ef551/1f83ebb6dafa459c-a7/s250x400/be1c1a0faece211e6424f5d92edb9f73741385bd.jpg"],
 
 ["book", ["A Beautifully Foolish Endeavor"], "2020", [["2024 01 08", "2024 04 16"]], 9, ["eng"], ["sci-fi"], [], [], ["Hank Green"], [], "https://64.media.tumblr.com/a6136f23c0182fd31c170d091160e1d4/af242479e138ebb5-b7/s250x400/0ae44314718913f10b6011d58c992904f8ed2bf1.jpg"],
 
@@ -3188,7 +3188,7 @@ var database = [
 
 ["series", ["The Last of Us"], ["2023", ""], [["2025 01 31", "2025 02 08", "S1"]], 10, ["ger"], ["action", "adventure"], [], ["bibliothek", "ongoing"], ["Craig Mazin", "Neil Druckmann"], ["Pedro Pascal", "Bella Ramsey", "Kaitlyn Dever", "Melanie Lynskey"], "https://64.media.tumblr.com/8217358c0a25cd07ccbadb49ac17acff/3a073dc704b2642b-76/s250x400/2b3181ea5a40b355187444900a29029399aabd9d.jpg"],
 
-["film", ["Die drei ??? und der Karpatenhund"], "2025", ["2025 02 02"], 8, ["ger"], ["crime"], ["bini", "syl"], ["Kino", "Die drei ???"], ["Tim Dünschede"], ["Levi Brandl", "Florian Lukas", "Jördis Triebel", "Julius Weckauf", "Nevio Wendt"], "https://64.media.tumblr.com/1e2dfb887763c70964dd97064a6315ad/c862ddeb90da901b-f6/s250x400/711def37c87f8646762dd503c20872099ef18c1f.jpg"],
+["film", ["Die drei ??? und der Karpatenhund"], "2025", ["2025 02 02"], 8, ["ger"], ["crime"], ["bini", "syl"], ["Kino", "Die drei ???"], ["Tim Dünschede"], ["Levi Brandl", "Florian Lukas", "Jördis Triebel", "Julius Weckauf", "Nevio Wendt", "Sira-Anna Faal"], "https://64.media.tumblr.com/1e2dfb887763c70964dd97064a6315ad/c862ddeb90da901b-f6/s250x400/711def37c87f8646762dd503c20872099ef18c1f.jpg"],
 
 ["audiobook", ["Inkheart", "Tintenherz"], "2003", [["2025 02 04", "2025 02 18"]], 7, ["ger"], ["fantasy"], [], ["bibliothek", "ongoing"], ["Cornelia Funke"], ["Rainer Strecker"], "https://64.media.tumblr.com/a3b2ff88a48c00365f003256ff437def/b4818661536e2086-c2/s250x400/938b11d949b19fb8d30dcc9272cfa1fadc8041df.jpg"],
 
@@ -3310,7 +3310,15 @@ var database = [
 
 ["film", ["O'Dessa"], "2025", ["2025 07 12"], 5, ["ger"], ["drama", "music", "musical"], [], ["Netflix"], ["Geremy Jasper"], ["Sadie Sink"], "https://64.media.tumblr.com/17e4a56283ac1b8c7d2bac60b619c460/899d05df0a3213e4-16/s250x400/ec407c026637bdf2f843bc576f86800677b18be2.jpg"],
 
-["audiobook", ["Julie Jewels - Silberglanz und Liebesbann"], "2018", [["2025 07 13", "2025 07 17"]], 4, ["ger"], ["young adult"], ["bini", "je"], ["bibliothek"], ["Marion Meister"], ["Nana Spier"], "https://64.media.tumblr.com/0151064f8660f3caacdfd0b6499a7f4d/08e33b5f53ef1cef-17/s250x400/971cfb200e21e25136a7050bb221b89b99885ff9.jpg"]
+["audiobook", ["Julie Jewels - Silberglanz und Liebesbann"], "2018", [["2025 07 13", "2025 07 17"]], 4, ["ger"], ["young adult"], ["bini", "je"], ["bibliothek"], ["Marion Meister"], ["Nana Spier"], "https://64.media.tumblr.com/0151064f8660f3caacdfd0b6499a7f4d/08e33b5f53ef1cef-17/s250x400/971cfb200e21e25136a7050bb221b89b99885ff9.jpg"],
+
+["series", ["Adolescence"], "2025", [["2025 07 18", "2025 07 19", "S1"]], 7, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Stephen Graham", "Jack Thorne"], ["Stephen Graham"], "https://64.media.tumblr.com/b1ccc0b0a072467b3ae6697109ddb25f/75c355350738ffa9-2d/s250x400/28b99639b695246ae4878018ee37400088603714.jpg"],
+
+["series", ["Percy Jackson and the Olympians"], "2023", [["2025 07 19", "S1"]], 6, ["ger"], ["action", "adventure"], ["jessie"], ["Disney+"], ["ick Riordan", "Jonathan E. Steinberg"], ["Walker Scobell", "Aryan Simhadri"], "https://64.media.tumblr.com/86f876e8619e073ce7ed62c55cb92fa5/5e2d619944a88933-d2/s250x400/d99db9393559f1a46c843bfd665ae8f503f06f15.jpg"],
+
+["film", ["Zombies 4: Dawn of the Vampires"], "2025", ["2025 07 20"], 7, ["ger"], ["musical", "adventure", "comedy", "family"], ["bini"], ["Disney+"], ["Freya Skye", "Malachi Barton", "Meg Donnelly"], ["Meg Donnelly", "Milo Manheim"], "https://64.media.tumblr.com/8e486537d6c3c4ad8102c0ccafa23a5d/d136ac2163792b4f-f3/s250x400/eccee96c05317c5d5ee59f52fbe2fa547178c0df.jpg"],
+
+["film", ["Brick"], "2025", ["2025 07 20"], 4, ["ger"], ["mystery", "drama"], [], ["Netflix"], ["Philip Koch"], ["Matthias Schweighöfer", "Ruby O. Fee", "Frederick Lau", "Sira-Anna Faal"], "https://64.media.tumblr.com/0f28faaa12bce9c61a073d2808410e16/0457a8817b784c91-97/s250x400/7a305e85ecb7150f1cd28091b4e60c09413a1d61.jpg"]
 
 	/*
 ,
