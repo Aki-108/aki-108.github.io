@@ -3290,7 +3290,7 @@ var database = [
 
 ["film", ["The Guilty"], "2021", ["2025 05 18"], 5, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Antoine Fuqua"], ["Jake Gyllenhaal", "Adrian Martinez"], "https://64.media.tumblr.com/e5039777388edb12a5b254f8c494e375/fc921a4e6b2ed4ce-6e/s250x400/72bdee73885ac34844ecbf79fd62bb50e20b48da.jpg"],
 
-["series", ["Delicious in Dungeon", "Delicious in Dungeon", "Dungeon Meshi"], "2024", [["2025 06 09", "", "S1"]], 0, ["ger"], ["anime", "adventure", "comedy", "fantasy"], ["bini", "nico"], ["Netflix", "watching"], ["Nanami Higuchi", "Kui Ryôko", "Yu Sato"], [], "https://64.media.tumblr.com/ebd09515132b29d667e82ee1ef5a4197/ed0ecdeecb534ce9-db/s250x400/78844942c6502ea1217d4241acb98095f7538ab8.jpg"],
+["series", ["Delicious in Dungeon", "Delicious in Dungeon", "Dungeon Meshi"], "2024", [["2025 06 09", "2025 07 21", "S1"]], 7, ["ger"], ["anime", "adventure", "comedy", "fantasy"], ["bini", "nico"], ["Netflix"], ["Nanami Higuchi", "Kui Ryôko", "Yu Sato"], [], "https://64.media.tumblr.com/ebd09515132b29d667e82ee1ef5a4197/ed0ecdeecb534ce9-db/s250x400/78844942c6502ea1217d4241acb98095f7538ab8.jpg"],
 
 ["audiobook", ["Die Dämonenfängerin"], "2011", [["2025 06 11", "2025 06 16"]], 5, ["ger"], ["fantasy"], [], ["bibliothek"], ["Jana Oliver"], ["Luise Helm"], "https://64.media.tumblr.com/1fc5ae178fc08331a47c62ee1d65d732/4af9de16153ebf52-72/s250x400/3ba2114ecd4833f72a5b597c720dc8cbbac04a82.jpg"],
 
@@ -3318,7 +3318,11 @@ var database = [
 
 ["film", ["Zombies 4: Dawn of the Vampires"], "2025", ["2025 07 20"], 7, ["ger"], ["musical", "adventure", "comedy", "family"], ["bini"], ["Disney+"], ["Freya Skye", "Malachi Barton", "Meg Donnelly"], ["Meg Donnelly", "Milo Manheim"], "https://64.media.tumblr.com/8e486537d6c3c4ad8102c0ccafa23a5d/d136ac2163792b4f-f3/s250x400/eccee96c05317c5d5ee59f52fbe2fa547178c0df.jpg"],
 
-["film", ["Brick"], "2025", ["2025 07 20"], 4, ["ger"], ["mystery", "drama"], [], ["Netflix"], ["Philip Koch"], ["Matthias Schweighöfer", "Ruby O. Fee", "Frederick Lau", "Sira-Anna Faal"], "https://64.media.tumblr.com/0f28faaa12bce9c61a073d2808410e16/0457a8817b784c91-97/s250x400/7a305e85ecb7150f1cd28091b4e60c09413a1d61.jpg"]
+["film", ["Brick"], "2025", ["2025 07 20"], 4, ["ger"], ["mystery", "drama"], [], ["Netflix"], ["Philip Koch"], ["Matthias Schweighöfer", "Ruby O. Fee", "Frederick Lau", "Sira-Anna Faal"], "https://64.media.tumblr.com/0f28faaa12bce9c61a073d2808410e16/0457a8817b784c91-97/s250x400/7a305e85ecb7150f1cd28091b4e60c09413a1d61.jpg"],
+
+["audiobook", ["Love Letters to the Dead"], "2020", [["2025 07 21", "2025 07 23"]], 9, ["ger"], ["drama", "young adult"], [], ["bibliothek"], ["Ava Dellaira"], ["Annina Braunmiller"], "https://64.media.tumblr.com/af991efd065a3602eafeb11b7cc7eb56/4f8f39d31bf53b1f-f7/s250x400/2c0ace8abdd1111956b72b6e2ecbf8dac67d389a.jpg"],
+
+["series", ["I Woke Up a Vampire", "Als ich als Vampir aufwachte"], ["2023", ""], [["2025 07 22", "", "S1"]], 0, ["ger"], ["comedy", "family", "fantasy"], [], ["Netflix"], ["Tommy Lynch"], [], "https://64.media.tumblr.com/0f8927bb6367971895a90114ae472867/20809ee11b5150ba-84/s250x400/c16a7109d1afb32b575e5ff47cb3fce48cfb0882.jpg"]
 
 	/*
 ,
