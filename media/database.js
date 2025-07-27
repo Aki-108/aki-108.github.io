@@ -884,7 +884,7 @@ var database = [
 	        
 ["film", ["How I Live Now"], "2013", ["2016 08 28"], 9, ["ger"], ["romance", "sci-fi", "war"], [], [], ["Kevin Macdonald"], ["Saoirse Ronan", "Tom Holland", "George MacKay"], "https://68.media.tumblr.com/b59ca86a6fe971bc23438f35d30a1783/tumblr_ocmgz37wr41v2s5upo1_250.jpg"],
 	        
-["film", ["Captain Fantastic", "Captain Fantastic: Einmal Wildnis und zurück"], "2016", ["2016 08 26", "2016 10 11", "2018 01 14", "2022 01 01"], 10, ["ger"], ["comedy", "drama"], ["bini", "syl", "je"], ["fav", "Kino"], ["Matt Ross"], ["Viggo Mortensen", "George MacKay", "Annalise Basso", "Trin Miller", "Kathryn Hahn", "Steve Zahn", "Missi Pyle", "Frank Langella", "Erin Moriarty"], "https://66.media.tumblr.com/f65ff8a4e2345be785047f360d1d3bae/tumblr_ocjc36yGOA1v2s5upo1_250.jpg"],
+["film", ["Captain Fantastic", "Captain Fantastic: Einmal Wildnis und zurück"], "2016", ["2016 08 26", "2016 10 11", "2018 01 14", "2022 01 01", "2025 07 27"], 10, ["ger"], ["comedy", "drama"], ["bini", "syl", "je"], ["fav", "Kino", "DVD"], ["Matt Ross"], ["Viggo Mortensen", "George MacKay", "Annalise Basso", "Trin Miller", "Kathryn Hahn", "Steve Zahn", "Missi Pyle", "Frank Langella", "Erin Moriarty"], "https://66.media.tumblr.com/f65ff8a4e2345be785047f360d1d3bae/tumblr_ocjc36yGOA1v2s5upo1_250.jpg"],
 	        
 ["film", ["Freaky Friday", "Freaky Friday - Ein voll verrückter Freitag"], "2003", ["2016 08 25"], 7, ["ger"], ["comedy", "family", "music"], [], [], ["Mark Waters"], ["Mark Harmon", "Stephen Tobolowsky", "Lindsay Lohan"], "https://68.media.tumblr.com/3b60ed12f22ca201b3ceb0e3f32bc77b/tumblr_ochc8xXkiT1v2s5upo1_250.jpg"],
 	        
