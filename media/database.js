@@ -3134,7 +3134,7 @@ var database = [
 
 ["film", ["Twelve Monkeys", "12 Monkeys"], "1995", ["2024 11 30"], 7, ["ger"], ["mystery", "sci-fi"], [], ["RTL+"], ["Terry Gilliam"], ["Bruce Willis", "Brad Pitt", "Christopher Meloni"], "https://64.media.tumblr.com/c580a03095b0e2e8f532f934934dd607/2ce0b55b491f69a6-0d/s250x400/014a165268df127faa71349212297768bd879e47.jpg"],
 
-["series", ["Phineas and Ferb", "Phineas und Ferb"], ["2007", "2024"], [["2024 12 04", "2025 05 07", "S1-S2"], ["2025 05 14", "", "S3"]], 0, ["ger"], ["animation", "comedy"], ["bini", "nico"], ["watching", "Disney+"], ["Jeff 'Swampy' Marsh"], [], "https://64.media.tumblr.com/93c1bf121ce15f170731bf700fab1c05/fd60583ad87c43eb-bd/s250x400/a8be584bc8c05357642dff9cfc4786ff189ac345.jpg"],
+["series", ["Phineas and Ferb", "Phineas und Ferb"], ["2007", "2024"], [["2024 12 04", "2025 05 07", "S1-S2"], ["2025 05 14", "2025 07 30", "S3"], ["2025 07 30", "", "S4"]], 0, ["ger"], ["animation", "comedy"], ["bini", "nico"], ["watching", "Disney+"], ["Jeff 'Swampy' Marsh"], [], "https://64.media.tumblr.com/93c1bf121ce15f170731bf700fab1c05/fd60583ad87c43eb-bd/s250x400/a8be584bc8c05357642dff9cfc4786ff189ac345.jpg"],
 
 ["film", ["The Mitchells vs the Machines", "Die Mitchells gegen die Maschinen"], "2021", ["2024 12 07"], 9, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Michael Rianda", "Jeff Rowe"], [], "https://64.media.tumblr.com/459c36130be4fca6f00126e95da53406/810d4e5326d6c9dd-81/s250x400/de05a8faafcf915b39e837f936fb8caa196b5e13.jpg"],
 
