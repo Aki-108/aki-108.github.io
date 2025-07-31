@@ -1746,7 +1746,7 @@ var database = [
 
 ["series", ["The Houseboat", "Das Hausboot"], "2021", [["2021 03 13", "2021 03 21", "S1"]], 5, ["ger"], ["documentary"], ["syl", "je", "bini"], ["Netflix"], [""], [], "https://64.media.tumblr.com/b3878fa50fd2d7d4286af2dd96bdfd06/5eb4e8a877f50e3f-08/s250x400/8fdcc5005f169eb2a6602ac6634f174a37c672b5.jpg"],
 
-["audiobook", ["The Ballad of Songbirds and Snakes", "Die Tribute von Panem X – Das Lied von Vogel und Schlange"], "2020", [["2021 03 19", "2021 04 16"], ["2022 12 16", "2022 12 29"], ["2024 01 29", "2024 02 10"]], 9, ["eng", "ger"], ["adventure", "war", "sci-fi", "action"], [], ["Hunger Games", "bibliothek"], ["Suzanne Collins"], ["Uve Teschner"], "https://64.media.tumblr.com/1da763b32e2e1ed96cb49b78115fdfde/f1521d2ef3ed6937-ed/s250x400/f49c55bbd19de80ba1a4b5e21e5ead3f3adfd225.jpg"],
+["audiobook", ["The Ballad of Songbirds and Snakes", "Die Tribute von Panem X – Das Lied von Vogel und Schlange"], "2020", [["2021 03 19", "2021 04 16"], ["2022 12 16", "2022 12 29"], ["2024 01 29", "2024 02 10"]], 9, ["eng", "ger"], ["adventure", "war", "sci-fi", "action"], [], ["Hunger Games", "bibliothek", "fav"], ["Suzanne Collins"], ["Uve Teschner"], "https://64.media.tumblr.com/1da763b32e2e1ed96cb49b78115fdfde/f1521d2ef3ed6937-ed/s250x400/f49c55bbd19de80ba1a4b5e21e5ead3f3adfd225.jpg"],
 
 ["film", ["Tomb Raider"], "2018", ["2021 03 23"], 7, ["ger"], ["action", "adventure"], ["bini"], [], ["Roar Uthaug"], ["Alicia Vikander", "Samuel Mak", "Nick Frost", "Hannah John-Kamen", "Walton Goggins"], "https://64.media.tumblr.com/372792c09e88b1a2e5050a14d07c8d28/7390892fff0ee0a8-bc/s250x400/17b02720c477a1a90b24817b4956ddf80f6366b5.jpg"],
 
@@ -2093,7 +2093,7 @@ var database = [
 
 ["film", ["Hilda and the Mountain King", "Hilda und der Bergkönig"], "2021", ["2022 01 06"], 7, ["ger"], ["animation", "adventure"], [], ["Netflix"], ["Andy Coyle"], [], "https://64.media.tumblr.com/299b02775621d028149c693d1fa73aaa/48e2ee9fed822400-bf/s250x400/26ae45c86e0b527a178422334b3c4035e01dcc98.jpg"],
 
-["series", ["Girl Meets World", "Das Leben und Riley"], ["2014", "2017"], [["2022 01 08", "2022 01 12", "S1"], ["2022 01 13", "2022 01 28", "S2"], ["2022 01 29", "2022 02 10", "S3"], ["2023 08 21", "2023 09 29", "S1"]], 8, ["ger"], ["comedy", "drama"], [], ["Disney+", "fav"], ["Michael Jacobs", "April Kelly", "Ava Kolker"], ["Rowan Blanchard", "Sabrina Carpenter", "M.C. Gainey", "Ricky Garcia", "Jane Lynch", "Debby Ryan", "Tania Gunadi", "Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris", "Ceci Balagot"], "https://64.media.tumblr.com/36187f43acff0bc60164f66ed977e142/e1a8385b51505f2c-13/s250x400/97af5d53aa9a8fbddf77597f0af622893b1a1fd2.jpg"], /* S1: 5.4; S2: 6.3; S3: 6.4 */
+["series", ["Girl Meets World", "Das Leben und Riley"], ["2014", "2017"], [["2022 01 08", "2022 01 12", "S1"], ["2022 01 13", "2022 01 28", "S2"], ["2022 01 29", "2022 02 10", "S3"], ["2023 08 21", "2023 09 29", "S1"], ["2025 07 31", "", "S2"]], 8, ["ger"], ["comedy", "drama"], [], ["Disney+", "fav", "watching"], ["Michael Jacobs", "April Kelly", "Ava Kolker"], ["Rowan Blanchard", "Sabrina Carpenter", "M.C. Gainey", "Ricky Garcia", "Jane Lynch", "Debby Ryan", "Tania Gunadi", "Ben Savage", "William Daniels", "Betsy Randle", "Rider Strong", "William Russ", "Danielle Fishel", "Lindsay Ridgeway", "Anthony Tyler Quinn", "Lily Gibson", "Lee Norris", "Ceci Balagot"], "https://64.media.tumblr.com/36187f43acff0bc60164f66ed977e142/e1a8385b51505f2c-13/s250x400/97af5d53aa9a8fbddf77597f0af622893b1a1fd2.jpg"], /* S1: 5.4; S2: 6.3; S3: 6.4 */
 
 ["film", ["Friendzone"], "2021", ["2022 01 08"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Charles Van Tieghem"], [], "https://64.media.tumblr.com/1a21a4d0767564112499f161fac6ed81/e537b0b1bd1b8426-ea/s250x400/22cab9c14e7fb6407cfc43946ceac125b35f23d3.jpg"],
 
@@ -3322,7 +3322,7 @@ var database = [
 
 ["audiobook", ["Love Letters to the Dead"], "2020", [["2025 07 21", "2025 07 23"]], 9, ["ger"], ["drama", "young adult"], [], ["bibliothek"], ["Ava Dellaira"], ["Annina Braunmiller"], "https://64.media.tumblr.com/af991efd065a3602eafeb11b7cc7eb56/4f8f39d31bf53b1f-f7/s250x400/2c0ace8abdd1111956b72b6e2ecbf8dac67d389a.jpg"],
 
-["series", ["I Woke Up a Vampire", "Als ich als Vampir aufwachte"], ["2023", ""], [["2025 07 22", "2025 07 30", "S1"]], 5, ["ger"], ["comedy", "family", "fantasy"], [], ["Netflix"], ["Tommy Lynch"], [], "https://64.media.tumblr.com/0f8927bb6367971895a90114ae472867/20809ee11b5150ba-84/s250x400/c16a7109d1afb32b575e5ff47cb3fce48cfb0882.jpg"],
+["series", ["I Woke Up a Vampire", "Als ich als Vampir aufwachte"], ["2023", ""], [["2025 07 22", "2025 07 30", "S1"]], 5, ["ger"], ["comedy", "family", "fantasy"], [], ["Netflix", "ongoing"], ["Tommy Lynch"], [], "https://64.media.tumblr.com/0f8927bb6367971895a90114ae472867/20809ee11b5150ba-84/s250x400/c16a7109d1afb32b575e5ff47cb3fce48cfb0882.jpg"],
 
 ["film", ["American Beauty"], "1999", ["2025 07 27"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Sam Mendes"], ["Kevin Spacey", "Annette Bening", "Thora Birch", "Wes Bentley", "Allison Janney"], "https://64.media.tumblr.com/59c147a6854fbfaeffc6189abc2e9a70/1739e5620bf96195-2f/s250x400/60f9b15361c2080fd2fd975be66358c2133a3377.jpg"]
 
