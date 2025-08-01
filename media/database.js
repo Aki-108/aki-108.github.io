@@ -2932,7 +2932,7 @@ var database = [
 
 ["film", ["Poor Things"], "2023", ["2024 03 23"], 4, ["ger"], ["comedy", "drama"], [], ["Disney+"], ["Yorgos Lanthimos"], ["Emma Stone", "Willem Dafoe", "Mark Ruffalo"], "https://64.media.tumblr.com/647ac85232da94a3ddc5de4df6bf6558/722ae7227bb1e46d-05/s250x400/210b1edd18778635915689a11d8c40998616f7a7.jpg"],
 
-["film", ["The New Mutants", "New Mutants"], "2020", ["2024 03 23", "2024 06 30"], 8, ["ger"], ["action", "horror"], [], ["Disney+", "X-Men", "Marvel"], ["Josh Boone"], ["Maisie Williams", "Anya Taylor-Joy", "Charlie Heaton"], "https://64.media.tumblr.com/1ec2e99b5ef66ac22a960de91f7793f8/81ba365de68e839b-c9/s250x400/e238df6d18ded30c7ce1ad653a340a7279b7ebd1.jpg"],
+["film", ["The New Mutants", "New Mutants"], "2020", ["2024 03 23", "2024 06 30", "2025 08 01"], 8, ["ger"], ["action", "horror"], ["bini", "je"], ["Disney+", "X-Men", "Marvel", "DVD"], ["Josh Boone"], ["Maisie Williams", "Anya Taylor-Joy", "Charlie Heaton"], "https://64.media.tumblr.com/1ec2e99b5ef66ac22a960de91f7793f8/81ba365de68e839b-c9/s250x400/e238df6d18ded30c7ce1ad653a340a7279b7ebd1.jpg"],
 
 ["film", ["Elemental"], "2023", ["2024 03 24"], 7, ["ger"], ["animation", "adventure"], [], ["Disney+"], ["Peter Sohn"], [], "https://64.media.tumblr.com/d4992a4a9b25694fc1a0fa709292dd14/041d4fb7280d2d21-4d/s250x400/cbf55f2754a6cb21bc88a8e194279c0025813820.jpg"],
 
