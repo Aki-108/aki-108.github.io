@@ -2435,7 +2435,7 @@ var database = [
 
 ["audiobook", ["Die Geschichte der Bienen"], "2015", [["2022 11 08", "2022 11 09", "1h55min"]], 0, ["ger"], [], [], ["bibliothek", "dropped"], ["Maja Lunde"], ["Thomas M. Meinhardt", "Bibiana Beglau", "Markus Fennert"], "https://64.media.tumblr.com/02d5dc38adb559056de9bc971765e905/eb4d262d191565c5-7c/s400x600/ec2c1641f646c0c3ce8018192e5d1f539cd7d537.jpg"],
 
-["audiobook", ["Numbers", "Numbers: den Tod vor Augen"], "2008", [["2022 11 10", "2022 11 18"], ["2025 07 24", ""]], 6, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Rachel Ward"], ["Sascha Icks", "Philipp Schepmann"], "https://64.media.tumblr.com/0e2f572287be528e5711dc309457c0e8/aae5be0b66188706-b0/s250x400/9f3adc21045e5a585b164931d8587cc0e8245716.jpg"],
+["audiobook", ["Numbers", "Numbers: den Tod vor Augen"], "2008", [["2022 11 10", "2022 11 18"], ["2025 07 24", "2025 08 07"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Rachel Ward"], ["Sascha Icks", "Philipp Schepmann"], "https://64.media.tumblr.com/0e2f572287be528e5711dc309457c0e8/aae5be0b66188706-b0/s250x400/9f3adc21045e5a585b164931d8587cc0e8245716.jpg"],
 
 ["book", ["Die Wilden Hühner - Fuchsalarm!"], "2006", [["2022 11 14", "2022 12 13"]], 8, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/037d1e5f14c3d48bd77738b29e468817/c8027e028b17de4f-c6/s250x400/ac5dfe31e12ece88e50ce960ca6f480e81bc8118.jpg"],
 
@@ -3326,7 +3326,9 @@ var database = [
 
 ["film", ["American Beauty"], "1999", ["2025 07 27"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Sam Mendes"], ["Kevin Spacey", "Annette Bening", "Thora Birch", "Wes Bentley", "Allison Janney"], "https://64.media.tumblr.com/59c147a6854fbfaeffc6189abc2e9a70/1739e5620bf96195-2f/s250x400/60f9b15361c2080fd2fd975be66358c2133a3377.jpg"],
 
-["film", ["Dolittle"], "2020", ["2025 08 05"], 6, ["ger"], ["adventure", "comedy", "family"], [], ["Netflix"], ["Stephen Gaghan"], ["Robert Downey Jr.", "Michael Sheen", "Jim Broadbent", "Jessie Buckley", "Ralph Ineson"], "https://64.media.tumblr.com/b7cb5c6e4f9046f5759df7f0083b4945/b2c3cbe8d8937e82-45/s250x400/375208012fdb4cd34e1dbaa3a3bc8e55233ddb6e.jpg"]
+["film", ["Dolittle"], "2020", ["2025 08 05"], 6, ["ger"], ["adventure", "comedy", "family"], [], ["Netflix"], ["Stephen Gaghan"], ["Robert Downey Jr.", "Michael Sheen", "Jim Broadbent", "Jessie Buckley", "Ralph Ineson"], "https://64.media.tumblr.com/b7cb5c6e4f9046f5759df7f0083b4945/b2c3cbe8d8937e82-45/s250x400/375208012fdb4cd34e1dbaa3a3bc8e55233ddb6e.jpg"],
+
+["film", ["Megamind"], "2010", ["2025 08 07"], 7, ["ger"], ["animation", "action", "comedy"], [], ["Netflix"], ["Tom McGrath"], [], "https://64.media.tumblr.com/40ddb95c3e759e834470f1a49039ef17/164a69060499559d-f2/s250x400/0bbae404d364c299990f0df423a958e806446b20.jpg"]
 
 	/*
 ,
