@@ -2445,7 +2445,7 @@ var database = [
 
 ["audiobook", ["Unendlich Dein"], "2019", [["2022 11 29", "2022 12 08"]], 5, ["ger"], [], [], ["bibliothek"], ["Emily Bold"], ["Cornelia Dörr", "Pascal Houdus"], "https://64.media.tumblr.com/e1f8944a297283a791928752ba440569/9bff45cf22f5b48f-c9/s250x400/b28a8e2836c05cb37d6cf9feed862628df3677b8.jpg"],
 
-["audiobook", ["All the bright places", "All die verdammt perfekten Tage"], "2015", [["2022 12 08", "2022 12 15"]], 9, ["ger"], ["drama"], [], ["bibliothek"], ["Jennifer Niven"], ["Patrick Mölleken", "Annina Braunmiller-Jest", "Luke Wilson"], "https://64.media.tumblr.com/4809dd69d67423d65449c16f654c8c0b/110579d9c0ed5fcb-d2/s250x400/cf09d1fbc2214c51d25ec532e837a623b055bb10.jpg"],
+["audiobook", ["All the bright places", "All die verdammt perfekten Tage"], "2015", [["2022 12 08", "2022 12 15"], ["2025 08 09", "2025 08 13"]], 9, ["ger"], ["drama"], ["bini", "syl"], ["bibliothek"], ["Jennifer Niven"], ["Patrick Mölleken", "Annina Braunmiller-Jest", "Luke Wilson"], "https://64.media.tumblr.com/4809dd69d67423d65449c16f654c8c0b/110579d9c0ed5fcb-d2/s250x400/cf09d1fbc2214c51d25ec532e837a623b055bb10.jpg"],
 
 ["book", ["Für dich soll's tausend Tode regnen"], "2016", [["2022 12 14", "2023 01 25"]], 6, ["ger"], [], [], ["bibliothek"], ["Anna Pfeffer"], [], "https://64.media.tumblr.com/794c5fdf8ce28291d1bd85c65763782f/e392b7f52d948027-66/s250x400/6e0bf3dadc197bb803aff39209b282cb6859de6a.jpg"],
 
