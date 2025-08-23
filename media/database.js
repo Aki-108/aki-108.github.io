@@ -918,7 +918,7 @@ var database = [
 	        
 ["film", ["The Sound of Music", "Meine Lieder, meine Träume"], "1965", ["2016 06 15", ["2022 03 13", "2022 03 14"]], 8, ["ger", "eng"], ["biography", "drama", "music"], [], ["Disney+"], ["Robert Wise"], [], "https://66.media.tumblr.com/5262e2c4b18c22f1dc0f966195120fa4/tumblr_o8twjmVmli1v2s5upo1_250.jpg"],
 	        
-["film", ["Forrest Gump"], "1994", ["2016 06 13", "2023 02 19"], 6, ["ger", "eng"], ["drama", "romance"], [], ["Netflix"], ["Robert Zemeckis"], ["Tom Hanks", "Sam Anderson", "John F. Kennedy", "John Lennon", "Richard Nixon", "Gary Sinise", "Robin Wright"], "https://66.media.tumblr.com/eeb123f80cdb0bf25e3d0cccea3bc930/tumblr_o8q1umC0Ey1v2s5upo1_250.jpg"],
+["film", ["Forrest Gump"], "1994", ["2016 06 13", "2023 02 19", "2025 08 23"], 6, ["ger", "eng"], ["drama", "romance", "war"], [], ["Netflix"], ["Robert Zemeckis"], ["Tom Hanks", "Sam Anderson", "John F. Kennedy", "John Lennon", "Richard Nixon", "Gary Sinise", "Robin Wright"], "https://66.media.tumblr.com/eeb123f80cdb0bf25e3d0cccea3bc930/tumblr_o8q1umC0Ey1v2s5upo1_250.jpg"],
 	        
 ["film", ["Bee Movie", "Bee Movie - Das Honigkomplott"], "2007", ["2016 06 12"], 4, ["ger"], ["animation", "adventure"], [], [], ["Simon J. Smith", "Steve Hickner"], [], "https://66.media.tumblr.com/3b38bf4c8872c24754cf7cb447f7bb75/tumblr_o8ptkg6gG41v2s5upo1_250.jpg"],
 	        
