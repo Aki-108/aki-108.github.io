@@ -526,7 +526,7 @@ var database = [
 	        
 ["film", ["Emma.", "Emma"], "2020", ["2020 07 27"], 6, ["ger"], ["comedy", "drama"], ["syl"], ["Kino"], ["Autumn de Wilde"], ["Anya Taylor-Joy", "Bill Nighy", "Tanya Reynolds", "Callum Turner", "Isis Hainsworth"], "https://64.media.tumblr.com/b0483e91677af92641a1d11663da2aef/ae5c907a9b320a83-7e/s250x400/4b3012c6be8d4118ec14688c5096aa081b3eebc0.jpg"],
 	        
-["film", ["The Old Guard"], "2020", ["2020 07 27", "2025 02 02"], 7, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Netflix"], ["Gina Prince-Bythewood"], ["Chiwetel Ejiofor", "Harry Melling", "Matthias Schoenaerts", "Orlando Seale", "Charlize Theron"], "https://64.media.tumblr.com/89ad420fc18f829fdc232cc078a87e4f/6a3b04b9ffb46ba4-e0/s250x400/e002ec38f2252118eb151df79eadaf794c231b0d.jpg"],
+["film", ["The Old Guard"], "2020", ["2020 07 27", "2025 02 02"], 7, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Netflix"], ["Gina Prince-Bythewood"], ["Chiwetel Ejiofor", "Harry Melling", "Matthias Schoenaerts", "Orlando Seale", "Charlize Theron", "KiKi Layne", "Marwan Kenzari", "Veronica Ngo"], "https://64.media.tumblr.com/89ad420fc18f829fdc232cc078a87e4f/6a3b04b9ffb46ba4-e0/s250x400/e002ec38f2252118eb151df79eadaf794c231b0d.jpg"],
 	        
 ["film", ["17 Again", "17 Again - Back to High School"], "2009", ["2020 07 25"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Burr Steers"], ["Zac Efron", "Matthew Perry", "Michelle Trachtenberg", "Michelle Trachtenberg", "Allison Miller"], "https://64.media.tumblr.com/0d4b4127a01f8d85f22ea9e8504476cf/e253c3091319ef95-91/s250x400/c0c7bc733244a81b173fadde533e8288b7974113.jpg"],
 	        
@@ -1312,7 +1312,7 @@ var database = [
 	        
 ["film", ["Expedition Happiness"], "2017", ["2018 03 07"], 6, ["ger"], ["documentary"], [], ["Netflix"], ["Felix Starck"], [], "https://66.media.tumblr.com/4dfaca1c577a75909bad003c4eba4eee/tumblr_pz9f25Jwgu1v2s5upo1_250.jpg"],
 	        
-["film", ["Bright"], "2017", ["2018 03 03"], 5, ["ger"], ["action", "fantasy"], [], ["Netflix"], ["David Ayer"], ["Will Smith", "Noomi Rapace", "Lucy Fry", "Edgar Ramírez", "Ike Barinholtz"], "https://66.media.tumblr.com/51bd109621dbaaa9172d711da9552660/tumblr_pz9ezksISP1v2s5upo1_250.jpg"],
+["film", ["Bright"], "2017", ["2018 03 03"], 5, ["ger"], ["action", "fantasy"], [], ["Netflix"], ["David Ayer"], ["Will Smith", "Noomi Rapace", "Lucy Fry", "Edgar Ramírez", "Ike Barinholtz", "Veronica Ngo"], "https://66.media.tumblr.com/51bd109621dbaaa9172d711da9552660/tumblr_pz9ezksISP1v2s5upo1_250.jpg"],
 	        
 ["film", ["Abschussfahrt"], "2015", ["2018 01 27"], 5, ["ger"], ["comedy"], [], [], ["Tim Trachte"], ["Alexander Schubert", "Max von der Groeben"], "https://66.media.tumblr.com/f649717a44fd34c4e907eb876a2d5245/tumblr_pz45uwfDfB1v2s5upo1_250.jpg"],
 	        
@@ -2970,7 +2970,7 @@ var database = [
 
 ["series", ["Schloss Einstein & Die Pfefferkörner - Auf Gangsterjagd"], "2023", [["2024 05 07", "S1"]], 6, ["ger"], ["crime"], [], ["Die Pfefferkörner", "Schloss Einstein"], ["Markus Dietrich"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Luna Winter", "Kleon Sylvester", "Cihan Can"], "https://64.media.tumblr.com/56113b8d8214961c9f537317041d0c90/474bca8ac2ea3c38-02/s250x400/7a4244f9a4b8dd2e88cec29aab74a521568df85b.jpg"],
 
-["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "2024 05 15", "S24"], ["2024 05 16", "2024 05 22", "S25"], ["2024 05 23", "2024 06 05", "S26"], ["2024 06 06", "2024 06 16", "S27"], ["2024 06 17", "2024 7 09", "S1"], ["2024 07 09", "2024 08 20", "S11"], ["2024 10 15", "2025 01 31", "S12"], ["2025 01 31", "2025 07 21", "S13"], ["2025 02 28", "2025 05 23", "S28"]], 8, ["ger"], ["family"], [], ["watching", "Schloss Einstein", "bby", "KiKa", "YouTube", "ongoing"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Adnan Maral"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"],
+["series", ["Schloss Einstein"], ["1998", ""], [["2024 05 08", "2024 05 15", "S24"], ["2024 05 16", "2024 05 22", "S25"], ["2024 05 23", "2024 06 05", "S26"], ["2024 06 06", "2024 06 16", "S27"], ["2024 06 17", "2024 7 09", "S1"], ["2024 07 09", "2024 08 20", "S11"], ["2024 10 15", "2025 01 31", "S12"], ["2025 01 31", "2025 07 21", "S13"], ["2025 02 28", "2025 05 23", "S28"]], 8, ["ger"], ["family"], [], ["watching", "Schloss Einstein", "bby", "KiKa", "YouTube", "ongoing"], ["Jens Aasman", "Viktoria Assenov", "Djawid Balakarzai"], ["Matilda Willigalla", "Clara Jaschob", "Julie Marienfeld", "Matti Schneider", "Niels Krommes", "Anna Steinhardt", "Adnan Maral", "Johannes Degen"], "https://64.media.tumblr.com/ec1ea4c92186b913ef5f4e58624d5c23/ede1103ef788b873-76/s250x400/a5a15ae6f32e467a0ac6a27451d22e3c416af0f0.jpg"],
 
 ["film", ["Van Helsing"], "2004", ["2024 05 08"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Stephen Sommers"], ["Hugh Jackman", "Richard Roxburgh", "David Wenham", "Shuler Hensley"], "https://64.media.tumblr.com/2c936bbcdf5ced09e27429f09877dd3e/3a8245902f4f1a52-6b/s250x400/00fb259c37f5fbf0f450fa56af5f8ccbcf6adce6.jpg"],
 
@@ -3086,7 +3086,7 @@ var database = [
 
 ["film", ["First Daughter", "Ein Date mit Hindernissen"], "2004", ["2024 10 06"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Forest Whitaker"], ["Justine Wachsberger", "Michael Keaton"], "https://64.media.tumblr.com/9b63715861115852aec81b3434738603/ddccf5886aafe3fb-2c/s250x400/f4471169938f91eca71a6c5ffce73c85a00e37f0.jpg"],
 
-["film", ["The Mummy", "Die Mumie"], "2017", ["2024 10 06"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Alex Kurtzman"], ["Tom Cruise", "Jake Johnson", "Annabelle Wallis", "Sofia Boutella"], "https://64.media.tumblr.com/fc4c921657d02c114f2de0320683ddf2/ae12e8cbf49f0d73-f3/s250x400/786f5782d10be85b92c519ac9b104f1d17cd217b.jpg"],
+["film", ["The Mummy", "Die Mumie"], "2017", ["2024 10 06"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Alex Kurtzman"], ["Tom Cruise", "Jake Johnson", "Annabelle Wallis", "Sofia Boutella", "Marwan Kenzari"], "https://64.media.tumblr.com/fc4c921657d02c114f2de0320683ddf2/ae12e8cbf49f0d73-f3/s250x400/786f5782d10be85b92c519ac9b104f1d17cd217b.jpg"],
 
 ["series", ["High School Musical: The Musical - The Series", "High School Musical: Das Musical: Die Serie"], ["2019", "2023"], [["2024 10 07", "2024 10 16", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Disney+", "ongoing"], ["Peter Barsocchini", "Tim Federle"], ["Sofia Wylie", "Matt Cornett", "Olivia Rodrigo"], "https://64.media.tumblr.com/082db2f6eb24b5e932aed97c1eadd513/401c2fa87e9034bd-37/s400x600/148c02ca935ac246ea759fac60e16bfaff07139a.jpg"],
 
@@ -3328,7 +3328,13 @@ var database = [
 
 ["film", ["Dolittle"], "2020", ["2025 08 05"], 6, ["ger"], ["adventure", "comedy", "family"], [], ["Netflix"], ["Stephen Gaghan"], ["Robert Downey Jr.", "Michael Sheen", "Jim Broadbent", "Jessie Buckley", "Ralph Ineson"], "https://64.media.tumblr.com/b7cb5c6e4f9046f5759df7f0083b4945/b2c3cbe8d8937e82-45/s250x400/375208012fdb4cd34e1dbaa3a3bc8e55233ddb6e.jpg"],
 
-["film", ["Megamind"], "2010", ["2025 08 07"], 7, ["ger"], ["animation", "action", "comedy"], [], ["Netflix"], ["Tom McGrath"], [], "https://64.media.tumblr.com/40ddb95c3e759e834470f1a49039ef17/164a69060499559d-f2/s250x400/0bbae404d364c299990f0df423a958e806446b20.jpg"]
+["film", ["Megamind"], "2010", ["2025 08 07"], 7, ["ger"], ["animation", "action", "comedy"], [], ["Netflix"], ["Tom McGrath"], [], "https://64.media.tumblr.com/40ddb95c3e759e834470f1a49039ef17/164a69060499559d-f2/s250x400/0bbae404d364c299990f0df423a958e806446b20.jpg"],
+
+["film", ["The Old Guard 2"], "2025", ["2025 08 09"], 6, ["ger"], ["action", "adventure", "fantasy"], [], ["Netflix"], ["Victoria Mahoney"], ["Charlize Theron", "KiKi Layne", "Matthias Schoenaerts", "Marwan Kenzari", "Chiwetel Ejiofor", "Veronica Ngo", "Uma Thurman"], "https://64.media.tumblr.com/9650fdd2657853567e0e5aee092105cf/0906a16051215834-a8/s250x400/ff60d7301108aa07726844e7542e0d9622bf312a.jpg"],
+
+["film", ["Woodwalkers"], "2024", ["2025 08 10"], 5, ["ger"], ["family", "fantasy"], [], ["Netflix"], ["Damian john Harper"], ["Oliver Masucci", "Hannah Herzsprung", "Johannes Degen"], "https://64.media.tumblr.com/f978c80f20a4feaa00894003ea2e773a/32b9eb5cfd1df58f-68/s250x400/b6d7b2668c6d53b3f506858ffd7e6987049f867d.jpg"],
+
+["film", ["Bad Influence", "Mala Influencia - Verbotene Liebe", "Mala influencia"], "2025", ["2025 08 16"], 5, ["ger"], ["romance", "thriller"], [], ["Netflix"], ["Chloé Wallace"], ["Enrique Arce"], "https://64.media.tumblr.com/70f340f9ff0f071dccf3a47d1fbfe55e/a7ade893087c975a-0d/s250x400/c62f1aa04f817e6b58346ffcda9f1bbef2fcb435.jpg"]
 
 	/*
 ,
