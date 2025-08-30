@@ -3334,6 +3334,8 @@ var database = [
 
 ["film", ["Woodwalkers"], "2024", ["2025 08 10"], 5, ["ger"], ["family", "fantasy"], [], ["Netflix"], ["Damian john Harper"], ["Oliver Masucci", "Hannah Herzsprung", "Johannes Degen"], "https://64.media.tumblr.com/f978c80f20a4feaa00894003ea2e773a/32b9eb5cfd1df58f-68/s250x400/b6d7b2668c6d53b3f506858ffd7e6987049f867d.jpg"],
 
+["audiobook", ["Tee? Kaffee? Mord! - Miss Rittinghouse und die sprechenden Bücher"], "2020", [["2025 08 14", "2025 08 19"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/c12fba0e13f0076a0c7bf1b2ba8cd9fd/42d2583030591d65-56/s250x400/d6dd80a6f82abe9f8b04c9dee196395e418f5f1e.jpg"],
+
 ["film", ["Bad Influence", "Mala Influencia - Verbotene Liebe", "Mala influencia"], "2025", ["2025 08 16"], 5, ["ger"], ["romance", "thriller"], [], ["Netflix"], ["Chloé Wallace"], ["Enrique Arce"], "https://64.media.tumblr.com/70f340f9ff0f071dccf3a47d1fbfe55e/a7ade893087c975a-0d/s250x400/c62f1aa04f817e6b58346ffcda9f1bbef2fcb435.jpg"],
 
 ["series", ["Gossip Girl"], ["2007", "2012"], [["2025 08 17", "", "S1"]], 0, ["ger"], ["drama", "romance"], [], ["Netflix", "watching"], ["Stephanie Savage", "Josh Schwartz"], ["Blake Lively", "Penn Badgley", "Michelle Trachtenberg"], "https://64.media.tumblr.com/05b1a437aee8e0579909868e8aa969fb/975d5281a3831f94-41/s250x400/065313728895864387687994dc7264093c00442b.jpg"],
@@ -3344,7 +3346,17 @@ var database = [
 
 ["film", ["Manta, Manta"], "1991", ["2025 08 23"], 6, ["ger"], ["comedy"], ["bini", "je", "syl"], ["Kino"], ["Wolfgang Büld"], ["Til Schweiger", "Michael Kessler"], "https://64.media.tumblr.com/ec85543fddb5712fb8ea263370d27cce/8e4e082acda7d0fb-b2/s250x400/edab12dbf4cb4f5d171975c099109ee31e7818e7.jpg"],
 
-["film", ["Dead Girls Dancing"], "2023", ["2025 08 24"], 2, ["ger"], ["drama"], [], ["ARD"], ["Anna Roller"], [], "https://64.media.tumblr.com/ce661c24937c3d69bfdf787295c5d132/3c7176d976e4fbc4-b5/s250x400/4415e96ba4643e9e6ea23fa06cb2130555d59946.jpg"]
+["film", ["Dead Girls Dancing"], "2023", ["2025 08 24"], 2, ["ger"], ["drama"], [], ["ARD"], ["Anna Roller"], [], "https://64.media.tumblr.com/ce661c24937c3d69bfdf787295c5d132/3c7176d976e4fbc4-b5/s250x400/4415e96ba4643e9e6ea23fa06cb2130555d59946.jpg"],
+
+["film", ["Promising Young Woman"], "2020", ["2025 08 24"], 7, ["ger"], ["crime", "drama", "mystery"], [], ["Netflix"], ["Emerald Fennell"], ["Adam Brody", "Sam Richardson", "Carey Mulligan", "Clancy Brown", "Jennifer Coolidge", "Laverne Cox", "Bo Burnham", "Christopher Mintz-Plasse", "Max Greenfield"], "https://64.media.tumblr.com/f1ef2e69dfa5bdf43dd772ba73de5369/8a6898db0f71b01d-14/s250x400/65fd6c3b4edf057e724ea2bae866874a7ff9ba57.jpg"],
+
+["film", ["Fear Street: 1994", "Fear Street Teil 1: 1994"], "2021", ["2025 08 24"], 7, ["ger"], ["drama", "horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Maya Hawke"], "https://64.media.tumblr.com/94b8a358ec30ca6bdf7fbfe11cc62ce8/427df6b6aed5b603-b5/s250x400/19eef1ba27ae13acf71b3530161f8900a9025305.jpg"],
+
+["film", ["Harold and the Purple Crayon", "Harold und die Zauberkreide"], "2024", ["2025 08 24"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Carlos Saldanha"], ["Zooey Deschanel", "Tanya Reynolds"], "https://64.media.tumblr.com/40d3ac903571e4eb2a36d0b8e3e60d4b/9ec9424639c65e2b-7d/s250x400/b3a57bf0fb9e36e742570365036331be9e965ac7.jpg"],
+
+["film", ["Jurassic World: Rebirth", "Jurassic World: Die Wiedergeburt"], "2025", ["2025 08 24"], 4, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Kino"], ["Gareth Edwards"], ["Scarlett Johansson", "Mahershala Ali", "Manuel Garcia-Rulfo"], "https://64.media.tumblr.com/3975a729ba42ebc2e73fef41811c9607/7af02f1566ec3396-f6/s250x400/7455cadcdf851251c20dfbb9238e9c01f3d67c89.jpg"],
+
+["film", ["Detective Conan: One-Eyed Flashback", "Detective Conan: One-Eyed Flashback", "Meitantei Konan Sekigan no Furasshubakku"], "2025", ["2025 08 26"], 7, ["ger"], ["anime", "action", "crime"], ["bini"], ["Kino", "Conan"], ["Katsuya Shigehara"], [], "https://64.media.tumblr.com/29f73ff884c035575706756af4448f34/917da13c5d674dcd-ee/s250x400/e593dc07aecd9e65933ce95bc66ee486bdff82a1.jpg"]
 
 	/*
 ,
