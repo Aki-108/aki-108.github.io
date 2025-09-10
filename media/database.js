@@ -365,7 +365,7 @@ var database = [
 	        
 ["series", ["Mind Field"], "2017", [["2017 07 21", "2017 07 22", "S1 - S2"], ["2019 10 09", "S3"]], 10, ["eng"], ["documentary"], [], [], ["Andy Wood", "Michael Stevens"], ["Michael Stevens", "Trin Miller"], "https://66.media.tumblr.com/ef8f3173576f3583f44f212977fe2b72/b890db991dd36500-46/s250x400/2c9befd9d5126d96102729603801f56d95f82feb.jpg"],
 	        
-["series", ["Stranger Things"], "2016", [["2017 09 30", "2017 10 01", "S1"], ["2017 10 28", "2017 10 29", "S2"], ["2019 07 05", "2019 07 09", "S3"]], 8, ["ger"], ["drama", "fantasy", "horror", "mystery", "thriller", "sci-fi"], ["bini"], ["Netflix"], ["Matt Duffer", "Ross Duffer"], ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Sean Astin", "Joe Chrest", "Jamie Campbell Bower", "Maya Hawke", "Charlie Heaton", "Natalia Dyer"], "https://66.media.tumblr.com/c8b627f6c4e359d3e447107df3fbf426/67ddec5eb9eb235d-ed/s250x400/d663062da2fa7916f4f53c57f65e0a4898097490.jpg"],
+["series", ["Stranger Things"], "2016", [["2017 09 30", "2017 10 01", "S1"], ["2017 10 28", "2017 10 29", "S2"], ["2019 07 05", "2019 07 09", "S3"]], 8, ["ger"], ["drama", "fantasy", "horror", "mystery", "thriller", "sci-fi"], ["bini"], ["Netflix"], ["Matt Duffer", "Ross Duffer"], ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Sean Astin", "Joe Chrest", "Jamie Campbell Bower", "Maya Hawke", "Charlie Heaton", "Natalia Dyer", "Sadie Sink"], "https://66.media.tumblr.com/c8b627f6c4e359d3e447107df3fbf426/67ddec5eb9eb235d-ed/s250x400/d663062da2fa7916f4f53c57f65e0a4898097490.jpg"],
 	        
 ["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt", "Alisha Boe", "Timothy Granaderos", "Gary Sinise", "Megan Suri", "Allison Miller"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
 	        
@@ -375,7 +375,7 @@ var database = [
 	        
 ["series", ["Dark"], ["2017", "2020"], [["2017 12 22", "2018 01 14", "S1"], ["2019 08 02", "2019 08 19", "S2"]], 9, ["ger"], ["crime", "drama", "sci-fi"], ["bini", "syl"], ["Netflix", "dropped"], ["Baran bo Odar", "Jantje Friese"], ["Lisa Vicari", "Louis Hofmann", "Carina Wiese", "Jördis Triebel", "Oliver Masucci", "Moritz Jahn", "Katharina Spiering", "Lea van Acken", "Julika Jenkins", "Sylvester Groth"], "https://66.media.tumblr.com/531d646040cf4d9601928b8831aa7245/09369d9c4c925cd5-a5/s250x400/1a50d68dc6061c00c9275c2b1625fed0831e9d47.jpg"],
 	        
-["series", ["Atypical"], ["2017", "2021"], [["2017 12 29", "2018 01 01", "S1"], ["2018 09 07", "2018 09 08", "S2"], ["2019 11 01", "2019 11 16", "S3"], ["2020 07 09", "2020 07 16", "S1"], ["2020 07 16", "2020 07 18", "S2"], ["2020 07 18", "2020 07 20", "S3"], ["2021 07 16", "2021 07 28", "S4"]], 8, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Robia Rashid"], ["Keir Gilchrist", "Jennifer Jason Leigh", "Brigette Lundy-Paine", "Michael Rapaport", "Nik Dodani", "Amy Okuda", "Sara Gilbert", "Raúl Castillo", "Megan Suri"], "https://66.media.tumblr.com/061499d98f1a404ceb3cb290ec08e58c/bdaa33086c3fdc3d-e2/s250x400/57c82fdf9d317f70486282f02a4c7da7925edf67.jpg"],
+["series", ["Atypical"], ["2017", "2021"], [["2017 12 29", "2018 01 01", "S1"], ["2018 09 07", "2018 09 08", "S2"], ["2019 11 01", "2019 11 16", "S3"], ["2020 07 09", "2020 07 16", "S1"], ["2020 07 16", "2020 07 18", "S2"], ["2020 07 18", "2020 07 20", "S3"], ["2021 07 16", "2021 07 28", "S4"]], 8, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Robia Rashid"], ["Keir Gilchrist", "Jennifer Jason Leigh", "Jack Haven", "Michael Rapaport", "Nik Dodani", "Amy Okuda", "Sara Gilbert", "Raúl Castillo", "Megan Suri"], "https://66.media.tumblr.com/061499d98f1a404ceb3cb290ec08e58c/bdaa33086c3fdc3d-e2/s250x400/57c82fdf9d317f70486282f02a4c7da7925edf67.jpg"],
 	        
 ["series", ["Girlboss"], "2017", [["2018 01 10", "2018 01 21", "S1"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Kay Cannon"], ["Johnny Simmons", "Dean Norris", "Britt Robertson", "Melanie Lynskey"], "https://66.media.tumblr.com/aa0af156b2442fa58f69815b03f895be/c571ce21637e84b9-a2/s250x400/361be4d6838b0b47071a95bef200427e26fe9b20.jpg"],
 	        
@@ -564,7 +564,7 @@ var database = [
 	        
 ["film", ["Steinzeit – Das Experiment: Steinzeit-Kinder"], "2007", ["2020 09 14"], 5, ["ger"], ["reality-tv", "documentary"], [], ["DVD"], [], [], "https://64.media.tumblr.com/8bb35e0c8e0aabdde9b04cbf5c90ee94/dabfd6ff7b8b7930-bb/s250x400/092f4f016e091d45e0ac36f95806b311eebccfae.jpg"],
 	        
-["film", ["Transformers: The Last Knight", "Transformers 5: The Last Knight"], "2017", ["2017 07 19"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Transformers", "Kino"], ["Michael Bay"], ["Mark Wahlberg", "Anthony Hopkins", "Josh Duhamel", "Stanley Tucci", "Steve Buscemi", "John Goodman", "Omar Sy", "Martin McCreadie", "Isabela Merced"], "https://66.media.tumblr.com/aeaef5ce22de525ce1bdf7e9d1e811d9/tumblr_pxnkebxWTN1v2s5upo1_250.jpg"],
+["film", ["Transformers: The Last Knight", "Transformers 5: The Last Knight"], "2017", ["2017 07 19"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Transformers", "Kino"], ["Michael Bay"], ["Mark Wahlberg", "Anthony Hopkins", "Josh Duhamel", "Stanley Tucci", "Steve Buscemi", "John Goodman", "Omar Sy", "Martin McCreadie", "Isabela Merced", "Benjamin Flores Jr."], "https://66.media.tumblr.com/aeaef5ce22de525ce1bdf7e9d1e811d9/tumblr_pxnkebxWTN1v2s5upo1_250.jpg"],
 	        
 ["film", ["Zombieland"], "2009", ["2017 07 31"], 7, ["ger"], ["adventure", "comedy", "fantasy", "horror"], ["nico", "sai", "jenny"], [], ["Ruben Fleischer"], ["Jesse Eisenberg", "Woody Harrelson", "Emma Stone", "Abigail Breslin", "Bill Murray"], "https://66.media.tumblr.com/6b6285b5a200e3a84ba7b3255787e593/tumblr_pxnkhdoJuQ1v2s5upo1_250.jpg"],
 	        
@@ -684,7 +684,7 @@ var database = [
 	        
 ["film", ["The Iron Giant", "Der Gigant aus dem All"], "1999", ["2019 10 31"], 7, ["ger"], ["animation", "action"], [], ["Netflix"], ["Brad Bird"], [], "https://66.media.tumblr.com/b3c3a93f0aaa17e5f8be77d8eb4ec4b2/8ab55f8f380c586f-86/s250x400/63f707d730e0f9fa00b1fdaa7bb15531a29e48e0.jpg"],
 	        
-["film", ["Rim of the World"], "2019", ["2019 09 05"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["McG"], ["Miya Cech", "Lynn Collins", "Andrew Bachelor"], "https://66.media.tumblr.com/219cfc51dd2f09d1700d8a09fc07f3c3/ebeac420d95890b8-b2/s250x400/bc242a51725e2594aa1059d8de317684b6b6e25a.jpg"],
+["film", ["Rim of the World"], "2019", ["2019 09 05"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["McG"], ["Miya Cech", "Lynn Collins", "Andrew Bachelor", "Benjamin Flores Jr."], "https://66.media.tumblr.com/219cfc51dd2f09d1700d8a09fc07f3c3/ebeac420d95890b8-b2/s250x400/bc242a51725e2594aa1059d8de317684b6b6e25a.jpg"],
 	        
 ["film", ["The Da Vinci Code", "The Da Vinci Code - Sakrileg"], "2006", ["2019 09 04"], 6, ["ger"], ["mystery", "thriller"], [], ["Netflix"], ["Ron Howard"], ["Tom Hanks", "Audrey Tautou", "Ian McKellen", "Jean Reno", "Paul Bettany"], "https://66.media.tumblr.com/4226b356eedbfd45d02cb40f745326b5/121691ebc2228547-e4/s250x400/e387d1d8d839ed603f3825ff09a6fb2515434ba4.jpg"],
 	        
@@ -2800,7 +2800,7 @@ var database = [
 
 ["film", ["Victoria"], "2015", ["2023 12 04"], 4, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Sebastian Schipper"], ["Frederick Lau", "Max Mauff", "Lena Klenke"], "https://64.media.tumblr.com/37973dd25843eca66662c4a25d96342f/1d8a691b85643fb1-be/s250x400/7cb2dfe4aee1c20e21ded92860dba9e95124db25.jpg"],
 
-["film", ["Family Switch"], "2023", ["2023 12 04"], 5, ["ger"], ["comedy", "family"], ["je"], ["Netflix"], ["McG"], ["Jennifer Garner", "Emma Myers", "Matthias Schweighöfer", "Ed Helms", "Rita Moreno"], "https://64.media.tumblr.com/d027c7e4894bcc8385b4d508287302c8/b228ffbb642bb4b1-e5/s250x400/f45581db79bfaf4684f62cdc171335171954cf34.jpg"],
+["film", ["Family Switch"], "2023", ["2023 12 04"], 5, ["ger"], ["comedy", "family"], ["je"], ["Netflix"], ["McG"], ["Jennifer Garner", "Emma Myers", "Matthias Schweighöfer", "Ed Helms", "Rita Moreno", "Benjamin Flores Jr."], "https://64.media.tumblr.com/d027c7e4894bcc8385b4d508287302c8/b228ffbb642bb4b1-e5/s250x400/f45581db79bfaf4684f62cdc171335171954cf34.jpg"],
 
 ["film", ["Heart of Stone"], "2023", ["2023 12 04"], 8, ["ger"], ["action", "crime"], ["je"], ["Netflix"], ["Tom Harper"], ["Gal Gadot", "Glenn Close", "Jamie Dornan"], "https://64.media.tumblr.com/a4e1429ffe66e2832311e458b3f7f27c/3a35cf8773813d9a-60/s250x400/3286689dee1e5fd98a5ee8201283776f609bed9c.jpg"],
 
@@ -3350,13 +3350,19 @@ var database = [
 
 ["film", ["Promising Young Woman"], "2020", ["2025 08 24"], 7, ["ger"], ["crime", "drama", "mystery"], [], ["Netflix"], ["Emerald Fennell"], ["Adam Brody", "Sam Richardson", "Carey Mulligan", "Clancy Brown", "Jennifer Coolidge", "Laverne Cox", "Bo Burnham", "Christopher Mintz-Plasse", "Max Greenfield"], "https://64.media.tumblr.com/f1ef2e69dfa5bdf43dd772ba73de5369/8a6898db0f71b01d-14/s250x400/65fd6c3b4edf057e724ea2bae866874a7ff9ba57.jpg"],
 
-["film", ["Fear Street: 1994", "Fear Street Teil 1: 1994"], "2021", ["2025 08 24"], 7, ["ger"], ["drama", "horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Maya Hawke"], "https://64.media.tumblr.com/94b8a358ec30ca6bdf7fbfe11cc62ce8/427df6b6aed5b603-b5/s250x400/19eef1ba27ae13acf71b3530161f8900a9025305.jpg"],
+["film", ["Fear Street: 1994", "Fear Street Teil 1: 1994"], "2021", ["2025 08 24"], 7, ["ger"], ["drama", "horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Maya Hawke", "Benjamin Flores Jr."], "https://64.media.tumblr.com/94b8a358ec30ca6bdf7fbfe11cc62ce8/427df6b6aed5b603-b5/s250x400/19eef1ba27ae13acf71b3530161f8900a9025305.jpg"],
 
 ["film", ["Harold and the Purple Crayon", "Harold und die Zauberkreide"], "2024", ["2025 08 24"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Carlos Saldanha"], ["Zooey Deschanel", "Tanya Reynolds"], "https://64.media.tumblr.com/40d3ac903571e4eb2a36d0b8e3e60d4b/9ec9424639c65e2b-7d/s250x400/b3a57bf0fb9e36e742570365036331be9e965ac7.jpg"],
 
 ["film", ["Jurassic World: Rebirth", "Jurassic World: Die Wiedergeburt"], "2025", ["2025 08 24"], 4, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Kino"], ["Gareth Edwards"], ["Scarlett Johansson", "Mahershala Ali", "Manuel Garcia-Rulfo"], "https://64.media.tumblr.com/3975a729ba42ebc2e73fef41811c9607/7af02f1566ec3396-f6/s250x400/7455cadcdf851251c20dfbb9238e9c01f3d67c89.jpg"],
 
-["film", ["Detective Conan: One-Eyed Flashback", "Detective Conan: One-Eyed Flashback", "Meitantei Konan Sekigan no Furasshubakku"], "2025", ["2025 08 26"], 7, ["ger"], ["anime", "action", "crime"], ["bini"], ["Kino", "Conan"], ["Katsuya Shigehara"], [], "https://64.media.tumblr.com/29f73ff884c035575706756af4448f34/917da13c5d674dcd-ee/s250x400/e593dc07aecd9e65933ce95bc66ee486bdff82a1.jpg"]
+["film", ["Detective Conan: One-Eyed Flashback", "Detective Conan: One-Eyed Flashback", "Meitantei Konan Sekigan no Furasshubakku"], "2025", ["2025 08 26"], 7, ["ger"], ["anime", "action", "crime"], ["bini"], ["Kino", "Conan"], ["Katsuya Shigehara"], [], "https://64.media.tumblr.com/29f73ff884c035575706756af4448f34/917da13c5d674dcd-ee/s250x400/e593dc07aecd9e65933ce95bc66ee486bdff82a1.jpg"],
+
+["film", ["Fear Street: 1978", "Fear Street Teil 2: 1978"], "2021", ["2025 08 30"], 7, ["ger"], ["drama", "horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Benjamin Flores Jr.", "Sadie Sink", "Chiara Aurelia", "Emily Rudd"], "https://64.media.tumblr.com/121f143101b1c2914140b44ba5dbc949/96cb1dfba8bfbbe0-6f/s250x400/002bdf7ba19345fd2249f28e105a34b5b8e55153.jpg"],
+
+["film", ["Fear Street: 1666", "Fear Street Teil 3: 1666"], "2021", ["2025 08 31"], 7, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Elizabeth Scopel", "Benjamin Flores Jr.", "Sadie Sink", "Emily Rudd"], "https://64.media.tumblr.com/0974df51a9032cdf7a7e2bf0f6f789cc/b2b3af6dfa67d89a-f1/s250x400/d3a35042f51415f0bc139d290e4b4c248fdff0f0.jpg"],
+
+["film", ["Fear Street: Prom Queen"], "2025", ["2025 08 31"], 7, ["ger"], ["horror", "mystery", "thriller"], [], ["Netflix"], ["Matt Palmer"], ["Ariana Greenblatt"], "https://64.media.tumblr.com/24d16275c67423c9576d947c322aea85/284db2908068b283-a8/s250x400/a351382b266877400e21538c623c0c9eb9ac90cc.jpg"]
 
 	/*
 ,
