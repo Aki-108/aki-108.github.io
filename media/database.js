@@ -782,7 +782,7 @@ var database = [
 	        
 ["film", ["Hunt for the Wilderpeople", "Wo die wilden Menschen jagen"], "2016", ["2017 04 13"], 8, ["ger"], ["adventure", "comedy"], [], [], ["Taika Waititi"], ["Sam Neill", "Julian Dennison"], "https://68.media.tumblr.com/5eb0b72a042e1a59b4960ebbb9b01a49/tumblr_oor79j7Xly1v2s5upo1_250.jpg"],
 	        
-["film", ["Tschick"], "2016", ["2017 04 12"], 8, ["ger"], ["comedy", "drama"], [], [], ["Fatih Akin"], [], "https://68.media.tumblr.com/b4118a44f06f7f29091a368b6d46064c/tumblr_oor7blm2k71v2s5upo1_250.jpg"],
+["film", ["Tschick"], "2016", ["2017 04 12", "2025 08 31"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Fatih Akin"], [], "https://68.media.tumblr.com/b4118a44f06f7f29091a368b6d46064c/tumblr_oor7blm2k71v2s5upo1_250.jpg"],
 	        
 ["film", ["Juno"], "2007", ["2017 04 11"], 7, ["ger"], ["comedy", "drama"], [], [], ["Jason Reitman"], ["Elliot Page", "Michael Cera", "Jennifer Garner", "Jason Bateman", "J.K. Simmons", "Rainn Wilson", "Allison Janney"], "https://68.media.tumblr.com/4da555244f94995b2bef97c07f0ee676/tumblr_ooakvic2MF1v2s5upo1_250.jpg"],
 	        
@@ -3362,7 +3362,13 @@ var database = [
 
 ["film", ["Fear Street: 1666", "Fear Street Teil 3: 1666"], "2021", ["2025 08 31"], 7, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Elizabeth Scopel", "Benjamin Flores Jr.", "Sadie Sink", "Emily Rudd"], "https://64.media.tumblr.com/0974df51a9032cdf7a7e2bf0f6f789cc/b2b3af6dfa67d89a-f1/s250x400/d3a35042f51415f0bc139d290e4b4c248fdff0f0.jpg"],
 
-["film", ["Fear Street: Prom Queen"], "2025", ["2025 08 31"], 7, ["ger"], ["horror", "mystery", "thriller"], [], ["Netflix"], ["Matt Palmer"], ["Ariana Greenblatt"], "https://64.media.tumblr.com/24d16275c67423c9576d947c322aea85/284db2908068b283-a8/s250x400/a351382b266877400e21538c623c0c9eb9ac90cc.jpg"]
+["film", ["Fear Street: Prom Queen"], "2025", ["2025 08 31"], 7, ["ger"], ["horror", "mystery", "thriller"], [], ["Netflix"], ["Matt Palmer"], ["Ariana Greenblatt"], "https://64.media.tumblr.com/24d16275c67423c9576d947c322aea85/284db2908068b283-a8/s250x400/a351382b266877400e21538c623c0c9eb9ac90cc.jpg"],
+
+["film", ["The Thursday Murder Club"], "2025", ["2025 08 31"], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Chris Columbus"], ["Helen Mirren", "Pierce Brosnan", "Ben Kingsley", "David Tennant"], "https://64.media.tumblr.com/28ba01e97be06b0b743d65e771713c91/2d23813d988d08cd-bc/s250x400/3fafc7dd55ca1fa28c09cae4c022d49f6691ca11.jpg"],
+
+["audiobook", ["Drei Schritte zu dir"], "2019", [["2025 09 01", "2025 09 03"]], 8, ["ger"], ["drama", "romance"], [], ["bibliothek"], ["Rachael Lippincott"], ["Maximiliane Häcke", "Dirk Petrick"], "https://64.media.tumblr.com/f9cf27e862d7757efa82a31dc4c2e9ee/5a144b222024b408-b9/s250x400/bda5795e3d3702bbf1a13460feba4f40c8ca02e3.jpg"],
+
+["audiobook", ["Mondherz"], "2024", [["2025 09 04", "2025 09 09"]], 4, ["ger"], ["fantasy"], [], ["bibliothek"], ["Jenny Völker"], ["Désirée Singson"], "https://64.media.tumblr.com/d7f4a44e1e2d1f9b17e3c2091e0089c7/e4036b2043c0c7ca-6e/s250x400/c009cd9be19c5aac3e031a18c181f417aac107c4.jpg"]
 
 	/*
 ,
