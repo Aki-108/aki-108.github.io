@@ -632,7 +632,7 @@ var database = [
 	        
 ["film", ["The Fault in Our Stars", "Das Schicksal ist ein mieser Verräter"], "2014", ["2018 05 27"], 7, ["ger"], ["drama", "romance"], ["syl"], [], ["Josh Boone"], ["Shailene Woodley", "Ansel Elgort", "Nat Wolff", "Laura Dern", "Willem Dafoe"], "https://66.media.tumblr.com/9d2ff6a174443bf31ae6cea3328fcf01/tumblr_pzktgoXS3g1v2s5upo1_250.jpg"],
 	        
-["film", ["Mean Girls", "Girls Club - Vorsicht bissig!"], "2004", ["2018 06 16"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Mark Waters"], ["Lindsay Lohan", "Rachel McAdams", "Amy Poehler", "Lizzy Caplan", "Neil Flynn", "Amanda Seyfried", "Miranda Edwards", "Lacey Chabert"], "https://66.media.tumblr.com/ed6968420c5a469bc3013dde5b8eb11a/tumblr_pzktt21Nry1v2s5upo1_250.jpg"],
+["film", ["Mean Girls", "Girls Club - Vorsicht bissig!"], "2004", ["2018 06 16", "2025 09 12"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Mark Waters"], ["Lindsay Lohan", "Rachel McAdams", "Amy Poehler", "Lizzy Caplan", "Neil Flynn", "Amanda Seyfried", "Miranda Edwards", "Lacey Chabert"], "https://66.media.tumblr.com/ed6968420c5a469bc3013dde5b8eb11a/tumblr_pzktt21Nry1v2s5upo1_250.jpg"],
 	        
 ["film", ["How It Ends"], "2018", ["2018 07 30"], 3, ["ger"], ["action", "adventure"], ["nico", "bini"], ["Netflix"], ["David M. Rosenthal"], ["Theo James", "Mark O'Brien", "Forest Whitaker"], "https://66.media.tumblr.com/1662f74fc5325dd41902574e60108f9d/3489b61bacf3339a-4e/s250x400/bd14b214f49d1f37eb2ed46d06eda3e8a206f3ba.jpg"],
 	        
