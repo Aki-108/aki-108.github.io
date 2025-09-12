@@ -2702,7 +2702,7 @@ var database = [
 
 ["film", ["Queen of Niendorf", "Königin von Niendorf"], "2017", ["2023 08 26"], 7, ["ger"], ["family"], [], ["bibliothek"], ["Joya Thome"], [], "https://64.media.tumblr.com/c904abfa9427f6f7e1a13140efe2fd89/dd124705e623c908-9c/s250x400/e7b5590b13cfc43a8a06ce3bdcef20df52cc5067.jpg"],
 
-["film", ["Good Will Hunting", "Good Will Hunting: Der gute Will Hunting"], "1997", ["2023 09 02"], 9, ["eng"], ["drama", "romance"], ["bini", "mai"], ["Netflix"], ["Gus Van Sant"], ["Matt Damon", "Stellan Skarsgård", "Minnie Driver", "Robin Williams", "Ben Affleck"], "https://64.media.tumblr.com/001a30349ff3fbf59832105848e9b8ed/5af3bb044b132d0f-7d/s250x400/62b78d0c1e763a47fec18abd1e6324b3b24c51b2.jpg"],
+["film", ["Good Will Hunting", "Good Will Hunting: Der gute Will Hunting"], "1997", ["2023 09 02", "2025 09 12"], 9, ["eng", "ger"], ["drama", "romance"], ["bini", "mai"], ["Netflix"], ["Gus Van Sant"], ["Matt Damon", "Stellan Skarsgård", "Minnie Driver", "Robin Williams", "Ben Affleck"], "https://64.media.tumblr.com/001a30349ff3fbf59832105848e9b8ed/5af3bb044b132d0f-7d/s250x400/62b78d0c1e763a47fec18abd1e6324b3b24c51b2.jpg"],
 
 ["series", ["Die drei !!!"], "2023", [["2023 09 07", "2023 09 17", "S1"]], 8, ["ger"], ["crime"], [], ["Disney+"], ["Sina Flammang", "Doris Laske"], [], "https://64.media.tumblr.com/93ceeb11676971f09183ffc8566249b7/cc72d70a7e8c3a83-68/s250x400/9b3e23942e363fc9a2560d955aabd31c7be3f04b.jpg"],
 
