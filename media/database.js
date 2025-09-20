@@ -614,7 +614,7 @@ var database = [
 	        
 ["film", ["The Dark Tower", "Der Dunkle Turm"], "2017", ["2019 07 16"], 4, ["ger"], ["action", "adventure"], ["nico"], ["Dark Tower", "Netflix"], ["Nikolaj Arcel"], ["Matthew McConaughey", "Idris Elba", "Claudia Kim", "Jackie Earle Haley", "Abbey Lee", "Katheryn Winnick", "Fran Kranz"], "https://66.media.tumblr.com/2717e0e9fcbcba95671053401df4a244/33834b775e3b9f2f-0c/s250x400/697e435d5346a24b31eefc99498863b4a4e4b208.jpg"],
 	        
-["film", ["Five Feet Apart", "Drei Schritte zu dir"], "2019", ["2019 07 07"], 8, ["ger"], ["drama", "romance"], ["syl"], ["Kino"], ["Justin Baldoni"], ["Haley Lu Richardson", "Ariana Guerra", "Moises Arias", "Cole Sprouse"], "https://66.media.tumblr.com/9a0b9f9be370c06d273db093f9ce7e81/ca58850e02f4cfa4-99/s250x400/778f94e4fd66b54b3facc5c5b8bddb5883bacdde.jpg"],
+["film", ["Five Feet Apart", "Drei Schritte zu dir"], "2019", ["2019 07 07", "2025 09 20"], 8, ["ger"], ["drama", "romance"], ["syl"], ["Kino", "bibliothek"], ["Justin Baldoni"], ["Haley Lu Richardson", "Ariana Guerra", "Moises Arias", "Cole Sprouse"], "https://66.media.tumblr.com/9a0b9f9be370c06d273db093f9ce7e81/ca58850e02f4cfa4-99/s250x400/778f94e4fd66b54b3facc5c5b8bddb5883bacdde.jpg"],
 	        
 ["film", ["Split"], "2016", ["2017 02 04", "2019 02 02", "2020 09 28"], 8, ["ger", "eng"], ["horror", "thriller"], ["syl"], ["Eastrail 177", "Kino", "DVD"], ["M. Night Shyamalan"], ["James McAvoy", "Anya Taylor-Joy", "Betty Buckley", "Bruce Willis"], "https://68.media.tumblr.com/c97742e705faeb4107c44333b6d08407/tumblr_okvc0ubTvD1v2s5upo1_250.jpg"],
 	        
