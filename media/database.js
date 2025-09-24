@@ -3380,7 +3380,7 @@ var database = [
 
 ["audiobook", ["Die Erben der Animox: Die Beute des Fuchses"], "2021", [["2025 09 15", "2025 09 17"]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "dropped"], ["Aimée Carter"], ["Peter Kaempfe"], "https://64.media.tumblr.com/9c6513f7bd89c50578df4fa6a76f78d0/394cb772950cde31-8b/s250x400/45bdec78f1c360e6ccff2c2c7787a8230d2d7355.jpg"],
 
-["series", ["Murder Mindfully", "Achtsam Morden"], ["2024"], [["2025 09 20", "", "S1"]], 0, ["ger"], ["crime", "comedy"], [], ["Netflix"], [], ["Tom Schilling"], "https://64.media.tumblr.com/4275ffd20c80f38873d9cf3003f6faf0/668138992cc5f894-6a/s250x400/d299ac7977ca7b530998d4e8c60566735b749601.jpg"]
+["series", ["Murder Mindfully", "Achtsam Morden"], ["2024"], [["2025 09 20", "", "S1"]], 0, ["ger"], ["crime", "comedy"], [], ["Netflix", "watching"], [], ["Tom Schilling"], "https://64.media.tumblr.com/4275ffd20c80f38873d9cf3003f6faf0/668138992cc5f894-6a/s250x400/d299ac7977ca7b530998d4e8c60566735b749601.jpg"]
 
 	/*
 ,
