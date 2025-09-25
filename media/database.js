@@ -3380,7 +3380,11 @@ var database = [
 
 ["audiobook", ["Die Erben der Animox: Die Beute des Fuchses"], "2021", [["2025 09 15", "2025 09 17"]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "dropped"], ["Aimée Carter"], ["Peter Kaempfe"], "https://64.media.tumblr.com/9c6513f7bd89c50578df4fa6a76f78d0/394cb772950cde31-8b/s250x400/45bdec78f1c360e6ccff2c2c7787a8230d2d7355.jpg"],
 
-["series", ["Murder Mindfully", "Achtsam Morden"], ["2024"], [["2025 09 20", "", "S1"]], 0, ["ger"], ["crime", "comedy"], [], ["Netflix", "watching"], [], ["Tom Schilling"], "https://64.media.tumblr.com/4275ffd20c80f38873d9cf3003f6faf0/668138992cc5f894-6a/s250x400/d299ac7977ca7b530998d4e8c60566735b749601.jpg"]
+["series", ["Murder Mindfully", "Achtsam Morden"], ["2024"], [["2025 09 20", "2025 09 25", "S1"]], 7, ["ger"], ["crime", "comedy"], [], ["Netflix"], [], ["Tom Schilling"], "https://64.media.tumblr.com/4275ffd20c80f38873d9cf3003f6faf0/668138992cc5f894-6a/s250x400/d299ac7977ca7b530998d4e8c60566735b749601.jpg"],
+
+["audiobook", ["Letzter Vorhang für Mister Goodfellow"], "2022", [["2025 09 24", "2025 09 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/37337c3ee5d00e0cc4d68b40b4a00967/b2705a525efc6adc-9f/s250x400/f432b6a8ab0b394791db726005c9e583eeb4ac06.jpg"],
+
+["series", ["Sirens"], "2025", [["2025 09 25", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Netflix", "watching"], ["Molly Smith Metzler"], ["Julianne Moore"], "https://64.media.tumblr.com/c98063fa3f33d779e372ae297e6765b3/943667892e3899cf-c8/s250x400/19cc3df5cd77b0817b20d40a891c2214f6f99bcf.jpg"]
 
 	/*
 ,
