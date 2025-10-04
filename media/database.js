@@ -373,7 +373,7 @@ var database = [
 	        
 ["series", ["Sense8"], ["2015", "2018"], [["2017 11 22", "2017 12 06", "S1"], ["2021 12 08", "2018 01 08", "S2E1-E11"], ["2018 06 20", "S2E12"]], 10, ["ger"], ["drama", "mystery", "sci-fi"], [], ["Netflix", "LGBT"], ["J. Michael Straczynski", "Lana Wachowski", "Lilly Wachowski"], ["Doona Bae", "Jamie Clayton", "Tina Desai", "Tuppence Middleton", "Miguel Ángel Silvestre", "Brian J. Smith", "Naveen Andrews", "Lucas Jade Zumann", "Adam Shapiro", "Max Riemelt", "Daryl Hannah", "Max Mauff", "Martin Wuttke", "Rainer Reiners", "Sylvester Groth"], "https://66.media.tumblr.com/fe621b191d84e2bbe1aba5ebe2a07f66/09a111a49814a1f3-e9/s250x400/d3d1227dfa741e11309c553ea5b18b6c97ca4d8a.jpg"],
 	        
-["series", ["Dark"], ["2017", "2020"], [["2017 12 22", "2018 01 14", "S1"], ["2019 08 02", "2019 08 19", "S2"]], 9, ["ger"], ["crime", "drama", "sci-fi"], ["bini", "syl"], ["Netflix", "dropped"], ["Baran bo Odar", "Jantje Friese"], ["Lisa Vicari", "Louis Hofmann", "Carina Wiese", "Jördis Triebel", "Oliver Masucci", "Moritz Jahn", "Katharina Spiering", "Lea van Acken", "Julika Jenkins", "Sylvester Groth"], "https://66.media.tumblr.com/531d646040cf4d9601928b8831aa7245/09369d9c4c925cd5-a5/s250x400/1a50d68dc6061c00c9275c2b1625fed0831e9d47.jpg"],
+["series", ["Dark"], ["2017", "2020"], [["2017 12 22", "2018 01 14", "S1"], ["2019 08 02", "2019 08 19", "S2"]], 9, ["ger"], ["crime", "drama", "sci-fi"], ["bini", "syl"], ["Netflix", "dropped"], ["Baran bo Odar", "Jantje Friese"], ["Lisa Vicari", "Louis Hofmann", "Carina Wiese", "Jördis Triebel", "Oliver Masucci", "Moritz Jahn", "Katharina Spiering", "Lea van Acken", "Julika Jenkins", "Sylvester Groth", "Antje Traue"], "https://66.media.tumblr.com/531d646040cf4d9601928b8831aa7245/09369d9c4c925cd5-a5/s250x400/1a50d68dc6061c00c9275c2b1625fed0831e9d47.jpg"],
 	        
 ["series", ["Atypical"], ["2017", "2021"], [["2017 12 29", "2018 01 01", "S1"], ["2018 09 07", "2018 09 08", "S2"], ["2019 11 01", "2019 11 16", "S3"], ["2020 07 09", "2020 07 16", "S1"], ["2020 07 16", "2020 07 18", "S2"], ["2020 07 18", "2020 07 20", "S3"], ["2021 07 16", "2021 07 28", "S4"]], 8, ["ger"], ["comedy", "drama"], ["bini"], ["Netflix"], ["Robia Rashid"], ["Keir Gilchrist", "Jennifer Jason Leigh", "Jack Haven", "Michael Rapaport", "Nik Dodani", "Amy Okuda", "Sara Gilbert", "Raúl Castillo", "Megan Suri"], "https://66.media.tumblr.com/061499d98f1a404ceb3cb290ec08e58c/bdaa33086c3fdc3d-e2/s250x400/57c82fdf9d317f70486282f02a4c7da7925edf67.jpg"],
 	        
@@ -570,7 +570,7 @@ var database = [
 	        
 ["film", ["Shutter Island"], "2010", ["2017 07 16"], 7, ["ger"], ["mystery", "thriller"], [], [], ["Martin Scorsese"], ["Leonardo DiCaprio", "Mark Ruffalo", "Ben Kingsley", "Max von Sydow", "Emily Mortimer", "Jackie Earle Haley", "Michelle Williams", "Ted Levine"], "https://66.media.tumblr.com/0a0558c0082ac5412934349b70f824e4/tumblr_ppuvzheK9N1v2s5upo1_250.jpg"],
 	        
-["film", ["Who Am I", "Who Am I - Kein System ist sicher"], "2014", ["2017 07 03", "2019 01 29", "2020 06 13", "2021 05 29"], 9, ["ger"], ["crime", "drama"], ["syl", "mai", "bini"], ["Netflix"], ["Baran bo Odar"], ["Tom Schilling", "Elyas M'Barek", "Wotan Wilke Möhring", "Antoine Monot Jr.", "Hannah Herzsprung", "Stephan Kampwirth", "Arndt Schwering-Sohnrey"], "https://66.media.tumblr.com/30c001dd83c4c23870490c20aa6f56a6/tumblr_ppuvvqZRf51v2s5upo1_250.jpg"],
+["film", ["Who Am I", "Who Am I - Kein System ist sicher"], "2014", ["2017 07 03", "2019 01 29", "2020 06 13", "2021 05 29", "2025 10 04"], 9, ["ger"], ["crime", "drama"], ["syl", "mai", "bini"], ["Netflix", "DVD"], ["Baran bo Odar"], ["Tom Schilling", "Elyas M'Barek", "Wotan Wilke Möhring", "Antoine Monot Jr.", "Hannah Herzsprung", "Stephan Kampwirth", "Arndt Schwering-Sohnrey"], "https://66.media.tumblr.com/30c001dd83c4c23870490c20aa6f56a6/tumblr_ppuvvqZRf51v2s5upo1_250.jpg"],
 	        
 ["film", ["Die Vorstadtkrokodile"], "1977", ["2015 08 11", "2021 12 12"], 6, ["ger"], ["family", "adventure"], ["syl", "je"], [], ["Wolfgang Becker"], [], "https://49.media.tumblr.com/bec2fd9059b81e005cfcb4c3a793ade6/tumblr_nztao7NoRR1v2s5upo2_r1_250.png"],
 	        
@@ -1692,7 +1692,7 @@ var database = [
 
 ["series", ["Toradora!"], ["2008", "2009"], [["2021 01 07", "2021 03 04", "S1"]], 5, ["ger"], ["anime", "comedy", "slice of life", "romance", "school"], [], ["Netflix"], ["Tatsuto Higuchi", "Mari Okada", "Junko Okazaki"], [], "https://64.media.tumblr.com/dc150e61e55cdc931c38f27e1708b2c3/7edec0b0c88a870e-60/s250x400/ab102a70b911e96a29eeff7cc1e6ccc613ae7cb2.jpg"],
 
-["film", ["Red Sparrow"], "2018", ["2021 01 09"], 6, ["ger"], ["action", "drama"], ["syl"], ["Netflix"], ["Francis Lawrence"], ["Jennifer Lawrence", "Joel Edgerton", "Matthias Schoenaerts", "Charlotte Rampling", "Jeremy Irons", "Sasha Frolova", "Sebastian Hülk", "Louis Hofmann", "Mary-Louise Parker"], "https://64.media.tumblr.com/2735570ab96f0356de104d510530bc1b/13a001b3ba68ed9e-de/s250x400/60f555038eb1ef7fb5115cf97c1398a0506795e9.jpg"],
+["film", ["Red Sparrow"], "2018", ["2021 01 09"], 6, ["ger"], ["action", "drama"], ["syl"], ["Netflix"], ["Francis Lawrence"], ["Jennifer Lawrence", "Joel Edgerton", "Matthias Schoenaerts", "Charlotte Rampling", "Jeremy Irons", "Sasha Frolova", "Sebastian Hülk", "Louis Hofmann", "Mary-Louise Parker", "Bill Camp"], "https://64.media.tumblr.com/2735570ab96f0356de104d510530bc1b/13a001b3ba68ed9e-de/s250x400/60f555038eb1ef7fb5115cf97c1398a0506795e9.jpg"],
 
 ["book", ["Das zweite Buch Otto"], "1984", [["2021 01 13", "2021 01 24"]], 3, ["ger"], [], [], [], ["Otto Waalkes"], [], "https://64.media.tumblr.com/31c1cbdcd43836b6ecaf1cb0d0fef146/c4e9758c62c2f1fd-94/s250x400/1648bcfe15914891f2cfe495bf5e7ed0bcc32189.jpg"],
 
@@ -1792,7 +1792,7 @@ var database = [
 
 ["film", ["Not Another Teen Movie", "Nicht noch ein Teenie-Film!"], "2001", ["2021 04 27"], 4, ["ger"], ["comedy"], ["je"], ["Netflix"], ["Joel Gallen"], ["Chyler Leigh", "Chris Evans", "Jaime Pressly", "Eric Christian Olsen", "Mia Kirshner", "Deon Richmond", "Lacey Chabert", "Samm Levine", "Paul Gleason", "Mr. T", "Molly Ringwald", "Nectar Rose", "Josh Radnor", "Joy Bisco", "Lyman Ward"], "https://64.media.tumblr.com/facb1c2327b0ec74694779297efd2603/77de2a0db9687b1d-ef/s250x400/b2859e1ca59b6ca128e20126af7aa21a1d8dfe7c.jpg"],
 
-["film", ["Vier gegen die Bank"], "2016", [["2021 05 02", "ab 50min"]], 6, ["ger"], ["comedy", "crime"], ["bini"], [], ["Wolfgang Petersen"], ["Til Schweiger", "Matthias Schweighöfer", "Jan Josef Liefers", "Michael Herbig", "Jana Pallaske", "Alexandra Maria Lara", "Fahri Yardim"], "https://64.media.tumblr.com/97487db8d9ade43ae67700087b5f95c3/faf9ea56fd12410a-7a/s250x400/4e9cdfaed38ba75761a6ad194773f4cbab97d02c.jpg"],
+["film", ["Vier gegen die Bank"], "2016", [["2021 05 02", "ab 50min"]], 6, ["ger"], ["comedy", "crime"], ["bini"], [], ["Wolfgang Petersen"], ["Til Schweiger", "Matthias Schweighöfer", "Jan Josef Liefers", "Michael Herbig", "Jana Pallaske", "Alexandra Maria Lara", "Fahri Yardim", "Antje Traue"], "https://64.media.tumblr.com/97487db8d9ade43ae67700087b5f95c3/faf9ea56fd12410a-7a/s250x400/4e9cdfaed38ba75761a6ad194773f4cbab97d02c.jpg"],
 
 ["series", ["Love on the Spectrum", "Liebe im Spektrum"], ["2019", "2021"], [["2021 05 02", "2021 05 04", "S1"], ["2021 09 23", "2021 10 10", "S2"]], 6, ["eng"], ["documentary", "reality-tv"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/72ce0c0cdf9d20f80dafd14ae88c3561/d7b2978419840e85-c5/s250x400/d471d986f0b33eb1d9fe3eb8d8a0478d0bc982e6.jpg"],
 /*S1: 7; S2: 5*/
@@ -2858,7 +2858,7 @@ var database = [
 
 ["film", ["tick, tick...BOOM!", "tick, tick... Boom!"], "2021", ["2024 01 01"], 4, ["ger"], ["biography", "comedy"], [], ["Netflix"], ["Lin-Manuel Miranda"], ["Andrew Garfield", "Alexandra Shipp", "Vanessa Hudgens", "Lin-Manuel Miranda", "Bradley Whitford"], "https://64.media.tumblr.com/29ced7117df786b46dff3ca55834b060/456bde344e404374-a7/s250x400/3df20e78055960afabb68265b5cf15a8193127f5.jpg"],
 
-["film", ["White Noise", "Weißes Rauschen"], "2022", ["2024 01 02"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Noah Baumbach"], ["Don Cheadle", "Adam Driver", "Greta Gerwig", "Raffey Cassidy"], "https://64.media.tumblr.com/916c77f9a2c34d4685b8a9bc09de8e14/c893acd7b3493dba-7d/s250x400/d68d629d27cf7104fc0970eec8f6bb86d1139159.jpg"],
+["film", ["White Noise", "Weißes Rauschen"], "2022", ["2024 01 02"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Noah Baumbach"], ["Don Cheadle", "Adam Driver", "Greta Gerwig", "Raffey Cassidy", "Bill Camp"], "https://64.media.tumblr.com/916c77f9a2c34d4685b8a9bc09de8e14/c893acd7b3493dba-7d/s250x400/d68d629d27cf7104fc0970eec8f6bb86d1139159.jpg"],
 
 ["film", ["Mudbound"], "2017", ["2024 01 04"], 7, ["ger"], ["drama", "war"], [], ["Netflix"], ["Dee Rees"], ["Carey Mulligan"], "https://64.media.tumblr.com/a280d79aba676214e7442695b07078bb/bf58dbc204c20552-11/s250x400/64158a5d12a61eb912bdea07f2c7850dd10172b5.jpg"],
 
@@ -3114,13 +3114,13 @@ var database = [
 
 ["film", ["Don't Move"], "2024", ["2024 11 01"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Brian Netto", "Adam Schindler"], ["Finn Wittrock"], "https://64.media.tumblr.com/7dc2786a0207bf44d3c37dca4d125ceb/e7e851c1fcc67950-74/s250x400/9bb11d68c6bab9f290c91fab9b04548c9cf60faf.jpg"],
 
-["film", ["Law Abiding Citizen", "Gesetz der Rache"], "2009", ["2024 11 01"], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["F. Gary Gray"], ["Jamie Foxx", "Gerard Butler", "Bruce McGill", "Viola Davis"], "https://64.media.tumblr.com/bbca779c849259678a255dc841763b5f/a1e2822c655d7716-a2/s250x400/1ff9ba38251889fce9e9416de65f1628a1433440.jpg"],
+["film", ["Law Abiding Citizen", "Gesetz der Rache"], "2009", ["2024 11 01", "2025 10 04"], 8, ["ger"], ["action", "crime"], [], ["Netflix"], ["F. Gary Gray"], ["Jamie Foxx", "Gerard Butler", "Bruce McGill", "Viola Davis"], "https://64.media.tumblr.com/bbca779c849259678a255dc841763b5f/a1e2822c655d7716-a2/s250x400/1ff9ba38251889fce9e9416de65f1628a1433440.jpg"],
 
 ["film", ["The Mummy Returns", "Die Mumie kehrt zurück"], "2001", ["2024 11 02"], 4, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Stephen Sommers"], ["Rachel Weisz", "Dwayne Johnson"], "https://64.media.tumblr.com/08653cea0a6df5c09cb450e418ee25ab/1314383fcd329d69-94/s250x400/b4738d57b3937bb73687c84a1af358ac7ca61540.jpg"],
 
 ["film", ["The Bourne Legacy", "Das Bourne Vermächtnis"], "2012", ["2024 11 03"], 7, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Tony Gilroy"], ["Jeremy Renner", "Edward Norton", "Corey Stoll", "Zeljko Ivanek", "Oscar Isaac"], "https://64.media.tumblr.com/b632de50530f2daccef44df6a93e0dcb/8f2dfd2c0d3c757d-d0/s250x400/90c04d4c642220b656ca44caee1f9ea3d07d3e39.jpg"],
 
-["film", ["Jason Bourne"], "2016", ["2024 11 03"], 7, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Paul Greengrass"], ["Matt Damon", "Tommy Lee Jones", "Alicia Vikander", "Julia Stiles"], "https://64.media.tumblr.com/51e95f3f46419d7ffeb2c197364a1cc5/88a54e25bce44e4d-c1/s250x400/47c0a68dfd0370495defa21437dce726d8d0f311.jpg"],
+["film", ["Jason Bourne"], "2016", ["2024 11 03"], 7, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Paul Greengrass"], ["Matt Damon", "Tommy Lee Jones", "Alicia Vikander", "Julia Stiles", "Bill Camp"], "https://64.media.tumblr.com/51e95f3f46419d7ffeb2c197364a1cc5/88a54e25bce44e4d-c1/s250x400/47c0a68dfd0370495defa21437dce726d8d0f311.jpg"],
 
 ["book", ["A Good Girl's Guide to Murder"], "2019", [["2024 11 04", "2025 01 16"]], 9, ["ger"], ["young adult", "mystery", "crime"], [], [], ["Holly Jackson"], [], "https://64.media.tumblr.com/ec0dde7a22c7b898b411b3dd74cfe596/329c65c9699d5ad3-13/s250x400/4cf05d2e2ee57c7768aa36b152ca1eb34b91a93a.jpg"],
 
@@ -3382,9 +3382,17 @@ var database = [
 
 ["series", ["Murder Mindfully", "Achtsam Morden"], ["2024"], [["2025 09 20", "2025 09 25", "S1"]], 7, ["ger"], ["crime", "comedy"], [], ["Netflix"], [], ["Tom Schilling"], "https://64.media.tumblr.com/4275ffd20c80f38873d9cf3003f6faf0/668138992cc5f894-6a/s250x400/d299ac7977ca7b530998d4e8c60566735b749601.jpg"],
 
-["audiobook", ["Letzter Vorhang für Mister Goodfellow"], "2022", [["2025 09 24", "2025 09 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/37337c3ee5d00e0cc4d68b40b4a00967/b2705a525efc6adc-9f/s250x400/f432b6a8ab0b394791db726005c9e583eeb4ac06.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! - Letzter Vorhang für Mister Goodfellow"], "2022", [["2025 09 24", "2025 09 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/37337c3ee5d00e0cc4d68b40b4a00967/b2705a525efc6adc-9f/s250x400/f432b6a8ab0b394791db726005c9e583eeb4ac06.jpg"],
 
-["series", ["Sirens"], "2025", [["2025 09 25", "", "S1"]], 0, ["ger"], ["comedy", "drama"], [], ["Netflix", "watching"], ["Molly Smith Metzler"], ["Julianne Moore"], "https://64.media.tumblr.com/c98063fa3f33d779e372ae297e6765b3/943667892e3899cf-c8/s250x400/19cc3df5cd77b0817b20d40a891c2214f6f99bcf.jpg"]
+["series", ["Sirens"], "2025", [["2025 09 25", "2025 09 27", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Molly Smith Metzler"], ["Julianne Moore", "Bill Camp"], "https://64.media.tumblr.com/c98063fa3f33d779e372ae297e6765b3/943667892e3899cf-c8/s250x400/19cc3df5cd77b0817b20d40a891c2214f6f99bcf.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! - Drei Sterne und ein Mord"], "2022", [["2025 09 25", "2025 09 29"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/42fe9f46ac4dceeaec44087126c30d12/ca9c8b1c002ee620-d9/s250x400/dcbf0b1846725470d0a02fdc549ec9fe090e113e.jpg"],
+
+["series", ["The Queen's Gambit", "Das Damengambit"], "2020", [["2025 09 30", "2025 10 04", "S1"]], 7, ["ger"], ["drama"], [], ["Netflix"], ["Scott Frank", "Allan Scott"], ["Anya Taylor-Joy", "Bill Camp", "Thomas Brodie-Sangster", "Harry Melling"], "https://64.media.tumblr.com/101e46760fc90ea801125ca524a2905c/9609b33fd7bcae47-20/s250x400/d8510f5791e68f1fb6b39e1afbff194feb8d7a61.jpg"],
+
+["audiobook", ["Has Anyone Seen Jessica Jenkins?", "Plötzlich unsichtbar"], "2015", [["2025 10 03", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Liz Kessler"], ["Jodie Ahlborn", "Uticha Marmon"], "https://64.media.tumblr.com/926492d36f8556c21ad8a9dafe235862/647ab38495ee0c9d-90/s250x400/d0c8368b893b0bd76f4f7cdac89a41b786276f81.jpg"],
+
+["film", ["Seventh Son", "Der siebte Sohn"], "2014", ["2025 10 04"], 4, ["ger"], ["action", "adventure", "fantasy"], [], ["Netflix"], ["Sergei Bodrov"], ["Jeff Bridges", "Ben Barnes", "Julianne Moore", "Alicia Vikander", "Antje Traue", "Djimon Hounsou"], "https://64.media.tumblr.com/9e945d1fc35dec4de614c0975463c5b1/143c188e35eb7dc3-61/s250x400/2a0f08265f6105a011f2cd90cf0214008ffba5dd.jpg"]
 
 	/*
 ,
