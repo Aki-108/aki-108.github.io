@@ -916,7 +916,7 @@ var database = [
 	        
 ["film", ["Standing Up"], "2013", ["2016 06 17"], 9, ["ger"], ["drama"], [], [], ["D.J. Caruso"], ["Annalise Basso"], "https://66.media.tumblr.com/dd75d5b1552c6c2308ca925c4cd139b9/tumblr_o8xhkhJqgc1v2s5upo1_250.jpg"],
 	        
-["film", ["The Sound of Music", "Meine Lieder, meine Träume"], "1965", ["2016 06 15", ["2022 03 13", "2022 03 14"]], 8, ["ger", "eng"], ["biography", "drama", "music"], [], ["Disney+"], ["Robert Wise"], [], "https://66.media.tumblr.com/5262e2c4b18c22f1dc0f966195120fa4/tumblr_o8twjmVmli1v2s5upo1_250.jpg"],
+["film", ["The Sound of Music", "Meine Lieder, meine Träume"], "1965", ["2016 06 15", ["2022 03 13", "2022 03 14"], "2025 10 05"], 8, ["ger", "eng"], ["biography", "drama", "music"], [], ["Disney+"], ["Robert Wise"], [], "https://66.media.tumblr.com/5262e2c4b18c22f1dc0f966195120fa4/tumblr_o8twjmVmli1v2s5upo1_250.jpg"],
 	        
 ["film", ["Forrest Gump"], "1994", ["2016 06 13", "2023 02 19", "2025 08 23"], 6, ["ger", "eng"], ["drama", "romance", "war"], [], ["Netflix"], ["Robert Zemeckis"], ["Tom Hanks", "Sam Anderson", "John F. Kennedy", "John Lennon", "Richard Nixon", "Gary Sinise", "Robin Wright"], "https://66.media.tumblr.com/eeb123f80cdb0bf25e3d0cccea3bc930/tumblr_o8q1umC0Ey1v2s5upo1_250.jpg"],
 	        
