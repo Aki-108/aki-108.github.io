@@ -3390,7 +3390,7 @@ var database = [
 
 ["series", ["The Queen's Gambit", "Das Damengambit"], "2020", [["2025 09 30", "2025 10 04", "S1"]], 7, ["ger"], ["drama"], [], ["Netflix"], ["Scott Frank", "Allan Scott"], ["Anya Taylor-Joy", "Bill Camp", "Thomas Brodie-Sangster", "Harry Melling"], "https://64.media.tumblr.com/101e46760fc90ea801125ca524a2905c/9609b33fd7bcae47-20/s250x400/d8510f5791e68f1fb6b39e1afbff194feb8d7a61.jpg"],
 
-["audiobook", ["Has Anyone Seen Jessica Jenkins?", "Plötzlich unsichtbar"], "2015", [["2025 10 03", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Liz Kessler"], ["Jodie Ahlborn", "Uticha Marmon"], "https://64.media.tumblr.com/926492d36f8556c21ad8a9dafe235862/647ab38495ee0c9d-90/s250x400/d0c8368b893b0bd76f4f7cdac89a41b786276f81.jpg"],
+["audiobook", ["Has Anyone Seen Jessica Jenkins?", "Plötzlich unsichtbar"], "2015", [["2025 10 03", "2025 10 07"]], 7, ["ger"], ["fantasy"], [], ["bibliothek"], ["Liz Kessler"], ["Jodie Ahlborn", "Uticha Marmon"], "https://64.media.tumblr.com/926492d36f8556c21ad8a9dafe235862/647ab38495ee0c9d-90/s250x400/d0c8368b893b0bd76f4f7cdac89a41b786276f81.jpg"],
 
 ["film", ["Seventh Son", "Der siebte Sohn"], "2014", ["2025 10 04"], 4, ["ger"], ["action", "adventure", "fantasy"], [], ["Netflix"], ["Sergei Bodrov"], ["Jeff Bridges", "Ben Barnes", "Julianne Moore", "Alicia Vikander", "Antje Traue", "Djimon Hounsou"], "https://64.media.tumblr.com/9e945d1fc35dec4de614c0975463c5b1/143c188e35eb7dc3-61/s250x400/2a0f08265f6105a011f2cd90cf0214008ffba5dd.jpg"]
 
