@@ -1404,7 +1404,7 @@ var database = [
 	        
 ["film", ["Grease"], "1978", ["2016 08 12", "2021 09 06"], 8, ["ger"], ["musical", "romance"], [], ["Netflix"], ["Randal Kleiser"], ["John Travolta"], "https://66.media.tumblr.com/822a31454b0d5a53c1b0f758e0f0e2e1/tumblr_obuc7zYHyV1v2s5upo1_250.jpg"],
 	        
-["film", ["The Goonies", "Die Goonies"], "1985", ["2016 08 11", "2018 09 07"], 6, ["ger"], ["adventure", "comedy"], ["bini"], [], ["Richard Donner"], ["Sean Astin", "Ke Huy Quan", "Josh Brolin"], "https://66.media.tumblr.com/381d8e5ba4392d9e142d9de538795d79/tumblr_obpt57vtBP1v2s5upo1_250.jpg"],
+["film", ["The Goonies", "Die Goonies"], "1985", ["2016 08 11", "2018 09 07", "2025 10 11"], 6, ["ger"], ["adventure", "comedy"], ["bini", "jessie"], [], ["Richard Donner"], ["Sean Astin", "Ke Huy Quan", "Josh Brolin"], "https://66.media.tumblr.com/381d8e5ba4392d9e142d9de538795d79/tumblr_obpt57vtBP1v2s5upo1_250.jpg"],
 	        
 ["film", ["Ballet Shoes"], "2007", ["2016 08 01"], 7, ["ger"], ["drama", "family"], [], [], ["Sandra Goldbacher"], ["Emma Watson", "Richard Griffiths", "Lucy Boynton"], "https://66.media.tumblr.com/17ef638bc1cbb1b06f2225b8b443c707/tumblr_ob9xdm3HXS1v2s5upo1_250.jpg"],
 	        
@@ -2339,7 +2339,7 @@ var database = [
 
 ["film", ["Freche Mädchen 2"], "2010", ["2022 08 02"], 5, ["ger"], ["comedy", "drama"], [], ["Freche Mädchen", "Netflix"], ["Ute Wieland"], ["Emilia Schüle", "Selina Shirin Müller", "Henriette Nagel", "Anke Engelke"], "https://64.media.tumblr.com/4426bcb3a3e341d055d9d7a72cf1d10b/286d77f0c07a7261-6a/s250x400/1afcf23b6b986b7865e97edac5f168faa8a5a888.jpg"],
 
-["film", ["Encanto"], "2021", ["2022 08 02", "2022 10 22", "2024 01 02"], 9, ["ger", "eng"], ["animation", "comedy", "musical"], ["bini"], ["Disney+"], ["Jared Bush", "Byron Howard", "Charise Castro Smith"], [], "https://64.media.tumblr.com/5f9c13c7445e01de7b382aaae6a31921/4495bb7c932a9f0b-36/s250x400/d129a608a68b4bda3d6ea00d784810ff186f3b04.jpg"],
+["film", ["Encanto"], "2021", ["2022 08 02", "2022 10 22", "2024 01 02", "2025 10 14"], 9, ["ger", "eng"], ["animation", "comedy", "musical"], ["bini"], ["Disney+"], ["Jared Bush", "Byron Howard", "Charise Castro Smith"], [], "https://64.media.tumblr.com/5f9c13c7445e01de7b382aaae6a31921/4495bb7c932a9f0b-36/s250x400/d129a608a68b4bda3d6ea00d784810ff186f3b04.jpg"],
 
 ["film", ["Weathering With You", "Weathering With You - Das Mädchen, das die Sonne berührte", "Tenki no ko"], "2019", ["2022 08 02"], 7, ["ger"], ["anime", "drama"], ["bini", "nico"], ["Netflix"], ["Makoto Shinkai"], [], "https://64.media.tumblr.com/e6e1e85e1f5cc156bc0d9aac743f2b5d/ebd7bb6941348b39-54/s250x400/0d4ad9cfafaaade7bddc118598a88c9dec880be2.jpg"],
 
@@ -3050,7 +3050,7 @@ var database = [
 
 ["film", ["Inheritance", "Die Erbschaft", "Spadek"], "2024", ["2024 09 25"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Sylwester Jakimow"], [], "https://64.media.tumblr.com/d1fe83947761ef840c93f42cb95de844/07c9ec5e6052beb9-89/s250x400/34674daefeb88ccf470b06e77406d13baa0a8dea.jpg"],
 
-["film", ["American Psycho"], "2000", ["2024 09 26"], 7, ["eng"], ["crime", "drama"], [], ["Netflix"], ["Mary Harron"], ["Christian Bale", "Bill Sage", "Reese Witherspoon", "Matt Ross", "Jared Leto", "Willem Dafoe"], "https://64.media.tumblr.com/277e99b5733b415ba4dee77654f69ee5/b63713f1bf141b9e-63/s250x400/eaf2089a88e8fb850973b5548f4b84aa40732e88.jpg"],
+["film", ["American Psycho"], "2000", ["2024 09 26", "2025 10 14"], 7, ["eng"], ["crime", "drama"], [], ["Netflix"], ["Mary Harron"], ["Christian Bale", "Bill Sage", "Reese Witherspoon", "Matt Ross", "Jared Leto", "Willem Dafoe"], "https://64.media.tumblr.com/277e99b5733b415ba4dee77654f69ee5/b63713f1bf141b9e-63/s250x400/eaf2089a88e8fb850973b5548f4b84aa40732e88.jpg"],
 
 ["series", ["Lonelygirl15"], ["2006", "2016"], [["2024 09 28", "2024 10 27", "S1E1-S1E180"]], 0, ["eng"], ["drama"], [], ["YouTube"], ["Miles Beckett", "Greg Goodfried", "Mesh Flinders"], ["Yousef Abu-Taleb", "Jackson Davis", "Jessica Rose"], "https://64.media.tumblr.com/2e477de722bb5ab70464ce332e8f7173/be12f6f64b20a6b3-b1/s250x400/8dcb298fbeb9adb22930675f45eface1609a2aed.jpg"],
 
