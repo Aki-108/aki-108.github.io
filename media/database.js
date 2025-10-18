@@ -1984,7 +1984,7 @@ var database = [
 
 ["film", ["Sky High", "Sky High - Diese Highschool hebt ab!"], "2005", ["2021 11 12"], 6, ["ger"], ["adventure", "comedy"], [], ["Disney+"], ["Mike Mitchell"], ["Mary Elizabeth Winstead", "Kurt Russell"], "https://64.media.tumblr.com/9955366db588fb0a076d77e6c8e3d9ef/f2e58da49bb9ebb3-19/s250x400/137b59f0440dedede5ac30ec6580dcf5e3c956df.jpg"],
 
-["film", ["Kate"], "2021", ["2021 11 13"], 7, ["ger"], ["action", "adventure"], ["bini", "mai"], ["Netflix"], ["Cedric Nicolas-Troyan"], ["Mary Elizabeth Winstead", "Woody Harrelson", "Tadanobu Asano", "Gemma Brooke Allen"], "https://64.media.tumblr.com/80dc2c5c7a50647e6e6014b58256a3f9/0a6595ac5d88289c-9a/s250x400/5a9e88440e538ed00b2e939827412044f585fb7e.jpg"],
+["film", ["Kate"], "2021", ["2021 11 13", "2025 10 18"], 7, ["ger"], ["action", "adventure"], ["bini", "mai"], ["Netflix"], ["Cedric Nicolas-Troyan"], ["Mary Elizabeth Winstead", "Woody Harrelson", "Tadanobu Asano", "Gemma Brooke Allen"], "https://64.media.tumblr.com/80dc2c5c7a50647e6e6014b58256a3f9/0a6595ac5d88289c-9a/s250x400/5a9e88440e538ed00b2e939827412044f585fb7e.jpg"],
 
 ["film", ["Night Teeth"], "2021", ["2021 11 15"], 5, ["ger"], ["action", "crime"], [], ["Netflix"], ["Adam Randall"], ["Jorge Lendeborg Jr.", "Debby Ryan", "Lucy Fry", "Raúl Castillo", "Megan Fox", "Alexander Ludwig", "Alfie Allen"], "https://64.media.tumblr.com/5e666bcbd33f7e70c10c9d06ca55d5e9/7756c53967b823ad-3d/s250x400/621aff22a48aaec2ce1b4b5844ee03fcb3fe421e.jpg"],
 
