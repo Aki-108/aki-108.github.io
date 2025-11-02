@@ -484,7 +484,7 @@ var database = [
 	        
 ["film", ["The Edge of Seventeen", "The Edge of Seventeen: Das Jahr der Entscheidung"], "2016", ["2017 10 03", "2020 07 06"], 8, ["ger"], ["comedy", "drama"], ["bini", "syl", "je"], ["Netflix"], ["Kelly Fremon Craig"], ["Hailee Steinfeld", "Woody Harrelson", "Haley Lu Richardson", "Hayden Szeto"], "https://66.media.tumblr.com/5f5cdec2a2fa0ccc7d0edc0896df9451/tumblr_pxxedmrifD1v2s5upo1_250.jpg"],
 	        
-["film", ["Ant-Man"], "2015", ["2016 05 21", "2018 04 01"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl", "je"], ["Marvel"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Corey Stoll", "Anthony Mackie", "Judy Greer", "Michael Peña", "Chris Evans", "Joe Chrest", "Sebastian Stan"], "https://68.media.tumblr.com/b70bf1e59eaffd22e771eec8025d4215/tumblr_o7jla3gTae1v2s5upo1_250.jpg"],
+["film", ["Ant-Man"], "2015", ["2016 05 21", "2018 04 01"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl", "je"], ["Marvel"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Corey Stoll", "Anthony Mackie", "Judy Greer", "Michael Peña", "Chris Evans", "Joe Chrest", "Sebastian Stan", "Michael Douglas"], "https://68.media.tumblr.com/b70bf1e59eaffd22e771eec8025d4215/tumblr_o7jla3gTae1v2s5upo1_250.jpg"],
 	        
 ["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10", "2024 02 25"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], ["DVD"], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray", "Sarah Swire"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
 	        
@@ -792,7 +792,7 @@ var database = [
 	        
 ["film", ["Passengers"], "2016", ["2017 04 08", "2019 05 12"], 8, ["ger"], ["drama", "romance", "sci-fi"], ["bini"], [], ["Morten Tyldum"], ["Jennifer Lawrence", "Chris Pratt", "Laurence Fishburne", "Michael Sheen"], "https://68.media.tumblr.com/a31580f1e17ac6277625026905cb2a4d/tumblr_ooakd7xiDr1v2s5upo1_250.jpg"],
 	        
-["film", ["Doctor Strange"], "2016", ["2017 04 07"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel"], ["Scott Derrickson"], ["Benedict Cumberbatch", "Chiwetel Ejiofor", "Rachel McAdams", "Benedict Wong", "Mads Mikkelsen", "Tilda Swinton", "Stan Lee", "Chris Hemsworth"], "https://68.media.tumblr.com/32e45aa113b702804b73dafda1710cf5/tumblr_oo37120MiT1v2s5upo1_250.jpg"],
+["film", ["Doctor Strange"], "2016", ["2017 04 07"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Marvel"], ["Scott Derrickson"], ["Benedict Cumberbatch", "Chiwetel Ejiofor", "Rachel McAdams", "Benedict Wong", "Mads Mikkelsen", "Tilda Swinton", "Stan Lee", "Chris Hemsworth", "Scott Adkins"], "https://68.media.tumblr.com/32e45aa113b702804b73dafda1710cf5/tumblr_oo37120MiT1v2s5upo1_250.jpg"],
 	        
 ["film", ["Assassin's Creed"], "2016", ["2017 04 04"], 5, ["ger"], ["action", "adventure"], [], [], ["Justin Kurzel"], ["Michael Fassbender", "Marion Cotillard", "Charlotte Rampling", "Callum Turner", "Jeremy Irons", "Essie Davis"], "https://68.media.tumblr.com/88119bf4c44da511899c78867bd47590/tumblr_oo35ctGwfI1v2s5upo1_250.jpg"],
 	        
@@ -836,7 +836,7 @@ var database = [
 	        
 ["film", ["Perfect Blue", "Perfect Blue", "Pâfekuto burû"], "1997", ["2016 11 28"], 7, ["ger"], ["anime", "crime", "horror"], [], [], ["Satoshi Kon"], [], "https://66.media.tumblr.com/e445a75c4d4db34800f642e133a79d2e/tumblr_ohdfnkvBJw1v2s5upo1_250.jpg"],
 	        
-["film", ["Paprika", "Paprika", "Papurika"], "2006", ["2016 11 26", "2016 12 18", "2017 01 23", "2017 10 23"], 9, ["ger"], ["anime", "drama", "fantasy"], ["sai"], ["fav"], ["Satoshi Kon"], [], "https://68.media.tumblr.com/803a0a4b26b858c7421be4593aefab4a/tumblr_oh9mc8lS681v2s5upo1_250.jpg"],
+["film", ["Paprika", "Paprika", "Papurika"], "2006", ["2016 11 26", "2016 12 18", "2017 01 23", "2017 10 23", "2025 11 01"], 9, ["ger"], ["anime", "drama", "fantasy"], ["sai", "bini"], ["fav", "DVD"], ["Satoshi Kon"], [], "https://68.media.tumblr.com/803a0a4b26b858c7421be4593aefab4a/tumblr_oh9mc8lS681v2s5upo1_250.jpg"],
 	        
 ["film", ["Lost in Translation", "Lost in Translation: Zwischen den Welten"], "2003", ["2016 11 25"], 9, ["ger"], ["comedy", "drama"], [], [], ["Sofia Coppola"], ["Scarlett Johansson", "Bill Murray", "Giovanni Ribisi", "Anna Faris"], "https://66.media.tumblr.com/090b03507e69fdb40e0c2bbf8b5b5d0f/tumblr_oh80i6KYvM1v2s5upo1_250.jpg"],
 	        
@@ -936,7 +936,7 @@ var database = [
 	        
 ["short", ["Ruin"], "2011", ["2016 05 12", "2017 08 06"], 5, [], ["animation"], ["nico", "sai", "jessie"], [], ["Wes Ball"], [], "https://66.media.tumblr.com/7f0c303dbf6f13683118f60ea10d8e2d/tumblr_o72wkpwjpa1v2s5upo1_250.jpg"],
 	        
-["film", ["The Accidental Spy"], "2001", ["2016 05 09"], 7, ["ger"], ["action", "comedy"], [], [], ["Teddy Chan"], ["Jackie Chan"], "https://66.media.tumblr.com/95e4f5efb2cbc9faebbeef37f644c44c/tumblr_o6x5ufY4th1v2s5upo1_250.jpg"],
+["film", ["The Accidental Spy", "Spion wider Willen"], "2001", ["2016 05 09"], 7, ["ger"], ["action", "comedy"], [], [], ["Teddy Chan"], ["Jackie Chan", "Scott Adkins"], "https://66.media.tumblr.com/95e4f5efb2cbc9faebbeef37f644c44c/tumblr_o6x5ufY4th1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Chronicles of Narnia: Prince Caspian", "Die Chroniken von Narnia - Prinz Kaspian von Narnia"], "2008", ["2016 05 07", "2021 12 21"], 6, ["ger"], ["action", "adventure"], [], ["Narnia", "Disney+"], ["Andrew Adamson"], ["Ben Barnes", "Georgie Henley", "Skandar Keynes", "William Moseley", "Anna Popplewell", "Peter Dinklage", "Tilda Swinton", "Pierfrancesco Favino"], "https://66.media.tumblr.com/977c1e07e988c3c871f04ba658a40489/tumblr_o6tmgrkwqY1v2s5upo1_250.jpg"],
 	        
@@ -1044,7 +1044,7 @@ var database = [
 	        
 ["film", ["X-Men: The Last Stand", "X-Men: Der letzte Widerstand"], "2006", ["2016 02 28", "2024 06 14"], 8, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel", "Disney+"], ["Brett Ratner"], ["Hugh Jackman", "Halle Berry", "Ian McKellen", "Patrick Stewart", "James Marsden", "Elliot Page", "Stan Lee", "Ken Leung", "Anna Paquin", "Shauna Kain", "Vinnie Jones", "Famke Janssen", "Aaron Stanford"], "https://40.media.tumblr.com/ba8f0dcf563bf457159cb1b1e6b4e914/tumblr_o39hglQYA21v2s5upo1_250.jpg"],
 	        
-["film", ["X-Men Origins: Wolverine"], "2009", ["2016 03 03", "2024 06 01"], 7, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel", "Disney+"], ["Gavin Hood"], ["Hugh Jackman", "Liev Schreiber", "Will.i.am", "Lynn Collins", "Dominic Monaghan", "Ryan Reynolds", "Patrick Stewart", "Kevin Durand"], "https://40.media.tumblr.com/b5468276ef5005807899a1a2ad4445be/tumblr_o3hezvpYLa1v2s5upo1_250.jpg"],
+["film", ["X-Men Origins: Wolverine"], "2009", ["2016 03 03", "2024 06 01"], 7, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel", "Disney+"], ["Gavin Hood"], ["Hugh Jackman", "Liev Schreiber", "Will.i.am", "Lynn Collins", "Dominic Monaghan", "Ryan Reynolds", "Patrick Stewart", "Kevin Durand", "Scott Adkins"], "https://40.media.tumblr.com/b5468276ef5005807899a1a2ad4445be/tumblr_o3hezvpYLa1v2s5upo1_250.jpg"],
 	        
 ["film", ["X: First Class", "X-Men: Erste Entscheidung"], "2011", ["2016 03 04", "2017 07 22", "2024 05 31"], 8, ["ger"], ["action", "adventure", "supernatural"], ["nico", "sai"], ["X-Men", "Marvel", "Disney+"], ["Matthew Vaughn"], ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Nicholas Hoult", "Hugh Jackman",  "Tony Curran", "Annabelle Wallis", "Caleb Landry Jones"], "https://37.media.tumblr.com/015833008c28c8bfb1fd9866f74c1ab7/tumblr_o3jcz7QiOQ1v2s5upo1_250.jpg"],
 	        
@@ -1274,7 +1274,7 @@ var database = [
 	        
 ["film", ["Goodbye to All That", "Suddenly Single"], "2014", ["2016 06 19"], 3, ["ger"], ["comedy", "drama"], [], [], ["Angus MacLachlan"], ["Paul Schneider", "Melanie Lynskey"], "https://68.media.tumblr.com/2b52387fb84ce6f9e1e0ab7b2f54910b/tumblr_o90ykbAJXr1v2s5upo1_250.jpg"],
 	        
-["film", ["I'm Off Then", "Ich bin dann mal weg"], "2015", ["2016 06 29"], 7, ["ger"], ["comedy"], [], [], ["Julia von Heinz"], ["Katharina Thalbach", "Annette Frier", "Anna Stieblich"], "https://68.media.tumblr.com/9b18cf3ed6bb1b7708cb6660243b2bbc/tumblr_o9jsra3R5u1v2s5upo1_250.jpg"],
+["film", ["I'm Off Then", "Ich bin dann mal weg"], "2015", ["2016 06 29"], 7, ["ger"], ["comedy"], [], [], ["Julia von Heinz"], ["Katharina Thalbach", "Annette Frier", "Anna Stieblich", "Martina Gedeck"], "https://68.media.tumblr.com/9b18cf3ed6bb1b7708cb6660243b2bbc/tumblr_o9jsra3R5u1v2s5upo1_250.jpg"],
 	        
 ["film", ["Rush Hour"], "1998", ["2019 07 08"], 5, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Brett Ratner"], ["Ken Leung", "Jackie Chan", "Chris Tucker", "Tom Wilkinson"], "https://66.media.tumblr.com/9d176e93e4c29e946dc1c2a258c39944/f244781f2db8bae3-3f/s250x400/46441916585879a5b8546c60f85cabdebca7a220.jpg"],
 	        
@@ -2259,7 +2259,7 @@ var database = [
 
 ["series", ["First Kill"], ["2022"], [["2022 06 15", "2022 06 23", "S1"]], 5, ["ger"], ["drama", "horror"], [], ["Netflix", "LGBT"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"],
 
-["film", ["Ant-Man and the Wasp"], "2018", ["2022 06 16"], 7, ["ger"], ["action", "adventure"], ["je"], ["Marvel", "Disney+"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Michael Peña", "Judy Greer", "Hannah John-Kamen", "Michelle Pfeiffer", "Randall Park", "Laurence Fishburne", "Stan Lee", "Walton Goggins"], "https://64.media.tumblr.com/0b69fefa02c51b1c5e6d23b49db39851/dc3ce41b0c2b7478-df/s250x400/4a664e8059eddaeaeb20ec3bf08d2ef6848d99d8.jpg"],
+["film", ["Ant-Man and the Wasp"], "2018", ["2022 06 16"], 7, ["ger"], ["action", "adventure"], ["je"], ["Marvel", "Disney+"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Michael Peña", "Judy Greer", "Hannah John-Kamen", "Michelle Pfeiffer", "Randall Park", "Laurence Fishburne", "Stan Lee", "Walton Goggins", "Michael Douglas"], "https://64.media.tumblr.com/0b69fefa02c51b1c5e6d23b49db39851/dc3ce41b0c2b7478-df/s250x400/4a664e8059eddaeaeb20ec3bf08d2ef6848d99d8.jpg"],
 
 ["film", ["Barbie Fairytopia: Mermaidia", "Barbie - Fairytopia: Mermaidia"], "2006", ["2022 06 19"], 4, ["ger"], ["animation", "adventure"], ["bini"], ["Barbie"], ["William Lau", "Walter P. Martishius"], [], "https://64.media.tumblr.com/0e5ab9df5c76aac66639782b41778c9c/6db65b92cdd70fc3-6b/s250x400/fab5b9e72c80ef5fe6eb83b87f951cfe6c28e72d.jpg"],
 
@@ -2363,7 +2363,7 @@ var database = [
 
 ["film", ["The Village", "The Village - Das Dorf"], "2004", ["2022 08 11", "2022 10 23"], 8, ["ger"], ["drama", "mystery", "thriller", "horror"], ["bini", "je"], ["Disney+"], ["M. Night Shyamalan"], ["Bryce Dallas Howard", "Joaquin Phoenix", "Adrien Brody", "Sigourney Weaver", "Brendan Gleeson", "Cherry Jones", "Judy Greer", "Fran Kranz", "Jesse Eisenberg"], "https://64.media.tumblr.com/347c473c43beb5b269fc3db0f8141a85/b1a5697de1a28afe-9d/s250x400/7934131e68cac8d38c565322925e1a266075f434.jpg"],
 
-["film", ["Day Shift"], "2022", ["2022 08 12"], 5, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["J.J. Perry"], ["Jamie Foxx", "Dave Franco", "Oliver Masucci", "Snoop Dogg", "Peter Stormare"], "https://64.media.tumblr.com/0e1d7f73af59409d652a71d0ec66d3a3/dfa390d50b720080-69/s250x400/ff99c65b08eeadc8485a79e7d2cead492f54f600.jpg"],
+["film", ["Day Shift"], "2022", ["2022 08 12"], 5, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["J.J. Perry"], ["Jamie Foxx", "Dave Franco", "Oliver Masucci", "Snoop Dogg", "Peter Stormare", "Scott Adkins"], "https://64.media.tumblr.com/0e1d7f73af59409d652a71d0ec66d3a3/dfa390d50b720080-69/s250x400/ff99c65b08eeadc8485a79e7d2cead492f54f600.jpg"],
 
 ["book", ["Die Wilden Hühner auf Klassenfahrt"], "1996", [["2022 08 16", "2022 08 30"]], 6, ["ger"], [], [], ["bibliothek", "Die Wilden Hühner"], ["Cornelia Funke"], [], "https://64.media.tumblr.com/80c66240bce785ad40d8beea915c2083/28a794b62581dc6c-da/s250x400/e9050b9aad3148a756541bfae20bb51087831411.jpg"],
 
@@ -3246,7 +3246,7 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! - Der doppelte Monet"], "2017", [["2025 03 21", "2025 03 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/deec6cf6d253a6b239f5bcde43089fe1/c06359c256cd62c4-76/s250x400/9c9727ab69c84f001681cfa5c8e5c320ad88dc1e.jpg"],
 
-["film", ["American Assassin"], "2017", ["2025 03 23"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Michael Cuesta"], ["Dylan O'Brien", "Michael Keaton"], "https://64.media.tumblr.com/67092085043a55809e619e3d67132c84/4a91f018d13618f1-26/s250x400/ab6bd4ea3f95da3d6116d465f0e56157a4ebd70d.jpg"],
+["film", ["American Assassin"], "2017", ["2025 03 23"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Michael Cuesta"], ["Dylan O'Brien", "Michael Keaton", "Scott Adkins"], "https://64.media.tumblr.com/67092085043a55809e619e3d67132c84/4a91f018d13618f1-26/s250x400/ab6bd4ea3f95da3d6116d465f0e56157a4ebd70d.jpg"],
 
 ["film", ["The Karate Kid", "Karate Kid"], "2010", ["2025 03 23"], 7, ["ger"], ["action", "drama"], [], ["Netflix"], ["Harald Zwart"], ["Jaden Smith", "Jackie Chan"], "https://64.media.tumblr.com/75c3cfede9fff415eac7b2e5c6645614/bf530199c3320a86-90/s250x400/af4b8ec73d40d1fb28896a1e60239680ba40f5b7.jpg"],
 
@@ -3332,7 +3332,7 @@ var database = [
 
 ["film", ["The Old Guard 2"], "2025", ["2025 08 09"], 6, ["ger"], ["action", "adventure", "fantasy"], [], ["Netflix"], ["Victoria Mahoney"], ["Charlize Theron", "KiKi Layne", "Matthias Schoenaerts", "Marwan Kenzari", "Chiwetel Ejiofor", "Veronica Ngo", "Uma Thurman"], "https://64.media.tumblr.com/9650fdd2657853567e0e5aee092105cf/0906a16051215834-a8/s250x400/ff60d7301108aa07726844e7542e0d9622bf312a.jpg"],
 
-["film", ["Woodwalkers"], "2024", ["2025 08 10"], 5, ["ger"], ["family", "fantasy"], [], ["Netflix"], ["Damian john Harper"], ["Oliver Masucci", "Hannah Herzsprung", "Johannes Degen"], "https://64.media.tumblr.com/f978c80f20a4feaa00894003ea2e773a/32b9eb5cfd1df58f-68/s250x400/b6d7b2668c6d53b3f506858ffd7e6987049f867d.jpg"],
+["film", ["Woodwalkers"], "2024", ["2025 08 10"], 5, ["ger"], ["family", "fantasy"], [], ["Netflix"], ["Damian john Harper"], ["Oliver Masucci", "Hannah Herzsprung", "Johannes Degen", "Martina Gedeck"], "https://64.media.tumblr.com/f978c80f20a4feaa00894003ea2e773a/32b9eb5cfd1df58f-68/s250x400/b6d7b2668c6d53b3f506858ffd7e6987049f867d.jpg"],
 
 ["audiobook", ["Tee? Kaffee? Mord! - Miss Rittinghouse und die sprechenden Bücher"], "2020", [["2025 08 14", "2025 08 19"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/c12fba0e13f0076a0c7bf1b2ba8cd9fd/42d2583030591d65-56/s250x400/d6dd80a6f82abe9f8b04c9dee196395e418f5f1e.jpg"],
 
@@ -3392,7 +3392,13 @@ var database = [
 
 ["audiobook", ["Has Anyone Seen Jessica Jenkins?", "Plötzlich unsichtbar"], "2015", [["2025 10 03", "2025 10 07"]], 7, ["ger"], ["fantasy"], [], ["bibliothek"], ["Liz Kessler"], ["Jodie Ahlborn", "Uticha Marmon"], "https://64.media.tumblr.com/926492d36f8556c21ad8a9dafe235862/647ab38495ee0c9d-90/s250x400/d0c8368b893b0bd76f4f7cdac89a41b786276f81.jpg"],
 
-["film", ["Seventh Son", "Der siebte Sohn"], "2014", ["2025 10 04"], 4, ["ger"], ["action", "adventure", "fantasy"], [], ["Netflix"], ["Sergei Bodrov"], ["Jeff Bridges", "Ben Barnes", "Julianne Moore", "Alicia Vikander", "Antje Traue", "Djimon Hounsou"], "https://64.media.tumblr.com/9e945d1fc35dec4de614c0975463c5b1/143c188e35eb7dc3-61/s250x400/2a0f08265f6105a011f2cd90cf0214008ffba5dd.jpg"]
+["film", ["Seventh Son", "Der siebte Sohn"], "2014", ["2025 10 04"], 4, ["ger"], ["action", "adventure", "fantasy"], [], ["Netflix"], ["Sergei Bodrov"], ["Jeff Bridges", "Ben Barnes", "Julianne Moore", "Alicia Vikander", "Antje Traue", "Djimon Hounsou"], "https://64.media.tumblr.com/9e945d1fc35dec4de614c0975463c5b1/143c188e35eb7dc3-61/s250x400/2a0f08265f6105a011f2cd90cf0214008ffba5dd.jpg"],
+
+["film", ["Accident Man"], "2018", ["2025 10 17"], 7, ["ger"], ["action", "adventure", "comedy"], [], ["Netflix"], ["Jesse V. Johnson"], ["Scott Adkins", "Ray Stevenson"], "https://64.media.tumblr.com/4f49db366d1f4fe4163aa0bca27ce10d/eac41ae1c3b503f5-2c/s250x400/4d0ea4044a6b1fe5f65c1c15e698ac0c63d0844b.jpg"],
+
+["film", ["Don't Say a Word", "Sag' kein Wort"], "2001", ["2025 10 18"], 6, ["ger"], ["drama", "mystery", "thriller"], [], ["Netflix"], ["Gary Fleder"], ["Michael Douglas", "Sean Bean", "Brittany Murphy", "Famke Janssen", "Lance Reddick"], "https://64.media.tumblr.com/bf7067978d0b562347daaca8c8eae2c6/8aef6463daf30551-ca/s250x400/1518a0be7fb3e2ac92ce80bfb080e8553eed1c09.jpg"],
+
+["film", ["Das Leben der Anderen"], "2006", ["2025 10 19"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Florian Henckel von Donnersmarck"], ["Martina Gedeck", "Charly Hübner", "Martin Brambach"], "https://64.media.tumblr.com/a3c51173b5b79cf5470e563b6ba22d22/f1d3c171a1d56b92-bc/s250x400/70f632a4ea227a91c09b75cde42b7aaccd1bf434.jpg"]
 
 	/*
 ,
