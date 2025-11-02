@@ -508,7 +508,7 @@ var database = [
 	        
 ["audiobook", ["Lord of the Flies", "Herr der Fliegen"], "1954", [["2020 06 09", "2020 06 11"]], 4, ["eng"], [], [], [], ["William Golding"], [], "https://66.media.tumblr.com/29c9aac93e71d25a89ad3d626686c06b/4c0a0ed205b7aa97-0b/s250x400/7d746a247d63ef5f91f4c55bc201127710d39df1.jpg"],
 	        
-["audiobook", ["Treasure Island", "Die Schatzinsel"], "1883", ["2020 06 08"], 6, ["ger"], ["adventure"], [], [], ["Robert Louis Stevenson"], [], "https://66.media.tumblr.com/bb20bcc783835dc94cc8af42a84e2bc0/07170f29590fd68b-0a/s250x400/c491d31f7d0ad6d2ad0296219ceb6db17927c058.jpg"],
+["audiobook", ["Treasure Island", "Die Schatzinsel"], "1883", ["2020 06 08", ["2025 02 19", "2025 02 21"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Robert Louis Stevenson"], ["Bodo Primus"], "https://66.media.tumblr.com/bb20bcc783835dc94cc8af42a84e2bc0/07170f29590fd68b-0a/s250x400/c491d31f7d0ad6d2ad0296219ceb6db17927c058.jpg"],
 	        
 ["audiobook", ["Every Day", "Letztendlich sind wir dem Universum egal"], "2012", [["2020 05 06", "2020 05 07"]], 6, ["eng"], ["fantasy", "romance"], [], ["LGBT"], ["David Levithan"], [], "https://66.media.tumblr.com/6683e3ee9b2406579c4ba0061633a06e/3d1911ab8ffaefd0-b8/s250x400/85f597d35cbea8f7f46ff03e625deca3eca56b9e.jpg"],
 	        
@@ -3200,8 +3200,6 @@ var database = [
 
 ["series", ["That Time I Got Reincarnated as a Slime", "That Time I Got Reincarnated as a Slime", "Tensei shitara Slime Datta Ken"], ["2018", "2021"], [["2025 02 10", "2025 03 10", "S1"], ["2025 03 10", "2025 04 07", "S2"], ["2025 04 07", "2025 04 21", "S2.2"], ["2025 04 28", "2025 06 02", "S3"]], 6, ["ger"], ["anime", "action", "fantasy", "comedy"], ["bini", "nico"], [], ["Fuse"], [], "https://64.media.tumblr.com/440a3bddc4ed9fe30d2492965573bb8f/e84512be2691d373-38/s250x400/8229353665ced91ab3e10baed5b853243d22bc44.jpg"],
 
-["audiobook", ["Treasure Island", "Die Schatzinsel"], "1883", [["2025 02 19", "2025 02 21"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Robert Louis Stevenson"], ["Bodo Primus"], "https://64.media.tumblr.com/b0ecb87c4c09315e0a21db532cec691f/665f27a9df41486f-09/s250x400/5468a6ae758c9a13644532a7aa51cf853149eb4b.jpg"],
-
 ["audiobook", ["Tatort Erde: Auf der Flucht durch Tokio"], "2007", ["2025 02 21"], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Alexandra Fischer-Hunold"], ["Peter Veit", "Stefanie Müller"], "https://64.media.tumblr.com/5c5b38d5c448d46b7d2da1be00297603/af91fa1c095e0e0a-39/s250x400/ce489924a0314c55c5589323e2875c535e32ad2a.jpg"],
 
 ["series", ["Peaky Blinders", "Peaky Blinders - Gangs of Birmingham"], ["2013", "2022"], [["2025 02 23", "2025 02 25", "S1"], ["2025 02 26", "2025 03 09", "S2"], ["2025 03 16", "2025 07 02", "S3"]], 7, ["ger"], ["crime", "drama"], [], ["bibliothek", "ongoing"], ["Steven Knight"], ["Cillian Murphy", "Paul Anderson", "Helen McCrory", "Annabelle Wallis", "Tom Hardy", "Ralph Ineson"], "https://64.media.tumblr.com/3a3d7fe5f19600d59b03e3c31be485bb/50ddfa8ed31d52de-36/s250x400/00c28eec4a0c2c3c0f6b740cb3aa1c816c399e72.jpg"],
@@ -3404,7 +3402,15 @@ var database = [
 
 ["film", ["Copycat", "Copykill"], "1995", ["2025 11 01"], 7, ["ger"], ["drama", "mystery", "thriller"], [], ["Netflix"], ["Jon Amiel"], ["Sigourney Weaver"], "https://64.media.tumblr.com/56cc1eaa82922dc165cf352a0a1cf494/43e42d6181de72d8-70/s250x400/ba20e8a5da9fd4a6fe19902abd73a24adec708a5.jpg"],
 
-["series", ["Riv4lries"], "2025", [["2025 11 01", "", "S1"]], 0, ["ger"], ["drama", "comedy"], [], ["Netflix", "watching"], [], [], "https://64.media.tumblr.com/74246540cb9271fa177d7639fd86f47d/c573392483bac800-75/s250x400/adfffe1a3fb29b410c05bb105cc9fc15bf253206.jpg"]
+["series", ["Riv4lries"], "2025", [["2025 11 01", "", "S1"]], 0, ["ger"], ["drama", "comedy"], [], ["Netflix", "watching"], [], [], "https://64.media.tumblr.com/74246540cb9271fa177d7639fd86f47d/c573392483bac800-75/s250x400/adfffe1a3fb29b410c05bb105cc9fc15bf253206.jpg"],
+
+["short", ["Däumelinchen"], "2013", ["2025 11 02"], 5, ["ger"], ["comedy", "family"], [], ["ZDF Neo"], ["Theresa Braun"], [], "https://64.media.tumblr.com/e8c12fb56c871e7801ffcc963207311b/059f4303f915e4d1-db/s250x400/eb3e22d015d9ea257976136d1e465b0cf7d64f44.jpg"],
+
+["short", ["Affenmädchen"], "2020", ["2025 11 02"], 5, ["ger"], ["drama"], [], ["ZDF Neo"], ["Isabelle Caps-Kuhn"], [], "https://64.media.tumblr.com/a15b982ca045249acd1939fb5008bbfe/b7cd6ee2682299a4-1e/s250x400/657c1c05c5ef2b32adfbaff18e3f49dce99a8d54.jpg"],
+
+["short", ["Ella Amarilla"], "2019", ["2025 11 01"], 3, ["ger"], ["drama"], [], ["ZDF Neo"], ["Anne Weigel"], [], "https://64.media.tumblr.com/dfd78fca178a830b25aa9e1e53e82e41/c1fcc82273d98c63-42/s250x400/445ba3c7d1bdfc67089bb8e33ee504c2ff47c9f7.jpg"],
+
+["short", ["Herr Bergmanns Rotkäppchen"], "2024", ["2025 11 01"], 4, ["ger"], ["animation"], [], ["ZDF Neo"], ["Tim Bergmann"], [], "https://64.media.tumblr.com/cb598a7d846948d2e92d8b32232296c0/580ab23dec337dfb-a3/s250x400/f0dd2c06f78a9ecc9e2716e3352362193dc2e0fd.jpg"]
 
 	/*
 ,
