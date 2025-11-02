@@ -3066,7 +3066,7 @@ var database = [
 
 ["film", ["Emil und die Detektive"], "2001", ["2024 10 03"], 7, ["ger"], ["family", "adventure"], [], ["Netflix"], ["Franziska Buch"], ["Jürgen Vogel", "Florian Lukas", "Rufus Beck"], "https://64.media.tumblr.com/5bfaabb682398800648cacc3758cf58b/d64ba1fafccdb409-9e/s250x400/3b354a48f347e14498568bae335e2da6b302d487.jpg"],
 
-["series", ["Reverse Trivia"], "2024", [["2024 10 04", "2024 10 24", "S1"], ["2025 07 24", "", "S3"]], 7, ["eng"], ["comedy", "game-show"], [], ["YouTube", "watching"], ["The Technical Difficulties"], ["Tom Scott", "Chris Joel", "Gary Brannan", "Matt Gray"], "https://64.media.tumblr.com/fb7bb98aa1c602d483c19000e3bc30b3/eaf56454b7b74a97-06/s250x400/947ab95bf93c48a2fd61a16e9bf2d499047689db.jpg"],
+["series", ["Reverse Trivia"], "2024", [["2024 10 04", "2024 10 24", "S1"], ["2025 07 24", "2025 08 14", "S3"]], 7, ["eng"], ["comedy", "game-show"], [], ["YouTube"], ["The Technical Difficulties"], ["Tom Scott", "Chris Joel", "Gary Brannan", "Matt Gray"], "https://64.media.tumblr.com/fb7bb98aa1c602d483c19000e3bc30b3/eaf56454b7b74a97-06/s250x400/947ab95bf93c48a2fd61a16e9bf2d499047689db.jpg"],
 
 ["film", ["Bibi & Tina"], "2014", ["2024 10 04"], 5, ["ger"], ["family"], [], ["Disney+"], ["Detlev Buck"], ["Charly Hübner", "Max von der Groeben", "Lisa-Marie Koroll", "Ruby O. Fee", "Lina Larissa Strahl"], "https://64.media.tumblr.com/2a87d9df4c3a175bf5352eee1f32f0c3/7ecbf69164d14eb3-52/s250x400/051c9ae0270c4e58a52187b499974d89f54038f4.jpg"],
 
