@@ -3326,6 +3326,8 @@ var database = [
 
 ["film", ["American Beauty"], "1999", ["2025 07 27"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Sam Mendes"], ["Kevin Spacey", "Annette Bening", "Thora Birch", "Wes Bentley", "Allison Janney"], "https://64.media.tumblr.com/59c147a6854fbfaeffc6189abc2e9a70/1739e5620bf96195-2f/s250x400/60f9b15361c2080fd2fd975be66358c2133a3377.jpg"],
 
+["series", ["Death Note"], ["2006", "2007"], [["2025 07 28", "2025 10 27", "S1"]], 9, ["ger"], ["anime", "fantasy", "crime"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/bffd94070fa98e35e28ced791a5a8a34/aebfc924420d61ee-11/s250x400/a0650aae9f6d0ca73c65b9b4611f7396025c491d.jpg"],
+
 ["film", ["Dolittle"], "2020", ["2025 08 05"], 6, ["ger"], ["adventure", "comedy", "family"], [], ["Netflix"], ["Stephen Gaghan"], ["Robert Downey Jr.", "Michael Sheen", "Jim Broadbent", "Jessie Buckley", "Ralph Ineson"], "https://64.media.tumblr.com/b7cb5c6e4f9046f5759df7f0083b4945/b2c3cbe8d8937e82-45/s250x400/375208012fdb4cd34e1dbaa3a3bc8e55233ddb6e.jpg"],
 
 ["film", ["Megamind"], "2010", ["2025 08 07"], 7, ["ger"], ["animation", "action", "comedy"], [], ["Netflix"], ["Tom McGrath"], [], "https://64.media.tumblr.com/40ddb95c3e759e834470f1a49039ef17/164a69060499559d-f2/s250x400/0bbae404d364c299990f0df423a958e806446b20.jpg"],
@@ -3398,7 +3400,11 @@ var database = [
 
 ["film", ["Don't Say a Word", "Sag' kein Wort"], "2001", ["2025 10 18"], 6, ["ger"], ["drama", "mystery", "thriller"], [], ["Netflix"], ["Gary Fleder"], ["Michael Douglas", "Sean Bean", "Brittany Murphy", "Famke Janssen", "Lance Reddick"], "https://64.media.tumblr.com/bf7067978d0b562347daaca8c8eae2c6/8aef6463daf30551-ca/s250x400/1518a0be7fb3e2ac92ce80bfb080e8553eed1c09.jpg"],
 
-["film", ["Das Leben der Anderen"], "2006", ["2025 10 19"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Florian Henckel von Donnersmarck"], ["Martina Gedeck", "Charly Hübner", "Martin Brambach"], "https://64.media.tumblr.com/a3c51173b5b79cf5470e563b6ba22d22/f1d3c171a1d56b92-bc/s250x400/70f632a4ea227a91c09b75cde42b7aaccd1bf434.jpg"]
+["film", ["Das Leben der Anderen"], "2006", ["2025 10 19"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Florian Henckel von Donnersmarck"], ["Martina Gedeck", "Charly Hübner", "Martin Brambach"], "https://64.media.tumblr.com/a3c51173b5b79cf5470e563b6ba22d22/f1d3c171a1d56b92-bc/s250x400/70f632a4ea227a91c09b75cde42b7aaccd1bf434.jpg"],
+
+["film", ["Copycat", "Copykill"], "1995", ["2025 11 01"], 7, ["ger"], ["drama", "mystery", "thriller"], [], ["Netflix"], ["Jon Amiel"], ["Sigourney Weaver"], "https://64.media.tumblr.com/56cc1eaa82922dc165cf352a0a1cf494/43e42d6181de72d8-70/s250x400/ba20e8a5da9fd4a6fe19902abd73a24adec708a5.jpg"],
+
+["series", ["Riv4lries"], "2025", [["2025 11 01", "", "S1"]], 0, ["ger"], ["drama", "comedy"], [], ["Netflix", "watching"], [], [], "https://64.media.tumblr.com/74246540cb9271fa177d7639fd86f47d/c573392483bac800-75/s250x400/adfffe1a3fb29b410c05bb105cc9fc15bf253206.jpg"]
 
 	/*
 ,
