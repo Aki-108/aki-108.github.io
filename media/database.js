@@ -3400,6 +3400,8 @@ var database = [
 
 ["film", ["Das Leben der Anderen"], "2006", ["2025 10 19"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Florian Henckel von Donnersmarck"], ["Martina Gedeck", "Charly Hübner", "Martin Brambach"], "https://64.media.tumblr.com/a3c51173b5b79cf5470e563b6ba22d22/f1d3c171a1d56b92-bc/s250x400/70f632a4ea227a91c09b75cde42b7aaccd1bf434.jpg"],
 
+["audiobook", ["Tee? Kaffee? Mord! - Ein Spion kommt selten allein"], "2020", [["2025 10 28", "2025 11 04"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/aef9971b8476082f787a4e0db73f45f5/f82bfbd4ad79f668-97/s250x400/dcc7b95063cc0997ef2aead17a3bf305a5e29f91.jpg"],
+
 ["film", ["Copycat", "Copykill"], "1995", ["2025 11 01"], 7, ["ger"], ["drama", "mystery", "thriller"], [], ["Netflix"], ["Jon Amiel"], ["Sigourney Weaver"], "https://64.media.tumblr.com/56cc1eaa82922dc165cf352a0a1cf494/43e42d6181de72d8-70/s250x400/ba20e8a5da9fd4a6fe19902abd73a24adec708a5.jpg"],
 
 ["series", ["Riv4lries"], "2025", [["2025 11 01", "", "S1"]], 0, ["ger"], ["drama", "comedy"], [], ["Netflix", "watching"], [], [], "https://64.media.tumblr.com/74246540cb9271fa177d7639fd86f47d/c573392483bac800-75/s250x400/adfffe1a3fb29b410c05bb105cc9fc15bf253206.jpg"],
@@ -3408,9 +3410,9 @@ var database = [
 
 ["short", ["Affenmädchen"], "2020", ["2025 11 02"], 5, ["ger"], ["drama"], [], ["ZDF Neo"], ["Isabelle Caps-Kuhn"], [], "https://64.media.tumblr.com/a15b982ca045249acd1939fb5008bbfe/b7cd6ee2682299a4-1e/s250x400/657c1c05c5ef2b32adfbaff18e3f49dce99a8d54.jpg"],
 
-["short", ["Ella Amarilla"], "2019", ["2025 11 01"], 3, ["ger"], ["drama"], [], ["ZDF Neo"], ["Anne Weigel"], [], "https://64.media.tumblr.com/dfd78fca178a830b25aa9e1e53e82e41/c1fcc82273d98c63-42/s250x400/445ba3c7d1bdfc67089bb8e33ee504c2ff47c9f7.jpg"],
+["short", ["Ella Amarilla"], "2019", ["2025 11 02"], 3, ["ger"], ["drama"], [], ["ZDF Neo"], ["Anne Weigel"], [], "https://64.media.tumblr.com/dfd78fca178a830b25aa9e1e53e82e41/c1fcc82273d98c63-42/s250x400/445ba3c7d1bdfc67089bb8e33ee504c2ff47c9f7.jpg"],
 
-["short", ["Herr Bergmanns Rotkäppchen"], "2024", ["2025 11 01"], 4, ["ger"], ["animation"], [], ["ZDF Neo"], ["Tim Bergmann"], [], "https://64.media.tumblr.com/cb598a7d846948d2e92d8b32232296c0/580ab23dec337dfb-a3/s250x400/f0dd2c06f78a9ecc9e2716e3352362193dc2e0fd.jpg"]
+["short", ["Herr Bergmanns Rotkäppchen"], "2024", ["2025 11 02"], 4, ["ger"], ["animation"], [], ["ZDF Neo"], ["Tim Bergmann"], [], "https://64.media.tumblr.com/cb598a7d846948d2e92d8b32232296c0/580ab23dec337dfb-a3/s250x400/f0dd2c06f78a9ecc9e2716e3352362193dc2e0fd.jpg"]
 
 	/*
 ,
