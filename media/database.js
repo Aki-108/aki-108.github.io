@@ -1944,7 +1944,7 @@ var database = [
 
 ["film", ["Lilo & Stitch 2: Stitch Has a Glitch", "Lilo & Stitch 2 - Stitch völlig abgedreht"], "2005", ["2021 10 22"], 4, ["ger"], ["animation", "comedy"], [], ["Disney+", "Lilo & Stitch"], ["Michael LaBash", "Tony Leondis"], [], "https://64.media.tumblr.com/e3dcfa1acaee06257a763aada0af767e/349576d91dcf714d-7a/s250x400/e29335acf50d200e1cc02bb805ee1b25dc8d5d61.jpg"],
 
-["film", ["Phineas and Ferb the Movie: Across the 2nd Dimension", "Phineas und Ferb: Quer durch die 2. Dimension"], "2011", ["2021 10 23"], 5, ["ger"], ["animation", "action"], [], ["Disney+"], ["Robert Hughes", "Dan Povenmire", "Jay Lender"], [], "https://64.media.tumblr.com/10019d05ef376566b2131bd2f302c11b/267367c4391a3724-a9/s250x400/adee15f6b1020248459d6943fdd8715a2340ae25.jpg"],
+["film", ["Phineas and Ferb the Movie: Across the 2nd Dimension", "Phineas und Ferb: Quer durch die 2. Dimension"], "2011", ["2021 10 23", "2025 11 17"], 5, ["ger"], ["animation", "action"], ["bini", "nico"], ["Disney+"], ["Robert Hughes", "Dan Povenmire", "Jay Lender"], [], "https://64.media.tumblr.com/10019d05ef376566b2131bd2f302c11b/267367c4391a3724-a9/s250x400/adee15f6b1020248459d6943fdd8715a2340ae25.jpg"],
 
 ["film", ["Sometimes yes, Sometimes no", "Sie liebt mich, sie liebt mich nicht", "Kabhi Haan Kabhi Naa"], "1994", ["2021 10 23"], 2, ["hin"], ["comedy", "drama", "bollywood"], ["bini", "mai"], ["Netflix"], ["Kundan Shah"], ["Shah Rukh Khan", "Suchitra Krishnamoorthi", "Juhi Chawla"], "https://64.media.tumblr.com/3f2159b0ac129dd1c40ac938cc7838dc/1467a8e5373279df-cd/s250x400/2f530ce73dcb1a190edfc468f562aabc982378bc.jpg"],
 
