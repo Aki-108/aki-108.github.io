@@ -2958,7 +2958,7 @@ var database = [
 
 ["film", ["The Giver", "Hüter der Erinnerung - The Giver"], "2014", ["2024 04 23"], 8, ["ger"], ["drama", "romance"], [], ["bibliothek"], ["Phillip Noyce"], ["Jeff Bridges", "Meryl Streep", "Odeya Rush"], "https://64.media.tumblr.com/d66627d54ede43e7dd7892a4549d3cff/aaeab66a8bd4726e-6a/s250x400/44b6f335d35c8ad616f835046b3c98611a321587.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Die blauen Pudel des Sir Theodore"], "2018", [["2024 04 30", "2024 05 03"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1432c3b1407eea110f41c3e7b1c8dcaa/fc046d1d6e3ae34b-fd/s250x400/e70ca62c09d1bf3ef73be4a04faef382f275cd48.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 03 - Die blauen Pudel des Sir Theodore"], "2018", [["2024 04 30", "2024 05 03"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1432c3b1407eea110f41c3e7b1c8dcaa/fc046d1d6e3ae34b-fd/s250x400/e70ca62c09d1bf3ef73be4a04faef382f275cd48.jpg"],
 
 ["book", ["Herzkribbeln im Gepäck"], "2006", [["2024 05 01", "2024 05 27"]], 7, ["ger"], ["young adult"], [], ["Freche Mädchen", "bibliothek"], ["Sabine Both"], [], "https://64.media.tumblr.com/d28917f892e5292b41187851fe290d95/39afa25c259eb1d9-4e/s400x600/4323f4a4ae470588b1fddaa8cdbea0c63caae946.jpg"],
 
@@ -3206,9 +3206,9 @@ var database = [
 
 ["film", ["Back in Action"], "2025", ["2025 02 23"], 6, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Seth Gordon"], ["Jamie Foxx", "Cameron Diaz", "Kyle Chandler", "Glenn Close", "Andrew Scott"], "https://64.media.tumblr.com/96150d39db49eb486b722ca75e3047e6/a183aa428849deae-2b/s250x400/05ac3d2d418824700cc8f74b8ecc0697cb07895c.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Zum Ersten, zum Zweiten... und tot"], "2019", [["2025 02 24", "2025 02 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/4f9d06f2055089c7f3099d10a962473e/058e3e3a279ac24b-e8/s250x400/e9061850643f8083802fd467965a91cb8497388b.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 08 - Zum Ersten, zum Zweiten... und tot"], "2019", [["2025 02 24", "2025 02 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/4f9d06f2055089c7f3099d10a962473e/058e3e3a279ac24b-e8/s250x400/e9061850643f8083802fd467965a91cb8497388b.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Tod eines Schneemanns"], "2018", [["2025 02 26", "2025 02 27"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/34502fba7cfbd64d2ef7768ab09ce1a4/7d507f4cdf16489f-be/s250x400/befc81336438034f60705ebd7191ad40c33b39b7.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 06 - Tod eines Schneemanns"], "2018", [["2025 02 26", "2025 02 27"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/34502fba7cfbd64d2ef7768ab09ce1a4/7d507f4cdf16489f-be/s250x400/befc81336438034f60705ebd7191ad40c33b39b7.jpg"],
 
 ["audiobook", ["Tom Sawyer - 1. Teil"], "pub year", [["2025 02 27", "2025 02 28"]], 5, ["ger"], ["adventure"], [], ["bibliothek"], ["Mark Twain"], ["Carolin Conrad"], "image"],
 
@@ -3222,27 +3222,27 @@ var database = [
 
 ["film", ["Türkisch für Anfänger"], "2012", ["2025 03 02"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Josefine Preuß", "Elyas M'Barek", "Anna Stieblich", "Adnan Maral", "Nick Romeo Reimann", "Frederick Lau", "Sonja Gerhardt", "Katja Riemann"], "https://64.media.tumblr.com/bca54855071f34edde4c9b5b00485c81/b93573783236fa2f-50/s250x400/9ac1d60ea9e6f035e307eeeb345bc8e1bfeb27c4.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Die letzten Worte des Ian O'Shelley"], "2018", [["2025 02 28", "2025 03 05"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/257607aa511c09be40d9391129b7a9f4/f4e9a9f8150a31d0-46/s250x400/c4b44a351736be5befa0f554ad1199ba8644be6c.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 02 - Die letzten Worte des Ian O'Shelley"], "2018", [["2025 02 28", "2025 03 05"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/257607aa511c09be40d9391129b7a9f4/f4e9a9f8150a31d0-46/s250x400/c4b44a351736be5befa0f554ad1199ba8644be6c.jpg"],
 
 ["book", ["Tales of Terror from the Black Ship", "Schauergeschichten vom schwarzen Schiff"], "2008", [["2025 03 04", "2025 04 28"]], 9, ["ger"], ["horror"], [], ["bibliothek"], ["Chris Priestley"], [], "https://64.media.tumblr.com/fa859e64764c0f1343a31249cc7f5386/a02614ca2418716c-82/s250x400/6ad6ea6c3d40af160ffd1d53c48ddd9cc73772b8.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Der Besuch des lächelnden Belgiers"], "2018", [["2025 03 05", "2025 03 06"]], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/3498cea82e2d35f23d936f577cd6b954/ea3f41666789afe3-fd/s250x400/68d8341948aa4526626f70ea823a5d4858592011.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 04 - Der Besuch des lächelnden Belgiers"], "2018", [["2025 03 05", "2025 03 06"]], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/3498cea82e2d35f23d936f577cd6b954/ea3f41666789afe3-fd/s250x400/68d8341948aa4526626f70ea823a5d4858592011.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Der Club der Giftmischer"], "2018", [["2025 03 07", "2025 03 10"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/2a5e7179b71c17fcdaa770f96794bf01/7a566eb5e86f89f8-ee/s250x400/08207fe4772e0ecb4ad23c29f0f9187f68d6ea08.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 05 - Der Club der Giftmischer"], "2018", [["2025 03 07", "2025 03 10"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/2a5e7179b71c17fcdaa770f96794bf01/7a566eb5e86f89f8-ee/s250x400/08207fe4772e0ecb4ad23c29f0f9187f68d6ea08.jpg"],
 
 ["film", ["John Wick"], "2014", ["2025 03 08"], 8, ["ger"], ["action"], ["bini", "je"], ["Netflix"], ["Chad Stahelski"], ["Keanu Reeves", "Michael Nyqvist", "Willem Dafoe", "John Leguizamo", "Alfie Allen", "Lance Reddick"], "https://64.media.tumblr.com/378c2e34313423679911b1580cc13e66/0031a0a4b39324be-a8/s250x400/c03469fb2f14ed9f1bc4e7da8ceccb11f543f98b.jpg"],
 
 ["film", ["Chantal im Märchenland"], "2024", ["2025 03 09"], 5, ["ger"], ["comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Jella Haase", "Gizem Emre", "Max von der Groeben", "Nora Tschirner", "Frederick Lau", "Alexandra Maria Lara", "Elyas M'Barek", "Arndt Schwering-Sohnrey"], "https://64.media.tumblr.com/c98042d499880670a6ce1fa770ee6c7d/4023eac0c1f15a13-12/s250x400/ec4d2472f911a08d8346fd788ff9a3c75c505f45.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Arsen und Käsekuchen"], "2018", [["2025 03 10", "2025 03 14"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/0eec69a75660d54866f0abc4a16f6a5a/e6108546ad0a9125-ad/s250x400/932303cd7a0049fbc5bb474fc2be42ddd7e0875b.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 07 - Arsen und Käsekuchen"], "2018", [["2025 03 10", "2025 03 14"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/0eec69a75660d54866f0abc4a16f6a5a/e6108546ad0a9125-ad/s250x400/932303cd7a0049fbc5bb474fc2be42ddd7e0875b.jpg"],
 
 ["book", ["Wolf"], "2023", [["2025 03 13", "P3"]], 0, ["ger"], [], [], ["dropped", "bibliothek"], ["Saša Stanišić"], [], "https://64.media.tumblr.com/5d4fc0a72968aaa18cf1fbc1049945fb/3816ed6d3cd93232-83/s250x400/f00a094445a2c2806eb697072e035b9c5d3b6417.jpg"],
 
 ["film", ["The Electric State"], "2025", ["2025 03 15"], 7, ["ger"], ["action", "sci-fi"], [], ["Netflix"], ["Anthony Russo", "Joe Russo", "Simon Stålenhag"], ["Millie Bobby Brown", "Vince Pisani", "Stanley Tucci"], "https://64.media.tumblr.com/a6eb93beed890b1b2d6efcddab7a1b4e/a64539372c34f3d7-9c/s250x400/22ae6d843559b64f40ddf5722d7f9e81db1887ae.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Ein Mörder steht im Walde"], "2019", [["2025 03 17", "2025 03 20"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/4b3a4b105bf6fd0b407586af32079b97/dc6b0154a23b795f-2d/s250x400/6a1b986e621eeefef218a1674b6fb0ae173d1beb.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 09 - Ein Mörder steht im Walde"], "2019", [["2025 03 17", "2025 03 20"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/4b3a4b105bf6fd0b407586af32079b97/dc6b0154a23b795f-2d/s250x400/6a1b986e621eeefef218a1674b6fb0ae173d1beb.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Der doppelte Monet"], "2017", [["2025 03 21", "2025 03 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/deec6cf6d253a6b239f5bcde43089fe1/c06359c256cd62c4-76/s250x400/9c9727ab69c84f001681cfa5c8e5c320ad88dc1e.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 01 - Der doppelte Monet"], "2017", [["2025 03 21", "2025 03 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/deec6cf6d253a6b239f5bcde43089fe1/c06359c256cd62c4-76/s250x400/9c9727ab69c84f001681cfa5c8e5c320ad88dc1e.jpg"],
 
 ["film", ["American Assassin"], "2017", ["2025 03 23"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Michael Cuesta"], ["Dylan O'Brien", "Michael Keaton", "Scott Adkins"], "https://64.media.tumblr.com/67092085043a55809e619e3d67132c84/4a91f018d13618f1-26/s250x400/ab6bd4ea3f95da3d6116d465f0e56157a4ebd70d.jpg"],
 
@@ -3250,25 +3250,25 @@ var database = [
 
 ["audiobook", ["Life as We Knew It", "Die Welt, wie wir sie kannten"], "2006", [["2025 03 28", "2025 03 29"]], 8, ["ger"], ["sci-fi"], ["bini", "syl", "je"], ["bibliothek"], ["Susan Beth Pfeffer"], ["Stefanie Stappenbeck"], "https://64.media.tumblr.com/075d1df87826ef0b52985e8b7fd6e68f/ed8f12322d502c57-9e/s250x400/2ac72f30460697962cd0b11eca9415df4545c964.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Die kleinen Leute von Pittlewood"], "2020", [["2025 03 29", "2025 04 02"]], 6, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/525e7e782c0722c6ee95c90eb4356093/4fc4666c87207463-18/s250x400/8c7cb87cad10a6be57f4c40eccc8e733a05f7f52.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 10 - Die kleinen Leute von Pittlewood"], "2020", [["2025 03 29", "2025 04 02"]], 6, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/525e7e782c0722c6ee95c90eb4356093/4fc4666c87207463-18/s250x400/8c7cb87cad10a6be57f4c40eccc8e733a05f7f52.jpg"],
 
 ["book", ["Nineteen Eighty-Four", "1984"], "1949", [["2025 03 30", "2025 05 13", "P1-27"]], 0, ["ger"], ["sci-fi"], [], ["bibliothek", "ongoing"], ["George Orwell"], [], "https://64.media.tumblr.com/b4945c23148b15504254a9ecdddbbbff/9a0198e73d5ff68c-c0/s400x600/17f7c45d169be099d048f33d0a06fdf02de86fd6.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Der Besuch der reichen Dame"], "2020", [["2025 04 03", "2025 04 05"]], 6, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/e5996c0c75f8b41a9e0d3f2bdcfa891d/28d06f8569093601-0d/s250x400/a99aa98a50c3d14e96896a0247e21a0a23fc904f.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 12 - Der Besuch der reichen Dame"], "2020", [["2025 04 03", "2025 04 05"]], 6, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/e5996c0c75f8b41a9e0d3f2bdcfa891d/28d06f8569093601-0d/s250x400/a99aa98a50c3d14e96896a0247e21a0a23fc904f.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Ein Doppelgänger zuviel"], "2020", ["2025 04 06"], 6, ["ger"], ["crime"], ["je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/a3ba489cb188a75ef8fc812b21ea1dd7/2ac9b597dc42cc85-5c/s250x400/b0b4a863b740e6db0df543b20afc5d20358c01e4.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 14 - Ein Doppelgänger zuviel"], "2020", ["2025 04 06"], 6, ["ger"], ["crime"], ["je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/a3ba489cb188a75ef8fc812b21ea1dd7/2ac9b597dc42cc85-5c/s250x400/b0b4a863b740e6db0df543b20afc5d20358c01e4.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Das Geheimnis des toten Anwalts"], "2020", [["2025 04 08", "2025 04 09"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/7af7ed507dadc95281b7ced1e9b05e82/cd20d009d153fdf1-55/s250x400/47b6428fa3ff83e8654e1a2603bc3dd8cca45b11.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 15 - Das Geheimnis des toten Anwalts"], "2020", [["2025 04 08", "2025 04 09"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/7af7ed507dadc95281b7ced1e9b05e82/cd20d009d153fdf1-55/s250x400/47b6428fa3ff83e8654e1a2603bc3dd8cca45b11.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Sister Sallys letztes Halleluja"], "2021", [["2025 04 10", "2025 04 11"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/e503bc8ddb12747361747fd6e04747c2/8d347ece0769a6f1-0e/s250x400/93bb850e8e64846f0db2ad0f32169cee7c3e71a7.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 19 - Sister Sallys letztes Halleluja"], "2021", [["2025 04 10", "2025 04 11"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/e503bc8ddb12747361747fd6e04747c2/8d347ece0769a6f1-0e/s250x400/93bb850e8e64846f0db2ad0f32169cee7c3e71a7.jpg"],
 
 ["film", ["All for Ella", "Alle für Ella"], "2022", ["2025 04 12"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Teresa Fritzi Hoerl"], ["Lina Larissa Strahl"], "https://64.media.tumblr.com/ab091f0c35de4927a82951cfe932f746/d77cca270bbd4881-58/s250x400/17163ce49781a411492221be9efe67278d478c5a.jpg"],
 
 ["film", ["The Life List", "Morgen kommt ein neuer Himmel"], "2025", ["2025 04 12"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Adam Brooks"], ["Sofia Carson", "Kyle Allen"], "https://64.media.tumblr.com/a46dc7465ac06e9180258077569f2359/42155b628d45a383-19/s250x400/3a0a044be9566dea2a7b91edbc6143b78fe17b7a.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Mord mit spitzer Feder"], "2021", [["2025 04 14", "2025 04 15"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/fc339d1bdb9e4a315cbabf7b8dbfa69c/933d02b91cc8f9db-9d/s250x400/b5e9c1c3a5e8baab03c37637ac591b0945ff50c2.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 20 - Mord mit spitzer Feder"], "2021", [["2025 04 14", "2025 04 15"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/fc339d1bdb9e4a315cbabf7b8dbfa69c/933d02b91cc8f9db-9d/s250x400/b5e9c1c3a5e8baab03c37637ac591b0945ff50c2.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Der Puppenmörder von Hunter's Grove"], "2021", [["2025 04 16", "2025 04 18"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/2e2445947d8cc60d4570edd4cded339c/a66d9f9811d7dbc6-13/s250x400/176c2e81344afcfe9e59a0b3b64445c7d83ae447.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 17 - Der Puppenmörder von Hunter's Grove"], "2021", [["2025 04 16", "2025 04 18"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/2e2445947d8cc60d4570edd4cded339c/a66d9f9811d7dbc6-13/s250x400/176c2e81344afcfe9e59a0b3b64445c7d83ae447.jpg"],
 
 ["film", ["Delicious"], "2025", ["2025 04 18"], 4, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Nele Mueller-Stöfen"], ["Fahri Yardim", "Naila Schuberth", "Johann von Bülow"], "https://64.media.tumblr.com/16d9728595f76a25b2029d9672fed47f/1525488a88ca0993-fc/s250x400/1301c515ea4a631ad09d9f36309a081e3387a460.jpg"],
 
@@ -3296,13 +3296,13 @@ var database = [
 
 ["film", ["The Amazing Spider-Man 2"], "2014", ["2025 06 29"], 6, ["ger"], ["action", "adventure"], [], ["Marvel", "Netflix"], ["Marc Webb"], ["Andrew Garfield", "Emma Stone", "Jamie Foxx", "Dane DeHaan", "Felicity Jones", "Paul Giamatti", "Adrian Martinez", "Stan Lee"], "https://64.media.tumblr.com/4fa1df4c3c837492283b16cd8e80605f/cc5ed1dba2e2d45c-f3/s250x400/6a068a7817bd6ebcf9f7c7110df621d77b3819ce.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Ein Grab für drei"], "2022", [["2025 07 01", "2025 07 04"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1cecdc7a2ba040009ab0808f7e9aecc2/64a035a1e32982c5-c8/s250x400/5375c3c245db02774076b5751003eecae281c123.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 21 - Ein Grab für drei"], "2022", [["2025 07 01", "2025 07 04"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1cecdc7a2ba040009ab0808f7e9aecc2/64a035a1e32982c5-c8/s250x400/5375c3c245db02774076b5751003eecae281c123.jpg"],
 
 ["film", ["Sniper: Assassin's End"], "2020", ["2025 07 05"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Kaare Andrews"], [], "https://64.media.tumblr.com/400a86ccf1c0522cd27c546ceee7f09b/9f93d35c6f7181ff-60/s250x400/8c25afed987bbb1bb996e7e378dbd3565714e89b.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Louise in Gefahr"], "2022", ["2025 07 05"], 6, ["ger"], ["crime"], ["bini", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/ef11ad5d9ae04041be5accb10091acdc/bfaa2f19ffdbcee0-cd/s250x400/8db56a04ba1265b73dcebc7cba390df0305d5190.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 24 - Louise in Gefahr"], "2022", ["2025 07 05"], 6, ["ger"], ["crime"], ["bini", "je"], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/ef11ad5d9ae04041be5accb10091acdc/bfaa2f19ffdbcee0-cd/s250x400/8db56a04ba1265b73dcebc7cba390df0305d5190.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Die fünf Portraits des toten Doktors"], "2020", ["2025 07 07"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/fa86452f7c7a7ba2b3228e676422bb50/1b2c4858a591d7bf-1b/s250x400/b72a3733f27060049d737f0852ff235d8f0b565e.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 11 - Die fünf Portraits des toten Doktors"], "2020", ["2025 07 07"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/fa86452f7c7a7ba2b3228e676422bb50/1b2c4858a591d7bf-1b/s250x400/b72a3733f27060049d737f0852ff235d8f0b565e.jpg"],
 
 ["audiobook", ["Julie Jewels - Perlenschein und Wahrheitszauber"], "2018", [["2025 07 11", "2025 07 13"]], 4, ["ger"], ["young adult"], ["bini", "je"], ["bibliothek"], ["Marion Meister"], ["Nana Spier"], "https://64.media.tumblr.com/0740e815fc1f25c8e3ff6cf4178cb730/9b897db4b1195b3d-2f/s250x400/e071610651a63f6c757b0a493f50ef2a4e3fd578.jpg"],
 
@@ -3334,7 +3334,7 @@ var database = [
 
 ["film", ["Woodwalkers"], "2024", ["2025 08 10"], 5, ["ger"], ["family", "fantasy"], [], ["Netflix"], ["Damian john Harper"], ["Oliver Masucci", "Hannah Herzsprung", "Johannes Degen", "Martina Gedeck"], "https://64.media.tumblr.com/f978c80f20a4feaa00894003ea2e773a/32b9eb5cfd1df58f-68/s250x400/b6d7b2668c6d53b3f506858ffd7e6987049f867d.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Miss Rittinghouse und die sprechenden Bücher"], "2020", [["2025 08 14", "2025 08 19"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/c12fba0e13f0076a0c7bf1b2ba8cd9fd/42d2583030591d65-56/s250x400/d6dd80a6f82abe9f8b04c9dee196395e418f5f1e.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 13 - Miss Rittinghouse und die sprechenden Bücher"], "2020", [["2025 08 14", "2025 08 19"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/c12fba0e13f0076a0c7bf1b2ba8cd9fd/42d2583030591d65-56/s250x400/d6dd80a6f82abe9f8b04c9dee196395e418f5f1e.jpg"],
 
 ["film", ["Bad Influence", "Mala Influencia - Verbotene Liebe", "Mala influencia"], "2025", ["2025 08 16"], 5, ["ger"], ["romance", "thriller"], [], ["Netflix"], ["Chloé Wallace"], ["Enrique Arce"], "https://64.media.tumblr.com/70f340f9ff0f071dccf3a47d1fbfe55e/a7ade893087c975a-0d/s250x400/c62f1aa04f817e6b58346ffcda9f1bbef2fcb435.jpg"],
 
@@ -3382,11 +3382,11 @@ var database = [
 
 ["series", ["Murder Mindfully", "Achtsam Morden"], ["2024"], [["2025 09 20", "2025 09 25", "S1"]], 7, ["ger"], ["crime", "comedy"], [], ["Netflix"], [], ["Tom Schilling"], "https://64.media.tumblr.com/4275ffd20c80f38873d9cf3003f6faf0/668138992cc5f894-6a/s250x400/d299ac7977ca7b530998d4e8c60566735b749601.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Letzter Vorhang für Mister Goodfellow"], "2022", [["2025 09 24", "2025 09 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/37337c3ee5d00e0cc4d68b40b4a00967/b2705a525efc6adc-9f/s250x400/f432b6a8ab0b394791db726005c9e583eeb4ac06.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 22 - Letzter Vorhang für Mister Goodfellow"], "2022", [["2025 09 24", "2025 09 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/37337c3ee5d00e0cc4d68b40b4a00967/b2705a525efc6adc-9f/s250x400/f432b6a8ab0b394791db726005c9e583eeb4ac06.jpg"],
 
 ["series", ["Sirens"], "2025", [["2025 09 25", "2025 09 27", "S1"]], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Molly Smith Metzler"], ["Julianne Moore", "Bill Camp"], "https://64.media.tumblr.com/c98063fa3f33d779e372ae297e6765b3/943667892e3899cf-c8/s250x400/19cc3df5cd77b0817b20d40a891c2214f6f99bcf.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Drei Sterne und ein Mord"], "2022", [["2025 09 25", "2025 09 29"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/42fe9f46ac4dceeaec44087126c30d12/ca9c8b1c002ee620-d9/s250x400/dcbf0b1846725470d0a02fdc549ec9fe090e113e.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 23 - Drei Sterne und ein Mord"], "2022", [["2025 09 25", "2025 09 29"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/42fe9f46ac4dceeaec44087126c30d12/ca9c8b1c002ee620-d9/s250x400/dcbf0b1846725470d0a02fdc549ec9fe090e113e.jpg"],
 
 ["series", ["The Queen's Gambit", "Das Damengambit"], "2020", [["2025 09 30", "2025 10 04", "S1"]], 7, ["ger"], ["drama"], [], ["Netflix"], ["Scott Frank", "Allan Scott"], ["Anya Taylor-Joy", "Bill Camp", "Thomas Brodie-Sangster", "Harry Melling"], "https://64.media.tumblr.com/101e46760fc90ea801125ca524a2905c/9609b33fd7bcae47-20/s250x400/d8510f5791e68f1fb6b39e1afbff194feb8d7a61.jpg"],
 
@@ -3400,11 +3400,11 @@ var database = [
 
 ["film", ["Das Leben der Anderen"], "2006", ["2025 10 19"], 5, ["ger"], ["drama"], [], ["Netflix"], ["Florian Henckel von Donnersmarck"], ["Martina Gedeck", "Charly Hübner", "Martin Brambach"], "https://64.media.tumblr.com/a3c51173b5b79cf5470e563b6ba22d22/f1d3c171a1d56b92-bc/s250x400/70f632a4ea227a91c09b75cde42b7aaccd1bf434.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! - Ein Spion kommt selten allein"], "2020", [["2025 10 28", "2025 11 04"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/aef9971b8476082f787a4e0db73f45f5/f82bfbd4ad79f668-97/s250x400/dcc7b95063cc0997ef2aead17a3bf305a5e29f91.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 16 - Ein Spion kommt selten allein"], "2020", [["2025 10 28", "2025 11 04"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/aef9971b8476082f787a4e0db73f45f5/f82bfbd4ad79f668-97/s250x400/dcc7b95063cc0997ef2aead17a3bf305a5e29f91.jpg"],
 
 ["film", ["Copycat", "Copykill"], "1995", ["2025 11 01"], 7, ["ger"], ["drama", "mystery", "thriller"], [], ["Netflix"], ["Jon Amiel"], ["Sigourney Weaver"], "https://64.media.tumblr.com/56cc1eaa82922dc165cf352a0a1cf494/43e42d6181de72d8-70/s250x400/ba20e8a5da9fd4a6fe19902abd73a24adec708a5.jpg"],
 
-["series", ["Riv4lries"], "2025", [["2025 11 01", "", "S1"]], 0, ["ger"], ["drama", "comedy"], [], ["Netflix", "watching"], [], [], "https://64.media.tumblr.com/74246540cb9271fa177d7639fd86f47d/c573392483bac800-75/s250x400/adfffe1a3fb29b410c05bb105cc9fc15bf253206.jpg"],
+["series", ["Riv4lries"], "2025", [["2025 11 01", "2025 11 19", "S1"]], 6, ["ger"], ["drama", "comedy"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/74246540cb9271fa177d7639fd86f47d/c573392483bac800-75/s250x400/adfffe1a3fb29b410c05bb105cc9fc15bf253206.jpg"],
 
 ["short", ["Däumelinchen"], "2013", ["2025 11 02"], 5, ["ger"], ["comedy", "family"], [], ["ZDF Neo"], ["Theresa Braun"], [], "https://64.media.tumblr.com/e8c12fb56c871e7801ffcc963207311b/059f4303f915e4d1-db/s250x400/eb3e22d015d9ea257976136d1e465b0cf7d64f44.jpg"],
 
@@ -3412,7 +3412,13 @@ var database = [
 
 ["short", ["Ella Amarilla"], "2019", ["2025 11 02"], 3, ["ger"], ["drama"], [], ["ZDF Neo"], ["Anne Weigel"], [], "https://64.media.tumblr.com/dfd78fca178a830b25aa9e1e53e82e41/c1fcc82273d98c63-42/s250x400/445ba3c7d1bdfc67089bb8e33ee504c2ff47c9f7.jpg"],
 
-["short", ["Herr Bergmanns Rotkäppchen"], "2024", ["2025 11 02"], 4, ["ger"], ["animation"], [], ["ZDF Neo"], ["Tim Bergmann"], [], "https://64.media.tumblr.com/cb598a7d846948d2e92d8b32232296c0/580ab23dec337dfb-a3/s250x400/f0dd2c06f78a9ecc9e2716e3352362193dc2e0fd.jpg"]
+["short", ["Herr Bergmanns Rotkäppchen"], "2024", ["2025 11 02"], 4, ["ger"], ["animation"], [], ["ZDF Neo"], ["Tim Bergmann"], [], "https://64.media.tumblr.com/cb598a7d846948d2e92d8b32232296c0/580ab23dec337dfb-a3/s250x400/f0dd2c06f78a9ecc9e2716e3352362193dc2e0fd.jpg"],
+
+["series", ["The Lord of the Rings: The Rings of Power", "Der Herr der Ringe: Die Ringe der Macht"], "2022", [["2025 11 16", "", "S1"]], 0, ["ger"], ["action", "adventure", "drama"], [], ["ZDF Neo", "watching"], ["John D. Payne", "Patrick McKay"], [], "https://64.media.tumblr.com/ca2828dfc0ff69eca577534760443e87/0cf817645c2fed68-8d/s250x400/5ad1fcc999ed9743c865a568e2ee475e40c82c8a.jpg"],
+
+["audiobook", ["Tee? Kaffee? Mord! 18 - Die gestohlene Braut"], "2021", [["2025 11 18", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/606feafa4ff2a245e9cc39eda4b5359b/0554f2bf166ff8b2-02/s250x400/9c9ffb2bff8416f9cd8689dffcdf03cfbddd26f4.jpg"],
+
+["series", ["Vampirina: Teenage Vampire", "Vampirina: Teenage Vampir"], "2025", [["2025 11 19", "", "S1"]], 0, ["ger"], ["adventure", "comedy", "family"], [], ["Disney+", "watching"], ["Randi Barnes"], [], "https://64.media.tumblr.com/3716e3b9502dd8087f6f9252dcc765a8/f5f7aab57be28c31-72/s250x400/b4087588ddf0d9b3d85c2ea2cb9c4da98c3a067a.jpg"]
 
 	/*
 ,
