@@ -233,7 +233,7 @@ var database = [
 	        
 ["series", ["That '70s Show", "Die wilden 70er"], ["1998", "2006"], [""], 0, ["ger"], ["comedy", "romance"], [], ["dropped"], ["Mark Brazill", "Bonnie Turner", "Terry Turner"], ["Mila Kunis", "Laura Prepon", "Kurtwood Smith", "Samm Levine", "Nectar Rose"], "https://66.media.tumblr.com/84b3c69ca0af1edd1859dadf7cab4891/tumblr_oeu5lv9u611v2s5upo1_250.jpg"],
 	        
-["book", ["Night School"], "2012", [["2020 07 06", "2020 08 07"], ["2025 05 21", ""]], 7, ["eng"], ["young adult", "mystery", "romance"], [], ["Night School", "watching"], ["CJ Daugherty"], [], "https://64.media.tumblr.com/cebea2f804aa63da452512cfcc5aedda/9aa3cc75dcd3ca59-28/s250x400/8064e892565da9e205bda114424dfd59e4a5dde0.jpg"],
+["book", ["Night School"], "2012", [["2020 07 06", "2020 08 07"], ["2025 05 21", "2025 11 19"]], 7, ["eng"], ["young adult", "mystery", "romance"], [], ["Night School"], ["CJ Daugherty"], [], "https://64.media.tumblr.com/cebea2f804aa63da452512cfcc5aedda/9aa3cc75dcd3ca59-28/s250x400/8064e892565da9e205bda114424dfd59e4a5dde0.jpg"],
 	        
 ["audiobook", ["Endurance: Shackleton's Incredible Voyage"], "1959", [["2020 06 15", "2020 06 20"]], 7, ["eng"], [], [], [], ["Alfred Lansing"], [], "https://66.media.tumblr.com/b5df0d66dd388711a3457c388179528b/ed0904bc0d493248-ca/s250x400/badd02339b4c4a71f41c429cffa3a7b27d4c3ba3.jpg"],
 	        
