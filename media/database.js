@@ -3416,7 +3416,7 @@ var database = [
 
 ["series", ["The Lord of the Rings: The Rings of Power", "Der Herr der Ringe: Die Ringe der Macht"], "2022", [["2025 11 16", "", "S1"]], 0, ["ger"], ["action", "adventure", "drama"], [], ["ZDF Neo", "watching"], ["John D. Payne", "Patrick McKay"], [], "https://64.media.tumblr.com/ca2828dfc0ff69eca577534760443e87/0cf817645c2fed68-8d/s250x400/5ad1fcc999ed9743c865a568e2ee475e40c82c8a.jpg"],
 
-["audiobook", ["Tee? Kaffee? Mord! 18 - Die gestohlene Braut"], "2021", [["2025 11 18", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/606feafa4ff2a245e9cc39eda4b5359b/0554f2bf166ff8b2-02/s250x400/9c9ffb2bff8416f9cd8689dffcdf03cfbddd26f4.jpg"],
+["audiobook", ["Tee? Kaffee? Mord! 18 - Die gestohlene Braut"], "2021", [["2025 11 18", "2025 11 24"]], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/606feafa4ff2a245e9cc39eda4b5359b/0554f2bf166ff8b2-02/s250x400/9c9ffb2bff8416f9cd8689dffcdf03cfbddd26f4.jpg"],
 
 ["series", ["Vampirina: Teenage Vampire", "Vampirina: Teenage Vampir"], "2025", [["2025 11 19", "", "S1"]], 0, ["ger"], ["adventure", "comedy", "family"], [], ["Disney+", "watching"], ["Randi Barnes"], [], "https://64.media.tumblr.com/3716e3b9502dd8087f6f9252dcc765a8/f5f7aab57be28c31-72/s250x400/b4087588ddf0d9b3d85c2ea2cb9c4da98c3a067a.jpg"]
 
