@@ -616,7 +616,7 @@ var database = [
 	        
 ["film", ["Five Feet Apart", "Drei Schritte zu dir"], "2019", ["2019 07 07", "2025 09 20"], 8, ["ger"], ["drama", "romance"], ["syl"], ["Kino", "bibliothek"], ["Justin Baldoni"], ["Haley Lu Richardson", "Ariana Guerra", "Moises Arias", "Cole Sprouse"], "https://66.media.tumblr.com/9a0b9f9be370c06d273db093f9ce7e81/ca58850e02f4cfa4-99/s250x400/778f94e4fd66b54b3facc5c5b8bddb5883bacdde.jpg"],
 	        
-["film", ["Split"], "2016", ["2017 02 04", "2019 02 02", "2020 09 28"], 8, ["ger", "eng"], ["horror", "thriller"], ["syl"], ["Eastrail 177", "Kino", "DVD"], ["M. Night Shyamalan"], ["James McAvoy", "Anya Taylor-Joy", "Betty Buckley", "Bruce Willis"], "https://68.media.tumblr.com/c97742e705faeb4107c44333b6d08407/tumblr_okvc0ubTvD1v2s5upo1_250.jpg"],
+["film", ["Split"], "2016", ["2017 02 04", "2019 02 02", "2020 09 28", "2025 11 29"], 8, ["ger", "eng"], ["horror", "thriller"], ["syl"], ["Eastrail 177", "Kino", "DVD", "Disney+"], ["M. Night Shyamalan"], ["James McAvoy", "Anya Taylor-Joy", "Betty Buckley", "Bruce Willis"], "https://68.media.tumblr.com/c97742e705faeb4107c44333b6d08407/tumblr_okvc0ubTvD1v2s5upo1_250.jpg"],
 	        
 ["film", ["Pretty in Pink"], "1986", ["2017 02 04"], 6, ["ger"], ["comedy", "drama"], [], [], ["Howard Deutch"], ["Molly Ringwald", "Jon Cryer"], "https://68.media.tumblr.com/536a8daae8af15bd330e30d2f20b2a1c/tumblr_okvc3qB3zY1v2s5upo1_250.jpg"],
 	        
@@ -1192,7 +1192,7 @@ var database = [
 	        
 ["series", ["The Adventures of Jimmy Neutron, Boy Genius", "Jimmy Neutron - Jimmy, der Fernsehstar"], ["2002", "2006"], [["2020 09 29", "S1E13-S1E17"]], 6, ["ger"], ["comedy"], ["bini", "syl", "je"], ["DVD", "Jimmy Neutron"], ["John A. Davis", "Steve Oedekerk"], [], "https://64.media.tumblr.com/e4d40502d6419fe3f90f4a8967115e68/1ee86a0d4773b82f-d8/s250x400/de10efbb5ffbb8f8be9187b48ff65ca18e03bc59.jpg"],
 	        
-["film", ["Glass"], "2019", ["2019 02 23", "2020 09 30"], 8, ["ger"], ["drama"], ["syl", "bini", "je"], ["Eastrail 177", "Kino", "DVD"], ["M. Night Shyamalan"], ["James McAvoy", "Bruce Willis", "Anya Taylor-Joy", "Sarah Paulson", "Spencer Treat Clark", "Samuel L. Jackson"], "https://66.media.tumblr.com/f3ee0e01ef65a7cb2b71e714510c00da/105064cff59d6cef-73/s250x400/91ab466e6818b14eada3f585717c3f411619d591.jpg"],
+["film", ["Glass"], "2019", ["2019 02 23", "2020 09 30", "2025 11 30"], 8, ["ger"], ["drama"], ["syl", "bini", "je"], ["Eastrail 177", "Kino", "DVD", "Disney+"], ["M. Night Shyamalan"], ["James McAvoy", "Bruce Willis", "Anya Taylor-Joy", "Sarah Paulson", "Spencer Treat Clark", "Samuel L. Jackson"], "https://66.media.tumblr.com/f3ee0e01ef65a7cb2b71e714510c00da/105064cff59d6cef-73/s250x400/91ab466e6818b14eada3f585717c3f411619d591.jpg"],
 	        
 ["audiobook", ["Little Women"], "1868", [["2020 10 05", "2020 10 21"]], 9, ["eng"], [], [], ["March-Trilogie", "LibriVox"], ["Louisa May Alcott"], [], "https://64.media.tumblr.com/898f2fcc7489dafce9b4bad176a822d2/6431d3cb351f91f9-f0/s250x400/3bcaa864990fd0e56da4353db71c930d8d952496.jpg"],
 	        
