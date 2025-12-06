@@ -3424,7 +3424,7 @@ var database = [
 
 ["film", ["Hypnotic"], "2021", ["2025 11 22"], 5, ["ger"], ["horror", "mystery", "thriller"], [], ["Netflix"], ["Matt Angel", "Suzanne Coote"], ["Kate Siegel", "Jason O'Mara"], "https://64.media.tumblr.com/b3db9d73a95a3de5c34b1a09510e5cf1/e810f93959427ef5-25/s250x400/38e4288e41cad13d97de4af8a04474afc9e71438.jpg"],
 
-["audiobook", ["Achtsam morden"], "2019", [["2025 11 25", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Karsten Dusse"], ["Matthias Matschke"], "https://64.media.tumblr.com/e007a3a15684602f6fb3fcfc940566b0/9b4bdbf573537bd2-95/s250x400/d9527e59702c1b075b991639cf1106fac5b15750.jpg"]
+["audiobook", ["Achtsam morden"], "2019", [["2025 11 25", "2025 12 04"]], 8, ["ger"], ["crime"], [], ["bibliothek"], ["Karsten Dusse"], ["Matthias Matschke"], "https://64.media.tumblr.com/e007a3a15684602f6fb3fcfc940566b0/9b4bdbf573537bd2-95/s250x400/d9527e59702c1b075b991639cf1106fac5b15750.jpg"]
 
 	/*
 ,
