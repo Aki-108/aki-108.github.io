@@ -281,11 +281,11 @@ var database = [
 	        
 ["audiobook", ["Harry Potter and the Deathly Hallows", "Harry Potter und die Heiligtümer des Todes"], "2007", [["2020 05 27", "2020 06 08"], ["2024 09 11", "2024 10 19"]], 9, ["eng", "ger"], ["fantasy"], [], ["Harry Potter", "bibliothek"], ["J. K. Rowling"], ["Rufus Beck"], "https://66.media.tumblr.com/d4bd058969e0a06d883977fa863b3f4a/cd592c8a6bab77fb-94/s250x400/c3eeefce6afd279a5943cb589771aaf4cc2acdda.jpg"],
 	        
-["film", ["Harry Potter and the Philosopher's Stone", "Harry Potter und der Stein der Weisen"], "2001", ["2015 08 28", "2017 08 02", "2020 04 05", "2024 03 29"], 6, ["ger", "eng"], ["adventure", "family", "fantasy"], ["bini"], ["Harry Potter", "Netflix"], ["Chris Columbus"], ["Robbie Coltrane", "Daniel Radcliffe", "Fiona Shaw", "Harry Melling", "Bonnie Wright", "Rupert Grint", "Emma Watson", "Matthew Lewis", "Tom Felton", "David Bradley", "Richard Griffiths", "Alan Rickman", "John Hurt"], "https://40.media.tumblr.com/af5141e46638c0b31f53e4f799903f74/tumblr_o0owmoz4Al1v2s5upo1_250.jpg"],
+["film", ["Harry Potter and the Philosopher's Stone", "Harry Potter und der Stein der Weisen"], "2001", ["2015 08 28", "2017 08 02", "2020 04 05", "2024 03 29", "2025 12 07"], 6, ["ger", "eng"], ["adventure", "family", "fantasy"], ["bini"], ["Harry Potter", "Netflix"], ["Chris Columbus"], ["Robbie Coltrane", "Daniel Radcliffe", "Fiona Shaw", "Harry Melling", "Bonnie Wright", "Rupert Grint", "Emma Watson", "Matthew Lewis", "Tom Felton", "David Bradley", "Richard Griffiths", "Alan Rickman", "John Hurt"], "https://40.media.tumblr.com/af5141e46638c0b31f53e4f799903f74/tumblr_o0owmoz4Al1v2s5upo1_250.jpg"],
 	        
-["film", ["Harry Potter and the Chamber of Secrets", "Harry Potter und die Kammer des Schreckens"], "2002", ["2015 09 11", "2017 08 04", "2020 04 10", "2024 03 29"], 8, ["ger", "eng"], ["adventure", "family", "fantasy"], [], ["Harry Potter", "Netflix"], ["Chris Columbus"], ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Fiona Shaw", "Harry Melling", "Toby Jones", "Bonnie Wright", "Tom Felton", "Matthew Lewis", "David Bradley", "Richard Griffiths", "Alan Rickman", "Jason Isaacs"], "https://49.media.tumblr.com/5e740d07e42297613a9195a341579b76/tumblr_o0sv2mr1Jk1v2s5upo1_250.jpg"],
+["film", ["Harry Potter and the Chamber of Secrets", "Harry Potter und die Kammer des Schreckens"], "2002", ["2015 09 11", "2017 08 04", "2020 04 10", "2024 03 29", "2025 12 07"], 8, ["ger", "eng"], ["adventure", "family", "fantasy"], [], ["Harry Potter", "Netflix"], ["Chris Columbus"], ["Daniel Radcliffe", "Rupert Grint", "Emma Watson", "Fiona Shaw", "Harry Melling", "Toby Jones", "Bonnie Wright", "Tom Felton", "Matthew Lewis", "David Bradley", "Richard Griffiths", "Alan Rickman", "Jason Isaacs"], "https://49.media.tumblr.com/5e740d07e42297613a9195a341579b76/tumblr_o0sv2mr1Jk1v2s5upo1_250.jpg"],
 	        
-["film", ["Harry Potter and the Prisoner of Azkaban", "Harry Potter und der Gefangene von Askaban"], "2004", ["2015 10 10", "2020 04 11", "2024 03 29"], 8, ["ger", "eng"], ["adventure", "family", "fantasy"], [], ["Harry Potter", "Netflix"], ["Alfonso Cuarón"], ["Daniel Radcliffe", "Fiona Shaw", "Harry Melling", "Rupert Grint", "Emma Watson", "Bonnie Wright", "David Bradley", "Matthew Lewis", "Tom Felton", "Timothy Spall", "David Thewlis", "Richard Griffiths", "Alan Rickman"], "https://66.media.tumblr.com/ccc4f0131595f22c3f74355a0ca536d4/tumblr_ppxzmkT5Vj1v2s5upo1_250.jpg"],
+["film", ["Harry Potter and the Prisoner of Azkaban", "Harry Potter und der Gefangene von Askaban"], "2004", ["2015 10 10", "2020 04 11", "2024 03 29", "2025 12 07"], 8, ["ger", "eng"], ["adventure", "family", "fantasy"], [], ["Harry Potter", "Netflix"], ["Alfonso Cuarón"], ["Daniel Radcliffe", "Fiona Shaw", "Harry Melling", "Rupert Grint", "Emma Watson", "Bonnie Wright", "David Bradley", "Matthew Lewis", "Tom Felton", "Timothy Spall", "David Thewlis", "Richard Griffiths", "Alan Rickman"], "https://66.media.tumblr.com/ccc4f0131595f22c3f74355a0ca536d4/tumblr_ppxzmkT5Vj1v2s5upo1_250.jpg"],
 	        
 ["film", ["Harry Potter and the Goblet of Fire", "Harry Potter und der Feuerkelch"], "2005", ["2015 10 15", "2017 08 06", "2020 04 19", "2024 03 30"], 7, ["ger", "eng"], ["adventure", "family", "fantasy"], ["bini", "syl"], ["Harry Potter", "Netflix"], ["Mike Newell"], ["David Tennant", "Daniel Radcliffe", "Emma Watson", "Rupert Grint", "Bonnie Wright", "Robert Pattinson", "Tom Felton", "Matthew Lewis", "David Bradley", "Timothy Spall", "Alan Rickman", "Ralph Fiennes", "Jason Isaacs"], "https://66.media.tumblr.com/914b2ae8eeaf9f949494cc727b8cd1b3/tumblr_ppxzshcSUS1v2s5upo1_250.jpg"],
 	        
@@ -570,7 +570,7 @@ var database = [
 	        
 ["film", ["Shutter Island"], "2010", ["2017 07 16"], 7, ["ger"], ["mystery", "thriller"], [], [], ["Martin Scorsese"], ["Leonardo DiCaprio", "Mark Ruffalo", "Ben Kingsley", "Max von Sydow", "Emily Mortimer", "Jackie Earle Haley", "Michelle Williams", "Ted Levine"], "https://66.media.tumblr.com/0a0558c0082ac5412934349b70f824e4/tumblr_ppuvzheK9N1v2s5upo1_250.jpg"],
 	        
-["film", ["Who Am I", "Who Am I - Kein System ist sicher"], "2014", ["2017 07 03", "2019 01 29", "2020 06 13", "2021 05 29", "2025 10 04"], 9, ["ger"], ["crime", "drama"], ["syl", "mai", "bini"], ["Netflix", "DVD"], ["Baran bo Odar"], ["Tom Schilling", "Elyas M'Barek", "Wotan Wilke Möhring", "Antoine Monot Jr.", "Hannah Herzsprung", "Stephan Kampwirth", "Arndt Schwering-Sohnrey"], "https://66.media.tumblr.com/30c001dd83c4c23870490c20aa6f56a6/tumblr_ppuvvqZRf51v2s5upo1_250.jpg"],
+["film", ["Who Am I", "Who Am I - Kein System ist sicher"], "2014", ["2017 07 03", "2019 01 29", "2020 06 13", "2021 05 29", "2025 10 04"], 9, ["ger"], ["crime", "drama"], ["syl", "mai", "bini"], ["Netflix", "DVD"], ["Baran bo Odar"], ["Tom Schilling", "Elyas M'Barek", "Wotan Wilke Möhring", "Antoine Monot Jr.", "Hannah Herzsprung", "Stephan Kampwirth", "Arndt Schwering-Sohnrey", "Tijan Marei"], "https://66.media.tumblr.com/30c001dd83c4c23870490c20aa6f56a6/tumblr_ppuvvqZRf51v2s5upo1_250.jpg"],
 	        
 ["film", ["Die Vorstadtkrokodile"], "1977", ["2015 08 11", "2021 12 12"], 6, ["ger"], ["family", "adventure"], ["syl", "je"], [], ["Wolfgang Becker"], [], "https://49.media.tumblr.com/bec2fd9059b81e005cfcb4c3a793ade6/tumblr_nztao7NoRR1v2s5upo2_r1_250.png"],
 	        
@@ -1314,7 +1314,7 @@ var database = [
 	        
 ["film", ["Bright"], "2017", ["2018 03 03"], 5, ["ger"], ["action", "fantasy"], [], ["Netflix"], ["David Ayer"], ["Will Smith", "Noomi Rapace", "Lucy Fry", "Edgar Ramírez", "Ike Barinholtz", "Veronica Ngo"], "https://66.media.tumblr.com/51bd109621dbaaa9172d711da9552660/tumblr_pz9ezksISP1v2s5upo1_250.jpg"],
 	        
-["film", ["Abschussfahrt"], "2015", ["2018 01 27"], 5, ["ger"], ["comedy"], [], [], ["Tim Trachte"], ["Alexander Schubert", "Max von der Groeben"], "https://66.media.tumblr.com/f649717a44fd34c4e907eb876a2d5245/tumblr_pz45uwfDfB1v2s5upo1_250.jpg"],
+["film", ["Abschussfahrt"], "2015", ["2018 01 27"], 5, ["ger"], ["comedy"], [], [], ["Tim Trachte"], ["Alexander Schubert", "Max von der Groeben", "Theo Trebs"], "https://66.media.tumblr.com/f649717a44fd34c4e907eb876a2d5245/tumblr_pz45uwfDfB1v2s5upo1_250.jpg"],
 	        
 ["film", ["Lolita"], "1997", ["2017 12 31"], 6, ["eng"], ["drama", "romance"], [], [], ["Adrian Lyne"], [], "https://66.media.tumblr.com/fb1992636dde93620075c0016b49ea92/tumblr_pz09jaSIay1v2s5upo1_250.jpg"],
 	        
@@ -1734,7 +1734,7 @@ var database = [
 
 ["film", ["Kill Me Three Times", "Kill Me Three Times - Man stirbt nur dreimal"], "2014", ["2021 03 03"], 5, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Kriv Stenders"], ["Simon Pegg", "Alice Braga", "Teresa Palmer", "Luke Hemsworth"], "https://64.media.tumblr.com/d6bcff7fc144f0cb43df03d6f2cc283d/5c106541e0ecee75-1b/s250x400/279c23cde8852c9db7dd57f0a46ce241942e1817.jpg"],
 
-["film", ["How to Be Really Bad", "Meine teuflisch gute Freundin"], "2018", ["2021 03 08"], 6, ["ger"], ["comedy", "family"], [], ["Netflix"], ["Marco Petry"], ["Emma Bading", "Janina Fautz", "Ludwig Simon", "Samuel Finzi", "Joyce Ilg", "Johann von Bülow"], "https://64.media.tumblr.com/455bdae11d32a4f33ba4699998af33b6/5fce6e8a4c3d54cf-60/s250x400/3c590ac4817df7cf48abac9e3c1faa4eda9b990c.jpg"],
+["film", ["How to Be Really Bad", "Meine teuflisch gute Freundin"], "2018", ["2021 03 08"], 6, ["ger"], ["comedy", "family"], [], ["Netflix"], ["Marco Petry"], ["Emma Bading", "Janina Fautz", "Ludwig Simon", "Samuel Finzi", "Joyce Ilg", "Johann von Bülow", "Theo Trebs"], "https://64.media.tumblr.com/455bdae11d32a4f33ba4699998af33b6/5fce6e8a4c3d54cf-60/s250x400/3c590ac4817df7cf48abac9e3c1faa4eda9b990c.jpg"],
 
 ["film", ["Crazy About Her", "Verrückt nach ihr", "Loco por ella"], "2021", ["2021 03 11"], 8, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Dani de la Orden"], ["Álvaro Cervantes", "Susana Abaitua", "Luis Zahera", "Aixa Villagrán", "Txell Aixendri"], "https://64.media.tumblr.com/0483299bd70b84969627f2afba7b3922/53d6cc0903fad7ea-9b/s250x400/00c4b9b8506457b7835e5289deba4c9696a7a79c.jpg"],
 
@@ -3262,7 +3262,7 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! 19 - Sister Sallys letztes Halleluja"], "2021", [["2025 04 10", "2025 04 11"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/e503bc8ddb12747361747fd6e04747c2/8d347ece0769a6f1-0e/s250x400/93bb850e8e64846f0db2ad0f32169cee7c3e71a7.jpg"],
 
-["film", ["All for Ella", "Alle für Ella"], "2022", ["2025 04 12"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Teresa Fritzi Hoerl"], ["Lina Larissa Strahl"], "https://64.media.tumblr.com/ab091f0c35de4927a82951cfe932f746/d77cca270bbd4881-58/s250x400/17163ce49781a411492221be9efe67278d478c5a.jpg"],
+["film", ["All for Ella", "Alle für Ella"], "2022", ["2025 04 12"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Teresa Fritzi Hoerl"], ["Lina Larissa Strahl", "Tijan Marei"], "https://64.media.tumblr.com/ab091f0c35de4927a82951cfe932f746/d77cca270bbd4881-58/s250x400/17163ce49781a411492221be9efe67278d478c5a.jpg"],
 
 ["film", ["The Life List", "Morgen kommt ein neuer Himmel"], "2025", ["2025 04 12"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Adam Brooks"], ["Sofia Carson", "Kyle Allen"], "https://64.media.tumblr.com/a46dc7465ac06e9180258077569f2359/42155b628d45a383-19/s250x400/3a0a044be9566dea2a7b91edbc6143b78fe17b7a.jpg"],
 
@@ -3424,7 +3424,13 @@ var database = [
 
 ["film", ["Hypnotic"], "2021", ["2025 11 22"], 5, ["ger"], ["horror", "mystery", "thriller"], [], ["Netflix"], ["Matt Angel", "Suzanne Coote"], ["Kate Siegel", "Jason O'Mara"], "https://64.media.tumblr.com/b3db9d73a95a3de5c34b1a09510e5cf1/e810f93959427ef5-25/s250x400/38e4288e41cad13d97de4af8a04474afc9e71438.jpg"],
 
-["audiobook", ["Achtsam morden"], "2019", [["2025 11 25", "2025 12 04"]], 8, ["ger"], ["crime"], [], ["bibliothek"], ["Karsten Dusse"], ["Matthias Matschke"], "https://64.media.tumblr.com/e007a3a15684602f6fb3fcfc940566b0/9b4bdbf573537bd2-95/s250x400/d9527e59702c1b075b991639cf1106fac5b15750.jpg"]
+["audiobook", ["Achtsam morden"], "2018", [["2025 11 25", "2025 12 04"]], 8, ["ger"], ["crime"], [], ["bibliothek"], ["Karsten Dusse"], ["Matthias Matschke"], "https://64.media.tumblr.com/e007a3a15684602f6fb3fcfc940566b0/9b4bdbf573537bd2-95/s250x400/d9527e59702c1b075b991639cf1106fac5b15750.jpg"],
+
+["film", ["Life-Size", "Zum Leben erweckt"], "2000", ["2025 11 30"], 5, ["ger"], ["comedy", "family", "fantasy"], [], ["Disney+"], ["Mark Rosman"], ["Lindsay Lohan"], "https://64.media.tumblr.com/85b3dc2e5507f884d4ce03f9c045ca21/d746006114557193-50/s250x400/6d1f0893acb6853ee3145b01f1585ea07fba8583.jpg"],
+
+["film", ["Fall for Me"], "2025", ["2025 11 30"], 5, ["ger"], ["romance"], [], ["Netflix"], ["Sherry Hormann"], ["Theo Trebs", "Tijan Marei", "Antje Traue"], "https://64.media.tumblr.com/0943e81fe27c2316218b11f876e099eb/7c28615136fb143e-d7/s250x400/cc39212ee67a533ab83219cc9eb9fca58ef04283.jpg"],
+
+["audiobook", ["Das Kind in mir will achtsam morden"], "2020", [["2025 12 06", ""]], 0, ["ger"], ["crime"], [], ["bibliothek", "watching"], ["Karsten Dusse"], ["Karsten Dusse"], "https://64.media.tumblr.com/5da62d341ce1eda297d16a06efabf800/d223c12390577fa6-ea/s250x400/f6879bcab765535bb3fadbcd7b35488ec388796d.jpg"]
 
 	/*
 ,
