@@ -3418,7 +3418,7 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! 18 - Die gestohlene Braut"], "2021", [["2025 11 18", "2025 11 24"]], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/606feafa4ff2a245e9cc39eda4b5359b/0554f2bf166ff8b2-02/s250x400/9c9ffb2bff8416f9cd8689dffcdf03cfbddd26f4.jpg"],
 
-["series", ["Vampirina: Teenage Vampire", "Vampirina: Teenage Vampir"], "2025", [["2025 11 19", "", "S1"]], 0, ["ger"], ["adventure", "comedy", "family"], [], ["Disney+", "watching"], ["Randi Barnes"], [], "https://64.media.tumblr.com/3716e3b9502dd8087f6f9252dcc765a8/f5f7aab57be28c31-72/s250x400/b4087588ddf0d9b3d85c2ea2cb9c4da98c3a067a.jpg"],
+["series", ["Vampirina: Teenage Vampire", "Vampirina: Teenage Vampir"], "2025", [["2025 11 19", "2025 12 22", "S1"]], 7, ["ger"], ["adventure", "comedy", "family"], [], ["Disney+"], ["Randi Barnes"], [], "https://64.media.tumblr.com/3716e3b9502dd8087f6f9252dcc765a8/f5f7aab57be28c31-72/s250x400/b4087588ddf0d9b3d85c2ea2cb9c4da98c3a067a.jpg"],
 
 ["book", ["Nur 300 km"], "2023", [["2025 11 18", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Rüdiger Bertram"], [], "https://64.media.tumblr.com/b726aa5a9d3a0ade894b68908b871d34/c0aa4a4c906497f7-57/s250x400/51eb825cdb556d21152f5a89d35a85e2b45696f6.jpg"],
 
