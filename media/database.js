@@ -552,7 +552,7 @@ var database = [
 	        
 ["film", ["Inside Out", "Alles steht Kopf"], "2015", ["2015 11 01", "2016 06 03", "2017 04 13"], 9, ["ger"], ["animation", "adventure"], ["jani", "nico"], ["Kino"], ["Pete Docter", "Ronnie Del Carmen"], [], "https://66.media.tumblr.com/a840925f557f695bd1b80d95fa381fdd/tumblr_pwvsgw1Q9d1v2s5upo1_250.jpg"],
 	        
-["film", ["Three Wishes for Cinderella", "Drei Haselnüsse für Aschenbrödel", "Tri orísky pro Popelku"], "1973", ["2015 12 24", "2016 12 24", "2017 12 24", "2017 12 25", "2018 12 24", "2019 12 24", "2020 12 24", "2021 12 24", "2022 12 24", "2023 12 24", "2024 12 24"], 6, ["ger"], ["drama"], ["bini", "syl", "je"], ["Netflix"], ["Václav Vorlícek"], [], "https://49.media.tumblr.com/423c432c7706d2941a0e314cb118b444/tumblr_nzvr95nGyQ1v2s5upo1_250.jpg"],
+["film", ["Three Wishes for Cinderella", "Drei Haselnüsse für Aschenbrödel", "Tri orísky pro Popelku"], "1973", ["2015 12 24", "2016 12 24", "2017 12 24", "2017 12 25", "2018 12 24", "2019 12 24", "2020 12 24", "2021 12 24", "2022 12 24", "2023 12 24", "2024 12 24", "2025 12 24"], 6, ["ger"], ["drama"], ["bini", "syl", "je"], ["Netflix"], ["Václav Vorlícek"], [], "https://49.media.tumblr.com/423c432c7706d2941a0e314cb118b444/tumblr_nzvr95nGyQ1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Truman Show", "Die Truman Show"], "1998", ["2015 10 29", "2018 02 02", "2018 02 23", "2019 07 15", "2025 07 04"], 8, ["eng", "ger"], ["comedy", "drama"], ["bini"], ["Schule", "Netflix"], ["Peter Weir"], ["Jim Carrey", "Laura Linney", "Natascha McElhone", "Holland Taylor", "Ed Harris"], "https://66.media.tumblr.com/7d347849969f5725f06f51dd2e26a13f/tumblr_pwoovrE4HJ1v2s5upo1_250.jpg"],
 	        
@@ -816,7 +816,7 @@ var database = [
 	        
 ["film", ["Edge of Tomorrow", "Edge of Tomorrow - Live. Die. Repeat"], "2014", ["2017 01 10", "2021 12 17"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix"], ["Doug Liman"], ["Tom Cruise", "Emily Blunt", "Noah Taylor", "Hillary Clinton", "Lara Pulver"], "https://68.media.tumblr.com/9b746359461b357738288b49fe826bd4/tumblr_ojmer7q46Q1v2s5upo1_250.jpg"],
 	        
-["film", ["Shrek", "Shrek - Der tollkühne Held"], "2001", ["2017 01 02", "2018 09 17", "2024 05 07"], 7, ["ger"], ["animation", "adventure"], [], ["Netflix", "Shrek"], ["Andrew Adamson", "Vicky Jenson"], [], "https://68.media.tumblr.com/d606e296abec939adf2de3e1a897f8a9/tumblr_oj5w7jmq3Q1v2s5upo1_250.jpg"],
+["film", ["Shrek", "Shrek - Der tollkühne Held"], "2001", ["2017 01 02", "2018 09 17", "2024 05 07", ["2025 12 24", "2025 12 25"]], 7, ["ger"], ["animation", "adventure"], [], ["Netflix", "Shrek"], ["Andrew Adamson", "Vicky Jenson"], [], "https://68.media.tumblr.com/d606e296abec939adf2de3e1a897f8a9/tumblr_oj5w7jmq3Q1v2s5upo1_250.jpg"],
 	        
 ["film", ["Mr. Magorium's Wonder Emporium", "Mr. Magoriums Wunderladen"], "2007", ["2016 12 29"], 6, ["ger"], ["comedy", "family"], [], [], ["Zach Helm"], ["Dustin Hoffman", "Jason Bateman"], "https://68.media.tumblr.com/7cff0890eacf1cecdb6fc02b85df87f3/tumblr_oiyn496nsc1v2s5upo1_250.jpg"],
 	        
