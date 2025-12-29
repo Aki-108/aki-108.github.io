@@ -3124,7 +3124,7 @@ var database = [
 
 ["book", ["A Good Girl's Guide to Murder"], "2019", [["2024 11 04", "2025 01 16"]], 9, ["ger"], ["young adult", "mystery", "crime"], [], [], ["Holly Jackson"], [], "https://64.media.tumblr.com/ec0dde7a22c7b898b411b3dd74cfe596/329c65c9699d5ad3-13/s250x400/4cf05d2e2ee57c7768aa36b152ca1eb34b91a93a.jpg"],
 
-["film", ["Get Out"], "2017", ["2024 11 17"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Jordan Peele"], ["Catherine Keener", "Bradley Whitford", "Caleb Landry Jones"], "https://64.media.tumblr.com/163c577b8f984aa8b3ffccbd3e0ba9cc/f4c5d13b668e2728-a3/s250x400/c414af70bd155da53569cd4f6c660f01a3570d15.jpg"],
+["film", ["Get Out"], "2017", ["2024 11 17"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Jordan Peele"], ["Catherine Keener", "Bradley Whitford", "Caleb Landry Jones", "Allison Williams"], "https://64.media.tumblr.com/163c577b8f984aa8b3ffccbd3e0ba9cc/f4c5d13b668e2728-a3/s250x400/c414af70bd155da53569cd4f6c660f01a3570d15.jpg"],
 
 ["film", ["Ready or Not", "Ready or Not - Auf die Plätze, fertig, tot"], "2019", ["2024 11 23"], 6, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Matt Bettinelli-Olpin", "Tyler Gillett"], ["Samara Weaving", "Adam Brody", "Mark O'Brien", "Andie MacDowell"], "https://64.media.tumblr.com/faffa3a2bf63f464d4e1c515fba7c0db/0c94abed1d8fc552-f6/s250x400/d5d6fff65788d7e4aab158f342ef64a06c0fb3ea.jpg"],
 
@@ -3316,7 +3316,7 @@ var database = [
 
 ["film", ["Zombies 4: Dawn of the Vampires"], "2025", ["2025 07 20"], 7, ["ger"], ["musical", "adventure", "comedy", "family"], ["bini"], ["Disney+"], ["Paul Hoen"], ["Meg Donnelly", "Milo Manheim"], "https://64.media.tumblr.com/8e486537d6c3c4ad8102c0ccafa23a5d/d136ac2163792b4f-f3/s250x400/eccee96c05317c5d5ee59f52fbe2fa547178c0df.jpg"],
 
-["film", ["Brick"], "2025", ["2025 07 20"], 4, ["ger"], ["mystery", "drama"], [], ["Netflix"], ["Philip Koch"], ["Matthias Schweighöfer", "Ruby O. Fee", "Frederick Lau", "Sira-Anna Faal"], "https://64.media.tumblr.com/0f28faaa12bce9c61a073d2808410e16/0457a8817b784c91-97/s250x400/7a305e85ecb7150f1cd28091b4e60c09413a1d61.jpg"],
+["film", ["Brick"], "2025", ["2025 07 20"], 4, ["ger"], ["mystery", "drama"], [], ["Netflix"], ["Philip Koch"], ["Matthias Schweighöfer", "Ruby O. Fee", "Frederick Lau", "Sira-Anna Faal", "Murathan Muslu"], "https://64.media.tumblr.com/0f28faaa12bce9c61a073d2808410e16/0457a8817b784c91-97/s250x400/7a305e85ecb7150f1cd28091b4e60c09413a1d61.jpg"],
 
 ["audiobook", ["Love Letters to the Dead"], "2020", [["2025 07 21", "2025 07 23"]], 9, ["ger"], ["drama", "young adult"], [], ["bibliothek"], ["Ava Dellaira"], ["Annina Braunmiller"], "https://64.media.tumblr.com/af991efd065a3602eafeb11b7cc7eb56/4f8f39d31bf53b1f-f7/s250x400/2c0ace8abdd1111956b72b6e2ecbf8dac67d389a.jpg"],
 
@@ -3380,7 +3380,7 @@ var database = [
 
 ["audiobook", ["Die Erben der Animox: Die Beute des Fuchses"], "2021", [["2025 09 15", "2025 09 17"]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "dropped"], ["Aimée Carter"], ["Peter Kaempfe"], "https://64.media.tumblr.com/9c6513f7bd89c50578df4fa6a76f78d0/394cb772950cde31-8b/s250x400/45bdec78f1c360e6ccff2c2c7787a8230d2d7355.jpg"],
 
-["series", ["Murder Mindfully", "Achtsam Morden"], ["2024"], [["2025 09 20", "2025 09 25", "S1"]], 7, ["ger"], ["crime", "comedy"], [], ["Netflix"], [], ["Tom Schilling"], "https://64.media.tumblr.com/4275ffd20c80f38873d9cf3003f6faf0/668138992cc5f894-6a/s250x400/d299ac7977ca7b530998d4e8c60566735b749601.jpg"],
+["series", ["Murder Mindfully", "Achtsam Morden"], ["2024"], [["2025 09 20", "2025 09 25", "S1"]], 7, ["ger"], ["crime", "comedy"], [], ["Netflix"], [], ["Tom Schilling", "Murathan Muslu"], "https://64.media.tumblr.com/4275ffd20c80f38873d9cf3003f6faf0/668138992cc5f894-6a/s250x400/d299ac7977ca7b530998d4e8c60566735b749601.jpg"],
 
 ["audiobook", ["Tee? Kaffee? Mord! 22 - Letzter Vorhang für Mister Goodfellow"], "2022", [["2025 09 24", "2025 09 25"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/37337c3ee5d00e0cc4d68b40b4a00967/b2705a525efc6adc-9f/s250x400/f432b6a8ab0b394791db726005c9e583eeb4ac06.jpg"],
 
@@ -3438,7 +3438,15 @@ var database = [
 
 ["film", ["The Internship", "Prakti.com"], "2013", ["2025 12 25"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Shawn Levy"], ["Vince Vaughn", "Owen Wilson", "Rose Byrne", "Aasif Mandvi", "Dylan O'Brien"], "https://64.media.tumblr.com/2e75794cd60e73dc90e58fd0891500da/9b863c5fcaaf41fd-7e/s250x400/3d851cae7d1285a9dc95b4ab27cd382e6b90e94e.jpg"],
 
-["film", ["Wonka"], "2023", ["2025 12 25"], 7, ["ger"], ["adventure", "comedy", "family"], [], ["Netflix"], ["Paul King"], ["Timothée Chalamet", "Keegan-Michael Key", "Sally Hawkins", "Rowan Atkinson", "Hugh Grant"], "https://64.media.tumblr.com/60082b02fc7e5d38567680ae3583fab0/37ce28935affa1e2-75/s250x400/2ddf39bd478e3342aa3e98758f3aea09d0f1d107.jpg"]
+["film", ["Wonka"], "2023", ["2025 12 25"], 7, ["ger"], ["adventure", "comedy", "family"], [], ["Netflix"], ["Paul King"], ["Timothée Chalamet", "Keegan-Michael Key", "Sally Hawkins", "Rowan Atkinson", "Hugh Grant"], "https://64.media.tumblr.com/60082b02fc7e5d38567680ae3583fab0/37ce28935affa1e2-75/s250x400/2ddf39bd478e3342aa3e98758f3aea09d0f1d107.jpg"],
+
+["film", ["The Archies"], "2023", ["2025 12 26"], 7, ["eng"], ["comedy", "drama", "musical"], [], ["Netflix"], ["Zoya Akhtar"], [], "https://64.media.tumblr.com/c31a97ada1c56326482361f83e006be1/b1d936cdc9d02e78-64/s250x400/e3a4cd99db16f69ca77599ad5c812da549677328.jpg"],
+
+["film", ["Bionic", "Bionische Schwestern", "Biônicos"], "2024", ["2025 12 28"], 5, ["ger"], ["action", "adventure", "sci-fi"], [], ["Netflix"], ["Afonso Poyart"], [], "https://64.media.tumblr.com/8521cda06c1868066104b746cd114e47/02d06ce73d5e44e8-ae/s250x400/5b03405874f9d1f3dea47213fb5269fd51df7877.jpg"],
+
+["film", ["7500", "Code 7500"], "2019", ["2025 12 28"], 8, ["ger"], ["drama", "thriller"], [], ["ARD"], ["Patrick Vollrath"], ["Joseph Gordon-Levitt", "Murathan Muslu"], "https://64.media.tumblr.com/ce8074cde467840ac721e24348e1d79b/3edecf8f582a6902-44/s250x400/0264dc0467bf723d8e28a44b6cc5e296a212f3b9.jpg"],
+
+["film", ["M3GAN", "M3gan"], "2022", [["2025 12 29", "uncensored"]], 6, ["ger"], ["horror", "sci-fi", "thriller"], [], ["bibliothek"], ["Gerard Johnstone"], ["Allison Williams", "Brian Jordan Alvarez"], "https://64.media.tumblr.com/0174382fae2b75cd0aa288cfff231253/6994b7d5535d0153-6a/s250x400/437dcecabf5050e4ea7fb109567d981db75bfc00.jpg"]
 
 	/*
 ,
