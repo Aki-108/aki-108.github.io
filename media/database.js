@@ -486,7 +486,7 @@ var database = [
 	        
 ["film", ["Ant-Man"], "2015", ["2016 05 21", "2018 04 01"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl", "je"], ["Marvel"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Corey Stoll", "Anthony Mackie", "Judy Greer", "Michael Peña", "Chris Evans", "Joe Chrest", "Sebastian Stan", "Michael Douglas"], "https://68.media.tumblr.com/b70bf1e59eaffd22e771eec8025d4215/tumblr_o7jla3gTae1v2s5upo1_250.jpg"],
 	        
-["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10", "2024 02 25"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], ["DVD"], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray", "Sarah Swire"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
+["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10", "2024 02 25"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], ["DVD"], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray", "Sarah Swire", "Pierre Boulanger"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Golden Compass", "Der goldene Kompass"], "2007", ["2015 11 23", "2020 01 06"], 6, ["ger"], ["adventure", "family", "fantasy"], ["bini"], ["His Dark Materials"], ["Chris Weitz"], ["Nicole Kidman", "Daniel Craig", "Dakota Blue Richards", "Ian McKellen", "Eva Green", "Christopher Lee"], "https://66.media.tumblr.com/58e999a51e7baea5ccd8cb4d6b0a0054/tumblr_ppuwcejZDQ1v2s5upo1_250.jpg"],
 	        
@@ -3098,7 +3098,7 @@ var database = [
 
 ["film", ["Kleks Academy", "Die Akademie des Meisters Klex", "Akademia pana Kleksa"], "2023", ["2024 10 13"], 7, ["ger"], ["fantasy"], [], ["Netflix"], ["Maciej Kawulski"], [], "https://64.media.tumblr.com/c38fa003ec300e3081a56cbc8cd00adf/46a0dc7171f6c43b-00/s250x400/d9d24fd134f11885baa94ee4ae6a8b6c8290d71d.jpg"],
 
-["film", ["Ferris Bueller's Day Off", "Ferris macht blau"], "1986", ["2024 10 26"], 8, ["eng"], ["comedy"], [], ["Netflix"], ["John Hughes"], ["Lyman Ward", "Charlie Sheen"], "https://64.media.tumblr.com/f6419cca753df3c7c89582220d2d2130/97f2e1c82b9db298-b2/s250x400/aa340ed95fcaa3450c0a92a1936b43508ed71bd3.jpg"],
+["film", ["Ferris Bueller's Day Off", "Ferris macht blau"], "1986", ["2024 10 26"], 8, ["eng"], ["comedy"], [], ["Netflix"], ["John Hughes"], ["Lyman Ward", "Charlie Sheen", "Mia Sara"], "https://64.media.tumblr.com/f6419cca753df3c7c89582220d2d2130/97f2e1c82b9db298-b2/s250x400/aa340ed95fcaa3450c0a92a1936b43508ed71bd3.jpg"],
 
 ["film", ["Django Unchained"], "2012", ["2024 10 26"], 8, ["eng"], ["comedy", "drama"], [], ["Netflix"], ["Quentin Tarantino"], ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio", "Samuel L. Jackson", "Kerry Washington", "Walton Goggins", "Zoë Bell"], "https://64.media.tumblr.com/b7509d13ac0d99d0702f60b70d14ffcf/6ea472469b8ad7c0-72/s250x400/438ee8a8cac977ac193f6db0095795a32c0b3967.jpg"],
 
@@ -3338,7 +3338,7 @@ var database = [
 
 ["film", ["Bad Influence", "Mala Influencia - Verbotene Liebe", "Mala influencia"], "2025", ["2025 08 16"], 5, ["ger"], ["romance", "thriller"], [], ["Netflix"], ["Chloé Wallace"], ["Enrique Arce"], "https://64.media.tumblr.com/70f340f9ff0f071dccf3a47d1fbfe55e/a7ade893087c975a-0d/s250x400/c62f1aa04f817e6b58346ffcda9f1bbef2fcb435.jpg"],
 
-["series", ["Gossip Girl"], ["2007", "2012"], [["2025 08 17", "2025 09 05", "S1"]], 5, ["ger"], ["drama", "romance"], [], ["Netflix", "ongoing"], ["Stephanie Savage", "Josh Schwartz"], ["Blake Lively", "Penn Badgley", "Michelle Trachtenberg"], "https://64.media.tumblr.com/05b1a437aee8e0579909868e8aa969fb/975d5281a3831f94-41/s250x400/065313728895864387687994dc7264093c00442b.jpg"],
+["series", ["Gossip Girl"], ["2007", "2012"], [["2025 08 17", "2025 09 05", "S1"]], 5, ["ger"], ["drama", "romance"], [], ["Netflix", "ongoing"], ["Stephanie Savage", "Josh Schwartz"], ["Blake Lively", "Penn Badgley", "Michelle Trachtenberg", "Katie Cassidy"], "https://64.media.tumblr.com/05b1a437aee8e0579909868e8aa969fb/975d5281a3831f94-41/s250x400/065313728895864387687994dc7264093c00442b.jpg"],
 
 ["film", ["Taxi", "New York Taxi"], "2004", ["2025 08 21"], 7, ["ger"], ["action", "comedy", "crime"], [], ["Netflix"], ["Tim Story"], ["Queen Latifah", "Jimmy Fallon", "Gisele Bündchen", "Adrian Martinez", "John Krasinski"], "https://64.media.tumblr.com/0d74ea00b7041b73926c206f716ef268/3a3b1777377a90fa-30/s250x400/60a26cc2e7cd050ae8f66981c9be267a8086d166.jpg"],
 
@@ -3446,7 +3446,13 @@ var database = [
 
 ["film", ["7500", "Code 7500"], "2019", ["2025 12 28"], 8, ["ger"], ["drama", "thriller"], [], ["ARD"], ["Patrick Vollrath"], ["Joseph Gordon-Levitt", "Murathan Muslu"], "https://64.media.tumblr.com/ce8074cde467840ac721e24348e1d79b/3edecf8f582a6902-44/s250x400/0264dc0467bf723d8e28a44b6cc5e296a212f3b9.jpg"],
 
-["film", ["M3GAN", "M3gan"], "2022", [["2025 12 29", "uncensored"]], 6, ["ger"], ["horror", "sci-fi", "thriller"], [], ["bibliothek"], ["Gerard Johnstone"], ["Allison Williams", "Brian Jordan Alvarez"], "https://64.media.tumblr.com/0174382fae2b75cd0aa288cfff231253/6994b7d5535d0153-6a/s250x400/437dcecabf5050e4ea7fb109567d981db75bfc00.jpg"]
+["film", ["M3GAN", "M3gan"], "2022", [["2025 12 29", "uncensored"]], 6, ["ger"], ["horror", "sci-fi", "thriller"], [], ["bibliothek"], ["Gerard Johnstone"], ["Allison Williams", "Brian Jordan Alvarez"], "https://64.media.tumblr.com/0174382fae2b75cd0aa288cfff231253/6994b7d5535d0153-6a/s250x400/437dcecabf5050e4ea7fb109567d981db75bfc00.jpg"],
+
+["film", ["Legend", "Legende"], "1985", ["2025 12 29"], 6, ["ger"], ["adventure", "fantasy", "romance"], [], ["ZDF Neo"], ["Ridley Scott"], ["Tom Cruise", "Mia Sara"], "https://64.media.tumblr.com/1e9b54b470d424fcfa04c7de47f6d444/de8faaf0dbb6e08f-f0/s250x400/9fcda7e925e36a4a33a199abbc448c2f9eb67970.jpg"],
+
+["film", ["Monte Carlo", "Plötzlich Star"], "2011", ["2025 12 29"], 7, ["ger"], ["adventure", "comedy", "family"], [], ["ZDF Neo"], ["Thomas Bezucha"], ["Selena Gomez", "Katie Cassidy", "Cory Monteith", "Andie MacDowell", "Brett Cullen", "Luke Bracey", "Pierre Boulanger"], "https://64.media.tumblr.com/56b7346b974b32d1f76edd53cf013bdb/3eb7456e986c1145-9e/s250x400/457e89f01e854d068f2d5ff319ea7b3040b325d1.jpg"],
+
+["film", ["So Damn Easy Going", "So Damn Easy Going", "Så jävla easy going"], "2022", ["2025 12 30"], 7, ["ger"], ["comedy", "drama", "romance"], [], ["ZDF Neo"], ["Christoffer Sandler"], [], "https://64.media.tumblr.com/3c9efa992d38161c5940496a00ee241b/bd5b8dd07a6e595a-48/s250x400/dd07eda42fa1a2b607369635739550c46290a8c3.jpg"]
 
 	/*
 ,
