@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Liste meiner CDs</title>
+<style>
+table {
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-family: sans-serif;
+}
+
+th {
+  cursor: pointer;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2
+}
+</style>
+</head>
+<body>
+
+<table id="myTable2">
+<tr>
+<!--When a header is clicked, run the sortTable function, with a parameter,
+0 for sorting by names, 1 for sorting by country: -->
+<th onclick="sortTable(0)">Interpret</th>
+<th onclick="sortTable(1)">Album</th>
+<th onclick="sortTable(2)">Jahr</th>
+</tr>
+</table>
+
+<script>
+function sortTable(n) {
+  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+  table = document.getElementById("myTable2");
+  switching = true;
+  // Set the sorting direction to ascending:
+  dir = "asc";
+  /* Make a loop that will continue until
+  no switching has been done: */
+  while (switching) {
+    // Start by saying: no switching is done:
+    switching = false;
+    rows = table.rows;
+    /* Loop through all table rows (except the
+    first, which contains table headers): */
+    for (i = 1; i < (rows.length - 1); i++) {
+      // Start by saying there should be no switching:
+      shouldSwitch = false;
+      /* Get the two elements you want to compare,
+      one from current row and one from the next: */
+      x = rows[i].getElementsByTagName("TD")[n];
+      y = rows[i + 1].getElementsByTagName("TD")[n];
+      /* Check if the two rows should switch place,
+      based on the direction, asc or desc: */
+      if (dir == "asc") {
+        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+          // If so, mark as a switch and break the loop:
+          shouldSwitch = true;
+          break;
+        }
+      } else if (dir == "desc") {
+        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+          // If so, mark as a switch and break the loop:
+          shouldSwitch = true;
+          break;
+        }
+      }
+    }
+    if (shouldSwitch) {
+      /* If a switch has been marked, make the switch
+      and mark that a switch has been done: */
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+      // Each time a switch is done, increase this count by 1:
+      switchcount ++;
+    } else {
+      /* If no switching has been done AND the direction is "asc",
+      set the direction to "desc" and run the while loop again. */
+      if (switchcount == 0 && dir == "asc") {
+        dir = "desc";
+        switching = true;
+      }
+    }
+  }
+}
+
+function load() {
+	let table = document.getElementById("myTable2").children[0];
+	for (let entry of data) {
+		let row = document.createElement("tr");
+		for (let item of entry) {
+			let cell = document.createElement("td");
+			cell.innerHTML = item;
+			row.appendChild(cell);
+		}
+		table.appendChild(row);
+	}
+}
+
+let data = [
+	["Al'Tarba", "Let The Ghosts Sing", 2014],
+	["Alive Phoebe Lou", "Paper Castles", 2019],
+	["Alligatoah", "Schlaf Tabletten Rotwein Teil III", 2011],
+	["Alligatoah", "Triebwerke", 2013],
+	["Alligatoah", "Überstunden", 2013],
+	["AnneMayKantereit", "Alles Nix Konkretes", 2016],
+	["Arkona", "Goi, Rode, Goi!", 2009],
+	["Arkona", "Khram", 2018],
+	["AWOLNATION", "Megalithic Symphony", 2011],
+	["AWOLNATION", "Run", 2015],
+	/*BC*/
+	["d'Artagnan", "Feuer & Flamme", 2021],
+	["Die Schlümpfe", "Eiskalt Erwischt! Vol. 12", 2000],
+	["Eluveitie", "Evocation II - Pantheon", 2017],
+	["FEMM", "FEMM-Isation", 2016],
+	["FEMM", "PoW! / L.C.S.", 2016],
+	["Frittenbude", "Apokalypse WOW", 2023],
+	["Frittenbude", "Delfinarium", 2012],
+	["Frittenbude", "Katzengold", 2010],
+	["Frittenbude", "Küken des Orion", 2015],
+	["Frittenbude", "Nachtigall", 2008],
+	["Frittenbude", "Rote Sonne", 2019],
+	/*GHI*/
+	["Jani", "soft drops", ""],
+	["kid dad", "In A Box", 2020],
+	["kidkanevil", "My Little Ghost", 2014],
+	["Kontrust", "Second Hand Wonderland", 2012],
+	["Kraftklub", "Mit K", 2012],
+	["Lana Del Rey", "Ultraviolence", 2014],
+	["Linkin Park", "Recharged", 2013],
+	["Lisa Mitchell", "Bless this Mess", 2012],
+	["Lisa Mitchell", "Wonder", 2009],
+	["Marina and the Diamondes", "Froot", 2015],
+	["Metric", "Pagans in Vegas", 2015],
+	["Mozart", "Die Meisterwerke", 2006],
+	/*N*/
+	["Olivia Rodrigo", "GUTS", 2023],
+	["Olivia Rodrigo", "SOUR", 2021],
+	["Otto", "Das Aller-Beste", 1995],
+	["Peter Fox", "Stadtaffe", 2008],
+	["Queen", "Greatest Hits", 2011],
+	["Remote Bondage", "Wir kommen in die Hölle, aber wenigstens kommen wir", 2024],
+	["Santiano", "Von Liebe, Tod und Freiheit", 2015],
+	["Swiss", "Jung, Arm + Traurig", 2022],
+	["Tessa Violet", "Maybe Trapped Mostly Troubled", 2014],
+	["The Charm The Fury", "The Sick, Dumb & Happy", 2017],
+	["The Sandsacks", "Folk Show", 2007],
+	["Thees Uhlmann", "#2", 2013],
+	["Thees Uhlmann", "Thees Uhlmann", 2011],
+	/*U*/
+	["Visions of Atlantis", "The Deep & The Dark", 2018],
+	["Wir sind Helden", "Die Reklamation", 2003],
+	["Wir sind Helden", "Von hier an blind", 2005],
+	/*X*/
+	["Ye Banished Privateers", "First Night Back in Port", 2017],
+	["Ye Banished Privateers", "Hostis Humani Generis", 2020]
+	/*Z*/
+];
+load();
+</script>
+</body>
+</html>
