@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Visualisierung</title>
+	<script src="https://unpkg.com/d3@7"></script>
+	<link rel="stylesheet" href="https://unpkg.com/family-chart@latest/dist/styles/family-chart.css">
+	<script type="module" src="https://unpkg.com/family-chart@latest"></script>
+</head>
+<body class="dark_">
+	<div id="FamilyChart" class="f3" style="width:100%;height:100%;margin:auto;background-color:rgb(33,33,33);color:#fff;"></div>
+	<input type="file" accept=".json" id="fileSelection" style="position: fixed; top: 10px; left: 10px;">
+<script type="module">
+/* TODO
+filtern nach ort
+*/
+let data = [];
+let graphData = [];
+let months = ["??", "Jan.", "Feb.", "März", "Apr.", "Mai", "Juni", "Juli", "Aug.", "Sep.", "Okt.", "Nov.", "Dez."];
+let f3Chart;
+document.getElementById("fileSelection").addEventListener("change", fileSelected);
+
+function fileSelected() {
+	const file = this.files[0];
+    const reader = new FileReader();
+ 
+    reader.onload = function (event) {
+		try {
+			const originalContent = event.target.result;
+			data = JSON.parse(originalContent);
+		}
+		catch(error) {
+			console.log(error.message);
+			document.getElementById("fileSelection").style.display = "block";
+			return;
+		}
+		formatData();
+		initChart(graphData);
+		document.getElementById("fileSelection").style.display = "none";
+    };
+    
+    reader.readAsText(file);
+}
+
+function formatData() {
+	graphData = [];
+	for (let person of data) {
+		if (person.id == 0) continue;
+		let newEntry = {};
+		newEntry.id = person.id;
+		newEntry.data = {};
+		newEntry.data.gender = person.sex == 1 ? "F" : "M";
+		newEntry.data.sex = person.sex;
+		if (person.name && person.name.first) newEntry.data["first name"] = person.name.first.join(" ");
+		if (person.name && person.name.family) newEntry.data["last name"] = person.name.family.join(" ");
+		if (person.birth && person.birth.date) {
+			let string = "﹡ ";
+			let date = person.birth.date.split(" ");
+			if (date[2]) string += date[2] + ". ";
+			if (date[1]) string += (months[parseInt(date[1])] || date[1]) + " ";
+			if (date[0]) string += date[0];
+			newEntry.data.birthday = string;
+		}
+		if (person.death && person.death.date) {
+			let string = "† ";
+			let date = person.death.date.split(" ");
+			if (date[2]) string += date[2] + ". ";
+			if (date[1]) string += (months[parseInt(date[1])] || date[1]) + " ";
+			if (date[0]) string += date[0];
+			newEntry.data.death = string;
+		}
+		newEntry.rels = {spouses: [], children: []};
+		newEntry.rels.parents = person.parents;
+		if (person.marriage)
+		for (let marriage of person.marriage) {
+			if (marriage.partner) newEntry.rels.spouses.push(marriage.partner);
+			if (marriage.children) newEntry.rels.children.push(...marriage.children);
+		}
+		//newEntry.data.relation = person.generation + ", " + person.degree + ", " + person.relation;
+		newEntry.data.relation = person.relation || "";
+		graphData.push(newEntry);
+	}
+}
+
+function updateChart(data) {
+	console.log(f3Chart.store);
+	f3Chart.store.updateData(data);
+}
+
+function initChart(data) {
+	document.getElementById("FamilyChart").innerHTML = "";
+	f3Chart = f3.createChart('#FamilyChart', data)
+		.setSingleParentEmptyCard(false)
+		.setShowSiblingsOfMain(true)
+		.setSortChildrenFunction(undefined)
+		.setAncestryDepth(1000)
+		.setProgenyDepth(1000)
+		.setTransitionTime(500)
+		.setCardYSpacing(180);
+
+	const f3Card = f3Chart.setCardHtml()
+		.setOnHoverPathToMain()
+		.setCardDisplay([["first name","last name"],["birthday"],["death"]])
+		.setStyle('rect')
+		.setCardInnerHtmlCreator(d => {
+			return `<div class="card-inner" style="width: 200px; min-height: 80px; padding: 10px; border-radius: 5px; text-align: center;">
+				<div>${d.data.data["first name"] || "???"} ${d.data.data["last name"] || "???"}</div>
+				<hr>
+				<div>${d.data.data["birthday"] || ""}</div>
+				<div>${d.data.data["death"] || ""}</div>
+				<div><b>${d.data.data["relation"]}</b></div>
+			</div>`
+		})
+		.setOnCardUpdate(function(d) {
+			if (d.data._new_rel_data) return;
+			
+			if (d.data.data["sex"] == undefined) {
+				console.log(this);
+				this.querySelector('.card').classList.remove("card-female");
+				this.querySelector('.card').classList.remove("card-male");
+				this.querySelector('.card').classList.add("card-unisex");
+			}
+
+			d3.select(this).select('.card').style('cursor', 'default');
+			const card = this.querySelector('.card-inner');
+			d3.select(card)
+				.append('div')
+				.attr('style', 'cursor: pointer; width: 20px; height: 20px;position: absolute; top: -10px; right: -10px;')
+				.html(f3.icons.infoSvgIcon())
+				.select('svg')
+				.style('padding', '0')
+				.on('click', (e) => {
+					e.stopPropagation();
+					getRelation(d.data.id);
+					formatData();
+					updateChart(graphData);
+					f3.handlers.cardToMiddle({d, svg: f3Chart.svg, svg_dim: f3Chart.svg.getBoundingClientRect(),  transition_time: 500})
+				});
+		});
+
+	/*const f3EditTree = f3Chart.editTree()
+		.fixed(true)
+		.setFields(["id","first name","last name","birthday","death"])
+		.setEditFirst(false)
+		.setCardClickOpen(f3Card).setOnChange(() => {
+			// const updated_data = f3EditTree.exportData()
+			// console.log(updated_data)
+		});
+	f3EditTree.setNoEdit();*/
+	
+	f3Chart.updateTree({initial: true});
+	
+	const all_select_options = []
+	graphData.forEach(d => {
+		if (all_select_options.find(d0 => d0.value === d["id"])) return;
+		all_select_options.push({label: `${d.data["first name"]} ${d.data["last name"]}${d.data["birthday"] ? ("\n" + d.data["birthday"]) : ""}`, value: d["id"]})
+	});
+	
+	const search_cont = d3.select(document.querySelector("#FamilyChart")).append("div")
+		.attr("style", "position: absolute; top: 10px; left: 10px; width: 150px; z-index: 1000;")
+		.on("focusout", () => {
+			setTimeout(() => {
+				if (!search_cont.node().contains(document.activeElement)) {
+					updateDropdown([]);
+				}
+			}, 200);
+		});
+		
+	const search_input = search_cont.append("input")
+		.attr("style", "width: 100%;")
+		.attr("type", "text")
+		.attr("placeholder", "Suche")
+		.on("focus", activateDropdown)
+		.on("input", activateDropdown);
+
+	const dropdown = search_cont.append("div").attr("style", "overflow-y: auto; max-height: 300px; background-color: #000;")
+		.attr("tabindex", "0")
+		.on("wheel", (e) => {
+			e.stopPropagation();
+		});
+
+	function activateDropdown() {
+		const search_input_value = search_input.property("value");
+		const filtered_options = all_select_options.filter(d => d.label.toLowerCase().includes(search_input_value.toLowerCase()));
+		updateDropdown(filtered_options);
+	}
+
+	function updateDropdown(filtered_options) {
+		dropdown.selectAll("div").data(filtered_options).join("div")
+			.attr("style", "padding: 5px;cursor: pointer;border-bottom: .5px solid currentColor;")
+			.on("click", (e, d) => {
+				updateTreeWithNewMainPerson(d.value, true);
+			})
+			.text(d => d.label);
+	}
+	
+	function updateTreeWithNewMainPerson(person_id, animation_initial = true) {
+		f3Chart.updateMainId(person_id);
+		f3Chart.updateTree({initial: animation_initial});
+	}
+	console.log(Math.floor(Math.random()*graphData.length)+1);
+	updateTreeWithNewMainPerson(Math.floor(Math.random()*data.length)+1, true);
+}
+
+function getRelation(id) {
+	clearRelation();
+	let stack = [id];
+	for (let i = 0; i < 1000 && stack.length > 0; i++) {
+		let current = data[stack[0]];
+		if (current.generation == undefined) {
+			current.generation = 0;
+			current.degree = 0;
+			current.relation = "Selbst";
+			if (current.marriage) {
+				for (let m of current.marriage) {
+					if (m.partner) {
+						data[m.partner].generation = current.generation;
+						data[m.partner].degree = current.degree - 1;
+						data[m.partner].relation = data[m.partner].sex == 1 ? "Partnerin" : "Partner";
+						stack.push(parseInt(m.partner));
+					}
+				}
+			}
+		} else if (current.generation == 0) {
+			if (current.degree == -2) {
+				current.relation = current.sex == 1 ? "Schwägerin" : "Schwager";
+			} else if (current.degree == 1) {
+				current.relation = current.sex == 1 ? "Schwester" : "Bruder";
+				if (current.marriage) {
+					for (let m of current.marriage) {
+						if (m.partner) {
+							data[m.partner].relation = data[m.partner].sex == 1 ? "Schwägerin" : "Schwager";
+						}
+					}
+				}
+			} else if (current.degree == 2) {
+				current.relation = current.sex == 1 ? "Cousine" : "Cousin";
+			} else if (current.degree >= 3) {
+				let degree = current.degree - 1;
+				current.relation = current.sex == 1 ? `Cousine ${degree}. Grades` : `Cousin ${degree}. Grades`;
+			}
+		} else if (current.generation == -1) {
+			if (current.degree == -1) {
+				current.relation = current.sex == 1 ? "Schwiegermutter" : "Schwiegervater";
+			} else if (current.degree == 0) {
+				current.relation = current.sex == 1 ? "Mutter" : "Vater";
+			} else if (current.degree == 1) {
+				current.relation = current.sex == 1 ? "Tante" : "Onkel";
+			} else if (current.degree >= 2) {
+				let degree = current.degree;
+				current.relation = current.sex == 1 ? `Tante ${degree}. Grades` : `Onkel ${degree}. Grades`;
+			}
+		} else if (current.generation == -2) {
+			if (current.degree == 0) {
+				current.relation = current.sex == 1 ? "Großmutter" : "Großvater";
+			} else if (current.degree == 1) {
+				current.relation = current.sex == 1 ? "Großtante" : "Großonkel";
+			} else if (current.degree >= 2) {
+				let degree = current.degree;
+				current.relation = current.sex == 1 ? `Großtante ${degree}. Grades` : `Großonkel ${degree}. Grades`;
+			}
+		} else if (current.generation <= -3) {
+			let ur = "Ur";
+			for (let i = -3; i > current.generation; i--) ur += "ur";
+			if (current.degree == 0) {
+				current.relation = current.sex == 1 ? `${ur}großmutter` : `${ur}großvater`;
+			} else if (current.degree == 1) {
+				current.relation = current.sex == 1 ? `${ur}großtante` : `${ur}großonkel`;
+			} else if (current.degree >= 2) {
+				let degree = current.degree;
+				current.relation = current.sex == 1 ? `${ur}großtante ${degree}. Grades` : `${ur}großonkel ${degree}. Grades`;
+			}
+		} else if (current.generation == 1) {
+			if (current.degree == -1) {
+				current.relation = current.sex == 1 ? "Schwiegertochter" : "Schwiegersohn";
+			} else if (current.degree == 1) {
+				current.relation = current.sex == 1 ? "Tochter" : "Sohn";
+			} else if (current.degree == 2) {
+				current.relation = current.sex == 1 ? "Nichte" : "Neffe";
+			} else if (current.degree >= 3) {
+				let degree = current.degree - 1;
+				current.relation = current.sex == 1 ? `Nichte ${degree}. Grades` : `Neffe ${degree}. Grades`;
+			}
+		} else if (current.generation == 2) {
+			if (current.degree == 2) {
+				current.relation = current.sex == 1 ? "Enkeltochter" : "Enkelsohn";
+			} else if (current.degree == 3) {
+				current.relation = current.sex == 1 ? "Großnichte" : "Großneffe";
+			} else if (current.degree >= 4) {
+				let degree = current.degree - 2;
+				current.relation = current.sex == 1 ? `Großnichte ${degree}. Grades` : `Großneffe ${degree}. Grades`;
+			}
+		} else if (current.generation >= 3) {
+			let ur = "Ur";
+			for (let i = 3; i < current.generation; i++) ur += "ur";
+			if (current.degree == current.generation) {
+				current.relation = current.sex == 1 ? `${ur}enkeltochter` : `${ur}enkelsohn`;
+			} else if (current.degree == current.generation + 1) {
+				current.relation = current.sex == 1 ? `${ur}großnichte` : `${ur}großneffe`;
+			} else if (current.degree >= current.generation + 2) {
+				let degree = current.degree - current.generation;
+				current.relation = current.sex == 1 ? `${ur}großnichte ${degree}. Grades` : `${ur}großneffe ${degree}. Grades`;
+			}
+		}
+		if (current.parents) {
+			for (let p of current.parents) {
+				if (data[p].generation != undefined) continue;
+				data[p].generation = current.generation - 1;
+				data[p].degree = current.degree;
+				stack.push(parseInt(p));
+			}
+		}
+		if (current.marriage) {
+			for (let m of current.marriage) {
+				if (m.partner) {
+					if (data[m.partner].generation == undefined) {
+						data[m.partner].generation = current.generation;
+						data[m.partner].degree = current.degree;
+					}
+				}
+				if (m.children) {
+					for (let c of m.children) {
+						if (data[c].generation != undefined) continue;
+						data[c].generation = current.generation + 1;
+						if (current.degree >= 0) data[c].degree = current.degree + 1;
+						else data[c].degree = current.degree - 1;
+						stack.push(parseInt(c));
+					}
+				}
+			}
+		}
+		stack.shift();
+	}
+}
+
+function clearRelation() {
+	for (let i in data) {
+		if (data[i].id == 1) console.log(data[i]);
+		if (data[i].generation != undefined) {
+			delete data[i].generation;
+			console.log("delted");
+		}
+		if (data[i].degree != undefined) delete data[i].degree;
+		if (data[i].relation != undefined) delete data[i].relation;
+	}
+}
+
+function search() {
+	
+}
+</script>
+<style>
+body {
+	height: 100vh;
+	margin: 0;
+}
+.f3:has(.f3-path-to-main) .link {
+	stroke-width: 0.5px;
+}
+.f3 .link.f3-path-to-main {
+	stroke-width: 6px;
+}
+.f3 div.card-unisex .card-inner,
+.f3 div.card-unisex .person-icon svg {
+	background-color: #808080;
+}
+.f3 .card-inner hr {
+	border-style: solid;
+	margin-block: 0.2em;
+}
+</style>
+</body>
+</html>
