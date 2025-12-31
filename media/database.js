@@ -2860,7 +2860,7 @@ var database = [
 
 ["film", ["White Noise", "Weißes Rauschen"], "2022", ["2024 01 02"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Noah Baumbach"], ["Don Cheadle", "Adam Driver", "Greta Gerwig", "Raffey Cassidy", "Bill Camp"], "https://64.media.tumblr.com/916c77f9a2c34d4685b8a9bc09de8e14/c893acd7b3493dba-7d/s250x400/d68d629d27cf7104fc0970eec8f6bb86d1139159.jpg"],
 
-["film", ["Mudbound"], "2017", ["2024 01 04"], 7, ["ger"], ["drama", "war"], [], ["Netflix"], ["Dee Rees"], ["Carey Mulligan"], "https://64.media.tumblr.com/a280d79aba676214e7442695b07078bb/bf58dbc204c20552-11/s250x400/64158a5d12a61eb912bdea07f2c7850dd10172b5.jpg"],
+["film", ["Mudbound"], "2017", ["2024 01 04"], 7, ["ger"], ["drama", "war"], [], ["Netflix"], ["Dee Rees"], ["Carey Mulligan", "Jonathan Banks"], "https://64.media.tumblr.com/a280d79aba676214e7442695b07078bb/bf58dbc204c20552-11/s250x400/64158a5d12a61eb912bdea07f2c7850dd10172b5.jpg"],
 
 ["series", ["Bodies"], "2023", [["2024 01 05", "2024 01 13", "S1"]], 6, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Si Spencer", "Paul Tomalin"], ["Stephen Graham"], "https://64.media.tumblr.com/58873ac18641b2fb44695740f58ef551/1f83ebb6dafa459c-a7/s250x400/be1c1a0faece211e6424f5d92edb9f73741385bd.jpg"],
 
@@ -3452,7 +3452,13 @@ var database = [
 
 ["film", ["Monte Carlo", "Plötzlich Star"], "2011", ["2025 12 29"], 7, ["ger"], ["adventure", "comedy", "family"], [], ["ZDF Neo"], ["Thomas Bezucha"], ["Selena Gomez", "Katie Cassidy", "Cory Monteith", "Andie MacDowell", "Brett Cullen", "Luke Bracey", "Pierre Boulanger"], "https://64.media.tumblr.com/56b7346b974b32d1f76edd53cf013bdb/3eb7456e986c1145-9e/s250x400/457e89f01e854d068f2d5ff319ea7b3040b325d1.jpg"],
 
-["film", ["So Damn Easy Going", "So Damn Easy Going", "Så jävla easy going"], "2022", ["2025 12 30"], 7, ["ger"], ["comedy", "drama", "romance"], [], ["ZDF Neo"], ["Christoffer Sandler"], [], "https://64.media.tumblr.com/3c9efa992d38161c5940496a00ee241b/bd5b8dd07a6e595a-48/s250x400/dd07eda42fa1a2b607369635739550c46290a8c3.jpg"]
+["film", ["So Damn Easy Going", "So Damn Easy Going", "Så jävla easy going"], "2022", ["2025 12 30"], 7, ["ger"], ["comedy", "drama", "romance"], [], ["ZDF Neo"], ["Christoffer Sandler"], [], "https://64.media.tumblr.com/3c9efa992d38161c5940496a00ee241b/bd5b8dd07a6e595a-48/s250x400/dd07eda42fa1a2b607369635739550c46290a8c3.jpg"],
+
+["film", ["Flightplan", "Flightplan - Ohne jede Spur"], "2005", ["2025 12 30"], 7, ["ger"], ["drama", "mystery", "thriller"], [], ["Netflix"], ["Robert Schwentke"], ["Jodie Foster", "Peter Sarsgaard", "Sean Bean"], "https://64.media.tumblr.com/bc90821631287217f50d7d25fffd44d0/4601da021bc19dec-92/s250x400/ff5ea8df150a9d6487df6ae32a0266714d82470c.jpg"],
+
+["film", ["The Commuter"], "2018", ["2025 12 30"], 8, ["ger"], ["action", "mystery", "thriller"], [], ["Netflix"], ["Jaume Collet-Serra"], ["Liam Neeson", "Vera Farmiga", "Jonathan Banks", "Sam Neill", "Florence Pugh"], "https://64.media.tumblr.com/a99b7cc66e5515d77c5e07a3c2b29f95/8a6c42d81c153386-e6/s250x400/f1c6006c247c23b932adb4ea9330f235526bb622.jpg"],
+
+["film", ["Einfach Nina"], "2022", ["2025 12 31"], 0, ["ger"], ["drama"], [], ["ZDF Neo", "LGBT"], ["Karin Heberlein"], [], "https://64.media.tumblr.com/7b7b60e53f2c57bc005ace2f072cddf1/e80e8f9b742505d5-54/s250x400/cc5cafbd5529b6b701d7b59d753d6e67bd58d9e1.jpg"]
 
 	/*
 ,
