@@ -524,7 +524,7 @@ var database = [
 	        
 ["film", ["Three Billboards Outside Ebbing, Missouri"], "2017", ["2020 08 03"], 7, ["ger"], ["comedy", "crime"], ["syl"], [], ["Martin McDonagh"], ["Frances McDormand", "Woody Harrelson", "Abbie Cornish", "Zeljko Ivanek", "Peter Dinklage", "Kathryn Newton", "Samara Weaving", "Abbie Cornish", "Sam Rockwell", "Clarke Peters", "Caleb Landry Jones"], "https://64.media.tumblr.com/34eef63c97addadebfe4c53d416722b9/6e93d58244ffce44-76/s250x400/87367eb91105532cbecd9f146b64d0767b9aadc6.jpg"],
 	        
-["film", ["Emma.", "Emma"], "2020", ["2020 07 27"], 6, ["ger"], ["comedy", "drama"], ["syl"], ["Kino"], ["Autumn de Wilde"], ["Anya Taylor-Joy", "Bill Nighy", "Tanya Reynolds", "Callum Turner", "Isis Hainsworth", "Mia Goth"], "https://64.media.tumblr.com/b0483e91677af92641a1d11663da2aef/ae5c907a9b320a83-7e/s250x400/4b3012c6be8d4118ec14688c5096aa081b3eebc0.jpg"],
+["film", ["Emma.", "Emma"], "2020", ["2020 07 27"], 6, ["ger"], ["comedy", "drama"], ["syl"], ["Kino"], ["Autumn de Wilde"], ["Anya Taylor-Joy", "Bill Nighy", "Tanya Reynolds", "Callum Turner", "Isis Hainsworth", "Mia Goth", "Josh O'Connor"], "https://64.media.tumblr.com/b0483e91677af92641a1d11663da2aef/ae5c907a9b320a83-7e/s250x400/4b3012c6be8d4118ec14688c5096aa081b3eebc0.jpg"],
 	        
 ["film", ["The Old Guard"], "2020", ["2020 07 27", "2025 02 02"], 7, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Netflix"], ["Gina Prince-Bythewood"], ["Chiwetel Ejiofor", "Harry Melling", "Matthias Schoenaerts", "Orlando Seale", "Charlize Theron", "KiKi Layne", "Marwan Kenzari", "Veronica Ngo"], "https://64.media.tumblr.com/89ad420fc18f829fdc232cc078a87e4f/6a3b04b9ffb46ba4-e0/s250x400/e002ec38f2252118eb151df79eadaf794c231b0d.jpg"],
 	        
@@ -3202,7 +3202,7 @@ var database = [
 
 ["audiobook", ["Tatort Erde: Auf der Flucht durch Tokio"], "2007", ["2025 02 21"], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Alexandra Fischer-Hunold"], ["Peter Veit", "Stefanie Müller"], "https://64.media.tumblr.com/5c5b38d5c448d46b7d2da1be00297603/af91fa1c095e0e0a-39/s250x400/ce489924a0314c55c5589323e2875c535e32ad2a.jpg"],
 
-["series", ["Peaky Blinders", "Peaky Blinders - Gangs of Birmingham"], ["2013", "2022"], [["2025 02 23", "2025 02 25", "S1"], ["2025 02 26", "2025 03 09", "S2"], ["2025 03 16", "2025 07 02", "S3"]], 7, ["ger"], ["crime", "drama"], [], ["bibliothek", "ongoing"], ["Steven Knight"], ["Cillian Murphy", "Paul Anderson", "Helen McCrory", "Annabelle Wallis", "Tom Hardy", "Ralph Ineson"], "https://64.media.tumblr.com/3a3d7fe5f19600d59b03e3c31be485bb/50ddfa8ed31d52de-36/s250x400/00c28eec4a0c2c3c0f6b740cb3aa1c816c399e72.jpg"],
+["series", ["Peaky Blinders", "Peaky Blinders - Gangs of Birmingham"], ["2013", "2022"], [["2025 02 23", "2025 02 25", "S1"], ["2025 02 26", "2025 03 09", "S2"], ["2025 03 16", "2025 07 02", "S3"]], 7, ["ger"], ["crime", "drama"], [], ["bibliothek", "ongoing"], ["Steven Knight"], ["Cillian Murphy", "Paul Anderson", "Helen McCrory", "Annabelle Wallis", "Tom Hardy", "Ralph Ineson", "Josh O'Connor", "Daryl McCormack"], "https://64.media.tumblr.com/3a3d7fe5f19600d59b03e3c31be485bb/50ddfa8ed31d52de-36/s250x400/00c28eec4a0c2c3c0f6b740cb3aa1c816c399e72.jpg"],
 
 ["film", ["Back in Action"], "2025", ["2025 02 23"], 6, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Seth Gordon"], ["Jamie Foxx", "Cameron Diaz", "Kyle Chandler", "Glenn Close", "Andrew Scott"], "https://64.media.tumblr.com/96150d39db49eb486b722ca75e3047e6/a183aa428849deae-2b/s250x400/05ac3d2d418824700cc8f74b8ecc0697cb07895c.jpg"],
 
@@ -3458,7 +3458,11 @@ var database = [
 
 ["film", ["The Commuter"], "2018", ["2025 12 30"], 8, ["ger"], ["action", "mystery", "thriller"], [], ["Netflix"], ["Jaume Collet-Serra"], ["Liam Neeson", "Vera Farmiga", "Jonathan Banks", "Sam Neill", "Florence Pugh"], "https://64.media.tumblr.com/a99b7cc66e5515d77c5e07a3c2b29f95/8a6c42d81c153386-e6/s250x400/f1c6006c247c23b932adb4ea9330f235526bb622.jpg"],
 
-["film", ["Einfach Nina"], "2022", ["2025 12 31"], 0, ["ger"], ["drama"], [], ["ZDF Neo", "LGBT"], ["Karin Heberlein"], [], "https://64.media.tumblr.com/7b7b60e53f2c57bc005ace2f072cddf1/e80e8f9b742505d5-54/s250x400/cc5cafbd5529b6b701d7b59d753d6e67bd58d9e1.jpg"]
+["film", ["Einfach Nina"], "2022", ["2025 12 31"], 0, ["ger"], ["drama"], [], ["ZDF Neo", "LGBT"], ["Karin Heberlein"], [], "https://64.media.tumblr.com/7b7b60e53f2c57bc005ace2f072cddf1/e80e8f9b742505d5-54/s250x400/cc5cafbd5529b6b701d7b59d753d6e67bd58d9e1.jpg"],
+
+["film", ["The Net", "Das Netz"], "1995", ["2025 12 31"], 6, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Irwin Winkler"], ["Sandra Bullock"], "https://64.media.tumblr.com/13191e6904b935dac3753c11b323810b/ee8b3d370f206dbf-f7/s250x400/8b53d1c5102fc7c33f4508e52682a09469fae873.jpg"],
+
+["film", ["Wake Up Dead Man"], "2025", [["2025 12 31", "2026 01 01"]], 8, ["ger"], ["comedy", "crime", "drama"], ["bini", "syl", "je"], ["Netflix"], ["Rian Johnson"], ["Daniel Craig", "Josh O'Connor", "Glenn Close", "Josh Brolin", "Mila Kunis", "Jeremy Renner", "Kerry Washington", "Andrew Scott", "Daryl McCormack", "Jeffrey Wright"], "https://64.media.tumblr.com/f1aa7597d4ac6108003b720478a08f9d/38c1036571156e94-23/s250x400/fdd43737154110a32ef4c04a9bfbb03ecceba6da.jpg"]
 
 	/*
 ,
