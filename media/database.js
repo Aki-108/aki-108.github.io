@@ -944,7 +944,7 @@ var database = [
 	        
 ["film", ["Fight Club"], "1999", ["2016 04 28", "2016 09 17", "2023 07 22"], 9, ["ger"], ["drama"], [], ["Disney+"], ["David Fincher"], ["Edward Norton", "Brad Pitt", "Helena Bonham Carter", "Jared Leto"], "https://66.media.tumblr.com/96175385d3dd724e655069a52b115138/tumblr_o6tkxx0u6w1v2s5upo1_250.jpg"],
 	        
-["film", ["The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", "Die Chroniken von Narnia - Der König von Narnia"], "2005", ["2016 04 24", "2021 12 20"], 6, ["ger"], ["adventure", "family", "fantasy"], [], ["Narnia", "Disney+"], ["Andrew Adamson"], ["Georgie Henley", "Skandar Keynes", "Anna Popplewell", "Tilda Swinton", "James McAvoy", "Jim Broadbent"], "https://66.media.tumblr.com/bb9c49e547897ce1c90b8a25060d202a/tumblr_o6tkbenbzc1v2s5upo1_250.jpg"],
+["film", ["The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", "Die Chroniken von Narnia - Der König von Narnia"], "2005", ["2016 04 24", "2021 12 20", "2026 01 03"], 6, ["ger"], ["adventure", "family", "fantasy"], [], ["Narnia", "Disney+"], ["Andrew Adamson"], ["Georgie Henley", "Skandar Keynes", "Anna Popplewell", "Tilda Swinton", "James McAvoy", "Jim Broadbent"], "https://66.media.tumblr.com/bb9c49e547897ce1c90b8a25060d202a/tumblr_o6tkbenbzc1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Name of the Rose", "Der Name der Rose"], "1986", ["2016 04 25"], 7, ["ger"], ["crime", "drama"], [], ["Schule"], ["Jean-Jacques Annaud"], ["Ron Perlman", "Sean Connery"], "https://49.media.tumblr.com/02ec09e71b0728dff02597e98be2a4d4/tumblr_o672zqoEyK1v2s5upo1_250.jpg"],
 	        
@@ -3470,7 +3470,7 @@ var database = [
 
 ["film", ["21"], "2008", ["2026 01 03"], 7, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["Robert Luketic"], ["Jim Sturgess", "Kevin Spacey", "Aaron Yoo", "Jacob Pitts", "Laurence Fishburne", "Josh Gad"], "https://64.media.tumblr.com/17d22982c2d22409654987293653cb81/9d36244846fd1fb2-7b/s250x400/ed81fc32d27464f2367f601afb37624a5112296b.jpg"],
 
-["film", ["Death Wish"], "2018", ["2026 01 03"], 0, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Eli Roth"], ["Bruce Willis", "Vincent D'Onofrio", "Dean Norris"], "https://64.media.tumblr.com/eb707eb125cde2c4ac8f999240d34c72/b060c49263de95a6-fe/s250x400/ac0985704f58edaadae0f1f4a20e6c98a854f2b0.jpg"]
+["film", ["Death Wish"], "2018", ["2026 01 03"], 8, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Eli Roth"], ["Bruce Willis", "Vincent D'Onofrio", "Dean Norris"], "https://64.media.tumblr.com/eb707eb125cde2c4ac8f999240d34c72/b060c49263de95a6-fe/s250x400/ac0985704f58edaadae0f1f4a20e6c98a854f2b0.jpg"]
 
 	/*
 ,
