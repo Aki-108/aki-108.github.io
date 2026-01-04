@@ -3470,7 +3470,9 @@ var database = [
 
 ["film", ["21"], "2008", ["2026 01 03"], 7, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["Robert Luketic"], ["Jim Sturgess", "Kevin Spacey", "Aaron Yoo", "Jacob Pitts", "Laurence Fishburne", "Josh Gad"], "https://64.media.tumblr.com/17d22982c2d22409654987293653cb81/9d36244846fd1fb2-7b/s250x400/ed81fc32d27464f2367f601afb37624a5112296b.jpg"],
 
-["film", ["Death Wish"], "2018", ["2026 01 03"], 8, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Eli Roth"], ["Bruce Willis", "Vincent D'Onofrio", "Dean Norris"], "https://64.media.tumblr.com/eb707eb125cde2c4ac8f999240d34c72/b060c49263de95a6-fe/s250x400/ac0985704f58edaadae0f1f4a20e6c98a854f2b0.jpg"]
+["film", ["Death Wish"], "2018", ["2026 01 03"], 8, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Eli Roth"], ["Bruce Willis", "Vincent D'Onofrio", "Dean Norris"], "https://64.media.tumblr.com/eb707eb125cde2c4ac8f999240d34c72/b060c49263de95a6-fe/s250x400/ac0985704f58edaadae0f1f4a20e6c98a854f2b0.jpg"],
+
+["film", ["When a Stranger Calls", "Unbekannter Anrufer"], "2006", ["2026 01 03"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Simon West"], ["Camilla Belle", "Katie Cassidy"], "https://64.media.tumblr.com/15bf53cd52c45ef51e517ee37f66dac5/7b8976b31e5a9446-ab/s250x400/1f114b5b9c290b6ea1d54bd846167c3e1a0ddcd0.jpg"]
 
 	/*
 ,
