@@ -3420,7 +3420,7 @@ var database = [
 
 ["series", ["Vampirina: Teenage Vampire", "Vampirina: Teenage Vampir"], "2025", [["2025 11 19", "2025 12 22", "S1"]], 7, ["ger"], ["adventure", "comedy", "family"], [], ["Disney+", "ongoing"], ["Randi Barnes"], [], "https://64.media.tumblr.com/3716e3b9502dd8087f6f9252dcc765a8/f5f7aab57be28c31-72/s250x400/b4087588ddf0d9b3d85c2ea2cb9c4da98c3a067a.jpg"],
 
-["book", ["Nur 300 km"], "2023", [["2025 11 18", ""]], 0, ["ger"], ["adventure"], [], ["bibliothek", "watching"], ["Rüdiger Bertram"], [], "https://64.media.tumblr.com/b726aa5a9d3a0ade894b68908b871d34/c0aa4a4c906497f7-57/s250x400/51eb825cdb556d21152f5a89d35a85e2b45696f6.jpg"],
+["book", ["Nur 300 km"], "2023", [["2025 11 18", "2026 01 05"]], 6, ["ger"], ["adventure"], [], ["bibliothek"], ["Rüdiger Bertram"], [], "https://64.media.tumblr.com/b726aa5a9d3a0ade894b68908b871d34/c0aa4a4c906497f7-57/s250x400/51eb825cdb556d21152f5a89d35a85e2b45696f6.jpg"],
 
 ["film", ["Hypnotic"], "2021", ["2025 11 22"], 5, ["ger"], ["horror", "mystery", "thriller"], [], ["Netflix"], ["Matt Angel", "Suzanne Coote"], ["Kate Siegel", "Jason O'Mara"], "https://64.media.tumblr.com/b3db9d73a95a3de5c34b1a09510e5cf1/e810f93959427ef5-25/s250x400/38e4288e41cad13d97de4af8a04474afc9e71438.jpg"],
 
