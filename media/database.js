@@ -235,7 +235,7 @@ var database = [
 	        
 ["book", ["Night School"], "2012", [["2020 07 06", "2020 08 07"], ["2025 05 21", "2025 11 19"]], 7, ["eng"], ["young adult", "mystery", "romance"], [], ["Night School"], ["CJ Daugherty"], [], "https://64.media.tumblr.com/cebea2f804aa63da452512cfcc5aedda/9aa3cc75dcd3ca59-28/s250x400/8064e892565da9e205bda114424dfd59e4a5dde0.jpg"],
 	        
-["audiobook", ["Endurance: Shackleton's Incredible Voyage"], "1959", [["2020 06 15", "2020 06 20"]], 7, ["eng"], [], [], [], ["Alfred Lansing"], [], "https://66.media.tumblr.com/b5df0d66dd388711a3457c388179528b/ed0904bc0d493248-ca/s250x400/badd02339b4c4a71f41c429cffa3a7b27d4c3ba3.jpg"],
+["audiobook", ["Endurance: Shackleton's Incredible Voyage"], "1959", [["2020 06 15", "2020 06 20"], ["2026 01 07", ""]], 7, ["eng"], ["adventure"], [], ["watching"], ["Alfred Lansing"], [], "https://66.media.tumblr.com/b5df0d66dd388711a3457c388179528b/ed0904bc0d493248-ca/s250x400/badd02339b4c4a71f41c429cffa3a7b27d4c3ba3.jpg"],
 	        
 ["audiobook", ["The Fault in Our Stars", "Das Schicksal ist ein mieser Verräter"], "2012", [["2020 06 11", "2020 06 15"]], 6, ["eng"], [], [], [], ["John Green"], [], "https://66.media.tumblr.com/39ba75a7b01954fcc20d319030ea40fe/85cedb8a8a2ae325-81/s250x400/b8f4f644b5f2e5e9c164e94ada878c0db4d3787f.jpg"],
 	        
@@ -948,7 +948,7 @@ var database = [
 	        
 ["film", ["The Name of the Rose", "Der Name der Rose"], "1986", ["2016 04 25"], 7, ["ger"], ["crime", "drama"], [], ["Schule"], ["Jean-Jacques Annaud"], ["Ron Perlman", "Sean Connery"], "https://49.media.tumblr.com/02ec09e71b0728dff02597e98be2a4d4/tumblr_o672zqoEyK1v2s5upo1_250.jpg"],
 	        
-["film", ["WALL·E", "WALL·E - Der Letzte räumt die Erde auf", "WALL-E"], "2008", ["2016 04 18", "2021 12 26"], 6, ["ger"], ["animation", "adventure"], ["bini"], ["Disney+"], ["Andrew Stanton"], [], "https://49.media.tumblr.com/786da0f609805cfac614bc391af0918c/tumblr_o5w8c393DH1v2s5upo1_250.jpg"],
+["film", ["WALL·E", "WALL·E - Der Letzte räumt die Erde auf", "WALL-E"], "2008", ["2016 04 18", "2021 12 26", "2026 01 11"], 6, ["ger"], ["animation", "adventure"], ["bini"], ["Disney+"], ["Andrew Stanton"], [], "https://49.media.tumblr.com/786da0f609805cfac614bc391af0918c/tumblr_o5w8c393DH1v2s5upo1_250.jpg"],
 	        
 ["film", ["Kingsman: The Secret Service"], "2014", ["2016 04 09", "2016 12 27", "2020 12 27"], 8, ["ger"], ["action", "adventure"], ["syl", "je"], ["DVD"], ["Matthew Vaughn"], ["Colin Firth", "Mark Strong", "Jack Davenport", "Samuel L. Jackson", "Michael Caine", "Taron Egerton", "Edward Holcroft", "Sofia Boutella", "Ralph Ineson"], "https://37.media.tumblr.com/27f85a150777cb16f3416c448e2f99ac/tumblr_o5dszzs1JV1v2s5upo1_250.jpg"],
 	        
@@ -3472,7 +3472,9 @@ var database = [
 
 ["film", ["Death Wish"], "2018", ["2026 01 03"], 8, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Eli Roth"], ["Bruce Willis", "Vincent D'Onofrio", "Dean Norris"], "https://64.media.tumblr.com/eb707eb125cde2c4ac8f999240d34c72/b060c49263de95a6-fe/s250x400/ac0985704f58edaadae0f1f4a20e6c98a854f2b0.jpg"],
 
-["film", ["When a Stranger Calls", "Unbekannter Anrufer"], "2006", ["2026 01 03"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Simon West"], ["Camilla Belle", "Katie Cassidy"], "https://64.media.tumblr.com/15bf53cd52c45ef51e517ee37f66dac5/7b8976b31e5a9446-ab/s250x400/1f114b5b9c290b6ea1d54bd846167c3e1a0ddcd0.jpg"]
+["film", ["When a Stranger Calls", "Unbekannter Anrufer"], "2006", ["2026 01 03"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Simon West"], ["Camilla Belle", "Katie Cassidy"], "https://64.media.tumblr.com/15bf53cd52c45ef51e517ee37f66dac5/7b8976b31e5a9446-ab/s250x400/1f114b5b9c290b6ea1d54bd846167c3e1a0ddcd0.jpg"],
+
+["book", ["Undead and Unwed", "Weiblich, ledig, untot"], "2002", [["2026 01 07", ""]], 0, ["ger"], ["fantasy"], [], ["watching", "bibliothek"], ["Mary Janice Davidson"], [], "https://64.media.tumblr.com/ecda88f39ddbf98e748921bc6ddb016c/56066c0bfe14a5ea-85/s250x400/5d77bf1cb9eff0320cc4cc39ba60febc19dc871a.jpg"]
 
 	/*
 ,
