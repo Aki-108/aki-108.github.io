@@ -580,7 +580,7 @@ var database = [
 	        
 ["film", ["The Lovely Bones", "In meinem Himmel"], "2009", ["2015 09 05"], 9, ["ger"], ["drama"], ["bini", "syl"], [], ["Peter Jackson"], ["Mark Wahlberg", "Stanley Tucci", "Saoirse Ronan", "AJ Michalka", "Peter Jackson", "Rachel Weisz"], "https://40.media.tumblr.com/59174cdcb45dae0ee391972f62671a27/tumblr_o0p4w7xCtV1v2s5upo1_250.jpg"],
 	        
-["film", ["Stand by Me", "Stand by Me: Das Geheimnis eines Sommers"], "1986", ["2015 09 10", "2016 09 25", "2025 10 05"], 9, ["ger", "eng"], ["adventure", "drama"], ["bini", "nico"], ["DVD"], ["Rob Reiner"], ["Jerry O'Connell"], "https://40.media.tumblr.com/bba18c1a5b52bf684b609263c5975760/tumblr_o0suhzhX1C1v2s5upo1_250.jpg"],
+["film", ["Stand by Me", "Stand by Me: Das Geheimnis eines Sommers"], "1986", ["2015 09 10", "2016 09 25", "2025 10 05"], 9, ["ger", "eng"], ["adventure", "drama"], ["bini", "nico"], ["DVD"], ["Rob Reiner"], ["Jerry O'Connell", "Kiefer Sutherland"], "https://40.media.tumblr.com/bba18c1a5b52bf684b609263c5975760/tumblr_o0suhzhX1C1v2s5upo1_250.jpg"],
 	        
 ["film", ["Pacific Rim"], "2013", ["2015 09 12", "2017 05 08"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "nico"], [], ["Guillermo del Toro"], ["Clifton Collins Jr.", "Ron Perlman", "Burn Gorman", "Cathy Cavadini", "Michelle Lee", "Charlie Hunnam", "Heather Doerksen"], "https://37.media.tumblr.com/a3c61f7b93f5a2d2e91773e76711125d/tumblr_o3kcz4exSZ1v2s5upo1_250.jpg"],
 	        
@@ -3474,7 +3474,13 @@ var database = [
 
 ["film", ["When a Stranger Calls", "Unbekannter Anrufer"], "2006", ["2026 01 03"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Simon West"], ["Camilla Belle", "Katie Cassidy"], "https://64.media.tumblr.com/15bf53cd52c45ef51e517ee37f66dac5/7b8976b31e5a9446-ab/s250x400/1f114b5b9c290b6ea1d54bd846167c3e1a0ddcd0.jpg"],
 
-["book", ["Undead and Unwed", "Weiblich, ledig, untot"], "2002", [["2026 01 07", ""]], 0, ["ger"], ["fantasy"], [], ["watching", "bibliothek"], ["Mary Janice Davidson"], [], "https://64.media.tumblr.com/ecda88f39ddbf98e748921bc6ddb016c/56066c0bfe14a5ea-85/s250x400/5d77bf1cb9eff0320cc4cc39ba60febc19dc871a.jpg"]
+["book", ["Undead and Unwed", "Weiblich, ledig, untot"], "2002", [["2026 01 07", ""]], 0, ["ger"], ["fantasy"], [], ["watching", "bibliothek"], ["Mary Janice Davidson"], [], "https://64.media.tumblr.com/ecda88f39ddbf98e748921bc6ddb016c/56066c0bfe14a5ea-85/s250x400/5d77bf1cb9eff0320cc4cc39ba60febc19dc871a.jpg"],
+
+["film", ["The Sixth Sense", "The Sixth Sense - Nicht jede Gabe ist ein Segen"], "1999", ["2026 01 11"], 6, ["ger"], ["drama", "mystery", "thriller"], [], ["Disney+"], ["M. Night Shyamalan"], ["Bruce Willis", "Toni Collette"], "https://64.media.tumblr.com/74ad411ca1a0e30cdb7bbd72b17cd705/4cb24dc9f4643d64-cc/s250x400/760af1b766a8637a7e4808b44258a468d8385e6e.jpg"],
+
+["film", ["The Sentinel", "The Sentinel - Wem kannst du trauen?"], "2006", ["2026 01 11"], 6, ["ger"], ["action", "crime", "thriller"], [], ["Netflix"], ["Clark Johnson"], ["Michael Douglas", "Kiefer Sutherland", "Eva Longoria"], "https://64.media.tumblr.com/c94f89769d148b17aa864c5625e5bf5a/bd120cf117b64caf-d6/s250x400/6899b79aad14478c8b7bfb58c070c3feb6ab23cf.jpg"],
+
+["series", ["Spy x Family"], "2022", [["2026 01 12", "", "S1"]], 0, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"]
 
 	/*
 ,
