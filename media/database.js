@@ -235,7 +235,7 @@ var database = [
 	        
 ["book", ["Night School"], "2012", [["2020 07 06", "2020 08 07"], ["2025 05 21", "2025 11 19"]], 7, ["eng"], ["young adult", "mystery", "romance"], [], ["Night School"], ["CJ Daugherty"], [], "https://64.media.tumblr.com/cebea2f804aa63da452512cfcc5aedda/9aa3cc75dcd3ca59-28/s250x400/8064e892565da9e205bda114424dfd59e4a5dde0.jpg"],
 	        
-["audiobook", ["Endurance: Shackleton's Incredible Voyage"], "1959", [["2020 06 15", "2020 06 20"], ["2026 01 07", ""]], 7, ["eng"], ["adventure"], [], ["watching"], ["Alfred Lansing"], [], "https://66.media.tumblr.com/b5df0d66dd388711a3457c388179528b/ed0904bc0d493248-ca/s250x400/badd02339b4c4a71f41c429cffa3a7b27d4c3ba3.jpg"],
+["audiobook", ["Endurance: Shackleton's Incredible Voyage"], "1959", [["2020 06 15", "2020 06 20"], ["2026 01 07", "2026 01 21"]], 7, ["eng"], ["adventure"], [], [], ["Alfred Lansing"], [], "https://66.media.tumblr.com/b5df0d66dd388711a3457c388179528b/ed0904bc0d493248-ca/s250x400/badd02339b4c4a71f41c429cffa3a7b27d4c3ba3.jpg"],
 	        
 ["audiobook", ["The Fault in Our Stars", "Das Schicksal ist ein mieser Verräter"], "2012", [["2020 06 11", "2020 06 15"]], 6, ["eng"], [], [], [], ["John Green"], [], "https://66.media.tumblr.com/39ba75a7b01954fcc20d319030ea40fe/85cedb8a8a2ae325-81/s250x400/b8f4f644b5f2e5e9c164e94ada878c0db4d3787f.jpg"],
 	        
@@ -2209,7 +2209,7 @@ var database = [
 
 ["series", ["Ella Schön"], ["2018", ""], [["2022 04 24", "S5E1"]], 6, ["ger"], ["comedy", "drama"], ["syl", "je"], ["ongoing"], ["Simon X. Rost", "Simon X. Rost", "Elke Rössler"], ["Annette Frier"], "https://64.media.tumblr.com/46fc5587af74ddb4f79f0f9dc338e24e/f048541a454c5bad-55/s250x400/46e7350ead1d9e1716c2db6598497e40fb038e27.jpg"],
 
-["book", ["Die drei ??? Kids 7: Gruft der Piraten"], "2000", [["2022 04 25", "2022 05 01"]], 7, ["ger"], [], [], ["Die drei ???", "bibliothek"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/76b1f777dfc0fb89c5ad8c53586721e1/8d07670ca5b77157-68/s250x400/8f912755974d94d3b791d6c40d746c044071c4fb.jpg"],
+["book", ["Die drei ??? Kids 007: Gruft der Piraten"], "2000", [["2022 04 25", "2022 05 01"]], 7, ["ger"], [], [], ["Die drei ???", "bibliothek"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/76b1f777dfc0fb89c5ad8c53586721e1/8d07670ca5b77157-68/s250x400/8f912755974d94d3b791d6c40d746c044071c4fb.jpg"],
 
 ["film", ["Slumdog Millionaire", "Slumdog Millionär"], "2008", ["2022 04 28"], 0, ["ger"], ["drama", "romance"], [], [], ["Danny Boyle", "Loveleen Tandan"], ["Dev Patel", "Irrfan Khan"], "https://64.media.tumblr.com/8492f47674370ff6d2b90f3c7d0d52b7/8968561d519a3d9b-2d/s250x400/faecb34b9870ccb5fac446f8c79a130ef96150a8.jpg"],
 
@@ -2573,7 +2573,7 @@ var database = [
 
 ["film", ["Ivy & Bean"], "2022", ["2023 04 02"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Elissa Down"], [], "https://64.media.tumblr.com/17ed89cba91cae1d88389b8311ea2d23/453ec9efd973dfe5-42/s250x400/ff63e6a87d7b8544262a75b6685d7a0d831c735e.jpg"],
 
-["audiobook", ["Die drei ??? Kids 91: Gefahr im Spiegelkabinett"], "2023", [["2023 04 02", "2023 04 10"]], 0, ["ger"], [], ["bini", "syl", "je"], ["Spotify", "Die drei ???"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/8389b5ee49c19e10834ce3953ad40d8d/0cf762a2dd565abb-a4/s250x400/350ed18a84139ef38c5f464db4f6b47e9070dd98.jpg"],
+["audiobook", ["Die drei ??? Kids 091: Gefahr im Spiegelkabinett"], "2023", [["2023 04 02", "2023 04 10"]], 0, ["ger"], [], ["bini", "syl", "je"], ["Spotify", "Die drei ???"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/8389b5ee49c19e10834ce3953ad40d8d/0cf762a2dd565abb-a4/s250x400/350ed18a84139ef38c5f464db4f6b47e9070dd98.jpg"],
 
 ["film", ["Sightless"], "2020", ["2023 04 02"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Cooper Karl"], ["Alexander Koch"], "https://64.media.tumblr.com/bb4df154c6aef1f9080f8c1616897329/c33462af5acdec77-fb/s250x400/14fb522683c4a4ecf9f726db78ce4e78c053d949.jpg"],
 
@@ -2601,13 +2601,13 @@ var database = [
 
 ["audiobook", ["Die drei ??? 221: Manuskript des Satans"], "2022", [["2023 04 16", "2023 05 27"]], 0, ["ger"], ["crime"], ["bini", "syl"], ["Spotify", "Die drei ???"], ["Hendrik Buchna"], [], "https://64.media.tumblr.com/d2ef2dd650388a86a9e5c7881bf2bdbe/60aa32ae7fdb8b6f-ab/s250x400/992103200b2c6ed51ad85d95dd43517ce0bbf4fe.jpg"],
 
-["audiobook", ["Die drei ??? Kids 23: Feuer in Rocky Beach"], "2009", ["2023 04 22"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Die drei ???"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/82bd5cf7d122e03315d9f22e739f85b6/94c4e8e48e64ca28-97/s250x400/eb4440c121233147c18ec470a920c995488dc14d.jpg"],
+["audiobook", ["Die drei ??? Kids 023: Feuer in Rocky Beach"], "2009", ["2023 04 22"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Die drei ???"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/82bd5cf7d122e03315d9f22e739f85b6/94c4e8e48e64ca28-97/s250x400/eb4440c121233147c18ec470a920c995488dc14d.jpg"],
 
 ["audiobook", ["Eine Stimme für den Tod"], "2021", [["2023 04 22", "2023 04 24"]], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/a6be2a52f30fcb3535389d76d06118a1/5a91df9091a5e415-1b/s250x400/5a4385c7c3efeef8a5c42dbb93265dabe675e8da.jpg"],
 
 ["film", ["Aquaman"], "2018", ["2023 04 23"], 4, ["ger"], ["action", "adventure"], ["bini", "je"], [], ["James Wan"], ["Jason Momoa", "Amber Heard", "Willem Dafoe", "Nicole Kidman", "Yahya Abdul-Mateen II"], "https://64.media.tumblr.com/86a1dade50305e323eb28211870af226/84cb510690d7d89b-90/s250x400/f2c5b16dd26d83de668b82c9420352eadfd57930.jpg"],
 
-["audiobook", ["Die drei ??? Kids 1: Panik im Paradies"], "2009", ["2023 04 29"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Die drei ???"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/4a7db1fd1ddf5a5a5878e227ad3f35c3/af17798e2f4ebb84-78/s250x400/f45430b9813cdadbbc51991eebaf57e2484544ab.jpg"],
+["audiobook", ["Die drei ??? Kids 001: Panik im Paradies"], "2009", ["2023 04 29"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["Die drei ???"], ["Ulf Blanck"], [], "https://64.media.tumblr.com/4a7db1fd1ddf5a5a5878e227ad3f35c3/af17798e2f4ebb84-78/s250x400/f45430b9813cdadbbc51991eebaf57e2484544ab.jpg"],
 
 ["series", ["Final Space"], ["2018", "2021"], [["2023 05 02", "2023 05 08", "S1"], ["2023 05 21", "2023 05 29", "S2"], ["2023 05 29", "2023 06 12", "S3"]], 6, ["ger"], ["animation", "action"], ["bini", "nico"], ["Netflix"], ["Olan Rogers"], [], "https://64.media.tumblr.com/c578a4deff97dcf3e3fd8b6c002abb8c/503d75b293ac7774-34/s250x400/7eddf25a9532a9fb1bdbbc2db6732f487ea547db.jpg"],
 
@@ -2636,7 +2636,7 @@ var database = [
 
 ["audiobook", ["My Heart and Other Black Holes", "Mein Herz und andere schwarze Löscher"], "2015", [["2023 06 02", "2023 06 09"]], 8, ["ger"], ["young adult"], [], ["bibliothek"], ["Jasmine Warga"], ["Inka Löwendorf"], "https://64.media.tumblr.com/ac9b8e0de6df3145704e6b8e71610830/98b254b9863d6d78-01/s250x400/2ed8ee7dac608ad82b543bf8890ac15a4afff26b.jpg"],
 
-["audiobook", ["Die drei ??? Kids 77: Die Musikdiebe"], "2018", [["2023 06 03", ""]], 0, ["ger"], ["crime"], ["bini", "syl"], ["Spotify"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/42f0829b1e07f8ae3c9b33509e188d5b/9020aac709d46be3-f6/s250x400/671fef06c5407a00446efe1d80796ae8acf4c4b5.jpg"],
+["audiobook", ["Die drei ??? Kids 077: Die Musikdiebe"], "2018", [["2023 06 03", ""]], 0, ["ger"], ["crime"], ["bini", "syl"], ["Spotify"], ["Boris Pfeiffer"], [], "https://64.media.tumblr.com/42f0829b1e07f8ae3c9b33509e188d5b/9020aac709d46be3-f6/s250x400/671fef06c5407a00446efe1d80796ae8acf4c4b5.jpg"],
 
 ["film", ["Airplane II: The Sequel", "Die unglaubliche Reise in einem verrückten Raumschiff"], "1982", ["2023 06 03"], 5, ["ger"], ["comedy"], ["bini", "syl", "je"], [], ["Ken Finkleman"], [], "https://64.media.tumblr.com/d82db766a50555cf4c32e818830ff3f2/f046b65b45e3005b-3b/s250x400/d963e9b2fbcf2236cdeea605f12c83ba1f1684c2.jpg"],
 
@@ -3480,7 +3480,9 @@ var database = [
 
 ["film", ["The Sentinel", "The Sentinel - Wem kannst du trauen?"], "2006", ["2026 01 11"], 6, ["ger"], ["action", "crime", "thriller"], [], ["Netflix"], ["Clark Johnson"], ["Michael Douglas", "Kiefer Sutherland", "Eva Longoria"], "https://64.media.tumblr.com/c94f89769d148b17aa864c5625e5bf5a/bd120cf117b64caf-d6/s250x400/6899b79aad14478c8b7bfb58c070c3feb6ab23cf.jpg"],
 
-["series", ["Spy x Family"], "2022", [["2026 01 12", "", "S1"]], 0, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"]
+["series", ["Spy x Family"], "2022", [["2026 01 12", "", "S1"]], 0, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
+
+["audiobook", ["Die drei ??? 001: und der Super-Papagei"], "1964", ["", "2026 01 22"], 5, ["ger"], ["crime"], [], ["Die drei ???"], ["Robert Arthur"], [], "https://64.media.tumblr.com/c346f98ec7609136acd3b1ee867e3200/d85178e1fcd12b23-c7/s250x400/38d321290947eb56abbc3b312460f0174dc24970.jpg"]
 
 	/*
 ,
