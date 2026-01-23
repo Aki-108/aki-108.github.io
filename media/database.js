@@ -500,7 +500,7 @@ var database = [
 	        
 ["film", ["The Hunger Games", "Die Tribute von Panem - The Hunger Games"], "2012", ["2015 11 08", "2016 10 10", "2022 12 10", "2025 03 15", "2025 12 25"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], ["Hunger Games", "Netflix"], ["Gary Ross"], ["Stanley Tucci", "Jennifer Lawrence", "Liam Hemsworth", "Elizabeth Banks", "Woody Harrelson", "Isabelle Fuhrman", "Josh Hutcherson", "Mackenzie Lintz", "Sandra Ellis Lafferty", "Rhoda Griffis", "Alexander Ludwig", "Dayo Okeniyi", "Donald Sutherland", "Wes Bentley"], "https://66.media.tumblr.com/a24245b34e92ec6447ebf36186441831/tumblr_px704ncX2r1v2s5upo1_250.jpg"],
 	        
-["film", ["The Hunger Games: Catching Fire", "Die Tribute von Panem - Catching Fire"], "2013", ["2015 11 12", "2016 10 11", "2022 12 17", "2025 03 15", "2025 12 26"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Hunger Games", "Netflix"], ["Francis Lawrence"], ["Jennifer Lawrence", "Liam Hemsworth", "Woody Harrelson", "Josh Hutcherson", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Sandra Ellis Lafferty", "Jeffrey Wright", "Donald Sutherland"], "https://66.media.tumblr.com/f7b4170e92e5bc06aaee4193e449a0c9/tumblr_ppuwk10qr21v2s5upo1_250.jpg"],
+["film", ["The Hunger Games: Catching Fire", "Die Tribute von Panem - Catching Fire"], "2013", ["2015 11 12", "2016 10 11", "2022 12 17", "2025 03 15", "2025 12 26"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Hunger Games", "Netflix"], ["Francis Lawrence"], ["Jennifer Lawrence", "Liam Hemsworth", "Woody Harrelson", "Josh Hutcherson", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Sandra Ellis Lafferty", "Jeffrey Wright", "Donald Sutherland", "Amanda Plummer"], "https://66.media.tumblr.com/f7b4170e92e5bc06aaee4193e449a0c9/tumblr_ppuwk10qr21v2s5upo1_250.jpg"],
 	        
 ["film", ["The Hunger Games: Mockingjay - Part 1", "Die Tribute von Panem - Mockingjay: Teil 1"], "2014", ["2016 10 13", "2022 12 27", "2025 03 16", "2025 12 27"], 7, ["ger"], ["action", "adventure"], ["bini"], ["Hunger Games", "Netflix"], ["Francis Lawrence"], ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Julianne Moore", "Elizabeth Banks", "Stanley Tucci", "Jena Malone", "Mahershala Ali", "Elden Henson", "Jeffrey Wright", "Donald Sutherland", "Sarita Choudhury"], "https://68.media.tumblr.com/e43757394967e00f9c522eddb839f143/tumblr_of03elLgxw1v2s5upo1_250.jpg"],
 	        
@@ -618,7 +618,7 @@ var database = [
 	        
 ["film", ["Split"], "2016", ["2017 02 04", "2019 02 02", "2020 09 28", "2025 11 29"], 8, ["ger", "eng"], ["horror", "thriller"], ["syl"], ["Eastrail 177", "Kino", "DVD", "Disney+"], ["M. Night Shyamalan"], ["James McAvoy", "Anya Taylor-Joy", "Betty Buckley", "Bruce Willis"], "https://68.media.tumblr.com/c97742e705faeb4107c44333b6d08407/tumblr_okvc0ubTvD1v2s5upo1_250.jpg"],
 	        
-["film", ["Pretty in Pink"], "1986", ["2017 02 04"], 6, ["ger"], ["comedy", "drama"], [], [], ["Howard Deutch"], ["Molly Ringwald", "Jon Cryer"], "https://68.media.tumblr.com/536a8daae8af15bd330e30d2f20b2a1c/tumblr_okvc3qB3zY1v2s5upo1_250.jpg"],
+["film", ["Pretty in Pink"], "1986", ["2017 02 04"], 6, ["ger"], ["comedy", "drama"], [], [], ["Howard Deutch"], ["Molly Ringwald", "Jon Cryer", "Margaret Colin"], "https://68.media.tumblr.com/536a8daae8af15bd330e30d2f20b2a1c/tumblr_okvc3qB3zY1v2s5upo1_250.jpg"],
 	        
 ["film", ["Avatar", "Avatar - Aufbruch nach Pandora"], "2009", ["2017 02 13", "2018 07 14"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], [], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Michelle Rodriguez", "Giovanni Ribisi", "Stephen Lang"], "https://68.media.tumblr.com/b624a80e83ee671903da746329d4eea1/tumblr_olj7dc7cje1v2s5upo1_250.jpg"],
 	        
@@ -1240,7 +1240,7 @@ var database = [
 	        
 ["film", ["Carol"], "2015", ["2016 06 27"], 7, ["ger"], ["drama", "romance"], [], ["LGBT"], ["Todd Haynes"], ["Cate Blanchett", "Rooney Mara", "Kyle Chandler", "Sarah Paulson", "Kk Heim"], "https://66.media.tumblr.com/b9c5f989d5955964de7b7bc26584ea9c/tumblr_o9fzljBmU61v2s5upo1_250.jpg"],
 	        
-["film", ["Independence Day"], "1996", ["2016 01 04"], 4, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], [], ["Roland Emmerich"], ["Will Smith", "Jeff Goldblum", "Nectar Rose", "Bill Pullman", "Lyman Ward"], "https://40.media.tumblr.com/1c241f9742132261647f8c95854d70b1/tumblr_o0hue6vBOk1v2s5upo1_250.jpg"],
+["film", ["Independence Day"], "1996", ["2016 01 04"], 4, ["ger"], ["action", "adventure", "sci-fi"], ["bini"], [], ["Roland Emmerich"], ["Will Smith", "Jeff Goldblum", "Nectar Rose", "Bill Pullman", "Lyman Ward", "Margaret Colin"], "https://40.media.tumblr.com/1c241f9742132261647f8c95854d70b1/tumblr_o0hue6vBOk1v2s5upo1_250.jpg"],
 	        
 ["film", ["Big Fish", "Big Fish - Der Zauber, der ein Leben zur Legende macht"], "2003", ["2016 01 08"], 7, ["ger"], ["adventure", "drama"], [], [], ["Tim Burton"], ["Jessica Lange", "Helena Bonham Carter", "Alison Lohman", "Marion Cotillard", "Missi Pyle", "Steve Buscemi", "Danny DeVito", "Miley Cyrus", "Missi Pyle", "Ewan McGregor"], "https://49.media.tumblr.com/410a7be367e3e6c243cc122e68efbcf3/tumblr_o0osoajt031v2s5upo1_250.jpg"],
 	        
@@ -1326,7 +1326,7 @@ var database = [
 	        
 ["film", ["One Night"], "2016", ["2017 12 09"], 6, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Minhal Baig"], ["Isabelle Fuhrman", "Kyle Allen"], "https://66.media.tumblr.com/d6a901f32b26e881ea5f4acb09835a4b/tumblr_pyqyl3sLfF1v2s5upo1_250.jpg"],
 	        
-["film", ["Tramps"], "2016", ["2017 12 06"], 7, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Adam Leon"], ["Callum Turner", "Grace Van Patten"], "https://66.media.tumblr.com/6a3f92af483ba944d9507c89e204be3e/tumblr_pyqygl4GOI1v2s5upo1_250.jpg"],
+["film", ["Tramps"], "2016", ["2017 12 06"], 7, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Adam Leon"], ["Callum Turner", "Grace Van Patten", "Margaret Colin"], "https://66.media.tumblr.com/6a3f92af483ba944d9507c89e204be3e/tumblr_pyqygl4GOI1v2s5upo1_250.jpg"],
 	        
 ["short", ["Little Witch Academia"], "2013", ["2017 09 29"], 7, ["jap"], ["anime"], ["nico", "bini"], [], ["Yô Yoshinari"], [], "https://66.media.tumblr.com/9f4565eb9e24653aca832b8dab1416f2/tumblr_pxxeb9Fe3O1v2s5upo1_250.jpg"],
 	        
@@ -3084,7 +3084,7 @@ var database = [
 
 ["film", ["Buffy the Vampire Slayer", "Buffy, der Vampirkiller"], "1992", ["2024 10 06"], 6, ["ger"], ["action", "comedy"], [], ["Disney+"], ["Fran Rubel Kuzui"], ["Ben Affleck"], "https://64.media.tumblr.com/8ae3a277bdfcbfdbabe67caac3adb57a/9ead710d66ac2d18-42/s250x400/f219009464535723fb0fcc692f0dab2b5e8412c9.jpg"],
 
-["film", ["First Daughter", "Ein Date mit Hindernissen"], "2004", ["2024 10 06"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Forest Whitaker"], ["Justine Wachsberger", "Michael Keaton"], "https://64.media.tumblr.com/9b63715861115852aec81b3434738603/ddccf5886aafe3fb-2c/s250x400/f4471169938f91eca71a6c5ffce73c85a00e37f0.jpg"],
+["film", ["First Daughter", "Ein Date mit Hindernissen"], "2004", ["2024 10 06"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Forest Whitaker"], ["Justine Wachsberger", "Michael Keaton", "Margaret Colin"], "https://64.media.tumblr.com/9b63715861115852aec81b3434738603/ddccf5886aafe3fb-2c/s250x400/f4471169938f91eca71a6c5ffce73c85a00e37f0.jpg"],
 
 ["film", ["The Mummy", "Die Mumie"], "2017", ["2024 10 06"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Alex Kurtzman"], ["Tom Cruise", "Jake Johnson", "Annabelle Wallis", "Sofia Boutella", "Marwan Kenzari"], "https://64.media.tumblr.com/fc4c921657d02c114f2de0320683ddf2/ae12e8cbf49f0d73-f3/s250x400/786f5782d10be85b92c519ac9b104f1d17cd217b.jpg"],
 
@@ -3338,7 +3338,7 @@ var database = [
 
 ["film", ["Bad Influence", "Mala Influencia - Verbotene Liebe", "Mala influencia"], "2025", ["2025 08 16"], 5, ["ger"], ["romance", "thriller"], [], ["Netflix"], ["Chloé Wallace"], ["Enrique Arce"], "https://64.media.tumblr.com/70f340f9ff0f071dccf3a47d1fbfe55e/a7ade893087c975a-0d/s250x400/c62f1aa04f817e6b58346ffcda9f1bbef2fcb435.jpg"],
 
-["series", ["Gossip Girl"], ["2007", "2012"], [["2025 08 17", "2025 09 05", "S1"]], 5, ["ger"], ["drama", "romance"], [], ["Netflix", "ongoing"], ["Stephanie Savage", "Josh Schwartz"], ["Blake Lively", "Penn Badgley", "Michelle Trachtenberg", "Katie Cassidy"], "https://64.media.tumblr.com/05b1a437aee8e0579909868e8aa969fb/975d5281a3831f94-41/s250x400/065313728895864387687994dc7264093c00442b.jpg"],
+["series", ["Gossip Girl"], ["2007", "2012"], [["2025 08 17", "2025 09 05", "S1"]], 5, ["ger"], ["drama", "romance"], [], ["Netflix", "ongoing"], ["Stephanie Savage", "Josh Schwartz"], ["Blake Lively", "Penn Badgley", "Michelle Trachtenberg", "Katie Cassidy", "Margaret Colin"], "https://64.media.tumblr.com/05b1a437aee8e0579909868e8aa969fb/975d5281a3831f94-41/s250x400/065313728895864387687994dc7264093c00442b.jpg"],
 
 ["film", ["Taxi", "New York Taxi"], "2004", ["2025 08 21"], 7, ["ger"], ["action", "comedy", "crime"], [], ["Netflix"], ["Tim Story"], ["Queen Latifah", "Jimmy Fallon", "Gisele Bündchen", "Adrian Martinez", "John Krasinski"], "https://64.media.tumblr.com/0d74ea00b7041b73926c206f716ef268/3a3b1777377a90fa-30/s250x400/60a26cc2e7cd050ae8f66981c9be267a8086d166.jpg"],
 
@@ -3482,7 +3482,27 @@ var database = [
 
 ["series", ["Spy x Family"], "2022", [["2026 01 12", "", "S1"]], 0, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
 
-["audiobook", ["Die drei ??? 001: und der Super-Papagei"], "1964", ["", "2026 01 22"], 5, ["ger"], ["crime"], [], ["Die drei ???"], ["Robert Arthur"], [], "https://64.media.tumblr.com/c346f98ec7609136acd3b1ee867e3200/d85178e1fcd12b23-c7/s250x400/38d321290947eb56abbc3b312460f0174dc24970.jpg"]
+["series", ["Who Is Erin Carter"], "2023", [["2026 01 17", "", "S1"]], 0, ["ger"], ["action", "crime"], [], ["Netflix", "watching"], ["Jack Lothian"], [], "https://64.media.tumblr.com/308e8bdd99e629536db4db4aea54901b/5413021a12b322a7-a4/s250x400/00a51f0d7e07f53dbee85cfbaba6df0f7d212417.jpg"],
+
+["film", ["The Devil's Own", "Vertrauter Feind"], "1997", ["2026 01 17"], 4, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Alan J. Pakula"], ["Harrison Ford", "Brad Pitt", "Margaret Colin"], "https://64.media.tumblr.com/d04c93768b7ac3b0bcd82cae48e6aa9f/1b4e90499d8fef2c-09/s250x400/34ac1f88b7c4083f531b49ef665c5cb229abca51.jpg"],
+
+["film", ["The Negotiator", "Verhandlungssache"], "1998", ["2026 01 17"], 6, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["F. Gary Gray"], ["Samuel L. Jackson", "Kevin Spacey", "Paul Giamatti", "Dean Norris", "Lily Gibson"], "https://64.media.tumblr.com/41ece479349d2735043f3383b7098c8d/606687e9ef2c90bc-68/s250x400/44ca69299aaa01efc18f6d7c53ded15aab06970e.jpg"],
+
+["film", ["Safe House"], "2012", ["2026 01 17"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Daniel Espinosa"], ["Ryan Reynolds", "Vera Farmiga", "Brendan Gleeson", "Nora Arnezeder"], "https://64.media.tumblr.com/d0871b48099c24127ba51acb18057659/00c1c7ac54931218-36/s250x400/d4e023a1ef5fd5bb637d50f52c654c2dca46faa5.jpg"],
+
+["film", ["Pulp Fiction"], "1994", ["2026 01 17"], 6, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Quentin Tarantino"], ["Tim Roth", "Amanda Plummer", "John Travolta", "Samuel L. Jackson", "Burr Steers", "Bruce Willis", "Ving Rhames", "Uma Thurman", "Steve Buscemi", "Christopher Walken"], "https://64.media.tumblr.com/d29075bbe9a5be68649490cf10f12814/30ba486bfbb7bf96-09/s250x400/e7d188b9dce33ca3b93d5fe7ec133491f1175995.jpg"],
+
+["type", ["title"], "pub year", ["dates"], rating, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"],
+
+["type", ["title"], "pub year", ["dates"], rating, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"],
+
+["type", ["title"], "pub year", ["dates"], rating, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"],
+
+["type", ["title"], "pub year", ["dates"], rating, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"],
+
+["audiobook", ["Die drei ??? 001: und der Super-Papagei"], "1964", ["", "2026 01 22"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/c346f98ec7609136acd3b1ee867e3200/d85178e1fcd12b23-c7/s250x400/38d321290947eb56abbc3b312460f0174dc24970.jpg"],
+
+["audiobook", ["Die drei ??? 002: und der Phantomsee"], "1973", ["", "2026 01 23"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/9a9ac2a470789576a58f7741f7803bf9/e9368780cb92a358-a1/s250x400/e5ec31c5815c998fd10230628c36ab9c43c6c37d.jpg"]
 
 	/*
 ,
