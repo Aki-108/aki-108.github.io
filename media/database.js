@@ -3312,7 +3312,7 @@ var database = [
 
 ["series", ["Adolescence"], "2025", [["2025 07 18", "2025 07 19", "S1"]], 7, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Stephen Graham", "Jack Thorne"], ["Stephen Graham"], "https://64.media.tumblr.com/b1ccc0b0a072467b3ae6697109ddb25f/75c355350738ffa9-2d/s250x400/28b99639b695246ae4878018ee37400088603714.jpg"],
 
-["series", ["Percy Jackson and the Olympians"], "2023", [["2025 07 19", "S1"]], 6, ["ger"], ["action", "adventure"], ["jessie"], ["Disney+"], ["ick Riordan", "Jonathan E. Steinberg"], ["Walker Scobell", "Aryan Simhadri"], "https://64.media.tumblr.com/86f876e8619e073ce7ed62c55cb92fa5/5e2d619944a88933-d2/s250x400/d99db9393559f1a46c843bfd665ae8f503f06f15.jpg"],
+["series", ["Percy Jackson and the Olympians"], "2023", [["2025 07 19", "S1"], ["2026 01 24", "S2"]], 6, ["ger"], ["action", "adventure"], ["jessie"], ["Disney+"], ["Rick Riordan", "Jonathan E. Steinberg"], ["Walker Scobell", "Aryan Simhadri"], "https://64.media.tumblr.com/86f876e8619e073ce7ed62c55cb92fa5/5e2d619944a88933-d2/s250x400/d99db9393559f1a46c843bfd665ae8f503f06f15.jpg"],
 
 ["film", ["Zombies 4: Dawn of the Vampires"], "2025", ["2025 07 20"], 7, ["ger"], ["musical", "adventure", "comedy", "family"], ["bini"], ["Disney+"], ["Paul Hoen"], ["Meg Donnelly", "Milo Manheim"], "https://64.media.tumblr.com/8e486537d6c3c4ad8102c0ccafa23a5d/d136ac2163792b4f-f3/s250x400/eccee96c05317c5d5ee59f52fbe2fa547178c0df.jpg"],
 
@@ -3502,7 +3502,9 @@ var database = [
 
 ["audiobook", ["Die drei ??? 001: und der Super-Papagei"], "1964", ["", "2026 01 22"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/c346f98ec7609136acd3b1ee867e3200/d85178e1fcd12b23-c7/s250x400/38d321290947eb56abbc3b312460f0174dc24970.jpg"],
 
-["audiobook", ["Die drei ??? 002: und der Phantomsee"], "1973", ["", "2026 01 23"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/9a9ac2a470789576a58f7741f7803bf9/e9368780cb92a358-a1/s250x400/e5ec31c5815c998fd10230628c36ab9c43c6c37d.jpg"]
+["audiobook", ["Die drei ??? 002: und der Phantomsee"], "1973", ["", "2026 01 23"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/9a9ac2a470789576a58f7741f7803bf9/e9368780cb92a358-a1/s250x400/e5ec31c5815c998fd10230628c36ab9c43c6c37d.jpg"],
+
+["audiobook", ["Die drei ??? 003: und der Karpatenhund"], "1975", [["2026 01 23", "2026 01 24"]], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/aed3f2a3679a4006e517de2d4af863a4/d4a22a828b6c64b2-d8/s250x400/4fcf1b176ed07618cff39de50dd56d45d5424d2f.jpg"]
 
 	/*
 ,
