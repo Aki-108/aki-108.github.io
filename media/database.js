@@ -3482,7 +3482,7 @@ var database = [
 
 ["series", ["Spy x Family"], "2022", [["2026 01 12", "", "S1"]], 0, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
 
-["series", ["Who Is Erin Carter"], "2023", [["2026 01 17", "", "S1"]], 0, ["ger"], ["action", "crime"], [], ["Netflix", "watching"], ["Jack Lothian"], [], "https://64.media.tumblr.com/308e8bdd99e629536db4db4aea54901b/5413021a12b322a7-a4/s250x400/00a51f0d7e07f53dbee85cfbaba6df0f7d212417.jpg"],
+["series", ["Who Is Erin Carter"], "2023", [["2026 01 17", "2026 01 25", "S1"]], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Jack Lothian"], [], "https://64.media.tumblr.com/308e8bdd99e629536db4db4aea54901b/5413021a12b322a7-a4/s250x400/00a51f0d7e07f53dbee85cfbaba6df0f7d212417.jpg"],
 
 ["film", ["The Devil's Own", "Vertrauter Feind"], "1997", ["2026 01 17"], 4, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Alan J. Pakula"], ["Harrison Ford", "Brad Pitt", "Margaret Colin"], "https://64.media.tumblr.com/d04c93768b7ac3b0bcd82cae48e6aa9f/1b4e90499d8fef2c-09/s250x400/34ac1f88b7c4083f531b49ef665c5cb229abca51.jpg"],
 
