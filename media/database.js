@@ -3504,7 +3504,19 @@ var database = [
 
 ["audiobook", ["Die drei ??? 002: und der Phantomsee"], "1973", ["", "2026 01 23"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/9a9ac2a470789576a58f7741f7803bf9/e9368780cb92a358-a1/s250x400/e5ec31c5815c998fd10230628c36ab9c43c6c37d.jpg"],
 
-["audiobook", ["Die drei ??? 003: und der Karpatenhund"], "1975", [["2026 01 23", "2026 01 24"]], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/aed3f2a3679a4006e517de2d4af863a4/d4a22a828b6c64b2-d8/s250x400/4fcf1b176ed07618cff39de50dd56d45d5424d2f.jpg"]
+["audiobook", ["Die drei ??? 003: und der Karpatenhund"], "1975", [["2026 01 23", "2026 01 24"]], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/aed3f2a3679a4006e517de2d4af863a4/d4a22a828b6c64b2-d8/s250x400/4fcf1b176ed07618cff39de50dd56d45d5424d2f.jpg"],
+
+["audiobook", ["Die drei ??? 004: und die schwarze Katze"], "1970", [["2026 01 24", "2026 01 26"]], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/db1436c6b080e93389c12f81588d5aa3/0cb09f0a8b24077e-e1/s250x400/0c094a2f75e7441443eb452c57e58d58450cc017.jpg"],
+
+["series", ["Cat's Eye"], ["1983", "1985"], [["2026 01 25", ""]], 0, ["ger"], ["action", "comedy"], [], ["Disney+", "watching"], [], [], "https://64.media.tumblr.com/7f194c39c337b430dc988ee6f5be9d9a/b2f616f5e32afe67-f7/s250x400/b7ad8d78cc89ef42997dff8989f02c0721a509e5.jpg"],
+
+["audiobook", ["Die drei ??? 005: und der Fluch des Rubins"], "1967", [["2026 01 26", "2026 01 27"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/d37fb0629a6564db1b5b46b7104c0e2d/9b3a815442cfdd0d-6d/s250x400/cc125b4be2e435a0c48e5e9a616d9ee1e9183458.jpg"],
+
+["series", ["Welcome to the N.H.K.", "Welcome to the N.H.K.", "NHK ni Youkoso!"], "2006", [["2026 01 26", ""]], 0, ["ger"], ["comedy"], ["bini", "nico"], ["watching"], [], [], "https://64.media.tumblr.com/d300f461e091db686e1fdaee7f67b79e/d2ea1552cc24ef59-57/s250x400/11a1d9d1677d4b7e3b01ff6171389b211d8d34c4.jpg"],
+
+["audiobook", ["Die drei ??? 006: und der sprechende Totenkopf"], "1969", ["2026 01 27"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/10c6d7a825843ae850d1c39041f1074e/c6310e0a2873c0b9-45/s250x400/7cadc0175ef7de6121b5dcf9d124976fca5fba15.jpg"],
+
+["audiobook", ["Die drei ??? 007: und der unheimliche Drache"], "1970", [["2026 01 24", "2026 01 26"]], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/591159e1ba5bb09bc199c55007ebbd52/b53d8074ec2694a0-e5/s250x400/3d49979752887e2d32a3fcc227867f21940a774a.jpg"]
 
 	/*
 ,
