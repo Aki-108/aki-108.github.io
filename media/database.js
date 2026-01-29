@@ -3516,7 +3516,9 @@ var database = [
 
 ["audiobook", ["Die drei ??? 006: und der sprechende Totenkopf"], "1969", ["2026 01 27"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/10c6d7a825843ae850d1c39041f1074e/c6310e0a2873c0b9-45/s250x400/7cadc0175ef7de6121b5dcf9d124976fca5fba15.jpg"],
 
-["audiobook", ["Die drei ??? 007: und der unheimliche Drache"], "1970", [["2026 01 24", "2026 01 26"]], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/591159e1ba5bb09bc199c55007ebbd52/b53d8074ec2694a0-e5/s250x400/3d49979752887e2d32a3fcc227867f21940a774a.jpg"]
+["audiobook", ["Die drei ??? 007: und der unheimliche Drache"], "1970", [["2026 01 24", "2026 01 26"]], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/591159e1ba5bb09bc199c55007ebbd52/b53d8074ec2694a0-e5/s250x400/3d49979752887e2d32a3fcc227867f21940a774a.jpg"],
+
+["audiobook", ["Die drei ??? 008: und der grüne Geist"], "1965", [["2026 01 28", "2026 01 29"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/1e6abcd1b636b2caf14b1e2a75d4d223/3f57826712d08722-c5/s250x400/cccf3004f801d536b6952717d16010d087a95b5b.jpg"]
 
 	/*
 ,
