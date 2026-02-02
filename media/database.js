@@ -3480,7 +3480,7 @@ var database = [
 
 ["film", ["The Sentinel", "The Sentinel - Wem kannst du trauen?"], "2006", ["2026 01 11"], 6, ["ger"], ["action", "crime", "thriller"], [], ["Netflix"], ["Clark Johnson"], ["Michael Douglas", "Kiefer Sutherland", "Eva Longoria"], "https://64.media.tumblr.com/c94f89769d148b17aa864c5625e5bf5a/bd120cf117b64caf-d6/s250x400/6899b79aad14478c8b7bfb58c070c3feb6ab23cf.jpg"],
 
-["series", ["Spy x Family"], "2022", [["2026 01 12", "", "S1"]], 0, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
+["series", ["Spy x Family"], "2022", [["2026 01 12", "2026 02 02", "S1"], ["2026 02 02", "", "S2"]], 0, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
 
 ["series", ["Who Is Erin Carter"], "2023", [["2026 01 17", "2026 01 25", "S1"]], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Jack Lothian"], [], "https://64.media.tumblr.com/308e8bdd99e629536db4db4aea54901b/5413021a12b322a7-a4/s250x400/00a51f0d7e07f53dbee85cfbaba6df0f7d212417.jpg"],
 
@@ -3526,7 +3526,7 @@ var database = [
 
 ["film", ["The Client", "Der Klient"], "1994", ["2026 01 31"], 7, ["ger"], ["crime", "drama", "mystery"], [], ["Netflix"], ["Joel Schumacher"], ["Susan Sarandon", "Tommy Lee Jones", "Mary-Louise Parker", "J.T. Walsh"], "https://64.media.tumblr.com/501bdcc4520ba4a54a05f39f2815e1d1/a6e3a86b507091a9-22/s250x400/6ffef8ec39c4ddfe914d9f791f9a2118d5f14b4a.jpg"],
 
-["audiobook", ["The Secret of Terror Castle", "Die drei ??? 011: und das Gespensterschloss"], "1964", [["2026 01 31", ""]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???", "watching"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/728d593e77791bd83d5ec9495b61692e/e4cfbce051aaf154-f2/s250x400/3e18bf3e451a70e486734ed5dd2ef24cd2c7f29a.jpg"],
+["audiobook", ["The Secret of Terror Castle", "Die drei ??? 011: und das Gespensterschloss"], "1964", [["2026 01 31", "2026 02 02"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/728d593e77791bd83d5ec9495b61692e/e4cfbce051aaf154-f2/s250x400/3e18bf3e451a70e486734ed5dd2ef24cd2c7f29a.jpg"],
 
 ["film", ["The Juror", "Nicht schuldig"], "1996", ["2026 02 01"], 6, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["Brian Gibson"], ["Alec Baldwin", "Joseph Gordon-Levitt"], "https://64.media.tumblr.com/00eb1347a08a4bfd854e74b880c2a7f2/bb65b18edca90c52-57/s250x400/9a9c1f69bb01fb9d47ae7b843f5057745c3df870.jpg"]
 
