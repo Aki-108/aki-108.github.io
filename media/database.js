@@ -3530,17 +3530,17 @@ var database = [
 
 ["film", ["The Juror", "Nicht schuldig"], "1996", ["2026 02 01"], 6, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["Brian Gibson"], ["Alec Baldwin", "Joseph Gordon-Levitt"], "https://64.media.tumblr.com/00eb1347a08a4bfd854e74b880c2a7f2/bb65b18edca90c52-57/s250x400/9a9c1f69bb01fb9d47ae7b843f5057745c3df870.jpg"],
 
-["audiobook", ["The Mystery of the Screaming Clock", "Die drei ??? 012: und der seltsame Wecker"], "1968", ["2026 02 02"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Screaming Clock", "Die drei ??? 012: und der seltsame Wecker"], "1968", ["2026 02 02"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/4b3bf2fcc0625dd5dab9ea24ca820604/2357570c706e1de7-2f/s250x400/0894067f7a4c815aed8795b227a12c1bb1d3119b.jpg"],
 
-["audiobook", ["The Mystery of the Laughing Shaddow", "Die drei ??? 013: und der lachende Schatten"], "1969", ["2026 02 03"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Laughing Shaddow", "Die drei ??? 013: und der lachende Schatten"], "1969", ["2026 02 03"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/e0108a0e6fb117e52c32dc15d26bb749/aea5d47d2901ddfb-d2/s250x400/7151363d49b41687f49b59be0cac0ab11ce4a3fa.jpg"],
 
-["audiobook", ["The Mystery of Monster Mountian", "Die drei ??? 014: und das Bergmonster"], "1973", ["2026 02 03"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of Monster Mountian", "Die drei ??? 014: und das Bergmonster"], "1973", ["2026 02 03"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/170d1991fb3fdc7394b03e0e720e762c/18b64b72061ea00f-99/s250x400/5a47e9d8a5c4e1f432ed21bd8755f814850e26bc.jpg"],
 
-["audiobook", ["The Mystery of the Nervous Lion", "Die drei ??? 015: und der rasende Löwe"], "1971", ["2026 02 03"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Nick West"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Nervous Lion", "Die drei ??? 015: und der rasende Löwe"], "1971", ["2026 02 03"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Nick West"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/22541b6de1eabe4a0c7adc77201e35e3/39dd26792c5f34d0-83/s250x400/33d5a497cca9cd1edf9151e1c79a185fc016261e.jpg"],
 
-["audiobook", ["The Secret of the Haunted Mirror", "Die drei ??? 016: und der Zauberspiegel"], "1974", ["2026 02 04"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Secret of the Haunted Mirror", "Die drei ??? 016: und der Zauberspiegel"], "1974", ["2026 02 04"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/a2ed7758d0ad90e31e212566ea278c24/33ed53792333dafc-6c/s250x400/db2a3a6b1043413b6de33f283a4da4ec8d81fae3.jpg"],
 
-["audiobook", ["The Mystery of the Death Man's Riddle", "Die drei ??? 017: und die gefährliche Erbschaft"], "1974", ["2026 02 04"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
+["audiobook", ["The Mystery of the Death Man's Riddle", "Die drei ??? 017: und die gefährliche Erbschaft"], "1974", ["2026 02 04"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/158509696c23a922960f649c3ceaea1a/03c23fe47b5ee479-7c/s250x400/fb3ea85bb86b239f18ab77c6465594756a4f1946.jpg"]
 
 	/*
 ,
