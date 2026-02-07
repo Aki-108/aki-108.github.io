@@ -101,7 +101,7 @@ var database = [
 	        
 ["film", ["The Secret Life of Walter Mitty", "Das erstaunliche Leben des Walter Mitty"], "2013", ["2015 07 20", "2015 12 05", "2020 05 08"], 10, ["ger"], ["adventure", "comedy", "drama"], [], ["Kino"], ["Ben Stiller"], ["Ben Stiller", "Kristen Wiig", "Ólafur Darri Ólafsson", "Adrian Martinez", "Kathryn Hahn", "Patton Oswalt"], "https://37.media.tumblr.com/010b794dc1548291f5c4dc21156153bb/tumblr_nzq3dqgJO81v2s5upo1_250.jpg"],
 	        
-["film", ["Hot Fuzz", "Hot Fuzz - Zwei abgewichste Profis"], "2007", ["2015 07 23", "2017 12 17"], 7, ["ger"], ["comedy", "action"], ["lukas"], ["Blood and Ice Cream"], ["Edgar Wright"], ["Simon Pegg", "Martin Freeman", "Bill Nighy", "Nick Frost"], "https://40.media.tumblr.com/beb889f85fafd83eeb8c1da42843e1e1/tumblr_nzq3e7k1lV1v2s5upo1_250.jpg"],
+["film", ["Hot Fuzz", "Hot Fuzz - Zwei abgewichste Profis"], "2007", ["2015 07 23", "2017 12 17"], 7, ["ger"], ["comedy", "action"], ["lukas"], ["Blood and Ice Cream"], ["Edgar Wright"], ["Simon Pegg", "Martin Freeman", "Bill Nighy", "Nick Frost", "Stuart Wilson"], "https://40.media.tumblr.com/beb889f85fafd83eeb8c1da42843e1e1/tumblr_nzq3e7k1lV1v2s5upo1_250.jpg"],
 	        
 ["film", ["Adventureland"], "2009", ["2015 07 25"], 5, ["ger"], ["comedy", "drama", "romance"], [], [], ["Greg Mottola"], ["Jesse Eisenberg", "Kristen Wiig", "Kristen Stewart"], "https://40.media.tumblr.com/f725d47f73576dd8b4006228c6c36771/tumblr_nzq3eq10eq1v2s5upo1_250.jpg"],
 	        
@@ -367,7 +367,7 @@ var database = [
 	        
 ["series", ["Stranger Things"], "2016", [["2017 09 30", "2017 10 01", "S1"], ["2017 10 28", "2017 10 29", "S2"], ["2019 07 05", "2019 07 09", "S3"]], 8, ["ger"], ["drama", "fantasy", "horror", "mystery", "thriller", "sci-fi"], ["bini"], ["Netflix"], ["Matt Duffer", "Ross Duffer"], ["Winona Ryder", "David Harbour", "Millie Bobby Brown", "Sean Astin", "Joe Chrest", "Jamie Campbell Bower", "Maya Hawke", "Charlie Heaton", "Natalia Dyer", "Sadie Sink"], "https://66.media.tumblr.com/c8b627f6c4e359d3e447107df3fbf426/67ddec5eb9eb235d-ed/s250x400/d663062da2fa7916f4f53c57f65e0a4898097490.jpg"],
 	        
-["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt", "Alisha Boe", "Timothy Granaderos", "Gary Sinise", "Megan Suri", "Allison Miller"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
+["series", ["13 Reasons Why", "Tote Mädchen lügen nicht"], ["2017", "2020"], [["2017 10 02", "2017 10 09", "S1"], ["2019 08 31", "2019 09 08", "S2"], ["2019 09 08", "2019 09 13", "S3"]/*["2019 08 31", "2019 09 13", "S2 - S3"]*/], 8, ["ger"], ["drama", "mystery"], ["bini"], ["Netflix"], ["Brian Yorkey"], ["Dylan Minnette", "Katherine Langford", "Kate Walsh", "Mark Pellegrino", "Andrew McCarthy", "Tyler Barnhardt", "Alisha Boe", "Timothy Granaderos", "Gary Sinise", "Megan Suri", "Allison Miller", "Parminder Nagra"], "https://66.media.tumblr.com/66c23a646b8a91e06b604ad64e8bef29/a0d7e77933f70105-ea/s250x400/235e7b223e4fdf3bbc91a3392990eabfa3d4e25b.jpg"],
 	        
 ["series", ["The Gay and Wondrous Life of Caleb Gallo"], "2016", [["2017 11 13", "S1"]], 9, ["eng"], ["comedy"], [], ["LGBT"], ["Brian Jordan Alvarez"], ["Stephanie Koenig"], "https://66.media.tumblr.com/97c1954bda4e7b0b57b0319e5e81122b/2f29f380c419c57b-6e/s250x400/699fdf7706dedfa3e63fc76ba474408ea3e3fd06.jpg"],
 	        
@@ -614,7 +614,7 @@ var database = [
 	        
 ["film", ["The Dark Tower", "Der Dunkle Turm"], "2017", ["2019 07 16"], 4, ["ger"], ["action", "adventure"], ["nico"], ["Dark Tower", "Netflix"], ["Nikolaj Arcel"], ["Matthew McConaughey", "Idris Elba", "Claudia Kim", "Jackie Earle Haley", "Abbey Lee", "Katheryn Winnick", "Fran Kranz"], "https://66.media.tumblr.com/2717e0e9fcbcba95671053401df4a244/33834b775e3b9f2f-0c/s250x400/697e435d5346a24b31eefc99498863b4a4e4b208.jpg"],
 	        
-["film", ["Five Feet Apart", "Drei Schritte zu dir"], "2019", ["2019 07 07", "2025 09 20"], 8, ["ger"], ["drama", "romance"], ["syl"], ["Kino", "bibliothek"], ["Justin Baldoni"], ["Haley Lu Richardson", "Ariana Guerra", "Moises Arias", "Cole Sprouse"], "https://66.media.tumblr.com/9a0b9f9be370c06d273db093f9ce7e81/ca58850e02f4cfa4-99/s250x400/778f94e4fd66b54b3facc5c5b8bddb5883bacdde.jpg"],
+["film", ["Five Feet Apart", "Drei Schritte zu dir"], "2019", ["2019 07 07", "2025 09 20"], 8, ["ger"], ["drama", "romance"], ["syl"], ["Kino", "bibliothek"], ["Justin Baldoni"], ["Haley Lu Richardson", "Ariana Guerra", "Moises Arias", "Cole Sprouse", "Parminder Nagra"], "https://66.media.tumblr.com/9a0b9f9be370c06d273db093f9ce7e81/ca58850e02f4cfa4-99/s250x400/778f94e4fd66b54b3facc5c5b8bddb5883bacdde.jpg"],
 	        
 ["film", ["Split"], "2016", ["2017 02 04", "2019 02 02", "2020 09 28", "2025 11 29"], 8, ["ger", "eng"], ["horror", "thriller"], ["syl"], ["Eastrail 177", "Kino", "DVD", "Disney+"], ["M. Night Shyamalan"], ["James McAvoy", "Anya Taylor-Joy", "Betty Buckley", "Bruce Willis"], "https://68.media.tumblr.com/c97742e705faeb4107c44333b6d08407/tumblr_okvc0ubTvD1v2s5upo1_250.jpg"],
 	        
@@ -1298,7 +1298,7 @@ var database = [
 	        
 ["film", ["The Package"], "2018", ["2018 09 05"], 6, ["ger"], ["comedy", "thriller"], ["bini"], ["Netflix"], ["Jake Szymanski"], ["Daniel Doheny", "Mary Holland"], "https://66.media.tumblr.com/7622b740247f1a4c1b7dd85dfb794b78/6dac7a859b43c095-c7/s250x400/83db237d3ffce0cf27ffac155064d057bb6f89e7.jpg"],
 	        
-["film", ["Scary Movie"], "2000", ["2018 07 30"], 4, ["ger"], ["comedy"], ["bini", "nico"], ["Netflix"], ["Keenen Ivory Wayans"], ["Carmen Electra", "Anna Faris", "Regina Hall"], "https://66.media.tumblr.com/8f00a5b43934233c812fb5925d2cd8cf/e0f715bbea917071-ab/s250x400/a2cb6d0ae31256ace13fa5dcd02b96c9bc3ae413.jpg"],
+["film", ["Scary Movie"], "2000", ["2018 07 30", "2026 02 07"], 5, ["ger"], ["comedy"], ["bini", "nico"], ["Netflix"], ["Keenen Ivory Wayans"], ["Carmen Electra", "Anna Faris", "Regina Hall"], "https://66.media.tumblr.com/8f00a5b43934233c812fb5925d2cd8cf/e0f715bbea917071-ab/s250x400/a2cb6d0ae31256ace13fa5dcd02b96c9bc3ae413.jpg"],
 	        
 ["film", ["Extinction"], "2018", ["2018 07 30"], 7, ["ger"], ["action", "drama"], ["nico", "bini"], ["Netflix"], ["Ben Young"], ["Michael Peña", "Lizzy Caplan", "Amelia Crouch", "Mike Colter"], "https://66.media.tumblr.com/e1a775a0b08d385d677e03b0309360a9/e02e042615a1c3c1-79/s250x400/45322cb0d200a9a51e4202de1a62a9082a45fec5.jpg"],
 	        
@@ -2467,7 +2467,7 @@ var database = [
 
 ["film", ["Enola Holmes 2"], "2022", ["2023 01 07"], 7, ["ger"], ["action", "adventure"], ["bini", "mai"], ["Netflix"], ["Harry Bradbeer"], ["Millie Bobby Brown", "Henry Cavill", "David Thewlis", "Helena Bonham Carter", "Himesh Patel"], "https://64.media.tumblr.com/9a8c95ca55ce0117dc592a17873db3eb/fd597d19bb961a4e-44/s250x400/d0390428b405f85a4f8537887c8dffbb2ea4d424.jpg"],
 
-["film", ["Annabelle"], "2014", ["2023 01 08"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["John R. Leonetti"], ["Annabelle Wallis"], "https://64.media.tumblr.com/91b131ae1e995e313374cacc096ad6e7/574487038cb4b557-9b/s250x400/2217626dd4ae2505c3708c68353e472e42d480a2.jpg"],
+["film", ["Annabelle"], "2014", ["2023 01 08"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["John R. Leonetti"], ["Annabelle Wallis", "Tony Amendola"], "https://64.media.tumblr.com/91b131ae1e995e313374cacc096ad6e7/574487038cb4b557-9b/s250x400/2217626dd4ae2505c3708c68353e472e42d480a2.jpg"],
 
 ["film", ["Colonia", "Colonia Dignidad - Es gibt kein Zurück"], "2015", ["2023 01 08"], 7, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Florian Gallenberger"], ["Emma Watson", "Daniel Brühl", "Michael Nyqvist", "Martin Wuttke"], "https://64.media.tumblr.com/37753c855a9168f099b62c9f4924b679/85debf1431484e89-0e/s250x400/3a559afb0b29072d130c7b86d597b27e247de945.jpg"],
 
@@ -3540,7 +3540,19 @@ var database = [
 
 ["audiobook", ["The Secret of the Haunted Mirror", "Die drei ??? 016: und der Zauberspiegel"], "1974", ["2026 02 04"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/a2ed7758d0ad90e31e212566ea278c24/33ed53792333dafc-6c/s250x400/db2a3a6b1043413b6de33f283a4da4ec8d81fae3.jpg"],
 
-["audiobook", ["The Mystery of the Death Man's Riddle", "Die drei ??? 017: und die gefährliche Erbschaft"], "1974", ["2026 02 04"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/158509696c23a922960f649c3ceaea1a/03c23fe47b5ee479-7c/s250x400/fb3ea85bb86b239f18ab77c6465594756a4f1946.jpg"]
+["audiobook", ["The Mystery of the Death Man's Riddle", "Die drei ??? 017: und die gefährliche Erbschaft"], "1974", ["2026 02 04"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/158509696c23a922960f649c3ceaea1a/03c23fe47b5ee479-7c/s250x400/fb3ea85bb86b239f18ab77c6465594756a4f1946.jpg"],
+
+["audiobook", ["The Secret of Sekelton Island", "Die drei ??? 018: und die Geisterinsel"], "1966", ["2026 02 05"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/79e9f714db391c952c93c6d4a9e4d6f2/6f46d6e419203a39-be/s250x400/0397748579ce7fdc5f1532c17cd4bfffe5376c79.jpg"],
+
+["audiobook", ["The Mystery of the Moaning Cave", "Die drei ??? 019: und der Teufelsberg"], "1968", [["2026 02 05", "2026 02 06"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/c46a0b6c8d39e7438cdc3e3e9dd2a780/86b3d938c6d09c02-f8/s250x400/720c07fd65f97031322362e74bb3dfb187b2ef19.jpg"],
+
+["audiobook", ["The Mystery of the Flaming Footprints", "Die drei ??? 019: und die flammende Spur"], "1981", ["2026 02 06"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/0e7fa7fda83188c84dba5d2216a6a481/3cb81f15b3c7b2a4-9f/s250x400/e699138bf6cd1bf607990ac2e0206caa6ec7f5a6.jpg"],
+
+["film", ["The Mask of Zorro", "Die Maske des Zorro"], "1998", ["2026 02 06"], 7, ["ger"], ["action", "adventure", "comedy"], [], ["Netflix"], ["Martin Campbell"], ["Stuart Wilson", "Tony Amendola", "Anthony Hopkins"], "https://64.media.tumblr.com/3e4896eb07d482e5f768b3b76a32a280/66339445cf3f5535-09/s250x400/bc11f0df5a2d4d1acb894681aa342a0ecc8f4471.jpg"],
+
+["film", ["Wonder Park", "Willkommen im Wunder Park"], "2019", ["2026 02 06"], 6, ["ger"], ["animation", "adventure", "comedy"], [], ["Netflix"], ["Dylan Brown"], [], "https://64.media.tumblr.com/e64573aad713dd906a445c320a73b53c/dfb03452791213bb-84/s250x400/3b6238bb9773d8b1737c2edbcfeaa6c71d4476b7.jpg"],
+
+["film", ["Bend It Like Beckham", "Kick It Like Beckham"], "2002", ["2026 02 07"], 5, ["ger"], ["comedy", "drama", "romance"], [], ["ARD"], ["Gurinder Chadha"], ["Parminder Nagra", "Keira Knightley", "Anupam Kher"], "https://64.media.tumblr.com/60c17b32942bd6baedea05fe2234e678/91e7d3aafe1c29b8-29/s250x400/2fe4793ba0e108dd3d70ee238dbbe41992f5bb3c.jpg"]
 
 	/*
 ,
