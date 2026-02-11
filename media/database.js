@@ -3546,13 +3546,25 @@ var database = [
 
 ["audiobook", ["The Mystery of the Moaning Cave", "Die drei ??? 019: und der Teufelsberg"], "1968", [["2026 02 05", "2026 02 06"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/c46a0b6c8d39e7438cdc3e3e9dd2a780/86b3d938c6d09c02-f8/s250x400/720c07fd65f97031322362e74bb3dfb187b2ef19.jpg"],
 
-["audiobook", ["The Mystery of the Flaming Footprints", "Die drei ??? 019: und die flammende Spur"], "1981", ["2026 02 06"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/0e7fa7fda83188c84dba5d2216a6a481/3cb81f15b3c7b2a4-9f/s250x400/e699138bf6cd1bf607990ac2e0206caa6ec7f5a6.jpg"],
+["audiobook", ["The Mystery of the Flaming Footprints", "Die drei ??? 020: und die flammende Spur"], "1981", ["2026 02 06"], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/0e7fa7fda83188c84dba5d2216a6a481/3cb81f15b3c7b2a4-9f/s250x400/e699138bf6cd1bf607990ac2e0206caa6ec7f5a6.jpg"],
 
 ["film", ["The Mask of Zorro", "Die Maske des Zorro"], "1998", ["2026 02 06"], 7, ["ger"], ["action", "adventure", "comedy"], [], ["Netflix"], ["Martin Campbell"], ["Stuart Wilson", "Tony Amendola", "Anthony Hopkins"], "https://64.media.tumblr.com/3e4896eb07d482e5f768b3b76a32a280/66339445cf3f5535-09/s250x400/bc11f0df5a2d4d1acb894681aa342a0ecc8f4471.jpg"],
 
 ["film", ["Wonder Park", "Willkommen im Wunder Park"], "2019", ["2026 02 06"], 6, ["ger"], ["animation", "adventure", "comedy"], [], ["Netflix"], ["Dylan Brown"], [], "https://64.media.tumblr.com/e64573aad713dd906a445c320a73b53c/dfb03452791213bb-84/s250x400/3b6238bb9773d8b1737c2edbcfeaa6c71d4476b7.jpg"],
 
-["film", ["Bend It Like Beckham", "Kick It Like Beckham"], "2002", ["2026 02 07"], 5, ["ger"], ["comedy", "drama", "romance"], [], ["ARD"], ["Gurinder Chadha"], ["Parminder Nagra", "Keira Knightley", "Anupam Kher"], "https://64.media.tumblr.com/60c17b32942bd6baedea05fe2234e678/91e7d3aafe1c29b8-29/s250x400/2fe4793ba0e108dd3d70ee238dbbe41992f5bb3c.jpg"]
+["film", ["Bend It Like Beckham", "Kick It Like Beckham"], "2002", ["2026 02 07"], 5, ["ger"], ["comedy", "drama", "romance"], [], ["ARD"], ["Gurinder Chadha"], ["Parminder Nagra", "Keira Knightley", "Anupam Kher"], "https://64.media.tumblr.com/60c17b32942bd6baedea05fe2234e678/91e7d3aafe1c29b8-29/s250x400/2fe4793ba0e108dd3d70ee238dbbe41992f5bb3c.jpg"],
+
+["audiobook", ["The Mystery of the Dancing Devil", "Die drei ??? 021: und der tanzende Teufel"], "1979", [["2026 02 07", "2026 02 09"]], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Vanishing Trasure", "Die drei ??? 022: und der verschwundene Schatz"], "1966", ["2026 02 09"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Headless Horse", "Die drei ??? 023: und das Aztekenschwert"], "1980", ["2026 02 10"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Silver Spider", "Die drei ??? 024: und die silberne Spinne"], "1981", ["2026 02 10"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Singing Serpent", "Die drei ??? 025: und die singende Schlange"], "1972", ["2026 02 10"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of Death Trap Mine", "Die drei ??? 026: und die Silbermine"], "1980", [["2026 02 10", "2026 02 11"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
 
 	/*
 ,
