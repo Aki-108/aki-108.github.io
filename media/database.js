@@ -548,7 +548,7 @@ var database = [
 	        
 ["film", ["Nausicaä of the Valley of the Wind", "Nausicaä - Prinzessin aus dem Tal der Winde", "Kaze no tani no Naushika"], "1984", ["2015 11 28", "2016 04 22", "2017 01 25", "2018 03 28", "2019 02 22", "2021 05 15"], 10, ["ger", "eng"], ["anime", "adventure"], ["bini", "mai"], ["fav", "Ghibli", "Netflix"], ["Hayao Miyazaki"], [], "https://49.media.tumblr.com/88924fe72fd0946794f8eb060337d51f/tumblr_o650uy0P9B1v2s5upo1_250.jpg"],
 	        
-["film", ["The Breakfast Club", "Der Frühstücksclub"], "1985", ["2015 11 11", "2016 03 24", "2016 10 08", "2019 03 31", "2022 03 11", "2024 05 01"], 10, ["ger", "eng"], ["comedy", "drama"], ["bini", "nico", "sai", "syl", "jessie"], ["Schule", "bby", "DVD"], ["John Hughes"], ["Molly Ringwald", "Paul Gleason"], "https://40.media.tumblr.com/48d4ae2ab7ffb3b3fc7ac1af5bd5329e/tumblr_o4l8hmypvm1v2s5upo1_250.jpg"],
+["film", ["The Breakfast Club", "Der Frühstücksclub"], "1985", ["2015 11 11", "2016 03 24", "2016 10 08", "2019 03 31", "2022 03 11", "2024 05 01"], 10, ["ger", "eng"], ["comedy", "drama"], ["bini", "nico", "sai", "syl", "jessie"], ["Schule", "bby", "DVD"], ["John Hughes"], ["Molly Ringwald", "Paul Gleason", "Emilio Estevez"], "https://40.media.tumblr.com/48d4ae2ab7ffb3b3fc7ac1af5bd5329e/tumblr_o4l8hmypvm1v2s5upo1_250.jpg"],
 	        
 ["film", ["Inside Out", "Alles steht Kopf"], "2015", ["2015 11 01", "2016 06 03", "2017 04 13"], 9, ["ger"], ["animation", "adventure"], ["jani", "nico"], ["Kino"], ["Pete Docter", "Ronnie Del Carmen"], [], "https://66.media.tumblr.com/a840925f557f695bd1b80d95fa381fdd/tumblr_pwvsgw1Q9d1v2s5upo1_250.jpg"],
 	        
@@ -1464,7 +1464,7 @@ var database = [
 	        
 ["film", ["John Carter", "John Carter: Zwischen zwei Welten"], "2012", ["2016 03 19"], 4, ["ger"], ["action", "adventure"], [], [], ["Andrew Stanton"], ["Lynn Collins", "Willem Dafoe", "Mark Strong", "Bryan Cranston"], "https://49.media.tumblr.com/272b42cd23289f7af00995004400e462/tumblr_o4aex2y82i1v2s5upo1_250.jpg"],
 	        
-["film", ["Detachment"], "2011", ["2016 01 31"], 10, ["ger"], ["drama"], [], [], ["Tony Kaye"], ["Adrien Brody", "Bryan Cranston"], "https://49.media.tumblr.com/2afb69904baeee9d3b9f3823b3730403/tumblr_o1ticajuTx1v2s5upo1_250.jpg"],
+["film", ["Detachment"], "2011", ["2016 01 31"], 10, ["ger"], ["drama"], [], [], ["Tony Kaye"], ["Adrien Brody", "Bryan Cranston", "William Petersen"], "https://49.media.tumblr.com/2afb69904baeee9d3b9f3823b3730403/tumblr_o1ticajuTx1v2s5upo1_250.jpg"],
 	        
 ["film", ["It Follows"], "2014", ["2016 01 29"], 7, ["ger"], ["horror", "mystery"], [], [], ["David Robert Mitchell"], ["Maika Monroe", "Keir Gilchrist"], "https://49.media.tumblr.com/ac52b4abe789a78e992f6b673a73b1c7/tumblr_o1pw5sLA821v2s5upo1_250.jpg"],
 	        
@@ -3554,17 +3554,25 @@ var database = [
 
 ["film", ["Bend It Like Beckham", "Kick It Like Beckham"], "2002", ["2026 02 07"], 5, ["ger"], ["comedy", "drama", "romance"], [], ["ARD"], ["Gurinder Chadha"], ["Parminder Nagra", "Keira Knightley", "Anupam Kher"], "https://64.media.tumblr.com/60c17b32942bd6baedea05fe2234e678/91e7d3aafe1c29b8-29/s250x400/2fe4793ba0e108dd3d70ee238dbbe41992f5bb3c.jpg"],
 
-["audiobook", ["The Mystery of the Dancing Devil", "Die drei ??? 021: und der tanzende Teufel"], "1979", [["2026 02 07", "2026 02 09"]], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["film", ["Young Guns II", "Blaze of Glory: Flammender Ruhm"], "1990", ["2026 02 07"], 4, ["ger"], ["action", "drama", "western"], [], ["Netflix"], ["Geoff Murphy"], ["Emilio Estevez", "Kiefer Sutherland", "William Petersen", "Viggo Mortensen", "Bradley Whitford"], "https://64.media.tumblr.com/bc79e2b04ed805c65cfd5b0194bb2591/4e82a6fc4efc6735-27/s250x400/7b13656e91a7a720c2f064f9d2ded8a5cfe8aa40.jpg"],
 
-["audiobook", ["The Mystery of the Vanishing Trasure", "Die drei ??? 022: und der verschwundene Schatz"], "1966", ["2026 02 09"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Dancing Devil", "Die drei ??? 021: und der tanzende Teufel"], "1979", [["2026 02 07", "2026 02 09"]], 4, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/dc406f470f08468f169ec4a184da0be3/3360c8983612db84-9b/s250x400/d77094cfd01a94fadcad863b6157ae6f8752902d.jpg"],
 
-["audiobook", ["The Mystery of the Headless Horse", "Die drei ??? 023: und das Aztekenschwert"], "1980", ["2026 02 10"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Vanishing Trasure", "Die drei ??? 022: und der verschwundene Schatz"], "1966", ["2026 02 09"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/f1e8eaef3fcfe6c1a75d2878ee29efce/81b0cee01ac67254-85/s250x400/b6820c947947ed7a8eb199eb78a51360072410fc.jpg"],
 
-["audiobook", ["The Mystery of the Silver Spider", "Die drei ??? 024: und die silberne Spinne"], "1981", ["2026 02 10"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Headless Horse", "Die drei ??? 023: und das Aztekenschwert"], "1980", ["2026 02 10"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/c95f658235d61c0e2e5fda392d2017a0/bee6a57f45e494af-6e/s250x400/f59bae979b37db281b35d8280b6c6d59d78e96b9.jpg"],
 
-["audiobook", ["The Mystery of the Singing Serpent", "Die drei ??? 025: und die singende Schlange"], "1972", ["2026 02 10"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Silver Spider", "Die drei ??? 024: und die silberne Spinne"], "1981", ["", "2026 02 10"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/8962498ddee877d97eed60fd4f27412b/4b7e01c784f3fafe-3b/s250x400/770f53b0c28bf3fa9bb913377945aee3d70cd559.jpg"],
 
-["audiobook", ["The Mystery of Death Trap Mine", "Die drei ??? 026: und die Silbermine"], "1980", [["2026 02 10", "2026 02 11"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
+["audiobook", ["The Mystery of the Singing Serpent", "Die drei ??? 025: und die singende Schlange"], "1972", ["2026 02 10"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/67b5ea5daa7aec9e16d2c1bfa188f539/f8f50334748af598-c1/s250x400/4ddfbdb65aa2d2932470da9b7a606ff3535e9341.jpg"],
+
+["audiobook", ["The Mystery of Death Trap Mine", "Die drei ??? 026: und die Silbermine"], "1980", [["2026 02 10", "2026 02 11"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/c9d4aa33356fb3db84baf593e3673593/f99b8c939e5c31f6-33/s250x400/70bd2ce46f9488f1f21f543af84ee56ce446c935.jpg"],
+
+["audiobook", ["The Mystery of the Magic Circle", "Die drei ??? 027: und der magische Kreis"], "1981", [["2026 02 11", "2026 02 12"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/0e818823aeaa61e7ce38368986ec172d/8d34d0e416cb84bd-4a/s250x400/c2caebfe30a5a2e400bb7f481ea8b203b7f64d30.jpg"],
+
+["audiobook", ["The Mystery of the Deadly Double", "Die drei ??? 028: und der Doppelgänger"], "1982", [["2026 02 12", "2026 02 13"]], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/d3a2fa0288438c4b169f9a5cf4ad3efb/f08e7db1b151007c-78/s250x400/281554d006c7df53b1e14e6fc2d15ff3be53a3c3.jpg"],
+
+["audiobook", ["The Secret of the Shark Reef", "Die drei ??? 030: und das Riff der Haie"], "1979", ["", ["2026 02 13", ""]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/e014e1093318c6d1bbaa529a0ea0de85/2caeb11e70827db1-93/s250x400/6e5d28f5ae53097f1271d3e7ae87e0d8306bb64b.jpg"]
 
 	/*
 ,
