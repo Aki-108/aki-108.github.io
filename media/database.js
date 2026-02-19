@@ -253,7 +253,7 @@ var database = [
 	        
 ["film", ["Heathers"], "1989", ["2016 01 18"], 7, ["ger"], ["comedy", "crime", "drama"], [], [], ["Michael Lehmann"], ["Winona Ryder"], "https://49.media.tumblr.com/100a748a21b585157e4fdb11d5eb56a2/tumblr_o15y52Sy5G1v2s5upo1_250.jpg"],
 	        
-["series", ["Heidi, Girl of the Alps", "Heidi", "Arupusu no shôjo Haiji"], "1974", [["2020 06 12", "2020 08 04"], ["2026 02 01", ""]], 8, ["ger"], ["anime", "adventure"], ["bini"], ["Heidi", "DVD", "watching"], ["Isao Matsuki", "Mamoru Sasaki", "Johanna Spyri"], [], "https://64.media.tumblr.com/633d7ce92ce4fb252374925ca7c30dc0/1f5af48daf2e552d-44/s250x400/fd1a405b1be1a0ddc46325b3559f531059adee2a.jpg"],
+["series", ["Heidi, Girl of the Alps", "Heidi", "Arupusu no shôjo Haiji"], "1974", [["2020 06 12", "2020 08 04"], ["2026 02 01", "2026 02 19"]], 9, ["ger"], ["anime", "adventure"], ["bini"], ["Heidi", "DVD"], ["Isao Matsuki", "Mamoru Sasaki", "Johanna Spyri"], [], "https://64.media.tumblr.com/633d7ce92ce4fb252374925ca7c30dc0/1f5af48daf2e552d-44/s250x400/fd1a405b1be1a0ddc46325b3559f531059adee2a.jpg"],
 	        
 ["series", ["I Am Not Okay with This"], "2020", [["2020 05 16", "S1"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Jonathan Entwistle", "Christy Hall"], ["Sophia Lillis", "Wyatt Oleff", "Sofia Bryant"], "https://66.media.tumblr.com/44b4f9bd825c20433e75d2209ac04b19/89ef296f3f805f90-d3/s250x400/c449eb2ffe2cf0c480fa743e9919be66ece79652.jpg"],
 	        
@@ -359,7 +359,7 @@ var database = [
 	        
 ["series", ["Westworld"], ["2016", "2022"], [["2016 11 05", "2016 12 30", "S1"], ["2022 06 22", "2022 06 28", "S1"], ["2022 06 29", "2022 07 10", "S2"], ["2022 07 21", "2022 08 08", "S3"]], 6, ["eng", "ger"], ["drama", "mystery", "sci-fi"], [], ["ongoing", "bibliothek"], ["Lisa Joy", "Jonathan Nolan"], ["Ed Harris", "James Marsden", "Anthony Hopkins", "Rodrigo Santoro", "Talulah Riley", "Hiroyuki Sanada", "Zahn McClarnon", "Lena Waithe", "Ben Barnes", "Booboo Stewart", "Jeffrey Wright", "Luke Hemsworth", "Angela Sarafyan", "Aaron Paul", "Ariana DeBose", "Phoebe Tonkin", "Eddie Shin", "Leonardo Nam", "Thandiwe Newton", "Charmin Lee", "John Gallagher Jr.", "Aaron Stanford"], "https://66.media.tumblr.com/09f5995b48f9e6a1bccc4abf37de4f73/tumblr_og5z0kJktJ1v2s5upo1_250.jpg"],
 /*S1: 10, S1: 7.4, S2: 6.9, S3: 5*/	        
-["series", ["Limitless"], ["2015", "2016"], [["2017 01 04", "2017 03 19", "S1"], ["2019 01 04", "2019 01 09", "S1"]], 8, ["ger"], ["comedy", "crime", "sci-fi"], ["syl"], ["Netflix"], ["Craig Sweeny"], ["Bradley Cooper", "Lio Tipton", "Jake McDorman", "Jacob Pitts"], "https://68.media.tumblr.com/4fba47babc7bea678547165f35723ba2/tumblr_on22pnO7ao1v2s5upo1_250.jpg"],
+["series", ["Limitless"], ["2015", "2016"], [["2017 01 04", "2017 03 19", "S1"], ["2019 01 04", "2019 01 09", "S1"]], 8, ["ger"], ["comedy", "crime", "sci-fi"], ["syl"], ["Netflix"], ["Craig Sweeny"], ["Bradley Cooper", "Lio Tipton", "Jake McDorman", "Jacob Pitts", "Sam Robards"], "https://68.media.tumblr.com/4fba47babc7bea678547165f35723ba2/tumblr_on22pnO7ao1v2s5upo1_250.jpg"],
 	        
 ["series", ["Attack on Titan", "Attack on Titan", "Shingeki no kyojin"], "2013", [["", "2014 12 25", "S1E1-S1E3"], ["2017 06 18", "S2"]], 7, ["jap"], ["anime", "action"], ["bini", "nico"], ["Attack on Titan"], ["Hajime Isayama", "Yasuko Kobayashi", "Hiroshi Seko"], [], "https://66.media.tumblr.com/83d37f42ada8c1406d9365e30cb566c0/bda8d962eea2ca43-78/s250x400/bd3432e2c98813f8bdd15fa4f38ebe7248acfa18.jpg"],
 	        
@@ -464,7 +464,7 @@ var database = [
 	        
 ["film", ["Fear and Loathing in Las Vegas", "Angst und Schrecken in Las Vegas"], "1998", ["2017 04 05"], 5, ["ger"], ["adventure", "comedy"], [], [], ["Terry Gilliam"], ["Johnny Depp", "Tobey Maguire", "Mark Harmon", "Christopher Meloni", "Christina Ricci"], "https://68.media.tumblr.com/683b4dbbaf0b150c1ea757c9d2481f9b/tumblr_oo36eerF4m1v2s5upo1_250.jpg"],
 	        
-["film", ["Chocolat", "Chocolat... ein kleiner Biss genügt"], "2000", ["2018 10 01"], 7, ["ger"], ["drama", "romance"], [], [], ["Lasse Hallström"], ["Peter Stormare", "Johnny Depp"], "https://66.media.tumblr.com/64481288d6a83c431ad88edf2f0b26e3/6768264a0bfb34cb-55/s250x400/f3c99d3c802b8ad08ab4bdafba49f9c6202a04af.jpg"],
+["film", ["Chocolat", "Chocolat... ein kleiner Biss genügt"], "2000", ["2018 10 01"], 7, ["ger"], ["drama", "romance"], [], [], ["Lasse Hallström"], ["Peter Stormare", "Johnny Depp", "Lena Olin"], "https://66.media.tumblr.com/64481288d6a83c431ad88edf2f0b26e3/6768264a0bfb34cb-55/s250x400/f3c99d3c802b8ad08ab4bdafba49f9c6202a04af.jpg"],
 	        
 ["film", ["Secret Window", "Das geheime Fenster"], "2004", ["2016 03 25", "2017 06 27"], 8, ["ger"], ["drama", "mystery", "thriller"], [], [], ["David Koepp"], ["Johnny Depp", "Maria Bello"], "https://40.media.tumblr.com/e699e44bdff276b33e491e321d24b7c1/tumblr_o4lrviw58Y1v2s5upo1_250.jpg"],
 	        
@@ -576,7 +576,7 @@ var database = [
 	        
 ["film", ["Whisper of the Heart", "Stimme des Herzens", "Mimi wo sumaseba"], "1995", ["2015 08 26", "2020 12 12", "2022 09 03"], 5, ["ger"], ["anime", "drama", "romance"], ["bini", "mai"], ["Ghibli", "Netflix"], ["Yoshifumi Kondô"], [], "https://49.media.tumblr.com/d9f5ec0c7b5e004e756df9a23cd3885a/tumblr_o0dwdeGGtP1v2s5upo1_250.jpg"],
 	        
-["film", ["The Virgin Suicides", "The Virgin Suicides - Verlorene Jugend"], "1999", ["2015 08 30", "2016 08 13"], 9, ["ger"], ["drama", "romance"], [], [], ["Sofia Coppola"], ["Kirsten Dunst", "Danny DeVito", "Scott Glenn"], "https://40.media.tumblr.com/71765bd581b584f16cddae7574c9eeff/tumblr_o0p1t2Azpk1v2s5upo1_250.jpg"],
+["film", ["The Virgin Suicides", "The Virgin Suicides - Verlorene Jugend"], "1999", ["2015 08 30", "2016 08 13"], 9, ["ger"], ["drama", "romance"], [], [], ["Sofia Coppola"], ["Kirsten Dunst", "Danny DeVito", "Scott Glenn", "Hayden Christensen"], "https://40.media.tumblr.com/71765bd581b584f16cddae7574c9eeff/tumblr_o0p1t2Azpk1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Lovely Bones", "In meinem Himmel"], "2009", ["2015 09 05"], 9, ["ger"], ["drama"], ["bini", "syl"], [], ["Peter Jackson"], ["Mark Wahlberg", "Stanley Tucci", "Saoirse Ronan", "AJ Michalka", "Peter Jackson", "Rachel Weisz", "Susan Sarandon"], "https://40.media.tumblr.com/59174cdcb45dae0ee391972f62671a27/tumblr_o0p4w7xCtV1v2s5upo1_250.jpg"],
 	        
@@ -588,7 +588,7 @@ var database = [
 	        
 ["film", ["Surrogates", "Surrogates - Mein zweites Ich"], "2009", ["2015 09 27"], 6, ["ger"], ["action", "sci-fi"], ["bini"], [], ["Jonathan Mostow"], ["Bruce Willis", "Radha Mitchell", "Rosamund Pike", "Helena Mattsson", "Michelle Lee", "Cody Christian"], "https://68.media.tumblr.com/e41a682957e9496e378c5d5f02a47bb1/tumblr_oov2hahWrr1v2s5upo1_250.jpg"],
 	        
-["film", ["Jumper"], "2008", ["2015 09 28"], 5, ["ger"], ["action", "adventure", "supernatural"], ["bini"], [], ["Doug Liman"], ["Samuel L. Jackson", "AnnaSophia Robb", "Kristen Stewart", "Jamie Bell"], "https://66.media.tumblr.com/c127204bd7ac8dcca93909069de581d5/tumblr_pp184vymaZ1v2s5upo1_250.jpg"],
+["film", ["Jumper"], "2008", ["2015 09 28"], 5, ["ger"], ["action", "adventure", "supernatural"], ["bini"], [], ["Doug Liman"], ["Samuel L. Jackson", "AnnaSophia Robb", "Kristen Stewart", "Jamie Bell", "Hayden Christensen"], "https://66.media.tumblr.com/c127204bd7ac8dcca93909069de581d5/tumblr_pp184vymaZ1v2s5upo1_250.jpg"],
 	        
 ["film", ["Bridge to Terabithia", "Brücke nach Terabithia"], "2007", ["2015 09 29"], 10, ["ger"], ["drama", "family", "fantasy"], ["bini"], [], ["Gabor Csupo"], ["Josh Hutcherson", "AnnaSophia Robb", "Zooey Deschanel", "Bailee Madison"], "http://40.media.tumblr.com/52f1c5ef8620ef3043c42c3dce1d5fb5/tumblr_nl6wmnrheq1rcb0d2o3_1280.jpg"],
 	        
@@ -600,7 +600,7 @@ var database = [
 	        
 ["film", ["To the Bone"], "2017", ["2018 05 27"], 7, ["ger"], ["drama"], [], ["Netflix"], ["Marti Noxon"], ["Lily Collins", "Liana Liberato", "Kathryn Prescott", "Alex Sharp", "Ciara Bravo", "Ziah Colon", "Leslie Bibb"], "https://66.media.tumblr.com/13c6660c42ed48eefa171e8a4cb7e4e0/tumblr_pzkte3xLEG1v2s5upo1_250.jpg"],
 	        
-["film", ["Dear Eleanor"], "2016", ["2016 07 23"], 7, ["ger"], ["comedy", "drama", "history"], [], [], ["Kevin Connolly"], ["Liana Liberato", "Isabelle Fuhrman", "Joel Courtney", "Luke Wilson", "Claire van der Boom"], "https://66.media.tumblr.com/94aa99a8ea17c76654947f69eb3b3ecf/tumblr_oarexdQ1XY1v2s5upo1_250.jpg"],
+["film", ["Dear Eleanor"], "2016", ["2016 07 23"], 7, ["ger"], ["comedy", "drama", "history"], [], [], ["Kevin Connolly"], ["Liana Liberato", "Isabelle Fuhrman", "Joel Courtney", "Luke Wilson", "Claire van der Boom", "Jessica Alba"], "https://66.media.tumblr.com/94aa99a8ea17c76654947f69eb3b3ecf/tumblr_oarexdQ1XY1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Kissing Booth"], "2018", ["2018 06 20"], 7, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Vince Marcello"], ["Joey King", "Joel Courtney", "Jacob Elordi", "Molly Ringwald"], "https://66.media.tumblr.com/c125317b2cb407a22928e269ac80703f/tumblr_pzpvueGPeX1v2s5upo1_250.jpg"],
 	        
@@ -658,7 +658,7 @@ var database = [
 	        
 ["film", ["The Terminal", "Terminal"], "2004", ["2020 07 22"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Steven Spielberg"], ["Tom Hanks", "Catherine Zeta-Jones", "Stanley Tucci", "Zoe Saldana"], "https://64.media.tumblr.com/f6406991a6a0dc060c8ac0ef105049d0/e2446da1d1fe6a2f-9a/s250x400/2aecc9e2da824b7b9aa08cb34f92636db7399409.jpg"],
 	        
-["film", ["The House Bunny", "House Bunny"], "2008", ["2020 07 15"], 3, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Fred Wolf"], ["Anna Faris", "Colin Hanks", "Emma Stone", "Kat Dennings", "Hugh Hefner", "Katharine McPhee", "Rumer Willis", "Rachel Specter", "Emily Wilson", "Shaquille O'Neal"], "https://64.media.tumblr.com/309f622a3da6799587df7fa540037991/f122f6f0665b5c19-cf/s250x400/5652c3f21e9f28f1730b370a0e8b124696a779c8.jpg"],
+["film", ["The House Bunny", "House Bunny"], "2008", ["2020 07 15"], 3, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Fred Wolf"], ["Anna Faris", "Colin Hanks", "Emma Stone", "Kat Dennings", "Hugh Hefner", "Katharine McPhee", "Rumer Willis", "Rachel Specter", "Emily Wilson", "Shaquille O'Neal", "Christopher McDonald"], "https://64.media.tumblr.com/309f622a3da6799587df7fa540037991/f122f6f0665b5c19-cf/s250x400/5652c3f21e9f28f1730b370a0e8b124696a779c8.jpg"],
 	        
 ["film", ["Heavy Trip", "Heavy Trip", "Hevi reissu"], "2018", ["2020 05 31"], 6, ["ger"], ["comedy", "music"], ["syl", "je"], ["DVD"], ["Juuso Laatio", "Jukka Vidgren"], [], "https://66.media.tumblr.com/74693cbef6632708b889a9ab760da36a/ac02361d3d84cb1e-de/s250x400/432934756fe38c1ae41986f3f2a6cba3cab8cc3c.jpg"],
 	        
@@ -704,7 +704,7 @@ var database = [
 	        
 ["film", ["Limitless", "Ohne Limit"], "2011", ["2019 01 10"], 7, ["ger"], ["sci-fi", "thriller"], [], ["Netflix"], ["Neil Burger"], ["Bradley Cooper", "Robert De Niro", "Abbie Cornish", "Rebecca Dayan"], "https://66.media.tumblr.com/edf1deeef391fc2a72e7af7ea115d770/c8c1637adf0de038-a9/s250x400/d6fc6994716197dc43f0cc6374c0fab755cfeb13.jpg"],
 	        
-["film", ["The Art of Getting By", "Von der Kunst, sich durchzumogeln"], "2011", ["2018 12 31"], 6, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Gavin Wiesen"], ["Freddie Highmore", "Emma Roberts"], "https://66.media.tumblr.com/41ffd479d2cc4bdb545b0bcd5ded20c1/28f62fea1ae95aae-54/s250x400/08bf2beec24816d6678e52c161d84beb7d557d27.jpg"],
+["film", ["The Art of Getting By", "Von der Kunst, sich durchzumogeln"], "2011", ["2018 12 31"], 6, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Gavin Wiesen"], ["Freddie Highmore", "Emma Roberts", "Sam Robards"], "https://66.media.tumblr.com/41ffd479d2cc4bdb545b0bcd5ded20c1/28f62fea1ae95aae-54/s250x400/08bf2beec24816d6678e52c161d84beb7d557d27.jpg"],
 	        
 ["film", ["The Host", "Seelen"], "2013", ["2018 11 18"], 5, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Andrew Niccol"], ["Saoirse Ronan", "Diane Kruger", "Boyd Holbrook"], "https://66.media.tumblr.com/208934ed9ed7177ad61b9df5a240d04c/d8c3938ac8c8ff06-f9/s250x400/239e7f0a8f31d65ec8a8ac8325f9ecbc97e7f1ac.jpg"],
 	        
@@ -1156,7 +1156,7 @@ var database = [
 	        
 ["film", ["Transformers: Age of Extinction", "Transformers 4: Ära des Untergangs"], "2014", ["2016 03 31", "2019 02 20"], 6, ["ger"], ["action", "adventure"], ["bini"], ["Transformers"], ["Michael Bay"], ["Mark Wahlberg", "Stanley Tucci", "Titus Welliver", "John Goodman", "Sophia Myles", "T.J. Miller", "Nicola Peltz"], "https://40.media.tumblr.com/8afe89c1f124be181009b615b0da3b8d/tumblr_o4x4hbXTS61v2s5upo1_250.jpg"],
 	        
-["film", ["Iron Man"], "2008", ["2016 03 27", "2017 02 01", "2021 12 03", "2025 03 31"], 9, ["ger"], ["action", "adventure", "sci-fi"], ["je"], ["Marvel", "Avengers", "Netflix"], ["Jon Favreau"], ["Robert Downey Jr.", "Jeff Bridges", "Gwyneth Paltrow", "Stan Lee", "Samuel L. Jackson", "Shaun Toub", "Leslie Bibb"], "https://49.media.tumblr.com/5017d31b1dd6842686512928527710a3/tumblr_o4rininmoe1v2s5upo1_250.jpg"],
+["film", ["Iron Man"], "2008", ["2016 03 27", "2017 02 01", "2021 12 03", "2025 03 31"], 9, ["ger"], ["action", "adventure", "sci-fi"], ["je"], ["Marvel", "Avengers", "Netflix"], ["Jon Favreau"], ["Robert Downey Jr.", "Jeff Bridges", "Gwyneth Paltrow", "Stan Lee", "Samuel L. Jackson", "Shaun Toub", "Leslie Bibb", "Terrence Howard"], "https://49.media.tumblr.com/5017d31b1dd6842686512928527710a3/tumblr_o4rininmoe1v2s5upo1_250.jpg"],
 	        
 ["film", ["Iron Man 2"], "2010", ["2016 03 28", "2017 02 22", "2021 12 06"], 9, ["ger"], ["action", "adventure"], ["je"], ["Marvel", "Avengers", "Netflix"], ["Jon Favreau"], ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Scarlett Johansson", "Sam Rockwell", "Samuel L. Jackson", "Clark Gregg", "Stan Lee", "Kate Mara", "Leslie Bibb"], "https://40.media.tumblr.com/7260c61ced9afbc0d92a70dc7bd21281/tumblr_o4rip3fHdH1v2s5upo1_250.jpg"],
 	        
@@ -1428,7 +1428,7 @@ var database = [
 	        
 ["film", ["The Gallows", "Gallows - Jede Schule hat ein Geheimnis"], "2015", ["2016 07 05"], 6, ["ger"], ["horror", "mystery"], [], ["Schule"], ["Travis Cluff", "Chris Lofing"], [], "https://66.media.tumblr.com/374675b1811304c46c9b4d3e7d31c8e8/tumblr_o9ulzkN3qm1v2s5upo1_250.jpg"],
 	        
-["film", ["On the Road", "On the Road - Unterwegs"], "2012", ["2016 07 04"], 5, ["ger"], ["adventure", "drama"], [], [], ["Walter Salles"], ["Kristen Stewart", "Amy Adams", "Kirsten Dunst", "Viggo Mortensen", "Steve Buscemi", "Joe Chrest", "Alice Braga", "Tom Sturridge"], "https://66.media.tumblr.com/56800f1b6f21a576eaa6963587b426e7/tumblr_o9t15mYCXt1v2s5upo1_250.jpg"],
+["film", ["On the Road", "On the Road - Unterwegs"], "2012", ["2016 07 04"], 5, ["ger"], ["adventure", "drama"], [], [], ["Walter Salles"], ["Kristen Stewart", "Amy Adams", "Kirsten Dunst", "Viggo Mortensen", "Steve Buscemi", "Joe Chrest", "Alice Braga", "Tom Sturridge", "Terrence Howard"], "https://66.media.tumblr.com/56800f1b6f21a576eaa6963587b426e7/tumblr_o9t15mYCXt1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Kite Runner", "Drachenläufer"], "2007", ["2016 06 29"], 5, ["ger"], ["drama"], [], ["Schule"], ["Marc Forster"], ["Shaun Toub"], "https://66.media.tumblr.com/5d2ca6e91a55c7e9a3e562e568fb3e4f/tumblr_o9jfzdjo4F1v2s5upo1_250.jpg"],
 	        
@@ -2415,7 +2415,7 @@ var database = [
 
 ["film", ["Do Revenge"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Jennifer Kaytin Robinson"], ["Camila Mendes", "Maya Hawke", "Austin Abrams", "Alisha Boe", "Paris Berelc", "Sophie Turner", "Talia Ryder", "Jordan Sherley"], "https://64.media.tumblr.com/de614a637a4df381ed7f045087c2c4de/5b169a5927624bab-b0/s250x400/d44b1ee3845732d607f6050acf4eaab9028121fb.jpg"],
 
-["film", ["Rosaline"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Karen Maine"], ["Kaitlyn Dever", "Isabela Merced", "Minnie Driver", "Kyle Allen", "Bradley Whitford"], "https://64.media.tumblr.com/65ff2e4c37b30140025b9a67c743d80e/d66b54865dd0ca32-cb/s250x400/e4214a5a0ad73efdcaec7daf94d3e5578cfbf560.jpg"],
+["film", ["Rosalinde", "Rosaline"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Karen Maine"], ["Kaitlyn Dever", "Isabela Merced", "Minnie Driver", "Kyle Allen", "Bradley Whitford", "Christopher McDonald"], "https://64.media.tumblr.com/65ff2e4c37b30140025b9a67c743d80e/d66b54865dd0ca32-cb/s250x400/e4214a5a0ad73efdcaec7daf94d3e5578cfbf560.jpg"],
 
 ["film", ["OMG: Oh My God!"], "2012", ["2022 10 23"], 7, ["hin"], ["comedy", "drama"], ["bini", "mai"], ["Netflix"], ["Umesh Shukla"], [], "https://64.media.tumblr.com/6c7ba0aa69300318c5c4422000992125/a32f24e90a5db3ce-e4/s250x400/a3543c8066037657a7d3ef2548a12619b4f129c4.jpg"],
 
@@ -3322,7 +3322,7 @@ var database = [
 
 ["series", ["I Woke Up a Vampire", "Als ich als Vampir aufwachte"], ["2023", ""], [["2025 07 22", "2025 07 30", "S1"]], 5, ["ger"], ["comedy", "family", "fantasy"], [], ["Netflix", "ongoing"], ["Tommy Lynch"], [], "https://64.media.tumblr.com/0f8927bb6367971895a90114ae472867/20809ee11b5150ba-84/s250x400/c16a7109d1afb32b575e5ff47cb3fce48cfb0882.jpg"],
 
-["film", ["American Beauty"], "1999", ["2025 07 27"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Sam Mendes"], ["Kevin Spacey", "Annette Bening", "Thora Birch", "Wes Bentley", "Allison Janney"], "https://64.media.tumblr.com/59c147a6854fbfaeffc6189abc2e9a70/1739e5620bf96195-2f/s250x400/60f9b15361c2080fd2fd975be66358c2133a3377.jpg"],
+["film", ["American Beauty"], "1999", ["2025 07 27"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Sam Mendes"], ["Kevin Spacey", "Annette Bening", "Thora Birch", "Wes Bentley", "Allison Janney", "Sam Robards"], "https://64.media.tumblr.com/59c147a6854fbfaeffc6189abc2e9a70/1739e5620bf96195-2f/s250x400/60f9b15361c2080fd2fd975be66358c2133a3377.jpg"],
 
 ["series", ["Death Note"], ["2006", "2007"], [["2025 07 28", "2025 10 27", "S1"]], 9, ["ger"], ["anime", "fantasy", "crime"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/bffd94070fa98e35e28ced791a5a8a34/aebfc924420d61ee-11/s250x400/a0650aae9f6d0ca73c65b9b4611f7396025c491d.jpg"],
 
@@ -3338,7 +3338,7 @@ var database = [
 
 ["film", ["Bad Influence", "Mala Influencia - Verbotene Liebe", "Mala influencia"], "2025", ["2025 08 16"], 5, ["ger"], ["romance", "thriller"], [], ["Netflix"], ["Chloé Wallace"], ["Enrique Arce"], "https://64.media.tumblr.com/70f340f9ff0f071dccf3a47d1fbfe55e/a7ade893087c975a-0d/s250x400/c62f1aa04f817e6b58346ffcda9f1bbef2fcb435.jpg"],
 
-["series", ["Gossip Girl"], ["2007", "2012"], [["2025 08 17", "2025 09 05", "S1"]], 5, ["ger"], ["drama", "romance"], [], ["Netflix", "ongoing"], ["Stephanie Savage", "Josh Schwartz"], ["Blake Lively", "Penn Badgley", "Michelle Trachtenberg", "Katie Cassidy", "Margaret Colin"], "https://64.media.tumblr.com/05b1a437aee8e0579909868e8aa969fb/975d5281a3831f94-41/s250x400/065313728895864387687994dc7264093c00442b.jpg"],
+["series", ["Gossip Girl"], ["2007", "2012"], [["2025 08 17", "2025 09 05", "S1"]], 5, ["ger"], ["drama", "romance"], [], ["Netflix", "ongoing"], ["Stephanie Savage", "Josh Schwartz"], ["Blake Lively", "Penn Badgley", "Michelle Trachtenberg", "Katie Cassidy", "Margaret Colin", "Sam Robards"], "https://64.media.tumblr.com/05b1a437aee8e0579909868e8aa969fb/975d5281a3831f94-41/s250x400/065313728895864387687994dc7264093c00442b.jpg"],
 
 ["film", ["Taxi", "New York Taxi"], "2004", ["2025 08 21"], 7, ["ger"], ["action", "comedy", "crime"], [], ["Netflix"], ["Tim Story"], ["Queen Latifah", "Jimmy Fallon", "Gisele Bündchen", "Adrian Martinez", "John Krasinski"], "https://64.media.tumblr.com/0d74ea00b7041b73926c206f716ef268/3a3b1777377a90fa-30/s250x400/60a26cc2e7cd050ae8f66981c9be267a8086d166.jpg"],
 
@@ -3572,7 +3572,23 @@ var database = [
 
 ["audiobook", ["The Mystery of the Deadly Double", "Die drei ??? 028: und der Doppelgänger"], "1982", [["2026 02 12", "2026 02 13"]], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/d3a2fa0288438c4b169f9a5cf4ad3efb/f08e7db1b151007c-78/s250x400/281554d006c7df53b1e14e6fc2d15ff3be53a3c3.jpg"],
 
-["audiobook", ["The Secret of the Shark Reef", "Die drei ??? 030: und das Riff der Haie"], "1979", ["", ["2026 02 13", ""]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/e014e1093318c6d1bbaa529a0ea0de85/2caeb11e70827db1-93/s250x400/6e5d28f5ae53097f1271d3e7ae87e0d8306bb64b.jpg"]
+["audiobook", ["The Secret of the Shark Reef", "Die drei ??? 030: und das Riff der Haie"], "1979", ["", ["2026 02 13", "2026 02 14"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/e014e1093318c6d1bbaa529a0ea0de85/2caeb11e70827db1-93/s250x400/6e5d28f5ae53097f1271d3e7ae87e0d8306bb64b.jpg"],
+
+["film", ["Awake"], "2007", ["2026 02 14"], 6, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Joby Harold"], ["Hayden Christensen", "Jessica Alba", "Terrence Howard", "Lena Olin", "Christopher McDonald", "Sam Robards", "David Harbour"], "https://64.media.tumblr.com/e1449521ad5a84d05444c9f4547bdf59/1c09b5caeedfc77d-72/s250x400/0df1bc0f6c25139a52ca56cb1d6d6735c9cb74f2.jpg"],
+
+["audiobook", ["The Mystery of Scar-Faced Beggar", "Die drei ??? 031: und das Narbengesicht"], "1981", [["2026 02 14", "2026 02 16"]], 7, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Sinister Scarecrow", "Die drei ??? 032: und der Ameisenmensch"], "1979", ["2026 02 16"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Blazing Cliffs", "Die drei ??? 033: und die bedrohte Ranch"], "1981", ["2026 02 17"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Purple Pirat", "Die drei ??? 034: und der rote Pirat"], "1982", [["2026 02 17", "2026 02 18"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Wandering Caveman", "Die drei ??? 035: und der Höhlenmensch"], "1982", [["2026 02 18", "2026 02 19"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Kidnapped Whale", "Die drei ??? 036: und der Super-Wal"], "1983", ["2026 02 19"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marc Brandel"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Missing Mermaid", "Die drei ??? 037: und der heimliche Hehler"], "1983", ["2026 02 19"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
 
 	/*
 ,
