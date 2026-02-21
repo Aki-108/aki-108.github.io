@@ -3576,6 +3576,8 @@ var database = [
 
 ["film", ["Awake"], "2007", ["2026 02 14"], 6, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Joby Harold"], ["Hayden Christensen", "Jessica Alba", "Terrence Howard", "Lena Olin", "Christopher McDonald", "Sam Robards", "David Harbour"], "https://64.media.tumblr.com/e1449521ad5a84d05444c9f4547bdf59/1c09b5caeedfc77d-72/s250x400/0df1bc0f6c25139a52ca56cb1d6d6735c9cb74f2.jpg"],
 
+["series", ["Jeffrey Epstein: Filthy Rich", "Jeffrey Epstein: Stinkreich"], "2020", [["2026 02 14", "2026 02 21", "S1"]], 0, ["ger"], ["documentary", "crime"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/9c250c13ddd28b27d7511884a431ca1f/e1925c1b03eaf0af-d3/s250x400/0c25a8d34a4d3c50861d2df004a499c15f5fa542.jpg"],
+
 ["audiobook", ["The Mystery of Scar-Faced Beggar", "Die drei ??? 031: und das Narbengesicht"], "1981", [["2026 02 14", "2026 02 16"]], 7, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["audiobook", ["The Mystery of the Sinister Scarecrow", "Die drei ??? 032: und der Ameisenmensch"], "1979", ["2026 02 16"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
