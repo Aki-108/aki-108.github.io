@@ -3474,7 +3474,7 @@ var database = [
 
 ["film", ["When a Stranger Calls", "Unbekannter Anrufer"], "2006", ["2026 01 03"], 6, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Simon West"], ["Camilla Belle", "Katie Cassidy"], "https://64.media.tumblr.com/15bf53cd52c45ef51e517ee37f66dac5/7b8976b31e5a9446-ab/s250x400/1f114b5b9c290b6ea1d54bd846167c3e1a0ddcd0.jpg"],
 
-["book", ["Undead and Unwed", "Weiblich, ledig, untot"], "2002", [["2026 01 07", ""]], 0, ["ger"], ["fantasy"], [], ["watching", "bibliothek"], ["Mary Janice Davidson"], [], "https://64.media.tumblr.com/ecda88f39ddbf98e748921bc6ddb016c/56066c0bfe14a5ea-85/s250x400/5d77bf1cb9eff0320cc4cc39ba60febc19dc871a.jpg"],
+["book", ["Undead and Unwed", "Weiblich, ledig, untot"], "2002", [["2026 01 07", "2026 02 23"]], 6, ["ger"], ["fantasy"], [], ["bibliothek"], ["Mary Janice Davidson"], [], "https://64.media.tumblr.com/ecda88f39ddbf98e748921bc6ddb016c/56066c0bfe14a5ea-85/s250x400/5d77bf1cb9eff0320cc4cc39ba60febc19dc871a.jpg"],
 
 ["film", ["The Sixth Sense", "The Sixth Sense - Nicht jede Gabe ist ein Segen"], "1999", ["2026 01 11"], 6, ["ger"], ["drama", "mystery", "thriller"], [], ["Disney+"], ["M. Night Shyamalan"], ["Bruce Willis", "Toni Collette"], "https://64.media.tumblr.com/74ad411ca1a0e30cdb7bbd72b17cd705/4cb24dc9f4643d64-cc/s250x400/760af1b766a8637a7e4808b44258a468d8385e6e.jpg"],
 
