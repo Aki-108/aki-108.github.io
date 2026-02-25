@@ -213,7 +213,7 @@ var database = [
 	        
 ["film", ["The Gambler"], "2014", ["2017 12 17", "2020 08 25"], 6, ["ger"], ["crime", "drama"], ["syl"], ["Netflix"], ["Rupert Wyatt"], ["Mark Wahlberg", "Brie Larson"], "https://64.media.tumblr.com/59cf82bb84efbd634c6c8761158b6bf2/583455e823677e36-a7/s250x400/af609f8d1fcea387763918adc60780bec89e5358.jpg"],
 	        
-["film", ["Little Women"], "2019", ["2020 08 25"], 7, ["ger"], ["drama", "romance"], ["syl"], ["Kino", "March-Trilogie"], ["Greta Gerwig"], ["Saoirse Ronan", "Emma Watson", "Florence Pugh", "Laura Dern", "Timothée Chalamet", "Bob Odenkirk", "Sasha Frolova", "Hadley Robinson", "Eliza Scanlen", "Ana Cruz Kayne"], "https://64.media.tumblr.com/e3f467bff2248eb7b30836a5e2ac65fb/396d88ffa1c90001-e5/s250x400/3de3c348f0a2305e3b8cc594f3accf60005f92c0.jpg"],
+["film", ["Little Women"], "2019", ["2020 08 25"], 7, ["ger"], ["drama", "romance"], ["syl"], ["Kino", "March-Trilogie"], ["Greta Gerwig"], ["Saoirse Ronan", "Emma Watson", "Florence Pugh", "Laura Dern", "Timothée Chalamet", "Bob Odenkirk", "Sasha Frolova", "Hadley Robinson", "Eliza Scanlen", "Ana Cruz Kayne"", "Chris Cooper"], "https://64.media.tumblr.com/e3f467bff2248eb7b30836a5e2ac65fb/396d88ffa1c90001-e5/s250x400/3de3c348f0a2305e3b8cc594f3accf60005f92c0.jpg"],
 	        
 ["series", ["Love, Chunibyo & Other Delusions", "Trotz Chūnibyō will ich mich verlieben!", "Chuunibyou demo Koi ga Shitai!"], "2012", [["2016 04 30", "S1E1-S1E3"], ["2020 08 20", "2020 08 24", "S1"], ["2022 02 22", "2022 03 20", "S1"], ["2022 03 20", "Special"]], 7, ["jap", "ger"], ["slice of life", "comedy", "drama", "romance", "school", "anime"], ["bini", "nico"], ["Chuunibyou"], ["Katelyn Barr", "Jukki Hanada", "Lainee Hooks"], [], "https://64.media.tumblr.com/92552cbd930a297548aeee4c833a93ff/6482341bf7df8348-72/s250x400/3a40be7e25c20f7790af98846c3abf7db1c65cfa.jpg"],
 	        
@@ -674,7 +674,7 @@ var database = [
 	        
 ["film", ["The Family", "Malavita - The Family"], "2013", ["2020 01 29", "2023 04 14"], 9, ["ger", "eng"], ["comedy", "crime"], [], ["Netflix", "bby"], ["Luc Besson"], ["Robert De Niro", "Michelle Pfeiffer", "Dianna Agron", "Tommy Lee Jones", "Moussa Maaskri", "Mario Pecqueur"], "https://66.media.tumblr.com/0f27115fbd083328a3f6e526d5e1fc83/4c3103e169298be5-3e/s250x400/2e76361e8f5b723c2ca95e545e3de3bd0a1790af.jpg"],
 	        
-["film", ["Valerian and the City of a Thousand Planets", "Valerian - Die Stadt der tausend Planeten"], "2017", ["2020 01 11"], 5, ["ger"], ["action", "adventure"], ["syl", "bini"], [], ["Luc Besson"], ["Dane DeHaan", "Cara Delevingne", "Rihanna", "Elizabeth Debicki", "Sasha Luss"], "https://66.media.tumblr.com/a9e37d9528bdba8e52ffc5c16e48f5db/8db875a518a406bf-42/s250x400/c5de1b90dccfef805a15029062c1608c94f99b06.jpg"],
+["film", ["Valerian and the City of a Thousand Planets", "Valerian - Die Stadt der tausend Planeten"], "2017", ["2020 01 11"], 5, ["ger"], ["action", "adventure"], ["syl", "bini"], [], ["Luc Besson"], ["Dane DeHaan", "Cara Delevingne", "Rihanna", "Elizabeth Debicki", "Sasha Luss", "Clive Owen"], "https://66.media.tumblr.com/a9e37d9528bdba8e52ffc5c16e48f5db/8db875a518a406bf-42/s250x400/c5de1b90dccfef805a15029062c1608c94f99b06.jpg"],
 	        
 ["film", ["Just One of the Guys"], "1985", ["2019 12 23"], 7, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Lisa Gottlieb"], ["Joyce Hyser", "Toni Hudson"], "https://66.media.tumblr.com/c49928dc9dad0bcfeaeccfbc2e36b1a6/3cd0efa077cc60c1-9c/s250x400/1dec9a586f3a5420aca1bcd4f0ac756a7f5bad4b.jpg"],
 	        
@@ -1354,7 +1354,7 @@ var database = [
 	        
 ["film", ["Moms' Night Out", "Mom's Night Out"], "2014", ["2017 02 02"], 5, ["ger"], ["comedy"], [], [], ["Andrew Erwin", "Jon Erwin"], ["Sean Astin"], "https://68.media.tumblr.com/75f3cfff878cc9e176ba26d614f39740/tumblr_okvbyxTTE51v2s5upo1_250.jpg"],
 	        
-["film", ["The Muppets", "Die Muppets"], "2011", ["2017 01 31"], 6, ["ger"], ["adventure", "comedy"], [], [], ["James Bobin"], ["Jason Segel", "Amy Adams", "Zach Galifianakis", "Donald Glover", "Emily Blunt", "Whoopi Goldberg", "Neil Patrick Harris", "Jack Black", "Selena Gomez", "John Krasinski"], "https://68.media.tumblr.com/008bc1b05945243180cb1c24c587b564/tumblr_oknz2tBBJF1v2s5upo1_250.jpg"],
+["film", ["The Muppets", "Die Muppets"], "2011", ["2017 01 31"], 6, ["ger"], ["adventure", "comedy"], [], [], ["James Bobin"], ["Jason Segel", "Amy Adams", "Zach Galifianakis", "Donald Glover", "Emily Blunt", "Whoopi Goldberg", "Neil Patrick Harris", "Jack Black", "Selena Gomez", "John Krasinski", "Chris Cooper"], "https://68.media.tumblr.com/008bc1b05945243180cb1c24c587b564/tumblr_oknz2tBBJF1v2s5upo1_250.jpg"],
 	        
 ["film", ["Philadelphia"], "1993", ["2017 01 30"], 5, ["ger"], ["drama"], [], [], ["Jonathan Demme"], ["Tom Hanks", "Bradley Whitford"], "https://68.media.tumblr.com/7a5725faa25413da5b5e0d04118174f4/tumblr_oknyysJ2bN1v2s5upo1_250.jpg"],
 	        
@@ -3038,7 +3038,7 @@ var database = [
 
 ["audiobook", ["Sherlock is Back: Mord im Tivoli"], "2024", ["2024 09 05"], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Beatrice Ferolli"], ["Gerry Hungbauer"], "https://64.media.tumblr.com/ca69f6d6d4bd82f5946feff084087d80/5ab4e583776e46c8-6e/s250x400/77bc89e0e1341f20b698655ef1ed055520fbccfa.jpg"],
 
-["film", ["Gemini Man"], "2019", ["2024 09 07"], 6, ["ger"], ["action", "sci-fi"], [], ["Netflix"], ["Ang Lee"], ["Will Smith", "Mary Elizabeth Winstead", "Benedict Wong", "Jordan Sherley"], "https://64.media.tumblr.com/af1cab766da15dd70b570dec18c3caaa/12b7ca23dd5e914d-b2/s250x400/c864b79da63f55a4b0f3436b17ab497c70246ab8.jpg"],
+["film", ["Gemini Man"], "2019", ["2024 09 07"], 6, ["ger"], ["action", "sci-fi"], [], ["Netflix"], ["Ang Lee"], ["Will Smith", "Mary Elizabeth Winstead", "Benedict Wong", "Jordan Sherley", "Clive Owen"], "https://64.media.tumblr.com/af1cab766da15dd70b570dec18c3caaa/12b7ca23dd5e914d-b2/s250x400/c864b79da63f55a4b0f3436b17ab497c70246ab8.jpg"],
 
 ["film", ["The Flying Classroom", "Das fliegende Klassenzimmer"], "2003", ["2024 09 07"], 7, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Tomy Wigand"], ["Ulrich Noethen", "Piet Klocke", "Frederick Lau", "Anja Kling"], "https://64.media.tumblr.com/9a0b45d129b6d4675931dda69b936b16/5f9768fe76264f61-d6/s250x400/707cdf266b6c3fb797bc7804925ae28c06a6e00c.jpg"],
 
@@ -3294,7 +3294,7 @@ var database = [
 
 ["film", ["1984"], "1984", ["2025 06 22"], 3, ["ger"], [], [], ["bibliothek"], ["Michael Radford"], ["John Hurt"], "https://64.media.tumblr.com/cb7ea73a94bd5df65539ae7e824055be/04c3d81568f6fd59-d5/s250x400/544625e865bf83312ed7bd4b1b4f14b5a6957f97.jpg"],
 
-["film", ["The Amazing Spider-Man 2"], "2014", ["2025 06 29"], 6, ["ger"], ["action", "adventure"], [], ["Marvel", "Netflix"], ["Marc Webb"], ["Andrew Garfield", "Emma Stone", "Jamie Foxx", "Dane DeHaan", "Felicity Jones", "Paul Giamatti", "Adrian Martinez", "Stan Lee"], "https://64.media.tumblr.com/4fa1df4c3c837492283b16cd8e80605f/cc5ed1dba2e2d45c-f3/s250x400/6a068a7817bd6ebcf9f7c7110df621d77b3819ce.jpg"],
+["film", ["The Amazing Spider-Man 2"], "2014", ["2025 06 29"], 6, ["ger"], ["action", "adventure"], [], ["Marvel", "Netflix"], ["Marc Webb"], ["Andrew Garfield", "Emma Stone", "Jamie Foxx", "Dane DeHaan", "Felicity Jones", "Paul Giamatti", "Adrian Martinez", "Stan Lee", "Chris Cooper"], "https://64.media.tumblr.com/4fa1df4c3c837492283b16cd8e80605f/cc5ed1dba2e2d45c-f3/s250x400/6a068a7817bd6ebcf9f7c7110df621d77b3819ce.jpg"],
 
 ["audiobook", ["Tee? Kaffee? Mord! 21 - Ein Grab für drei"], "2022", [["2025 07 01", "2025 07 04"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/1cecdc7a2ba040009ab0808f7e9aecc2/64a035a1e32982c5-c8/s250x400/5375c3c245db02774076b5751003eecae281c123.jpg"],
 
@@ -3322,7 +3322,7 @@ var database = [
 
 ["series", ["I Woke Up a Vampire", "Als ich als Vampir aufwachte"], ["2023", ""], [["2025 07 22", "2025 07 30", "S1"]], 5, ["ger"], ["comedy", "family", "fantasy"], [], ["Netflix", "ongoing"], ["Tommy Lynch"], [], "https://64.media.tumblr.com/0f8927bb6367971895a90114ae472867/20809ee11b5150ba-84/s250x400/c16a7109d1afb32b575e5ff47cb3fce48cfb0882.jpg"],
 
-["film", ["American Beauty"], "1999", ["2025 07 27"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Sam Mendes"], ["Kevin Spacey", "Annette Bening", "Thora Birch", "Wes Bentley", "Allison Janney", "Sam Robards"], "https://64.media.tumblr.com/59c147a6854fbfaeffc6189abc2e9a70/1739e5620bf96195-2f/s250x400/60f9b15361c2080fd2fd975be66358c2133a3377.jpg"],
+["film", ["American Beauty"], "1999", ["2025 07 27"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Sam Mendes"], ["Kevin Spacey", "Annette Bening", "Thora Birch", "Wes Bentley", "Allison Janney", "Sam Robards", "Chris Cooper"], "https://64.media.tumblr.com/59c147a6854fbfaeffc6189abc2e9a70/1739e5620bf96195-2f/s250x400/60f9b15361c2080fd2fd975be66358c2133a3377.jpg"],
 
 ["series", ["Death Note"], ["2006", "2007"], [["2025 07 28", "2025 10 27", "S1"]], 9, ["ger"], ["anime", "fantasy", "crime"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/bffd94070fa98e35e28ced791a5a8a34/aebfc924420d61ee-11/s250x400/a0650aae9f6d0ca73c65b9b4611f7396025c491d.jpg"],
 
@@ -3578,19 +3578,35 @@ var database = [
 
 ["series", ["Jeffrey Epstein: Filthy Rich", "Jeffrey Epstein: Stinkreich"], "2020", [["2026 02 14", "2026 02 21", "S1"]], 0, ["ger"], ["documentary", "crime"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/9c250c13ddd28b27d7511884a431ca1f/e1925c1b03eaf0af-d3/s250x400/0c25a8d34a4d3c50861d2df004a499c15f5fa542.jpg"],
 
-["audiobook", ["The Mystery of Scar-Faced Beggar", "Die drei ??? 031: und das Narbengesicht"], "1981", [["2026 02 14", "2026 02 16"]], 7, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of Scar-Faced Beggar", "Die drei ??? 031: und das Narbengesicht"], "1981", [["2026 02 14", "2026 02 16"]], 7, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/5a79b970ea4f1365930da044c48da3d6/ec1fa43b5fc1983b-d6/s250x400/81958f7a155cfd221a5a28a9a613fe1da994a011.jpg"],
 
-["audiobook", ["The Mystery of the Sinister Scarecrow", "Die drei ??? 032: und der Ameisenmensch"], "1979", ["2026 02 16"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Sinister Scarecrow", "Die drei ??? 032: und der Ameisenmensch"], "1979", ["2026 02 16"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/cc70fe6d0a6c154654cdc12f5f2caceb/392d252abe71b34c-a4/s250x400/a16ae71bbd4228e6066cea37b00b67f42e4564c9.jpg"],
 
-["audiobook", ["The Mystery of the Blazing Cliffs", "Die drei ??? 033: und die bedrohte Ranch"], "1981", ["2026 02 17"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Blazing Cliffs", "Die drei ??? 033: und die bedrohte Ranch"], "1981", ["2026 02 17"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/6b953a7c68e9e4da0e999fafbaff4087/8a1a9aae0b3d5df0-87/s250x400/1f148c7c2260f7cf3357b2eb358ce7f5efd97130.jpg"],
 
-["audiobook", ["The Mystery of the Purple Pirat", "Die drei ??? 034: und der rote Pirat"], "1982", [["2026 02 17", "2026 02 18"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Purple Pirat", "Die drei ??? 034: und der rote Pirat"], "1982", [["2026 02 17", "2026 02 18"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/472a344b80f61598f3794b89d72309f5/2f8420d5586afb73-b0/s250x400/f9dbffdd2364a96bc5369d08ca9db07ed3365bca.jpg"],
 
-["audiobook", ["The Mystery of the Wandering Caveman", "Die drei ??? 035: und der Höhlenmensch"], "1982", [["2026 02 18", "2026 02 19"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Wandering Caveman", "Die drei ??? 035: und der Höhlenmensch"], "1982", [["2026 02 18", "2026 02 19"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/90dd86f22dff91eb92fc8f382eab8e1f/bcb00a4ee13b1c33-26/s250x400/89949a4775517b66d0116c30d9d741a73973ddf2.jpg"],
 
-["audiobook", ["The Mystery of the Kidnapped Whale", "Die drei ??? 036: und der Super-Wal"], "1983", ["2026 02 19"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marc Brandel"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["The Mystery of the Kidnapped Whale", "Die drei ??? 036: und der Super-Wal"], "1983", ["2026 02 19"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marc Brandel"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/90dd86f22dff91eb92fc8f382eab8e1f/bcb00a4ee13b1c33-26/s250x400/89949a4775517b66d0116c30d9d741a73973ddf2.jpg"],
 
-["audiobook", ["The Mystery of the Missing Mermaid", "Die drei ??? 037: und der heimliche Hehler"], "1983", ["2026 02 19"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
+["audiobook", ["The Mystery of the Missing Mermaid", "Die drei ??? 037: und der heimliche Hehler"], "1983", ["2026 02 19"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/2948f345bd07520d52932d65289a4d44/6f119788de287cb0-fb/s250x400/fe03736013c98e9deb6ae4e14b735634635aca19.jpg"],
+
+["film", ["The Legend of Zorro", "Die Legende des Zorro"], "2005", ["2026 02 22"], 5, ["ger"], ["action", "adventure", "drama"], [], ["Netflix"], ["Martin Campbell"], ["Michael Emerson", "Shuler Hensley", "Catherine Zeta-Jones"], "https://64.media.tumblr.com/90795ea03e71e19712264e262cb21eb7/b204395ea0f29fdc-58/s250x400/83fefe9b73fe9237b4dd6959e3133ca96b669449.jpg"],
+
+["film", ["The Bourne Identity", "Die Bourne Identität"], "2002", ["2026 02 22"], 7, ["ger"], ["action", "mystery", "thriller"], [], ["Netflix"], ["Doug Liman"], ["Matt Damon", "Franka Potente", "Chris Cooper", "Clive Owen", "Julia Stiles"], "https://64.media.tumblr.com/dcbf0247d35b6f6a02be24dc8f25ed29/422fa13736383098-00/s250x400/eb9847eed0df97fd4e4f056fc858db4c13d8431f.jpg"],
+
+["film", ["The Bourne Supremacy", "Die Bourne Verschwörung"], "2004", ["2026 02 22"], 6, ["ger"], ["action", "mystery", "thriller"], [], ["Netflix"], ["Paul Greengrass"], ["Matt Damon", "Franka Potente", "Julia Stiles", "Marton Csokas"], "https://64.media.tumblr.com/5f17e72c0d5439bcc7266e81c4ccb59f/e15d90ceadfe2817-70/s250x400/7b65db4a270e2c7b28d5fa0902df4e6402535c9a.jpg"],
+
+["audiobook", ["Trail of Terror", "Die drei ??? 038: und der unsichtbare Gegner"], "1984", [["2026 02 19", "2026 02 20"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/b900df491e76efd4f4b77bf5cc188aec/aabc363f5857f9aa-67/s250x400/fefd4836d33b01969e40adf1fb383b91c452b131.jpg"],
+
+["audiobook", ["The Mystery of the Two-Toed Pigeon", "Die drei ??? 039: und die Perlenvögel"], "1984", [["2026 02 20", "2026 02 21"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marc Brandel"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/1597686fe04afec8cab9173eef951919/e0078ed244b3af2b-0e/s250x400/30941717136693e384b769ca319337ee8bfe0389.jpg"],
+
+["audiobook", ["Smashing Glass", "Die drei ??? 040: und der Automarder"], "1984", [["2026 02 22", "2026 02 23"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/5e688c7ce9562f228301866bbb188947/b320e4016ae28141-d7/s250x400/42949feb1d20caf1f7a20ddc9bad0b27de8fe115.jpg"],
+
+["audiobook", ["The Case of Dancing Dinosaur", "Die drei ??? 041: und das Volk der Winde"], "1985", [["2026 02 24", "2026 02 25"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Rose Estes"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/8fde5f1aa4d5428b9c284e91e93cda20/561106fca90be091-60/s250x400/f1bb2b3eddf4ea3712b77448fd628664b3bac1fa.jpg"],
+
+["book", ["Emma und das vergessene Buch"], "2019", [["2026 02 25", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Mechthild Gläser"], [], "https://64.media.tumblr.com/5dd63eb5c7a222f8ce2ad225082aa9d7/5e524965efdef65b-22/s250x400/39b6e0c40ec943d44e37c941519149ece5b840f7.jpg"]
 
 	/*
 ,
