@@ -3588,7 +3588,7 @@ var database = [
 
 ["audiobook", ["The Mystery of the Wandering Caveman", "Die drei ??? 035: und der Höhlenmensch"], "1982", [["2026 02 18", "2026 02 19"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/90dd86f22dff91eb92fc8f382eab8e1f/bcb00a4ee13b1c33-26/s250x400/89949a4775517b66d0116c30d9d741a73973ddf2.jpg"],
 
-["audiobook", ["The Mystery of the Kidnapped Whale", "Die drei ??? 036: und der Super-Wal"], "1983", ["2026 02 19"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marc Brandel"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/90dd86f22dff91eb92fc8f382eab8e1f/bcb00a4ee13b1c33-26/s250x400/89949a4775517b66d0116c30d9d741a73973ddf2.jpg"],
+["audiobook", ["The Mystery of the Kidnapped Whale", "Die drei ??? 036: und der Super-Wal"], "1983", ["2026 02 19"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marc Brandel"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/5151c4e30c2ff4ee916fa2b773fe69e0/ca8a2451cea76bbb-96/s250x400/a26e6313b1493ad04d48c30138ce629960e598ea.jpg"],
 
 ["audiobook", ["The Mystery of the Missing Mermaid", "Die drei ??? 037: und der heimliche Hehler"], "1983", ["2026 02 19"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/2948f345bd07520d52932d65289a4d44/6f119788de287cb0-fb/s250x400/fe03736013c98e9deb6ae4e14b735634635aca19.jpg"],
 
