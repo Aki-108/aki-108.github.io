@@ -3606,7 +3606,25 @@ var database = [
 
 ["audiobook", ["The Case of Dancing Dinosaur", "Die drei ??? 041: und das Volk der Winde"], "1985", [["2026 02 24", "2026 02 25"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Rose Estes"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/8fde5f1aa4d5428b9c284e91e93cda20/561106fca90be091-60/s250x400/f1bb2b3eddf4ea3712b77448fd628664b3bac1fa.jpg"],
 
-["book", ["Emma und das vergessene Buch"], "2019", [["2026 02 25", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Mechthild Gläser"], [], "https://64.media.tumblr.com/5dd63eb5c7a222f8ce2ad225082aa9d7/5e524965efdef65b-22/s250x400/39b6e0c40ec943d44e37c941519149ece5b840f7.jpg"]
+["book", ["Emma und das vergessene Buch"], "2019", [["2026 02 25", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Mechthild Gläser"], [], "https://64.media.tumblr.com/5dd63eb5c7a222f8ce2ad225082aa9d7/5e524965efdef65b-22/s250x400/39b6e0c40ec943d44e37c941519149ece5b840f7.jpg"],
+
+["audiobook", ["The Case of the Weeping Coffin", "Die drei ??? 042: und der weinende Sarg"], "1985", ["", ["2026 02 25", "2026 02 26"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Megan", "H. William Stine"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Creep-Show", "Die drei ??? 043: und der höllische Werwolf"], "1985", ["2026 02 26"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of the Rogues' Reunion", "Die drei ??? 044: und der gestohlene Preis"], "1985", ["2026 02 26"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marc Brandel"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["The Mystery of Wreckers' Rock", "Die drei ??? 045: und das Gold der Wikinger"], "1986", [["2026 02 26", "2026 02 27"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimebusters - Cranky Collektor", "Die drei ??? 046: und der schrullige Millionär"], "1987", ["2026 02 27"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["M.V. Carey"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimebusters - Murder to go", "Die drei ??? 047: und der giftige Gockel"], "1989", ["2026 02 27"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Megan", "H. William Stine"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimebusters - Rough Stuff", "Die drei ??? 048: und die gefährlichen Fässer"], "1989", ["2026 03 02"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["G.H. Stone", "Gayle Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimebusters - Funny Business", "Die drei ??? 049: und die Comic-Diebe"], "1989", ["2026 03 02"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William McCay"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimebusters - Thriller Diller", "Die drei ??? 050: und der verschwundene Filmstar"], "1989", ["2026 03 02"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Megan", "H. William Stine"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
 
 	/*
 ,
