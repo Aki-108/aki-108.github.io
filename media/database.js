@@ -3624,7 +3624,39 @@ var database = [
 
 ["audiobook", ["Crimebusters - Funny Business", "Die drei ??? 049: und die Comic-Diebe"], "1989", ["2026 03 02"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William McCay"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
-["audiobook", ["Crimebusters - Thriller Diller", "Die drei ??? 050: und der verschwundene Filmstar"], "1989", ["2026 03 02"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Megan", "H. William Stine"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
+["audiobook", ["Crimebusters - Thriller Diller", "Die drei ??? 050: und der verschwundene Filmstar"], "1989", ["2026 03 02"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Megan", "H. William Stine"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimbusters - An Ear For Danger", "Die drei ??? 051: und der riskante Ritt"], "1989", ["2026 03 03"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marc Brandel"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimebusters - Reel Trouble", "Die drei ??? 052: und die Musikpiraten"], "1989", ["2026 03 03"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["G.H. Stone","Gayle Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimebusters - Hot Wheels", "Die drei ??? 053: und die Automafia"], "1989", ["", "2026 03 04"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["William Arden", "Dennis Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimebusters - Foul Play", "Die drei ??? 054: Gefahr im Verzug"], "1990", ["2026 03 04"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Peter Lerangis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimebusters - Long Shot", "Die drei ??? 055: gekaufte Spieler"], "1990", ["2026 03 05"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Megan", "H. William Stine"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Crimebusters - Fatal Error", "Die drei ??? 056: Angriff der Computer-Viren"], "1990", ["2026 03 05"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["G.H. Stone", "Gayle Lynds"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 057: Tatort Zirkus"], "1993", ["2026 03 05"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 058: und der verrückte Maler"], "1993", ["2026 03 06"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 059: Giftiges Wasser"], "1994", ["2026 03 06"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 060: Dopingmixer"], "1994", ["2026 03 06"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 061: und die Rache des Tigers"], "1994", ["2026 03 06"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 062: Spuk im Hotel"], "1994", ["2026 03 07"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 063: Fußball-Gangster"], "1995", ["2026 03 08"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 064: Geisterstadt"], "1995", ["2026 03 09"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 065: Diamantenschmuggel"], "1995", ["2026 03 10"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 066: und die Schattenmänner"], "1995", ["2026 03 10"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
 
 	/*
 ,
