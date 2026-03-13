@@ -3674,9 +3674,9 @@ var database = [
 
 ["film", ["Blade Runner 2049"], "2017", ["2026 03 11"], 5, ["ger"], ["action", "drama", "mystery"], [], ["Netflix"], ["Denis Villeneuve"], ["Ryan Gosling"], "image"],
 
-["type", ["title"], "pub year", ["dates"], rating, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"],
+["type", ["title"], "pub year", ["dates"], 6, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"],
 
-["type", ["title"], "pub year", ["dates"], rating, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"]
+["type", ["title"], "pub year", ["dates"], 4, ["lang"], ["genre"], ["watched with"], ["tags"], ["creator"], ["actors"], "image"]
 
 	/*
 ,
