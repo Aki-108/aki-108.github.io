@@ -1488,9 +1488,9 @@ var database = [
 	        
 ["film", ["Isi & Ossi"], "2020", ["2020 10 12", "2021 02 27", "2025 01 14"], 8, ["ger"], ["comedy", "romance"], ["bini", "mai"], ["Netflix"], ["Oliver Kienle"], ["Lisa Vicari"], "https://64.media.tumblr.com/0185fee186caed73f134c23cd9c0691f/0d23c573ff9d8992-aa/s250x400/19becf5a1ae3e47aeb60c082833b927057e4f9d2.jpg"],
 	        
-["film", ["High School Musical"], "2006", ["2016 09 05", "2021 01 10"], 6, ["ger"], ["comedy", "drama"], ["bini"], ["High School Musical"], ["Kenny Ortega"], ["Zac Efron", "Vanessa Hudgens", "Ashley Tisdale", "Olesya Rulin"], "https://66.media.tumblr.com/aa5a0ebff5a9eae7c2caf2afa49d9cd8/tumblr_od1c4pCH8s1v2s5upo1_250.jpg"],
+["film", ["High School Musical"], "2006", ["2016 09 05", "2021 01 10", "2026 03 13"], 5, ["ger"], ["comedy", "drama"], ["bini"], ["Disney+", "High School Musical"], ["Kenny Ortega"], ["Zac Efron", "Vanessa Hudgens", "Ashley Tisdale", "Olesya Rulin"], "https://66.media.tumblr.com/aa5a0ebff5a9eae7c2caf2afa49d9cd8/tumblr_od1c4pCH8s1v2s5upo1_250.jpg"],
 	        
-["film", ["High School Musical 2", "High School Musical 2: Singt alle oder keiner!"], "2007", ["2016 09 06", "2021 10 30"], 5, ["ger"], ["comedy", "drama"], ["bini"], ["High School Musical"], ["Kenny Ortega"], ["Zac Efron", "Vanessa Hudgens", "Ashley Tisdale", "Olesya Rulin", "Miley Cyrus"], "https://66.media.tumblr.com/d751a95748c33aa4f43fb7a108c05ea6/tumblr_od3kchP53O1v2s5upo1_250.jpg"],
+["film", ["High School Musical 2", "High School Musical 2: Singt alle oder keiner!"], "2007", ["2016 09 06", "2021 10 30", "2026 03 13"], 6, ["ger"], ["comedy", "drama"], ["bini"], ["Disney+", "High School Musical"], ["Kenny Ortega"], ["Zac Efron", "Vanessa Hudgens", "Ashley Tisdale", "Olesya Rulin", "Miley Cyrus"], "https://66.media.tumblr.com/d751a95748c33aa4f43fb7a108c05ea6/tumblr_od3kchP53O1v2s5upo1_250.jpg"],
 	        
 ["film", ["Pippi in the South Seas", "Pippi in Taka-Tuka-Land", "Pippi Långstrump på de sju haven"], "1970", ["2017 04 11", "2021 12 29"], 7, ["ger"], ["adventure", "comedy"], ["bini"], ["Pippi"], ["Olle Hellbom"], ["Inger Nilsson", "Maria Persson", "Pär Sundberg"], "https://68.media.tumblr.com/bdacbc0341f6ded654556499df5fb2aa/tumblr_ooaksmvW5V1v2s5upo1_250.jpg"],
 	        
@@ -2020,7 +2020,7 @@ var database = [
 
 ["series", ["Dig Deeper - Das Verschwinden von Birgit Meier"], "2021", [["2021 11 30", "S1"], ["2021 12 29", "S1E2-S1E4"]], 7, ["ger"], ["documentary", "biography"], ["syl"], ["Netflix"], ["Nicolas Steiner"], [], "https://64.media.tumblr.com/3b91919efb858bcfcf591f9db7c22db9/38b29c14adc3282a-1e/s250x400/78ea2039298c0a08213cd981ca08a3e771419e7b.jpg"],
 
-["film", ["High School Musical 3: Senior Year", "High School Musical 3"], "2008", ["2021 12 01"], 5, ["ger"], ["comedy", "drama"], ["bini", "je"], ["Disney+", "High School Musical"], ["Kenny Ortega"], ["Zac Efron", "Vanessa Hudgens", "Ashley Tisdale", "Olesya Rulin"], "https://64.media.tumblr.com/984f686e42109c4ab2b1f8ed42a725b0/7b43f912cdd30802-16/s250x400/409f2a9d7222995e2ece144e65304e3c0107a8fb.jpg"],
+["film", ["High School Musical 3: Senior Year", "High School Musical 3"], "2008", ["2021 12 01", "2026 03 13"], 5, ["ger"], ["comedy", "drama"], ["bini", "je"], ["Disney+", "High School Musical"], ["Kenny Ortega"], ["Zac Efron", "Vanessa Hudgens", "Ashley Tisdale", "Olesya Rulin"], "https://64.media.tumblr.com/984f686e42109c4ab2b1f8ed42a725b0/7b43f912cdd30802-16/s250x400/409f2a9d7222995e2ece144e65304e3c0107a8fb.jpg"],
 
 ["book", ["Antarktis 2020"], "1973", [["2021 12 02", "2021 12 23", "C1-C8"]], 5, ["ger"], ["sci-fi"], [], ["ongoing"], ["Alexander Kröger"], [], "https://64.media.tumblr.com/a705751be543a77dacd8a294771f331f/e250dc98459be546-89/s250x400/ab755f19d9ce88ad2ee3e7f26d4108172e05a305.jpg"],
 
