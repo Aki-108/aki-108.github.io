@@ -2976,7 +2976,7 @@ var database = [
 
 ["film", ["Uncharted"], "2022", ["2024 05 08"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Ruben Fleischer"], ["Tom Holland", "Mark Wahlberg"], "https://64.media.tumblr.com/8567c6ec213296787a8137fdc8f751c4/390f5784347396d0-4f/s250x400/635727218d0afcca613ecb617404c37b9e2c80dd.jpg"],
 
-["film", ["Bullet Train"], "2022", ["2024 05 13"], 7, ["ger"], ["action", "comedy"], ["bini", "nico"], ["Netflix"], ["David Leitch"], ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson", "Brian Tyree Henry", "Hiroyuki Sanada", "Michael Shannon", "Sandra Bullock", "Logan Lerman", "Zazie Beetz"], "https://64.media.tumblr.com/a74c3ec091b171144ac50562a9a2dcf1/4eb56170934a59bb-26/s250x400/3bf99e978c552b9fb061e293e980a39133f94b0b.jpg"],
+["film", ["Bullet Train"], "2022", ["2024 05 13", "2026 03 14"], 7, ["ger"], ["action", "comedy"], ["bini", "nico"], ["Netflix"], ["David Leitch"], ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson", "Brian Tyree Henry", "Hiroyuki Sanada", "Michael Shannon", "Sandra Bullock", "Logan Lerman", "Zazie Beetz"], "https://64.media.tumblr.com/a74c3ec091b171144ac50562a9a2dcf1/4eb56170934a59bb-26/s250x400/3bf99e978c552b9fb061e293e980a39133f94b0b.jpg"],
 
 ["series", ["Death and Other Details"], "2024", [["2024 05 15", "2024 06 12", "S1"]], 6, ["ger"], ["crime", "drama"], ["bini", "nico"], ["Disney+"], ["Heidi Cole McAdams", "Mike Weiss"], ["Sophia Reid-Gantzert"], "https://64.media.tumblr.com/f42c6a6687a689902e06988d662a6cbb/9a36b150a966f6ac-c6/s250x400/4cedc0d13ce57b922a9586393c932b967f614dfb.jpg"],
 
