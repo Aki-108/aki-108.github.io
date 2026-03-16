@@ -3482,7 +3482,7 @@ var database = [
 
 ["film", ["The Sentinel", "The Sentinel - Wem kannst du trauen?"], "2006", ["2026 01 11"], 6, ["ger"], ["action", "crime", "thriller"], [], ["Netflix"], ["Clark Johnson"], ["Michael Douglas", "Kiefer Sutherland", "Eva Longoria"], "https://64.media.tumblr.com/c94f89769d148b17aa864c5625e5bf5a/bd120cf117b64caf-d6/s250x400/6899b79aad14478c8b7bfb58c070c3feb6ab23cf.jpg"],
 
-["series", ["Spy x Family"], "2022", [["2026 01 12", "2026 02 02", "S1"], ["2026 02 02", "", "S2"]], 0, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
+["series", ["Spy x Family"], "2022", [["2026 01 12", "2026 02 02", "S1.1"], ["2026 02 02", "2026 03 16", "S1.2"], ["2026 03 16", "", "S2"]], 7, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
 
 ["series", ["Who Is Erin Carter"], "2023", [["2026 01 17", "2026 01 25", "S1"]], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Jack Lothian"], [], "https://64.media.tumblr.com/308e8bdd99e629536db4db4aea54901b/5413021a12b322a7-a4/s250x400/00a51f0d7e07f53dbee85cfbaba6df0f7d212417.jpg"],
 
@@ -3514,7 +3514,7 @@ var database = [
 
 ["audiobook", ["The Mystery of the Fiery Eye", "Die drei ??? 005: und der Fluch des Rubins"], "1967", [["2026 01 26", "2026 01 27"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/d37fb0629a6564db1b5b46b7104c0e2d/9b3a815442cfdd0d-6d/s250x400/cc125b4be2e435a0c48e5e9a616d9ee1e9183458.jpg"],
 
-["series", ["Welcome to the N.H.K.", "Welcome to the N.H.K.", "NHK ni Youkoso!"], "2006", [["2026 01 26", ""]], 0, ["ger"], ["comedy"], ["bini", "nico"], ["watching"], [], [], "https://64.media.tumblr.com/d300f461e091db686e1fdaee7f67b79e/d2ea1552cc24ef59-57/s250x400/11a1d9d1677d4b7e3b01ff6171389b211d8d34c4.jpg"],
+["series", ["Welcome to the N.H.K.", "Welcome to the N.H.K.", "NHK ni Youkoso!"], "2006", [["2026 01 26", "2026 03 16"]], 6, ["ger"], ["comedy"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/d300f461e091db686e1fdaee7f67b79e/d2ea1552cc24ef59-57/s250x400/11a1d9d1677d4b7e3b01ff6171389b211d8d34c4.jpg"],
 
 ["audiobook", ["The Mystery of the Talking Skull", "Die drei ??? 006: und der sprechende Totenkopf"], "1969", ["2026 01 27"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Robert Arthur"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/10c6d7a825843ae850d1c39041f1074e/c6310e0a2873c0b9-45/s250x400/7cadc0175ef7de6121b5dcf9d124976fca5fba15.jpg"],
 
@@ -3690,7 +3690,9 @@ var database = [
 
 ["film", ["Accepted", "S.H.I.T. - Die Highschool GmbH"], "2006", ["2026 03 15"], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Steve Pink"], ["Justin Long", "Jonah Hill", "Blake Lively"], "https://64.media.tumblr.com/108a7675fa2c5230c0dcc66fbc8b14d8/85e577bdfd68488e-84/s250x400/f084adee84ced48ab51ca14c23bb4be2da4920e0.jpg"],
 
-["film", ["Der Nanny"], "2015", ["2026 03 15"], 3, ["ger"], ["comedy", "drama", "family"], [], ["Netflix"], ["Torsten Künstler", "Matthias Schweighöfer"], ["Matthias Schweighöfer", "Joko Winterscheidt"], "https://64.media.tumblr.com/c95c07d05255b2e99d770599f521555f/3a9c0b94ba306abf-e1/s250x400/787d0ac73bc080edd2d24e5481fbd5fda2267e6d.jpg"]
+["film", ["Der Nanny"], "2015", ["2026 03 15"], 3, ["ger"], ["comedy", "drama", "family"], [], ["Netflix"], ["Torsten Künstler", "Matthias Schweighöfer"], ["Matthias Schweighöfer", "Joko Winterscheidt"], "https://64.media.tumblr.com/c95c07d05255b2e99d770599f521555f/3a9c0b94ba306abf-e1/s250x400/787d0ac73bc080edd2d24e5481fbd5fda2267e6d.jpg"],
+
+["series", ["Mobile Suit Gundam: GQuuuuuuX", "Mobile Suit Gundam: GQuuuuuuX", "Kidou Senshi Gundam: GQuuuuuuX"], "2025", [["2026 03 16", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], [], [], "https://64.media.tumblr.com/a159a93f90b6589823416e62be3244cb/07b343206a58fddd-86/s250x400/1d98157b9a784e39eeff37607f5085cf60a468b6.jpg"]
 
 	/*
 ,
