@@ -446,11 +446,11 @@ var database = [
 	        
 ["film", ["Pirates of the Caribbean: The Curse of the Black Pearl", "Fluch der Karibik"], "2003", ["2016 01 01", "2021 09 30", ["2023 12 28", "2023 12 29"]], 7, ["ger"], ["action", "adventure"], ["bini", "je"], ["Fluch der Karibik", "Disney+"], ["Gore Verbinski"], ["Johnny Depp", "Geoffrey Rush", "Orlando Bloom", "Keira Knightley", "Martin Klebba", "Jack Davenport", "Kevin McNally", "Zoe Saldana"], "https://49.media.tumblr.com/af3b1288f9a294ce4dde9c78130fe348/tumblr_o0aoerwUJW1v2s5upo1_250.jpg"],
 	        
-["film", ["Lord of the Rings: The Fellowship of the Ring", "Der Herr der Ringe: Die Gefährten"], "2001", ["2015 12 06", "2016 12 17", ["2022 05 23", "2022 05 25", "Special Extended Edition"], ["2025 01 11", "Extended BD Edition"], ["2025 12 19", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], ["bini", "jessie", "nico"], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Elijah Wood", "Christopher Lee", "Hugo Weaving", "Marton Csokas"], "https://49.media.tumblr.com/9eba6052112edcedbcd28bf485170ed2/tumblr_o0cggdNfkK1v2s5upo1_250.jpg"],
+["film", ["Lord of the Rings: The Fellowship of the Ring", "Der Herr der Ringe: Die Gefährten"], "2001", ["2015 12 06", "2016 12 17", ["2022 05 23", "2022 05 25", "Special Extended Edition"], ["2025 01 11", "Extended BD Edition"], ["2025 12 19", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], ["bini", "jessie", "nico"], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Elijah Wood", "Christopher Lee", "Hugo Weaving", "Marton Csokas", "Liv Tyler"], "https://49.media.tumblr.com/9eba6052112edcedbcd28bf485170ed2/tumblr_o0cggdNfkK1v2s5upo1_250.jpg"],
 	        
-["film", ["The Lord of the Rings: The Two Towers", "Der Herr der Ringe: Die zwei Türme"], "2002", ["2016 01 04", "2016 12 17", ["2022 06 03", "2022 06 06", "Special Extended Edition"], ["2025 01 11", "Extended BD Edition"], ["2025 12 20", "2025 12 21", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], ["bini", "jessie", "nico"], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Sean Bean", "Christopher Lee", "Hugo Weaving", "David Wenham"], "https://40.media.tumblr.com/0c4330abd747db58db95ace6790a689d/tumblr_o0g28sodpV1v2s5upo1_250.jpg"],
+["film", ["The Lord of the Rings: The Two Towers", "Der Herr der Ringe: Die zwei Türme"], "2002", ["2016 01 04", "2016 12 17", ["2022 06 03", "2022 06 06", "Special Extended Edition"], ["2025 01 11", "Extended BD Edition"], ["2025 12 20", "2025 12 21", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], ["bini", "jessie", "nico"], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Sean Bean", "Christopher Lee", "Hugo Weaving", "David Wenham", "Liv Tyler"], "https://40.media.tumblr.com/0c4330abd747db58db95ace6790a689d/tumblr_o0g28sodpV1v2s5upo1_250.jpg"],
 	        
-["film", ["The Lord of the Rings: The Return of the King", "Der Herr der Ringe: Die Rückkehr des Königs"], "2003", ["2016 02 13", "2016 12 18", ["2022 06 08", "2022 06 10", "Special Extended Edition"], ["2025 01 11", "Extended BD Edition"], ["2025 12 21", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], ["bini", "jessie", "nico"], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Christopher Lee", "Hugo Weaving", "David Wenham", "Marton Csokas"], "https://49.media.tumblr.com/e79056db9dd93cc65ac09ee280ed973c/tumblr_o2j5yuqU8n1v2s5upo1_250.jpg"],
+["film", ["The Lord of the Rings: The Return of the King", "Der Herr der Ringe: Die Rückkehr des Königs"], "2003", ["2016 02 13", "2016 12 18", ["2022 06 08", "2022 06 10", "Special Extended Edition"], ["2025 01 11", "Extended BD Edition"], ["2025 12 21", "Special Extended Edition"]], 8, ["ger"], ["action", "adventure", "fantasy"], ["bini", "jessie", "nico"], ["Middle Earth", "bibliothek"], ["Peter Jackson"], ["Sean Astin", "Sean Bean", "Cate Blanchett", "Orlando Bloom", "Ian McKellen", "Dominic Monaghan", "Viggo Mortensen", "Miranda Otto", "Elijah Wood", "Christopher Lee", "Hugo Weaving", "David Wenham", "Marton Csokas", "Liv Tyler"], "https://49.media.tumblr.com/e79056db9dd93cc65ac09ee280ed973c/tumblr_o2j5yuqU8n1v2s5upo1_250.jpg"],
 	        
 ["film", ["Elizabethtown"], "2005", ["2015 08 25", "2024 11 01"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Cameron Crowe"], ["Orlando Bloom", "Kirsten Dunst", "Alec Baldwin", "Judy Greer", "Paul Schneider", "Bruce McGill", "Susan Sarandon"], "https://49.media.tumblr.com/04848757c806d3f770ff9451e851dc3a/tumblr_o0dvucxTZA1v2s5upo1_250.jpg"],
 	        
@@ -732,7 +732,7 @@ var database = [
 	        
 ["film", ["The Open House", "Open House"], "2018", ["2018 01 27"], 4, ["ger"], ["horror", "thriller"], [], ["Netflix"], ["Matt Angel", "Suzanne Coote"], ["Dylan Minnette"], "https://66.media.tumblr.com/cbec013e3520b4f63d6356c9bf1e6934/tumblr_pz45ssAoIw1v2s5upo1_250.jpg"],
 	        
-["film", ["Escape Plan"], "2013", ["2018 01 26"], 7, ["ger"], ["action", "thriller"], ["syl", "je"], ["Netflix"], ["Mikael Håfström"], ["Sylvester Stallone", "Arnold Schwarzenegger", "Vincent D'Onofrio"], "https://66.media.tumblr.com/316ab8735ddc59fdb7e478d9042f094c/tumblr_pz45qtQEfW1v2s5upo1_250.jpg"],
+["film", ["Escape Plan"], "2013", ["2018 01 26"], 7, ["ger"], ["action", "thriller"], ["syl", "je"], ["Netflix"], ["Mikael Håfström"], ["Sylvester Stallone", "Arnold Schwarzenegger", "Vincent D'Onofrio", "Vinnie Jones"], "https://66.media.tumblr.com/316ab8735ddc59fdb7e478d9042f094c/tumblr_pz45qtQEfW1v2s5upo1_250.jpg"],
 	        
 ["film", ["Your Name.", "Your Name.", "Kimi no na wa."], "2016", ["2018 01 14", "2019 02 08", "2020 08 22"], 9, ["ger"], ["anime", "drama"], ["syl", "bini", "jani"], ["Netflix", "Kino"], ["Makoto Shinkai"], [], "https://66.media.tumblr.com/449da3bb98c093ddaec2b0d469e09ab9/tumblr_pz45nofOoA1v2s5upo1_250.jpg"],
 	        
@@ -1162,7 +1162,7 @@ var database = [
 	        
 ["film", ["Iron Man Three", "Iron Man 3"], "2013", ["2016 03 28", ["2021 12 07", "2021 12 08"]], 9, ["ger"], ["action", "adventure"], ["je"], ["Marvel", "Avengers", "Netflix"], ["Shane Black"], ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Ben Kingsley", "James Badge Dale", "Stan Lee", "Mark Ruffalo", "Jenna Ortega", "Rebecca Hall", "Shaun Toub", "Bingbing Fan"], "https://49.media.tumblr.com/c864b3a35eab7507f075ec58e6ebac0e/tumblr_o4ririDQ7k1v2s5upo1_250.jpg"],
 	        
-["film", ["The Incredible Hulk", "Der unglaubliche Hulk"], "2008", ["2016 03 28"], 6, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Louis Leterrier"], ["Edward Norton", "Ty Burrell", "Robert Downey Jr.", "Stan Lee", "Tim Blake Nelson"], "https://40.media.tumblr.com/aa18fbc04b06b5a539d26518bfe21a27/tumblr_o4rq5d438j1v2s5upo1_250.jpg"],
+["film", ["The Incredible Hulk", "Der unglaubliche Hulk"], "2008", ["2016 03 28"], 6, ["ger"], ["action", "adventure"], [], ["Marvel", "Avengers"], ["Louis Leterrier"], ["Edward Norton", "Ty Burrell", "Robert Downey Jr.", "Stan Lee", "Tim Blake Nelson", "Liv Tyler"], "https://40.media.tumblr.com/aa18fbc04b06b5a539d26518bfe21a27/tumblr_o4rq5d438j1v2s5upo1_250.jpg"],
 	        
 ["film", ["Thor"], "2011", ["2016 03 29"], 7, ["ger"], ["action", "adventure"], ["bini"], ["Marvel", "Avengers"], ["Kenneth Branagh"], ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Anthony Hopkins", "Kat Dennings", "Clark Gregg", "Stan Lee", "Samuel L. Jackson", "Jeremy Renner", "Ray Stevenson", "Stellan Skarsgård", "Tadanobu Asano"], "https://49.media.tumblr.com/fd9020e7fe419b7fbe02f78f08454657/tumblr_o4srz0TS7k1v2s5upo1_250.jpg"],
 	        
@@ -2535,7 +2535,7 @@ var database = [
 
 ["film", ["8 Mile"], "2002", [["2023 02 25", "2023 02 26"]], 6, ["ger"], ["drama", "music"], [], ["Netflix"], ["Curtis Hanson"], ["Eminem", "Brittany Murphy", "Anthony Mackie"], "https://64.media.tumblr.com/0120cf074f65d7d4d2df9789cd0b8191/9c2a7c40e5ab33ab-7d/s250x400/f4fe56ae854cb4ae1793016919f62da7c9f7f8cf.jpg"],
 
-["film", ["Rainbow"], "2022", ["2023 02 26"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Paco León"], [], "https://64.media.tumblr.com/d61c5d3bdeb321978c1fe8b4b7511003/8ad7c51e301e4d19-ec/s250x400/1886095dda37c79100713c199a464ec004a844e7.jpg"],
+["film", ["Rainbow"], "2022", ["2023 02 26"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Paco León"], ["Debi Mazar"], "https://64.media.tumblr.com/d61c5d3bdeb321978c1fe8b4b7511003/8ad7c51e301e4d19-ec/s250x400/1886095dda37c79100713c199a464ec004a844e7.jpg"],
 
 ["film", ["Spiderhead", "Der Spinnenkopf"], "2022", ["2023 02 28"], 6, ["ger"], ["sci-fi"], [], ["Netflix"], ["Joseph Kosinski"], ["Chris Hemsworth", "Miles Teller", "Joey Vieira"], "https://64.media.tumblr.com/2cdc01a722f7dc021ea8cd8771e3e265/fcb39a7f5517ced8-9e/s250x400/270f5ed916819d63be8677d2f89dcf3e2dd4d61c.jpg"],
 
@@ -3392,7 +3392,7 @@ var database = [
 
 ["audiobook", ["Has Anyone Seen Jessica Jenkins?", "Plötzlich unsichtbar"], "2015", [["2025 10 03", "2025 10 07"]], 7, ["ger"], ["fantasy"], [], ["bibliothek"], ["Liz Kessler"], ["Jodie Ahlborn", "Uticha Marmon"], "https://64.media.tumblr.com/926492d36f8556c21ad8a9dafe235862/647ab38495ee0c9d-90/s250x400/d0c8368b893b0bd76f4f7cdac89a41b786276f81.jpg"],
 
-["film", ["Seventh Son", "Der siebte Sohn"], "2014", ["2025 10 04"], 4, ["ger"], ["action", "adventure", "fantasy"], [], ["Netflix"], ["Sergei Bodrov"], ["Jeff Bridges", "Ben Barnes", "Julianne Moore", "Alicia Vikander", "Antje Traue", "Djimon Hounsou"], "https://64.media.tumblr.com/9e945d1fc35dec4de614c0975463c5b1/143c188e35eb7dc3-61/s250x400/2a0f08265f6105a011f2cd90cf0214008ffba5dd.jpg"],
+["film", ["Seventh Son", "Der siebte Sohn"], "2014", ["2025 10 04"], 4, ["ger"], ["action", "adventure", "fantasy"], [], ["Netflix"], ["Sergei Bodrov"], ["Jeff Bridges", "Ben Barnes", "Julianne Moore", "Alicia Vikander", "Antje Traue", "Djimon Hounsou", "Kandyse McClure"], "https://64.media.tumblr.com/9e945d1fc35dec4de614c0975463c5b1/143c188e35eb7dc3-61/s250x400/2a0f08265f6105a011f2cd90cf0214008ffba5dd.jpg"],
 
 ["film", ["Accident Man"], "2018", ["2025 10 17"], 7, ["ger"], ["action", "adventure", "comedy"], [], ["Netflix"], ["Jesse V. Johnson"], ["Scott Adkins", "Ray Stevenson"], "https://64.media.tumblr.com/4f49db366d1f4fe4163aa0bca27ce10d/eac41ae1c3b503f5-2c/s250x400/4d0ea4044a6b1fe5f65c1c15e698ac0c63d0844b.jpg"],
 
@@ -3692,7 +3692,15 @@ var database = [
 
 ["film", ["Der Nanny"], "2015", ["2026 03 15"], 3, ["ger"], ["comedy", "drama", "family"], [], ["Netflix"], ["Torsten Künstler", "Matthias Schweighöfer"], ["Matthias Schweighöfer", "Joko Winterscheidt"], "https://64.media.tumblr.com/c95c07d05255b2e99d770599f521555f/3a9c0b94ba306abf-e1/s250x400/787d0ac73bc080edd2d24e5481fbd5fda2267e6d.jpg"],
 
-["series", ["Mobile Suit Gundam: GQuuuuuuX", "Mobile Suit Gundam: GQuuuuuuX", "Kidou Senshi Gundam: GQuuuuuuX"], "2025", [["2026 03 16", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], [], [], "https://64.media.tumblr.com/a159a93f90b6589823416e62be3244cb/07b343206a58fddd-86/s250x400/1d98157b9a784e39eeff37607f5085cf60a468b6.jpg"]
+["series", ["Mobile Suit Gundam: GQuuuuuuX", "Mobile Suit Gundam: GQuuuuuuX", "Kidou Senshi Gundam: GQuuuuuuX"], "2025", [["2026 03 16", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], [], [], "https://64.media.tumblr.com/a159a93f90b6589823416e62be3244cb/07b343206a58fddd-86/s250x400/1d98157b9a784e39eeff37607f5085cf60a468b6.jpg"],,
+
+["film", ["Snatch", "Snatch: Schweine und Diamanten"], "2000", ["2026 03 20"], 4, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Guy Ritchie"], ["Brad Pitt", "Jason Statham", "Vinnie Jones"], "https://64.media.tumblr.com/0402166b0e0aed154ef09d0c6906b4c9/8b3579e1ca4e6fbd-6c/s250x400/c7787379b613c59b10768b8d98347bae9878c124.jpg"],
+
+["film", ["Empire Records", "Das Empire Team"], "1995", ["2026 03 21"], 6, ["ger"], ["comedy", "drama", "music"], [], ["Netflix"], ["Allan Moyle"], ["Debi Mazar", "Robin Tunney", "Liv Tyler"], "https://64.media.tumblr.com/adf562131ef65a72bfd7f28bee0e8298/f1b3a6f8ca164d8d-c1/s250x400/56d3873d0645da04b62e122aa6271075c64c78f7.jpg"],
+
+["film", ["My Spy", "Der Spion von nebenan"], "2020", ["2026 03 21"], 6, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Peter Segal"], ["Dave Bautista", "Chloe Coleman", "Ken Jeong"], "https://64.media.tumblr.com/2ba543c14a5c7dc2667dbf8bc4af73ba/4531b7a29e18e636-9b/s250x400/0b9834d34b83b69fe7ccafec302ca07991d7aff2.jpg"],
+
+["film", ["The Client List", "Die Liste"], "2010", ["2026 03 21"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Eric Laneuville"], ["Jennifer Love Hewitt", "Chelah Horsdal", "Heather Doerksen", "Kandyse McClure"], "https://64.media.tumblr.com/b827fb68670a8d0a8db8b560a6020a4f/db57b3c18cd41982-5f/s250x400/6cf6624d17ca3521d01873893462d628ed1d2602.jpg"]
 
 	/*
 ,
