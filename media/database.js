@@ -3414,7 +3414,7 @@ var database = [
 
 ["short", ["Herr Bergmanns Rotkäppchen"], "2024", ["2025 11 02"], 4, ["ger"], ["animation"], [], ["ZDF Neo"], ["Tim Bergmann"], [], "https://64.media.tumblr.com/cb598a7d846948d2e92d8b32232296c0/580ab23dec337dfb-a3/s250x400/f0dd2c06f78a9ecc9e2716e3352362193dc2e0fd.jpg"],
 
-["series", ["The Lord of the Rings: The Rings of Power", "Der Herr der Ringe: Die Ringe der Macht"], "2022", [["2025 11 16", "", "S1"]], 0, ["ger"], ["action", "adventure", "drama"], [], ["ZDF Neo", "watching"], ["John D. Payne", "Patrick McKay"], [], "https://64.media.tumblr.com/ca2828dfc0ff69eca577534760443e87/0cf817645c2fed68-8d/s250x400/5ad1fcc999ed9743c865a568e2ee475e40c82c8a.jpg"],
+["series", ["The Lord of the Rings: The Rings of Power", "Der Herr der Ringe: Die Ringe der Macht"], "2022", [["2025 11 16", "2025 11 18", "S1E1-S1E4"]], 0, ["ger"], ["action", "adventure", "drama"], [], ["ZDF Neo", "dropped"], ["John D. Payne", "Patrick McKay"], [], "https://64.media.tumblr.com/ca2828dfc0ff69eca577534760443e87/0cf817645c2fed68-8d/s250x400/5ad1fcc999ed9743c865a568e2ee475e40c82c8a.jpg"],
 
 ["audiobook", ["Tee? Kaffee? Mord! 18 - Die gestohlene Braut"], "2021", [["2025 11 18", "2025 11 24"]], 5, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/606feafa4ff2a245e9cc39eda4b5359b/0554f2bf166ff8b2-02/s250x400/9c9ffb2bff8416f9cd8689dffcdf03cfbddd26f4.jpg"],
 
@@ -3692,7 +3692,7 @@ var database = [
 
 ["film", ["Der Nanny"], "2015", ["2026 03 15"], 3, ["ger"], ["comedy", "drama", "family"], [], ["Netflix"], ["Torsten Künstler", "Matthias Schweighöfer"], ["Matthias Schweighöfer", "Joko Winterscheidt"], "https://64.media.tumblr.com/c95c07d05255b2e99d770599f521555f/3a9c0b94ba306abf-e1/s250x400/787d0ac73bc080edd2d24e5481fbd5fda2267e6d.jpg"],
 
-["series", ["Mobile Suit Gundam: GQuuuuuuX", "Mobile Suit Gundam: GQuuuuuuX", "Kidou Senshi Gundam: GQuuuuuuX"], "2025", [["2026 03 16", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], [], [], "https://64.media.tumblr.com/a159a93f90b6589823416e62be3244cb/07b343206a58fddd-86/s250x400/1d98157b9a784e39eeff37607f5085cf60a468b6.jpg"],,
+["series", ["Mobile Suit Gundam: GQuuuuuuX", "Mobile Suit Gundam: GQuuuuuuX", "Kidou Senshi Gundam: GQuuuuuuX"], "2025", [["2026 03 16", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], [], [], "https://64.media.tumblr.com/a159a93f90b6589823416e62be3244cb/07b343206a58fddd-86/s250x400/1d98157b9a784e39eeff37607f5085cf60a468b6.jpg"],
 
 ["film", ["Snatch", "Snatch: Schweine und Diamanten"], "2000", ["2026 03 20"], 4, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Guy Ritchie"], ["Brad Pitt", "Jason Statham", "Vinnie Jones"], "https://64.media.tumblr.com/0402166b0e0aed154ef09d0c6906b4c9/8b3579e1ca4e6fbd-6c/s250x400/c7787379b613c59b10768b8d98347bae9878c124.jpg"],
 
@@ -3700,7 +3700,13 @@ var database = [
 
 ["film", ["My Spy", "Der Spion von nebenan"], "2020", ["2026 03 21"], 6, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Peter Segal"], ["Dave Bautista", "Chloe Coleman", "Ken Jeong"], "https://64.media.tumblr.com/2ba543c14a5c7dc2667dbf8bc4af73ba/4531b7a29e18e636-9b/s250x400/0b9834d34b83b69fe7ccafec302ca07991d7aff2.jpg"],
 
-["film", ["The Client List", "Die Liste"], "2010", ["2026 03 21"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Eric Laneuville"], ["Jennifer Love Hewitt", "Chelah Horsdal", "Heather Doerksen", "Kandyse McClure"], "https://64.media.tumblr.com/b827fb68670a8d0a8db8b560a6020a4f/db57b3c18cd41982-5f/s250x400/6cf6624d17ca3521d01873893462d628ed1d2602.jpg"]
+["film", ["The Client List", "Die Liste"], "2010", ["2026 03 21"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Eric Laneuville"], ["Jennifer Love Hewitt", "Chelah Horsdal", "Heather Doerksen", "Kandyse McClure"], "https://64.media.tumblr.com/b827fb68670a8d0a8db8b560a6020a4f/db57b3c18cd41982-5f/s250x400/6cf6624d17ca3521d01873893462d628ed1d2602.jpg"],
+
+["audiobook", ["Die drei ??? 067: Geheimnis der Särge"], "1996", [["2026 03 11", "2026 03 13"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/dedfbbe89e8aacb57874d193f35ff3fb/b9a8fc7f0ad10667-e8/s250x400/1c68c46e54b4b30f8f4d6b18e5aa8320860d2f9f.jpg"],
+
+["audiobook", ["Die drei ??? 068: Schatz im Bergsee"], "1996", [["2026 03 13", "2026 03 16"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/90629458651a034d06b9f963e513dd4c/e230fe5c19988402-fc/s250x400/4f08457c04bfecfc3e91e99f31012b61518b7131.jpg"],
+
+["audiobook", ["Die drei ??? 069: Späte Rache"], "1996", [["2026 03 17", "2026 03 19"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/a50fde98e66de2bfea414dc1ef85d71a/3a0f737c472dea7c-23/s250x400/25917b3e2cfbab996b078ee0a4c0db9a476bd438.jpg"]
 
 	/*
 ,
