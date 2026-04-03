@@ -2722,7 +2722,7 @@ var database = [
 
 ["film", ["Offline: Are You Ready for the Next Level?", "Offline - Das Leben ist kein Bonuslevel"], "2016", ["2023 09 30"], 5, ["ger"], ["adventure", "comedy"], [], ["bibliothek"], ["Florian Schnell"], ["Moritz Jahn", "Mala Emde"], "https://64.media.tumblr.com/f30215fd593b6c2ff33c314b2d7fe7b4/ec8601b8e321c9f0-d8/s250x400/1260165125423288bbb937ccaf06a4e6a82f737b.jpg"],
 
-["film", ["Suck Me Shakespeer 3", "Fack ju Göhte 3"], "2017", ["2023 10 01"], 5, ["ger"], ["comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Jella Haase", "Katja Riemann", "Gizem Emre", "Lena Klenke", "Lea van Acken", "Max von der Groeben"], "https://64.media.tumblr.com/6df44b65354b09f7c9df1e60e7a87411/df81f7d35a86e8d2-b4/s250x400/d4aa627f0b1832242abad242d91249b5d1d53a8a.jpg"],
+["film", ["Suck Me Shakespeer 3", "Fack ju Göhte 3"], "2017", ["2023 10 01"], 5, ["ger"], ["comedy"], [], ["Netflix"], ["Bora Dagtekin"], ["Elyas M'Barek", "Jella Haase", "Katja Riemann", "Gizem Emre", "Lena Klenke", "Lea van Acken", "Max von der Groeben", "Sandra Hüller"], "https://64.media.tumblr.com/6df44b65354b09f7c9df1e60e7a87411/df81f7d35a86e8d2-b4/s250x400/d4aa627f0b1832242abad242d91249b5d1d53a8a.jpg"],
 
 ["short", ["From A to Q"], "2021", ["2023 10 02"], 4, ["eng"], [], [], [], ["Emmalie El Fadli"], [], "https://64.media.tumblr.com/a4fd4756b43486977476a10badd53b95/d62775a19eb496a8-59/s250x400/56488016d37e981ec2d9a945524ef2e4a76f695f.jpg"],
 
@@ -3098,7 +3098,7 @@ var database = [
 
 ["film", ["Kleks Academy", "Die Akademie des Meisters Klex", "Akademia pana Kleksa"], "2023", ["2024 10 13"], 7, ["ger"], ["fantasy"], [], ["Netflix"], ["Maciej Kawulski"], [], "https://64.media.tumblr.com/c38fa003ec300e3081a56cbc8cd00adf/46a0dc7171f6c43b-00/s250x400/d9d24fd134f11885baa94ee4ae6a8b6c8290d71d.jpg"],
 
-["film", ["Ferris Bueller's Day Off", "Ferris macht blau"], "1986", ["2024 10 26"], 8, ["eng"], ["comedy"], [], ["Netflix"], ["John Hughes"], ["Lyman Ward", "Charlie Sheen", "Mia Sara"], "https://64.media.tumblr.com/f6419cca753df3c7c89582220d2d2130/97f2e1c82b9db298-b2/s250x400/aa340ed95fcaa3450c0a92a1936b43508ed71bd3.jpg"],
+["film", ["Ferris Bueller's Day Off", "Ferris macht blau"], "1986", ["2024 10 26"], 8, ["eng"], ["comedy"], [], ["Netflix"], ["John Hughes"], ["Lyman Ward", "Charlie Sheen", "Mia Sara", "Jeffrey Jones"], "https://64.media.tumblr.com/f6419cca753df3c7c89582220d2d2130/97f2e1c82b9db298-b2/s250x400/aa340ed95fcaa3450c0a92a1936b43508ed71bd3.jpg"],
 
 ["film", ["Django Unchained"], "2012", ["2024 10 26"], 8, ["eng"], ["comedy", "drama"], [], ["Netflix"], ["Quentin Tarantino"], ["Jamie Foxx", "Christoph Waltz", "Leonardo DiCaprio", "Samuel L. Jackson", "Kerry Washington", "Walton Goggins", "Zoë Bell"], "https://64.media.tumblr.com/b7509d13ac0d99d0702f60b70d14ffcf/6ea472469b8ad7c0-72/s250x400/438ee8a8cac977ac193f6db0095795a32c0b3967.jpg"],
 
@@ -3468,7 +3468,7 @@ var database = [
 
 ["film", ["Runaway Jury", "Das Urteil - Jeder ist käuflich"], "2003", ["2026 01 02"], 6, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["Gary Fleder"], ["John Cusack", "Gene Hackman", "Dustin Hoffman", "Rachel Weisz", "Bruce Davison", "Bruce McGill", "Nick Searcy", "Cliff Curtis"], "https://64.media.tumblr.com/f4a66d9a6543d7069eb8670492a9c1f0/82106b00b240067b-f9/s250x400/6a8e7c599fe46df3a7108a9776217f5cb7159df0.jpg"],
 
-["film", ["The Hunt for Red October", "Jagd auf Roter Oktober"], "1990", ["2026 01 02"], 7, ["ger"], ["action", "adventure", "thriller"], [], ["Netflix"], ["John McTiernan"], ["Sean Connery", "Alec Baldwin", "Scott Glenn", "Sam Neill", "Stellan Skarsgård"], "https://64.media.tumblr.com/fab7582a545600a37b614d7231c6c428/3726c0813e6a1d13-70/s250x400/2d55fd56ff17e47afad673399173edd4331d898f.jpg"],
+["film", ["The Hunt for Red October", "Jagd auf Roter Oktober"], "1990", ["2026 01 02"], 7, ["ger"], ["action", "adventure", "thriller"], [], ["Netflix"], ["John McTiernan"], ["Sean Connery", "Alec Baldwin", "Scott Glenn", "Sam Neill", "Stellan Skarsgård", "Jeffrey Jones"], "https://64.media.tumblr.com/fab7582a545600a37b614d7231c6c428/3726c0813e6a1d13-70/s250x400/2d55fd56ff17e47afad673399173edd4331d898f.jpg"],
 
 ["film", ["21"], "2008", ["2026 01 03"], 7, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["Robert Luketic"], ["Jim Sturgess", "Kevin Spacey", "Aaron Yoo", "Jacob Pitts", "Laurence Fishburne", "Josh Gad"], "https://64.media.tumblr.com/17d22982c2d22409654987293653cb81/9d36244846fd1fb2-7b/s250x400/ed81fc32d27464f2367f601afb37624a5112296b.jpg"],
 
@@ -3674,9 +3674,13 @@ var database = [
 
 ["film", ["Blade Runner 2049"], "2017", ["2026 03 11"], 5, ["ger"], ["action", "drama", "mystery"], [], ["Netflix"], ["Denis Villeneuve"], ["Ryan Gosling", "Dave Bautista", "Robin Wright", "Ana de Armas", "David Dastmalchian", "Tómas Lemarquis", "Jared Leto", "Harrison Ford"], "https://64.media.tumblr.com/f30078f8b04970609bebfb1cdfaabffe/0d5440c2c1683e08-9d/s250x400/e7ba2a6a41b494dad68d30b185283b07cdb54a29.jpg"],
 
+["audiobook", ["Die drei ??? 067: Geheimnis der Särge"], "1996", [["2026 03 11", "2026 03 13"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/dedfbbe89e8aacb57874d193f35ff3fb/b9a8fc7f0ad10667-e8/s250x400/1c68c46e54b4b30f8f4d6b18e5aa8320860d2f9f.jpg"],
+
 ["film", ["Zootopia 2", "Zoomania 2"], "2025", ["2026 03 12"], 6, ["ger"], ["animation", "action", "adventure"], [], ["Disney+"], ["Jared Bush", "Byron Howard"], [], "https://64.media.tumblr.com/c546e3ca18c7b2088077905482b0fb8c/6c660f87003cd306-03/s250x400/a50a3e2b31f20d1c224c9c55b2435ebe3b8e231b.jpg"],
 
 ["film", ["Romeo + Juliet", "William Shakespeares Romeo & Julia"], "1996", ["2026 03 12"], 4, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Baz Luhrmann"], ["Leonardo DiCaprio", "Claire Danes", "John Leguizamo", "Harold Perrineau", "Pete Postlethwaite", "Paul Rudd"], "https://64.media.tumblr.com/a03351223bd9ec984016656e8d9c7450/5cd1ab8db7fc2bf4-8f/s250x400/3d20a389236c1f5a98c1c173dda50b3058c35578.jpg"],
+
+["audiobook", ["Die drei ??? 068: Schatz im Bergsee"], "1996", [["2026 03 13", "2026 03 16"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/90629458651a034d06b9f963e513dd4c/e230fe5c19988402-fc/s250x400/4f08457c04bfecfc3e91e99f31012b61518b7131.jpg"],
 
 ["film", ["Hudson Hawk", "Hudson Hawk - Der Meisterdieb"], "1991", ["2026 03 14"], 6, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Michael Lehmann"], ["Bruce Willis", "Andie MacDowell"], "https://64.media.tumblr.com/90161a542038b3f9d64e66b983039d5f/b16566c971f11b38-b9/s250x400/2b58a6b61c193d2d4249217aff950c73c7cde808.jpg"],
 
@@ -3694,6 +3698,8 @@ var database = [
 
 ["series", ["Mobile Suit Gundam: GQuuuuuuX", "Mobile Suit Gundam: GQuuuuuuX", "Kidou Senshi Gundam: GQuuuuuuX"], "2025", [["2026 03 16", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], [], [], "https://64.media.tumblr.com/a159a93f90b6589823416e62be3244cb/07b343206a58fddd-86/s250x400/1d98157b9a784e39eeff37607f5085cf60a468b6.jpg"],
 
+["audiobook", ["Die drei ??? 069: Späte Rache"], "1996", [["2026 03 17", "2026 03 19"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/a50fde98e66de2bfea414dc1ef85d71a/3a0f737c472dea7c-23/s250x400/25917b3e2cfbab996b078ee0a4c0db9a476bd438.jpg"],
+
 ["film", ["Snatch", "Snatch: Schweine und Diamanten"], "2000", ["2026 03 20"], 4, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Guy Ritchie"], ["Brad Pitt", "Jason Statham", "Vinnie Jones"], "https://64.media.tumblr.com/0402166b0e0aed154ef09d0c6906b4c9/8b3579e1ca4e6fbd-6c/s250x400/c7787379b613c59b10768b8d98347bae9878c124.jpg"],
 
 ["film", ["Empire Records", "Das Empire Team"], "1995", ["2026 03 21"], 6, ["ger"], ["comedy", "drama", "music"], [], ["Netflix"], ["Allan Moyle"], ["Debi Mazar", "Robin Tunney", "Liv Tyler"], "https://64.media.tumblr.com/adf562131ef65a72bfd7f28bee0e8298/f1b3a6f8ca164d8d-c1/s250x400/56d3873d0645da04b62e122aa6271075c64c78f7.jpg"],
@@ -3702,11 +3708,11 @@ var database = [
 
 ["film", ["The Client List", "Die Liste"], "2010", ["2026 03 21"], 6, ["ger"], ["drama"], [], ["Netflix"], ["Eric Laneuville"], ["Jennifer Love Hewitt", "Chelah Horsdal", "Heather Doerksen", "Kandyse McClure"], "https://64.media.tumblr.com/b827fb68670a8d0a8db8b560a6020a4f/db57b3c18cd41982-5f/s250x400/6cf6624d17ca3521d01873893462d628ed1d2602.jpg"],
 
-["audiobook", ["Die drei ??? 067: Geheimnis der Särge"], "1996", [["2026 03 11", "2026 03 13"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/dedfbbe89e8aacb57874d193f35ff3fb/b9a8fc7f0ad10667-e8/s250x400/1c68c46e54b4b30f8f4d6b18e5aa8320860d2f9f.jpg"],
+["film", ["Mermaids", "Meerjungfrauen küssen besser"], "1990", ["2026 03 29"], 7, ["ger"], ["comedy", "drama", "romance"], [], ["Netflix"], ["Richard Benjamin"], ["Cher", "Winona Ryder", "Michael Schoeffling", "Christina Ricci"], "https://64.media.tumblr.com/a316209aeb6aa93b95ab37aae78cd34b/254e846a55876b05-72/s250x400/4f6d8945162e97388caa5b5c6e51630e0b346608.jpg"],
 
-["audiobook", ["Die drei ??? 068: Schatz im Bergsee"], "1996", [["2026 03 13", "2026 03 16"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/90629458651a034d06b9f963e513dd4c/e230fe5c19988402-fc/s250x400/4f08457c04bfecfc3e91e99f31012b61518b7131.jpg"],
+["film", ["Beetlejuice"], "1988", ["2026 03 29"], 7, ["ger"], ["comedy", "fantasy"], [], ["Netflix"], ["Tim Burton"], ["Alec Baldwin", "Michael Keaton", "Jeffrey Jones", "Winona Ryder"], "https://64.media.tumblr.com/299c90e36aa1963510b8097cc6a65686/ff66ab33d7753fbc-de/s250x400/ef800313084a809919e3528886e4415f866b0b46.jpg"],
 
-["audiobook", ["Die drei ??? 069: Späte Rache"], "1996", [["2026 03 17", "2026 03 19"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/a50fde98e66de2bfea414dc1ef85d71a/3a0f737c472dea7c-23/s250x400/25917b3e2cfbab996b078ee0a4c0db9a476bd438.jpg"]
+["film", ["Project Hail Mary", "Der Astronaut - Project Hail Mary"], "2026", ["2026 04 02"], 9, ["ger"], ["adventure", "comedy", "sci-fi"], ["bini", "jani"], ["Kino"], ["Phil Lord", "Christopher Miller"], ["Ryan Gosling", "Sandra Hüller", "Ken Leung"], "https://64.media.tumblr.com/1bde111cd53b108929caec8cf008857d/626a654b6a3f6827-22/s250x400/e9c92b0a1876d6c7ed82d46eb3ee7b7a16608862.jpg"]
 
 	/*
 ,
