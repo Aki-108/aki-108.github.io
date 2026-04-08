@@ -3608,7 +3608,7 @@ var database = [
 
 ["audiobook", ["The Case of Dancing Dinosaur", "Die drei ??? 041: und das Volk der Winde"], "1985", [["2026 02 24", "2026 02 25"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Rose Estes"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/8fde5f1aa4d5428b9c284e91e93cda20/561106fca90be091-60/s250x400/f1bb2b3eddf4ea3712b77448fd628664b3bac1fa.jpg"],
 
-["book", ["Emma und das vergessene Buch"], "2019", [["2026 02 25", ""]], 0, ["ger"], ["fantasy"], [], ["bibliothek", "watching"], ["Mechthild Gläser"], [], "https://64.media.tumblr.com/5dd63eb5c7a222f8ce2ad225082aa9d7/5e524965efdef65b-22/s250x400/39b6e0c40ec943d44e37c941519149ece5b840f7.jpg"],
+["book", ["Emma und das vergessene Buch"], "2019", [["2026 02 25", "2026 04 08"]], 8, ["ger"], ["fantasy"], [], ["bibliothek"], ["Mechthild Gläser"], [], "https://64.media.tumblr.com/5dd63eb5c7a222f8ce2ad225082aa9d7/5e524965efdef65b-22/s250x400/39b6e0c40ec943d44e37c941519149ece5b840f7.jpg"],
 
 ["audiobook", ["The Case of the Weeping Coffin", "Die drei ??? 042: und der weinende Sarg"], "1985", ["", ["2026 02 25", "2026 02 26"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Megan", "H. William Stine"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/8f124970b5f05a711360223dfa26123c/f9477c2315492575-7e/s250x400/805375442fd32a7fda2d7ffd673db4a115cad312.jpg"],
 
