@@ -1218,7 +1218,7 @@ var database = [
 	        
 ["film", ["Dreamer: Inspired by a True Story", "Dreamer - Ein Traum wird wahr"], "2005", ["2015 12 27"], 6, ["ger"], ["drama", "family"], [], [], ["John Gatins"], ["Dakota Fanning", "Luis Guzmán", "Rhoda Griffis", "Kurt Russell"], "https://40.media.tumblr.com/d8582e48c22d0f3284ca20ecf66b7315/tumblr_o00ocw9pIp1v2s5upo1_250.jpg"],
 	        
-["film", ["Night Moves"], "2013", ["2015 12 27"], 6, ["ger"], ["drama", "thriller"], [], [], ["Kelly Reichardt"], ["Jesse Eisenberg", "Dakota Fanning", "Nate Mooney"], "https://49.media.tumblr.com/707dd6cf89a0a2e9bb57e4ebe1381ff3/tumblr_o00wiwKTpp1v2s5upo1_250.jpg"],
+["film", ["Night Moves"], "2013", ["2015 12 27"], 6, ["ger"], ["drama", "thriller"], [], [], ["Kelly Reichardt"], ["Jesse Eisenberg", "Dakota Fanning", "Nate Mooney", "Peter Sarsgaard"], "https://49.media.tumblr.com/707dd6cf89a0a2e9bb57e4ebe1381ff3/tumblr_o00wiwKTpp1v2s5upo1_250.jpg"],
 	        
 ["film", ["Ghost World"], "2001", ["2015 12 27"], 6, ["ger"], ["comedy", "drama"], [], [], ["Terry Zwigoff"], ["Scarlett Johansson", "Steve Buscemi", "Joy Bisco", "Thora Birch"], "https://40.media.tumblr.com/cc96e5953ab6ca47055bf70c574a55db/tumblr_o019966Kof1v2s5upo1_250.jpg"],
 	        
@@ -3712,7 +3712,33 @@ var database = [
 
 ["film", ["Beetlejuice"], "1988", ["2026 03 29"], 7, ["ger"], ["comedy", "fantasy"], [], ["Netflix"], ["Tim Burton"], ["Alec Baldwin", "Michael Keaton", "Jeffrey Jones", "Winona Ryder"], "https://64.media.tumblr.com/299c90e36aa1963510b8097cc6a65686/ff66ab33d7753fbc-de/s250x400/ef800313084a809919e3528886e4415f866b0b46.jpg"],
 
-["film", ["Project Hail Mary", "Der Astronaut - Project Hail Mary"], "2026", ["2026 04 02"], 9, ["ger"], ["adventure", "comedy", "sci-fi"], ["bini", "jani"], ["Kino"], ["Phil Lord", "Christopher Miller"], ["Ryan Gosling", "Sandra Hüller", "Ken Leung"], "https://64.media.tumblr.com/1bde111cd53b108929caec8cf008857d/626a654b6a3f6827-22/s250x400/e9c92b0a1876d6c7ed82d46eb3ee7b7a16608862.jpg"]
+["film", ["Project Hail Mary", "Der Astronaut - Project Hail Mary"], "2026", ["2026 04 02"], 9, ["ger"], ["adventure", "comedy", "sci-fi"], ["bini", "jani"], ["Kino"], ["Phil Lord", "Christopher Miller"], ["Ryan Gosling", "Sandra Hüller", "Ken Leung"], "https://64.media.tumblr.com/1bde111cd53b108929caec8cf008857d/626a654b6a3f6827-22/s250x400/e9c92b0a1876d6c7ed82d46eb3ee7b7a16608862.jpg"],
+
+["film", ["Beetlejuice Beetlejuice"], "2024", ["2026 04 10"], 7, ["ger"], ["comedy", "fantasy"], [], ["Netflix"], ["Tim Burton"], ["Michael Keaton", "Winona Ryder", "Jenna Ortega", "Willem Dafoe", "Burn Gorman", "Danny DeVito"], "https://64.media.tumblr.com/e0bca0d20c2493e95533d58944203c05/4c8676bffc22f12d-1a/s250x400/5880f93580ab486975a419b47146c0c72ef4d624.jpg"],
+
+["film", ["The Man in the Iron Mask", "Der Mann in der eisernen Maske"], "1998", ["2026 04 12"], 6, ["ger"], ["action", "adventure", "drama"], [], ["Netflix"], ["Randall Wallace"], ["Leonardo DiCaprio", "Jeremy Irons", "John Malkovich", "Peter Sarsgaard"], "https://64.media.tumblr.com/79c8617546460357d0c340688a9a68ae/6c1f01114bc26be5-3f/s250x400/c87883ac5c83767684e7d2a36056c4d8e5c2a2ba.jpg"],
+
+["audiobook", ["Die drei ??? 70: Schüsse aus dem Dunkel"], "1996", ["2026 04 13"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/63e662b1ba7a45abc4da316fc408f14b/0ee6d83dbf3408a4-f7/s250x400/b6f1fa04c59290d0d9dc3a53fae251e0e09292fc.jpg"],
+
+["audiobook", ["Die drei ??? 71: Die verschwundene Seglerin"], "1996", ["2026 04 13"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/3e12d5146939a2ce760366dfca25f43d/f0e52dca6cfeb5c0-fc/s250x400/2155a1cc2c28fd3f902cc94e8ac932a88a67cf48.jpg"],
+
+["audiobook", ["Die drei ??? 72: Dreckiger Deal"], "1996", ["2026 04 13"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/8a81e0f1cad6f3b9e2898e1ff2695cda/6edbfda4227ba8f9-0d/s250x400/257590cb7acc7b01fb06ded5b0ff71d40cb697b7.jpg"],
+
+["audiobook", ["Die drei ??? 73: Poltergeist"], "1997", ["2026 04 13"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/0926f9dca072ebef4e6aa6c1f6e83ee6/372336f44a914d3b-0d/s250x400/874e21cd6e53a6d07cfa1d2d6d2485bcd0e2e0a7.jpg"],
+
+["audiobook", ["Die drei ??? 74: und das brennende Schwert"], "1997", ["2026 04 13"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/ad4ecc664a3c94f8ccd18f116801e0bc/c4ab36969d12252e-97/s250x400/c2d24d76de3d026afd3669f1dc3a238443f4db0d.jpg"],
+
+["audiobook", ["Die drei ??? 75: Die Spur des Raben"], "1997", ["2026 04 13"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/efaacc62cc6726f093ff1872892d0aa5/fd5d0932fa4fefe9-3b/s250x400/96acd8eb4c18c0e50cfd7f87e12d322d1c2e8d7f.jpg"],
+
+["audiobook", ["Die drei ??? 76: Stimmen aus dem Nichts"], "1997", [["2026 04 13", "2026 04 16"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/2a8f50c7b3bd00a8d2178abf8ec3ef17/3fcc10b054a03cfc-af/s250x400/e3c7056a7b8f4ec9bcefb7c09067f000a6930bd4.jpg"],
+
+["book", ["Bianca"], "2020", [["2026 04 14", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Bart Moeyaert"], [], "https://64.media.tumblr.com/363cf3c9ef2f1af90ea201e710306859/c0881410f2298d98-89/s250x400/3eec22fba4a1fd19e729df2263418d35fd24469a.jpg"],
+
+["audiobook", ["Die drei ??? 77: Pistenteufel"], "1997", ["2026 04 18"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/13df4f4f315cf381a50a0f8412d72288/ca6847d382da7167-37/s250x400/b55078f465a5ef233a83cd558ab75a8ea0a4f8f2.jpg"],
+
+["audiobook", ["Die drei ??? 78: Das leere Grab"], "1997", ["", "2026 04 18"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/37cdd527d26d31a212f023307afa4942/250eeb2e7799181e-69/s250x400/d456e643d79628666085dcc1b8ffa0d7242e549c.jpg"],
+
+["audiobook", ["Die drei ??? 79: Im Bann des Voodoo"], "1998", ["2026 04 18"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/27151ca8edc2c9c8e0fc3fd8b4ed3636/75acbebc0cca130c-0c/s250x400/b811241a5b29733215528b176d0bcac58fecede4.jpg"]
 
 	/*
 ,
