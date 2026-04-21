@@ -3748,7 +3748,7 @@ var database = [
 
 ["film", ["Primal Fear", "Zwielicht"], "1996", ["2026 04 19"], 6, ["ger"], ["genre"], [], ["Netflix"], ["Gregory Hoblit"], ["Laura Linney", "John Mahoney", "Edward Norton", "Terry O'Quinn"], "https://64.media.tumblr.com/382c5282cac2f20fd6b70540bdd0f2ef/aff274cf76a45280-ae/s250x400/36905f57d7637c78ad73a718b65ba92175cfa943.jpg"],
 
-["film", ["Anaconda"], "2025", ["2026 04 19"], 5, ["ger"], ["action", "adventure", "comedy"], [], ["Netflix"], ["Tom Gormican"], ["Jack Black", "Paul Rudd", "Steve Zahn", "Thandiwe Newton", "Ice Cube"], "https://64.media.tumblr.com/382c5282cac2f20fd6b70540bdd0f2ef/cf0a408dd5668740-28/s250x400/0e0d6fee74ba50a1ae6dd3c1cfd5842d54ce675b.jpg"],
+["film", ["Anaconda"], "2025", ["2026 04 19"], 5, ["ger"], ["action", "adventure", "comedy"], [], ["Netflix"], ["Tom Gormican"], ["Jack Black", "Paul Rudd", "Steve Zahn", "Thandiwe Newton", "Ice Cube"], "https://64.media.tumblr.com/333e1539af4cc55a70ae11f16edeac31/cd2c08f1ef2f4691-96/s250x400/343ed5f707f9c5584115ce31cc6d7d60ca44285b.pnj"],
 
 ["film", ["Heathers: The Musical"], "2016", [["2026 04 20", "2026 04 21"]], 8, ["ger"], ["musical", "drama"], [], ["YouTube"], ["Laurence O'Keefe", "Kevin Murphy"], ["Hilary Cole", "Stephen Madsen", "Lucy Maunder", "Hannah Fredericksen", "Rebecca Hetherington", "Erin Clare"], "https://64.media.tumblr.com/897746f732830601df8bc85a071505b2/b12a96ec54755ef7-54/s250x400/76732f55f3f4728d98c6fe5d227ce9d3b7a72717.jpg"]
 
