@@ -2395,7 +2395,7 @@ var database = [
 
 ["film", ["The Takedown", "Ein MordsTeam ermittelt wieder", "Loin du périph"], "2022", [["2022 09 16", "2022 09 17"]], 5, ["ger"], ["action", "comedy"], ["bini", "syl", "je"], ["Netflix"], ["Louis Leterrier"], ["Omar Sy"], "https://64.media.tumblr.com/380466e4210fd631c390c53f78dabfb3/cbe10a080ff5490e-b1/s250x400/eccfdc59427ccc68aa6e7d874ad40423633c75e3.jpg"],
 
-["audiobook", ["Project Hail Mary", "Der Astronaut"], "2021", [["2022 09 22", "2022 10 04"]], 9, ["ger"], ["sci-fi"], [], ["bibliothek"], ["Andy Weir"], ["Richard Barenberg"], "https://64.media.tumblr.com/0ddda7bf2f0b5eee73e72d266acf8087/043eec8401f925e9-e5/s250x400/9a69930348a1851c2f04126c000ffa0250f4a50c.jpg"],
+["audiobook", ["Project Hail Mary", "Der Astronaut"], "2021", [["2022 09 22", "2022 10 04"], ["2026 04 21", ""]], 9, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["Andy Weir"], ["Richard Barenberg"], "https://64.media.tumblr.com/0ddda7bf2f0b5eee73e72d266acf8087/043eec8401f925e9-e5/s250x400/9a69930348a1851c2f04126c000ffa0250f4a50c.jpg"],
 
 ["series", ["Miss Kobayashi's Dragon Maid", "Miss Kobayashi's Dragon Maid", "Kobayashi-san Chi no Maid Dragon"], ["2017", "2022"], [["2022 09 29", "2022 10 19", "S1"]], 0, ["jap"], ["anime", "comedy", "fantasy", "slice of life"], ["bini", "jessie"], [], ["Coolkyoushinja", "Yuka Yamada"], [], "https://64.media.tumblr.com/18ba8f94a8acde4807ae4dabaf0ff8f0/a0fe5779aca8a63a-aa/s250x400/f7c53bdbf9d239f01ba3b916749d3805b9d51c2a.jpg"],
 
@@ -3738,7 +3738,19 @@ var database = [
 
 ["audiobook", ["Die drei ??? 78: Das leere Grab"], "1997", ["", "2026 04 18"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/37cdd527d26d31a212f023307afa4942/250eeb2e7799181e-69/s250x400/d456e643d79628666085dcc1b8ffa0d7242e549c.jpg"],
 
-["audiobook", ["Die drei ??? 79: Im Bann des Voodoo"], "1998", ["2026 04 18"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/27151ca8edc2c9c8e0fc3fd8b4ed3636/75acbebc0cca130c-0c/s250x400/b811241a5b29733215528b176d0bcac58fecede4.jpg"]
+["audiobook", ["Die drei ??? 79: Im Bann des Voodoo"], "1998", ["2026 04 18"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/27151ca8edc2c9c8e0fc3fd8b4ed3636/75acbebc0cca130c-0c/s250x400/b811241a5b29733215528b176d0bcac58fecede4.jpg"],
+
+["film", ["Striking Distance", "Tödliche Nähe"], "1993", ["2026 04 19"], 6, ["ger"], ["action", "crime", "mystery"], [], ["Netflix"], ["Rowdy Herrington"], ["actors"], "https://64.media.tumblr.com/eb03d05c5e6e2c7b4cd44fe4b2d9a87e/7368f3037eaa4a87-56/s250x400/eda837166dcccad3384f71d14e274124921aae37.jpg"],
+
+["film", ["title"], "pub year", ["2026 04 19"], rating, ["lang"], ["genre"], [], ["Netflix"], ["creator"], ["actors"], "image"],
+
+["film", ["title"], "pub year", ["2026 04 19"], rating, ["lang"], ["genre"], [], ["Netflix"], ["creator"], ["actors"], "image"],
+
+["film", ["title"], "pub year", ["2026 04 19"], rating, ["lang"], ["genre"], [], ["Netflix"], ["creator"], ["actors"], "image"],
+
+["film", ["title"], "pub year", ["2026 04 19"], rating, ["lang"], ["genre"], [], ["Netflix"], ["creator"], ["actors"], "image"],
+
+["film", ["Heathers: The Musical"], "2016", [["2026 04 20", "2026 04 21"]], 8, ["ger"], ["musical", "drama"], [], ["YouTube"], ["Laurence O'Keefe", "Kevin Murphy"], ["Hilary Cole", "Stephen Madsen", "Lucy Maunder", "Hannah Fredericksen", "Rebecca Hetherington", "Erin Clare"], "https://64.media.tumblr.com/897746f732830601df8bc85a071505b2/b12a96ec54755ef7-54/s250x400/76732f55f3f4728d98c6fe5d227ce9d3b7a72717.jpg"]
 
 	/*
 ,
