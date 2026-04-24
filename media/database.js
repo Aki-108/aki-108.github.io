@@ -2866,7 +2866,7 @@ var database = [
 
 ["book", ["A Beautifully Foolish Endeavor"], "2020", [["2024 01 08", "2024 04 16"]], 9, ["eng"], ["sci-fi"], [], [], ["Hank Green"], [], "https://64.media.tumblr.com/a6136f23c0182fd31c170d091160e1d4/af242479e138ebb5-b7/s250x400/0ae44314718913f10b6011d58c992904f8ed2bf1.jpg"],
 
-["series", ["Frieren: Beyond Journey's End", "Frieren - Nach dem Ende der Reise", "Sousou no Frieren"], "2023", [["2024 01 08", "2024 04 23", "S1"]], 8, ["ger"], ["anime", "adventure", "fantasy"], ["bini", "nico"], [], ["Tsukasa Abe", "Tomohiro Suzuki"], [], "https://64.media.tumblr.com/26357b76568d308665a10651d24595b8/d4726f88c54001b6-9a/s250x400/3753e1bff62b46171a8d43b57d3770b51338f48f.jpg"],
+["series", ["Frieren: Beyond Journey's End", "Frieren - Nach dem Ende der Reise", "Sousou no Frieren"], "2023", [["2024 01 08", "2024 04 23", "S1"], ["2026 04 22", "", "S2"]], 8, ["ger"], ["anime", "adventure", "fantasy"], ["bini", "nico"], ["watching"], ["Tsukasa Abe", "Tomohiro Suzuki"], [], "https://64.media.tumblr.com/26357b76568d308665a10651d24595b8/d4726f88c54001b6-9a/s250x400/3753e1bff62b46171a8d43b57d3770b51338f48f.jpg"],
 
 ["film", ["Mein Ende. Dein Anfang."], "2019", ["2024 01 14"], 6, ["ger"], ["drama"], [], ["bibliothek"], ["Mariko Minoguchi"], ["Julius Feldmeier", "Michelle Barthel", "Anna Drexler"], "https://64.media.tumblr.com/2b4e8039a02c9adebd87489533cb2ef9/8e80cfe71c7be55a-e3/s250x400/f55d945cff8cde980a11a96f70421546a229aba3.jpg"],
 
@@ -3696,7 +3696,7 @@ var database = [
 
 ["film", ["Der Nanny"], "2015", ["2026 03 15"], 3, ["ger"], ["comedy", "drama", "family"], [], ["Netflix"], ["Torsten Künstler", "Matthias Schweighöfer"], ["Matthias Schweighöfer", "Joko Winterscheidt"], "https://64.media.tumblr.com/c95c07d05255b2e99d770599f521555f/3a9c0b94ba306abf-e1/s250x400/787d0ac73bc080edd2d24e5481fbd5fda2267e6d.jpg"],
 
-["series", ["Mobile Suit Gundam: GQuuuuuuX", "Mobile Suit Gundam: GQuuuuuuX", "Kidou Senshi Gundam: GQuuuuuuX"], "2025", [["2026 03 16", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], [], [], "https://64.media.tumblr.com/a159a93f90b6589823416e62be3244cb/07b343206a58fddd-86/s250x400/1d98157b9a784e39eeff37607f5085cf60a468b6.jpg"],
+["series", ["Mobile Suit Gundam: GQuuuuuuX", "Mobile Suit Gundam: GQuuuuuuX", "Kidou Senshi Gundam: GQuuuuuuX"], "2025", [["2026 03 16", "2026 04 22", "S1"]], 5, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/a159a93f90b6589823416e62be3244cb/07b343206a58fddd-86/s250x400/1d98157b9a784e39eeff37607f5085cf60a468b6.jpg"],
 
 ["audiobook", ["Die drei ??? 069: Späte Rache"], "1996", [["2026 03 17", "2026 03 19"]], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Brigitte Johanna Henkel-Waidhofer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/a50fde98e66de2bfea414dc1ef85d71a/3a0f737c472dea7c-23/s250x400/25917b3e2cfbab996b078ee0a4c0db9a476bd438.jpg"],
 
@@ -3732,7 +3732,7 @@ var database = [
 
 ["audiobook", ["Die drei ??? 76: Stimmen aus dem Nichts"], "1997", [["2026 04 13", "2026 04 16"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/2a8f50c7b3bd00a8d2178abf8ec3ef17/3fcc10b054a03cfc-af/s250x400/e3c7056a7b8f4ec9bcefb7c09067f000a6930bd4.jpg"],
 
-["book", ["Bianca"], "2020", [["2026 04 14", ""]], 0, ["ger"], [], [], ["bibliothek", "watching"], ["Bart Moeyaert"], [], "https://64.media.tumblr.com/363cf3c9ef2f1af90ea201e710306859/c0881410f2298d98-89/s250x400/3eec22fba4a1fd19e729df2263418d35fd24469a.jpg"],
+["book", ["Bianca"], "2020", [["2026 04 14", "2026 04 23"]], 6, ["ger"], [], [], ["bibliothek"], ["Bart Moeyaert"], [], "https://64.media.tumblr.com/363cf3c9ef2f1af90ea201e710306859/c0881410f2298d98-89/s250x400/3eec22fba4a1fd19e729df2263418d35fd24469a.jpg"],
 
 ["audiobook", ["Die drei ??? 77: Pistenteufel"], "1997", ["2026 04 18"], 0, ["ger"], ["crime"], ["bini", "syl", "je"], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/13df4f4f315cf381a50a0f8412d72288/ca6847d382da7167-37/s250x400/b55078f465a5ef233a83cd558ab75a8ea0a4f8f2.jpg"],
 
