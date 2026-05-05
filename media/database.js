@@ -2395,7 +2395,7 @@ var database = [
 
 ["film", ["The Takedown", "Ein MordsTeam ermittelt wieder", "Loin du périph"], "2022", [["2022 09 16", "2022 09 17"]], 5, ["ger"], ["action", "comedy"], ["bini", "syl", "je"], ["Netflix"], ["Louis Leterrier"], ["Omar Sy"], "https://64.media.tumblr.com/380466e4210fd631c390c53f78dabfb3/cbe10a080ff5490e-b1/s250x400/eccfdc59427ccc68aa6e7d874ad40423633c75e3.jpg"],
 
-["audiobook", ["Project Hail Mary", "Der Astronaut"], "2021", [["2022 09 22", "2022 10 04"], ["2026 04 21", ""]], 9, ["ger"], ["sci-fi"], [], ["bibliothek", "watching"], ["Andy Weir"], ["Richard Barenberg"], "https://64.media.tumblr.com/0ddda7bf2f0b5eee73e72d266acf8087/043eec8401f925e9-e5/s250x400/9a69930348a1851c2f04126c000ffa0250f4a50c.jpg"],
+["audiobook", ["Project Hail Mary", "Der Astronaut"], "2021", [["2022 09 22", "2022 10 04"], ["2026 04 21", "2026 05 05"]], 9, ["ger"], ["sci-fi"], [], ["bibliothek"], ["Andy Weir"], ["Richard Barenberg"], "https://64.media.tumblr.com/0ddda7bf2f0b5eee73e72d266acf8087/043eec8401f925e9-e5/s250x400/9a69930348a1851c2f04126c000ffa0250f4a50c.jpg"],
 
 ["series", ["Miss Kobayashi's Dragon Maid", "Miss Kobayashi's Dragon Maid", "Kobayashi-san Chi no Maid Dragon"], ["2017", "2022"], [["2022 09 29", "2022 10 19", "S1"]], 0, ["jap"], ["anime", "comedy", "fantasy", "slice of life"], ["bini", "jessie"], [], ["Coolkyoushinja", "Yuka Yamada"], [], "https://64.media.tumblr.com/18ba8f94a8acde4807ae4dabaf0ff8f0/a0fe5779aca8a63a-aa/s250x400/f7c53bdbf9d239f01ba3b916749d3805b9d51c2a.jpg"],
 
@@ -2866,8 +2866,8 @@ var database = [
 
 ["book", ["A Beautifully Foolish Endeavor"], "2020", [["2024 01 08", "2024 04 16"]], 9, ["eng"], ["sci-fi"], [], [], ["Hank Green"], [], "https://64.media.tumblr.com/a6136f23c0182fd31c170d091160e1d4/af242479e138ebb5-b7/s250x400/0ae44314718913f10b6011d58c992904f8ed2bf1.jpg"],
 
-["series", ["Frieren: Beyond Journey's End", "Frieren - Nach dem Ende der Reise", "Sousou no Frieren"], "2023", [["2024 01 08", "2024 04 23", "S1"], ["2026 04 22", "", "S2"]], 8, ["ger"], ["anime", "adventure", "fantasy"], ["bini", "nico"], ["watching"], ["Tsukasa Abe", "Tomohiro Suzuki"], [], "https://64.media.tumblr.com/26357b76568d308665a10651d24595b8/d4726f88c54001b6-9a/s250x400/3753e1bff62b46171a8d43b57d3770b51338f48f.jpg"],
-
+["series", ["Frieren: Beyond Journey's End", "Frieren - Nach dem Ende der Reise", "Sousou no Frieren"], "2023", [["2024 01 08", "2024 04 23", "S1"], ["2026 04 22", "2026 05 04", "S2"]], 8, ["ger"], ["anime", "adventure", "fantasy"], ["bini", "nico"], [], ["Tsukasa Abe", "Tomohiro Suzuki"], [], "https://64.media.tumblr.com/26357b76568d308665a10651d24595b8/d4726f88c54001b6-9a/s250x400/3753e1bff62b46171a8d43b57d3770b51338f48f.jpg"],
+/*S1: 8, S2: 7*/
 ["film", ["Mein Ende. Dein Anfang."], "2019", ["2024 01 14"], 6, ["ger"], ["drama"], [], ["bibliothek"], ["Mariko Minoguchi"], ["Julius Feldmeier", "Michelle Barthel", "Anna Drexler"], "https://64.media.tumblr.com/2b4e8039a02c9adebd87489533cb2ef9/8e80cfe71c7be55a-e3/s250x400/f55d945cff8cde980a11a96f70421546a229aba3.jpg"],
 
 ["film", ["The Pleasure of Your Company", "Blind Wedding - Hilfe, sie hat ja gesagt!"], "2006", ["2024 01 20"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Michael Ian Black"], ["Jason Biggs", "Isla Fisher"], "https://64.media.tumblr.com/63baddefc61a3e078cf2c17dcdb0aaf9/aab173542802f525-79/s250x400/1ba13e44dabf2e9d641d26a498f554045e4b7ae5.jpg"],
