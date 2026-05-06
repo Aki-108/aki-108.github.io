@@ -3752,7 +3752,7 @@ var database = [
 
 ["film", ["Heathers: The Musical"], "2016", [["2026 04 20", "2026 04 21"]], 8, ["ger"], ["musical", "drama"], [], ["YouTube"], ["Laurence O'Keefe", "Kevin Murphy"], ["Hilary Cole", "Stephen Madsen", "Lucy Maunder", "Hannah Fredericksen", "Rebecca Hetherington", "Erin Clare"], "https://64.media.tumblr.com/897746f732830601df8bc85a071505b2/b12a96ec54755ef7-54/s250x400/76732f55f3f4728d98c6fe5d227ce9d3b7a72717.jpg"],
 
-["series", ["Cowboy Bebop"], ["1998", "1999], [["2026 04 27", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], ["Shin'ichirô Watanabe"], [], "https://64.media.tumblr.com/3af68e85103fd89eb81c5d618a4e3c2b/df8ffb5371f27214-37/s250x400/806802a33c686381a7b7d937139ebfcef7d6990f.jpg"],
+["series", ["Cowboy Bebop"], ["1998", "1999"], [["2026 04 27", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], ["Shin'ichirô Watanabe"], [], "https://64.media.tumblr.com/3af68e85103fd89eb81c5d618a4e3c2b/df8ffb5371f27214-37/s250x400/806802a33c686381a7b7d937139ebfcef7d6990f.jpg"],
 
 ["film", ["Fanfic", "Fanfic", "Fanfik"], "2023", ["2026 05 01"], 5, ["ger"], ["drama"], [], ["LGBT", "Netflix"], ["Marta Karwowska"], [], "https://64.media.tumblr.com/dbd56f8904fa67f04687cc13b7f74796/95ab5c3d8b15ca1b-8e/s250x400/b4231c7e51b1b5e394a9ea733f70eaa83507fff3.jpg"],
 
