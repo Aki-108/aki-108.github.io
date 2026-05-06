@@ -3750,7 +3750,13 @@ var database = [
 
 ["film", ["Anaconda"], "2025", ["2026 04 19"], 5, ["ger"], ["action", "adventure", "comedy"], [], ["Netflix"], ["Tom Gormican"], ["Jack Black", "Paul Rudd", "Steve Zahn", "Thandiwe Newton", "Ice Cube"], "https://64.media.tumblr.com/333e1539af4cc55a70ae11f16edeac31/cd2c08f1ef2f4691-96/s250x400/343ed5f707f9c5584115ce31cc6d7d60ca44285b.pnj"],
 
-["film", ["Heathers: The Musical"], "2016", [["2026 04 20", "2026 04 21"]], 8, ["ger"], ["musical", "drama"], [], ["YouTube"], ["Laurence O'Keefe", "Kevin Murphy"], ["Hilary Cole", "Stephen Madsen", "Lucy Maunder", "Hannah Fredericksen", "Rebecca Hetherington", "Erin Clare"], "https://64.media.tumblr.com/897746f732830601df8bc85a071505b2/b12a96ec54755ef7-54/s250x400/76732f55f3f4728d98c6fe5d227ce9d3b7a72717.jpg"]
+["film", ["Heathers: The Musical"], "2016", [["2026 04 20", "2026 04 21"]], 8, ["ger"], ["musical", "drama"], [], ["YouTube"], ["Laurence O'Keefe", "Kevin Murphy"], ["Hilary Cole", "Stephen Madsen", "Lucy Maunder", "Hannah Fredericksen", "Rebecca Hetherington", "Erin Clare"], "https://64.media.tumblr.com/897746f732830601df8bc85a071505b2/b12a96ec54755ef7-54/s250x400/76732f55f3f4728d98c6fe5d227ce9d3b7a72717.jpg"],
+
+["series", ["Cowboy Bebop"], ["1998", "1999], [["2026 04 27", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], ["Shin'ichirô Watanabe"], [], "https://64.media.tumblr.com/3af68e85103fd89eb81c5d618a4e3c2b/df8ffb5371f27214-37/s250x400/806802a33c686381a7b7d937139ebfcef7d6990f.jpg"],
+
+["film", ["Fanfic", "Fanfic", "Fanfik"], "2023", ["2026 05 01"], 5, ["ger"], ["drama"], [], ["LGBT", "Netflix"], ["Marta Karwowska"], [], "https://64.media.tumblr.com/dbd56f8904fa67f04687cc13b7f74796/95ab5c3d8b15ca1b-8e/s250x400/b4231c7e51b1b5e394a9ea733f70eaa83507fff3.jpg"],
+
+["film", ["Premonition", "Die Vorahnung"], "2007", ["2026 05 02"], 4, ["ger"], ["drama", "fantasy", "mystery"], [], ["Netflix"], ["Mennan Yapo"], ["Sandra Bullock", "Peter Stormare"], "https://64.media.tumblr.com/234dca9d0b1997f6e6391b0019cef6b3/9dd2c8fc703c8319-83/s250x400/27ce89e0028f0c4e985695af88b6ede2f37e914c.jpg"]
 
 	/*
 ,
