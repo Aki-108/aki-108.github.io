@@ -95,7 +95,7 @@ var database = [
 	        
 ["film", ["Moonrise Kingdom"], "2012", ["2015 07 14", "2015 12 31", "2017 06 28"], 9, ["ger"], ["adventure", "comedy", "drama"], [], ["bby"], ["Wes Anderson"], ["Bruce Willis", "Bill Murray", "Frances McDormand", "Tilda Swinton", "Kara Hayward", "Jake Ryan", "Harvey Keitel"], "https://49.media.tumblr.com/fcfcc34b3812b98c7d186f946afd3b81/tumblr_nzq314u33r1v2s5upo1_250.jpg"],
 	        
-["film", ["Inside Llewyn Davis"], "2013", ["2015 07 16"], 5, ["ger"], ["drama", "music"], [], [], ["Joel Coen", "Ethan Coen"], ["Carey Mulligan", "Justin Timberlake", "Jake Ryan", "Adam Driver", "F. Murray Abraham"], "https://40.media.tumblr.com/038fd2c392a204190449e3a371e5200c/tumblr_nzq31kt6AG1v2s5upo1_250.jpg"],
+["film", ["Inside Llewyn Davis"], "2013", ["2015 07 16"], 5, ["ger"], ["drama", "music"], [], [], ["Joel Coen", "Ethan Coen"], ["Carey Mulligan", "Justin Timberlake", "Jake Ryan", "Adam Driver", "F. Murray Abraham", "Garrett Hedlund"], "https://40.media.tumblr.com/038fd2c392a204190449e3a371e5200c/tumblr_nzq31kt6AG1v2s5upo1_250.jpg"],
 	        
 ["film", ["Tales from Earthsea", "Die Chroniken von Erdsee", "Gedo senki"], "2006", ["2015 07 19", "2021 11 27"], 5, ["ger"], ["adventure", "fantasy", "magic", "anime"], ["bini", "mai"], ["Ghibli", "Netflix"], ["Gorô Miyazaki"], [], "https://40.media.tumblr.com/561178e59629591bc8c5b8a5f2da5d16/tumblr_nzq32e8sT21v2s5upo1_250.jpg"],
 	        
@@ -576,7 +576,7 @@ var database = [
 	        
 ["film", ["Whisper of the Heart", "Stimme des Herzens", "Mimi wo sumaseba"], "1995", ["2015 08 26", "2020 12 12", "2022 09 03"], 5, ["ger"], ["anime", "drama", "romance"], ["bini", "mai"], ["Ghibli", "Netflix"], ["Yoshifumi Kondô"], [], "https://49.media.tumblr.com/d9f5ec0c7b5e004e756df9a23cd3885a/tumblr_o0dwdeGGtP1v2s5upo1_250.jpg"],
 	        
-["film", ["The Virgin Suicides", "The Virgin Suicides - Verlorene Jugend"], "1999", ["2015 08 30", "2016 08 13"], 9, ["ger"], ["drama", "romance"], [], [], ["Sofia Coppola"], ["Kirsten Dunst", "Danny DeVito", "Scott Glenn", "Hayden Christensen"], "https://40.media.tumblr.com/71765bd581b584f16cddae7574c9eeff/tumblr_o0p1t2Azpk1v2s5upo1_250.jpg"],
+["film", ["The Virgin Suicides", "The Virgin Suicides - Verlorene Jugend"], "1999", ["2015 08 30", "2016 08 13"], 9, ["ger"], ["drama", "romance"], [], [], ["Sofia Coppola"], ["Kirsten Dunst", "Danny DeVito", "Scott Glenn", "Hayden Christensen", "Chelse Swain"], "https://40.media.tumblr.com/71765bd581b584f16cddae7574c9eeff/tumblr_o0p1t2Azpk1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Lovely Bones", "In meinem Himmel"], "2009", ["2015 09 05"], 9, ["ger"], ["drama"], ["bini", "syl"], [], ["Peter Jackson"], ["Mark Wahlberg", "Stanley Tucci", "Saoirse Ronan", "AJ Michalka", "Peter Jackson", "Rachel Weisz", "Susan Sarandon"], "https://40.media.tumblr.com/59174cdcb45dae0ee391972f62671a27/tumblr_o0p4w7xCtV1v2s5upo1_250.jpg"],
 	        
@@ -762,7 +762,7 @@ var database = [
 	        
 ["film", ["A Silent Voice", "A Silent Voice", "Koe no katachi"], "2016", ["2017 08 13", "2019 06 14"], 9, ["ger", "jap"], ["anime", "drama"], ["bini", "nico"], [], ["Naoko Yamada"], [], "https://66.media.tumblr.com/e3d7c4d7eeb7602fc67b563d98cea366/tumblr_pxrfysKjNY1v2s5upo1_250.jpg"],
 	        
-["film", ["2 Guns"], "2013", ["2017 08 06"], 6, ["ger"], ["action", "comedy"], [], [], ["Baltasar Kormákur"], ["Mark Wahlberg", "James Marsden"], "https://66.media.tumblr.com/ccbf8641297e401fa21e4b80f57c10f5/tumblr_pxrfvzPsqq1v2s5upo1_250.jpg"],
+["film", ["2 Guns"], "2013", ["2017 08 06"], 6, ["ger"], ["action", "comedy"], [], [], ["Baltasar Kormákur"], ["Mark Wahlberg", "James Marsden", "Fred Ward"], "https://66.media.tumblr.com/ccbf8641297e401fa21e4b80f57c10f5/tumblr_pxrfvzPsqq1v2s5upo1_250.jpg"],
 	        
 ["film", ["We're the Millers", "Wir sind die Millers"], "2013", ["2020 09 19"], 7, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Rawson Marshall Thurber"], ["Jennifer Aniston", "Jason Sudeikis", "Emma Roberts", "Will Poulter", "Nick Offerman", "Kathryn Hahn", "Molly C. Quinn", "Luis Guzmán", "Matthew Willig", "Sam Richardson", "Ed Helms", "Ken Marino"], "https://64.media.tumblr.com/ee930350436633e134094138bb5b2c13/0b77504b8d09586d-14/s250x400/1c5f83b8477616f13f6f8ba2553e9ff659d4783b.jpg"],
 	        
@@ -1428,7 +1428,7 @@ var database = [
 	        
 ["film", ["The Gallows", "Gallows - Jede Schule hat ein Geheimnis"], "2015", ["2016 07 05"], 6, ["ger"], ["horror", "mystery"], [], ["Schule"], ["Travis Cluff", "Chris Lofing"], [], "https://66.media.tumblr.com/374675b1811304c46c9b4d3e7d31c8e8/tumblr_o9ulzkN3qm1v2s5upo1_250.jpg"],
 	        
-["film", ["On the Road", "On the Road - Unterwegs"], "2012", ["2016 07 04"], 5, ["ger"], ["adventure", "drama"], [], [], ["Walter Salles"], ["Kristen Stewart", "Amy Adams", "Kirsten Dunst", "Viggo Mortensen", "Steve Buscemi", "Joe Chrest", "Alice Braga", "Tom Sturridge", "Terrence Howard"], "https://66.media.tumblr.com/56800f1b6f21a576eaa6963587b426e7/tumblr_o9t15mYCXt1v2s5upo1_250.jpg"],
+["film", ["On the Road", "On the Road - Unterwegs"], "2012", ["2016 07 04"], 5, ["ger"], ["adventure", "drama"], [], [], ["Walter Salles"], ["Kristen Stewart", "Amy Adams", "Kirsten Dunst", "Viggo Mortensen", "Steve Buscemi", "Joe Chrest", "Alice Braga", "Tom Sturridge", "Terrence Howard", "Garrett Hedlund"], "https://66.media.tumblr.com/56800f1b6f21a576eaa6963587b426e7/tumblr_o9t15mYCXt1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Kite Runner", "Drachenläufer"], "2007", ["2016 06 29"], 5, ["ger"], ["drama"], [], ["Schule"], ["Marc Forster"], ["Shaun Toub"], "https://66.media.tumblr.com/5d2ca6e91a55c7e9a3e562e568fb3e4f/tumblr_o9jfzdjo4F1v2s5upo1_250.jpg"],
 	        
@@ -2860,7 +2860,7 @@ var database = [
 
 ["film", ["White Noise", "Weißes Rauschen"], "2022", ["2024 01 02"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Noah Baumbach"], ["Don Cheadle", "Adam Driver", "Greta Gerwig", "Raffey Cassidy", "Bill Camp"], "https://64.media.tumblr.com/916c77f9a2c34d4685b8a9bc09de8e14/c893acd7b3493dba-7d/s250x400/d68d629d27cf7104fc0970eec8f6bb86d1139159.jpg"],
 
-["film", ["Mudbound"], "2017", ["2024 01 04"], 7, ["ger"], ["drama", "war"], [], ["Netflix"], ["Dee Rees"], ["Carey Mulligan", "Jonathan Banks"], "https://64.media.tumblr.com/a280d79aba676214e7442695b07078bb/bf58dbc204c20552-11/s250x400/64158a5d12a61eb912bdea07f2c7850dd10172b5.jpg"],
+["film", ["Mudbound"], "2017", ["2024 01 04"], 7, ["ger"], ["drama", "war"], [], ["Netflix"], ["Dee Rees"], ["Carey Mulligan", "Jonathan Banks", "Garrett Hedlund"], "https://64.media.tumblr.com/a280d79aba676214e7442695b07078bb/bf58dbc204c20552-11/s250x400/64158a5d12a61eb912bdea07f2c7850dd10172b5.jpg"],
 
 ["series", ["Bodies"], "2023", [["2024 01 05", "2024 01 13", "S1"]], 6, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Si Spencer", "Paul Tomalin"], ["Stephen Graham"], "https://64.media.tumblr.com/58873ac18641b2fb44695740f58ef551/1f83ebb6dafa459c-a7/s250x400/be1c1a0faece211e6424f5d92edb9f73741385bd.jpg"],
 
@@ -3684,7 +3684,7 @@ var database = [
 
 ["film", ["Hudson Hawk", "Hudson Hawk - Der Meisterdieb"], "1991", ["2026 03 14"], 6, ["ger"], ["action", "comedy"], [], ["Netflix"], ["Michael Lehmann"], ["Bruce Willis", "Andie MacDowell"], "https://64.media.tumblr.com/90161a542038b3f9d64e66b983039d5f/b16566c971f11b38-b9/s250x400/2b58a6b61c193d2d4249217aff950c73c7cde808.jpg"],
 
-["film", ["30 Minutes or Less", "30 Minuten oder weniger"], "2011", ["2026 03 14"], 7, ["ger"], ["action", "comedy", "crime"], [], ["Netflix"], ["Ruben Fleischer"], ["Jesse Eisenberg", "Michael Peña"], "https://64.media.tumblr.com/4c074f3e720710e079fdcc79e35c336a/17dd5c1e4160b4cd-ad/s250x400/ac5db40702950e8c44e0c2f93784cfee81323460.jpg"],
+["film", ["30 Minutes or Less", "30 Minuten oder weniger"], "2011", ["2026 03 14"], 7, ["ger"], ["action", "comedy", "crime"], [], ["Netflix"], ["Ruben Fleischer"], ["Jesse Eisenberg", "Michael Peña", "Fred Ward"], "https://64.media.tumblr.com/4c074f3e720710e079fdcc79e35c336a/17dd5c1e4160b4cd-ad/s250x400/ac5db40702950e8c44e0c2f93784cfee81323460.jpg"],
 
 ["film", ["A Time to Kill", "Die Jury"], "1996", ["2026 03 14"], 8, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Joel Schumacher"], ["Matthew McConaughey", "Sandra Bullock", "Samuel L. Jackson", "Kevin Spacey", "Kiefer Sutherland", "Kurtwood Smith", "Chris Cooper"], "https://64.media.tumblr.com/df26579d469479a476584b9e02307e47/9d6a0b77801e8408-0f/s250x400/baa7a539b390c7f34fa7f0327f8a79c165ef4250.jpg"],
 
@@ -3756,7 +3756,13 @@ var database = [
 
 ["film", ["Fanfic", "Fanfic", "Fanfik"], "2023", ["2026 05 01"], 5, ["ger"], ["drama"], [], ["LGBT", "Netflix"], ["Marta Karwowska"], [], "https://64.media.tumblr.com/dbd56f8904fa67f04687cc13b7f74796/95ab5c3d8b15ca1b-8e/s250x400/b4231c7e51b1b5e394a9ea733f70eaa83507fff3.jpg"],
 
-["film", ["Premonition", "Die Vorahnung"], "2007", ["2026 05 02"], 4, ["ger"], ["drama", "fantasy", "mystery"], [], ["Netflix"], ["Mennan Yapo"], ["Sandra Bullock", "Peter Stormare"], "https://64.media.tumblr.com/234dca9d0b1997f6e6391b0019cef6b3/9dd2c8fc703c8319-83/s250x400/27ce89e0028f0c4e985695af88b6ede2f37e914c.jpg"]
+["film", ["Premonition", "Die Vorahnung"], "2007", ["2026 05 02"], 4, ["ger"], ["drama", "fantasy", "mystery"], [], ["Netflix"], ["Mennan Yapo"], ["Sandra Bullock", "Peter Stormare"], "https://64.media.tumblr.com/234dca9d0b1997f6e6391b0019cef6b3/9dd2c8fc703c8319-83/s250x400/27ce89e0028f0c4e985695af88b6ede2f37e914c.jpg"],
+
+["film", ["Sweet Home Alabama", "Sweet Home Alabama - Liebe auf Umwegen"], "2002", ["2026 05 03"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Andy Tennant"], ["Reese Witherspoon", "Fred Ward", "Melanie Lynskey", "Dakota Fanning"], "https://64.media.tumblr.com/b58dcb1c4b29259ea2b6e625c0428cf8/caeeb167c696f313-16/s250x400/03d0ef5dc72eb0aadeb0d03c5ac7eb3354238860.jpg"],
+
+["film", ["Good Luck Chuck", "Der Glücksbringer"], "2007", ["2026 05 03"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Mark Helfrich"], [], "https://64.media.tumblr.com/02a563cc3c7eb7597bb980ce19ebe2c5/7c57c3ab6db77e0a-4a/s250x400/b25a7a642b6fffa9ccfce62b80345d9f5f273f43.jpg"],
+
+["film", ["Georgia Rule", "Georgias Gesetz"], "2007", ["2026 05 03"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Garry Marshall"], ["Lindsay Lohan", "Garrett Hedlund", "Chelse Swain"], "https://64.media.tumblr.com/a8990722188da0f5061318f980307850/40c35c463a033a8e-d9/s250x400/85f17df37e80f3394be55caea760db90f0b05b85.jpg"]
 
 	/*
 ,
