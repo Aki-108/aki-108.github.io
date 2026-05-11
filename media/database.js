@@ -3482,7 +3482,7 @@ var database = [
 
 ["film", ["The Sentinel", "The Sentinel - Wem kannst du trauen?"], "2006", ["2026 01 11"], 6, ["ger"], ["action", "crime", "thriller"], [], ["Netflix"], ["Clark Johnson"], ["Michael Douglas", "Kiefer Sutherland", "Eva Longoria"], "https://64.media.tumblr.com/c94f89769d148b17aa864c5625e5bf5a/bd120cf117b64caf-d6/s250x400/6899b79aad14478c8b7bfb58c070c3feb6ab23cf.jpg"],
 
-["series", ["Spy x Family"], "2022", [["2026 01 12", "2026 02 02", "S1.1"], ["2026 02 02", "2026 03 16", "S1.2"], ["2026 03 16", "2026 04 08", "S2"]], 7, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["ongoing"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
+["series", ["Spy x Family"], "2022", [["2026 01 12", "2026 02 02", "S1.1"], ["2026 02 02", "2026 03 16", "S1.2"], ["2026 03 16", "2026 04 08", "S2"], ["2026 05 11", "", "S3"]], 7, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
 
 ["series", ["Who Is Erin Carter"], "2023", [["2026 01 17", "2026 01 25", "S1"]], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Jack Lothian"], [], "https://64.media.tumblr.com/308e8bdd99e629536db4db4aea54901b/5413021a12b322a7-a4/s250x400/00a51f0d7e07f53dbee85cfbaba6df0f7d212417.jpg"],
 
