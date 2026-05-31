@@ -3482,8 +3482,8 @@ var database = [
 
 ["film", ["The Sentinel", "The Sentinel - Wem kannst du trauen?"], "2006", ["2026 01 11"], 6, ["ger"], ["action", "crime", "thriller"], [], ["Netflix"], ["Clark Johnson"], ["Michael Douglas", "Kiefer Sutherland", "Eva Longoria"], "https://64.media.tumblr.com/c94f89769d148b17aa864c5625e5bf5a/bd120cf117b64caf-d6/s250x400/6899b79aad14478c8b7bfb58c070c3feb6ab23cf.jpg"],
 
-["series", ["Spy x Family"], "2022", [["2026 01 12", "2026 02 02", "S1.1"], ["2026 02 02", "2026 03 16", "S1.2"], ["2026 03 16", "2026 04 08", "S2"], ["2026 05 11", "", "S3"]], 7, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], ["watching"], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
-
+["series", ["Spy x Family"], "2022", [["2026 01 12", "2026 02 02", "S1.1"], ["2026 02 02", "2026 03 16", "S1.2"], ["2026 03 16", "2026 04 08", "S2"], ["2026 05 11", "2026 05 25", "S3"]], 7, ["ger"], ["anime", "action", "comedy"], ["nico", "bini", "jani"], [], [], [], "https://64.media.tumblr.com/23654e98c2da48f5b125b7c65482277e/f49f7707e58f0546-6f/s250x400/0d3e8ac14cb326c05f62f9d5bc97cb96a4a7e090.jpg"],
+/*7, 6, 7, 6*/
 ["series", ["Who Is Erin Carter"], "2023", [["2026 01 17", "2026 01 25", "S1"]], 7, ["ger"], ["action", "crime"], [], ["Netflix"], ["Jack Lothian"], [], "https://64.media.tumblr.com/308e8bdd99e629536db4db4aea54901b/5413021a12b322a7-a4/s250x400/00a51f0d7e07f53dbee85cfbaba6df0f7d212417.jpg"],
 
 ["film", ["The Devil's Own", "Vertrauter Feind"], "1997", ["2026 01 17"], 4, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Alan J. Pakula"], ["Harrison Ford", "Brad Pitt", "Margaret Colin"], "https://64.media.tumblr.com/d04c93768b7ac3b0bcd82cae48e6aa9f/1b4e90499d8fef2c-09/s250x400/34ac1f88b7c4083f531b49ef665c5cb229abca51.jpg"],
@@ -3752,7 +3752,7 @@ var database = [
 
 ["film", ["Heathers: The Musical"], "2016", [["2026 04 20", "2026 04 21"]], 8, ["ger"], ["musical", "drama"], [], ["YouTube"], ["Laurence O'Keefe", "Kevin Murphy"], ["Hilary Cole", "Stephen Madsen", "Lucy Maunder", "Hannah Fredericksen", "Rebecca Hetherington", "Erin Clare"], "https://64.media.tumblr.com/897746f732830601df8bc85a071505b2/b12a96ec54755ef7-54/s250x400/76732f55f3f4728d98c6fe5d227ce9d3b7a72717.jpg"],
 
-["series", ["Cowboy Bebop"], ["1998", "1999"], [["2026 04 27", "", "S1"]], 0, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], ["watching"], ["Shin'ichirô Watanabe"], [], "https://64.media.tumblr.com/3af68e85103fd89eb81c5d618a4e3c2b/df8ffb5371f27214-37/s250x400/806802a33c686381a7b7d937139ebfcef7d6990f.jpg"],
+["series", ["Cowboy Bebop"], ["1998", "1999"], [["2026 04 27", "2026 05 27", "S1"]], 5, ["ger"], ["anime", "sci-fi", "action"], ["bini", "nico"], [], ["Shin'ichirô Watanabe"], [], "https://64.media.tumblr.com/3af68e85103fd89eb81c5d618a4e3c2b/df8ffb5371f27214-37/s250x400/806802a33c686381a7b7d937139ebfcef7d6990f.jpg"],
 
 ["film", ["Fanfic", "Fanfic", "Fanfik"], "2023", ["2026 05 01"], 5, ["ger"], ["drama"], [], ["LGBT", "Netflix"], ["Marta Karwowska"], [], "https://64.media.tumblr.com/dbd56f8904fa67f04687cc13b7f74796/95ab5c3d8b15ca1b-8e/s250x400/b4231c7e51b1b5e394a9ea733f70eaa83507fff3.jpg"],
 
