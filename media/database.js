@@ -3766,7 +3766,31 @@ var database = [
 
 ["audiobook", ["Die drei ??? 80: Geheimsache Ufo"], "1998", ["2026 05 06"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/49413655f77d81de98e16042d26cb9d1/6ec614a348096630-dd/s250x400/264fb4879674864fdb6a7a5abee9fcd78c6e671e.jpg"],
 
-["audiobook", ["Die drei ??? 81: Verdeckte Fouls"], "1998", ["2026 05 06"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/bbe69fa5522adb06f341bba647279d7f/c81db382233e59e7-6d/s250x400/ed3de32cdad6d1cd5e2371cbd26987d3cf1ada58.jpg"]
+["audiobook", ["Die drei ??? 81: Verdeckte Fouls"], "1998", ["2026 05 06"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/bbe69fa5522adb06f341bba647279d7f/c81db382233e59e7-6d/s250x400/ed3de32cdad6d1cd5e2371cbd26987d3cf1ada58.jpg"],
+
+["audiobook", ["Die drei ??? 82: Die Karten des Bösen"], "1998", ["2026 05 07"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 83: Meuterei auf hoher See"], "1998", ["2026 05 11"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 84: Musik des Teufels"], "1998", ["2026 05 11"], 7, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 85: Feuerturm"], "1999", ["2026 05 12"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 86: Nacht in Angst"], "1999", ["2026 05 20"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 87: Wolfsgesicht"], "1999", ["2026 05 20"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Katharina Fischer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 88: Vampir im Internet"], "1999", ["2026 05 20", "2026 05 21"], 3, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 89: Tödliche Spur"], "1999", ["2026 05 21"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 90: Der Feuerteufel"], "1999", ["2026 05 21"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 91: Labyrinth der Götter"], "2000", ["2026 05 22"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 92: Todesflug"], "2000", ["2026 05 22"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+
+["audiobook", ["Die drei ??? 93: und das Geisterschiff"], "2000", ["2026 05 26"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""]
 
 	/*
 ,
