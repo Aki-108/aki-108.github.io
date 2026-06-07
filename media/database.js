@@ -620,8 +620,8 @@ var database = [
 	        
 ["film", ["Pretty in Pink"], "1986", ["2017 02 04"], 6, ["ger"], ["comedy", "drama"], [], [], ["Howard Deutch"], ["Molly Ringwald", "Jon Cryer", "Margaret Colin"], "https://68.media.tumblr.com/536a8daae8af15bd330e30d2f20b2a1c/tumblr_okvc3qB3zY1v2s5upo1_250.jpg"],
 	        
-["film", ["Avatar", "Avatar - Aufbruch nach Pandora"], "2009", ["2017 02 13", "2018 07 14", "2026 06 07"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Michelle Rodriguez", "Giovanni Ribisi", "Stephen Lang"], "https://68.media.tumblr.com/b624a80e83ee671903da746329d4eea1/tumblr_olj7dc7cje1v2s5upo1_250.jpg"],
-	        
+["film", ["Avatar", "Avatar - Aufbruch nach Pandora"], "2009", ["2017 02 13", "2018 07 14", "2026 06 07"], 7, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Michelle Rodriguez", "Giovanni Ribisi", "Stephen Lang"], "https://68.media.tumblr.com/b624a80e83ee671903da746329d4eea1/tumblr_olj7dc7cje1v2s5upo1_250.jpg"],
+/*8, 6 = 7*/
 ["film", ["Logan", "Logan: The Wolverine"], "2017", ["2017 03 02", "2020 03 02", "2023 12 07", "2024 06 30"], 8, ["ger"], ["action", "drama", "supernatural"], ["nico"], ["Kino", "X-Men", "Marvel", "Disney+"], ["James Mangold"], ["Hugh Jackman", "Patrick Stewart", "Dafne Keen", "Stephen Merchant", "Boyd Holbrook"], "https://68.media.tumblr.com/42f0e6d37b2f98c78afda5b69edaf6d5/tumblr_om8zfwTnMX1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Space Between Us", "Den Sternen so nah"], "2017", ["2017 03 04"], 7, ["ger"], ["drama", "romance", "sci-fi"], ["je", "syl"], ["Kino"], ["Peter Chelsom"], ["Gary Oldman", "BD Wong", "Asa Butterfield", "Britt Robertson"], "https://68.media.tumblr.com/514a1e7f63f97208cde10e75312227b2/tumblr_omeq8dnfiM1v2s5upo1_250.jpg"],
@@ -3790,7 +3790,11 @@ var database = [
 
 ["audiobook", ["Die drei ??? 92: Todesflug"], "2000", ["2026 05 22"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/3d9e86702bd8f4f1d92b4e021e1cac2e/7de5e96fa9b315d6-1a/s250x400/e763888a4e608c2315d32a78a9edfbfb9c299aac.jpg"],
 
-["audiobook", ["Die drei ??? 93: und das Geisterschiff"], "2000", ["2026 05 26"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/ff3822cfcc327fb11da00d825e3430e5/eeddad95154df997-cb/s250x400/c658bfbb884266facb64c8b750cd28d0318724aa.jpg"]
+["audiobook", ["Die drei ??? 93: und das Geisterschiff"], "2000", ["2026 05 26"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/ff3822cfcc327fb11da00d825e3430e5/eeddad95154df997-cb/s250x400/c658bfbb884266facb64c8b750cd28d0318724aa.jpg"],
+
+["series", ["Serial Experiments Lain"], "1998", [["2026 06 01", ""]], 0, ["ger"], ["anime", "drama", "mystery"], ["bini", "nico"], ["watching"], ["Yasuyuki Ueda"], [], "https://64.media.tumblr.com/a63315b6fc81e68d79f834f148d9c7e1/1c329bcacd98e277-8e/s250x400/05fb5ffb1f769459ac4a40326c0c2960b4add7c0.jpg"],
+
+["film", ["Bibi & Tina: Einfach Anders"], "2022", ["2026 06 06"], 4, ["ger"], ["adventure", "comedy", "family"], ["bini"], ["Netflix"], ["Detlev Buck"], ["Frederick Lau"], "https://64.media.tumblr.com/7bd914ba4cb6fc6ceea1094eb835ce60/6a8cd3de2a580a32-be/s250x400/c65c292f96c5dfb57ab92685a79ecc94ea5b28ca.jpg"]
 
 	/*
 ,
