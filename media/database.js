@@ -620,7 +620,7 @@ var database = [
 	        
 ["film", ["Pretty in Pink"], "1986", ["2017 02 04"], 6, ["ger"], ["comedy", "drama"], [], [], ["Howard Deutch"], ["Molly Ringwald", "Jon Cryer", "Margaret Colin"], "https://68.media.tumblr.com/536a8daae8af15bd330e30d2f20b2a1c/tumblr_okvc3qB3zY1v2s5upo1_250.jpg"],
 	        
-["film", ["Avatar", "Avatar - Aufbruch nach Pandora"], "2009", ["2017 02 13", "2018 07 14"], 8, ["ger"], ["action", "adventure", "sci-fi"], [], [], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Michelle Rodriguez", "Giovanni Ribisi", "Stephen Lang"], "https://68.media.tumblr.com/b624a80e83ee671903da746329d4eea1/tumblr_olj7dc7cje1v2s5upo1_250.jpg"],
+["film", ["Avatar", "Avatar - Aufbruch nach Pandora"], "2009", ["2017 02 13", "2018 07 14", "2026 06 07"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Michelle Rodriguez", "Giovanni Ribisi", "Stephen Lang"], "https://68.media.tumblr.com/b624a80e83ee671903da746329d4eea1/tumblr_olj7dc7cje1v2s5upo1_250.jpg"],
 	        
 ["film", ["Logan", "Logan: The Wolverine"], "2017", ["2017 03 02", "2020 03 02", "2023 12 07", "2024 06 30"], 8, ["ger"], ["action", "drama", "supernatural"], ["nico"], ["Kino", "X-Men", "Marvel", "Disney+"], ["James Mangold"], ["Hugh Jackman", "Patrick Stewart", "Dafne Keen", "Stephen Merchant", "Boyd Holbrook"], "https://68.media.tumblr.com/42f0e6d37b2f98c78afda5b69edaf6d5/tumblr_om8zfwTnMX1v2s5upo1_250.jpg"],
 	        
@@ -3768,29 +3768,29 @@ var database = [
 
 ["audiobook", ["Die drei ??? 81: Verdeckte Fouls"], "1998", ["2026 05 06"], 5, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/bbe69fa5522adb06f341bba647279d7f/c81db382233e59e7-6d/s250x400/ed3de32cdad6d1cd5e2371cbd26987d3cf1ada58.jpg"],
 
-["audiobook", ["Die drei ??? 82: Die Karten des Bösen"], "1998", ["2026 05 07"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 82: Die Karten des Bösen"], "1998", ["2026 05 07"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/22cfaf0b2c02e8063f7e52f97b8c2774/7290c2d5b2556e37-a0/s250x400/e2e33d41345a808e96b0e7e95a0eec5a2d808b7b.jpg"],
 
-["audiobook", ["Die drei ??? 83: Meuterei auf hoher See"], "1998", ["2026 05 11"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 83: Meuterei auf hoher See"], "1998", ["2026 05 11"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/ac71dfae3e715c2acd1cbde4627f4453/d609df041bece895-6a/s250x400/888b7be9503459eab09fbb88e536204da3f242ca.jpg"],
 
-["audiobook", ["Die drei ??? 84: Musik des Teufels"], "1998", ["2026 05 11"], 7, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 84: Musik des Teufels"], "1998", ["2026 05 11"], 7, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/5281effd8dca21bc0911bd964809d722/93d93ccee6d2ae13-67/s250x400/ba9e035e6ef1ee119d6c20eacbcfa405b504a304.jpg"],
 
-["audiobook", ["Die drei ??? 85: Feuerturm"], "1999", ["2026 05 12"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 85: Feuerturm"], "1999", ["2026 05 12"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/b0f7dbada08a67b466c8579735b72bc4/9b701b7e4d94bb0b-ac/s250x400/84b3317a56c7921f2772114e3bc0cc6502c4e26a.jpg"],
 
-["audiobook", ["Die drei ??? 86: Nacht in Angst"], "1999", ["2026 05 20"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 86: Nacht in Angst"], "1999", ["2026 05 20"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/989a7286958a102f12d354164d839bca/241cba92c40957e7-c2/s250x400/4ffbe675ae6204dd2410abbdb75155756c0554ba.jpg"],
 
-["audiobook", ["Die drei ??? 87: Wolfsgesicht"], "1999", ["2026 05 20"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Katharina Fischer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 87: Wolfsgesicht"], "1999", ["2026 05 20"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Katharina Fischer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/a7a8847d76326b12cac0bd19ddb0a764/0638ab7830fffa9f-67/s250x400/d77109685f5e4139d00b3144f5d5a648b300eb9b.jpg"],
 
-["audiobook", ["Die drei ??? 88: Vampir im Internet"], "1999", ["2026 05 20", "2026 05 21"], 3, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 88: Vampir im Internet"], "1999", ["2026 05 20", "2026 05 21"], 3, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/9b981c7992edc5f7fc450b6706bc7438/1db1761654338bcd-ad/s250x400/a6bfdc152233731859cf51e8d491cec771ae4846.jpg"],
 
-["audiobook", ["Die drei ??? 89: Tödliche Spur"], "1999", ["2026 05 21"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 89: Tödliche Spur"], "1999", ["2026 05 21"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/6415f32d5f7c233005b6bcfae2aa4026/e680ab8d7edeef31-25/s250x400/9cb4aef5818731e46c2de63c508d96ed459b25d9.jpg"],
 
-["audiobook", ["Die drei ??? 90: Der Feuerteufel"], "1999", ["2026 05 21"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 90: Der Feuerteufel"], "1999", ["2026 05 21"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/e9ba89100b3acf80ce3505d5e844d6e1/91d9d97d2eb2bc77-fb/s250x400/cbd137d8b4e56b59b0d80a66c2100f23ab164026.jpg"],
 
-["audiobook", ["Die drei ??? 91: Labyrinth der Götter"], "2000", ["2026 05 22"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 91: Labyrinth der Götter"], "2000", ["2026 05 22"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/2eb6bf45609b55680c78f318d59d588b/a40cd079528959ee-27/s250x400/69c3b3e7e430068d9043d729c509fe73dd0a69e5.jpg"],
 
-["audiobook", ["Die drei ??? 92: Todesflug"], "2000", ["2026 05 22"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""],
+["audiobook", ["Die drei ??? 92: Todesflug"], "2000", ["2026 05 22"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/3d9e86702bd8f4f1d92b4e021e1cac2e/7de5e96fa9b315d6-1a/s250x400/e763888a4e608c2315d32a78a9edfbfb9c299aac.jpg"],
 
-["audiobook", ["Die drei ??? 93: und das Geisterschiff"], "2000", ["2026 05 26"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], ""]
+["audiobook", ["Die drei ??? 93: und das Geisterschiff"], "2000", ["2026 05 26"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/ff3822cfcc327fb11da00d825e3430e5/eeddad95154df997-cb/s250x400/c658bfbb884266facb64c8b750cd28d0318724aa.jpg"]
 
 	/*
 ,
