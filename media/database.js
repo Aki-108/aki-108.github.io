@@ -2762,7 +2762,7 @@ var database = [
 
 ["audiobook", ["Vincent und das Geisterlama"], "2022", ["2023 10 17"], 4, ["ger"], ["adventure"], [], ["bibliothek"], ["Sonja Kaiblinger"], ["Christian Rudolf"], "https://64.media.tumblr.com/e4916a2e4b5ede5e45732ba30e2ffc64/476d775c139e021c-5d/s250x400/b6b47552457d9ef113e951fccc9edfe237df2c4b.jpg"],
 
-["film", ["Avatar: The Way of Water"], "2022", [["2023 10 23", "2023 10 25"]], 8, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Chloe Coleman", "Stephen Lang"], "https://64.media.tumblr.com/5d939c5d537f6c78a5358fb7c7b76ce9/3d9c444cb5301eec-20/s250x400/4da20fb477cb01c2057b5bf0a171466eca5ddc0b.jpg"],
+["film", ["Avatar: The Way of Water"], "2022", [["2023 10 23", "2023 10 25"], "2026 06 14"], 8, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Chloe Coleman", "Stephen Lang"], "https://64.media.tumblr.com/5d939c5d537f6c78a5358fb7c7b76ce9/3d9c444cb5301eec-20/s250x400/4da20fb477cb01c2057b5bf0a171466eca5ddc0b.jpg"],
 
 ["film", ["Of Mice and Men", "Von Mäusen und Menschen"], "1992", ["2023 10 29"], 8, ["ger"], ["drama", "western"], ["bini", "syl"], ["bibliothek"], ["Gary Sinise"], ["Gary Sinise", "John Terry", "John Malkovich"], "https://64.media.tumblr.com/737fe944e99b4e51575b679c1c4880f1/5380813e916f97ac-b1/s250x400/893e1cce1a3f581c19a0924f75b8086c825d04aa.jpg"],
 
