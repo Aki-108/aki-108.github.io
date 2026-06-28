@@ -3796,9 +3796,17 @@ var database = [
 
 ["film", ["Bibi & Tina: Einfach Anders"], "2022", ["2026 06 06"], 4, ["ger"], ["adventure", "comedy", "family"], ["bini"], ["Netflix"], ["Detlev Buck"], ["Frederick Lau"], "https://64.media.tumblr.com/7bd914ba4cb6fc6ceea1094eb835ce60/6a8cd3de2a580a32-be/s250x400/c65c292f96c5dfb57ab92685a79ecc94ea5b28ca.jpg"],
 
-["type", ["Spice and Wolf", "Spice and Wolf", "Ookami to Koushinryou"], "2008", [["2026 06 08", "2026 06 22", "S1"]], 4, ["ger"], ["anime", "drama", "adventure"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/e0ab5a3d60c492c03ae1eae805ba18a1/aafb61493a325232-8a/s250x400/49b014eb269a39333ce07bb6483b9de1aac2b615.jpg"],
+["series", ["Spice and Wolf", "Spice and Wolf", "Ookami to Koushinryou"], "2008", [["2026 06 08", "2026 06 22", "S1"]], 4, ["ger"], ["anime", "drama", "adventure"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/e0ab5a3d60c492c03ae1eae805ba18a1/aafb61493a325232-8a/s250x400/49b014eb269a39333ce07bb6483b9de1aac2b615.jpg"],
 
-["type", ["Eenie Meanie"], "2025", ["2026 06 20"], 6, ["ger"], ["action", "comedy", "drama"], [], ["Disney+"], ["Shawn Simmons"], ["Samara Weaving", "Steve Zahn"], "https://64.media.tumblr.com/f604914b8ad022dc37c306c0deab82a2/d9553af24afd0baf-d8/s250x400/2dbd2f1a36f3d90940fe3c51f7e1cda76b4ec3eb.jpg"],
+["audiobook", ["Die drei ??? 94: Das schwarze Monster"], "2000", [["2026 06 09", "2026 06 11"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/710cf501642933a257b6404633e3958e/097a35cf701d5767-73/s250x400/cdefaacbd264bd222e38893a3750bc0953ee0b4f.jpg"],
+
+["audiobook", ["Die drei ??? 95: Botschaft von Geisterhand"], "2000", [["2026 06 12", "2026 06 16"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/2827d946f35d371fa609683639a09a6d/3b2e68dc719911be-97/s250x400/fb56afd8fd9f8bf8eae95854da517ef26ff9dfb3.jpg"],
+
+["audiobook", ["Die drei ??? 96: und der rote Rächer"], "2000", [["2026 06 18", "2026 06 19"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Katharina Fischer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/4d8a3c12120e7a5bbea829d3004e8b54/e715f336294e0652-05/s250x400/d808fb86e6f2f4c4893eb09b4f31afac41d76e9f.jpg"],
+
+["film", ["Eenie Meanie"], "2025", ["2026 06 20"], 6, ["ger"], ["action", "comedy", "drama"], [], ["Disney+"], ["Shawn Simmons"], ["Samara Weaving", "Steve Zahn"], "https://64.media.tumblr.com/f604914b8ad022dc37c306c0deab82a2/d9553af24afd0baf-d8/s250x400/2dbd2f1a36f3d90940fe3c51f7e1cda76b4ec3eb.jpg"],
+
+["audiobook", ["Die drei ??? 96: Insektenstachel"], "2001", [["2026 06 20", "2026 06 24"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/7ef585dafac5ce758936a67b0fd7b2c7/a78260e4b9e9ac4e-99/s250x400/24ddffff700b1124864ca575b4e5c71e838bfe37.jpg"],
 
 ["film", ["Manta, Manta - Zwoter Teil"], "2023", ["2026 06 27"], 6, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["Til Schweiger"], ["Axel Stein", "Wotan Wilke Möhring", "Moritz Bleibtreu", "Tim Oliver Schultz", "Michael Kessler", "Til Schweiger"], "https://64.media.tumblr.com/2480acd28afd9a9b8d54998201ee86b9/1c50a12daa04e6d0-47/s250x400/fb9c9ae50bccf97f571286445a04f90070833471.jpg"],
 
