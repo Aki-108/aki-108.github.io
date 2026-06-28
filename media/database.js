@@ -2762,7 +2762,7 @@ var database = [
 
 ["audiobook", ["Vincent und das Geisterlama"], "2022", ["2023 10 17"], 4, ["ger"], ["adventure"], [], ["bibliothek"], ["Sonja Kaiblinger"], ["Christian Rudolf"], "https://64.media.tumblr.com/e4916a2e4b5ede5e45732ba30e2ffc64/476d775c139e021c-5d/s250x400/b6b47552457d9ef113e951fccc9edfe237df2c4b.jpg"],
 
-["film", ["Avatar: The Way of Water"], "2022", [["2023 10 23", "2023 10 25"], "2026 06 14"], 8, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Chloe Coleman", "Stephen Lang"], "https://64.media.tumblr.com/5d939c5d537f6c78a5358fb7c7b76ce9/3d9c444cb5301eec-20/s250x400/4da20fb477cb01c2057b5bf0a171466eca5ddc0b.jpg"],
+["film", ["Avatar: The Way of Water"], "2022", [["2023 10 23", "2023 10 25"], "2026 06 14"], 8, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Chloe Coleman", "Stephen Lang", "Giovanni Ribisi"], "https://64.media.tumblr.com/5d939c5d537f6c78a5358fb7c7b76ce9/3d9c444cb5301eec-20/s250x400/4da20fb477cb01c2057b5bf0a171466eca5ddc0b.jpg"],
 
 ["film", ["Of Mice and Men", "Von Mäusen und Menschen"], "1992", ["2023 10 29"], 8, ["ger"], ["drama", "western"], ["bini", "syl"], ["bibliothek"], ["Gary Sinise"], ["Gary Sinise", "John Terry", "John Malkovich"], "https://64.media.tumblr.com/737fe944e99b4e51575b679c1c4880f1/5380813e916f97ac-b1/s250x400/893e1cce1a3f581c19a0924f75b8086c825d04aa.jpg"],
 
@@ -3054,7 +3054,7 @@ var database = [
 
 ["series", ["Lonelygirl15"], ["2006", "2016"], [["2024 09 28", "2024 10 27", "S1E1-S1E180"]], 0, ["eng"], ["drama"], [], ["YouTube"], ["Miles Beckett", "Greg Goodfried", "Mesh Flinders"], ["Yousef Abu-Taleb", "Jackson Davis", "Jessica Rose"], "https://64.media.tumblr.com/2e477de722bb5ab70464ce332e8f7173/be12f6f64b20a6b3-b1/s250x400/8dcb298fbeb9adb22930675f45eface1609a2aed.jpg"],
 
-["series", ["A Good Girl's Guide to Murder"], "2024", [["2024 09 28", "2024 09 29", "S1"], ["2025 06 29", "S1"]], 8, ["ger"], ["drama", "mystery"], [], ["ZDF Neo"], ["Poppy Cogan", "Holly Jackson"], ["Emma Myers"], "https://64.media.tumblr.com/7d75c4452547184b4ac9c8287ad79531/c4d95847e9946dcd-76/s250x400/9ab8557c8d62cecfd05eea4913e70b07c9604ebb.jpg"],
+["series", ["A Good Girl's Guide to Murder"], "2024", [["2024 09 28", "2024 09 29", "S1"], ["2025 06 29", "S1"], ["2026 06 28", "", "S1"]], 8, ["ger"], ["drama", "mystery"], [], ["ZDF Neo", "watching"], ["Poppy Cogan", "Holly Jackson"], ["Emma Myers"], "https://64.media.tumblr.com/7d75c4452547184b4ac9c8287ad79531/c4d95847e9946dcd-76/s250x400/9ab8557c8d62cecfd05eea4913e70b07c9604ebb.jpg"],
 
 ["series", ["Hannah Montana"], ["2006", "2011"], [["2024 10 02", "2024 11 27", "S1"]], 4, ["ger"], ["comedy", "family"], ["bini", "nico"], ["Disney+"], ["Richard Correll", "Barry O'Brien"], ["Miley Cyrus"], "https://64.media.tumblr.com/c46019b41a1a54ad294cca84744d6fbc/49fc4c8f78992291-03/s250x400/ebe9f8358e51c5853adafa367e115a61cb7a2dd8.jpg"],
 
@@ -3792,9 +3792,17 @@ var database = [
 
 ["audiobook", ["Die drei ??? 93: und das Geisterschiff"], "2000", ["2026 05 26"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/ff3822cfcc327fb11da00d825e3430e5/eeddad95154df997-cb/s250x400/c658bfbb884266facb64c8b750cd28d0318724aa.jpg"],
 
-["series", ["Serial Experiments Lain"], "1998", [["2026 06 01", ""]], 0, ["ger"], ["anime", "drama", "mystery"], ["bini", "nico"], ["watching"], ["Yasuyuki Ueda"], [], "https://64.media.tumblr.com/a63315b6fc81e68d79f834f148d9c7e1/1c329bcacd98e277-8e/s250x400/05fb5ffb1f769459ac4a40326c0c2960b4add7c0.jpg"],
+["series", ["Serial Experiments Lain"], "1998", [["2026 06 01", "2026 06 08", "S1"]], 3, ["ger"], ["anime", "drama", "mystery"], ["bini", "nico"], [], ["Yasuyuki Ueda"], [], "https://64.media.tumblr.com/a63315b6fc81e68d79f834f148d9c7e1/1c329bcacd98e277-8e/s250x400/05fb5ffb1f769459ac4a40326c0c2960b4add7c0.jpg"],
 
-["film", ["Bibi & Tina: Einfach Anders"], "2022", ["2026 06 06"], 4, ["ger"], ["adventure", "comedy", "family"], ["bini"], ["Netflix"], ["Detlev Buck"], ["Frederick Lau"], "https://64.media.tumblr.com/7bd914ba4cb6fc6ceea1094eb835ce60/6a8cd3de2a580a32-be/s250x400/c65c292f96c5dfb57ab92685a79ecc94ea5b28ca.jpg"]
+["film", ["Bibi & Tina: Einfach Anders"], "2022", ["2026 06 06"], 4, ["ger"], ["adventure", "comedy", "family"], ["bini"], ["Netflix"], ["Detlev Buck"], ["Frederick Lau"], "https://64.media.tumblr.com/7bd914ba4cb6fc6ceea1094eb835ce60/6a8cd3de2a580a32-be/s250x400/c65c292f96c5dfb57ab92685a79ecc94ea5b28ca.jpg"],
+
+["type", ["Spice and Wolf", "Spice and Wolf", "Ookami to Koushinryou"], "2008", [["2026 06 08", "2026 06 22", "S1"]], 4, ["ger"], ["anime", "drama", "adventure"], ["bini", "nico"], [], [], [], "https://64.media.tumblr.com/e0ab5a3d60c492c03ae1eae805ba18a1/aafb61493a325232-8a/s250x400/49b014eb269a39333ce07bb6483b9de1aac2b615.jpg"],
+
+["type", ["Eenie Meanie"], "2025", ["2026 06 20"], 6, ["ger"], ["action", "comedy", "drama"], [], ["Disney+"], ["Shawn Simmons"], ["Samara Weaving", "Steve Zahn"], "https://64.media.tumblr.com/f604914b8ad022dc37c306c0deab82a2/d9553af24afd0baf-d8/s250x400/2dbd2f1a36f3d90940fe3c51f7e1cda76b4ec3eb.jpg"],
+
+["film", ["Manta, Manta - Zwoter Teil"], "2023", ["2026 06 27"], 6, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["Til Schweiger"], ["Axel Stein", "Wotan Wilke Möhring", "Moritz Bleibtreu", "Tim Oliver Schultz", "Michael Kessler", "Til Schweiger"], "https://64.media.tumblr.com/2480acd28afd9a9b8d54998201ee86b9/1c50a12daa04e6d0-47/s250x400/fb9c9ae50bccf97f571286445a04f90070833471.jpg"],
+
+["film", ["Avatar: Fire and Ash"], "2025", ["2026 06 28"], 6, ["ger"], ["action", "adventure", "drama"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Stephen Lang", "Cliff Curtis", "CCH Pounder", "Giovanni Ribisi"], "https://64.media.tumblr.com/6d0c9ef0259dcf3b38195ee4c8440a67/e964aac091c25fab-0a/s250x400/3302c2d61d555a9e524ea74a2b48c093fd2a20ec.jpg"]
 
 	/*
 ,
