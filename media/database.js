@@ -2904,7 +2904,7 @@ var database = [
 
 ["audiobook", ["Emerald Green", "Smaragdgrün"], "2010", [["2024 02 26", "2024 03 05"]], 7, ["ger"], ["fantasy"], [], ["Ruby Red Trilogy", "bibliothek"], ["Kerstin Gier"], ["Josefine Preuß"], "https://64.media.tumblr.com/22df180fcbf049350e9d09908a5f98e9/aa7ded5e85567561-e7/s250x400/9e4ac1df7f82c4653f2859bedd60df4a6bd67733.jpg"],
 
-["series", ["Avatar: The Last Airbender", "Avatar - Der Herr Der Elemente"], "2024", [["2024 02 28", "2024 03 20", "S1"]],5, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Netflix"], ["Michael Dante DiMartino"], ["Kiawentiio", "Daniel Dae Kim", "Ken Leung", "Utkarsh Ambudkar", "Momona Tamada"], "https://64.media.tumblr.com/d109abc3dc3364373df3614dd2fe8f48/4398b8384ece5567-5c/s250x400/1e18a0dc4d05baa362b8436bd4358f5198a2a908.jpg"],
+["series", ["Avatar: The Last Airbender", "Avatar - Der Herr Der Elemente"], ["2024", "2026"], [["2024 02 28", "2024 03 20", "S1"], ["2026 06 29", "", "S2"]],5, ["ger"], ["action", "adventure"], ["bini", "nico"], ["Netflix", "watching"], ["Michael Dante DiMartino"], ["Kiawentiio", "Daniel Dae Kim", "Ken Leung", "Utkarsh Ambudkar", "Momona Tamada"], "https://64.media.tumblr.com/d109abc3dc3364373df3614dd2fe8f48/4398b8384ece5567-5c/s250x400/1e18a0dc4d05baa362b8436bd4358f5198a2a908.jpg"],
 
 ["film", ["Das weiße Kaninchen"], "2016", ["2024 03 03"], 5, ["ger"], ["drama", "thriller"], [], ["bibliothek"], ["Florian Schwarz"], ["Louis Hofmann"], "https://64.media.tumblr.com/c388fb2097ebd79d4c036aa3c757f0c3/1fb42b9c3c5360a7-17/s250x400/55ddaaca4177eb08a4c5a450f8a3fb3d8d82e1ef.jpg"],
 
@@ -3054,7 +3054,7 @@ var database = [
 
 ["series", ["Lonelygirl15"], ["2006", "2016"], [["2024 09 28", "2024 10 27", "S1E1-S1E180"]], 0, ["eng"], ["drama"], [], ["YouTube"], ["Miles Beckett", "Greg Goodfried", "Mesh Flinders"], ["Yousef Abu-Taleb", "Jackson Davis", "Jessica Rose"], "https://64.media.tumblr.com/2e477de722bb5ab70464ce332e8f7173/be12f6f64b20a6b3-b1/s250x400/8dcb298fbeb9adb22930675f45eface1609a2aed.jpg"],
 
-["series", ["A Good Girl's Guide to Murder"], "2024", [["2024 09 28", "2024 09 29", "S1"], ["2025 06 29", "S1"], ["2026 06 28", "", "S1"]], 8, ["ger"], ["drama", "mystery"], [], ["ZDF Neo", "watching"], ["Poppy Cogan", "Holly Jackson"], ["Emma Myers"], "https://64.media.tumblr.com/7d75c4452547184b4ac9c8287ad79531/c4d95847e9946dcd-76/s250x400/9ab8557c8d62cecfd05eea4913e70b07c9604ebb.jpg"],
+["series", ["A Good Girl's Guide to Murder"], "2024", [["2024 09 28", "2024 09 29", "S1"], ["2025 06 29", "S1"], ["2026 06 28", "2026 06 29", "S1"]], 8, ["ger"], ["drama", "mystery"], [], ["ZDF Neo", "watching"], ["Poppy Cogan", "Holly Jackson"], ["Emma Myers"], "https://64.media.tumblr.com/7d75c4452547184b4ac9c8287ad79531/c4d95847e9946dcd-76/s250x400/9ab8557c8d62cecfd05eea4913e70b07c9604ebb.jpg"],
 
 ["series", ["Hannah Montana"], ["2006", "2011"], [["2024 10 02", "2024 11 27", "S1"]], 4, ["ger"], ["comedy", "family"], ["bini", "nico"], ["Disney+"], ["Richard Correll", "Barry O'Brien"], ["Miley Cyrus"], "https://64.media.tumblr.com/c46019b41a1a54ad294cca84744d6fbc/49fc4c8f78992291-03/s250x400/ebe9f8358e51c5853adafa367e115a61cb7a2dd8.jpg"],
 
