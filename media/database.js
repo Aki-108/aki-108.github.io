@@ -3360,7 +3360,7 @@ var database = [
 
 ["film", ["Fear Street: 1978", "Fear Street Teil 2: 1978"], "2021", ["2025 08 30", "2026 07 26"], 7, ["ger"], ["drama", "horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Benjamin Flores Jr.", "Sadie Sink", "Chiara Aurelia", "Emily Rudd", "Fred Hechinger"], "https://64.media.tumblr.com/121f143101b1c2914140b44ba5dbc949/96cb1dfba8bfbbe0-6f/s250x400/002bdf7ba19345fd2249f28e105a34b5b8e55153.jpg"],
 
-["film", ["Fear Street: 1666", "Fear Street Teil 3: 1666"], "2021", ["2025 08 31"], 7, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Elizabeth Scopel", "Benjamin Flores Jr.", "Sadie Sink", "Emily Rudd", "Fred Hechinger"], "https://64.media.tumblr.com/0974df51a9032cdf7a7e2bf0f6f789cc/b2b3af6dfa67d89a-f1/s250x400/d3a35042f51415f0bc139d290e4b4c248fdff0f0.jpg"],
+["film", ["Fear Street: 1666", "Fear Street Teil 3: 1666"], "2021", ["2025 08 31", "2026 07 26"], 7, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Elizabeth Scopel", "Benjamin Flores Jr.", "Sadie Sink", "Emily Rudd", "Fred Hechinger"], "https://64.media.tumblr.com/0974df51a9032cdf7a7e2bf0f6f789cc/b2b3af6dfa67d89a-f1/s250x400/d3a35042f51415f0bc139d290e4b4c248fdff0f0.jpg"],
 
 ["film", ["Fear Street: Prom Queen"], "2025", ["2025 08 31"], 7, ["ger"], ["horror", "mystery", "thriller"], [], ["Netflix"], ["Matt Palmer"], ["Ariana Greenblatt", "David Iacono"], "https://64.media.tumblr.com/24d16275c67423c9576d947c322aea85/284db2908068b283-a8/s250x400/a351382b266877400e21538c623c0c9eb9ac90cc.jpg"],
 
