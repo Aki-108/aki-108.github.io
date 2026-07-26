@@ -3210,7 +3210,7 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! 06 - Tod eines Schneemanns"], "2018", [["2025 02 26", "2025 02 27"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/34502fba7cfbd64d2ef7768ab09ce1a4/7d507f4cdf16489f-be/s250x400/befc81336438034f60705ebd7191ad40c33b39b7.jpg"],
 
-["audiobook", ["Tom Sawyer - 1. Teil"], "pub year", [["2025 02 27", "2025 02 28"]], 5, ["ger"], ["adventure"], [], ["bibliothek"], ["Mark Twain"], ["Carolin Conrad"], "image"],
+["audiobook", ["Tom Sawyer - 1. Teil"], "1876", [["2025 02 27", "2025 02 28"]], 5, ["ger"], ["adventure"], [], ["bibliothek"], ["Mark Twain"], ["Carolin Conrad"], "https://64.media.tumblr.com/e20f46f29e5928a91d468bf36a5ddf43/655a0e721acd91cc-e3/s250x400/79963f2e32f8f0810b6bd78d0dc5a2c247df18d6.jpg"],
 
 ["film", ["Fifty Shades of Grey", "Fifty Shades Of Grey"], "2015", ["2025 02 28"], 5, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Sam Taylor-Johnson"], ["Dakota Johnson", "Jamie Dornan", "Luke Grimes"], "https://64.media.tumblr.com/67e443a7b06947c92351b9d3498646cf/f7ad902cb5feaa7a-9c/s250x400/e2c7689df3a25419cd141be62024e80f4e9f2231.jpg"],
 
@@ -3810,29 +3810,29 @@ var database = [
 
 ["film", ["Manta, Manta - Zwoter Teil"], "2023", ["2026 06 27"], 6, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["Til Schweiger"], ["Axel Stein", "Wotan Wilke Möhring", "Moritz Bleibtreu", "Tim Oliver Schultz", "Michael Kessler", "Til Schweiger"], "https://64.media.tumblr.com/2480acd28afd9a9b8d54998201ee86b9/1c50a12daa04e6d0-47/s250x400/fb9c9ae50bccf97f571286445a04f90070833471.jpg"],
 
-["audiobook", ["Die drei ??? 98: Tal des Schreckens"], "2001", [["2026 06 27", "2026 06 29"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 98: Tal des Schreckens"], "2001", ["", ["2026 06 27", "2026 06 29"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/42e520c7c64156ad3fbbe2c4450a653b/9c01bc8c9dfc93b0-3f/s250x400/463b2af9c14b8e3cd94713e83e33d99a717a5f11.jpg"],
 
 ["film", ["Avatar: Fire and Ash"], "2025", ["2026 06 28"], 6, ["ger"], ["action", "adventure", "drama"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Stephen Lang", "Cliff Curtis", "CCH Pounder", "Giovanni Ribisi"], "https://64.media.tumblr.com/6d0c9ef0259dcf3b38195ee4c8440a67/e964aac091c25fab-0a/s250x400/3302c2d61d555a9e524ea74a2b48c093fd2a20ec.jpg"],
 
-["audiobook", ["Die drei ??? 99: Rufmord"], "2001", ["2026 06 30"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 99: Rufmord"], "2001", ["2026 06 30"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/9a04f3e51d3a20be32e9cfe2a666b839/f15c99e47894ddc8-8b/s250x400/dd741466b1051110e170fcd1b34c47e99c794252.jpg"],
 
-["audiobook", ["Die drei ??? 100: Toteninsel"], "2001", [["2026 06 30", "2026 07 05"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 100: Toteninsel"], "2001", [["2026 06 30", "2026 07 05"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/8f9e828ccb768cd9a61ed71376a1b3db/89d0bcc00d1919d0-33/s250x400/9d1b76de05f3373d757e94a918bfcc5aa8fe12e6.jpg"],
 
 ["film", ["Sleepers"], "1996", ["2026 07 05"], 5, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["Barry Levinson"], ["Kevin Bacon", "Robert De Niro", "Ron Eldard", "Minnie Driver", "Dustin Hoffman", "Brad Pitt"], "https://64.media.tumblr.com/265d7e9d9355c47a1ca168694bb34dd3/da217092a96e1567-52/s250x400/726c474feee933fc0e1bfb36c734cbdb549c94ba.jpg"],
 
-["audiobook", ["Die drei ??? 101: und das Hexenhandy"], "2001", [["2026 07 06", "2026 07 10"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 101: und das Hexenhandy"], "2001", [["2026 07 06", "2026 07 10"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/ae3f64d005b5928545ea2e6df754d199/a20daec0ebac85f9-dd/s250x400/1f6d9a39b93ec9851ed919a83b0ec26d2fe72fd6.jpg"],
 
 ["film", ["The Other Boleyn Girl", "Die Schwester der Königin"], "2008", ["2026 07 07"], 6, ["ger"], ["biography", "drama", "history"], [], ["Netflix"], ["Justin Chadwick"], ["Natalie Portman", "Scarlett Johansson", "Eric Bana", "Jim Sturgess", "Mark Rylance", "Benedict Cumberbatch", "Eddie Redmayne"], "https://64.media.tumblr.com/4a998422721409edaa2551e09124d531/c33d66658aa83ec1-6c/s250x400/218e59a0fbd64957a95174152168d151c64062f1.jpg"],
 
-["audiobook", ["Die drei ??? 102: Doppelte Täuschung"], "2001", [["2026 07 11", "2026 07 12"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 102: Doppelte Täuschung"], "2001", [["2026 07 11", "2026 07 12"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/2a447de9fab58284191d9c63bee44e04/044d5a6045892f7c-9e/s250x400/82160af105c73fc5c73ced6cc3c137f68aebf3d6.jpg"],
 
-["audiobook", ["Die drei ??? 103: Das Erbe des Meisterdiebs"], "2002", [["2026 07 13", "2026 07 17"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 103: Das Erbe des Meisterdiebs"], "2002", [["2026 07 13", "2026 07 17"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/887e0bad56e1d40ccea627b803bd29d6/e033cd0a253f6e03-19/s250x400/afeda42ff3fa158b511dc3f4ade791d62673bef3.jpg"],
 
 ["film", ["Man on Fire", "Mann unter Feuer"], "2004", ["2026 07 17"], 5, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Tony Scott"], ["Denzel Washington", "Dakota Fanning", "Radha Mitchell", "Christopher Walken"], "https://64.media.tumblr.com/1ff45627885dc3b9807cb216de326860/91420ee94df1fb1f-e3/s250x400/81eb48b578f4312d2c54ed5a18c43d55257ba877.jpg"],
 
 ["film", ["Go", "Go! Das Leben beginnt erst um 3.00 Uhr morgens"], "1999", ["2026 07 18"], 5, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Doug Liman"], ["Katie Holmes", "Sarah Polley", "Suzanne Krull"], "https://64.media.tumblr.com/dc84c7529e018cccfb4d8dc10a197576/0b6617ee0e96279e-c1/s250x400/274406236b0dcef8e46c02e40235122a985d7605.jpg"],
 
-["audiobook", ["Die drei ??? 104: Gift per E-Mail"], "2002", [["2026 07 18", "2026 07 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
+["audiobook", ["Die drei ??? 104: Gift per E-Mail"], "2002", [["2026 07 18", "2026 07 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/7fc02f77b6339f4a4261c6860a4dfbf5/c036d8216c9ca7a1-b3/s250x400/9173762b869f69af2fe252203bb26b69b0e39734.jpg"]
 
 	/*
 ,
