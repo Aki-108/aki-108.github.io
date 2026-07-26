@@ -3350,7 +3350,7 @@ var database = [
 
 ["film", ["Promising Young Woman"], "2020", ["2025 08 24"], 7, ["ger"], ["crime", "drama", "mystery"], [], ["Netflix"], ["Emerald Fennell"], ["Adam Brody", "Sam Richardson", "Carey Mulligan", "Clancy Brown", "Jennifer Coolidge", "Laverne Cox", "Bo Burnham", "Christopher Mintz-Plasse", "Max Greenfield"], "https://64.media.tumblr.com/f1ef2e69dfa5bdf43dd772ba73de5369/8a6898db0f71b01d-14/s250x400/65fd6c3b4edf057e724ea2bae866874a7ff9ba57.jpg"],
 
-["film", ["Fear Street: 1994", "Fear Street Teil 1: 1994"], "2021", ["2025 08 24"], 7, ["ger"], ["drama", "horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Maya Hawke", "Benjamin Flores Jr.", "Fred Hechinger"], "https://64.media.tumblr.com/94b8a358ec30ca6bdf7fbfe11cc62ce8/427df6b6aed5b603-b5/s250x400/19eef1ba27ae13acf71b3530161f8900a9025305.jpg"],
+["film", ["Fear Street: 1994", "Fear Street Teil 1: 1994"], "2021", ["2025 08 24", "2026 07 26"], 7, ["ger"], ["drama", "horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Maya Hawke", "Benjamin Flores Jr.", "Fred Hechinger"], "https://64.media.tumblr.com/94b8a358ec30ca6bdf7fbfe11cc62ce8/427df6b6aed5b603-b5/s250x400/19eef1ba27ae13acf71b3530161f8900a9025305.jpg"],
 
 ["film", ["Harold and the Purple Crayon", "Harold und die Zauberkreide"], "2024", ["2025 08 24"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Carlos Saldanha"], ["Zooey Deschanel", "Tanya Reynolds"], "https://64.media.tumblr.com/40d3ac903571e4eb2a36d0b8e3e60d4b/9ec9424639c65e2b-7d/s250x400/b3a57bf0fb9e36e742570365036331be9e965ac7.jpg"],
 
@@ -3358,7 +3358,7 @@ var database = [
 
 ["film", ["Detective Conan: One-Eyed Flashback", "Detective Conan: One-Eyed Flashback", "Meitantei Konan Sekigan no Furasshubakku"], "2025", ["2025 08 26"], 7, ["ger"], ["anime", "action", "crime"], ["bini"], ["Kino", "Conan"], ["Katsuya Shigehara"], [], "https://64.media.tumblr.com/29f73ff884c035575706756af4448f34/917da13c5d674dcd-ee/s250x400/e593dc07aecd9e65933ce95bc66ee486bdff82a1.jpg"],
 
-["film", ["Fear Street: 1978", "Fear Street Teil 2: 1978"], "2021", ["2025 08 30"], 7, ["ger"], ["drama", "horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Benjamin Flores Jr.", "Sadie Sink", "Chiara Aurelia", "Emily Rudd", "Fred Hechinger"], "https://64.media.tumblr.com/121f143101b1c2914140b44ba5dbc949/96cb1dfba8bfbbe0-6f/s250x400/002bdf7ba19345fd2249f28e105a34b5b8e55153.jpg"],
+["film", ["Fear Street: 1978", "Fear Street Teil 2: 1978"], "2021", ["2025 08 30", "2026 07 26"], 7, ["ger"], ["drama", "horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Benjamin Flores Jr.", "Sadie Sink", "Chiara Aurelia", "Emily Rudd", "Fred Hechinger"], "https://64.media.tumblr.com/121f143101b1c2914140b44ba5dbc949/96cb1dfba8bfbbe0-6f/s250x400/002bdf7ba19345fd2249f28e105a34b5b8e55153.jpg"],
 
 ["film", ["Fear Street: 1666", "Fear Street Teil 3: 1666"], "2021", ["2025 08 31"], 7, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Leigh Janiak"], ["Elizabeth Scopel", "Benjamin Flores Jr.", "Sadie Sink", "Emily Rudd", "Fred Hechinger"], "https://64.media.tumblr.com/0974df51a9032cdf7a7e2bf0f6f789cc/b2b3af6dfa67d89a-f1/s250x400/d3a35042f51415f0bc139d290e4b4c248fdff0f0.jpg"],
 
@@ -3806,19 +3806,33 @@ var database = [
 
 ["film", ["Eenie Meanie"], "2025", ["2026 06 20"], 6, ["ger"], ["action", "comedy", "drama"], [], ["Disney+"], ["Shawn Simmons"], ["Samara Weaving", "Steve Zahn"], "https://64.media.tumblr.com/f604914b8ad022dc37c306c0deab82a2/d9553af24afd0baf-d8/s250x400/2dbd2f1a36f3d90940fe3c51f7e1cda76b4ec3eb.jpg"],
 
-["audiobook", ["Die drei ??? 96: Insektenstachel"], "2001", [["2026 06 20", "2026 06 24"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/7ef585dafac5ce758936a67b0fd7b2c7/a78260e4b9e9ac4e-99/s250x400/24ddffff700b1124864ca575b4e5c71e838bfe37.jpg"],
+["audiobook", ["Die drei ??? 97: Insektenstachel"], "2001", [["2026 06 20", "2026 06 24"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/7ef585dafac5ce758936a67b0fd7b2c7/a78260e4b9e9ac4e-99/s250x400/24ddffff700b1124864ca575b4e5c71e838bfe37.jpg"],
 
 ["film", ["Manta, Manta - Zwoter Teil"], "2023", ["2026 06 27"], 6, ["ger"], ["action", "comedy"], ["bini"], ["Netflix"], ["Til Schweiger"], ["Axel Stein", "Wotan Wilke Möhring", "Moritz Bleibtreu", "Tim Oliver Schultz", "Michael Kessler", "Til Schweiger"], "https://64.media.tumblr.com/2480acd28afd9a9b8d54998201ee86b9/1c50a12daa04e6d0-47/s250x400/fb9c9ae50bccf97f571286445a04f90070833471.jpg"],
 
+["audiobook", ["Die drei ??? 98: Tal des Schreckens"], "2001", [["2026 06 27", "2026 06 29"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
 ["film", ["Avatar: Fire and Ash"], "2025", ["2026 06 28"], 6, ["ger"], ["action", "adventure", "drama"], ["bini", "nico"], ["Disney+"], ["James Cameron"], ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Stephen Lang", "Cliff Curtis", "CCH Pounder", "Giovanni Ribisi"], "https://64.media.tumblr.com/6d0c9ef0259dcf3b38195ee4c8440a67/e964aac091c25fab-0a/s250x400/3302c2d61d555a9e524ea74a2b48c093fd2a20ec.jpg"],
+
+["audiobook", ["Die drei ??? 99: Rufmord"], "2001", ["2026 06 30"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 100: Toteninsel"], "2001", [["2026 06 30", "2026 07 05"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["film", ["Sleepers"], "1996", ["2026 07 05"], 5, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["Barry Levinson"], ["Kevin Bacon", "Robert De Niro", "Ron Eldard", "Minnie Driver", "Dustin Hoffman", "Brad Pitt"], "https://64.media.tumblr.com/265d7e9d9355c47a1ca168694bb34dd3/da217092a96e1567-52/s250x400/726c474feee933fc0e1bfb36c734cbdb549c94ba.jpg"],
 
+["audiobook", ["Die drei ??? 101: und das Hexenhandy"], "2001", [["2026 07 06", "2026 07 10"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
 ["film", ["The Other Boleyn Girl", "Die Schwester der Königin"], "2008", ["2026 07 07"], 6, ["ger"], ["biography", "drama", "history"], [], ["Netflix"], ["Justin Chadwick"], ["Natalie Portman", "Scarlett Johansson", "Eric Bana", "Jim Sturgess", "Mark Rylance", "Benedict Cumberbatch", "Eddie Redmayne"], "https://64.media.tumblr.com/4a998422721409edaa2551e09124d531/c33d66658aa83ec1-6c/s250x400/218e59a0fbd64957a95174152168d151c64062f1.jpg"],
+
+["audiobook", ["Die drei ??? 102: Doppelte Täuschung"], "2001", [["2026 07 11", "2026 07 12"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 103: Das Erbe des Meisterdiebs"], "2002", [["2026 07 13", "2026 07 17"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["film", ["Man on Fire", "Mann unter Feuer"], "2004", ["2026 07 17"], 5, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Tony Scott"], ["Denzel Washington", "Dakota Fanning", "Radha Mitchell", "Christopher Walken"], "https://64.media.tumblr.com/1ff45627885dc3b9807cb216de326860/91420ee94df1fb1f-e3/s250x400/81eb48b578f4312d2c54ed5a18c43d55257ba877.jpg"],
 
-["film", ["Go", "Go! Das Leben beginnt erst um 3.00 Uhr morgens"], "1999", ["2026 07 18"], 5, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Doug Liman"], ["Katie Holmes", "Sarah Polley", "Suzanne Krull"], "https://64.media.tumblr.com/dc84c7529e018cccfb4d8dc10a197576/0b6617ee0e96279e-c1/s250x400/274406236b0dcef8e46c02e40235122a985d7605.jpg"]
+["film", ["Go", "Go! Das Leben beginnt erst um 3.00 Uhr morgens"], "1999", ["2026 07 18"], 5, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Doug Liman"], ["Katie Holmes", "Sarah Polley", "Suzanne Krull"], "https://64.media.tumblr.com/dc84c7529e018cccfb4d8dc10a197576/0b6617ee0e96279e-c1/s250x400/274406236b0dcef8e46c02e40235122a985d7605.jpg"],
+
+["audiobook", ["Die drei ??? 104: Gift per E-Mail"], "2002", [["2026 07 18", "2026 07 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
 
 	/*
 ,
