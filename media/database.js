@@ -3780,7 +3780,7 @@ var database = [
 
 ["audiobook", ["Die drei ??? 87: Wolfsgesicht"], "1999", ["2026 05 20"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Katharina Fischer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/a7a8847d76326b12cac0bd19ddb0a764/0638ab7830fffa9f-67/s250x400/d77109685f5e4139d00b3144f5d5a648b300eb9b.jpg"],
 
-["audiobook", ["Die drei ??? 88: Vampir im Internet"], "1999", ["2026 05 20", "2026 05 21"], 3, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/9b981c7992edc5f7fc450b6706bc7438/1db1761654338bcd-ad/s250x400/a6bfdc152233731859cf51e8d491cec771ae4846.jpg"],
+["audiobook", ["Die drei ??? 88: Vampir im Internet"], "1999", [["2026 05 20", "2026 05 21"]], 3, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/9b981c7992edc5f7fc450b6706bc7438/1db1761654338bcd-ad/s250x400/a6bfdc152233731859cf51e8d491cec771ae4846.jpg"],
 
 ["audiobook", ["Die drei ??? 89: Tödliche Spur"], "1999", ["2026 05 21"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/6415f32d5f7c233005b6bcfae2aa4026/e680ab8d7edeef31-25/s250x400/9cb4aef5818731e46c2de63c508d96ed459b25d9.jpg"],
 
