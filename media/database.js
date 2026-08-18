@@ -1954,11 +1954,11 @@ var database = [
 
 ["film", ["The Wave", "Die Welle"], "2008", ["2021 11 01"], 7, ["ger"], ["drama", "thriller"], [], ["Netflix"], ["Dennis Gansel"], ["Jürgen Vogel", "Frederick Lau", "Max Riemelt", "Elyas M'Barek", "Jacob Matschenz", "Max Mauff", "Tim Oliver Schultz", "Jennifer Ulrich", "Lennard Bertzbach"], "https://64.media.tumblr.com/22e92cc08046c98c68f0e4778c1fc2a5/a37e1ae2a4afa3cb-5b/s250x400/8debab79dfb2f3b21f632e6feb3e68d1d69910f0.jpg"],
 
-["film", ["Die Wilden Hühner"], "2006", ["2021 11 03"], 5, ["ger"], ["adventure", "family"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Paula Romy", "Zsá Zsá Inci", "Benno Fürmann", "Nina Vorbrodt", "Axel Prahl", "Jette Hering", "Piet Klocke"], "https://64.media.tumblr.com/6e75d756d4b66248126c6483b750c971/9f1cc2ad374d9fcc-31/s250x400/3afe75e6d09c1f49f6d9b97433d5d3be22011c7a.jpg"],
+["film", ["Die Wilden Hühner"], "2006", ["2021 11 03"], 5, ["ger"], ["adventure", "family"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Paula Romy", "Zsá Zsá Inci", "Benno Fürmann", "Nina Vorbrodt", "Axel Prahl", "Jette Hering", "Piet Klocke", "Jessica Schwarz"], "https://64.media.tumblr.com/6e75d756d4b66248126c6483b750c971/9f1cc2ad374d9fcc-31/s250x400/3afe75e6d09c1f49f6d9b97433d5d3be22011c7a.jpg"],
 
-["film", ["Die Wilden Hühner und die Liebe"], "2007", ["2021 11 04"], 6, ["ger"], ["comedy", "family"], [], ["Netflix", "LGBT", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Paula Romy", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Thomas Kretschmann", "Benno Fürmann", "Axel Prahl"], "https://64.media.tumblr.com/1a2776dae54457bcf515edc7356d6768/876998922951938e-05/s250x400/e54e96ceee013d17dbd42f0e1742f718c5b2eb60.jpg"],
+["film", ["Die Wilden Hühner und die Liebe"], "2007", ["2021 11 04"], 6, ["ger"], ["comedy", "family"], [], ["Netflix", "LGBT", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Paula Romy", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Thomas Kretschmann", "Benno Fürmann", "Axel Prahl", "Jessica Schwarz"], "https://64.media.tumblr.com/1a2776dae54457bcf515edc7356d6768/876998922951938e-05/s250x400/e54e96ceee013d17dbd42f0e1742f718c5b2eb60.jpg"],
 
-["film", ["Die Wilden Hühner und das Leben"], "2008", ["2021 11 05"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Benno Fürmann", "Wotan Wilke Möhring", "Milena Tscharntke", "Sonja Gerhardt", "Paula Schramm"], "https://64.media.tumblr.com/87deeb29e6606958a1eb6aea58fb3efc/913287753b1fadec-9b/s250x400/f4ed62e7adbe64210f03f3db21987ae8c57fc06d.jpg"],
+["film", ["Die Wilden Hühner und das Leben"], "2008", ["2021 11 05"], 5, ["ger"], ["adventure", "comedy"], [], ["Netflix", "Die Wilden Hühner"], ["Vivian Naefe"], ["Michelle von Treuberg", "Lucie Hollmann", "Jette Hering", "Zsá Zsá Inci", "Benno Fürmann", "Wotan Wilke Möhring", "Milena Tscharntke", "Sonja Gerhardt", "Paula Schramm", "Jessica Schwarz"], "https://64.media.tumblr.com/87deeb29e6606958a1eb6aea58fb3efc/913287753b1fadec-9b/s250x400/f4ed62e7adbe64210f03f3db21987ae8c57fc06d.jpg"],
 
 ["film", ["Die Vorstadtkrokodile"], "2009", ["2021 11 05"], 5, ["ger"], ["adventure", "family"], [], ["Netflix"], ["Christian Ditter"], ["Smudo", "Jacob Matschenz", "Axel Stein", "Nick Romeo Reimann", "Fabian Halbig", "Leonie Tepe", "Manuel Steitz", "David Hürten", "Javidan Imani", "Robin Walter", "Nicolas Schinseck", "Nora Tschirner"], "https://64.media.tumblr.com/4bdcf49349ca6a11d3660c9b9b50c3d9/1df5e4c42048e73b-43/s250x400/1c6fa4d31eec11353b8c02fd623d9e8607f1bb98.jpg"],
 
@@ -2413,7 +2413,7 @@ var database = [
 
 ["audiobook", ["The Lost Village", "Das Dorf der toten Seelen", "Staden"], "2019", [["2022 10 19", "2022 10 24"]], 5, ["ger"], ["horror", "mystery"], [], ["bibliothek"], ["Camilla Sten"], ["Katja Pilaski"], "https://64.media.tumblr.com/ef7e8c17555f37c69fa12d26df1814b8/c55a9b0b5427dde7-ac/s250x400/3312022cdb744f80de06e53c246ff6b6af0ace90.jpg"],
 
-["film", ["Do Revenge"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Jennifer Kaytin Robinson"], ["Camila Mendes", "Maya Hawke", "Austin Abrams", "Alisha Boe", "Paris Berelc", "Sophie Turner", "Talia Ryder", "Jordan Sherley"], "https://64.media.tumblr.com/de614a637a4df381ed7f045087c2c4de/5b169a5927624bab-b0/s250x400/d44b1ee3845732d607f6050acf4eaab9028121fb.jpg"],
+["film", ["Do Revenge"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy"], [], ["Netflix"], ["Jennifer Kaytin Robinson"], ["Camila Mendes", "Maya Hawke", "Austin Abrams", "Alisha Boe", "Paris Berelc", "Sophie Turner", "Talia Ryder", "Jordan Sherley", "Sarah Michelle Gellar"], "https://64.media.tumblr.com/de614a637a4df381ed7f045087c2c4de/5b169a5927624bab-b0/s250x400/d44b1ee3845732d607f6050acf4eaab9028121fb.jpg"],
 
 ["film", ["Rosalinde", "Rosaline"], "2022", ["2022 10 22"], 6, ["ger"], ["comedy", "romance"], [], ["Disney+"], ["Karen Maine"], ["Kaitlyn Dever", "Isabela Merced", "Minnie Driver", "Kyle Allen", "Bradley Whitford", "Christopher McDonald"], "https://64.media.tumblr.com/65ff2e4c37b30140025b9a67c743d80e/d66b54865dd0ca32-cb/s250x400/e4214a5a0ad73efdcaec7daf94d3e5578cfbf560.jpg"],
 
@@ -3670,7 +3670,7 @@ var database = [
 
 ["film", ["The Blair Witch Project", "Blair Witch Project"], "1999", ["2026 03 09"], 1, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Daniel Myrick", "Eduardo Sánchez"], ["Joshua Leonard"], "https://64.media.tumblr.com/5216d506af07b3643e0a06412286359d/a5626e4d21f60b00-33/s250x400/99de0872d8b782516ec9d937f5723e1a61597cb4.jpg"],
 
-["film", ["I Know What You Did Last Summer", "Ich weiß, was du letzten Sommer getan hast"], "2025", ["2026 03 11"], 5, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Jennifer Kaytin Robinson"], ["Freddie Prinze Jr.", "Jennifer Love Hewitt"], "https://64.media.tumblr.com/94e290c76d0e28cfd1587e9d5bd599c9/890b8d954c23fab3-81/s250x400/72a9e4ef543e67db43801f71ddabc75303b3ef35.jpg"],
+["film", ["I Know What You Did Last Summer", "Ich weiß, was du letzten Sommer getan hast"], "2025", ["2026 03 11"], 5, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Jennifer Kaytin Robinson"], ["Freddie Prinze Jr.", "Jennifer Love Hewitt", "Sarah Michelle Gellar"], "https://64.media.tumblr.com/94e290c76d0e28cfd1587e9d5bd599c9/890b8d954c23fab3-81/s250x400/72a9e4ef543e67db43801f71ddabc75303b3ef35.jpg"],
 
 ["film", ["Blade Runner 2049"], "2017", ["2026 03 11"], 5, ["ger"], ["action", "drama", "mystery"], [], ["Netflix"], ["Denis Villeneuve"], ["Ryan Gosling", "Dave Bautista", "Robin Wright", "Ana de Armas", "David Dastmalchian", "Tómas Lemarquis", "Jared Leto", "Harrison Ford"], "https://64.media.tumblr.com/f30078f8b04970609bebfb1cdfaabffe/0d5440c2c1683e08-9d/s250x400/e7ba2a6a41b494dad68d30b185283b07cdb54a29.jpg"],
 
@@ -3832,7 +3832,15 @@ var database = [
 
 ["film", ["Go", "Go! Das Leben beginnt erst um 3.00 Uhr morgens"], "1999", ["2026 07 18"], 5, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Doug Liman"], ["Katie Holmes", "Sarah Polley", "Suzanne Krull"], "https://64.media.tumblr.com/dc84c7529e018cccfb4d8dc10a197576/0b6617ee0e96279e-c1/s250x400/274406236b0dcef8e46c02e40235122a985d7605.jpg"],
 
-["audiobook", ["Die drei ??? 104: Gift per E-Mail"], "2002", [["2026 07 18", "2026 07 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/7fc02f77b6339f4a4261c6860a4dfbf5/c036d8216c9ca7a1-b3/s250x400/9173762b869f69af2fe252203bb26b69b0e39734.jpg"]
+["audiobook", ["Die drei ??? 104: Gift per E-Mail"], "2002", [["2026 07 18", "2026 07 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/7fc02f77b6339f4a4261c6860a4dfbf5/c036d8216c9ca7a1-b3/s250x400/9173762b869f69af2fe252203bb26b69b0e39734.jpg"],
+
+["film", ["Das Kanu des Manitu"], "2025", ["2026 08 02"], 5, ["ger"], ["comedy", "western"], ["bini", "syl"], ["Netflix"], ["Michael Herbig"], ["Michael Herbig", "Christian Tramitz", "Rick Kavanian", "Jessica Schwarz", "Daniel Zillmann", "Sky du Mont"], "https://64.media.tumblr.com/cde07eb7ba784a8f82e1e614a50ace86/25555a5c25f0aad6-89/s250x400/61af7664e95dfe55aa1d25124c7400b9f383361e.jpg"],
+
+["film", ["Enola Holmes 3"], "2026", ["2026 08 08"], 6, ["ger"], ["action", "adventure", "comedy"], ["bini", "syl"], ["Netflix"], ["Philip Barantini"], ["Millie Bobby Brown", "Henry Cavill", "Helena Bonham Carter", "Himesh Patel"], "https://64.media.tumblr.com/f1a21c05e81a891bcba3b0a66d5308e6/9fb98caa2285757b-95/s250x400/d56937f706a04eb3dc6b63bd8c5fcc2202fc9360.jpg"],
+
+["film", ["The Naked Gun: From the Files of Police Squad!", "Die nackte Kanone"], "1988", ["2026 08 09"], 4, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["David Zucker"], ["Leslie Nielsen"], "https://64.media.tumblr.com/ad77ee6d4c96325399f21c5aa2d8e9f0/aecd0c423a9454eb-ba/s250x400/9b5ae975e271f6bb36eed962e971fc49f1444630.jpg"],
+
+["film", ["Ready or Not: Here I Come", "Ready or Not 2"], "2026", ["2026 08 18"], 6, ["ger"], ["comedy", "horror", "thriller"], [], ["Disney+"], ["Matt Bettinelli-Olpin", "Tyler Gillett"], ["Samara Weaving", "Kathryn Newton", "Elijah Wood", "Sarah Michelle Gellar", "Nestor Carbonell", "Kevin Durand"], "https://64.media.tumblr.com/40ce9475bc713561d3156f72fb963479/4726099e4f744121-ca/s250x400/dec451a5762a781f3f0074e6acb144eb82bda606.jpg"]
 
 	/*
 ,
