@@ -3848,7 +3848,13 @@ var database = [
 
 ["audiobook", ["Die drei ??? 107: und der Schatz der Mönche"], "2002", [["2026 08 18", "2026 08 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
-["audiobook", ["Die drei ??? 108: Die sieben Tore"], "2002", ["2026 08 24"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
+["audiobook", ["Die drei ??? 108: Die sieben Tore"], "2002", ["2026 08 24"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 109: Gefährliches Quiz"], "2003", ["2026 08 25"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 110: Panik im Park"], "2003", ["2026 08 25"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 111: Die Höhle des Grauens"], "2003", ["2026 08 28"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
 
 	/*
 ,
