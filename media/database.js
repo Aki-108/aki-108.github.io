@@ -3836,11 +3836,19 @@ var database = [
 
 ["film", ["Das Kanu des Manitu"], "2025", ["2026 08 02"], 5, ["ger"], ["comedy", "western"], ["bini", "syl"], ["Netflix"], ["Michael Herbig"], ["Michael Herbig", "Christian Tramitz", "Rick Kavanian", "Jessica Schwarz", "Daniel Zillmann", "Sky du Mont"], "https://64.media.tumblr.com/cde07eb7ba784a8f82e1e614a50ace86/25555a5c25f0aad6-89/s250x400/61af7664e95dfe55aa1d25124c7400b9f383361e.jpg"],
 
+["audiobook", ["Die drei ??? 105: und der Nebelberg"], "2002", [["2026 08 03", "2026 08 07"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
 ["film", ["Enola Holmes 3"], "2026", ["2026 08 08"], 6, ["ger"], ["action", "adventure", "comedy"], ["bini", "syl"], ["Netflix"], ["Philip Barantini"], ["Millie Bobby Brown", "Henry Cavill", "Helena Bonham Carter", "Himesh Patel"], "https://64.media.tumblr.com/f1a21c05e81a891bcba3b0a66d5308e6/9fb98caa2285757b-95/s250x400/d56937f706a04eb3dc6b63bd8c5fcc2202fc9360.jpg"],
+
+["audiobook", ["Die drei ??? 106: Der Mann ohne Kopf"], "2002", [["2026 08 08", "2026 08 12"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["film", ["The Naked Gun: From the Files of Police Squad!", "Die nackte Kanone"], "1988", ["2026 08 09"], 4, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["David Zucker"], ["Leslie Nielsen"], "https://64.media.tumblr.com/ad77ee6d4c96325399f21c5aa2d8e9f0/aecd0c423a9454eb-ba/s250x400/9b5ae975e271f6bb36eed962e971fc49f1444630.jpg"],
 
-["film", ["Ready or Not: Here I Come", "Ready or Not 2"], "2026", ["2026 08 18"], 6, ["ger"], ["comedy", "horror", "thriller"], [], ["Disney+"], ["Matt Bettinelli-Olpin", "Tyler Gillett"], ["Samara Weaving", "Kathryn Newton", "Elijah Wood", "Sarah Michelle Gellar", "Nestor Carbonell", "Kevin Durand"], "https://64.media.tumblr.com/40ce9475bc713561d3156f72fb963479/4726099e4f744121-ca/s250x400/dec451a5762a781f3f0074e6acb144eb82bda606.jpg"]
+["film", ["Ready or Not: Here I Come", "Ready or Not 2"], "2026", ["2026 08 18"], 6, ["ger"], ["comedy", "horror", "thriller"], [], ["Disney+"], ["Matt Bettinelli-Olpin", "Tyler Gillett"], ["Samara Weaving", "Kathryn Newton", "Elijah Wood", "Sarah Michelle Gellar", "Nestor Carbonell", "Kevin Durand"], "https://64.media.tumblr.com/40ce9475bc713561d3156f72fb963479/4726099e4f744121-ca/s250x400/dec451a5762a781f3f0074e6acb144eb82bda606.jpg"],
+
+["audiobook", ["Die drei ??? 107: und der Schatz der Mönche"], "2002", [["2026 08 18", "2026 08 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 108: Die sieben Tore"], "2002", ["2026 08 24"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
 
 	/*
 ,
