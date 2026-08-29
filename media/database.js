@@ -2545,7 +2545,7 @@ var database = [
 
 ["film", ["The Spectacular Now", "The Spectacular Now: Perfekt ist jetzt"], "2013", ["2023 03 05"], 5, ["eng"], ["drama", "romance"], [], ["Netflix"], ["James Ponsoldt"], ["Miles Teller", "Shailene Woodley", "Brie Larson", "Dayo Okeniyi", "Kyle Chandler", "Jennifer Jason Leigh", "Bob Odenkirk"], "https://64.media.tumblr.com/74e8e199645b773fb2473d3d1caef8a3/eae594adfaf8992e-74/s250x400/0b7b3a95616356e9ffd9d1424bd66e5c02120147.jpg"],
 
-["book", ["An Absolutely Remarkable Thing"], "2018", [["2023 03 05", "2023 05 07"], ["2026 05 13", ""]], 7, ["eng"], ["sci-fi"], [], ["watching"], ["Hank Green"], [], "https://64.media.tumblr.com/54018f445b51c46b35ab847abc3dfbd1/5454d70268fdf8dd-a6/s250x400/af5bc3daac177e93b8e4dc34c53982b52b18e4ee.jpg"],
+["book", ["An Absolutely Remarkable Thing"], "2018", [["2023 03 05", "2023 05 07"], ["2026 05 13", "2026 06 22", "C1-C6"]], 7, ["eng"], ["sci-fi"], [], [], ["Hank Green"], [], "https://64.media.tumblr.com/54018f445b51c46b35ab847abc3dfbd1/5454d70268fdf8dd-a6/s250x400/af5bc3daac177e93b8e4dc34c53982b52b18e4ee.jpg"],
 
 ["audiobook", ["Gruß aus dem Jenseits"], "2020", [["2023 03 07", "2023 03 09"]], 7, ["ger"], ["crime"], [], ["bibliothek", "Kloster, Mord und Dolce Vita - Schwester Isabella ermittelt"], ["Valentina Morelli"], ["Chris Nonnast"], "https://64.media.tumblr.com/3cd5178fe0030b28709c2bc3fb7958b8/dfb91fef40702a7d-8c/s250x400/8f6d5570af4ffb96992278e8138fce26bec755d1.jpg"],
 
@@ -3849,6 +3849,8 @@ var database = [
 ["audiobook", ["Die drei ??? 107: und der Schatz der Mönche"], "2002", [["2026 08 18", "2026 08 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["audiobook", ["Die drei ??? 108: Die sieben Tore"], "2002", ["2026 08 24"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["book", ["The Lost Bookshop", "Der verschwundene Buchladen"], "2023", [["2026 08 24", ""]], 0, ["ger"], ["fantasy"], [], ["watching"], ["Evie Woods"], [], "image"],
 
 ["audiobook", ["Die drei ??? 109: Gefährliches Quiz"], "2003", ["2026 08 25"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
