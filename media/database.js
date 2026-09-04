@@ -488,7 +488,7 @@ var database = [
 	        
 ["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10", "2024 02 25"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], ["DVD"], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray", "Sarah Swire", "Pierre Boulanger"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
 	        
-["film", ["The Golden Compass", "Der goldene Kompass"], "2007", ["2015 11 23", "2020 01 06"], 6, ["ger"], ["adventure", "family", "fantasy"], ["bini"], ["His Dark Materials"], ["Chris Weitz"], ["Nicole Kidman", "Daniel Craig", "Dakota Blue Richards", "Ian McKellen", "Eva Green", "Christopher Lee", "Kristin Scott Thomas"], "https://66.media.tumblr.com/58e999a51e7baea5ccd8cb4d6b0a0054/tumblr_ppuwcejZDQ1v2s5upo1_250.jpg"],
+["film", ["The Golden Compass", "Der goldene Kompass"], "2007", ["2015 11 23", "2020 01 06"], 6, ["ger"], ["adventure", "family", "fantasy"], ["bini"], ["His Dark Materials"], ["Chris Weitz"], ["Nicole Kidman", "Daniel Craig", "Dakota Blue Richards", "Ian McKellen", "Eva Green", "Christopher Lee", "Kristin Scott Thomas", "Clare Higgins"], "https://66.media.tumblr.com/58e999a51e7baea5ccd8cb4d6b0a0054/tumblr_ppuwcejZDQ1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Hobbit: An Unexpected Journey", "Der Hobbit: Eine unerwartete Reise"], "2012", ["2015 11 07", "2016 12 16", "2018 03 09", "2019 12 26", "2022 04 20", "2025 05 30"], 7, ["ger"], ["adventure", "fantasy"], ["bini", "nico", "jessie"], ["Middle Earth", "Netflix"], ["Peter Jackson"], ["Ian McKellen", "Martin Freeman", "Elijah Wood", "Cate Blanchett", "Christopher Lee", "Richard Armitage", "Hugo Weaving"], "https://66.media.tumblr.com/b7a9b2f4a431a9d83aced6b3133d8302/tumblr_px6zyfkIt91v2s5upo1_250.jpg"],
 	        
@@ -1684,7 +1684,7 @@ var database = [
 
 ["film", ["KanColle: The Movie", "Kantai Collection: KanColle Movie"], "2016", [["2020 12 31", "2021 01 03"]], 7, ["jap"], ["anime", "action"], [], ["Kantai Collection", "KanColle"], ["Keizô Kusakawa"], [], "https://64.media.tumblr.com/a447c9f6d8a7c8d7d0a2a0833c0d282e/b02d8f292f5b4614-e3/s250x400/02d83c1d81f532e207e2a240ad6951157f82212d.jpg"],
 
-["series", ["The Alienist", "Die Einkreisung"], ["2018", "2020"], [["2020 12 31", "2021 01 03", "S1"], ["2021 01 05", "2021 01 14", "S2"], ["2023 12 21", "2023 12 23", "S1"]], 8, ["ger"], ["crime", "drama"], [], ["Kreizler Series", "Netflix", "fav"], ["Hossein Amini", "Amy Berg", "Stuart Carolan"], ["Daniel Brühl", "Luke Evans", "Dakota Fanning", "Ted Levine", "Martin McCreadie", "Lara Pulver", "Bill Heck", "Brooke Carter"], "https://64.media.tumblr.com/71ab538cd41671bc3c008d7452b33420/d6035eae3c5d56bf-b7/s250x400/b3e91ecd7b08bee60651d960f8dde88599b41458.jpg"],
+["series", ["The Alienist", "Die Einkreisung"], ["2018", "2020"], [["2020 12 31", "2021 01 03", "S1"], ["2021 01 05", "2021 01 14", "S2"], ["2023 12 21", "2023 12 23", "S1"]], 8, ["ger"], ["crime", "drama"], [], ["Kreizler Series", "Netflix", "fav"], ["Hossein Amini", "Amy Berg", "Stuart Carolan"], ["Daniel Brühl", "Luke Evans", "Dakota Fanning", "Ted Levine", "Martin McCreadie", "Lara Pulver", "Bill Heck", "Brooke Carter", "Nicola Stephenson"], "https://64.media.tumblr.com/71ab538cd41671bc3c008d7452b33420/d6035eae3c5d56bf-b7/s250x400/b3e91ecd7b08bee60651d960f8dde88599b41458.jpg"],
 
 ["film", ["(T)Raumschiff Surprise - Periode 1"], "2004", ["2020 12 31", "2023 12 31"], 7, ["ger"], ["comedy", "sci-fi"], ["bini", "syl", "je"], ["Netflix"], ["Michael Herbig"], ["Michael Herbig", "Rick Kavanian", "Christian Tramitz", "Anja Kling", "Til Schweiger", "Sky du Mont", "Christoph Maria Herbst"], "https://64.media.tumblr.com/1721a3c2cb768685026d6612f04cec82/6ea36aafa3c6e7ab-ec/s250x400/739b2425416b1467ca52a2be4cb52d42d4e5cdb2.jpg"],
 
@@ -1988,7 +1988,7 @@ var database = [
 
 ["film", ["Night Teeth"], "2021", ["2021 11 15"], 5, ["ger"], ["action", "crime"], [], ["Netflix"], ["Adam Randall"], ["Jorge Lendeborg Jr.", "Debby Ryan", "Lucy Fry", "Raúl Castillo", "Megan Fox", "Alexander Ludwig", "Alfie Allen"], "https://64.media.tumblr.com/5e666bcbd33f7e70c10c9d06ca55d5e9/7756c53967b823ad-3d/s250x400/621aff22a48aaec2ce1b4b5844ee03fcb3fe421e.jpg"],
 
-["film", ["Ready Player One"], "2018", ["2021 11 17"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Steven Spielberg"], ["Tye Sheridan", "Olivia Cooke", "Simon Pegg", "Mark Rylance", "Lena Waithe", "T.J. Miller", "Ben Mendelsohn", "Hannah John-Kamen", "James Dryden", "Ralph Ineson"], "https://64.media.tumblr.com/cdc111a0fe4bfe6d4fc494264ddf6aa7/52d2fac5692e3291-86/s250x400/51190389cd042238f8b0f1346c373075aad7bbfa.jpg"],
+["film", ["Ready Player One"], "2018", ["2021 11 17"], 6, ["ger"], ["action", "adventure"], [], ["Netflix"], ["Steven Spielberg"], ["Tye Sheridan", "Olivia Cooke", "Simon Pegg", "Mark Rylance", "Lena Waithe", "T.J. Miller", "Ben Mendelsohn", "Hannah John-Kamen", "James Dryden", "Ralph Ineson", "Clare Higgins"], "https://64.media.tumblr.com/cdc111a0fe4bfe6d4fc494264ddf6aa7/52d2fac5692e3291-86/s250x400/51190389cd042238f8b0f1346c373075aad7bbfa.jpg"],
 
 ["series", ["Explained"], ["2018", ""], [["2019 11 04", "2020 02 01", "S1&S2"]], 0, [], ["documentary"], [], ["Netflix", "ongoing"], ["Joe Posner", "Joss Fong"], [], "https://64.media.tumblr.com/974710ea9cce1c7f8752e13dbe70eea1/3259d75c5b06823b-b9/s250x400/ba2655c584f1b18661819cfd180a72df8e27b7d4.jpg"],
 
@@ -3312,7 +3312,7 @@ var database = [
 
 ["series", ["Adolescence"], "2025", [["2025 07 18", "2025 07 19", "S1"]], 7, ["ger"], ["crime", "drama"], [], ["Netflix"], ["Stephen Graham", "Jack Thorne"], ["Stephen Graham"], "https://64.media.tumblr.com/b1ccc0b0a072467b3ae6697109ddb25f/75c355350738ffa9-2d/s250x400/28b99639b695246ae4878018ee37400088603714.jpg"],
 
-["series", ["Percy Jackson and the Olympians"], "2023", [["2025 07 19", "S1"], ["2026 01 24", "S2"]], 6, ["ger"], ["action", "adventure"], ["jessie"], ["Disney+"], ["Rick Riordan", "Jonathan E. Steinberg"], ["Walker Scobell", "Aryan Simhadri"], "https://64.media.tumblr.com/86f876e8619e073ce7ed62c55cb92fa5/5e2d619944a88933-d2/s250x400/d99db9393559f1a46c843bfd665ae8f503f06f15.jpg"],
+["series", ["Percy Jackson and the Olympians"], "2023", [["2025 07 19", "S1"], ["2026 01 24", "S2"]], 6, ["ger"], ["action", "adventure"], ["jessie"], ["Disney+"], ["Rick Riordan", "Jonathan E. Steinberg"], ["Walker Scobell", "Aryan Simhadri", "Tamara Smart"], "https://64.media.tumblr.com/86f876e8619e073ce7ed62c55cb92fa5/5e2d619944a88933-d2/s250x400/d99db9393559f1a46c843bfd665ae8f503f06f15.jpg"],
 
 ["film", ["Zombies 4: Dawn of the Vampires"], "2025", ["2025 07 20"], 7, ["ger"], ["musical", "adventure", "comedy", "family"], ["bini"], ["Disney+"], ["Paul Hoen"], ["Meg Donnelly", "Milo Manheim"], "https://64.media.tumblr.com/8e486537d6c3c4ad8102c0ccafa23a5d/d136ac2163792b4f-f3/s250x400/eccee96c05317c5d5ee59f52fbe2fa547178c0df.jpg"],
 
@@ -3856,7 +3856,9 @@ var database = [
 
 ["audiobook", ["Die drei ??? 110: Panik im Park"], "2003", ["2026 08 25"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
-["audiobook", ["Die drei ??? 111: Die Höhle des Grauens"], "2003", ["2026 08 28"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"]
+["audiobook", ["Die drei ??? 111: Die Höhle des Grauens"], "2003", ["2026 08 28"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["series", ["The Worst Witch", "Eine lausige Hexe"], ["2017", "2020"], [["2026 08 29", "2026 09 03"]], 7, ["ger"], ["family", "fantasy"], [], ["Netflix", "ongoing"], ["Emma Reeves"], ["Clare Higgins", "Tamara Smart", "Bella Ramsey", "Nicola Stephenson"], "image"]
 
 	/*
 ,
