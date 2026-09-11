@@ -912,7 +912,7 @@ var database = [
 	        
 ["film", ["Zootopia", "Zoomania"], "2016", ["2016 06 29", "2025 01 03"], 6, ["ger"], ["animation", "adventure"], [], ["Disney+"], ["Byron Howard", "Rich Moore", "Jared Bush"], [], "https://68.media.tumblr.com/c1e7ff1ec44d0ec8b1da5cf4033ad427/tumblr_o9llty3OxE1v2s5upo1_250.jpg"],
 	        
-["film", ["Orphan", "Orphan - Das Waisenkind"], "2009", ["2016 06 20", "2016 07 02", "2016 07 10", "2016 12 05", "2021 12 28"], 7, ["ger"], ["horror", "mystery"], ["bini"], ["bby", "DVD"], ["Jaume Collet-Serra"], ["Peter Sarsgaard", "Isabelle Fuhrman", "CCH Pounder", "Vera Farmiga"], "https://66.media.tumblr.com/77030656f845b49936c308b742d82dac/tumblr_o92y034WXY1v2s5upo1_250.jpg"], /*erstbewertung: 10*/
+["film", ["Orphan", "Orphan - Das Waisenkind"], "2009", ["2016 06 20", "2016 07 02", "2016 07 10", "2016 12 05", "2021 12 28"], 7, ["ger"], ["horror", "mystery"], ["bini"], ["bby", "DVD"], ["Jaume Collet-Serra"], ["Peter Sarsgaard", "Isabelle Fuhrman", "CCH Pounder", "Vera Farmiga", "Margo Martindale"], "https://66.media.tumblr.com/77030656f845b49936c308b742d82dac/tumblr_o92y034WXY1v2s5upo1_250.jpg"], /*erstbewertung: 10*/
 	        
 ["film", ["Standing Up"], "2013", ["2016 06 17"], 9, ["ger"], ["drama"], [], [], ["D.J. Caruso"], ["Annalise Basso"], "https://66.media.tumblr.com/dd75d5b1552c6c2308ca925c4cd139b9/tumblr_o8xhkhJqgc1v2s5upo1_250.jpg"],
 	        
@@ -1720,7 +1720,7 @@ var database = [
 
 ["film", ["Eighth Grade"], "2018", ["2021 02 05"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Bo Burnham"], ["Jake Ryan", "Imani Lewis", "Fred Hechinger"], "https://64.media.tumblr.com/bf3e142a4d848a56aaab6996908a2411/d29826633fcbea74-16/s250x400/33a141e154e645351a2167ee589a53adf3d53177.jpg"],
 
-["series", ["Snowpiercer"], "2020", [["2021 02 05", "2021 02 08", "S1"], ["2021 02 13", "2021 04 02", "S2"]], 5, ["ger"], ["action", "drama", "sci-fi"], [], ["Netflix", "ongoing"], ["Josh Friedman", "Graeme Manson"], ["Sheila Vand", "Annalise Basso", "Miranda Edwards", "Sean Bean", "Timothy V. Murphy", "Madeleine Arthur", "Jennifer Connelly", "Rowan Blanchard", "Shaun Toub", "Kurt Ostlund", "John Hurt"], "https://64.media.tumblr.com/3477ca09fd2b3bb5d18fea7d51fa0d40/e3297eb57edd7e85-c9/s250x400/9c46b73e0945e344c59d0fda6ff444734c3b0982.jpg"],
+["series", ["Snowpiercer"], "2020", [["2021 02 05", "2021 02 08", "S1"], ["2021 02 13", "2021 04 02", "S2"]], 5, ["ger"], ["action", "drama", "sci-fi"], [], ["Netflix", "ongoing"], ["Josh Friedman", "Graeme Manson"], ["Sheila Vand", "Annalise Basso", "Miranda Edwards", "Sean Bean", "Timothy V. Murphy", "Madeleine Arthur", "Jennifer Connelly", "Rowan Blanchard", "Shaun Toub", "Kurt Ostlund", "John Hurt", "Mike O'Malley"], "https://64.media.tumblr.com/3477ca09fd2b3bb5d18fea7d51fa0d40/e3297eb57edd7e85-c9/s250x400/9c46b73e0945e344c59d0fda6ff444734c3b0982.jpg"],
 
 ["film", ["How to Lose a Guy in 10 Days", "Wie werde ich ihn los in 10 Tagen"], "2003", ["2021 02 18"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Donald Petrie"], ["Kate Hudson", "Matthew McConaughey", "Kathryn Hahn"], "https://64.media.tumblr.com/a9ed55c0a0882f0b421242460cb48778/158e9caf790b9ed9-0a/s250x400/119393a1d9f45f43c1566316500391d7b7ee51cf.jpg"],
 
@@ -2870,7 +2870,7 @@ var database = [
 /*S1: 8, S2: 7*/
 ["film", ["Mein Ende. Dein Anfang."], "2019", ["2024 01 14"], 6, ["ger"], ["drama"], [], ["bibliothek"], ["Mariko Minoguchi"], ["Julius Feldmeier", "Michelle Barthel", "Anna Drexler"], "https://64.media.tumblr.com/2b4e8039a02c9adebd87489533cb2ef9/8e80cfe71c7be55a-e3/s250x400/f55d945cff8cde980a11a96f70421546a229aba3.jpg"],
 
-["film", ["The Pleasure of Your Company", "Blind Wedding - Hilfe, sie hat ja gesagt!"], "2006", ["2024 01 20"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Michael Ian Black"], ["Jason Biggs", "Isla Fisher"], "https://64.media.tumblr.com/63baddefc61a3e078cf2c17dcdb0aaf9/aab173542802f525-79/s250x400/1ba13e44dabf2e9d641d26a498f554045e4b7ae5.jpg"],
+["film", ["The Pleasure of Your Company", "Blind Wedding - Hilfe, sie hat ja gesagt!"], "2006", ["2024 01 20"], 5, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Michael Ian Black"], ["Jason Biggs", "Isla Fisher", "Margo Martindale"], "https://64.media.tumblr.com/63baddefc61a3e078cf2c17dcdb0aaf9/aab173542802f525-79/s250x400/1ba13e44dabf2e9d641d26a498f554045e4b7ae5.jpg"],
 
 ["film", ["Kidnapping Stella"], "2019", ["2024 01 20"], 5, ["ger"], ["crime"], [], ["Netflix"], ["Thomas Sieben"], ["Jella Haase", "Max von der Groeben"], "https://64.media.tumblr.com/918ddc7d222a0d050f67333c040abd84/9123d9983003fd76-a5/s250x400/c80885559255204565680338790a68eb883c418b.jpg"],
 
@@ -2894,7 +2894,7 @@ var database = [
 
 ["audiobook", ["Ruby Red", "Rubinrot"], "2009", [["2024 02 12", "2024 02 15"]], 6, ["ger"], ["fantasy"], [], ["Ruby Red Trilogy", "bibliothek"], ["Kerstin Gier"], ["Sascha Icks"], "https://64.media.tumblr.com/215e9df7a6cc5683ffbc2d58f3c67608/789a6cfdd37fe2bb-13/s250x400/1160e61cc52698c886547c6b949498c9b806f5fc.jpg"],
 
-["film", ["Instant Family", "Plötzlich Familie"], "2018", ["2024 02 17"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Sean Anders"], ["Mark Wahlberg", "Rose Byrne", "Isabela Merced", "Tig Notaro", "Joan Cusack"], "https://64.media.tumblr.com/24a17e2fd63a7e011ef16ab6786c7f25/bdbb84e03e13f198-95/s250x400/50250accd1b12e53f6eef5b8ece677ab00c298c4.jpg"],
+["film", ["Instant Family", "Plötzlich Familie"], "2018", ["2024 02 17"], 8, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Sean Anders"], ["Mark Wahlberg", "Rose Byrne", "Isabela Merced", "Tig Notaro", "Joan Cusack", "Margo Martindale"], "https://64.media.tumblr.com/24a17e2fd63a7e011ef16ab6786c7f25/bdbb84e03e13f198-95/s250x400/50250accd1b12e53f6eef5b8ece677ab00c298c4.jpg"],
 
 ["film", ["Back to the Future", "Zurück in die Zukunft"], "1985", ["2024 02 17"], 7, ["ger"], ["adventure", "comedy","sci-fi"], [], ["Netflix"], ["Robert Zemeckis"], ["Michael J. Fox"], "https://64.media.tumblr.com/4d93097d61a834afad23b89a93d64ce6/5a3a88097d7e1872-14/s250x400/5a0b779509dc7af9504e7ef90764ac173e8ef3c9.jpg"],
 
@@ -3804,7 +3804,7 @@ var database = [
 
 ["audiobook", ["Die drei ??? 96: und der rote Rächer"], "2000", [["2026 06 18", "2026 06 19"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Katharina Fischer"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/4d8a3c12120e7a5bbea829d3004e8b54/e715f336294e0652-05/s250x400/d808fb86e6f2f4c4893eb09b4f31afac41d76e9f.jpg"],
 
-["film", ["Eenie Meanie"], "2025", ["2026 06 20"], 6, ["ger"], ["action", "comedy", "drama"], [], ["Disney+"], ["Shawn Simmons"], ["Samara Weaving", "Steve Zahn"], "https://64.media.tumblr.com/f604914b8ad022dc37c306c0deab82a2/d9553af24afd0baf-d8/s250x400/2dbd2f1a36f3d90940fe3c51f7e1cda76b4ec3eb.jpg"],
+["film", ["Eenie Meanie"], "2025", ["2026 06 20"], 6, ["ger"], ["action", "comedy", "drama"], [], ["Disney+"], ["Shawn Simmons"], ["Samara Weaving", "Steve Zahn", "Mike O'Malley"], "https://64.media.tumblr.com/f604914b8ad022dc37c306c0deab82a2/d9553af24afd0baf-d8/s250x400/2dbd2f1a36f3d90940fe3c51f7e1cda76b4ec3eb.jpg"],
 
 ["audiobook", ["Die drei ??? 97: Insektenstachel"], "2001", [["2026 06 20", "2026 06 24"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/7ef585dafac5ce758936a67b0fd7b2c7/a78260e4b9e9ac4e-99/s250x400/24ddffff700b1124864ca575b4e5c71e838bfe37.jpg"],
 
@@ -3847,6 +3847,8 @@ var database = [
 ["film", ["Ready or Not: Here I Come", "Ready or Not 2"], "2026", ["2026 08 18"], 6, ["ger"], ["comedy", "horror", "thriller"], [], ["Disney+"], ["Matt Bettinelli-Olpin", "Tyler Gillett"], ["Samara Weaving", "Kathryn Newton", "Elijah Wood", "Sarah Michelle Gellar", "Nestor Carbonell", "Kevin Durand"], "https://64.media.tumblr.com/40ce9475bc713561d3156f72fb963479/4726099e4f744121-ca/s250x400/dec451a5762a781f3f0074e6acb144eb82bda606.jpg"],
 
 ["audiobook", ["Die drei ??? 107: und der Schatz der Mönche"], "2002", [["2026 08 18", "2026 08 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["film", ["28 Days", "28 Tage"], "2000", ["2026 08 22"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Betty Thomas"], ["Sandra Bullock", "Viggo Mortensen", "Steve Buscemi", "Alan Tudyk", "Mike O'Malley", "Margo Martindale"], "image"],
 
 ["audiobook", ["Die drei ??? 108: Die sieben Tore"], "2002", ["2026 08 24"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
