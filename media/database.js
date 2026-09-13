@@ -982,7 +982,7 @@ var database = [
 	        
 ["film", ["Indiana Jones and the Kingdom of the Crystal Skull", "Indiana Jones und das Königreich des Kristallschädels"], "2008", ["2016 03 21", "2017 11 01", "2023 07 21", "2024 12 31"], 8, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Indiana Jones", "Netflix", "DVD"], ["Steven Spielberg"], ["Harrison Ford", "Cate Blanchett", "Shia LaBeouf", "Andrew Divoff", "Alan Dale", "Neil Flynn", "Karen Allen", "John Hurt"], "https://40.media.tumblr.com/7ac811363dde5fb36742145ff5a077c0/tumblr_o4eot320G31v2s5upo1_250.jpg"],
 	        
-["film", ["Indiana Jones and the Last Crusade", "Indiana Jones und der letzte Kreuzzug"], "1989", ["2016 02 13", "2023 07 08"], 7, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Sean Connery", "Alison Doody"], "https://49.media.tumblr.com/46dcb49054fe63c9596e759f92207ef9/tumblr_o2j6kc2glH1v2s5upo1_250.jpg"],
+["film", ["Indiana Jones and the Last Crusade", "Indiana Jones und der letzte Kreuzzug"], "1989", ["2016 02 13", "2023 07 08", "2026 09 13"], 7, ["ger"], ["action", "adventure"], ["bini", "syl"], ["Indiana Jones", "Netflix"], ["Steven Spielberg"], ["Harrison Ford", "Sean Connery", "Alison Doody"], "https://49.media.tumblr.com/46dcb49054fe63c9596e759f92207ef9/tumblr_o2j6kc2glH1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Falling"], "2014", ["2016 01 29"], 8, ["ger"], ["drama", "mystery"], [], [], ["Carol Morley"], ["Maisie Williams", "Florence Pugh", "Ellie Bamber"], "https://49.media.tumblr.com/2ea7f2b5367a91d098bd3d5b679f099c/tumblr_o1q7miQoB91v2s5upo1_250.jpg"],
 	        
@@ -1036,7 +1036,7 @@ var database = [
 	        
 ["film", ["Raiders of the Lost Ark", "Jäger des verlorenen Schatzes"], "1981", ["2015 09 23", "2023 06 25", "2025 05 10", "2026 09 12"], 6, ["ger"], ["action", "adventure"], ["bini", "syl", "je"], ["Indiana Jones", "Netflix"], ["Steven Spielberg"], ["Harrison Ford", "Karen Allen"], "https://66.media.tumblr.com/99f8c6fe7649d8071d7eefa3158199c8/tumblr_ppxzblvnCt1v2s5upo1_250.jpg"],
 	        
-["film", ["Indiana Jones and the Temple of Doom", "Indiana Jones und der Tempel des Todes"], "1984", ["2015 11 10"], 5, ["ger"], ["action", "adventure"], ["bini"], ["Indiana Jones"], ["Steven Spielberg"], ["Harrison Ford", "Ke Huy Quan"], "https://66.media.tumblr.com/20b2adb7329022b1b43f3eee1a3342f9/tumblr_px706pD5dM1v2s5upo1_250.jpg"],
+["film", ["Indiana Jones and the Temple of Doom", "Indiana Jones und der Tempel des Todes"], "1984", ["2015 11 10", "2026 09 13"], 5, ["ger"], ["action", "adventure"], ["bini"], ["Indiana Jones", "Netflix"], ["Steven Spielberg"], ["Harrison Ford", "Ke Huy Quan"], "https://66.media.tumblr.com/20b2adb7329022b1b43f3eee1a3342f9/tumblr_px706pD5dM1v2s5upo1_250.jpg"],
 	        
 ["film", ["X-Men"], "2000", ["2016 02 21", "2017 07 22", "2024 06 04"], 7, ["ger"], ["action", "adventure", "supernatural"], [], ["X-Men", "Marvel", "Disney+"], ["Bryan Singer"], ["Hugh Jackman", "Patrick Stewart", "Ian McKellen", "James Marsden", "Halle Berry", "Stan Lee", "Anna Paquin", "Famke Janssen", "Bruce Davison"], "https://49.media.tumblr.com/36b6998db751be2c82f725d09c720e84/tumblr_o2ygwyADor1v2s5upo1_250.jpg"],
 	        
