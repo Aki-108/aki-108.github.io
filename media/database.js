@@ -486,7 +486,7 @@ var database = [
 	        
 ["film", ["Ant-Man"], "2015", ["2016 05 21", "2018 04 01"], 8, ["ger"], ["action", "adventure", "sci-fi"], ["bini", "syl", "je"], ["Marvel"], ["Peyton Reed"], ["Paul Rudd", "Evangeline Lilly", "Corey Stoll", "Anthony Mackie", "Judy Greer", "Michael Peña", "Chris Evans", "Joe Chrest", "Sebastian Stan", "Michael Douglas", "David Dastmalchian"], "https://68.media.tumblr.com/b70bf1e59eaffd22e771eec8025d4215/tumblr_o7jla3gTae1v2s5upo1_250.jpg"],
 	        
-["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10", "2024 02 25"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], ["DVD"], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray", "Sarah Swire", "Pierre Boulanger"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
+["film", ["God Help the Girl"], "2014", ["2016 04 20", "2016 09 03", "2017 04 10", "2024 02 25", "2026 09 20"], 8, ["ger", "eng"], ["drama", "music", "musical"], [], ["DVD", "fav"], ["Stuart Murdoch"], ["Emily Browning", "Hannah Murray", "Sarah Swire", "Pierre Boulanger"], "https://49.media.tumblr.com/d9c5fb1e63952082b53bb165a9948432/tumblr_o5y1djrjlO1v2s5upo1_250.jpg"],
 	        
 ["film", ["The Golden Compass", "Der goldene Kompass"], "2007", ["2015 11 23", "2020 01 06"], 6, ["ger"], ["adventure", "family", "fantasy"], ["bini"], ["His Dark Materials"], ["Chris Weitz"], ["Nicole Kidman", "Daniel Craig", "Dakota Blue Richards", "Ian McKellen", "Eva Green", "Christopher Lee", "Kristin Scott Thomas", "Clare Higgins"], "https://66.media.tumblr.com/58e999a51e7baea5ccd8cb4d6b0a0054/tumblr_ppuwcejZDQ1v2s5upo1_250.jpg"],
 	        
