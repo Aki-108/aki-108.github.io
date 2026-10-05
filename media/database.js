@@ -3876,7 +3876,7 @@ var database = [
 
 ["film", ["Regretting You", "All das Ungesagte zwischen uns"], "2025", ["2026 09 20"], 7, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Josh Boone"], ["Allison Williams", "Mckenna Grace", "Dave Franco", "Scott Eastwood", "Clancy Brown", "Marcelle LeBlanc"], "https://64.media.tumblr.com/d1932fc22341a3f27113cd54e21f1a10/97f1ef55f8fe5a10-34/s250x400/3906b3c2196d9f177e04fe45db657b9153ae8d00.jpg"],
 
-["series", ["Demon Slayer", "Demon Slayer", "Kimetsu no Yaiba"], "2019", [["2026 09 21", "", "S1"]], 0, ["ger"], ["anime", "action", "supernatural"], ["bini", "nico"], ["watching"], ["Koyoharu Gotouge"], [], "https://64.media.tumblr.com/d87e348e435d32157d3442ebedbe9d79/498be1ca6e593c0e-d7/s250x400/331e37d849d1be3f886ad1e39b23455022c3246c.jpg"],
+["series", ["Demon Slayer", "Demon Slayer", "Kimetsu no Yaiba"], "2019", [["2026 09 21", "2026 10 05", "S1"]], 5, ["ger"], ["anime", "action", "supernatural"], ["bini", "nico"], ["watching"], ["Koyoharu Gotouge"], [], "https://64.media.tumblr.com/d87e348e435d32157d3442ebedbe9d79/498be1ca6e593c0e-d7/s250x400/331e37d849d1be3f886ad1e39b23455022c3246c.jpg"],
 
 ["film", ["What's Your Number?", "Der perfekte Ex"], "2011", ["2026 10 02"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Mark Mylod"], ["Anna Faris", "Chris Evans", "Blythe Danner", "Chris Pratt", "Martin Freeman", "Andy Samberg", "Thomas Lennon", "Anthony Mackie"], "https://64.media.tumblr.com/6fa87305bda8b574e5a61e11e92ac958/08306d1480af1765-0e/s250x400/8dfc21c4a67c68a8208f4750c73cfb8ff8894bd7.jpg"],
 
