@@ -2055,7 +2055,7 @@ var database = [
 
 ["film", ["Escape to Witch Mountain", "Die Flucht zum Hexenberg"], "1975", ["2021 12 15"], 4, ["ger"], ["adventure", "family"], [], ["Disney+"], ["John Hough"], ["Kim Richards", "Ike Eisenmann"], "https://64.media.tumblr.com/202b050f90d61bf528f7fad447e42483/ebdbb3f0bbc76cd0-ba/s250x400/e1e35daf84c7cd0857734f680e3ae36e9357ec64.jpg"],
 
-["book", ["Stargirl"], "2000", [["2021 12 24", "2022 01 07"], ["2026 09 21", ""]], 8, ["eng"], ["young adult"], [], ["bby", "fav"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/1bf72185f74c7dafe5f1e08bd511c0ce/7ff8b00c1a4e6934-4f/s250x400/9f480ea947035ab16f7fc335d3e9f4166f1cacaf.jpg"],
+["book", ["Stargirl"], "2000", [["2021 12 24", "2022 01 07"], ["2026 09 21", "2026 10 04"]], 8, ["eng"], ["young adult"], [], ["bby", "fav"], ["Jerry Spinelli"], [], "https://64.media.tumblr.com/1bf72185f74c7dafe5f1e08bd511c0ce/7ff8b00c1a4e6934-4f/s250x400/9f480ea947035ab16f7fc335d3e9f4166f1cacaf.jpg"],
 
 ["film", ["Die Hard", "Stirb langsam"], "1988", ["2021 12 22"], 6, ["ger"], ["action", "thriller"], ["bini"], ["Disney+"], ["John McTiernan"], ["Bruce Willis", "Paul Gleason", "Alan Rickman"], "https://64.media.tumblr.com/4779a504dcd0811ad7c4b010d39ee857/1252c5e56e34201f-18/s250x400/4032796eba26aa51318639c36925e4c01a7d5683.jpg"],
 
