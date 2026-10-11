@@ -3870,17 +3870,29 @@ var database = [
 
 ["audiobook", ["Die drei ??? 113: Das Auge des Drachen"], "2003", ["2026 09 02"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
-["audiobook", ["Die drei ??? 114: Die Villa der Toten"], "2003", [["2026 09 02", "2026 09 03"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"]], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 114: Die Villa der Toten"], "2003", [["2026 09 02", "2026 09 03"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 115: Auf tödlichem Kurs"], "2004", ["", ["2026 09 04", "2026 09 07"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["film", ["Apex"], "2026", ["2026 09 05"], 5, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Baltasar Kormákur"], ["Charlize Theron", "Taron Egerton", "Eric Bana"], "https://64.media.tumblr.com/2361beaeaebd6e52eb3992cd2680a22a/f486c7a8de282407-ca/s250x400/b6bc658dcc07f220dc3bd5d22d94384c5710bd12.jpg"],
 
 ["film", ["Scouts Guide to the Zombie Apocalypse", "Scouts vs. Zombies - Handbuch zur Zombie-Apokalypse"], "2015", ["2026 09 06"], 6, ["ger"], ["action", "comedy", "horror"], [], ["Netflix"], ["Christopher Landon"], ["Tye Sheridan", "Logan Miller", "Lukas Gage"], "https://64.media.tumblr.com/89590d92b540f97667d434eed88cad06/0df7c1c161c0c2fe-bf/s250x400/25660ca12aab6fc15368a0c863adb3ac95716356.jpg"],
 
+["audiobook", ["Die drei ??? 116: Codename: Cobra"], "2004", [["2026 09 09", "2026 09 10"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 117: Der finstere Rivale"], "2004", [["2026 09 10", "2026 09 12"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
 ["film", ["Scary Movie 2"], "2001", ["2026 09 12"], 4, ["ger"], ["comedy"], [], ["Netflix"], ["Keenen Ivory Wayans"], ["Natasha Lyonne", "James Woods", "Anna Faris", "Marlon Wayans", "Shawn Wayans", "Regina Hall", "David Cross", "Chris Elliott"], "https://64.media.tumblr.com/cb1f78abdf1012cb5956ebbda8c91331/1810b6a294b423ca-d5/s250x400/06919dc44e6bdb2a13be3d3768e734ed7beb369f.jpg"],
+
+["audiobook", ["Die drei ??? 118: Das düstere Vermächtnis"], "2004", [["2026 09 12", "2026 09 14"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["film", ["Avatar Aang: The Last Airbender", "Die Legende von Aang: Der Herr der Elemente"], "2026", ["2026 09 16"], 6, ["eng"], ["animation", "action", "adventure"], ["bini", "nico"], [], ["Steve Ahn", "William Mata", "Lauren Montgomery"], [], "https://64.media.tumblr.com/cdd1dba78b08f93d945afaa16945eaeb/190c979ae0d3a17b-b1/s250x400/531898763e82247360f986fe51a5d65778d363ae.jpg"],
 
+["audiobook", ["Die drei ??? 119: Der geheime Schlüssel"], "2004", [["2026 09 17", "2026 09 18"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
 ["film", ["Regretting You", "All das Ungesagte zwischen uns"], "2025", ["2026 09 20"], 7, ["ger"], ["drama", "romance"], [], ["Netflix"], ["Josh Boone"], ["Allison Williams", "Mckenna Grace", "Dave Franco", "Scott Eastwood", "Clancy Brown", "Marcelle LeBlanc"], "https://64.media.tumblr.com/d1932fc22341a3f27113cd54e21f1a10/97f1ef55f8fe5a10-34/s250x400/3906b3c2196d9f177e04fe45db657b9153ae8d00.jpg"],
+
+["audiobook", ["Die drei ??? 120: Der schwarze Skorpion"], "2004", [["2026 09 20", "2026 09 22"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["series", ["Demon Slayer", "Demon Slayer", "Kimetsu no Yaiba"], "2019", [["2026 09 21", "2026 10 05", "S1"]], 5, ["ger"], ["anime", "action", "supernatural"], ["bini", "nico"], ["watching"], ["Koyoharu Gotouge"], [], "https://64.media.tumblr.com/d87e348e435d32157d3442ebedbe9d79/498be1ca6e593c0e-d7/s250x400/331e37d849d1be3f886ad1e39b23455022c3246c.jpg"],
 
