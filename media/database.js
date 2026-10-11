@@ -3866,6 +3866,12 @@ var database = [
 
 ["film", ["Companion", "Companion - Die perfekte Begleitung"], "2025", ["2026 08 30"], 8, ["ger"], ["sci-fi", "thriller"], [], ["Netflix"], ["Drew Hancock"], ["Lukas Gage", "Megan Suri", "Rupert Friend"], "https://64.media.tumblr.com/e313b3152bb6e6badec773a546a23697/973ff82f4095d402-bf/s250x400/3dc19ba416510cb3d764bd74838238badcfeb258.jpg"],
 
+["audiobook", ["Die drei ??? 112: Schlucht der Dämonen"], "2003", [["2026 08 31", "2026 09 01"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 113: Das Auge des Drachen"], "2003", ["2026 09 02"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 114: Die Villa der Toten"], "2003", [["2026 09 02", "2026 09 03"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"]], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
 ["film", ["Apex"], "2026", ["2026 09 05"], 5, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Baltasar Kormákur"], ["Charlize Theron", "Taron Egerton", "Eric Bana"], "https://64.media.tumblr.com/2361beaeaebd6e52eb3992cd2680a22a/f486c7a8de282407-ca/s250x400/b6bc658dcc07f220dc3bd5d22d94384c5710bd12.jpg"],
 
 ["film", ["Scouts Guide to the Zombie Apocalypse", "Scouts vs. Zombies - Handbuch zur Zombie-Apokalypse"], "2015", ["2026 09 06"], 6, ["ger"], ["action", "comedy", "horror"], [], ["Netflix"], ["Christopher Landon"], ["Tye Sheridan", "Logan Miller", "Lukas Gage"], "https://64.media.tumblr.com/89590d92b540f97667d434eed88cad06/0df7c1c161c0c2fe-bf/s250x400/25660ca12aab6fc15368a0c863adb3ac95716356.jpg"],
@@ -3884,7 +3890,11 @@ var database = [
 
 ["film", ["The Uninvited", "Der Fluch der 2 Schwestern"], "2009", ["2026 10 03"], 7, ["ger"], ["drama", "fantasy", "horror"], [], ["Netflix"], ["Charles Guard", "Thomas Guard"], ["Emily Browning", "Arielle Kebbel", "David Strathairn", "Elizabeth Banks"], "https://64.media.tumblr.com/51571382460c2e947e513fff3e4ac267/484f0736d3005cec-3f/s250x400/014cdda7b76ecde4e8050bbc0fb297ec8611da38.jpg"],
 
-["film", ["The Whisper Man", "Der Kinderflüsterer"], "2026", ["2026 10 03"], 7, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["James Ashcroft"], ["Robert De Niro", "Michelle Monaghan", "Adam Scott", "Michael Keaton"], "https://64.media.tumblr.com/81f08af32884403b927de93a450880b4/286c790bbf80f2a8-45/s250x400/97f61675e8ac309794004d49be295abaa197f066.jpg"]
+["film", ["The Whisper Man", "Der Kinderflüsterer"], "2026", ["2026 10 03"], 7, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["James Ashcroft"], ["Robert De Niro", "Michelle Monaghan", "Adam Scott", "Michael Keaton"], "https://64.media.tumblr.com/81f08af32884403b927de93a450880b4/286c790bbf80f2a8-45/s250x400/97f61675e8ac309794004d49be295abaa197f066.jpg"],
+
+["book", ["Tårer forandrer ingenting", "Sommer ist trotzdem", "Tårer forandrer ingenting"], "2018", [["2026 10 05", "2026 10 08", "S1-S36"]], 0, ["ger"], ["drama"], [], ["bibliothek", "dropped"], ["Espen Dekko"], [], "https://64.media.tumblr.com/993b241acddc3ca30e59f7c42340d43e/772cc0f07a443ac9-bc/s250x400/ff66f821c5511c5e655bf6e1823bbcd01c2b50cd.jpg"],
+
+["book", ["All Fall Down", "Keiner kommt davon – eine Geschichte vom Überleben"], "2012", [["2026 10 09", ""]], 0, ["ger"], ["drama"], [], ["bibliothek", "watching"], ["Sally Nicholls"], [], "https://64.media.tumblr.com/5e85c45592cf604fd5613ae1b5046bb0/f89d6e58bdccd006-94/s250x400/ebcd3c3ccac9b734b15db792a9d88b33a8b84f60.jpg"]
 
 	/*
 ,
