@@ -390,7 +390,7 @@ var database = [
 	        
 ["series", ["On My Block"], "2018", [["2018 06 21", "2018 06 25", "S1"], ["2019 04 08", "S2"]], 7, ["ger"], ["comedy"], [], ["Netflix"], ["Eddie Gonzalez", "Jeremy Haft", "Lauren Iungerich"], ["Jason Genao", "Lukas Gage"], "https://66.media.tumblr.com/384a526e9c6dfc3097d09037c23c2321/780f95d2760b1c1c-fa/s250x400/9b732304f983d1435622dd8df7de7dc89991e2fd.jpg"],
 	        
-["series", ["Anne", "Anne with an E"], ["2017", "2019"], [["2018 06 28", "2018 07 16", "S1 - S2"], ["2019 05 07", "2019 05 22", "S1"], ["2019 05 25", "2019 05 29", "S2"], ["2020 01 03", "2020 01 13", "S3"], ["2025 10 24", "2025 10 25", "S1"], ["2025 10 25", "2025 10 26", "S2"], ["2025 10 28", "2025 10 31", "S3"], ["2026 10 17", "", "S1"]], 9, ["ger"], ["drama"], [], ["Anne", "Netflix", "fav", "watching"], ["Moira Walley-Beckett"], ["Amybeth McNulty", "Dalila Bela", "Kyla Matthews", "Lucas Jade Zumann", "Jonathan Holmes", "Kiawentiio", "Geraldine James", "R.H. Thomson"], "https://66.media.tumblr.com/8266f1a5adb1b67ecbef6aa92fe0c973/4e7bf0fc5f10f7cc-29/s250x400/3b065f5a3c31379d01b763d7c2c281f9bbb6d233.jpg"],
+["series", ["Anne", "Anne with an E"], ["2017", "2019"], [["2018 06 28", "2018 07 16", "S1 - S2"], ["2019 05 07", "2019 05 22", "S1"], ["2019 05 25", "2019 05 29", "S2"], ["2020 01 03", "2020 01 13", "S3"], ["2025 10 24", "2025 10 25", "S1"], ["2025 10 25", "2025 10 26", "S2"], ["2025 10 28", "2025 10 31", "S3"], ["2026 10 17", "2026 10 18", "S1"], ["2026 10 18", "", "S2"]], 9, ["ger"], ["drama"], [], ["Anne", "Netflix", "fav", "watching"], ["Moira Walley-Beckett"], ["Amybeth McNulty", "Dalila Bela", "Kyla Matthews", "Lucas Jade Zumann", "Jonathan Holmes", "Kiawentiio", "Geraldine James", "R.H. Thomson"], "https://66.media.tumblr.com/8266f1a5adb1b67ecbef6aa92fe0c973/4e7bf0fc5f10f7cc-29/s250x400/3b065f5a3c31379d01b763d7c2c281f9bbb6d233.jpg"],
 	        
 ["series", ["Chilling Adventures of Sabrina"], ["2018", "2020"], [["2018 10 29", "2018 11 12", "S1"], ["2019 09 18", "2019 12 23", "S2"]], 0, ["ger"], ["drama", "fantasy"], [], ["Netflix"], ["Roberto Aguirre-Sacasa"], ["Kiernan Shipka", "Spencer Treat Clark", "Miranda Otto", "Heather Doerksen", "Kayla Deorksen", "Ross Lynch"], "https://66.media.tumblr.com/b25e392bd773de76617cb1a05dbcb3af/eac2f8bae7a8a303-ae/s250x400/6a012fa79493463d7cb66fa8677db31bb14d19a5.jpg"],
 	        
@@ -1054,7 +1054,7 @@ var database = [
 	        
 ["film", ["Deadpool"], "2016", ["2016 07 16", "2016 10 21", "2024 06 25"], 8, ["ger"], ["action", "adventure", "comedy", "sci-fi"], [], ["X-Men", "Marvel", "Diesney+"], ["Tim Miller"], ["Ryan Reynolds", "Stan Lee", "Morena Baccarin", "Karan Soni", "Brianna Hildebrand", "Ed Skrein", "T.J. Miller"], "https://68.media.tumblr.com/72f4e55f3867399b6805a20c07d199c7/tumblr_oagky8I8Ie1v2s5upo1_250.jpg"],
 	        
-["film", ["Branded"], "2012", ["2015 08 21"], 2, ["ger"], ["drama", "fantasy"], ["bini"], [], ["Jamie Bradshaw", "Aleksandr Dulerayn"], ["Max von Sydow"], "https://37.media.tumblr.com/b36ce8ab795822aecddac917e31b060d/tumblr_o0dstzSlJZ1v2s5upo1_250.jpg"],
+["film", ["Branded"], "2012", ["2015 08 21"], 2, ["ger"], ["drama", "fantasy"], ["bini"], [], ["Jamie Bradshaw", "Aleksandr Dulerayn"], ["Max von Sydow", "Leelee Sobieski"], "https://37.media.tumblr.com/b36ce8ab795822aecddac917e31b060d/tumblr_o0dstzSlJZ1v2s5upo1_250.jpg"],
 	        
 ["film", ["Meet the Spartans", "Meine Frau, die Spartaner und ich"], "2008", ["2015 08 27"], 6, ["ger"], ["comedy"], ["bini"], [], ["Jason Friedberg", "Aaron Seltzer"], ["Carmen Electra", "Emily Wilson"], "https://40.media.tumblr.com/41bb51f582690306d2134a81268acf2e/tumblr_o0dwkojSGF1v2s5upo1_250.jpg"],
 	        
@@ -1250,7 +1250,7 @@ var database = [
 	        
 ["film", ["Crouching Tiger, Hidden Dragon", "Tiger & Dragon", "Wo hu cang long"], "2000", ["2016 01 17"], 6, ["ger"], ["action", "adventure"], [], [], ["Ang Lee"], ["Ziyi Zhang"], "https://49.media.tumblr.com/29dcb9d9ecff20273762c3061405d32a/tumblr_o147difiGI1v2s5upo1_250.jpg"],
 	        
-["film", ["Dear John", "Das Leuchten der Stille"], "2010", ["2016 01 21"], 6, ["ger"], ["drama", "romance", "war"], [], [], ["Lasse Hallström"], ["Channing Tatum", "Amanda Seyfried"], "https://49.media.tumblr.com/f1b40222d5f523fe444ba928a2f3f496/tumblr_o1yznn7qzM1v2s5upo1_250.jpg"],
+["film", ["Dear John", "Das Leuchten der Stille"], "2010", ["2016 01 21"], 6, ["ger"], ["drama", "romance", "war"], [], [], ["Lasse Hallström"], ["Channing Tatum", "Amanda Seyfried", "Richard Jenkins"], "https://49.media.tumblr.com/f1b40222d5f523fe444ba928a2f3f496/tumblr_o1yznn7qzM1v2s5upo1_250.jpg"],
 	        
 ["film", ["What Dreams May Come", "Hinter dem Horizont - Das Ende ist nur der Anfang"], "1998", ["2016 01 30"], 6, ["ger"], ["drama", "fantasy"], [], [], ["Vincent Ward"], ["Robin Williams", "Max von Sydow"], "https://40.media.tumblr.com/e216e013520b6116ad8b4d36c6f0023d/tumblr_o1rvcqKgiv1v2s5upo1_250.jpg"],
 	        
@@ -1932,7 +1932,7 @@ var database = [
 
 ["series", ["Monsters at Work", "Monster bei der Arbeit"], "2021", [["2021 10 18", "2021 10 27", "S1"]], 4, ["ger"], ["animation", "adventure"], [], ["Disney+"], ["Bobs Gannaway", "Bobs Gannaway", "Kelsey Mann"], [], "https://64.media.tumblr.com/8fc6ca0d08a2ad23926a7a4cc3200475/6c8f34bd875f0077-84/s250x400/7b96a05d438520246ccd19c413e96c695b00ecd3.jpg"],
 
-["film", ["She's All That", "Eine wie keine"], "1999", ["2021 10 18"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Robert Iscove"], ["Freddie Prinze Jr.", "Rachael Leigh Cook", "Anna Paquin", "Kieran Culkin", "Elden Henson", "Usher", "Gabrielle Union", "Dulé Hill"], "https://64.media.tumblr.com/8198ef919e1554c70567ed51a9b6118a/9d04c4b7bbfe81e0-54/s250x400/716781bd6eeab88a4aec9c2f2aceacf8e414021c.jpg"],
+["film", ["She's All That", "Eine wie keine"], "1999", ["2021 10 18"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Robert Iscove"], ["Freddie Prinze Jr.", "Rachael Leigh Cook", "Anna Paquin", "Kieran Culkin", "Elden Henson", "Usher", "Gabrielle Union", "Dulé Hill", "Paul Walker"], "https://64.media.tumblr.com/8198ef919e1554c70567ed51a9b6118a/9d04c4b7bbfe81e0-54/s250x400/716781bd6eeab88a4aec9c2f2aceacf8e414021c.jpg"],
 
 ["series", ["Durarara!!"], "2010", [["2021 10 19", "2021 11 30", "S1"]], 6, ["ger"], ["anime", "comedy", "supernatural", "action"], ["bini", "nico"], ["Netflix"], ["Ryôgo Narita"], [], "https://64.media.tumblr.com/51c9abb229aafca6bbc37e7277a29788/6cc294c4ee7c2d5f-ab/s250x400/4a0158973d9797cdbc9ca42c15c79bd80c569219.jpg"],
 
@@ -3076,7 +3076,7 @@ var database = [
 
 ["film", ["Inside Out 2", "Alles steht Kopf 2"], "2024", ["2024 10 04"], 7, ["ger"], ["animation", "adventure"], ["bini", "syl", "je"], ["Disney+"], ["Kelsey Mann"], [], "https://64.media.tumblr.com/8398b0eb12e0554da3ccb26c9f8a412c/4ba102a2f5e06bd8-93/s250x400/11bf92a84cb470fa68553e3a2ed5126260fca1b8.jpg"],
 
-["film", ["Nightmare Alley"], "2021", ["2024 10 05"], 5, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Guillermo del Toro"], ["Bradley Cooper", "Cate Blanchett", "Willem Dafoe", "Rooney Mara", "Ron Perlman", "David Strathairn", "Toni Collette"], "https://64.media.tumblr.com/52f041538abc36fbf400b03b75783bcf/7a18565ac03abc2b-9c/s250x400/be2e0a25a1c28e6888d413ef2bd25c38e5cd0359.jpg"],
+["film", ["Nightmare Alley"], "2021", ["2024 10 05"], 5, ["ger"], ["crime", "drama"], [], ["Disney+"], ["Guillermo del Toro"], ["Bradley Cooper", "Cate Blanchett", "Willem Dafoe", "Rooney Mara", "Ron Perlman", "David Strathairn", "Toni Collette", "Richard Jenkins"], "https://64.media.tumblr.com/52f041538abc36fbf400b03b75783bcf/7a18565ac03abc2b-9c/s250x400/be2e0a25a1c28e6888d413ef2bd25c38e5cd0359.jpg"],
 
 ["film", ["Dungeons & Dragons: Honor Among Thieves", "Dungeons & Dragons: Ehre unter Dieben"], "2023", ["2024 10 05"], 8, ["ger"], ["action", "adventure"], ["bini"], ["Netflix"], ["John Francis Daley", "Jonathan Goldstein"], ["Michelle Rodriguez", "Justice Smith", "Sophia Lillis", "Hugh Grant", "Chloe Coleman", "Bradley Cooper", "Regé-Jean Page"], "https://64.media.tumblr.com/a970bf8a0dbca4b21cabaccf4b1fcfc8/9cfbae3815cc07a7-10/s250x400/9c240145d154edf22ff956acd95125dfc3d48e42.jpg"],
 
@@ -3402,7 +3402,7 @@ var database = [
 
 ["audiobook", ["Tee? Kaffee? Mord! 16 - Ein Spion kommt selten allein"], "2020", [["2025 10 28", "2025 11 04"]], 6, ["ger"], ["crime"], [], ["bibliothek"], ["Ellen Barksdale"], ["Vera Teltz"], "https://64.media.tumblr.com/aef9971b8476082f787a4e0db73f45f5/f82bfbd4ad79f668-97/s250x400/dcc7b95063cc0997ef2aead17a3bf305a5e29f91.jpg"],
 
-["film", ["Copycat", "Copykill"], "1995", ["2025 11 01"], 7, ["ger"], ["drama", "mystery", "thriller"], [], ["Netflix"], ["Jon Amiel"], ["Sigourney Weaver"], "https://64.media.tumblr.com/56cc1eaa82922dc165cf352a0a1cf494/43e42d6181de72d8-70/s250x400/ba20e8a5da9fd4a6fe19902abd73a24adec708a5.jpg"],
+["film", ["Copycat", "Copykill"], "1995", ["2025 11 01"], 7, ["ger"], ["drama", "mystery", "thriller"], [], ["Netflix"], ["Jon Amiel"], ["Sigourney Weaver", "J.E. Freeman"], "https://64.media.tumblr.com/56cc1eaa82922dc165cf352a0a1cf494/43e42d6181de72d8-70/s250x400/ba20e8a5da9fd4a6fe19902abd73a24adec708a5.jpg"],
 
 ["series", ["Riv4lries"], "2025", [["2025 11 01", "2025 11 19", "S1"]], 6, ["ger"], ["drama", "comedy"], [], ["Netflix"], [], [], "https://64.media.tumblr.com/74246540cb9271fa177d7639fd86f47d/c573392483bac800-75/s250x400/adfffe1a3fb29b410c05bb105cc9fc15bf253206.jpg"],
 
@@ -3830,7 +3830,7 @@ var database = [
 
 ["film", ["Man on Fire", "Mann unter Feuer"], "2004", ["2026 07 17"], 5, ["ger"], ["action", "crime", "drama"], [], ["Netflix"], ["Tony Scott"], ["Denzel Washington", "Dakota Fanning", "Radha Mitchell", "Christopher Walken"], "https://64.media.tumblr.com/1ff45627885dc3b9807cb216de326860/91420ee94df1fb1f-e3/s250x400/81eb48b578f4312d2c54ed5a18c43d55257ba877.jpg"],
 
-["film", ["Go", "Go! Das Leben beginnt erst um 3.00 Uhr morgens"], "1999", ["2026 07 18"], 5, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Doug Liman"], ["Katie Holmes", "Sarah Polley", "Suzanne Krull"], "https://64.media.tumblr.com/dc84c7529e018cccfb4d8dc10a197576/0b6617ee0e96279e-c1/s250x400/274406236b0dcef8e46c02e40235122a985d7605.jpg"],
+["film", ["Go", "Go! Das Leben beginnt erst um 3.00 Uhr morgens"], "1999", ["2026 07 18"], 5, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["Doug Liman"], ["Katie Holmes", "Sarah Polley", "Suzanne Krull", "J.E. Freeman"], "https://64.media.tumblr.com/dc84c7529e018cccfb4d8dc10a197576/0b6617ee0e96279e-c1/s250x400/274406236b0dcef8e46c02e40235122a985d7605.jpg"],
 
 ["audiobook", ["Die drei ??? 104: Gift per E-Mail"], "2002", [["2026 07 18", "2026 07 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/7fc02f77b6339f4a4261c6860a4dfbf5/c036d8216c9ca7a1-b3/s250x400/9173762b869f69af2fe252203bb26b69b0e39734.jpg"],
 
@@ -3903,6 +3903,10 @@ var database = [
 ["film", ["The Uninvited", "Der Fluch der 2 Schwestern"], "2009", ["2026 10 03"], 7, ["ger"], ["drama", "fantasy", "horror"], [], ["Netflix"], ["Charles Guard", "Thomas Guard"], ["Emily Browning", "Arielle Kebbel", "David Strathairn", "Elizabeth Banks"], "https://64.media.tumblr.com/51571382460c2e947e513fff3e4ac267/484f0736d3005cec-3f/s250x400/014cdda7b76ecde4e8050bbc0fb297ec8611da38.jpg"],
 
 ["film", ["The Whisper Man", "Der Kinderflüsterer"], "2026", ["2026 10 03"], 7, ["ger"], ["crime", "drama", "thriller"], [], ["Netflix"], ["James Ashcroft"], ["Robert De Niro", "Michelle Monaghan", "Adam Scott", "Michael Keaton"], "https://64.media.tumblr.com/81f08af32884403b927de93a450880b4/286c790bbf80f2a8-45/s250x400/97f61675e8ac309794004d49be295abaa197f066.jpg"],
+
+["film", ["Joy Ride", "Joyride - Spritztour"], "2001", ["2026 10 04"], 7, ["ger"], ["mystery", "thriller"], [], ["Netflix"], ["John Dahl"], ["Steve Zahn", "Paul Walker", "Leelee Sobieski"], "https://64.media.tumblr.com/7c6e13eb57aef7db4a066cdbb215c372/36e4a18aa8f0fd66-20/s250x400/cfcfaef501911639a05e7f39eb847fcfdc018337.jpg"],
+
+["film", ["It Could Happen to You", "2 Millionen Dollar Trinkgeld"], "1994", ["2026 10 04"], 6, ["ger"], ["comedy", "drama", "romance"], [], ["Netflix"], ["Andrew Bergman"], ["Nicolas Cage", "Stanley Tucci", "J.E. Freeman", "Richard Jenkins", "Emily Deschanel"], "https://64.media.tumblr.com/69b93c450c3c925d2b693436f9112997/bfa262fc44026b88-56/s250x400/ddcc46ce834fb4435f40c9dcc6f673ee55628eb8.jpg"],
 
 ["book", ["Tårer forandrer ingenting", "Sommer ist trotzdem", "Tårer forandrer ingenting"], "2018", [["2026 10 05", "2026 10 08", "S1-S36"]], 0, ["ger"], ["drama"], [], ["bibliothek", "dropped"], ["Espen Dekko"], [], "https://64.media.tumblr.com/993b241acddc3ca30e59f7c42340d43e/772cc0f07a443ac9-bc/s250x400/ff66f821c5511c5e655bf6e1823bbcd01c2b50cd.jpg"],
 
