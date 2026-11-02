@@ -2255,7 +2255,7 @@ var database = [
 
 ["film", ["Barbie: Fairytopia"], "2005", ["2022 06 06"], 3, ["ger"], ["animation", "family"], ["bini"], ["Barbie"], ["Walter P. Martishius", "William Lau"], [], "https://64.media.tumblr.com/e344f6008162a127bc928efe5679d2dd/814a2e186700ddcd-e5/s250x400/a29fceb62f7dc678c4ff4ad1878c01124474ae20.jpg"],
 
-["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon", "Miles Teller", "Andie MacDowell"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"],
+["film", ["Footloose"], "2011", ["2022 06 11"], 7, ["ger"], ["comedy", "drama"], ["syl"], [], ["Craig Brewer"], ["Julianne Hough", "Kim Dickens", "Ziah Colon", "Miles Teller", "Andie MacDowell", "Sandra Ellis Lafferty"], "https://64.media.tumblr.com/4761d8978cb38cfd2e2533f2cda3c8cf/2625b51997a60fb3-2c/s250x400/dea733e5faac1f6dbac55b3c4271bd23252d0b87.jpg"],
 
 ["series", ["First Kill"], ["2022"], [["2022 06 15", "2022 06 23", "S1"]], 5, ["ger"], ["drama", "horror"], [], ["Netflix", "LGBT"], ["Bryce Ahart", "Bryce Ahart", "Stephanie McFarlane"], ["Imani Lewis", "Elizabeth Mitchell", "Sarah Catherine Hook"], "https://64.media.tumblr.com/0bc6e9901559cefc60b3137b72fb599c/0b64e1a325c32917-17/s250x400/7fb33c938817662a452e0a257ae10e20bbd9ae66.jpg"],
 
@@ -3908,9 +3908,21 @@ var database = [
 
 ["film", ["It Could Happen to You", "2 Millionen Dollar Trinkgeld"], "1994", ["2026 10 04"], 6, ["ger"], ["comedy", "drama", "romance"], [], ["Netflix"], ["Andrew Bergman"], ["Nicolas Cage", "Stanley Tucci", "J.E. Freeman", "Richard Jenkins", "Emily Deschanel"], "https://64.media.tumblr.com/69b93c450c3c925d2b693436f9112997/bfa262fc44026b88-56/s250x400/ddcc46ce834fb4435f40c9dcc6f673ee55628eb8.jpg"],
 
+["film", ["Prisoners"], "2013", ["2026 10 04"], 8, ["ger"], ["crime", "drama", "mystery"], [], ["Netflix"], ["Denis Villeneuve"], ["Hugh Jackman", "Jake Gyllenhaal", "Viola Davis", "Maria Bello", "Terrence Howard", "Paul Dano", "Dylan Minnette", "Sandra Ellis Lafferty"], "https://64.media.tumblr.com/812cf0f3c685318831521e6e80c606d3/7010a7ef7e3e25db-ea/s250x400/c205ec4b1928631cf4a52d3956000e38523092ee.jpg"],
+
 ["book", ["Tårer forandrer ingenting", "Sommer ist trotzdem", "Tårer forandrer ingenting"], "2018", [["2026 10 05", "2026 10 08", "S1-S36"]], 0, ["ger"], ["drama"], [], ["bibliothek", "dropped"], ["Espen Dekko"], [], "https://64.media.tumblr.com/993b241acddc3ca30e59f7c42340d43e/772cc0f07a443ac9-bc/s250x400/ff66f821c5511c5e655bf6e1823bbcd01c2b50cd.jpg"],
 
-["book", ["All Fall Down", "Keiner kommt davon – eine Geschichte vom Überleben"], "2012", [["2026 10 09", ""]], 0, ["ger"], ["drama"], [], ["bibliothek", "watching"], ["Sally Nicholls"], [], "https://64.media.tumblr.com/5e85c45592cf604fd5613ae1b5046bb0/f89d6e58bdccd006-94/s250x400/ebcd3c3ccac9b734b15db792a9d88b33a8b84f60.jpg"]
+["book", ["All Fall Down", "Keiner kommt davon – eine Geschichte vom Überleben"], "2012", [["2026 10 09", ""]], 0, ["ger"], ["drama"], [], ["bibliothek", "watching"], ["Sally Nicholls"], [], "https://64.media.tumblr.com/5e85c45592cf604fd5613ae1b5046bb0/f89d6e58bdccd006-94/s250x400/ebcd3c3ccac9b734b15db792a9d88b33a8b84f60.jpg"],
+
+["film", ["Nocturnal Animals"], "2016", ["2026 10 11"], 1, ["ger"], ["drama", "thiller"], [], ["Netflix"], ["Tom Ford"], ["Amy Adams", "Jake Gyllenhaal", "Michael Shannon", "Aaron Taylor-Johnson", "Isla Fisher", "Ellie Bamber"], "https://64.media.tumblr.com/c3229dbf42594d3b5323df51fa795947/bb6bded6a488b910-ea/s250x400/191a851d8dcc814cb9043a3cf57dc8993d311bbc.jpg"],
+
+["short", ["The Wonderful Story of Henry Sugar", "Ich sehe was, was du nicht siehst"], "2023", ["2026 10 11"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Wes Anderson"], ["Ralph Fiennes", "Benedict Cumberbatch", "Dev Patel", "Ben Kingsley", "Richard Ayoade"], "https://64.media.tumblr.com/193312f19c8c30e5171b36ab8b04d429/e4a27659010252f4-c3/s250x400/e3662caf02fe628bcf68aae8c66c69eb6c9aba7f.jpg"],
+
+["short", ["The Rat Catcher", "Der Rattenfänger"], "2023", ["2026 11 01"], 5, ["ger"], ["comedy"], ["syl"], ["Netflix"], ["Wes Anderson"], ["Richard Ayoade", "Ralph Fiennes", "Rupert Friend"], "https://64.media.tumblr.com/bd4c7b6ba4acf5f4ff925575e9ba067d/2e8259147daae3df-5e/s250x400/5e77e4ec99a63c8f0b9eeeb6c39f0ecc32f6ca3b.jpg"],
+
+["short", ["Poison", "Gift"], "2023", ["2026 11 02"], 4, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Wes Anderson"], ["Dev Patel", "Benedict Cumberbatch", "Ralph Fiennes", "Ben Kingsley"], "https://64.media.tumblr.com/b18204d74764d5136138b4209223eb3b/251b5868b7607791-74/s250x400/52ada0782da04a38469fc322f27ddf2883e6aa4a.jpg"],
+
+["short", ["The Swan", "Der Schwan"], "2023", ["2026 11 02"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Wes Anderson"], ["Rupert Friend", "Ralph Fiennes"], "https://64.media.tumblr.com/40a491afc67e7b8ad16293fadef9251d/f5a5f0a241cd69e0-2f/s250x400/0444d67dae2c17d1b089e60cd2cbee8225a231ee.jpg"]
 
 	/*
 ,
