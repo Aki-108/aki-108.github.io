@@ -3896,6 +3896,16 @@ var database = [
 
 ["series", ["Demon Slayer", "Demon Slayer", "Kimetsu no Yaiba"], "2019", [["2026 09 21", "2026 10 05", "S1"], ["2026 10 12", "2026 10 14", "Mugen Train Arc"], ["2026 10 14", "", "Entertainment District Arc"]], 4, ["ger"], ["anime", "action", "supernatural"], ["bini", "nico"], ["watching"], ["Koyoharu Gotouge"], [], "https://64.media.tumblr.com/d87e348e435d32157d3442ebedbe9d79/498be1ca6e593c0e-d7/s250x400/331e37d849d1be3f886ad1e39b23455022c3246c.jpg"],
 
+["audiobook", ["Die drei ??? 121: Spur ins Nichts"], "2005", ["", "2026 09 23"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 122: und der Geisterzug"], "2005", ["", "2026 09 23"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Astrid Vollenbruch"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 123: Fußballfieber"], "2005", ["2026 09 24"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 124: Geister-Canyon"], "2005", ["2026 09 24"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 125: Feuermond"], "2005", [["2026 09 25", "2026 10 01"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
 ["film", ["What's Your Number?", "Der perfekte Ex"], "2011", ["2026 10 02"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Mark Mylod"], ["Anna Faris", "Chris Evans", "Blythe Danner", "Chris Pratt", "Martin Freeman", "Andy Samberg", "Thomas Lennon", "Anthony Mackie"], "https://64.media.tumblr.com/6fa87305bda8b574e5a61e11e92ac958/08306d1480af1765-0e/s250x400/8dfc21c4a67c68a8208f4750c73cfb8ff8894bd7.jpg"],
 
 ["film", ["Secret Obsession"], "2019", ["2026 10 03"], 6, ["ger"], ["crime", "drama", "mystery"], [], ["Netflix"], ["Peter Sullivan"], ["Brenda Song"], "https://64.media.tumblr.com/e57d75e6d31f3e1028aebb2ca0e7214f/d3273fcba65c6d1e-28/s250x400/0f27fffc8e128ea8e5789df149804a1b3dfcea4e.jpg"],
@@ -3917,6 +3927,20 @@ var database = [
 ["film", ["Nocturnal Animals"], "2016", ["2026 10 11"], 1, ["ger"], ["drama", "thiller"], [], ["Netflix"], ["Tom Ford"], ["Amy Adams", "Jake Gyllenhaal", "Michael Shannon", "Aaron Taylor-Johnson", "Isla Fisher", "Ellie Bamber"], "https://64.media.tumblr.com/c3229dbf42594d3b5323df51fa795947/bb6bded6a488b910-ea/s250x400/191a851d8dcc814cb9043a3cf57dc8993d311bbc.jpg"],
 
 ["short", ["The Wonderful Story of Henry Sugar", "Ich sehe was, was du nicht siehst"], "2023", ["2026 10 11"], 6, ["ger"], ["adventure", "comedy"], [], ["Netflix"], ["Wes Anderson"], ["Ralph Fiennes", "Benedict Cumberbatch", "Dev Patel", "Ben Kingsley", "Richard Ayoade"], "https://64.media.tumblr.com/193312f19c8c30e5171b36ab8b04d429/e4a27659010252f4-c3/s250x400/e3662caf02fe628bcf68aae8c66c69eb6c9aba7f.jpg"],
+
+["audiobook", ["Die drei ??? 126: Schrecken aus dem Moor"], "2005", [["2026 10 12", "2026 10 13"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 127: Schwarze Madonna"], "2006", [["2026 10 14", "2026 10 15"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Astrid Vollenbruch"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 128: Schatten über Hollywood"], "2006", ["2026 10 19"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Astrid Vollenbruch"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 129: SMS aus dem Grab"], "2006", ["2026 10 19"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 130: Fluch des Drachen"], "2006", [["2026 10 22", "2026 10 24"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 131: Haus des Schreckens"], "2006", ["", ["2026 10 25", "2026 10 27"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
+["audiobook", ["Die drei ??? 132: Spuk im Netz"], "2006", [["2026 10 27", "2026 10 30"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Astrid Vollenbruch"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["short", ["The Rat Catcher", "Der Rattenfänger"], "2023", ["2026 11 01"], 5, ["ger"], ["comedy"], ["syl"], ["Netflix"], ["Wes Anderson"], ["Richard Ayoade", "Ralph Fiennes", "Rupert Friend"], "https://64.media.tumblr.com/bd4c7b6ba4acf5f4ff925575e9ba067d/2e8259147daae3df-5e/s250x400/5e77e4ec99a63c8f0b9eeeb6c39f0ecc32f6ca3b.jpg"],
 
