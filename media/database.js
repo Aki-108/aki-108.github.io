@@ -3836,31 +3836,31 @@ var database = [
 
 ["film", ["Das Kanu des Manitu"], "2025", ["2026 08 02"], 5, ["ger"], ["comedy", "western"], ["bini", "syl"], ["Netflix"], ["Michael Herbig"], ["Michael Herbig", "Christian Tramitz", "Rick Kavanian", "Jessica Schwarz", "Daniel Zillmann", "Sky du Mont"], "https://64.media.tumblr.com/cde07eb7ba784a8f82e1e614a50ace86/25555a5c25f0aad6-89/s250x400/61af7664e95dfe55aa1d25124c7400b9f383361e.jpg"],
 
-["audiobook", ["Die drei ??? 105: und der Nebelberg"], "2002", [["2026 08 03", "2026 08 07"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 105: und der Nebelberg"], "2002", [["2026 08 03", "2026 08 07"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/c1afc679fe9ed1d28a0c5f9500be0d32/78ca8b1237137487-4a/s250x400/2b015dc74e6275c56d607e9f695511a7efc59cbf.jpg"],
 
 ["film", ["Enola Holmes 3"], "2026", ["2026 08 08"], 6, ["ger"], ["action", "adventure", "comedy"], ["bini", "syl"], ["Netflix"], ["Philip Barantini"], ["Millie Bobby Brown", "Henry Cavill", "Helena Bonham Carter", "Himesh Patel"], "https://64.media.tumblr.com/f1a21c05e81a891bcba3b0a66d5308e6/9fb98caa2285757b-95/s250x400/d56937f706a04eb3dc6b63bd8c5fcc2202fc9360.jpg"],
 
-["audiobook", ["Die drei ??? 106: Der Mann ohne Kopf"], "2002", [["2026 08 08", "2026 08 12"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 106: Der Mann ohne Kopf"], "2002", [["2026 08 08", "2026 08 12"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Minninger"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/b141e6ee12f3239106e2ba16b8a9770d/56abe31a06f9516c-6a/s250x400/cc319eb2f539ce169c85e3bbbd42d80729404fa1.jpg"],
 
 ["film", ["The Naked Gun: From the Files of Police Squad!", "Die nackte Kanone"], "1988", ["2026 08 09"], 4, ["ger"], ["comedy", "crime"], [], ["Netflix"], ["David Zucker"], ["Leslie Nielsen"], "https://64.media.tumblr.com/ad77ee6d4c96325399f21c5aa2d8e9f0/aecd0c423a9454eb-ba/s250x400/9b5ae975e271f6bb36eed962e971fc49f1444630.jpg"],
 
 ["film", ["Ready or Not: Here I Come", "Ready or Not 2"], "2026", ["2026 08 18"], 6, ["ger"], ["comedy", "horror", "thriller"], [], ["Disney+"], ["Matt Bettinelli-Olpin", "Tyler Gillett"], ["Samara Weaving", "Kathryn Newton", "Elijah Wood", "Sarah Michelle Gellar", "Nestor Carbonell", "Kevin Durand"], "https://64.media.tumblr.com/40ce9475bc713561d3156f72fb963479/4726099e4f744121-ca/s250x400/dec451a5762a781f3f0074e6acb144eb82bda606.jpg"],
 
-["audiobook", ["Die drei ??? 107: und der Schatz der Mönche"], "2002", [["2026 08 18", "2026 08 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 107: und der Schatz der Mönche"], "2002", [["2026 08 18", "2026 08 23"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/88afa517ade7c7b35bb31230a94098e7/357430b09d8af4bc-f3/s250x400/c270acc1b06ecd1786ff27499bd3c0c2da1bea11.jpg"],
 
-["film", ["28 Days", "28 Tage"], "2000", ["2026 08 22"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Betty Thomas"], ["Sandra Bullock", "Viggo Mortensen", "Steve Buscemi", "Alan Tudyk", "Mike O'Malley", "Margo Martindale"], "image"],
+["film", ["28 Days", "28 Tage"], "2000", ["2026 08 22"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Betty Thomas"], ["Sandra Bullock", "Viggo Mortensen", "Steve Buscemi", "Alan Tudyk", "Mike O'Malley", "Margo Martindale"], "https://64.media.tumblr.com/638cb9b1a829db3183454ed0fafe957b/823edb5e61ac1044-84/s250x400/811c1564d13b604f79964ee90a7d2f63f0551856.jpg"],
 
-["audiobook", ["Die drei ??? 108: Die sieben Tore"], "2002", ["2026 08 24"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 108: Die sieben Tore"], "2002", ["2026 08 24"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/6d9514aa31578a9899bf30faca045dff/5d99a7ac75df373e-b0/s250x400/6c999259990d5170b8f3cee7a0822651a04fed2c.jpg"],
 
-["book", ["The Lost Bookshop", "Der verschwundene Buchladen"], "2023", [["2026 08 24", "2026 08 28", "P1-P12"]], 0, ["ger"], ["fantasy"], [], ["onhold"], ["Evie Woods"], [], "image"],
+["book", ["The Lost Bookshop", "Der verschwundene Buchladen"], "2023", [["2026 08 24", "2026 08 28", "P1-P12"]], 0, ["ger"], ["fantasy"], [], ["onhold"], ["Evie Woods"], [], "https://64.media.tumblr.com/3dcc8b8fe35812b68f5d995f342c2dd8/ddbd28c7c1a60e07-18/s250x400/b992c19d2a8ae2cdf4d5c5d25c695117141d5b4b.jpg"],
 
-["audiobook", ["Die drei ??? 109: Gefährliches Quiz"], "2003", ["2026 08 25"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 109: Gefährliches Quiz"], "2003", ["2026 08 25"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/1fdfdfaf7a16ce89b33af5e4f365c6e7/dc11f9fede7b0b51-f7/s250x400/e21c72d7fe31b865807e2902028e11b9bb092e6e.jpg"],
 
 ["film", ["Detective Conan 29: Highway No Datenshi", "Detektiv Conan 29: Der gefallene Engel des Highways", "Meitantei Konan haiwei no datenshi"], "2026", ["2026 08 25"], 7, ["ger"], ["anime", "action", "crime"], ["bini", "jessie"], ["Kino", "Conan"], ["Takahiro Hasui"], [], "https://64.media.tumblr.com/afa23515d375ca715eede715a59791a1/6a5f91b45d4e8742-b1/s250x400/7daf86d29c0d6e932ad178c6637eb06ae82198a7.jpg"],
 
-["audiobook", ["Die drei ??? 110: Panik im Park"], "2003", ["2026 08 25"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 110: Panik im Park"], "2003", ["2026 08 25"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/4a7ae3b13b2f6e40459a089615314dba/8d2dda157c5106ef-24/s250x400/d304a83e0d4e54c8ef0987614e1fcd26270094cf.jpg"],
 
-["audiobook", ["Die drei ??? 111: Die Höhle des Grauens"], "2003", ["2026 08 28"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+["audiobook", ["Die drei ??? 111: Die Höhle des Grauens"], "2003", ["2026 08 28"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/facc08c812657476595223df9e590c03/3ac9674c806e2890-30/s250x400/cc2f6547d33fb053b2ece4ff427ca7cb65ce95d8.jpg"],
 
 ["series", ["The Worst Witch", "Eine lausige Hexe"], ["2017", "2020"], [["2026 08 29", "2026 09 03"]], 7, ["ger"], ["family", "fantasy"], [], ["Netflix", "ongoing"], ["Emma Reeves"], ["Clare Higgins", "Tamara Smart", "Bella Ramsey", "Nicola Stephenson"], "image"],
 
