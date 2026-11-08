@@ -720,7 +720,7 @@ var database = [
 	        
 ["film", ["The Babysitter"], "2017", ["2018 05 23", "2020 10 31"], 7, ["ger"], ["comedy", "horror"], ["bini"], ["Netflix"], ["McG"], ["Samara Weaving", "Robbie Amell", "Emily Alyn Lind", "Andrew Bachelor", "Judah Lewis", "Bella Thorne", "Hana Mae Lee", "Leslie Bibb", "Ken Marino"], "https://66.media.tumblr.com/945e69d735b3f15ae8bb96233081c04e/tumblr_pzkt7faJcw1v2s5upo1_250.jpg"],
 	        
-["film", ["Lady Bird"], "2017", ["2018 05 22", "2023 01 24", "2026 08 23"], 7, ["ger"], ["comedy", "drama"], ["syl"], ["Kino", "bibliothek", "Netflix"], ["Greta Gerwig"], ["Saoirse Ronan", "Timothée Chalamet", "Kathryn Newton", "Odeya Rush", "Beanie Feldstein", "Jake McDorman"], "https://66.media.tumblr.com/b84196ccf9d098be5b45373b14925706/tumblr_pzkt5n4zW21v2s5upo1_250.jpg"],
+["film", ["Lady Bird"], "2017", ["2018 05 22", "2023 01 24", "2026 08 23"], 7, ["ger"], ["comedy", "drama"], ["syl"], ["Kino", "bibliothek", "Netflix"], ["Greta Gerwig"], ["Saoirse Ronan", "Timothée Chalamet", "Kathryn Newton", "Odeya Rush", "Beanie Feldstein", "Jake McDorman", "Laurie Metcalf"], "https://66.media.tumblr.com/b84196ccf9d098be5b45373b14925706/tumblr_pzkt5n4zW21v2s5upo1_250.jpg"],
 	        
 ["film", ["Interstellar"], "2014", ["2016 10 18", "2017 03 27", "2025 04 18"], 10, ["ger"], ["adventure", "drama", "sci-fi"], ["bini", "syl"], ["Netflix"], ["Christopher Nolan"], ["Timothée Chalamet", "Matthew McConaughey", "Mackenzie Foy", "John Lithgow", "Anne Hathaway", "Michael Caine", "Jessica Chastain", "Matt Damon", "Wes Bentley"], "https://68.media.tumblr.com/c6a73d7ad753da57f16b5b6392587458/tumblr_of8pl59vIY1v2s5upo1_250.jpg"],
 	        
@@ -2926,7 +2926,7 @@ var database = [
 
 ["series", ["20/20: Something's Coming: West Side Story"], "2021", ["2024 03 21"], 7, ["eng"], ["documentary"], [], ["Disney+"], ["Roone Arledge"], [], "https://64.media.tumblr.com/0f5ee3851922e73b69a3d9de6184c3dd/017d7328d6072d7b-c8/s250x400/89c1896f83d07da30c30bc4bee93bff3b51647d6.jpg"],
 
-["film", ["Angel Has Fallen"], "2019", ["2024 03 23"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Ric Roman Waugh"], ["Gerard Butler", "Morgan Freeman", "Lance Reddick"], "https://64.media.tumblr.com/5eb5de4b4982c8ac6ad19908d595e608/3c5bf327cb68980d-82/s250x400/4da8843247ad0629513394aeb797330485184036.jpg"],
+["film", ["Angel Has Fallen"], "2019", ["2024 03 23"], 6, ["ger"], ["action", "thriller"], [], ["Netflix"], ["Ric Roman Waugh"], ["Gerard Butler", "Morgan Freeman", "Lance Reddick", "Jada Pinkett Smith"], "https://64.media.tumblr.com/5eb5de4b4982c8ac6ad19908d595e608/3c5bf327cb68980d-82/s250x400/4da8843247ad0629513394aeb797330485184036.jpg"],
 
 ["film", ["Systemsprenger"], "2019", ["2024 03 23"], 7, ["ger"], ["drama"], [], ["Netflix"], ["Nora Fingscheidt"], [], "https://64.media.tumblr.com/1177fc36581326d15f5510bb6aa22122/cc05deda7cdbb522-0e/s250x400/51643ee7147b8e13802bae5a8cc77627f812da0b.jpg"],
 
@@ -3338,7 +3338,7 @@ var database = [
 
 ["film", ["Bad Influence", "Mala Influencia - Verbotene Liebe", "Mala influencia"], "2025", ["2025 08 16"], 5, ["ger"], ["romance", "thriller"], [], ["Netflix"], ["Chloé Wallace"], ["Enrique Arce"], "https://64.media.tumblr.com/70f340f9ff0f071dccf3a47d1fbfe55e/a7ade893087c975a-0d/s250x400/c62f1aa04f817e6b58346ffcda9f1bbef2fcb435.jpg"],
 
-["series", ["Gossip Girl"], ["2007", "2012"], [["2025 08 17", "2025 09 05", "S1"], ["2026 02 22", "2026 03 26", "S2"], ["2026 07 11", "2026 08 04", "S3"]], 6, ["ger"], ["drama", "romance"], [], ["Netflix", "ongoing"], ["Stephanie Savage", "Josh Schwartz"], ["Blake Lively", "Penn Badgley", "Michelle Trachtenberg", "Katie Cassidy", "Margaret Colin", "Sam Robards"], "https://64.media.tumblr.com/05b1a437aee8e0579909868e8aa969fb/975d5281a3831f94-41/s250x400/065313728895864387687994dc7264093c00442b.jpg"],
+["series", ["Gossip Girl"], ["2007", "2012"], [["2025 08 17", "2025 09 05", "S1"], ["2026 02 22", "2026 03 26", "S2"], ["2026 07 11", "2026 08 04", "S3"]], 6, ["ger"], ["drama", "romance"], [], ["Netflix", "ongoing"], ["Stephanie Savage", "Josh Schwartz"], ["Blake Lively", "Penn Badgley", "Michelle Trachtenberg", "Katie Cassidy", "Margaret Colin", "Sam Robards", "Kelly Rutherford"], "https://64.media.tumblr.com/05b1a437aee8e0579909868e8aa969fb/975d5281a3831f94-41/s250x400/065313728895864387687994dc7264093c00442b.jpg"],
 /*S1: 5, S2: 7*/
 ["film", ["Taxi", "New York Taxi"], "2004", ["2025 08 21"], 7, ["ger"], ["action", "comedy", "crime"], [], ["Netflix"], ["Tim Story"], ["Queen Latifah", "Jimmy Fallon", "Gisele Bündchen", "Adrian Martinez", "John Krasinski"], "https://64.media.tumblr.com/0d74ea00b7041b73926c206f716ef268/3a3b1777377a90fa-30/s250x400/60a26cc2e7cd050ae8f66981c9be267a8086d166.jpg"],
 
@@ -3758,11 +3758,11 @@ var database = [
 
 ["film", ["Premonition", "Die Vorahnung"], "2007", ["2026 05 02"], 4, ["ger"], ["drama", "fantasy", "mystery"], [], ["Netflix"], ["Mennan Yapo"], ["Sandra Bullock", "Peter Stormare"], "https://64.media.tumblr.com/234dca9d0b1997f6e6391b0019cef6b3/9dd2c8fc703c8319-83/s250x400/27ce89e0028f0c4e985695af88b6ede2f37e914c.jpg"],
 
-["film", ["Sweet Home Alabama", "Sweet Home Alabama - Liebe auf Umwegen"], "2002", ["2026 05 03"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Andy Tennant"], ["Reese Witherspoon", "Fred Ward", "Melanie Lynskey", "Dakota Fanning"], "https://64.media.tumblr.com/b58dcb1c4b29259ea2b6e625c0428cf8/caeeb167c696f313-16/s250x400/03d0ef5dc72eb0aadeb0d03c5ac7eb3354238860.jpg"],
+["film", ["Sweet Home Alabama", "Sweet Home Alabama - Liebe auf Umwegen"], "2002", ["2026 05 03"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Andy Tennant"], ["Reese Witherspoon", "Fred Ward", "Melanie Lynskey", "Dakota Fanning", "Patrick Dempsey"], "https://64.media.tumblr.com/b58dcb1c4b29259ea2b6e625c0428cf8/caeeb167c696f313-16/s250x400/03d0ef5dc72eb0aadeb0d03c5ac7eb3354238860.jpg"],
 
 ["film", ["Good Luck Chuck", "Der Glücksbringer"], "2007", ["2026 05 03"], 6, ["ger"], ["comedy", "romance"], [], ["Netflix"], ["Mark Helfrich"], [], "https://64.media.tumblr.com/02a563cc3c7eb7597bb980ce19ebe2c5/7c57c3ab6db77e0a-4a/s250x400/b25a7a642b6fffa9ccfce62b80345d9f5f273f43.jpg"],
 
-["film", ["Georgia Rule", "Georgias Gesetz"], "2007", ["2026 05 03"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Garry Marshall"], ["Lindsay Lohan", "Garrett Hedlund", "Chelse Swain"], "https://64.media.tumblr.com/a8990722188da0f5061318f980307850/40c35c463a033a8e-d9/s250x400/85f17df37e80f3394be55caea760db90f0b05b85.jpg"],
+["film", ["Georgia Rule", "Georgias Gesetz"], "2007", ["2026 05 03"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Garry Marshall"], ["Lindsay Lohan", "Garrett Hedlund", "Chelse Swain", "Laurie Metcalf"], "https://64.media.tumblr.com/a8990722188da0f5061318f980307850/40c35c463a033a8e-d9/s250x400/85f17df37e80f3394be55caea760db90f0b05b85.jpg"],
 
 ["audiobook", ["Die drei ??? 80: Geheimsache Ufo"], "1998", ["2026 05 06"], 6, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "https://64.media.tumblr.com/49413655f77d81de98e16042d26cb9d1/6ec614a348096630-dd/s250x400/264fb4879674864fdb6a7a5abee9fcd78c6e671e.jpg"],
 
@@ -3882,7 +3882,7 @@ var database = [
 
 ["audiobook", ["Die drei ??? 117: Der finstere Rivale"], "2004", [["2026 09 10", "2026 09 12"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
-["film", ["Scary Movie 2"], "2001", ["2026 09 12"], 4, ["ger"], ["comedy"], [], ["Netflix"], ["Keenen Ivory Wayans"], ["Natasha Lyonne", "James Woods", "Anna Faris", "Marlon Wayans", "Shawn Wayans", "Regina Hall", "David Cross", "Chris Elliott"], "https://64.media.tumblr.com/cb1f78abdf1012cb5956ebbda8c91331/1810b6a294b423ca-d5/s250x400/06919dc44e6bdb2a13be3d3768e734ed7beb369f.jpg"],
+["film", ["Scary Movie 2"], "2001", ["2026 09 12"], 4, ["ger"], ["comedy"], [], ["Netflix"], ["Keenen Ivory Wayans"], ["Natasha Lyonne", "James Woods", "Anna Faris", "Marlon Wayans", "Shawn Wayans", "Regina Hall", "David Cross", "Chris Elliott", "Tori Spelling"], "https://64.media.tumblr.com/cb1f78abdf1012cb5956ebbda8c91331/1810b6a294b423ca-d5/s250x400/06919dc44e6bdb2a13be3d3768e734ed7beb369f.jpg"],
 
 ["audiobook", ["Die drei ??? 118: Das düstere Vermächtnis"], "2004", [["2026 09 12", "2026 09 14"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Ben Nevis"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
@@ -3952,7 +3952,13 @@ var database = [
 
 ["film", ["Halloween"], "2018", [["2026 11 02", "2026 11 03"]], 4, ["ger"], ["horror", "drama", "crime"], [], ["Netflix"], ["David Gordon Green"], ["Jamie Lee Curtis", "Judy Greer", "Dylan Arnold", "Miles Robbins"], "https://64.media.tumblr.com/c0f010b9aedb78d99538052632d2a28f/c9ad0ef518991b28-99/s250x400/0e13a8f10dd913894b6f4b8d5ca0dbf02d4a00ca.jpg"],
 
-["film", ["Scream", "Scream - Schrei!"], "1996", ["2026 11 05"], 8, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Wes Craven"], ["Drew Barrymore", "Neve Campbell", "Skeet Ulrich", "Courteney Cox", "Matthew Lillard", "Liev Schreiber"], "https://64.media.tumblr.com/07e8fdef46c4e9fa13fc5010f43bab3d/d8f9c4dd6295d72f-3b/s250x400/937da21ae9768abe18825193504c2180fceabc8b.jpg"]
+["film", ["Scream", "Scream - Schrei!"], "1996", ["2026 11 05"], 8, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Wes Craven"], ["Drew Barrymore", "Neve Campbell", "Skeet Ulrich", "Courteney Cox", "Matthew Lillard", "Liev Schreiber"], "https://64.media.tumblr.com/07e8fdef46c4e9fa13fc5010f43bab3d/d8f9c4dd6295d72f-3b/s250x400/937da21ae9768abe18825193504c2180fceabc8b.jpg"],
+
+["film", ["Scream 2"], "1997", ["2026 11 05"], 6, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Wes Craven"], ["Jada Pinkett Smith", "Heather Graham", "Neve Campbell", "Liev Schreiber", "Sarah Michelle Gellar", "Timothy Olyphant", "Jerry O'Connell", "Courteney Cox", "Laurie Metcalf", "Tori Spelling", "Luke Wilson"], "https://64.media.tumblr.com/e357c6b982f84d96dd264b1087866403/91738fe90743dd91-8f/s250x400/21200cfb9d5388328d087d7620d2c007bd870f74.jpg"],
+
+["film", ["Scream 3"], "2000", ["2026 11 06"], 7, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Wes Craven"], ["Liev Schreiber", "Kelly Rutherford", "Neve Campbell", "Courteney Cox", "Patrick Dempsey", "Emily Mortimer"], "https://64.media.tumblr.com/124ab96b18804846b537c456c9c0d95e/73bba4279d34d81e-6e/s250x400/1b9c1a9d9484a62f42641347605ce75bb40e6069.jpg"],
+
+["film", ["Halloween Kills"], "2021", ["2026 11 08"], 7, ["ger"], ["horror", "action", "drama"], [], ["Netflix"], ["David Gordon Green"], ["Jamie Lee Curtis", "Judy Greer", "Dylan Arnold"], "https://64.media.tumblr.com/c613a47fd5ed3993908e11bb45bcaaae/519b30e1d9834115-ac/s250x400/0f198277c81c944a7a57b4e9214d83d2fbf500b6.jpg"]
 
 	/*
 ,
