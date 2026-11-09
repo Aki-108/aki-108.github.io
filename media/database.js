@@ -3944,6 +3944,8 @@ var database = [
 
 ["short", ["The Rat Catcher", "Der Rattenfänger"], "2023", ["2026 11 01"], 5, ["ger"], ["comedy"], ["syl"], ["Netflix"], ["Wes Anderson"], ["Richard Ayoade", "Ralph Fiennes", "Rupert Friend"], "https://64.media.tumblr.com/bd4c7b6ba4acf5f4ff925575e9ba067d/2e8259147daae3df-5e/s250x400/5e77e4ec99a63c8f0b9eeeb6c39f0ecc32f6ca3b.jpg"],
 
+["audiobook", ["Die drei ??? 133: Fels der Dämonen"], "2007", [["2026 11 01", "2026 11 04"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
+
 ["short", ["Poison", "Gift"], "2023", ["2026 11 02"], 4, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Wes Anderson"], ["Dev Patel", "Benedict Cumberbatch", "Ralph Fiennes", "Ben Kingsley"], "https://64.media.tumblr.com/b18204d74764d5136138b4209223eb3b/251b5868b7607791-74/s250x400/52ada0782da04a38469fc322f27ddf2883e6aa4a.jpg"],
 
 ["short", ["The Swan", "Der Schwan"], "2023", ["2026 11 02"], 5, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Wes Anderson"], ["Rupert Friend", "Ralph Fiennes"], "https://64.media.tumblr.com/40a491afc67e7b8ad16293fadef9251d/f5a5f0a241cd69e0-2f/s250x400/0444d67dae2c17d1b089e60cd2cbee8225a231ee.jpg"],
@@ -3951,6 +3953,8 @@ var database = [
 ["film", ["The Fundamentals of Caring", "Umweg nach Hause"], "2016", ["2026 11 02"], 6, ["ger"], ["comedy", "drama"], [], ["Netflix"], ["Rob Burnett"], ["Paul Rudd", "Craig Roberts"], "https://64.media.tumblr.com/a585af43e9633a70b9d0fba54c900f5e/a8c6079e33f4c190-6a/s250x400/f9900800890e5427cf3a5959ddf1c379516e0e62.jpg"],
 
 ["film", ["Halloween"], "2018", [["2026 11 02", "2026 11 03"]], 4, ["ger"], ["horror", "drama", "crime"], [], ["Netflix"], ["David Gordon Green"], ["Jamie Lee Curtis", "Judy Greer", "Dylan Arnold", "Miles Robbins"], "https://64.media.tumblr.com/c0f010b9aedb78d99538052632d2a28f/c9ad0ef518991b28-99/s250x400/0e13a8f10dd913894b6f4b8d5ca0dbf02d4a00ca.jpg"],
+
+["audiobook", ["Die drei ??? 134: Der tote Mönch"], "2007", ["2026 11 04"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["film", ["Scream", "Scream - Schrei!"], "1996", ["2026 11 05"], 8, ["ger"], ["horror", "mystery"], [], ["Netflix"], ["Wes Craven"], ["Drew Barrymore", "Neve Campbell", "Skeet Ulrich", "Courteney Cox", "Matthew Lillard", "Liev Schreiber"], "https://64.media.tumblr.com/07e8fdef46c4e9fa13fc5010f43bab3d/d8f9c4dd6295d72f-3b/s250x400/937da21ae9768abe18825193504c2180fceabc8b.jpg"],
 
