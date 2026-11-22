@@ -2133,7 +2133,7 @@ var database = [
 
 ["series", ["Fire Force"], ["2019", ""], [["2022 02 13", "S1E3-S1E4"]], 0, ["ger"], ["anime", "action"], ["jani", "jessie", "nico"], ["dropped", "ongoing"], ["Yamato Haishima", "Yoriko Tomita", "Atsushi Ohkubo"], [], "https://64.media.tumblr.com/a491166ffc9fef47f86098d989deac22/b1fd1dd7a4b88415-54/s250x400/ba3ca3af3804e84b218aff257b63006a137f401a.jpg"],
 
-["series", ["Demon Slayer: Kimetsu no Yaiba"], ["2019", ""], [["2022 02 13", "S2E18"]], 0, ["jap"], ["anime", "action"], ["jani", "jessie", "nico"], ["dropped", "ongoing"], ["Koyoharu Gotouge", "Koyoharu Gotouge", "Ufotable"], [], "https://64.media.tumblr.com/35ddf0a336e90bc389a72bb97b188305/3b291dc14324f8d2-09/s250x400/91b48afcf78bd486cab3dbcbe945bdd278de271a.jpg"],
+["series", ["Demon Slayer", "Demon Slayer", "Kimetsu no Yaiba"], ["2019", "2024"], [["2022 02 13", "S2E18"], ["2026 09 21", "2026 10 05", "S1"], ["2026 10 12", "2026 10 14", "Mugen Train Arc"], ["2026 10 14", "2026 11 02", "Entertainment District Arc"], ["2026 11 02", "2026 11 09", "Swordsmith Village Arc"]], 4, ["jap", "ger"], ["anime", "action"], ["jani", "jessie", "nico", "bini"], [], ["Koyoharu Gotouge", "Koyoharu Gotouge", "Ufotable"], [], "https://64.media.tumblr.com/35ddf0a336e90bc389a72bb97b188305/3b291dc14324f8d2-09/s250x400/91b48afcf78bd486cab3dbcbe945bdd278de271a.jpg"],
 
 ["audiobook", ["Ozma of Oz", "Ozma von Oz"], "1907", [["2022 02 14", "2022 02 17"]], 5, ["eng"], ["fantasy"], [], ["Oz", "LibriVox"], ["L. Frank Baum"], ["Paul Harvey", "staticstasy", "David Lawrence", "Kara Shallenberg", "Miriam Esther Goldman", "TriciaG", "rymd80", "Mark F. Smith", "Elizabeth Klett", "Christian Brock", "Raegan Payne", "TriciaG", "David O'Connell", "staticstasy", "Denny Sayers", "Padraig O'hIceadha", "Matt L Speer", "Barry Eads", "Henry Frigon", "Caroline Shapiro", "Beverly Scott"], "https://64.media.tumblr.com/73024276451256c41b93290373223aa7/b8479253ee4696ac-09/s250x400/48876ed60a465f322a86a4751d7a5a9a06e08d89.jpg"],
 
@@ -3894,8 +3894,6 @@ var database = [
 
 ["audiobook", ["Die drei ??? 120: Der schwarze Skorpion"], "2004", [["2026 09 20", "2026 09 22"]], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Marco Sonnleitner"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
-["series", ["Demon Slayer", "Demon Slayer", "Kimetsu no Yaiba"], "2019", [["2026 09 21", "2026 10 05", "S1"], ["2026 10 12", "2026 10 14", "Mugen Train Arc"], ["2026 10 14", "", "Entertainment District Arc"]], 4, ["ger"], ["anime", "action", "supernatural"], ["bini", "nico"], ["watching"], ["Koyoharu Gotouge"], [], "https://64.media.tumblr.com/d87e348e435d32157d3442ebedbe9d79/498be1ca6e593c0e-d7/s250x400/331e37d849d1be3f886ad1e39b23455022c3246c.jpg"],
-
 ["audiobook", ["Die drei ??? 121: Spur ins Nichts"], "2005", ["", "2026 09 23"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["André Marx"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
 
 ["audiobook", ["Die drei ??? 122: und der Geisterzug"], "2005", ["", "2026 09 23"], 0, ["ger"], ["crime"], [], ["YouTube", "Die drei ???"], ["Astrid Vollenbruch"], ["Oliver Rohrbeck", "Jens Wawrczeck", "Andreas Fröhlich"], "image"],
@@ -3972,7 +3970,9 @@ var database = [
 
 ["film", ["How to Make a Killing", "How to Make a Killing: Todsicheres Erbe"], "2026", ["2026 11 14"], 7, ["ger"], ["comedy", "drama", "thriller"], [], ["Netflix"], ["John Patton Ford"], ["Glen Powell", "Ed Harris", "Margaret Qualley", "Jessica Henwick"], "https://64.media.tumblr.com/58b4a5b9c5959c96bcc649c264cb82fe/9ad49f0328b0f2ce-12/s250x400/0385d2e8ddbdcb22547c4c53496e9b00de99735c.jpg"],
 
-["film", ["The Glass Castle", "Schloss aus Glas"], "2017", ["2026 11 15"], 7, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Destin Daniel Cretton"], ["Brie Larson", "Woody Harrelson", "Max Greenfield", "Josh Caras", "Charlie Shotwell", "Sarah Snook", "Sadie Sink", "Jack Haven", "Shree Crooks", "Robin Bartlett"], "https://64.media.tumblr.com/6addf5707590f8883fd6f5779a0659c2/9f8f5d40f9550f3c-76/s250x400/d46bc9e7e27c41a908eab277342e73d648036f54.jpg"]
+["film", ["The Glass Castle", "Schloss aus Glas"], "2017", ["2026 11 15"], 7, ["ger"], ["biography", "drama"], [], ["Netflix"], ["Destin Daniel Cretton"], ["Brie Larson", "Woody Harrelson", "Max Greenfield", "Josh Caras", "Charlie Shotwell", "Sarah Snook", "Sadie Sink", "Jack Haven", "Shree Crooks", "Robin Bartlett"], "https://64.media.tumblr.com/6addf5707590f8883fd6f5779a0659c2/9f8f5d40f9550f3c-76/s250x400/d46bc9e7e27c41a908eab277342e73d648036f54.jpg"],
+
+["film", ["Demon Slayer - The Movie: Infinity Castle", "Demon Slayer - The Movie: Infinity Castle", "Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai"], "2025", ["2026 11 18"], 4, ["ger"], ["anime", "action", "adventure"], ["bini", "nico"], [], ["Hikaru Kondô", "Haruo Sotozaki"], [], "https://64.media.tumblr.com/1ad44179296cfa02245f0f193c157084/147c2ce2d1a3452d-0f/s250x400/cbb991a05dff370a57ea52e8fb00dc36f486c6be.jpg"]
 
 	/*
 ,
